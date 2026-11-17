@@ -1,0 +1,218 @@
+{
+ "src": "https://www.bento.travel/mexico",
+ "fetched": "2026-11-17",
+ "updated": "August 2026",
+ "note": "Uber und DiDi dürfen an Flughäfen oft nicht abholen, dort offizielle Taxis nutzen und Pesos bar dabeihaben.",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Fahrdienst in vielen Städten und Urlaubsorten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/mexico/ride-hailing"
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "ess": false,
+   "note": "Fahrdienst mit Taxi, Moto und Preisvorschlag",
+   "city": "",
+   "use": "limited",
+   "req": "Handynummer mit SMS-Empfang nötig, lokale Nummer bevorzugt",
+   "src": "https://www.bento.travel/mexico/ride-hailing"
+  },
+  {
+   "name": "Rappi",
+   "cat": "delivery",
+   "pkg": "com.grability.rappi",
+   "ess": false,
+   "note": "Essen, Einkäufe und Apotheke liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten scheitern teils an der Prüfung",
+   "src": "https://www.bento.travel/mexico/food-delivery"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": false,
+   "note": "Essens- und Einkaufslieferung, nutzt Uber-Konto",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/mexico/food-delivery"
+  },
+  {
+   "name": "DiDi Food",
+   "cat": "delivery",
+   "pkg": "com.xiaojukeji.didi.global.customer",
+   "ess": false,
+   "note": "Lieferdienst für Restaurants mit Aktionen",
+   "city": "",
+   "use": "limited",
+   "req": "Handynummer mit SMS-Empfang nötig",
+   "src": "https://www.bento.travel/mexico/food-delivery"
+  },
+  {
+   "name": "ADO",
+   "cat": "rail",
+   "pkg": "com.mobilityado.ado",
+   "ess": false,
+   "note": "Offizielle Tickets für Fernbusse, vor allem im Süden",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten teils abgelehnt, dann Website oder Schalter",
+   "src": "https://www.bento.travel/mexico/transit"
+  },
+  {
+   "name": "Ángeles Verdes",
+   "cat": "safety",
+   "pkg": "com.angeles.verdes.app",
+   "ess": false,
+   "note": "Staatliche Pannenhilfe und Infos für Autofahrer",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/mexico/transit"
+  },
+  {
+   "name": "Mercado Pago",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Bezahl-App für Händler und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Verifizierung und lokale Einzahlung nötig, für Einwohner gedacht",
+   "src": "https://www.bento.travel/mexico/payments"
+  },
+  {
+   "name": "Spin by OXXO",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Bezahl-App der Kette OXXO",
+   "city": "",
+   "use": "no",
+   "req": "Verifizierung und lokale Einzahlung nötig, für Einwohner gedacht",
+   "src": "https://www.bento.travel/mexico/payments"
+  },
+  {
+   "name": "Wise",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Konto und Karte für günstiges Bezahlen in Pesos",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/mexico/payments"
+  },
+  {
+   "name": "México Invita",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizieller Reiseführer mit Routen und Notruf",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cronica.com.mx/nacional/2026/11/03/sectur-y-atdt-impulsan-el-turismo-con-la-nueva-app-mexico-invita/"
+  },
+  {
+   "name": "Drivana",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Privatautos mieten, teils mit Lieferung",
+   "city": "",
+   "use": "limited",
+   "req": "Prüfung von Ausweis, Führerschein und Einkommen in der App",
+   "src": "https://apps.apple.com/mx/app/drivana/id6502799127"
+  },
+  {
+   "name": "Go City",
+   "cat": "tourism",
+   "pkg": "com.gocitypass",
+   "ess": false,
+   "note": "Stadtpass, in Cancún nicht mehr erhältlich",
+   "city": "",
+   "use": "no",
+   "req": "In Mexiko eingestellt, alte Pässe bis 3.1.2027 gültig",
+   "src": "https://gocity.com/cancun/es-us/attractions/xcaret-park-admission-cancun-scenic-tower"
+  },
+  {
+   "name": "McDonald's",
+   "cat": "delivery",
+   "pkg": "com.mcdo.mcdonalds",
+   "ess": false,
+   "note": "Bestellen, Lieferung und Angebote",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/MX/app/id1114009187"
+  },
+  {
+   "name": "App CDMX",
+   "cat": "transit",
+   "pkg": "mx.gob.cdmx.adip.apps",
+   "ess": false,
+   "note": "Offizielle Stadt-App mit Routen und Störungen",
+   "city": "Mexico City",
+   "use": "limited",
+   "req": "Mobile Kartenfunktionen teils nur lokal, MI-Karte mitnehmen",
+   "src": "https://www.bento.travel/mexico/transit"
+  },
+  {
+   "name": "ECOBICI",
+   "cat": "micro",
+   "pkg": "com.lyft.android.mexicocityapp",
+   "ess": false,
+   "note": "Öffentliche Leihräder mit Tagespässen",
+   "city": "Mexico City",
+   "use": "ok",
+   "req": "",
+   "src": "https://mexicocity.cdmx.gob.mx/e/getting-around/ecobici/"
+  },
+  {
+   "name": "MiBici",
+   "cat": "micro",
+   "pkg": "com.lyft.android.guadalajaraapp",
+   "ess": false,
+   "note": "Öffentliche Leihräder mit 1 bis 7 Tage Pässen",
+   "city": "Guadalajara",
+   "use": "limited",
+   "req": "Nur Kreditkarte, 2.500 MXN Kaution werden geblockt",
+   "src": "https://mibici.net/en/about-mibici"
+  },
+  {
+   "name": "XCARET!",
+   "cat": "tourism",
+   "pkg": "com.xcaret.xcaret_parques",
+   "ess": false,
+   "note": "Tickets, Karten und Infos zu den Xcaret Parks",
+   "city": "Cancun",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mx/app/xcaret/id1165654955?l=en-GB"
+  },
+  {
+   "name": "Pasaporte Nuevo León",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche Tourismus-App mit Routen und Events",
+   "city": "Monterrey",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.nl.gob.mx/es/boletines/lanzan-samuel-y-mariana-pasaporte-nuevo-leon-rumbo-al-mundial-2026"
+  }
+ ]
+}

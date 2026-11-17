@@ -1,211 +1,212 @@
 {
-"continent": "NA",
-"todo": [
-{
-"code": "US",
-"en": "United States",
-"slug": "united-states"
-},
-{
-"code": "CA",
-"en": "Canada",
-"slug": "canada"
-},
-{
-"code": "MX",
-"en": "Mexico",
-"slug": "mexico"
-},
-{
-"code": "CR",
-"en": "Costa Rica",
-"slug": "costa-rica"
-},
-{
-"code": "CU",
-"en": "Cuba",
-"slug": "cuba"
-},
-{
-"code": "DO",
-"en": "Dominican Republic",
-"slug": "dominican-republic"
-},
-{
-"code": "AI",
-"en": "Anguilla",
-"slug": "anguilla"
-},
-{
-"code": "AG",
-"en": "Antigua and Barbuda",
-"slug": "antigua-and-barbuda"
-},
-{
-"code": "AW",
-"en": "Aruba",
-"slug": "aruba"
-},
-{
-"code": "BS",
-"en": "Bahamas",
-"slug": "bahamas"
-},
-{
-"code": "BB",
-"en": "Barbados",
-"slug": "barbados"
-},
-{
-"code": "BZ",
-"en": "Belize",
-"slug": "belize"
-},
-{
-"code": "BM",
-"en": "Bermuda",
-"slug": "bermuda"
-},
-{
-"code": "BQ",
-"en": "Bonaire, Sint Eustatius and Saba",
-"slug": "bonaire-sint-eustatius-and-saba"
-},
-{
-"code": "KY",
-"en": "Cayman Islands",
-"slug": "cayman-islands"
-},
-{
-"code": "CW",
-"en": "Curaçao",
-"slug": "cura-ao"
-},
-{
-"code": "DM",
-"en": "Dominica",
-"slug": "dominica"
-},
-{
-"code": "SV",
-"en": "El Salvador",
-"slug": "el-salvador"
-},
-{
-"code": "GL",
-"en": "Greenland",
-"slug": "greenland"
-},
-{
-"code": "GD",
-"en": "Grenada",
-"slug": "grenada"
-},
-{
-"code": "GP",
-"en": "Guadeloupe",
-"slug": "guadeloupe"
-},
-{
-"code": "GT",
-"en": "Guatemala",
-"slug": "guatemala"
-},
-{
-"code": "HT",
-"en": "Haiti",
-"slug": "haiti"
-},
-{
-"code": "HN",
-"en": "Honduras",
-"slug": "honduras"
-},
-{
-"code": "JM",
-"en": "Jamaica",
-"slug": "jamaica"
-},
-{
-"code": "MQ",
-"en": "Martinique",
-"slug": "martinique"
-},
-{
-"code": "MS",
-"en": "Montserrat",
-"slug": "montserrat"
-},
-{
-"code": "NI",
-"en": "Nicaragua",
-"slug": "nicaragua"
-},
-{
-"code": "PA",
-"en": "Panama",
-"slug": "panama"
-},
-{
-"code": "PR",
-"en": "Puerto Rico",
-"slug": "puerto-rico"
-},
-{
-"code": "BL",
-"en": "Saint Barthélemy",
-"slug": "saint-barth-lemy"
-},
-{
-"code": "KN",
-"en": "Saint Kitts and Nevis",
-"slug": "saint-kitts-and-nevis"
-},
-{
-"code": "LC",
-"en": "Saint Lucia",
-"slug": "saint-lucia"
-},
-{
-"code": "MF",
-"en": "Saint Martin (French part)",
-"slug": "saint-martin-french-part"
-},
-{
-"code": "PM",
-"en": "Saint Pierre and Miquelon",
-"slug": "saint-pierre-and-miquelon"
-},
-{
-"code": "VC",
-"en": "Saint Vincent and the Grenadines",
-"slug": "saint-vincent-and-the-grenadines"
-},
-{
-"code": "SX",
-"en": "Sint Maarten (Dutch part)",
-"slug": "sint-maarten-dutch-part"
-},
-{
-"code": "TT",
-"en": "Trinidad and Tobago",
-"slug": "trinidad-and-tobago"
-},
-{
-"code": "TC",
-"en": "Turks and Caicos Islands",
-"slug": "turks-and-caicos-islands"
-},
-{
-"code": "VG",
-"en": "Virgin Islands, British",
-"slug": "virgin-islands-british"
-},
-{
-"code": "VI",
-"en": "Virgin Islands, U.S.",
-"slug": "virgin-islands-u-s"
-}
-],
-"done": []
+ "continent": "NA",
+ "todo": [
+  {
+   "code": "CU",
+   "en": "Cuba",
+   "slug": "cuba"
+  },
+  {
+   "code": "DO",
+   "en": "Dominican Republic",
+   "slug": "dominican-republic"
+  },
+  {
+   "code": "AI",
+   "en": "Anguilla",
+   "slug": "anguilla"
+  },
+  {
+   "code": "AG",
+   "en": "Antigua and Barbuda",
+   "slug": "antigua-and-barbuda"
+  },
+  {
+   "code": "AW",
+   "en": "Aruba",
+   "slug": "aruba"
+  },
+  {
+   "code": "BS",
+   "en": "Bahamas",
+   "slug": "bahamas"
+  },
+  {
+   "code": "BB",
+   "en": "Barbados",
+   "slug": "barbados"
+  },
+  {
+   "code": "BZ",
+   "en": "Belize",
+   "slug": "belize"
+  },
+  {
+   "code": "BM",
+   "en": "Bermuda",
+   "slug": "bermuda"
+  },
+  {
+   "code": "BQ",
+   "en": "Bonaire, Sint Eustatius and Saba",
+   "slug": "bonaire-sint-eustatius-and-saba"
+  },
+  {
+   "code": "KY",
+   "en": "Cayman Islands",
+   "slug": "cayman-islands"
+  },
+  {
+   "code": "CW",
+   "en": "Curaçao",
+   "slug": "cura-ao"
+  },
+  {
+   "code": "DM",
+   "en": "Dominica",
+   "slug": "dominica"
+  },
+  {
+   "code": "SV",
+   "en": "El Salvador",
+   "slug": "el-salvador"
+  },
+  {
+   "code": "GL",
+   "en": "Greenland",
+   "slug": "greenland"
+  },
+  {
+   "code": "GD",
+   "en": "Grenada",
+   "slug": "grenada"
+  },
+  {
+   "code": "GP",
+   "en": "Guadeloupe",
+   "slug": "guadeloupe"
+  },
+  {
+   "code": "GT",
+   "en": "Guatemala",
+   "slug": "guatemala"
+  },
+  {
+   "code": "HT",
+   "en": "Haiti",
+   "slug": "haiti"
+  },
+  {
+   "code": "HN",
+   "en": "Honduras",
+   "slug": "honduras"
+  },
+  {
+   "code": "JM",
+   "en": "Jamaica",
+   "slug": "jamaica"
+  },
+  {
+   "code": "MQ",
+   "en": "Martinique",
+   "slug": "martinique"
+  },
+  {
+   "code": "MS",
+   "en": "Montserrat",
+   "slug": "montserrat"
+  },
+  {
+   "code": "NI",
+   "en": "Nicaragua",
+   "slug": "nicaragua"
+  },
+  {
+   "code": "PA",
+   "en": "Panama",
+   "slug": "panama"
+  },
+  {
+   "code": "PR",
+   "en": "Puerto Rico",
+   "slug": "puerto-rico"
+  },
+  {
+   "code": "BL",
+   "en": "Saint Barthélemy",
+   "slug": "saint-barth-lemy"
+  },
+  {
+   "code": "KN",
+   "en": "Saint Kitts and Nevis",
+   "slug": "saint-kitts-and-nevis"
+  },
+  {
+   "code": "LC",
+   "en": "Saint Lucia",
+   "slug": "saint-lucia"
+  },
+  {
+   "code": "MF",
+   "en": "Saint Martin (French part)",
+   "slug": "saint-martin-french-part"
+  },
+  {
+   "code": "PM",
+   "en": "Saint Pierre and Miquelon",
+   "slug": "saint-pierre-and-miquelon"
+  },
+  {
+   "code": "VC",
+   "en": "Saint Vincent and the Grenadines",
+   "slug": "saint-vincent-and-the-grenadines"
+  },
+  {
+   "code": "SX",
+   "en": "Sint Maarten (Dutch part)",
+   "slug": "sint-maarten-dutch-part"
+  },
+  {
+   "code": "TT",
+   "en": "Trinidad and Tobago",
+   "slug": "trinidad-and-tobago"
+  },
+  {
+   "code": "TC",
+   "en": "Turks and Caicos Islands",
+   "slug": "turks-and-caicos-islands"
+  },
+  {
+   "code": "VG",
+   "en": "Virgin Islands, British",
+   "slug": "virgin-islands-british"
+  },
+  {
+   "code": "VI",
+   "en": "Virgin Islands, U.S.",
+   "slug": "virgin-islands-u-s"
+  }
+ ],
+ "done": [
+  {
+   "code": "US",
+   "en": "United States",
+   "slug": "united-states"
+  },
+  {
+   "code": "CA",
+   "en": "Canada",
+   "slug": "canada"
+  },
+  {
+   "code": "MX",
+   "en": "Mexico",
+   "slug": "mexico"
+  },
+  {
+   "code": "CR",
+   "en": "Costa Rica",
+   "slug": "costa-rica"
+  }
+ ]
 }
