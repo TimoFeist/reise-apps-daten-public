@@ -94,109 +94,238 @@
      "name": "Google Maps",
      "cat": "maps",
      "pkg": "com.google.android.apps.maps",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Rome2Rio",
      "cat": "maps",
      "pkg": "com.rome2rio.www.rome2rio",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "mine": true
+     "mine": true,
+     "countries": [
+      "AE",
+      "AR",
+      "AT",
+      "AU",
+      "BB",
+      "BD",
+      "BE",
+      "BH",
+      "BO",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CO",
+      "CR",
+      "CZ",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "EE",
+      "EG",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GH",
+      "GR",
+      "GT",
+      "HK",
+      "HR",
+      "HU",
+      "IE",
+      "IN",
+      "IT",
+      "JM",
+      "JO",
+      "JP",
+      "KE",
+      "KR",
+      "LK",
+      "LT",
+      "MA",
+      "MO",
+      "MT",
+      "MX",
+      "NG",
+      "NL",
+      "NO",
+      "NP",
+      "NZ",
+      "PA",
+      "PE",
+      "PL",
+      "PR",
+      "PT",
+      "PY",
+      "QA",
+      "RO",
+      "SA",
+      "SE",
+      "SI",
+      "SK",
+      "TR",
+      "TW",
+      "UA",
+      "US",
+      "UY",
+      "ZA"
+     ],
+     "src": "https://www.bento.travel/apps/uber"
     },
     {
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "mine": true
+     "mine": true,
+     "countries": [
+      "AE",
+      "AT",
+      "BE",
+      "CH",
+      "CZ",
+      "DK",
+      "EE",
+      "FI",
+      "FR",
+      "GB",
+      "GE",
+      "GH",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "KE",
+      "LT",
+      "LV",
+      "MA",
+      "MT",
+      "MY",
+      "NG",
+      "NL",
+      "NO",
+      "NZ",
+      "PL",
+      "PT",
+      "PY",
+      "RO",
+      "SA",
+      "SE",
+      "SK",
+      "TH",
+      "TW",
+      "TZ",
+      "UA",
+      "ZA"
+     ],
+     "src": "https://www.bento.travel/apps/bolt"
     },
     {
      "name": "Booking.com",
      "cat": "hotels",
      "pkg": "com.booking",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Airbnb",
      "cat": "hotels",
      "pkg": "com.airbnb.android",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "GetYourGuide",
      "cat": "tourism",
      "pkg": "com.getyourguide.android",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Klook",
      "cat": "tourism",
      "pkg": "com.klook",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Tiqets",
      "cat": "tourism",
      "pkg": "com.tiqets.tiqetsapp",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Viator",
      "cat": "tourism",
      "pkg": "com.viator.mobile.android",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Flightradar24",
      "cat": "flights",
      "pkg": "com.flightradar24free",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "TripIt",
      "cat": "flights",
      "pkg": "com.tripit",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Kiwi.com",
      "cat": "flights",
      "pkg": "com.skypicker.main",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Revolut",
      "cat": "payment",
      "pkg": "com.revolut.revolut",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Lufthansa",
      "cat": "flights",
      "pkg": "com.lufthansa.android.lufthansa",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Miles & More",
      "cat": "flights",
      "pkg": "com.plannet.milesandmoreapp",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Priority Pass",
      "cat": "flights",
      "pkg": "com.prioritypass3",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Star Alliance",
      "cat": "flights",
      "pkg": "com.staralliance.navigator",
-     "mine": true
+     "mine": true,
+     "where": "all"
     },
     {
      "name": "Lime",

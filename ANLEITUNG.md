@@ -24,6 +24,14 @@ Diese Datei beschreibt, wie neue Länder in `data.json` kommen. Sie ist für die
 10. In `raw/<ISO>.json` `"fetched": "<heutiges Datum>"` setzen. Apps, die laut Quelle eingestellt wurden, in `"discontinued": [{"name": "", "pkg": "", "src": ""}]` eintragen; `merge_raw.py` entfernt sie (eigene Apps werden nur markiert).
 11. Land in `queue.json` von `todo` nach `done` verschieben.
 
+## Weltweite Apps (Land „WW“)
+
+Apps unter `WW` erscheinen in der App zusätzlich bei jedem Land, in dem sie funktionieren:
+* `"where": "all"`: überall nutzbar (Buchung, Flüge, Touren, Karten, Revolut usw.).
+* `"countries": ["DE", ...]`: nur in diesen Ländern, mit `src` als Beleg (z. B. Länderliste des Anbieters oder bento.travel/apps/<app>).
+* Ohne beides wird die App nur angezeigt, wo die Länderdaten sie selbst enthalten.
+Im Pflege-Modus pro Lauf eine weltweite App ohne Länderliste (z. B. Lime, Voi, Wolt, Uber Eats, FlixBus, Omio, EasyPark) anhand der offiziellen Standortseite des Anbieters mit `countries` und `src` ergänzen.
+
 ## Pflege-Modus (wenn `todo` leer ist)
 
 Jedes Land in `data.json` hat ein Feld `checked` (Datum der letzten Prüfung). Im Pflege-Modus die Länder mit dem ältesten oder fehlenden `checked` nehmen und genau wie oben neu abrufen (Schritte 2 bis 10). Die alte `raw/<ISO>.json` wird dabei ersetzt. So ist jedes Land etwa einmal im Monat dran.
