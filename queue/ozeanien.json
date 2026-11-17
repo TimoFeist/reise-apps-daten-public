@@ -2,26 +2,6 @@
 "continent": "OC",
 "todo": [
 {
-"code": "AU",
-"en": "Australia",
-"slug": "australia"
-},
-{
-"code": "NZ",
-"en": "New Zealand",
-"slug": "new-zealand"
-},
-{
-"code": "AS",
-"en": "American Samoa",
-"slug": "american-samoa"
-},
-{
-"code": "AQ",
-"en": "Antarctica",
-"slug": "antarctica"
-},
-{
 "code": "CK",
 "en": "Cook Islands",
 "slug": "cook-islands"
@@ -142,5 +122,26 @@
 "slug": "wallis-and-futuna"
 }
 ],
-"done": []
+"done": [
+{
+"code": "AU",
+"en": "Australia",
+"slug": "australia"
+},
+{
+"code": "NZ",
+"en": "New Zealand",
+"slug": "new-zealand"
+},
+{
+"code": "AS",
+"en": "American Samoa",
+"slug": "american-samoa"
+},
+{
+"code": "AQ",
+"en": "Antarctica",
+"slug": "antarctica"
+}
+]
 }
