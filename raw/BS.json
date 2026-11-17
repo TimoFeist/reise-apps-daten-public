@@ -1,0 +1,99 @@
+{
+ "src": "https://www.bento.travel/bahamas",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Zwei Karten verschiedener Banken und kleine US-Dollar-Scheine mitnehmen, auf kleinen Inseln und in Jitneys klappt Karte oft nicht.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1991 legal, es gibt aber keinen Diskriminierungsschutz und keine Anerkennung von Partnerschaften, gesellschaftlich bestehen deutliche Vorbehalte.",
+ "lgbtq_src": "https://outrightinternational.org/our-work/americas/bahamas",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "HOP Bahamas",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrten mit Festpreis vorbuchen, Kartenzahlung",
+   "city": "Nassau",
+   "use": "limited",
+   "req": "Nur iPhone und Web, keine geprüfte Android-App",
+   "src": "https://www.bento.travel/bahamas/ride-hailing"
+  },
+  {
+   "name": "Aqua Rides Passenger",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Fahrdienst-App mit Taxis und Flughafentransfers",
+   "city": "",
+   "use": "limited",
+   "req": "Nur für iPhone gelistet",
+   "src": "https://apps.apple.com/us/app/id6745246094"
+  },
+  {
+   "name": "KRAVEN",
+   "cat": "delivery",
+   "pkg": "com.kraven",
+   "ess": false,
+   "note": "Essen, Einkäufe und Getränke liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "Nur New Providence, Freeport und Exuma, Resorts teils gesperrt",
+   "src": "https://www.bento.travel/bahamas/food-delivery"
+  },
+  {
+   "name": "Bahama Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst für Restaurants, Lebensmittel und Läden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/au/app/bahama-eats/id1470039780"
+  },
+  {
+   "name": "Caribo Bahamas",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos und Boote direkt bei Vermietern buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein nötig, Bedingungen je Vermieter",
+   "src": "https://apps.apple.com/app/id6742114934"
+  },
+  {
+   "name": "The Islands Of The Bahamas",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Reiseplanungs-App des Tourismusministeriums",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tourismtoday.com/news-category/islands-bahamas-mobile-app"
+  },
+  {
+   "name": "Bahamasair",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Inlandsflüge zwischen den Inseln buchen und einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/bahamasair/id1530393151?l=es-MX"
+  },
+  {
+   "name": "Sand Dollar",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Digitale Zentralbankwährung der Bahamas",
+   "city": "",
+   "use": "no",
+   "req": "Nur im Inland, Wallet eines lokalen Instituts nötig",
+   "src": "https://www.bento.travel/bahamas/payments"
+  }
+ ]
+}

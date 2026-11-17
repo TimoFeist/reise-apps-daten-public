@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "AW",
-   "en": "Aruba",
-   "slug": "aruba"
-  },
-  {
-   "code": "BS",
-   "en": "Bahamas",
-   "slug": "bahamas"
-  },
-  {
-   "code": "BB",
-   "en": "Barbados",
-   "slug": "barbados"
-  },
-  {
-   "code": "BZ",
-   "en": "Belize",
-   "slug": "belize"
-  },
-  {
    "code": "BM",
    "en": "Bermuda",
    "slug": "bermuda"
@@ -207,6 +187,26 @@
    "code": "AG",
    "en": "Antigua and Barbuda",
    "slug": "antigua-and-barbuda"
+  },
+  {
+   "code": "AW",
+   "en": "Aruba",
+   "slug": "aruba"
+  },
+  {
+   "code": "BS",
+   "en": "Bahamas",
+   "slug": "bahamas"
+  },
+  {
+   "code": "BB",
+   "en": "Barbados",
+   "slug": "barbados"
+  },
+  {
+   "code": "BZ",
+   "en": "Belize",
+   "slug": "belize"
   }
  ]
 }

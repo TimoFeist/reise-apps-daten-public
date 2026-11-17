@@ -1,0 +1,88 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Vor der Reise die digitale ED-Karte ausfüllen, Einreise nur mit Reisepass, nicht mit Personalausweis.",
+ "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Aruba ED-Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Einreisekarte als Webformular, 7 Tage vorher",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.aruba.com/us/plan-your-visit/getting-to-aruba/online-ed-card"
+  },
+  {
+   "name": "Aruba Taxi App",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Lizenzierte Taxis buchen, offizieller Tarif plus 4 USD",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Name, E-Mail und Telefonnummer, ab 18 Jahren",
+   "src": "https://apps.apple.com/us/app/id1542452164"
+  },
+  {
+   "name": "Aruba To You",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von Restaurants der Insel, nur bargeldlos",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id6450213151"
+  },
+  {
+   "name": "Vapvap Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen und Einkäufe liefern lassen oder abholen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto beim Bezahlen nötig, Anmeldung auch mit Google oder Apple",
+   "src": "https://apps.apple.com/pg/app/vapvap-eats/id6737782070"
+  },
+  {
+   "name": "Ride Green Bike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Fahrzeuge per QR-Code entsperren, auch Tagespass",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung in der App nötig",
+   "src": "https://apps.apple.com/us/app/id6446088799"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen auch am Flughafen per App buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 23 Jahren, Führerschein seit 5 Jahren, Kreditkarte nötig",
+   "src": "https://sixt.com/car-rental/aruba"
+  },
+  {
+   "name": "myAruba",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Reiseplanungs-App der Tourismusbehörde",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/myaruba/id1616045046"
+  }
+ ]
+}

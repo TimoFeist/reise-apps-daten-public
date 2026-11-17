@@ -1,0 +1,110 @@
+{
+ "src": "https://www.bento.travel/es/barbados",
+ "fetched": "2026-11-17",
+ "updated": "August 2026",
+ "note": "Nur lizenzierte Taxis nutzen, passendes Kleingeld in BBD für den Bus bereithalten, einsame Strände nachts meiden.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen stehen noch im Gesetz, der Oberste Gerichtshof erklärte die Strafnormen 2022 aber für verfassungswidrig; in der Öffentlichkeit ist Zurückhaltung geboten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/barbados-node/barbadossicherheit-226424",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Lizenzierte Taxis rufen, Preis vorab sehen",
+   "city": "",
+   "use": "limited",
+   "req": "Karte erst nach Ankunft hinzufügbar",
+   "src": "https://www.bento.travel/barbados/ride-hailing"
+  },
+  {
+   "name": "pickUP Barbados",
+   "cat": "taxi",
+   "pkg": "production.pickupbarbodas.customer",
+   "ess": false,
+   "note": "Lokale Taxi-App mit über 400 lizenzierten Taxis",
+   "city": "",
+   "use": "limited",
+   "req": "Login per SMS oder WhatsApp, Karte erst nach Ankunft",
+   "src": "https://www.bento.travel/barbados/ride-hailing"
+  },
+  {
+   "name": "Bimride",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Fahrdienst-App, Zahlung bar oder per Karte",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung mit Telefonnummer",
+   "src": "https://apps.apple.com/us/app/bimride/id6499478384"
+  },
+  {
+   "name": "Chefette",
+   "cat": "delivery",
+   "pkg": "com.chefette.app",
+   "ess": false,
+   "note": "Lokale Fastfood-Kette, Abholung und Lieferung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/es/barbados"
+  },
+  {
+   "name": "foodDROP",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von Restaurants, auch in Barbados",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung per SMS-Code",
+   "src": "https://apps.apple.com/app/id1478415342"
+  },
+  {
+   "name": "Transitbb",
+   "cat": "transit",
+   "pkg": "com.app.transitbb",
+   "ess": false,
+   "note": "Offizielle App der Transport Board für Busrouten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://transportboard.com/contact-us/faq"
+  },
+  {
+   "name": "Pearly",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busse der Transport Board live und Verkehrslage",
+   "city": "",
+   "use": "limited",
+   "req": "Für Einwohner gedacht, Nutzung durch Besucher unklar",
+   "src": "https://barbadostoday.bb/2026/06/09/pearly-app-aims-to-improve-access-to-public-services-buses/"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen und in Bridgetown",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 25, zusätzlich lokaler Urlaubsführerschein",
+   "src": "https://www.sixt.com.sa/car-rental/barbados/"
+  },
+  {
+   "name": "Liat Air",
+   "cat": "flights",
+   "pkg": "com.hititcs.liat20",
+   "ess": false,
+   "note": "Offizielle App für Liat-Flüge in der Karibik",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/es/barbados"
+  }
+ ]
+}
