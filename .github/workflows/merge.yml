@@ -1,0 +1,43 @@
+# © 2026 Timo Feist. Alle Rechte vorbehalten.
+# Baut data.json aus raw/*.json neu, sobald neue Länderdaten hochgeladen werden.
+name: Daten zusammenführen
+
+on:
+  push:
+    branches: [main]
+    paths: ["raw/**", "merge_raw.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: merge-data
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pycountry
+      - name: Zusammenführen und hochladen
+        run: |
+          git config user.name "reise-apps-bot"
+          git config user.email "reise-apps-bot@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin main
+            python3 merge_raw.py
+            if git diff --quiet data.json; then echo "Keine Änderung"; exit 0; fi
+            git add data.json
+            git commit -qm "data.json neu gebaut"
+            if git push -q origin main; then echo "Hochgeladen"; exit 0; fi
+            git reset -q --hard origin/main
+            sleep $((i * 5))
+          done
+          exit 1

@@ -11,7 +11,9 @@ Regeln:
   Apps mit "use": "no" bleiben drin und erscheinen in der App ganz unten unter
   "Nur mit Voraussetzungen". Timos eigene Apps ("mine") bekommen nur den Hinweis.
 
-Aufruf: python3 merge_raw.py 2026-11-17
+Aufruf: python3 merge_raw.py            (Version = jetzt, UTC, "JJJJ-MM-TT HH:MM")
+        python3 merge_raw.py --check    (nur prüfen, nichts schreiben)
+Normalerweise läuft das automatisch per GitHub Action nach jedem Push.
 Format raw/<ISO>.json:
 {"src": "https://...", "fetched": "JJJJ-MM-TT", "updated": "...", "note": "Tipp für das Land",
  "discontinued": [{"name": "", "pkg": "", "src": ""}],
@@ -158,7 +160,10 @@ def merge(data, code, raw):
 
 def main():
     global VALID_CATS
-    version = sys.argv[1] if len(sys.argv) > 1 else None
+    import datetime
+    check_only = "--check" in sys.argv
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    version = args[0] if args else datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M")
     path = os.path.join(HERE, "data.json")
     data = json.load(open(path, encoding="utf-8"))
     VALID_CATS = {c["id"] for c in data["categories"]}
@@ -176,7 +181,10 @@ def main():
         assert c["code"] and c["name"] and "apps" in c, c
         for a in c["apps"] + [x for ci in c.get("cities", []) for x in ci["apps"]]:
             assert a["name"] and a["cat"] in VALID_CATS, (c["code"], a)
-    json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    if check_only:
+        print("Prüfung ok, nichts geschrieben.")
+    else:
+        json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     n_apps = sum(len(c["apps"]) + sum(len(ci["apps"]) for ci in c.get("cities", [])) for c in data["countries"])
     print(f"neu: {total} · {len(data['countries'])} Länder · {n_apps} Einträge · Stand {data['version']}")
 

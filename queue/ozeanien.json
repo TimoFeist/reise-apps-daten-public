@@ -1,0 +1,146 @@
+{
+"continent": "OC",
+"todo": [
+{
+"code": "AU",
+"en": "Australia",
+"slug": "australia"
+},
+{
+"code": "NZ",
+"en": "New Zealand",
+"slug": "new-zealand"
+},
+{
+"code": "AS",
+"en": "American Samoa",
+"slug": "american-samoa"
+},
+{
+"code": "AQ",
+"en": "Antarctica",
+"slug": "antarctica"
+},
+{
+"code": "CK",
+"en": "Cook Islands",
+"slug": "cook-islands"
+},
+{
+"code": "FJ",
+"en": "Fiji",
+"slug": "fiji"
+},
+{
+"code": "PF",
+"en": "French Polynesia",
+"slug": "french-polynesia"
+},
+{
+"code": "GU",
+"en": "Guam",
+"slug": "guam"
+},
+{
+"code": "HM",
+"en": "Heard Island and McDonald Islands",
+"slug": "heard-island-and-mcdonald-islands"
+},
+{
+"code": "KI",
+"en": "Kiribati",
+"slug": "kiribati"
+},
+{
+"code": "MH",
+"en": "Marshall Islands",
+"slug": "marshall-islands"
+},
+{
+"code": "FM",
+"en": "Micronesia, Federated States of",
+"slug": "micronesia"
+},
+{
+"code": "NR",
+"en": "Nauru",
+"slug": "nauru"
+},
+{
+"code": "NC",
+"en": "New Caledonia",
+"slug": "new-caledonia"
+},
+{
+"code": "NU",
+"en": "Niue",
+"slug": "niue"
+},
+{
+"code": "NF",
+"en": "Norfolk Island",
+"slug": "norfolk-island"
+},
+{
+"code": "MP",
+"en": "Northern Mariana Islands",
+"slug": "northern-mariana-islands"
+},
+{
+"code": "PW",
+"en": "Palau",
+"slug": "palau"
+},
+{
+"code": "PG",
+"en": "Papua New Guinea",
+"slug": "papua-new-guinea"
+},
+{
+"code": "PN",
+"en": "Pitcairn",
+"slug": "pitcairn"
+},
+{
+"code": "WS",
+"en": "Samoa",
+"slug": "samoa"
+},
+{
+"code": "SB",
+"en": "Solomon Islands",
+"slug": "solomon-islands"
+},
+{
+"code": "TK",
+"en": "Tokelau",
+"slug": "tokelau"
+},
+{
+"code": "TO",
+"en": "Tonga",
+"slug": "tonga"
+},
+{
+"code": "TV",
+"en": "Tuvalu",
+"slug": "tuvalu"
+},
+{
+"code": "UM",
+"en": "United States Minor Outlying Islands",
+"slug": "united-states-minor-outlying-islands"
+},
+{
+"code": "VU",
+"en": "Vanuatu",
+"slug": "vanuatu"
+},
+{
+"code": "WF",
+"en": "Wallis and Futuna",
+"slug": "wallis-and-futuna"
+}
+],
+"done": []
+}

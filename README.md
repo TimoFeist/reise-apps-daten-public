@@ -29,7 +29,8 @@ Datendatei für die App **Reise-Apps**. Die App lädt `data.json` beim Start (h�
 
 * Grundlage: Timos eigene Apps aus seinen Nova-Ordnern (★) plus recherchierte Apps je Land.
 * Hauptquelle für die Länder: bento.travel (gepflegte Länderseiten, Stand 2026, mit Play-Store-Paketnamen). Jede App hat ihre Quelle in `src`.
-* Fertig aus der Hauptquelle: siehe `queue.json` → `done`. Offen: `queue.json` → `todo`.
+* Wartelisten je Kontinent in `queue/`: `done` ist fertig, `todo` ist offen.
+* `data.json` wird per GitHub Action aus `raw/` gebaut, nicht von Hand ändern (außer Timos eigene Einträge).
 * Ablauf zum Ergänzen: `ANLEITUNG.md`, Zusammenführen mit `merge_raw.py`.
 
 ## Copyright

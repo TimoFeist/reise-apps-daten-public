@@ -1,0 +1,266 @@
+{
+"continent": "EU",
+"todo": [
+{
+"code": "CZ",
+"en": "Czechia",
+"slug": "czech-republic",
+"recheck": true
+},
+{
+"code": "DK",
+"en": "Denmark",
+"slug": "denmark",
+"recheck": true
+},
+{
+"code": "ES",
+"en": "Spain",
+"slug": "spain",
+"recheck": true
+},
+{
+"code": "FR",
+"en": "France",
+"slug": "france",
+"recheck": true
+},
+{
+"code": "GB",
+"en": "United Kingdom",
+"slug": "united-kingdom",
+"recheck": true
+},
+{
+"code": "GR",
+"en": "Greece",
+"slug": "greece",
+"recheck": true
+},
+{
+"code": "HR",
+"en": "Croatia",
+"slug": "croatia",
+"recheck": true
+},
+{
+"code": "HU",
+"en": "Hungary",
+"slug": "hungary",
+"recheck": true
+},
+{
+"code": "IT",
+"en": "Italy",
+"slug": "italy",
+"recheck": true
+},
+{
+"code": "PT",
+"en": "Portugal",
+"slug": "portugal",
+"recheck": true
+},
+{
+"code": "DE",
+"en": "Germany",
+"slug": "germany"
+},
+{
+"code": "AT",
+"en": "Austria",
+"slug": "austria"
+},
+{
+"code": "CH",
+"en": "Switzerland",
+"slug": "switzerland"
+},
+{
+"code": "NL",
+"en": "Netherlands",
+"slug": "netherlands"
+},
+{
+"code": "BE",
+"en": "Belgium",
+"slug": "belgium"
+},
+{
+"code": "LU",
+"en": "Luxembourg",
+"slug": "luxembourg"
+},
+{
+"code": "NO",
+"en": "Norway",
+"slug": "norway"
+},
+{
+"code": "SE",
+"en": "Sweden",
+"slug": "sweden"
+},
+{
+"code": "FI",
+"en": "Finland",
+"slug": "finland"
+},
+{
+"code": "IS",
+"en": "Iceland",
+"slug": "iceland"
+},
+{
+"code": "IE",
+"en": "Ireland",
+"slug": "ireland"
+},
+{
+"code": "PL",
+"en": "Poland",
+"slug": "poland"
+},
+{
+"code": "EE",
+"en": "Estonia",
+"slug": "estonia"
+},
+{
+"code": "LV",
+"en": "Latvia",
+"slug": "latvia"
+},
+{
+"code": "LT",
+"en": "Lithuania",
+"slug": "lithuania"
+},
+{
+"code": "MT",
+"en": "Malta",
+"slug": "malta"
+},
+{
+"code": "SI",
+"en": "Slovenia",
+"slug": "slovenia"
+},
+{
+"code": "SK",
+"en": "Slovakia",
+"slug": "slovakia"
+},
+{
+"code": "RO",
+"en": "Romania",
+"slug": "romania"
+},
+{
+"code": "BG",
+"en": "Bulgaria",
+"slug": "bulgaria"
+},
+{
+"code": "RS",
+"en": "Serbia",
+"slug": "serbia"
+},
+{
+"code": "ME",
+"en": "Montenegro",
+"slug": "montenegro"
+},
+{
+"code": "AL",
+"en": "Albania",
+"slug": "albania"
+},
+{
+"code": "BA",
+"en": "Bosnia and Herzegovina",
+"slug": "bosnia-and-herzegovina"
+},
+{
+"code": "MK",
+"en": "North Macedonia",
+"slug": "north-macedonia"
+},
+{
+"code": "UA",
+"en": "Ukraine",
+"slug": "ukraine"
+},
+{
+"code": "MD",
+"en": "Moldova",
+"slug": "moldova"
+},
+{
+"code": "AD",
+"en": "Andorra",
+"slug": "andorra"
+},
+{
+"code": "BY",
+"en": "Belarus",
+"slug": "belarus"
+},
+{
+"code": "FO",
+"en": "Faroe Islands",
+"slug": "faroe-islands"
+},
+{
+"code": "GI",
+"en": "Gibraltar",
+"slug": "gibraltar"
+},
+{
+"code": "GG",
+"en": "Guernsey",
+"slug": "guernsey"
+},
+{
+"code": "IM",
+"en": "Isle of Man",
+"slug": "isle-of-man"
+},
+{
+"code": "JE",
+"en": "Jersey",
+"slug": "jersey"
+},
+{
+"code": "LI",
+"en": "Liechtenstein",
+"slug": "liechtenstein"
+},
+{
+"code": "MC",
+"en": "Monaco",
+"slug": "monaco"
+},
+{
+"code": "RU",
+"en": "Russian Federation",
+"slug": "russia"
+},
+{
+"code": "SM",
+"en": "San Marino",
+"slug": "san-marino"
+},
+{
+"code": "SJ",
+"en": "Svalbard and Jan Mayen",
+"slug": "svalbard-and-jan-mayen"
+},
+{
+"code": "AX",
+"en": "Åland Islands",
+"slug": "land-islands"
+}
+],
+"done": []
+}

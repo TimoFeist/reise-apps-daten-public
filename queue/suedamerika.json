@@ -1,0 +1,81 @@
+{
+"continent": "SA",
+"todo": [
+{
+"code": "BR",
+"en": "Brazil",
+"slug": "brazil"
+},
+{
+"code": "AR",
+"en": "Argentina",
+"slug": "argentina"
+},
+{
+"code": "CL",
+"en": "Chile",
+"slug": "chile"
+},
+{
+"code": "PE",
+"en": "Peru",
+"slug": "peru"
+},
+{
+"code": "CO",
+"en": "Colombia",
+"slug": "colombia"
+},
+{
+"code": "BO",
+"en": "Bolivia",
+"slug": "bolivia"
+},
+{
+"code": "EC",
+"en": "Ecuador",
+"slug": "ecuador"
+},
+{
+"code": "FK",
+"en": "Falkland Islands (Malvinas)",
+"slug": "falkland-islands-malvinas"
+},
+{
+"code": "GF",
+"en": "French Guiana",
+"slug": "french-guiana"
+},
+{
+"code": "GY",
+"en": "Guyana",
+"slug": "guyana"
+},
+{
+"code": "PY",
+"en": "Paraguay",
+"slug": "paraguay"
+},
+{
+"code": "GS",
+"en": "South Georgia and the South Sandwich Islands",
+"slug": "south-georgia-and-the-south-sandwich-islands"
+},
+{
+"code": "SR",
+"en": "Suriname",
+"slug": "suriname"
+},
+{
+"code": "UY",
+"en": "Uruguay",
+"slug": "uruguay"
+},
+{
+"code": "VE",
+"en": "Venezuela",
+"slug": "venezuela"
+}
+],
+"done": []
+}

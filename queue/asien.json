@@ -1,0 +1,271 @@
+{
+"continent": "AS",
+"todo": [
+{
+"code": "SG",
+"en": "Singapore",
+"slug": "singapore"
+},
+{
+"code": "AE",
+"en": "United Arab Emirates",
+"slug": "united-arab-emirates"
+},
+{
+"code": "TR",
+"en": "Türkiye",
+"slug": "turkey"
+},
+{
+"code": "JP",
+"en": "Japan",
+"slug": "japan"
+},
+{
+"code": "TH",
+"en": "Thailand",
+"slug": "thailand"
+},
+{
+"code": "KR",
+"en": "South Korea",
+"slug": "south-korea"
+},
+{
+"code": "VN",
+"en": "Vietnam",
+"slug": "vietnam"
+},
+{
+"code": "ID",
+"en": "Indonesia",
+"slug": "indonesia"
+},
+{
+"code": "MY",
+"en": "Malaysia",
+"slug": "malaysia"
+},
+{
+"code": "PH",
+"en": "Philippines",
+"slug": "philippines"
+},
+{
+"code": "CN",
+"en": "China",
+"slug": "china"
+},
+{
+"code": "HK",
+"en": "Hong Kong",
+"slug": "hong-kong"
+},
+{
+"code": "TW",
+"en": "Taiwan",
+"slug": "taiwan"
+},
+{
+"code": "IN",
+"en": "India",
+"slug": "india"
+},
+{
+"code": "LK",
+"en": "Sri Lanka",
+"slug": "sri-lanka"
+},
+{
+"code": "MV",
+"en": "Maldives",
+"slug": "maldives"
+},
+{
+"code": "IL",
+"en": "Israel",
+"slug": "israel"
+},
+{
+"code": "JO",
+"en": "Jordan",
+"slug": "jordan"
+},
+{
+"code": "QA",
+"en": "Qatar",
+"slug": "qatar"
+},
+{
+"code": "SA",
+"en": "Saudi Arabia",
+"slug": "saudi-arabia"
+},
+{
+"code": "OM",
+"en": "Oman",
+"slug": "oman"
+},
+{
+"code": "BH",
+"en": "Bahrain",
+"slug": "bahrain"
+},
+{
+"code": "KW",
+"en": "Kuwait",
+"slug": "kuwait"
+},
+{
+"code": "GE",
+"en": "Georgia",
+"slug": "georgia"
+},
+{
+"code": "AM",
+"en": "Armenia",
+"slug": "armenia"
+},
+{
+"code": "AZ",
+"en": "Azerbaijan",
+"slug": "azerbaijan"
+},
+{
+"code": "CY",
+"en": "Cyprus",
+"slug": "cyprus"
+},
+{
+"code": "KH",
+"en": "Cambodia",
+"slug": "cambodia"
+},
+{
+"code": "LA",
+"en": "Laos",
+"slug": "laos"
+},
+{
+"code": "NP",
+"en": "Nepal",
+"slug": "nepal"
+},
+{
+"code": "AF",
+"en": "Afghanistan",
+"slug": "afghanistan"
+},
+{
+"code": "BD",
+"en": "Bangladesh",
+"slug": "bangladesh"
+},
+{
+"code": "BT",
+"en": "Bhutan",
+"slug": "bhutan"
+},
+{
+"code": "IO",
+"en": "British Indian Ocean Territory",
+"slug": "british-indian-ocean-territory"
+},
+{
+"code": "BN",
+"en": "Brunei Darussalam",
+"slug": "brunei"
+},
+{
+"code": "CX",
+"en": "Christmas Island",
+"slug": "christmas-island"
+},
+{
+"code": "CC",
+"en": "Cocos (Keeling) Islands",
+"slug": "cocos-keeling-islands"
+},
+{
+"code": "IR",
+"en": "Iran",
+"slug": "iran"
+},
+{
+"code": "IQ",
+"en": "Iraq",
+"slug": "iraq"
+},
+{
+"code": "KZ",
+"en": "Kazakhstan",
+"slug": "kazakhstan"
+},
+{
+"code": "KG",
+"en": "Kyrgyzstan",
+"slug": "kyrgyzstan"
+},
+{
+"code": "LB",
+"en": "Lebanon",
+"slug": "lebanon"
+},
+{
+"code": "MO",
+"en": "Macao",
+"slug": "macao"
+},
+{
+"code": "MN",
+"en": "Mongolia",
+"slug": "mongolia"
+},
+{
+"code": "MM",
+"en": "Myanmar",
+"slug": "myanmar"
+},
+{
+"code": "PK",
+"en": "Pakistan",
+"slug": "pakistan"
+},
+{
+"code": "PS",
+"en": "Palestine, State of",
+"slug": "palestine"
+},
+{
+"code": "SY",
+"en": "Syria",
+"slug": "syria"
+},
+{
+"code": "TJ",
+"en": "Tajikistan",
+"slug": "tajikistan"
+},
+{
+"code": "TL",
+"en": "Timor-Leste",
+"slug": "timor-leste"
+},
+{
+"code": "TM",
+"en": "Turkmenistan",
+"slug": "turkmenistan"
+},
+{
+"code": "UZ",
+"en": "Uzbekistan",
+"slug": "uzbekistan"
+},
+{
+"code": "YE",
+"en": "Yemen",
+"slug": "yemen"
+}
+],
+"done": []
+}
