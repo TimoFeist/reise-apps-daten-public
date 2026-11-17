@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 18:57",
+ "version": "2026-11-17 19:13",
  "categories": [
   {
    "id": "entry",
@@ -7685,6 +7685,413 @@
    "src": "https://www.falklandislands.com/plan-your-trip/getting-around/travel-by-road",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.",
    "lgbtq_src": "https://thepinknews.com/2017/04/12/falkland-islands-introduces-full-marriage-equality",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "CK",
+   "name": "Cookinseln",
+   "flag": "🇨🇰",
+   "apps": [
+    {
+     "name": "Cook Islands' Best",
+     "cat": "tourism",
+     "pkg": "com.touchscreentravels.cookislandsbest",
+     "note": "Offline Reiseführer für Rarotonga, Aitutaki und weitere Inseln",
+     "ess": true,
+     "src": "https://touchscreentravels.com/apps/cook-islands-best/32600/air-rarotonga"
+    },
+    {
+     "name": "My Vodafone Cook Islands",
+     "cat": "misc",
+     "note": "Guthaben, Datenpakete und WLAN Gutscheine verwalten",
+     "use": "limited",
+     "req": "Nur mit SIM von Vodafone Cook Islands sinnvoll",
+     "src": "https://apps.apple.com/nz/app/my-vodafone-cook-islands/id1498749506"
+    },
+    {
+     "name": "Air NZ",
+     "cat": "flights",
+     "pkg": "nz.co.airnz.mpass",
+     "note": "Buchung, Check in und Bordkarte für Flüge nach Rarotonga",
+     "src": "https://www.similarweb.com/app/google/nz.co.airnz.mpass/new-zealand"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Rarotonga",
+     "match": [
+      "Rarotonga"
+     ],
+     "apps": [
+      {
+       "name": "VisitRaro",
+       "cat": "tourism",
+       "pkg": "com.visitraro.app",
+       "note": "Lokaler Reiseführer mit Ausflügen, Restaurants und Tipps",
+       "src": "https://play.google.com/store/apps/details?id=com.visitraro.app&hl=en_US"
+      },
+      {
+       "name": "TransportMe Passenger",
+       "cat": "transit",
+       "pkg": "com.transportmeptyltd.transportmepassenger",
+       "note": "Live Position der Inselbusse, Fahrkarten bar im Bus",
+       "ess": true,
+       "src": "https://www.cookislandsbus.com/transportme-system"
+      },
+      {
+       "name": "Smartie Super App",
+       "cat": "payment",
+       "pkg": "com.smartie.customer",
+       "note": "Lokale Bezahl-App mit Essenslieferung und Touren",
+       "use": "limited",
+       "req": "Aufladen mit ausländischer Karte nicht belegt, Nutzer melden Probleme bei der Registrierung",
+       "src": "https://play.google.com/store/apps/details?id=com.smartie.customer&hl=en_US"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche bekommen bei Ankunft gratis bis zu 31 Tage Aufenthalt, nötig sind Rückflugticket, Unterkunftsnachweis und ein noch 6 Monate gültiger Reisepass.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/cookinseln-node/cookinselnsicherheit/226552",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit Juni 2023 legal, Ehe und Partnerschaft gibt es nicht, die Gesellschaft ist stark kirchlich geprägt, Zärtlichkeiten in der Öffentlichkeit besser meiden.",
+   "lgbtq_src": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Cook_Islands",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "FJ",
+   "name": "Fidschi",
+   "flag": "🇫🇯",
+   "apps": [
+    {
+     "name": "Rova Fiji",
+     "cat": "taxi",
+     "pkg": "com.docslate.rova",
+     "note": "Lokale Fahrdienst-App mit Preisschätzung, Fahrer nicht garantiert",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "Bula",
+     "cat": "taxi",
+     "pkg": "com.user.bula",
+     "note": "Lizenzierte Taxis mit Live-Ortung, auch Flughafentransfers, Viti Levu",
+     "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-fiji"
+    },
+    {
+     "name": "Cyber Food Fiji",
+     "cat": "delivery",
+     "pkg": "com.cyberfoodfiji.cyber_food",
+     "note": "Lieferung von Restaurants und Lebensmitteln in festen Zonen",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "TripAdvisor",
+     "cat": "delivery",
+     "pkg": "com.tripadvisor.tripadvisor",
+     "note": "Restaurants finden mit aktuellen Bewertungen von Reisenden",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "M-PAiSA",
+     "cat": "payment",
+     "pkg": "fj.com.vodafone.mpaisawallet",
+     "note": "Mobile Geldbörse von Vodafone Fiji, auch zum Aufladen der Buskarte",
+     "use": "no",
+     "req": "Vodafone-Fiji-Nummer und Identitätsprüfung nötig, ausländische Karten nicht verknüpfbar",
+     "src": "https://vodafone.com.fj/personal/products-services/m-paisa/customer-identification-requirements"
+    },
+    {
+     "name": "MyCash Digicel",
+     "cat": "payment",
+     "note": "Mobile Geldbörse von Digicel für QR-Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Registrierte Digicel-Fiji-SIM und fidschianische Steuernummer (TIN) nötig",
+     "src": "https://www.digicelpacific.com/mobile/fj/mycash-account-updates-and-requirements"
+    },
+    {
+     "name": "eTransport Fiji",
+     "cat": "transit",
+     "pkg": "fj.com.vodafone.etransport",
+     "note": "Guthaben der Pflicht-Buskarte per NFC prüfen und verwalten",
+     "use": "limited",
+     "req": "Nur Android mit NFC, Buskarte separat bei Vodafone oder Agenten kaufen",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "Pacific Transport Fiji",
+     "cat": "rail",
+     "note": "Fahrplan der Überlandbusse auf Viti Levu, nur Webseite",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "South Sea Cruises Fiji",
+     "cat": "rail",
+     "note": "Fähren und Resorttransfers ab Port Denarau buchen, nur Webseite",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "Fiji Airways",
+     "cat": "flights",
+     "pkg": "com.tvptdigital.fijiairways",
+     "note": "Offizielle Airline-App für Buchung, Check-in und Flugstatus",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karten und Navigation inklusive Wanderwege",
+     "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-fiji"
+    },
+    {
+     "name": "Windy.com",
+     "cat": "safety",
+     "pkg": "com.windyty.android",
+     "note": "Detaillierte Wetterkarten, Warnungen beim Fiji Met Service prüfen",
+     "src": "https://www.bento.travel/fiji"
+    },
+    {
+     "name": "Windfinder",
+     "cat": "safety",
+     "pkg": "com.studioeleven.windfinder",
+     "note": "Wind, Wellen und Gezeiten vor Boots- oder Fährfahrten prüfen",
+     "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-fiji"
+    },
+    {
+     "name": "Na Draki",
+     "cat": "safety",
+     "note": "Lokale Wetter-App mit Vorhersagen für die Hauptorte",
+     "use": "limited",
+     "req": "Warnungen und Radar nur in kostenpflichtiger Pro-Version, Chat nur mit Vodafone- oder Inkk-SIM",
+     "src": "https://vodafone.com.fj/personal/products-services/mobile-apps/nadraki-app"
+    },
+    {
+     "name": "Asalei",
+     "cat": "misc",
+     "pkg": "com.asalei.asaleiapp",
+     "note": "Fidschianische Redewendungen mit Audio und Dorf-Etikette",
+     "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-fiji"
+    }
+   ],
+   "cities": [],
+   "note": "Deutsche brauchen kein Visum, der Reisepass muss bei Ausreise noch 6 Monate gültig sein. Bargeld mitnehmen und Inselfähren früh buchen.",
+   "src": "https://www.bento.travel/fiji",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind entkriminalisiert, die Akzeptanz in der ländlichen Bevölkerung ist laut Auswärtigem Amt aber gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/fidschi-node/fidschisicherheit-226626",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "GU",
+   "name": "Guam",
+   "flag": "🇬🇺",
+   "apps": [
+    {
+     "name": "ESTA Mobile",
+     "cat": "entry",
+     "pkg": "gov.dhs.cbp.esta",
+     "note": "Offizielle CBP-App für den ESTA-Antrag zur US-Einreise",
+     "ess": true,
+     "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"
+    },
+    {
+     "name": "STROLL Guam Ride Hailing",
+     "cat": "taxi",
+     "pkg": "stroll.guam.customer",
+     "note": "Lokaler Fahrdienst rund um die Uhr, Festpreis, nur Kartenzahlung",
+     "ess": true,
+     "src": "https://www.visitguam.com/listing/stroll-international/5967/"
+    },
+    {
+     "name": "GRTA Guam Transit",
+     "cat": "transit",
+     "pkg": "gov.grtaguam.app",
+     "note": "Offizielle Bus-App mit Fahrplänen und Routenplaner für die Insel",
+     "src": "https://appgoblin.info/apps/gov.grtaguam.app"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Guam per App buchen und verwalten",
+     "use": "limited",
+     "req": "Mindestalter 18, gültiger Führerschein und Ausweis nötig",
+     "src": "https://www.sixt.com/car-rental/guam/tamuning/guam-international-airport/"
+    },
+    {
+     "name": "Good to Go We Deliver",
+     "cat": "delivery",
+     "note": "Lieferdienst für Gerichte aus Restaurants auf Guam",
+     "use": "limited",
+     "req": "Registrierung mit Telefonnummer, ob ausländische Nummern gehen, ist unklar",
+     "src": "https://apps.apple.com/us/app/id1496388213"
+    },
+    {
+     "name": "Grab N Grub",
+     "cat": "delivery",
+     "note": "Essenslieferung von über 100 lokalen Restaurants inselweit",
+     "src": "https://apps.apple.com/us/app/grab-n-grub/id1575497960"
+    },
+    {
+     "name": "Visit Guam",
+     "cat": "tourism",
+     "note": "Offizielle App des Guam Visitors Bureau mit Events und Reiseplaner",
+     "src": "https://apps.apple.com/mx/app/visit-guam/id6748750533"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Tumon",
+     "match": [
+      "Tumon"
+     ],
+     "apps": [
+      {
+       "name": "gu-yoyo",
+       "cat": "micro",
+       "note": "E-Scooter und Räder zum Ausleihen, Stationen an Hotels in Tumon",
+       "use": "limited",
+       "req": "Ab 16 Jahren, amtlicher Ausweis nötig, keine Versicherung",
+       "src": "https://mbjguam.com/node/139"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche sind nicht im Guam-CNMI Visa Waiver Program und brauchen eine ESTA, dazu online die Zollerklärung Guam EDF bis 72 Stunden vor Ankunft.",
+   "src": "https://www.visitguam.com/about-guam/entry-and-exit-formalities/",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1978 legal, die Ehe ist seit 2015 geöffnet, es gibt Diskriminierungsschutz und eine jährliche Pride.",
+   "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Guam",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "PF",
+   "name": "Französisch-Polynesien",
+   "flag": "🇵🇫",
+   "apps": [
+    {
+     "name": "Air Tahiti",
+     "cat": "flights",
+     "pkg": "com.airtahiti.mobile",
+     "note": "Inselflüge buchen, einchecken, Bordkarte und Flugstatus",
+     "ess": true,
+     "src": "https://play.google.com/store/apps/details?id=com.airtahiti.mobile"
+    },
+    {
+     "name": "Air Tahiti Nui",
+     "cat": "flights",
+     "pkg": "com.airtahitinui.companionapp",
+     "note": "Langstreckenflüge nach Tahiti buchen und verwalten",
+     "src": "https://us.airtahitinui.com/air-tahiti-nui-app"
+    },
+    {
+     "name": "Terevau",
+     "cat": "rail",
+     "pkg": "pf.isi.terevau",
+     "note": "Fahrplan und Meldungen der Schnellfähre Tahiti und Moorea",
+     "src": "https://play.google.com/store/apps/details?id=pf.isi.terevau"
+    },
+    {
+     "name": "Aremiti",
+     "cat": "rail",
+     "pkg": "pf.aremiti.app",
+     "note": "Abfahrten, Warnungen und Ticketkopie der Fähre nach Moorea",
+     "src": "https://play.google.com/store/apps/details?id=pf.aremiti.app"
+    },
+    {
+     "name": "Tauati Ferry & Apetahi Express",
+     "cat": "rail",
+     "pkg": "com.tuatea.mobileapp",
+     "note": "Fähren nach Moorea und zu den Inseln unter dem Winde",
+     "src": "https://play.google.com/store/apps/details?id=com.tuatea.mobileapp&hl=en_AU"
+    },
+    {
+     "name": "Vaeara'i",
+     "cat": "rail",
+     "note": "Fahrpläne der Fähre nach Moorea, Tickets in der Wallet",
+     "src": "https://apps.apple.com/us/app/id1581698463"
+    },
+    {
+     "name": "Fenua Move",
+     "cat": "rail",
+     "pkg": "com.fenuamove.app",
+     "note": "Alle Fähren und Flughafentafel Faa'a, auch offline",
+     "src": "https://play.google.com/store/apps/details?id=com.fenuamove.app&hl=en_US"
+    },
+    {
+     "name": "Tere Tahiti Mobilités",
+     "cat": "transit",
+     "pkg": "pf.rtct.teretahitimobilites",
+     "note": "Offizielle Bus-App für Tahiti mit Echtzeit-Abfahrten",
+     "ess": true,
+     "src": "https://play.google.com/store/apps/details?id=pf.rtct.teretahitimobilites&hl=en_US"
+    },
+    {
+     "name": "Tāpe'a",
+     "cat": "taxi",
+     "pkg": "com.tapea.customer",
+     "note": "Taxi bestellen und per Karte zahlen",
+     "use": "limited",
+     "req": "Konto nötig, Anmeldung mit ausländischer Nummer nicht belegt",
+     "src": "https://play.google.com/store/apps/details?id=com.tapea.customer"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "pkg": "com.avis.mobile",
+     "note": "Mietwagen am Flughafen Faa'a und in Papeete",
+     "use": "limited",
+     "req": "Fahreralter ab 25 Jahren",
+     "src": "https://www.avis.com/fr/locations/pac/tr/tahiti"
+    },
+    {
+     "name": "Anoe",
+     "cat": "tourism",
+     "pkg": "app.anoe",
+     "note": "Inselführer mit Touren, Wetter, Fähren und Sprachführer",
+     "src": "https://play.google.com/store/apps/details?id=app.anoe"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bora Bora",
+     "match": [
+      "Bora Bora"
+     ],
+     "apps": [
+      {
+       "name": "Bora Explorer",
+       "cat": "tourism",
+       "note": "Offline-Inselkarte mit Stränden, Lokalen und Wanderungen",
+       "src": "https://apps.apple.com/app/id1468228304"
+      }
+     ]
+    },
+    {
+     "name": "Papeete",
+     "match": [
+      "Papeete"
+     ],
+     "apps": [
+      {
+       "name": "Hello Scoot'",
+       "cat": "micro",
+       "note": "Elektroroller und Autos zum Teilen, minutengenau",
+       "use": "limited",
+       "req": "Führerschein und Visa oder Mastercard nötig, Autos erst ab 25 Jahren",
+       "src": "https://apps.apple.com/mt/app/hello-scoot/id1556542083"
+      },
+      {
+       "name": "Foodease",
+       "cat": "delivery",
+       "pkg": "com.customer.foodease",
+       "note": "Restaurantlieferung zwischen Paea und Arue",
+       "use": "limited",
+       "req": "Konto nötig, Anmeldung mit ausländischer Nummer nicht belegt",
+       "src": "https://play.google.com/store/apps/details?id=com.customer.foodease&hl=en_US"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen ohne Visum ein, wegen Umsteigen in Drittstaaten ist ein mindestens 6 Monate gültiger Reisepass nötig, der Personalausweis reicht dann nicht.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+   "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2013 möglich, Schutz vor Diskriminierung, Rae-rae sind traditionell Teil der Gesellschaft.",
+   "lgbtq_src": "https://equaldex.com/region/french-polynesia",
    "checked": "2026-11-17"
   }
  ]
