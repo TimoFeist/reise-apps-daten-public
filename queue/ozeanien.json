@@ -2,26 +2,6 @@
 "continent": "OC",
 "todo": [
 {
-"code": "CK",
-"en": "Cook Islands",
-"slug": "cook-islands"
-},
-{
-"code": "FJ",
-"en": "Fiji",
-"slug": "fiji"
-},
-{
-"code": "PF",
-"en": "French Polynesia",
-"slug": "french-polynesia"
-},
-{
-"code": "GU",
-"en": "Guam",
-"slug": "guam"
-},
-{
 "code": "HM",
 "en": "Heard Island and McDonald Islands",
 "slug": "heard-island-and-mcdonald-islands"
@@ -142,6 +122,26 @@
 "code": "AQ",
 "en": "Antarctica",
 "slug": "antarctica"
+},
+{
+"code": "CK",
+"en": "Cook Islands",
+"slug": "cook-islands"
+},
+{
+"code": "FJ",
+"en": "Fiji",
+"slug": "fiji"
+},
+{
+"code": "PF",
+"en": "French Polynesia",
+"slug": "french-polynesia"
+},
+{
+"code": "GU",
+"en": "Guam",
+"slug": "guam"
 }
 ]
 }
