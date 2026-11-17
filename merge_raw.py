@@ -13,7 +13,8 @@ Regeln:
 
 Aufruf: python3 merge_raw.py 2026-11-17
 Format raw/<ISO>.json:
-{"src": "https://...", "updated": "...", "note": "Tipp für das Land",
+{"src": "https://...", "fetched": "JJJJ-MM-TT", "updated": "...", "note": "Tipp für das Land",
+ "discontinued": [{"name": "", "pkg": "", "src": ""}],
  "apps": [{"name": "", "cat": "", "pkg": "", "ess": true, "note": "", "city": "",
            "use": "ok", "req": ""}]}
 """
@@ -93,6 +94,8 @@ def merge(data, code, raw):
         country["note"] = raw["note"].strip()
     if src:
         country["src"] = src
+    if raw.get("fetched"):
+        country["checked"] = raw["fetched"]
     added = 0
     for a in raw.get("apps", []):
         app = clean_app(a, src)
@@ -136,6 +139,19 @@ def merge(data, code, raw):
             continue
         target.append(app)
         added += 1
+    # Laut Quelle eingestellte Apps: recherchierte Einträge entfernen, eigene nur markieren
+    for gone in raw.get("discontinued", []):
+        gk = ((gone.get("pkg") or gone.get("name") or "").strip().lower())
+        if not gk:
+            continue
+        for lst in [country["apps"]] + [ci["apps"] for ci in country["cities"]]:
+            for x in list(lst):
+                if key(x) == gk or x["name"].strip().lower() == (gone.get("name") or "").strip().lower():
+                    if x.get("mine"):
+                        x["use"] = "no"
+                        x["req"] = "Laut Quelle eingestellt"
+                    else:
+                        lst.remove(x)
     country["cities"].sort(key=lambda c: c["name"])
     return added
 

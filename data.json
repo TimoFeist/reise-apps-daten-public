@@ -491,7 +491,8 @@
     }
    ],
    "note": "Vor Abreise die UK ETA für den genutzten Reisepass beantragen; Nordirland nutzt Translink statt National Rail.",
-   "src": "https://www.bento.travel/united-kingdom"
+   "src": "https://www.bento.travel/united-kingdom",
+   "checked": "2026-11-17"
   },
   {
    "code": "DE",
@@ -950,7 +951,8 @@
     }
    ],
    "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht Pflicht, also nicht dafür zahlen.",
-   "src": "https://www.bento.travel/spain"
+   "src": "https://www.bento.travel/spain",
+   "checked": "2026-11-17"
   },
   {
    "code": "IT",
@@ -1160,7 +1162,8 @@
     }
    ],
    "note": "Nie ohne Erlaubnis in eine ZTL-Zone fahren, auch wenn die Karten-App die Route vorschlägt.",
-   "src": "https://www.bento.travel/italy"
+   "src": "https://www.bento.travel/italy",
+   "checked": "2026-11-17"
   },
   {
    "code": "PT",
@@ -1299,7 +1302,8 @@
     }
    ],
    "note": "In Lissabon gilt die kontaktlose Bankkarte nur für die U-Bahn, nicht für Bus, Tram, Vorortzug oder Fähre.",
-   "src": "https://www.bento.travel/portugal"
+   "src": "https://www.bento.travel/portugal",
+   "checked": "2026-11-17"
   },
   {
    "code": "FR",
@@ -1430,7 +1434,8 @@
     }
    ],
    "note": "In Paris für Nahverkehrstickets die IDFM-App oder Navigo Easy nutzen, nicht nur die Bankkarte.",
-   "src": "https://www.bento.travel/france"
+   "src": "https://www.bento.travel/france",
+   "checked": "2026-11-17"
   },
   {
    "code": "NO",
@@ -2223,7 +2228,8 @@
     }
    ],
    "note": "Auf kleinen Inseln den Transfer über die Unterkunft organisieren und Euro-Bargeld bereithalten.",
-   "src": "https://www.bento.travel/greece"
+   "src": "https://www.bento.travel/greece",
+   "checked": "2026-11-17"
   },
   {
    "code": "MT",
@@ -2831,7 +2837,8 @@
     }
    ],
    "note": "In Prag gilt das PID-Ticket nicht für den Airport Express; Fernverbindungen direkt beim Betreiber buchen und in CZK zahlen.",
-   "src": "https://www.bento.travel/czech-republic"
+   "src": "https://www.bento.travel/czech-republic",
+   "checked": "2026-11-17"
   },
   {
    "code": "DK",
@@ -2938,7 +2945,8 @@
      ]
     }
    ],
-   "src": "https://www.bento.travel/denmark"
+   "src": "https://www.bento.travel/denmark",
+   "checked": "2026-11-17"
   },
   {
    "code": "HR",
@@ -3091,7 +3099,8 @@
     }
    ],
    "note": "Visa oder Mastercard und etwas Euro-Bargeld mitnehmen; Bolt Food liefert in Kroatien seit Oktober 2025 nicht mehr.",
-   "src": "https://www.bento.travel/croatia"
+   "src": "https://www.bento.travel/croatia",
+   "checked": "2026-11-17"
   },
   {
    "code": "HU",
@@ -3170,7 +3179,8 @@
     }
    ],
    "note": "Mit Forint (HUF) zahlen, Umrechnung in Euro an der Kasse ablehnen und etwas Bargeld dabeihaben.",
-   "src": "https://www.bento.travel/hungary"
+   "src": "https://www.bento.travel/hungary",
+   "checked": "2026-11-17"
   }
  ]
 }
