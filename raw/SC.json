@@ -1,0 +1,99 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/seychellen-node/seychellensicherheit-226912",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Vor Abflug die Travel Authorisation über seychelles.govtas.com oder die E-Border-App beantragen; Uber und Bolt gibt es nicht.",
+ "lgbtq_note": "Homosexuelle Handlungen sind auf den Seychellen nicht strafbar.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/seychellen-node/seychellensicherheit-226912",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Seychelles E-Border",
+   "cat": "entry",
+   "pkg": "com.travizory.evisa.sc",
+   "ess": true,
+   "note": "Offizielle App für die Travel Authorisation",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.travizory.evisa.sc"
+  },
+  {
+   "name": "KOEK",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Festpreis-Taxis und Transfers auf drei Inseln",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://koek.sc/seychelles-taxi-app"
+  },
+  {
+   "name": "SPTC",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busfahrpläne, Live-Tracking und Routen",
+   "city": "",
+   "use": "limited",
+   "req": "Bezahlen nur mit aufgeladener SPTC-Reisekarte, sonst bar im Bus",
+   "src": "https://apps.apple.com/us/app/id1524913069"
+  },
+  {
+   "name": "GetRentacar",
+   "cat": "carshare",
+   "pkg": "getrentacar.app",
+   "ess": false,
+   "note": "Mietwagen in Victoria, SEZ und auf Praslin",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 18, Führerschein plus internationaler, Visa oder Mastercard",
+   "src": "https://getrentacar.com/en-US/seychelles?p=5"
+  },
+  {
+   "name": "Knock Knock Delivery",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen und Einkäufe auf die Seychellen geliefert",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/knock-knock-delivery/id6463718454"
+  },
+  {
+   "name": "WOW Delivery",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst für Essen und Getränke",
+   "city": "",
+   "use": "limited",
+   "req": "Lieferung nur mit Monatsabo",
+   "src": "https://apps.apple.com/sc/app/wow-delivery/id1532699638"
+  },
+  {
+   "name": "Air Seychelles",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Buchung und Check-in der Nationalairline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/air-seychelles/id1596443428"
+  },
+  {
+   "name": "Visit Seychelles",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizieller Reiseführer mit Karte und Planer",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1663916867"
+  }
+ ]
+}

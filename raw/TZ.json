@@ -1,0 +1,116 @@
+{
+ "src": "https://www.bento.travel/tanzania",
+ "fetched": "2026-11-17",
+ "updated": "Last updated: August 2026",
+ "note": "Für Sansibar ist eine ZIC-Einreiseversicherung Pflicht, andere Reiseversicherungen werden nicht anerkannt.",
+ "lgbtq_note": "Homosexuelle Handlungen werden mit sehr hohen Gefängnisstrafen bestraft, das gilt auch für Ausländer.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tansaniasicherheit/208662",
+ "discontinued": [
+  {
+   "name": "Uber",
+   "pkg": "",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-tanzania"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Wichtigster Fahrdienst, in zehn Städten aktiv",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/tanzania/ride-hailing"
+  },
+  {
+   "name": "M-Pesa Tanzania",
+   "cat": "payment",
+   "pkg": "com.vodafone.mpesa.tanzania",
+   "ess": false,
+   "note": "Mobile Geldbörse von Vodacom für längere Reisen",
+   "city": "",
+   "use": "limited",
+   "req": "Biometrisch registrierte Vodacom-SIM mit Reisepass und Aktivierung vor Ort nötig",
+   "src": "https://www.bento.travel/tanzania/payments"
+  },
+  {
+   "name": "Mwendokasi",
+   "cat": "transit",
+   "pkg": "com.ega.darcina",
+   "ess": false,
+   "note": "DART-Schnellbus: Routen, Hinweise und QR-Tickets",
+   "city": "Dar es Salaam",
+   "use": "limited",
+   "req": "App-Guthaben für Besucher umständlich, Zahlung an der Station klären",
+   "src": "https://www.bento.travel/tanzania/transit"
+  },
+  {
+   "name": "Safari Tiketi",
+   "cat": "rail",
+   "pkg": "com.latra.safari_tiketi",
+   "ess": false,
+   "note": "Offizielle LATRA-App für Fernbus und Zugtickets",
+   "city": "",
+   "use": "limited",
+   "req": "Eventuell lokale Telefonnummer nötig, Name wie im Pass",
+   "src": "https://www.bento.travel/tanzania"
+  },
+  {
+   "name": "Piki",
+   "cat": "delivery",
+   "pkg": "com.food.ordering",
+   "ess": false,
+   "note": "Essenslieferung in Dar es Salaam",
+   "city": "Dar es Salaam",
+   "use": "limited",
+   "req": "Registrierung per SMS, eventuell lokale Nummer nötig",
+   "src": "https://www.bento.travel/tanzania/food-delivery"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung mit Partnern in Tansania",
+   "city": "",
+   "use": "limited",
+   "req": "Städteabdeckung und Zahlung mit ausländischer Karte unklar",
+   "src": "https://www.bento.travel/tanzania/food-delivery"
+  },
+  {
+   "name": "GetRentacar",
+   "cat": "carshare",
+   "pkg": "getrentacar.app",
+   "ess": false,
+   "note": "Mietwagen in Dar es Salaam, Arusha, Sansibar",
+   "city": "",
+   "use": "limited",
+   "req": "Reisepass, Führerschein mit internationalem Führerschein, Visa oder Mastercard",
+   "src": "https://getrentacar.com/en-US/tanzania"
+  },
+  {
+   "name": "Destination Tanzania",
+   "cat": "tourism",
+   "pkg": "com.tz.visit",
+   "ess": false,
+   "note": "Offizielle App des Tanzania Tourist Board",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.tz.visit"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "com.grindrapp.android",
+   "ess": false,
+   "note": "Weltweite Dating-App für Männer",
+   "city": "",
+   "use": "no",
+   "req": "Gleichgeschlechtliche Handlungen strafbar, Nutzung riskant",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tansaniasicherheit/208662"
+  }
+ ]
+}

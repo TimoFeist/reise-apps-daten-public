@@ -1,0 +1,209 @@
+{
+ "src": "https://www.expat.com/en/expat-mag/11858-useful-apps-for-everyday-life-in-mauritius.html",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Deutsche brauchen kein Visum, müssen aber vor dem Boarding das All in One Travel Form ausfüllen; Pass 6 Monate gültig.",
+ "lgbtq_note": "Paragraph 250 wurde 2023 vom Obersten Gericht für verfassungswidrig erklärt, gilt aber formal weiter; Zurückhaltung in der Öffentlichkeit wird empfohlen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mauritiussicherheit/206994",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "All in One Travel Form",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflichtformular zur Einreise, vor dem Boarding online",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mauritiussicherheit/206994"
+  },
+  {
+   "name": "Yugo",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Verbreitetste Fahrdienst-App der Insel, bar oder Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mu/app/yugo/id1410764129"
+  },
+  {
+   "name": "MoKabb",
+   "cat": "taxi",
+   "pkg": "com.mokabb.user",
+   "ess": false,
+   "note": "Fahrdienst mit Festpreis vorab und Live-Tracking",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-mauritius"
+  },
+  {
+   "name": "Ala-lila Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lizenzierte Taxis buchen, seit 2026 mit Uber-Technik",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://iblgroup.com/together/taxi-by-ala-lila-powered-by-uber-rethinking-mobility-in-mauritius/"
+  },
+  {
+   "name": "My.t Cab",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxidienst von Mauritius Telecom",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://4stogo.com/blog/posts/essential-travel-apps-mauritis"
+  },
+  {
+   "name": "MoBis",
+   "cat": "transit",
+   "pkg": "com.softland.mobis",
+   "ess": true,
+   "note": "Fahrpläne und Live-Ortung der CNT-Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-mauritius"
+  },
+  {
+   "name": "my.t money",
+   "cat": "transit",
+   "pkg": "com.hktpayment.mytmoney.mauritius",
+   "ess": false,
+   "note": "Metro-Express-Tickets per QR-Code an der Station",
+   "city": "",
+   "use": "limited",
+   "req": "Konto bei my.t money nötig, Registrierung für Ausländer unklar",
+   "src": "https://myt.mu/money/metro-express"
+  },
+  {
+   "name": "Delivery Dodo",
+   "cat": "delivery",
+   "pkg": "com.deliverydodo.ordering",
+   "ess": false,
+   "note": "Essen von lokalen Restaurants, Karte oder bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-mauritius"
+  },
+  {
+   "name": "Hungry Dodo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von Restaurants auf der Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mu/app/hungrydodo/id1489471146"
+  },
+  {
+   "name": "Ordermanzer",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst u. a. in Port Louis und Grand Baie",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.expat.com/en/expat-mag/11858-useful-apps-for-everyday-life-in-mauritius.html"
+  },
+  {
+   "name": "MCB Juice",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete QR-Zahlungs- und Banking-App der MCB",
+   "city": "",
+   "use": "no",
+   "req": "Konto bei der MCB auf Mauritius nötig",
+   "src": "https://appgoblin.info/apps/com.mcbmu.juice"
+  },
+  {
+   "name": "MAPS.ME",
+   "cat": "maps",
+   "pkg": "com.mapswithme.maps.pro",
+   "ess": false,
+   "note": "Offline-Karten inklusive Wanderwege",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-mauritius"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Navigation mit Stau- und Unfallmeldungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://4stogo.com/blog/posts/essential-travel-apps-mauritis"
+  },
+  {
+   "name": "Trafic Watch",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Verkehrsmeldungen von Mauritius Telecom",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.expat.com/en/expat-mag/11858-useful-apps-for-everyday-life-in-mauritius.html"
+  },
+  {
+   "name": "my.t weather",
+   "cat": "safety",
+   "pkg": "com.telecom.weatherwatch",
+   "ess": true,
+   "note": "Wetter und Zyklonwarnungen des Wetterdienstes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-mauritius"
+  },
+  {
+   "name": "MauritiusNow",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Tourismus-App mit Events und Angeboten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/mauritiusnow/id1120630436"
+  },
+  {
+   "name": "Air Mauritius",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Buchung und Check-in der Nationalairline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mu/app/air-mauritius/id1284696683"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen und in Quatre Bornes",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein seit 2 Jahren, Mindestalter 21, Pass",
+   "src": "https://www.sixt.ca/car-rental/mauritius/"
+  }
+ ]
+}

@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "TN",
-"en": "Tunisia",
-"slug": "tunisia"
-},
-{
-"code": "TZ",
-"en": "Tanzania",
-"slug": "tanzania"
-},
-{
-"code": "MU",
-"en": "Mauritius",
-"slug": "mauritius"
-},
-{
-"code": "SC",
-"en": "Seychelles",
-"slug": "seychelles"
-},
-{
 "code": "DZ",
 "en": "Algeria",
 "slug": "algeria"
@@ -302,6 +282,26 @@
 "code": "MA",
 "en": "Morocco",
 "slug": "morocco"
+},
+{
+"code": "TN",
+"en": "Tunisia",
+"slug": "tunisia"
+},
+{
+"code": "TZ",
+"en": "Tanzania",
+"slug": "tanzania"
+},
+{
+"code": "MU",
+"en": "Mauritius",
+"slug": "mauritius"
+},
+{
+"code": "SC",
+"en": "Seychelles",
+"slug": "seychelles"
 }
 ]
 }
