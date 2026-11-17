@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "SG",
-"en": "Singapore",
-"slug": "singapore"
-},
-{
-"code": "AE",
-"en": "United Arab Emirates",
-"slug": "united-arab-emirates"
-},
-{
-"code": "TR",
-"en": "Türkiye",
-"slug": "turkey"
-},
-{
-"code": "JP",
-"en": "Japan",
-"slug": "japan"
-},
-{
 "code": "TH",
 "en": "Thailand",
 "slug": "thailand"
@@ -267,5 +247,26 @@
 "slug": "yemen"
 }
 ],
-"done": []
+"done": [
+{
+"code": "SG",
+"en": "Singapore",
+"slug": "singapore"
+},
+{
+"code": "AE",
+"en": "United Arab Emirates",
+"slug": "united-arab-emirates"
+},
+{
+"code": "TR",
+"en": "Türkiye",
+"slug": "turkey"
+},
+{
+"code": "JP",
+"en": "Japan",
+"slug": "japan"
+}
+]
 }
