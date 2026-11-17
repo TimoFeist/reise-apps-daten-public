@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# © 2026 Timo Feist. Alle Rechte vorbehalten.
 """Führt recherchierte Länderdaten aus raw/<ISO>.json in data.json zusammen.
 
 Regeln:

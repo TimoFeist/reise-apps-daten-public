@@ -32,3 +32,7 @@ python3 merge_raw.py JJJJ-MM-TT     # heutiges Datum, Europe/Berlin
 * Bei jeder App klarstellen, ob Ausländer sie nutzen können: `use` (ok, limited, no) und `req` (was nötig ist). Nicht nutzbare Apps nicht löschen, sondern mit `use: "no"` markieren.
 * Notizen auf Deutsch, eigene Worte, keine Gedankenstriche.
 * Einreise-Hinweise beziehen sich auf deutsche Staatsbürger.
+
+## Copyright
+
+© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern. Die Quellen stehen je Eintrag im Feld `src`.

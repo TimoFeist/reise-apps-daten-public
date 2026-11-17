@@ -31,3 +31,7 @@ Datendatei für die App **Reise-Apps**. Die App lädt `data.json` beim Start (h�
 * Hauptquelle für die Länder: bento.travel (gepflegte Länderseiten, Stand 2026, mit Play-Store-Paketnamen). Jede App hat ihre Quelle in `src`.
 * Fertig aus der Hauptquelle: siehe `queue.json` → `done`. Offen: `queue.json` → `todo`.
 * Ablauf zum Ergänzen: `ANLEITUNG.md`, Zusammenführen mit `merge_raw.py`.
+
+## Copyright
+
+© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern. Die Quellen stehen je Eintrag im Feld `src`.
