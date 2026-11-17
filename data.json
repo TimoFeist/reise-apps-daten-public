@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 19:30",
+ "version": "2026-11-17 19:38",
  "categories": [
   {
    "id": "entry",
@@ -3942,26 +3942,26 @@
     {
      "name": "MyICA Mobile",
      "cat": "entry",
-     "note": "SG Arrival Card, innerhalb von 3 Tagen vor Ankunft, kostenlos",
-     "src": "https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card",
+     "note": "Offizielle App für die kostenlose SG Arrival Card",
+     "src": "https://www.bento.travel/singapore",
      "pkg": "sg.gov.ica.mobile.app",
      "ess": true
     },
     {
      "name": "MyTransport.SG",
      "cat": "transit",
-     "note": "Offizielle LTA-App: Bus- und MRT-Ankunftszeiten",
-     "src": "https://www.bento.travel/singapore/transit",
+     "note": "Offizielle LTA-App für Busankunft und Störungen",
+     "src": "https://www.bento.travel/singapore",
      "pkg": "sg.gov.lta.mytransportsg",
      "ess": true
     },
     {
      "name": "SimplyGo",
      "cat": "transit",
-     "note": "Fahrpreise, Karte; Bezahlen geht auch direkt mit Visa/Mastercard",
+     "note": "Offizielle Fahrpreis-App, Zahlung direkt mit Kreditkarte",
      "use": "limited",
-     "req": "Volle Registrierung nur mit singapurischer Nummer, Gastmodus geht ohne",
-     "src": "https://www.bento.travel/singapore/transit",
+     "req": "Nur Gastmodus, volles Konto braucht singapurische Nummer",
+     "src": "https://www.bento.travel/singapore",
      "pkg": "sg.com.transitlink"
     },
     {
@@ -3975,15 +3975,17 @@
     {
      "name": "Gojek",
      "cat": "taxi",
-     "note": "Alternative zu Grab, zum Preisvergleich",
-     "pkg": "com.gojek.app"
+     "note": "Lizenzierter Fahrdienst zum Preisvergleich mit Grab",
+     "pkg": "com.gojek.app",
+     "src": "https://www.bento.travel/singapore"
     },
     {
      "name": "CDG Zig",
      "cat": "taxi",
-     "note": "Taxis von ComfortDelGro",
+     "note": "Offizielle ComfortDelGro-App für Taxis und Fahrdienste",
      "pkg": "com.codigo.comfort",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/singapore"
     },
     {
      "name": "TADA",
@@ -4329,17 +4331,21 @@
       {
        "name": "S'hail",
        "cat": "transit",
-       "note": "Offizieller RTA-Planer",
+       "note": "Offizieller RTA-Planer für Metro, Tram, Bus, Fähre und Taxi",
        "pkg": "com.rta.suhail",
-       "ess": true
+       "ess": true,
+       "src": "https://www.rta.ae/wps/portal/rta/ae/home/smart-apps",
+       "use": "limited",
+       "req": "Gastmodus nutzen, falls Registrierung oder Code an ausländische Nummer scheitert"
       },
       {
        "name": "nol Pay",
        "cat": "transit",
-       "note": "nol-Karte aufladen",
+       "note": "nol-Karte prüfen und aufladen, offizielle RTA-App",
        "use": "limited",
        "req": "Handy mit NFC und physische nol-Karte nötig",
-       "pkg": "com.snowballtech.rta"
+       "pkg": "com.snowballtech.rta",
+       "src": "https://www.rta.ae/wps/portal/rta/ae/home/smart-apps"
       },
       {
        "name": "Parkin",
@@ -9360,6 +9366,376 @@
    "src": "https://www.bento.travel/turkey",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Pride-Veranstaltungen werden aber regelmäßig verboten und 2026 gab es Razzien sowie Sperren von Webseiten und Konten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit/201962",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "AO",
+   "name": "Angola",
+   "flag": "🇦🇴",
+   "apps": [
+    {
+     "name": "Tupuca+",
+     "cat": "delivery",
+     "note": "Angolanische Super-App für Essen, Einkäufe und Taxi",
+     "use": "limited",
+     "req": "Bezahlung über lokale Dienste wie Multicaixa Express oder Unitel Money",
+     "src": "https://apps.apple.com/app/id1135386915"
+    },
+    {
+     "name": "AngoMart",
+     "cat": "delivery",
+     "pkg": "com.angomart.customer",
+     "note": "Online-Supermarkt mit schneller Lieferung",
+     "use": "limited",
+     "req": "Lieferung nur in ausgewählten Gebieten, Zahlung per PayPal oder lokaler Wallet",
+     "src": "https://play.google.com/store/apps/details?id=com.angomart.customer&hl=en_US"
+    },
+    {
+     "name": "Afercon Xpress",
+     "cat": "misc",
+     "pkg": "afercon.xpress.app",
+     "note": "Super-App für Taxi, Kurierdienst und Marktplatz",
+     "use": "limited",
+     "req": "Kontoverifizierung mit Ausweisdokument, Zahlung über Prepaid-Wallet",
+     "src": "https://aferconxpress.net/"
+    },
+    {
+     "name": "TAAG Angola Airlines",
+     "cat": "flights",
+     "note": "App der nationalen Fluggesellschaft zur Ticketbuchung",
+     "src": "https://atta.travel/resource/taag-launches-mobile-app-to-enhance-booking-and-boost-tourism-connectivity.html"
+    },
+    {
+     "name": "Multicaixa Express",
+     "cat": "payment",
+     "note": "Verbreitetste Bezahl-App Angolas für Überweisungen",
+     "use": "no",
+     "req": "Angolanisches Bankkonto mit IBAN nötig",
+     "src": "https://www.expansao.co.ao/empresas/detalhe/entre-ter-ou-nao-conta-no-banco-kwik-e-multicaixa-express-aceleram-61905.html"
+    },
+    {
+     "name": "Unitel Money",
+     "cat": "payment",
+     "note": "Mobile Geldbörse des Mobilfunkanbieters Unitel",
+     "use": "limited",
+     "req": "Angolanische Unitel-SIM nötig, Registrierung für Ausländer unklar",
+     "src": "https://www.verangola.net/va/en/042026/Telecommunications/48377/Unitel-Money-reinforces-national-expansion-with-pilot-project-in-Namibe.htm"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Luanda",
+     "match": [
+      "Luanda"
+     ],
+     "apps": [
+      {
+       "name": "Yango",
+       "cat": "taxi",
+       "pkg": "com.yandex.yango",
+       "note": "Meistgeladener Fahrdienst in Luanda, mit Notrufknopf",
+       "ess": true,
+       "src": "https://www.menosfios.com/en/yango-e-ministerio-dos-transportes-abordam-regulacao-do-sector-e-seguranca-no-servico-de-transporte-por-aplicativo/"
+      },
+      {
+       "name": "Heetch",
+       "cat": "taxi",
+       "pkg": "com.heetch",
+       "note": "Französischer Fahrdienst in Luanda, Zahlung bar",
+       "ess": true,
+       "src": "https://play.google.com/store/apps/details?id=com.heetch"
+      },
+      {
+       "name": "inDrive",
+       "cat": "taxi",
+       "pkg": "sinet.startup.inDriver",
+       "note": "Fahrpreis wird vorab mit dem Fahrer ausgehandelt",
+       "src": "https://www.verangola.net/va/en/052025/Transports/44403/inDrive-transport-service-that-allows-you-to-negotiate-fares-with-drivers-arrives-in-Luanda.htm"
+      },
+      {
+       "name": "UGO Angola",
+       "cat": "taxi",
+       "note": "Lokaler Fahrdienst für ganz Luanda, auch zum Flughafen",
+       "src": "https://apps.apple.com/ao/app/ugo-angola/id1134945096"
+      },
+      {
+       "name": "Discover Cars",
+       "cat": "carshare",
+       "note": "Mietwagenvergleich mit Europcar und Hertz in Luanda",
+       "use": "limited",
+       "req": "Internationaler Führerschein zusammen mit dem deutschen nötig, portugiesische Übersetzung empfohlen",
+       "src": "https://www.discovercars.com/angola/luanda"
+      }
+     ]
+    }
+   ],
+   "note": "Karten werden kaum akzeptiert und Geldautomaten nehmen nur VISA, daher genug Bargeld in Kwanza einplanen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/angola-node/angolasicherheit-208118",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, offen gezeigte Zärtlichkeiten unter gleichgeschlechtlichen Paaren sind aber unüblich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/angola-node/angolasicherheit-208118",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BJ",
+   "name": "Benin",
+   "flag": "🇧🇯",
+   "apps": [
+    {
+     "name": "myMTN BN",
+     "cat": "payment",
+     "note": "MTN-Kundenapp für Tarifpakete und MoMo-Übersicht",
+     "use": "limited",
+     "req": "Nur für Kunden mit beninischer MTN-SIM",
+     "src": "https://apps.apple.com/be/app/mymtn-bn/id6480581002"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Cotonou",
+     "match": [
+      "Cotonou"
+     ],
+     "apps": [
+      {
+       "name": "Gozem",
+       "cat": "taxi",
+       "pkg": "com.gozem",
+       "note": "Super-App für Taxi, Zem, Tricycle, Essen und Kurier",
+       "ess": true,
+       "use": "limited",
+       "req": "Registrierung und Zahlungswege laut Quelle unklar, lokale SIM ratsam",
+       "src": "https://gozem.co/bj/"
+      },
+      {
+       "name": "Yango",
+       "cat": "taxi",
+       "note": "Fahrdienst mit Auto, Moto, Tuk-Tuk und Lieferung",
+       "use": "limited",
+       "req": "Zahlungswege laut Quelle unklar, Bargeld bereithalten",
+       "src": "https://yango.com/cotonou/tariff/"
+      }
+     ]
+    }
+   ],
+   "note": "Das e-Visum mindestens sieben Tage vor der Reise online beantragen, an Grenze und Flughafen gibt es keine Visa mehr.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
+   "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar, werden in der Gesellschaft aber eher toleriert als wertgeschätzt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BW",
+   "name": "Botsuana",
+   "flag": "🇧🇼",
+   "apps": [
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrdienst mit Preisvorschlag, auch Fernfahrten",
+     "ess": true,
+     "src": "https://indrive.com/en-bw/city-rides"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrten und Lieferungen, Bargeld oder Karte",
+     "src": "https://yango.com/en_bw/"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst, seit 2024 in Gaborone aktiv",
+     "src": "https://www.mmegi.bw/business/taxi-assc-concedes-market-share-to-ride-hailing-apps/news"
+    },
+    {
+     "name": "Zesta",
+     "cat": "delivery",
+     "pkg": "com.verbosec.eats",
+     "note": "Essen, Lebensmittel und Kurierdienst aus Gaborone",
+     "use": "limited",
+     "req": "Liefergebiet und Zahlung mit ausländischer Karte unklar",
+     "src": "https://play.google.com/store/apps/details?id=com.verbosec.eats&hl=en"
+    },
+    {
+     "name": "Max it",
+     "cat": "payment",
+     "note": "Orange-App mit Orange Money und QR-Zahlung",
+     "use": "limited",
+     "req": "Orange-SIM nötig, Registrierung für Ausländer nur mit Reisepass im Orange-Shop",
+     "src": "https://www.orange.co.bw/en/apps/orange-max-it-botswana.html"
+    },
+    {
+     "name": "Air Botswana",
+     "cat": "flights",
+     "pkg": "bw.co.airbotswana.app",
+     "note": "Flüge der Landesairline buchen und einchecken",
+     "src": "https://play.google.com/store/apps/details?id=bw.co.airbotswana.app&hl=en"
+    },
+    {
+     "name": "DiscoverCars",
+     "cat": "carshare",
+     "note": "Mietwagen in Gaborone, Maun und Kasane vergleichen",
+     "use": "limited",
+     "req": "Internationaler Führerschein zusammen mit dem deutschen Führerschein nötig",
+     "src": "https://discovercars.com/botswana"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Gaborone",
+     "match": [
+      "Gaborone"
+     ],
+     "apps": [
+      {
+       "name": "Wanzy",
+       "cat": "delivery",
+       "pkg": "com.wanzy.ordering",
+       "note": "Lokale Liefer-App für Restaurants im Raum Gaborone",
+       "use": "limited",
+       "req": "Zahlung mit ausländischer Karte und Anmeldung ohne lokale Nummer unklar",
+       "src": "https://www.mmegi.bw/business/wanzy-gains-ground-in-delivery-market/news"
+      },
+      {
+       "name": "Zebras",
+       "cat": "delivery",
+       "pkg": "com.zebras.ordering",
+       "note": "Lebensmittel, Essen und Apothekenartikel in Gaborone",
+       "use": "limited",
+       "req": "Zahlung mit ausländischer Karte und Anmeldung ohne lokale Nummer unklar",
+       "src": "https://apps.apple.com/app/id6749685246"
+      }
+     ]
+    }
+   ],
+   "note": "Zum Monatsende sind Geldautomaten oft leer, daher etwas Bargeld in Euro oder US-Dollar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/botsuana-node/botsuanasicherheit-219522",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht mehr strafbar, die Gesetzesänderung gilt seit April 2026; in der Gesellschaft gibt es weiterhin Vorbehalte.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/botsuana-node/botsuanasicherheit-219522",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "DZ",
+   "name": "Algerien",
+   "flag": "🇩🇿",
+   "apps": [
+    {
+     "name": "Yassir",
+     "cat": "taxi",
+     "pkg": "com.yatechnologies.yassir_rider",
+     "note": "Algerische Super-App für Fahrten, Essen und Einkäufe",
+     "ess": true,
+     "use": "limited",
+     "req": "Registrierung mit Handynummer, ob eine ausländische Nummer reicht, ist nicht belegt; Fahrten meist bar",
+     "src": "https://appgoblin.info/apps/com.yatechnologies.yassir_rider"
+    },
+    {
+     "name": "Heetch",
+     "cat": "taxi",
+     "pkg": "com.heetch",
+     "note": "Fahrdienst in Algier und Oran, Bezahlung bar",
+     "src": "https://play.google.com/store/apps/details?id=com.heetch"
+    },
+    {
+     "name": "temtem",
+     "cat": "taxi",
+     "note": "Fahrdienst und Lieferungen, u. a. Algier, Oran, Constantine",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer nicht belegt",
+     "src": "https://algeriatech.news/?p=19715"
+    },
+    {
+     "name": "Taxi Safe",
+     "cat": "taxi",
+     "note": "Staatliche Sogral-App für zugelassene Taxis mit Taxameter",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer nicht belegt",
+     "src": "https://algerie-eco.com/?p=221458"
+    },
+    {
+     "name": "Yassir Express",
+     "cat": "delivery",
+     "note": "Essens- und Lebensmittellieferung über die Yassir-App",
+     "use": "limited",
+     "req": "Lieferdienst ist Teil der Yassir-App, Zahlung mit ausländischer Karte nicht belegt",
+     "src": "https://appgoblin.info/apps/com.yatechnologies.yassir_rider"
+    },
+    {
+     "name": "Mahatati",
+     "cat": "rail",
+     "pkg": "com.sogral.mobile",
+     "note": "Fernbus-Abfahrten, Preise und Tickets der Busbahnhöfe",
+     "use": "limited",
+     "req": "Fahrplan frei nutzbar, Ticketkauf mit ausländischer Karte nicht belegt",
+     "src": "https://appwisp.com/app/android/com.sogral.mobile"
+    },
+    {
+     "name": "Air Algérie",
+     "cat": "flights",
+     "note": "Flüge der Staatsairline buchen und online einchecken",
+     "src": "https://apps.apple.com/app/id1458273665"
+    },
+    {
+     "name": "BaridiMob",
+     "cat": "payment",
+     "note": "Mobile Banking und Überweisungen von Algérie Poste",
+     "use": "no",
+     "req": "Aktives Konto bei Algérie Poste mit Edahabia-Karte nötig",
+     "src": "https://www.algerie360.com/algerie-poste-quelles-sont-conditions-pour-transferer-de-largent-via-lapplication-baridimob/"
+    },
+    {
+     "name": "Discover Algeria",
+     "cat": "tourism",
+     "note": "Kulturerbe-App mit virtuellen Touren und Bilderkennung",
+     "src": "https://www.algerie360.com/discover-algeria-lalgerie-lance-sa-premiere-appli-touristique-intelligente/"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App für Männer",
+     "use": "no",
+     "req": "Homosexuelle Handlungen strafbar, Nutzung riskant",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Algiers",
+     "match": [
+      "Algiers"
+     ],
+     "apps": [
+      {
+       "name": "El Metro",
+       "cat": "transit",
+       "pkg": "dz.sema.qrcode",
+       "note": "Offizielle Metro-App mit QR-Tickets und Abos",
+       "use": "limited",
+       "req": "Zahlung mit ausländischer Karte nicht belegt, Tickets auch am Schalter",
+       "src": "https://www.algerie360.com/sema-lance-lapplication-el-metro-voici-ses-principales-fonctionnalites/"
+      },
+      {
+       "name": "ETUSA MOB",
+       "cat": "transit",
+       "note": "Offizielle Busapp der ETUSA mit Linien und Haltestellen",
+       "src": "https://algerie-eco.com/2022/01/11/etusa-une-application-mobile-pour-faciliter-les-deplacements/"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab bei der Botschaft beantragen, Kreditkarten werden kaum akzeptiert, daher Euro in bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
+   "lgbtq_note": "Homosexuelle Handlungen sind in Algerien gesetzlich verboten und stehen unter Strafe.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
    "checked": "2026-11-17"
   }
  ]
