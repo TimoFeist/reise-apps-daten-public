@@ -1,1 +1,317 @@
-{"src": "https://www.bento.travel/united-kingdom", "updated": "August 2026", "note": "Vor Abreise die UK ETA für den genutzten Reisepass beantragen; Nordirland nutzt Translink statt National Rail.", "apps": [{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Größte Fahrdienst-App, auch Belfast", "city": ""}, {"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": false, "note": "Preisvergleich in ausgewählten Städten", "city": ""}, {"name": "FREE NOW", "cat": "taxi", "pkg": "taxi.android.client", "ess": false, "note": "Taxis, in London auch Black Cabs", "city": ""}, {"name": "Just Eat", "cat": "delivery", "pkg": "com.justeat.app.uk", "ess": true, "note": "Lieferung und Abholung landesweit", "city": ""}, {"name": "Deliveroo", "cat": "delivery", "pkg": "com.deliveroo.orderapp", "ess": true, "note": "Essen und Einkäufe, stark in London", "city": ""}, {"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": false, "note": "Essen und Lebensmittel", "city": ""}, {"name": "OS Maps", "cat": "maps", "pkg": "uk.co.ordnancesurvey.osmaps", "ess": false, "note": "Wander- und Radkarten, offline", "city": ""}, {"name": "Citymapper", "cat": "transit", "pkg": "com.citymapper.app.release", "ess": true, "note": "Nahverkehr mit Echtzeit", "city": ""}, {"name": "TfL Go", "cat": "transit", "pkg": "uk.gov.tfl.gotfl", "ess": true, "note": "Offizieller Londoner Fahrplan", "city": "London"}, {"name": "Translink Planner", "cat": "transit", "pkg": "com.mdv.TranslinkCompanion", "ess": false, "note": "Busse und Züge in Nordirland", "city": ""}, {"name": "UK ETA", "cat": "entry", "pkg": "uk.gov.HomeOffice.ho3", "ess": false, "note": "Offizielle App für die Einreisegenehmigung", "city": ""}, {"name": "National Rail", "cat": "rail", "pkg": "uk.co.nationalrail.google", "ess": true, "note": "Offizielle Bahnplanung mit Live-Daten", "city": ""}, {"name": "Trainline", "cat": "rail", "pkg": "com.thetrainline", "ess": false, "note": "Bahn und Coach mit Tickets", "city": ""}, {"name": "National Express", "cat": "rail", "pkg": "com.utrack.nationalexpress", "ess": false, "note": "Fernbusse", "city": ""}, {"name": "OpenTable", "cat": "delivery", "pkg": "com.opentable", "ess": true, "note": "Restaurants reservieren", "city": ""}, {"name": "TheFork", "cat": "delivery", "pkg": "com.lafourchette.lafourchette", "ess": false, "note": "Restaurants mit Rabatten", "city": ""}, {"name": "Resy", "cat": "delivery", "pkg": "com.resy.android.prod", "ess": false, "note": "Reservierungen, vor allem London", "city": ""}, {"name": "Met Office Weather", "cat": "safety", "pkg": "uk.gov.metoffice.weather.android", "ess": true, "note": "Offizielle Unwetterwarnungen", "city": ""}], "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/united-kingdom",
+ "fetched": "2026-11-17",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche brauchen vor der Reise eine UK ETA, am einfachsten über die offizielle App beantragen.",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrdienst in vielen Orten und in Belfast",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Günstige Fahrten in ausgewählten Städten, nicht in Nordirland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Freenow",
+   "cat": "taxi",
+   "pkg": "taxi.android.client",
+   "ess": false,
+   "note": "Black Cabs und Mietwagen mit Fahrer, z. B. London",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Just Eat",
+   "cat": "delivery",
+   "pkg": "com.justeat.app.uk",
+   "ess": true,
+   "note": "Essen liefern oder abholen, Angebot je nach Postleitzahl",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Deliveroo",
+   "cat": "delivery",
+   "pkg": "com.deliveroo.orderapp",
+   "ess": true,
+   "note": "Essen und Einkäufe, besonders stark in London",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": false,
+   "note": "Essen und Einkäufe, auf dem Land oft nicht verfügbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "OS Maps",
+   "cat": "maps",
+   "pkg": "uk.co.ordnancesurvey.osmaps",
+   "ess": false,
+   "note": "Genaue Wander- und Radkarten, auch offline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Citymapper",
+   "cat": "transit",
+   "pkg": "com.citymapper.app.release",
+   "ess": true,
+   "note": "Routenplaner mit Live-Abfahrten in großen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "TfL Go",
+   "cat": "transit",
+   "pkg": "uk.gov.tfl.gotfl",
+   "ess": true,
+   "note": "Offizieller Londoner Routenplaner mit Live-Status",
+   "city": "London",
+   "use": "limited",
+   "req": "Zahlungsfunktion regional eingeschränkt",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Translink Planner",
+   "cat": "transit",
+   "pkg": "com.mdv.TranslinkCompanion",
+   "ess": false,
+   "note": "Busse und Züge in Nordirland planen, mit Tickets",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "UK ETA",
+   "cat": "entry",
+   "pkg": "uk.gov.HomeOffice.ho3",
+   "ess": true,
+   "note": "Offizielle App für die Einreisegenehmigung ETA, Pflicht für Deutsche",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "National Rail",
+   "cat": "rail",
+   "pkg": "uk.co.nationalrail.google",
+   "ess": true,
+   "note": "Offizielle Zugauskunft mit Live-Status",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Trainline",
+   "cat": "rail",
+   "pkg": "com.thetrainline",
+   "ess": false,
+   "note": "Zug- und Bustickets digital, teils mit Gebühr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "National Express Coach",
+   "cat": "rail",
+   "pkg": "com.utrack.nationalexpress",
+   "ess": false,
+   "note": "Fernbusse mit Handyticket und Live-Ortung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "OpenTable",
+   "cat": "delivery",
+   "pkg": "com.opentable",
+   "ess": true,
+   "note": "Tische reservieren mit Live-Verfügbarkeit",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "TheFork",
+   "cat": "delivery",
+   "pkg": "com.lafourchette.lafourchette",
+   "ess": false,
+   "note": "Restaurants buchen, teils mit Rabatt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Resy",
+   "cat": "delivery",
+   "pkg": "com.resy.android.prod",
+   "ess": false,
+   "note": "Reservierungen, vor allem in London",
+   "city": "London",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Met Office Weather",
+   "cat": "safety",
+   "pkg": "uk.gov.metoffice.weather.android",
+   "ess": true,
+   "note": "Offizieller Wetterdienst mit Unwetterwarnungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-kingdom"
+  },
+  {
+   "name": "Zipcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos und Transporter stunden- oder tageweise leihen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Führerscheinprüfung, ab 21 Jahren, bei ausländischem Führerschein weitere Ausweisdokumente",
+   "src": "https://support.zipcar.com/hc/en-us/articles/220333808-Am-I-eligible-to-join-Zipcar"
+  },
+  {
+   "name": "Santander Cycles",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder und E-Bikes von TfL mit Freigabecode",
+   "city": "London",
+   "use": "ok",
+   "req": "",
+   "src": "https://tfl.gov.uk/modes/cycling/santander-cycles/app"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Bikes und in London E-Scooter ohne Station",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+  },
+  {
+   "name": "Forest",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Bikes in vielen Londoner Bezirken, Parken in grünen Zonen",
+   "city": "London",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+  },
+  {
+   "name": "Voi",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter und E-Bikes in vielen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+  },
+  {
+   "name": "Beryl",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Räder, E-Bikes und E-Scooter, z. B. Manchester und Birmingham",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+  },
+  {
+   "name": "PayByPhone",
+   "cat": "parking",
+   "pkg": "com.paybyphone",
+   "ess": false,
+   "note": "Parken per App, auch auf Parkplätzen von TfL",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.paybyphone.co.uk/tfl"
+  },
+  {
+   "name": "RingGo",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkgebühren per App in vielen Gemeinden zahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://haringey.gov.uk/parking/ringgo-parking-pay-by-phone"
+  },
+  {
+   "name": "Lothian Buses Edinburgh Trams",
+   "cat": "transit",
+   "pkg": "travel.ticketless.app.lothian",
+   "ess": false,
+   "note": "Offizielle App für Bus und Tram mit Tickets und Live-Zeiten",
+   "city": "Edinburgh",
+   "use": "ok",
+   "req": "",
+   "src": "https://lothianbuses.com/app"
+  },
+  {
+   "name": "Bee Network",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App für Tram- und Busfahrkarten, Zahlung per Google Pay",
+   "city": "Manchester",
+   "use": "ok",
+   "req": "",
+   "src": "https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app"
+  }
+ ]
+}

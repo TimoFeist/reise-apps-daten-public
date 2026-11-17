@@ -1,1 +1,273 @@
-{"src": "https://www.bento.travel/czech-republic", "updated": "August 2026", "note": "In Prag gilt das PID-Ticket nicht für den Airport Express; Fernverbindungen direkt beim Betreiber buchen und in CZK zahlen.", "apps": [{"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": true, "note": "Fahrdienst-Alternative zu Uber, Preise vergleichen", "city": ""}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Fahrdienst in Prag und weiteren Städten", "city": ""}, {"name": "Liftago", "cat": "taxi", "pkg": "com.adleritech.app.liftago.passenger", "ess": false, "note": "Lizenzierte Taxis in 15 Städten", "city": ""}, {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen und Einkäufe, auf Englisch nutzbar", "city": ""}, {"name": "foodora", "cat": "delivery", "pkg": "se.onlinepizza", "ess": true, "note": "Großes Liefernetz für Restaurants und Läden", "city": ""}, {"name": "Bolt Food", "cat": "delivery", "pkg": "com.bolt.deliveryclient", "ess": false, "note": "Lieferdienst in unterstützten Zonen", "city": ""}, {"name": "Mapy.com", "cat": "maps", "pkg": "cz.seznam.mapy", "ess": true, "note": "Outdoor-Karte mit Wanderwegen und Offline-Navigation", "city": ""}, {"name": "PID Lítačka", "cat": "transit", "pkg": "cz.dpp.praguepublictransport", "ess": true, "note": "Offizielle Routen- und Ticket-App für Prag", "city": "Prague"}, {"name": "IDOS", "cat": "rail", "pkg": "cz.mafra.jizdnirady", "ess": true, "note": "Landesweiter Fahrplan für Züge, Busse, Stadtverkehr", "city": ""}, {"name": "Prague Visitor Pass", "cat": "tourism", "pkg": "cz.operatorict.pvp", "ess": false, "note": "Offizielle Prag-Citycard mit ÖPNV", "city": "Prague"}, {"name": "Můj vlak", "cat": "rail", "pkg": "cz.cd.mujvlak.an", "ess": true, "note": "Offizielle ČD-App: Tickets, Gleise, Verspätungen", "city": ""}, {"name": "RegioJet", "cat": "rail", "pkg": "cz.studio9.sa", "ess": false, "note": "RegioJet-Züge und Busse", "city": ""}, {"name": "Leo Express", "cat": "rail", "pkg": "com.leoexpress.leoexpress", "ess": false, "note": "Leo-Express-Züge und Busse", "city": ""}, {"name": "Záchranka", "cat": "safety", "pkg": "com.medicalit.zachranka", "ess": false, "note": "Notruf-App mit Standortübermittlung", "city": ""}], "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/de/czech-republic",
+ "fetched": "2026-11-17",
+ "updated": "August 2026",
+ "note": "PID-Tickets vor dem Einsteigen aktivieren und warten, bis sie gültig sind; der Airport Express ist nicht enthalten.",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Fahrdienst, Preis und Wartezeit mit Uber vergleichen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrten in Prag und weiteren Städten, auch Flughafentaxi",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Liftago",
+   "cat": "taxi",
+   "pkg": "com.adleritech.app.liftago.passenger",
+   "ess": false,
+   "note": "Lizenzierte Taxis in 15 Städten per App bestellen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe liefern lassen, auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "foodora",
+   "cat": "delivery",
+   "pkg": "se.onlinepizza",
+   "ess": true,
+   "note": "Großes Liefernetz für Restaurants und Lebensmittel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Lieferdienst von Bolt für Essen und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Mapy.com",
+   "cat": "maps",
+   "pkg": "cz.seznam.mapy",
+   "ess": true,
+   "note": "Karte mit Wanderwegen und Offline-Navigation",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "PID Lítačka",
+   "cat": "transit",
+   "pkg": "cz.dpp.praguepublictransport",
+   "ess": true,
+   "note": "Offizielle Prager ÖPNV-App mit Handytickets",
+   "city": "Prague",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "IDOS",
+   "cat": "rail",
+   "pkg": "cz.mafra.jizdnirady",
+   "ess": true,
+   "note": "Landesweite Fahrplanauskunft für Bahn und Bus",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Prague Visitor Pass",
+   "cat": "tourism",
+   "pkg": "cz.operatorict.pvp",
+   "ess": false,
+   "note": "Offizielle Prager Citycard mit Nahverkehr",
+   "city": "Prague",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Můj vlak",
+   "cat": "rail",
+   "pkg": "cz.cd.mujvlak.an",
+   "ess": true,
+   "note": "Offizielle App der ČD für Tickets und Verspätungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "RegioJet",
+   "cat": "rail",
+   "pkg": "cz.studio9.sa",
+   "ess": false,
+   "note": "Tickets für RegioJet-Züge und Fernbusse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Leo Express",
+   "cat": "rail",
+   "pkg": "com.leoexpress.leoexpress",
+   "ess": false,
+   "note": "Tickets für Leo-Express-Züge und Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Záchranka",
+   "cat": "safety",
+   "pkg": "com.medicalit.zachranka",
+   "ess": false,
+   "note": "Notruf-App, übermittelt den Standort an den Rettungsdienst",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/czech-republic"
+  },
+  {
+   "name": "Bolt Drive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing in Prag, buchbar in der Bolt-App",
+   "city": "Prague",
+   "use": "limited",
+   "req": "Führerschein und Ausweis in der App fotografieren und prüfen lassen",
+   "src": "https://cc.cz/carsharing-od-boltu-ma-za-sebou-prvni-mesice-v-praze-utoci-cenou-zkusili-jsme-jak-funguje/"
+  },
+  {
+   "name": "Anytime Carsharing CZ",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Free-Floating-Carsharing in Prag, Plzeň und Kladno",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein Klasse B nötig, Registrierung mit persönlichen Daten in der App",
+   "src": "https://apps.apple.com/us/app/id1454244328?l=en-us"
+  },
+  {
+   "name": "Rekola",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder und E-Bikes in Prag",
+   "city": "Prague",
+   "use": "ok",
+   "req": "",
+   "src": "https://pid.cz/en/?p=177681"
+  },
+  {
+   "name": "Nextbike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder in Prag, mit Lítačka-Konto koppelbar",
+   "city": "Prague",
+   "use": "ok",
+   "req": "",
+   "src": "https://pid.cz/en/?p=177681"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkgebühren in den Prager Zonen per App zahlen",
+   "city": "Prague",
+   "use": "ok",
+   "req": "",
+   "src": "https://parking.praha.eu/en/payment-for-parking/"
+  },
+  {
+   "name": "ParkSimply",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizieller Partner für Zonenparken in Prag",
+   "city": "Prague",
+   "use": "ok",
+   "req": "",
+   "src": "https://parking.praha.eu/en/payment-for-parking/"
+  },
+  {
+   "name": "citymove",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken in Prag bezahlen, offizieller Vertragspartner",
+   "city": "Prague",
+   "use": "ok",
+   "req": "",
+   "src": "https://parking.praha.eu/en/payment-for-parking/"
+  },
+  {
+   "name": "SEJF",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken und ÖPNV-Tickets in mehreren Städten, Zahlung per Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/ly/app/sejf/id301404273"
+  },
+  {
+   "name": "DPMBinfo",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "App der Brnoer Verkehrsbetriebe mit Tickets und Abfahrten",
+   "city": "Brno",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/dpmbinfo/id1269475431"
+  },
+  {
+   "name": "Virtuální Plzeňská karta",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "ÖPNV-Tickets in Plzeň, Einzelfahrschein ohne Registrierung",
+   "city": "Plzen",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitplzen.eu/en/useful-information/transport-around-pilsen/"
+  }
+ ]
+}

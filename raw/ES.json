@@ -1,1 +1,354 @@
-{"src": "https://www.bento.travel/spain", "updated": "August 2026", "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht Pflicht, also nicht dafür zahlen.", "apps": [{"name": "Cabify", "cat": "taxi", "pkg": "com.cabify.rider", "ess": false, "note": "Lizenzierte Fahrzeuge, Preis vorab sichtbar", "city": ""}, {"name": "FREE NOW", "cat": "taxi", "pkg": "taxi.android.client", "ess": false, "note": "Lizenztaxis in unterstützten Städten", "city": ""}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": false, "note": "Verfügbarkeit je nach Stadt prüfen", "city": ""}, {"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": false, "note": "Restaurant, Supermarkt und mehr", "city": ""}, {"name": "Just Eat", "cat": "delivery", "pkg": "com.justeat.app.uk", "ess": false, "note": "Restaurant-Lieferung", "city": ""}, {"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": false, "note": "Lieferdienst, Adresse prüfen", "city": ""}, {"name": "Citymapper", "cat": "maps", "pkg": "com.citymapper.app.release", "ess": false, "note": "Routenplanung in unterstützten Städten", "city": ""}, {"name": "Renfe", "cat": "rail", "pkg": "com.renfeviajeros.ticket", "ess": false, "note": "Offizielle App für Renfe-Tickets", "city": ""}, {"name": "ALSA", "cat": "rail", "pkg": "com.mo2o.alsa", "ess": false, "note": "Offizielle Fernbus-App", "city": ""}, {"name": "BlaBlaCar", "cat": "rail", "pkg": "com.comuto", "ess": false, "note": "Fahrgemeinschaften und Busse", "city": ""}, {"name": "TheFork", "cat": "delivery", "pkg": "com.lafourchette.lafourchette", "ess": false, "note": "Restaurants reservieren mit Aktionen", "city": ""}, {"name": "AlertCops", "cat": "safety", "pkg": "com.alertcops4.app", "ess": false, "note": "Offizieller Polizei-Chat, mehrsprachig", "city": ""}], "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/spain",
+ "fetched": "2026-11-17",
+ "updated": "Last updated: August 2026",
+ "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht nötig, also nichts dafür zahlen.",
+ "discontinued": [
+  {
+   "name": "Tarjeta Transporte Virtual",
+   "pkg": "com.crtm.virtual",
+   "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/?lang=en"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Cabify",
+   "cat": "taxi",
+   "pkg": "com.cabify.rider",
+   "ess": false,
+   "note": "Lizenzierte Fahrzeuge, Preis vorab sichtbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Freenow",
+   "cat": "taxi",
+   "pkg": "taxi.android.client",
+   "ess": false,
+   "note": "Lizenztaxis in vielen Städten bestellen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Fahrdienst in ausgewählten Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": false,
+   "note": "Essen, Einkäufe und mehr liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Just Eat",
+   "cat": "delivery",
+   "pkg": "com.justeat.app.uk",
+   "ess": false,
+   "note": "Restaurantlieferung, Preise vergleichen lohnt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": false,
+   "note": "Essenslieferung in abgedeckten Gebieten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Citymapper",
+   "cat": "maps",
+   "pkg": "com.citymapper.app.release",
+   "ess": false,
+   "note": "Routenplanung mit allen Verkehrsmitteln",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Renfe",
+   "cat": "rail",
+   "pkg": "com.renfeviajeros.ticket",
+   "ess": false,
+   "note": "Offizielle App für Renfe Züge",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Alsa",
+   "cat": "rail",
+   "pkg": "com.mo2o.alsa",
+   "ess": false,
+   "note": "Fernbustickets und Live Infos",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "BlaBlaCar",
+   "cat": "rail",
+   "pkg": "com.comuto",
+   "ess": false,
+   "note": "Mitfahrgelegenheiten und Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "TheFork",
+   "cat": "delivery",
+   "pkg": "com.lafourchette.lafourchette",
+   "ess": false,
+   "note": "Restaurants finden und mit Rabatt reservieren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "AlertCops",
+   "cat": "safety",
+   "pkg": "com.alertcops4.app",
+   "ess": true,
+   "note": "Mehrsprachiger Kontakt zur Polizei",
+   "city": "",
+   "use": "limited",
+   "req": "Bestätigung mit ausländischer Nummer klappt nicht immer",
+   "src": "https://www.bento.travel/spain"
+  },
+  {
+   "name": "Bizum",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Spanisches Sofortüberweisen per Handynummer",
+   "city": "",
+   "use": "no",
+   "req": "Nur mit spanischem oder andorranischem Bankkonto (IBAN)",
+   "src": "https://bizum.com/es/en/faqs/can-i-bizum-a-person-with-an-account-abroad-and-if-he-has-a-mobile-phone-abroad/"
+  },
+  {
+   "name": "iryo",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Hochgeschwindigkeitszüge, Tickets in der App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/gb/app/iryo/id6444018990"
+  },
+  {
+   "name": "OUIGO España",
+   "cat": "rail",
+   "pkg": "com.sncf.ouigo.espana",
+   "ess": false,
+   "note": "Günstige Schnellzüge, Ticket als QR Code",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.ouigo.com/es/ventajas-app-trenes"
+  },
+  {
+   "name": "Free2Move",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing per App",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+   "src": "https://www.esmadrid.com/en/node/94965"
+  },
+  {
+   "name": "Europcar On Demand",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos rund um die Uhr per App mieten",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+   "src": "https://www.esmadrid.com/en/node/94965"
+  },
+  {
+   "name": "WiBle",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing mit Plug in Hybriden",
+   "city": "Madrid",
+   "use": "limited",
+   "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+   "src": "https://www.esmadrid.com/en/node/94965"
+  },
+  {
+   "name": "guppy",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos, Transporter und Roller stunden oder tageweise",
+   "city": "Madrid",
+   "use": "limited",
+   "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+   "src": "https://www.esmadrid.com/en/node/94965"
+  },
+  {
+   "name": "Voltio",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektrisches Carsharing, Öffnen per Handy",
+   "city": "Madrid",
+   "use": "limited",
+   "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+   "src": "https://www.esmadrid.com/en/node/94965"
+  },
+  {
+   "name": "Acciona",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektrische Leihroller (Motosharing)",
+   "city": "",
+   "use": "limited",
+   "req": "Volljährig, Motorradführerschein oder Autoführerschein seit 3 Jahren, Kreditkarte",
+   "src": "https://www.ifema.es/visita-madrid/guias/alquiler-motos-madrid"
+  },
+  {
+   "name": "Cooltra",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektroroller minuten oder tageweise mieten",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 mit AM oder B für 50 ccm, für 125 ccm ab 21 mit 3 Jahren Autoführerschein",
+   "src": "https://www.ifema.es/visita-madrid/guias/alquiler-motos-madrid"
+  },
+  {
+   "name": "Metro de Madrid",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Metro App mit Netzinfos",
+   "city": "Madrid",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.comunidad.madrid/transporte/apps-transporte-publico"
+  },
+  {
+   "name": "EMT Madrid",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtbusse, Ankunftszeiten und Linien",
+   "city": "Madrid",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id332237215"
+  },
+  {
+   "name": "Mi Tarjeta Transporte",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Verkehrskarte aufladen und im Handy nutzen",
+   "city": "Madrid",
+   "use": "limited",
+   "req": "Nur Android, braucht eine persönliche Tarjeta Transporte (TTP Personal)",
+   "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/?lang=en"
+  },
+  {
+   "name": "TMB App",
+   "cat": "transit",
+   "pkg": "com.geomobile.tmbmobile",
+   "ess": false,
+   "note": "Metro und Bus, Tickets kaufen und aufladen",
+   "city": "Barcelona",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tmb.cat/en/barcelona/tmb-app-t-mobilitat"
+  },
+  {
+   "name": "Hola Barcelona",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reisekarte und Tickets für Metro und Bus",
+   "city": "Barcelona",
+   "use": "ok",
+   "req": "",
+   "src": "https://blog.holabarcelona.com/en/hola-barcelona/best-apps-get-around-barcelona"
+  },
+  {
+   "name": "Smou",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Blaue und grüne Parkzonen per Handy zahlen",
+   "city": "Barcelona",
+   "use": "limited",
+   "req": "Leihräder Bicing nur für Einwohner Barcelonas",
+   "src": "https://bsmsa.cat/en/press_releases/40-payments-regulated-parking-barcelona-and-metropolitan-area-are-now-made-using-smou-app"
+  },
+  {
+   "name": "EMT Valencia",
+   "cat": "transit",
+   "pkg": "es.emtvalencia.emt",
+   "ess": false,
+   "note": "Busankunft, Routen und Haltestellen",
+   "city": "Valencia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitvalencia.com/en/plan-your-trip-to-valencia/getting-around/buses-in-valencia"
+  },
+  {
+   "name": "Metrobus",
+   "cat": "transit",
+   "pkg": "com.softoursistemas.metgovalencia",
+   "ess": false,
+   "note": "Gelbe Regionalbusse rund um Valencia",
+   "city": "Valencia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitvalencia.com/en/plan-your-trip-to-valencia/getting-around/buses-in-valencia"
+  },
+  {
+   "name": "Superpedestrian",
+   "cat": "micro",
+   "pkg": "com.superpedestrian.link",
+   "city": "",
+   "use": "limited",
+   "req": "Betrieb in Spanien unklar, die europäische Gesellschaft wurde 2025 aufgelöst",
+   "src": "https://zagdaily.com/trends/superpedestrian-europe-bv-closes-down-but-brand-lives-on/"
+  }
+ ]
+}

@@ -1,1 +1,315 @@
-{"src": "https://www.bento.travel/france", "updated": "August 2026", "note": "In Paris für Nahverkehrstickets die IDFM-App oder Navigo Easy nutzen, nicht nur die Bankkarte.", "apps": [{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Fahrdienst mit Preisschätzung", "city": ""}, {"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": false, "note": "Preis- und Wartezeitvergleich", "city": ""}, {"name": "G7 Taxi", "cat": "taxi", "pkg": "fr.taxisg7.grandpublic", "ess": false, "note": "Lizenzierte Taxis, Flughafen-Fixpreise", "city": "Paris"}, {"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": true, "note": "Breite Lieferabdeckung", "city": ""}, {"name": "Deliveroo", "cat": "delivery", "pkg": "com.deliveroo.orderapp", "ess": false, "note": "Lieferdienst, Gebühren prüfen", "city": ""}, {"name": "Cartes IGN", "cat": "maps", "pkg": "fr.ign.geoportail", "ess": false, "note": "Offizielle Outdoor-Karten, offline", "city": ""}, {"name": "Île-de-France Mobilités", "cat": "transit", "pkg": "com.applidium.vianavigo", "ess": true, "note": "Offizielle Tickets für Paris", "city": "Paris"}, {"name": "SNCF Connect", "cat": "rail", "pkg": "com.vsct.vsc.mobile.horaireetresa.android", "ess": true, "note": "TGV, Intercités, OUIGO, viele TER", "city": ""}, {"name": "BlaBlaCar", "cat": "rail", "pkg": "com.comuto", "ess": false, "note": "Mitfahrbörse für Fernfahrten", "city": ""}, {"name": "TheFork", "cat": "delivery", "pkg": "com.lafourchette.lafourchette", "ess": false, "note": "Restaurants reservieren", "city": ""}, {"name": "Météo-France", "cat": "safety", "pkg": "fr.meteo", "ess": false, "note": "Offizielle Wetterwarnungen", "city": ""}], "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/france",
+ "fetched": "2026-11-17",
+ "updated": "Last updated: August 2026",
+ "note": "In Paris Fahrkarten per App Île-de-France Mobilités oder Navigo Easy Karte kaufen, die Bankkarte gilt nicht als Ticket.",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrdienst in Paris und vielen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Zweiter Fahrdienst zum Preisvergleich",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "G7 Taxi",
+   "cat": "taxi",
+   "pkg": "fr.taxisg7.grandpublic",
+   "ess": false,
+   "note": "Lizenzierte Taxis, stark in Paris, auch Flughafenfahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": true,
+   "note": "Essen und Lebensmittel nach Hause liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "Deliveroo",
+   "cat": "delivery",
+   "pkg": "com.deliveroo.orderapp",
+   "ess": false,
+   "note": "Lieferdienst, bezahlt wird nur per Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "TheFork",
+   "cat": "delivery",
+   "pkg": "com.lafourchette.lafourchette",
+   "ess": false,
+   "note": "Restaurants finden und mit Rabatt reservieren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "Cartes IGN",
+   "cat": "maps",
+   "pkg": "fr.ign.geoportail",
+   "ess": false,
+   "note": "Amtliche Wanderkarten mit Wegen und GPX",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "SNCF Connect",
+   "cat": "rail",
+   "pkg": "com.vsct.vsc.mobile.horaireetresa.android",
+   "ess": true,
+   "note": "Bahntickets für TGV, OUIGO, Intercités und TER",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "BlaBlaCar",
+   "cat": "rail",
+   "pkg": "com.comuto",
+   "ess": false,
+   "note": "Mitfahrgelegenheiten und günstige Fernbusse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "Météo-France",
+   "cat": "safety",
+   "pkg": "fr.meteo",
+   "ess": false,
+   "note": "Amtliche Wetterwarnungen und Regenradar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "Île-de-France Mobilités",
+   "cat": "transit",
+   "pkg": "com.applidium.vianavigo",
+   "ess": true,
+   "note": "Offizielle Routen und Tickets für den Großraum Paris",
+   "city": "Paris",
+   "use": "limited",
+   "req": "Handyticket nur auf kompatiblem Smartphone, sonst Navigo Easy Karte nutzen",
+   "src": "https://www.bento.travel/france"
+  },
+  {
+   "name": "Bonjour RATP",
+   "cat": "transit",
+   "pkg": "com.fabernovel.ratp",
+   "ess": false,
+   "note": "RATP App mit Routen und Handytickets für Paris",
+   "city": "Paris",
+   "use": "limited",
+   "req": "Handyticket nur auf kompatiblem Smartphone, Prüfung erfolgt in der App",
+   "src": "https://www.ratp.fr/en/titres-et-tarifs/smartphone-tickets"
+  },
+  {
+   "name": "Vélib'",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Stationsgebundene Leihräder, auch als 24-Stunden-Pass",
+   "city": "Paris",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.velib-metropole.fr/en/subscription/V1_OFFRE_CD_DECOUVERTE/1"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Freie E-Bikes in Paris, keine Leih-E-Scooter mehr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.paris.fr/pages/velo-en-libre-service-bientot-un-troisieme-operateur-a-paris-31482"
+  },
+  {
+   "name": "Dott",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Freie E-Bikes, in Paris einer von drei Anbietern",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.paris.fr/pages/velo-en-libre-service-bientot-un-troisieme-operateur-a-paris-31482"
+  },
+  {
+   "name": "Voi",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Freie E-Bikes, seit Oktober 2025 in Paris",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.paris.fr/pages/velo-en-libre-service-bientot-un-troisieme-operateur-a-paris-31482"
+  },
+  {
+   "name": "Getaround",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos von Privatleuten mieten, teils ohne Schlüsselübergabe",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 Jahren, mindestens 2 Jahre Führerschein (Basisautos), Bankkarte auf eigenen Namen, Kaution",
+   "src": "https://serenitrip.fr/guide/location-voiture/acteurs/particulier/getaround/"
+  },
+  {
+   "name": "Free2move",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektroautos minutenweise in Paris und Umgebung",
+   "city": "Paris",
+   "use": "limited",
+   "req": "Führerschein und Ausweis in der App prüfen lassen, Kreditkarte nötig",
+   "src": "https://www.iledefrance-mobilites.fr/pt/le-reseau/services-de-mobilite/auto-partage/operateurs-autopartage-labellises"
+  },
+  {
+   "name": "Communauto",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Stationsautos stunden- oder tageweise, Sprit inklusive",
+   "city": "Paris",
+   "use": "limited",
+   "req": "Vorab Registrierung mit Führerschein, Kreditkarte nötig",
+   "src": "https://www.quechoisir.org/actualite-autopartage-a-paris-des-solutions-subsistent-n167464/"
+  },
+  {
+   "name": "PayByPhone",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken per Handy bezahlen, in Paris zugelassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkgebühren per App, in Paris zugelassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
+  },
+  {
+   "name": "Indigo Neo",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Straßenparken in Paris und Indigo Parkhäuser",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
+  },
+  {
+   "name": "TCL",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Fahrplan und Echtzeit App für Lyon",
+   "city": "Lyon",
+   "use": "ok",
+   "req": "",
+   "src": "https://tcl.fr/en/discover/tcl-applications"
+  },
+  {
+   "name": "TCL E-Ticket",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Tickets für Bus, Tram und Metro in Lyon kaufen",
+   "city": "Lyon",
+   "use": "limited",
+   "req": "Nur Android Smartphone mit NFC, kein iPhone",
+   "src": "https://tcl.fr/en/discover/tcl-applications"
+  },
+  {
+   "name": "Lignes d'Azur",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App für Bus und Tram in Nizza",
+   "city": "Nice",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.france.fr/de/nuetzliche-tipps/oeffentliche-verkehrsmittel-nizza"
+  },
+  {
+   "name": "TBM mobilités",
+   "cat": "transit",
+   "pkg": "com.infotbm.tbm",
+   "ess": false,
+   "note": "Fahrpläne, Routen und E-Tickets in Bordeaux",
+   "city": "Bordeaux",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.infotbm.com/en/visit/tickets-and-fares-visitors.html"
+  },
+  {
+   "name": "Go City",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Paris Pass mit Eintritt zu vielen Sehenswürdigkeiten",
+   "city": "Paris",
+   "use": "ok",
+   "req": "",
+   "src": "https://gocity.com/en/paris"
+  },
+  {
+   "name": "Flowbird",
+   "cat": "parking",
+   "pkg": "group.flowbird.mpp",
+   "city": "",
+   "use": "limited",
+   "req": "In Paris seit 4. Juli 2026 keine Parkzahlung mehr möglich, dort EasyPark nutzen",
+   "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
+  }
+ ]
+}

@@ -2,36 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "CZ",
-"en": "Czechia",
-"slug": "czech-republic",
-"recheck": true
-},
-{
-"code": "DK",
-"en": "Denmark",
-"slug": "denmark",
-"recheck": true
-},
-{
-"code": "ES",
-"en": "Spain",
-"slug": "spain",
-"recheck": true
-},
-{
-"code": "FR",
-"en": "France",
-"slug": "france",
-"recheck": true
-},
-{
-"code": "GB",
-"en": "United Kingdom",
-"slug": "united-kingdom",
-"recheck": true
-},
-{
 "code": "GR",
 "en": "Greece",
 "slug": "greece",
@@ -262,5 +232,36 @@
 "slug": "land-islands"
 }
 ],
-"done": []
+"done": [
+{
+"code": "CZ",
+"en": "Czechia",
+"slug": "czech-republic",
+"recheck": true
+},
+{
+"code": "DK",
+"en": "Denmark",
+"slug": "denmark",
+"recheck": true
+},
+{
+"code": "ES",
+"en": "Spain",
+"slug": "spain",
+"recheck": true
+},
+{
+"code": "FR",
+"en": "France",
+"slug": "france",
+"recheck": true
+},
+{
+"code": "GB",
+"en": "United Kingdom",
+"slug": "united-kingdom",
+"recheck": true
+}
+]
 }
