@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 17:24",
+ "version": "2026-11-17 17:29",
  "categories": [
   {
    "id": "entry",
@@ -483,15 +483,16 @@
     {
      "name": "UK ETA",
      "cat": "entry",
-     "note": "Offizielle App für die Einreisegenehmigung",
+     "note": "Offizielle App für die Einreisegenehmigung ETA, Pflicht für Deutsche",
      "src": "https://www.bento.travel/united-kingdom",
-     "pkg": "uk.gov.HomeOffice.ho3"
+     "pkg": "uk.gov.HomeOffice.ho3",
+     "ess": true
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Größte Fahrdienst-App, auch Belfast",
+     "note": "Fahrdienst in vielen Orten und in Belfast",
      "ess": true,
      "src": "https://www.bento.travel/united-kingdom"
     },
@@ -499,14 +500,14 @@
      "name": "FREE NOW",
      "cat": "taxi",
      "pkg": "taxi.android.client",
-     "note": "Taxis, in London auch Black Cabs",
+     "note": "Black Cabs und Mietwagen mit Fahrer, z. B. London",
      "src": "https://www.bento.travel/united-kingdom"
     },
     {
      "name": "Just Eat",
      "cat": "delivery",
      "pkg": "com.justeat.app.uk",
-     "note": "Lieferung und Abholung landesweit",
+     "note": "Essen liefern oder abholen, Angebot je nach Postleitzahl",
      "ess": true,
      "src": "https://www.bento.travel/united-kingdom"
     },
@@ -514,7 +515,7 @@
      "name": "Deliveroo",
      "cat": "delivery",
      "pkg": "com.deliveroo.orderapp",
-     "note": "Essen und Einkäufe, stark in London",
+     "note": "Essen und Einkäufe, besonders stark in London",
      "ess": true,
      "src": "https://www.bento.travel/united-kingdom"
     },
@@ -522,14 +523,14 @@
      "name": "OS Maps",
      "cat": "maps",
      "pkg": "uk.co.ordnancesurvey.osmaps",
-     "note": "Wander- und Radkarten, offline",
+     "note": "Genaue Wander- und Radkarten, auch offline",
      "src": "https://www.bento.travel/united-kingdom"
     },
     {
      "name": "Citymapper",
      "cat": "transit",
      "pkg": "com.citymapper.app.release",
-     "note": "Nahverkehr mit Echtzeit",
+     "note": "Routenplaner mit Live-Abfahrten in großen Städten",
      "ess": true,
      "src": "https://www.bento.travel/united-kingdom"
     },
@@ -537,14 +538,14 @@
      "name": "Translink Planner",
      "cat": "transit",
      "pkg": "com.mdv.TranslinkCompanion",
-     "note": "Busse und Züge in Nordirland",
+     "note": "Busse und Züge in Nordirland planen, mit Tickets",
      "src": "https://www.bento.travel/united-kingdom"
     },
     {
      "name": "National Rail",
      "cat": "rail",
      "pkg": "uk.co.nationalrail.google",
-     "note": "Offizielle Bahnplanung mit Live-Daten",
+     "note": "Offizielle Zugauskunft mit Live-Status",
      "ess": true,
      "src": "https://www.bento.travel/united-kingdom"
     },
@@ -552,14 +553,14 @@
      "name": "National Express",
      "cat": "rail",
      "pkg": "com.utrack.nationalexpress",
-     "note": "Fernbusse",
+     "note": "Fernbusse mit Handyticket und Live-Ortung",
      "src": "https://www.bento.travel/united-kingdom"
     },
     {
      "name": "OpenTable",
      "cat": "delivery",
      "pkg": "com.opentable",
-     "note": "Restaurants reservieren",
+     "note": "Tische reservieren mit Live-Verfügbarkeit",
      "ess": true,
      "src": "https://www.bento.travel/united-kingdom"
     },
@@ -567,7 +568,7 @@
      "name": "TheFork",
      "cat": "delivery",
      "pkg": "com.lafourchette.lafourchette",
-     "note": "Restaurants mit Rabatten",
+     "note": "Restaurants buchen, teils mit Rabatt",
      "src": "https://www.bento.travel/united-kingdom"
     },
     {
@@ -581,12 +582,66 @@
      "name": "Met Office Weather",
      "cat": "safety",
      "pkg": "uk.gov.metoffice.weather.android",
-     "note": "Offizielle Unwetterwarnungen",
+     "note": "Offizieller Wetterdienst mit Unwetterwarnungen",
      "ess": true,
      "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "Zipcar",
+     "cat": "carshare",
+     "note": "Autos und Transporter stunden- oder tageweise leihen",
+     "use": "limited",
+     "req": "Konto mit Führerscheinprüfung, ab 21 Jahren, bei ausländischem Führerschein weitere Ausweisdokumente",
+     "src": "https://support.zipcar.com/hc/en-us/articles/220333808-Am-I-eligible-to-join-Zipcar"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "E-Bikes und in London E-Scooter ohne Station",
+     "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+    },
+    {
+     "name": "Voi",
+     "cat": "micro",
+     "note": "E-Scooter und E-Bikes in vielen Städten",
+     "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+    },
+    {
+     "name": "Beryl",
+     "cat": "micro",
+     "note": "Räder, E-Bikes und E-Scooter, z. B. Manchester und Birmingham",
+     "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+    },
+    {
+     "name": "PayByPhone",
+     "cat": "parking",
+     "pkg": "com.paybyphone",
+     "note": "Parken per App, auch auf Parkplätzen von TfL",
+     "src": "https://www.paybyphone.co.uk/tfl"
+    },
+    {
+     "name": "RingGo",
+     "cat": "parking",
+     "note": "Parkgebühren per App in vielen Gemeinden zahlen",
+     "src": "https://haringey.gov.uk/parking/ringgo-parking-pay-by-phone"
     }
    ],
    "cities": [
+    {
+     "name": "Edinburgh",
+     "match": [
+      "Edinburgh"
+     ],
+     "apps": [
+      {
+       "name": "Lothian Buses Edinburgh Trams",
+       "cat": "transit",
+       "pkg": "travel.ticketless.app.lothian",
+       "note": "Offizielle App für Bus und Tram mit Tickets und Live-Zeiten",
+       "src": "https://lothianbuses.com/app"
+      }
+     ]
+    },
     {
      "name": "London",
      "match": [
@@ -599,7 +654,42 @@
        "cat": "transit",
        "pkg": "uk.gov.tfl.gotfl",
        "mine": true,
-       "ess": true
+       "ess": true,
+       "use": "limited",
+       "req": "Zahlungsfunktion regional eingeschränkt"
+      },
+      {
+       "name": "Resy",
+       "cat": "delivery",
+       "pkg": "com.resy.android.prod",
+       "note": "Reservierungen, vor allem in London",
+       "src": "https://www.bento.travel/united-kingdom"
+      },
+      {
+       "name": "Santander Cycles",
+       "cat": "micro",
+       "note": "Leihräder und E-Bikes von TfL mit Freigabecode",
+       "src": "https://tfl.gov.uk/modes/cycling/santander-cycles/app"
+      },
+      {
+       "name": "Forest",
+       "cat": "micro",
+       "note": "E-Bikes in vielen Londoner Bezirken, Parken in grünen Zonen",
+       "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes"
+      }
+     ]
+    },
+    {
+     "name": "Manchester",
+     "match": [
+      "Manchester"
+     ],
+     "apps": [
+      {
+       "name": "Bee Network",
+       "cat": "transit",
+       "note": "Offizielle App für Tram- und Busfahrkarten, Zahlung per Google Pay",
+       "src": "https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app"
       }
      ]
     },
@@ -619,7 +709,7 @@
      ]
     }
    ],
-   "note": "Vor Abreise die UK ETA für den genutzten Reisepass beantragen; Nordirland nutzt Translink statt National Rail.",
+   "note": "Deutsche brauchen vor der Reise eine UK ETA, am einfachsten über die offizielle App beantragen.",
    "src": "https://www.bento.travel/united-kingdom",
    "checked": "2026-11-17"
   },
@@ -909,7 +999,9 @@
      "name": "Superpedestrian",
      "cat": "micro",
      "pkg": "com.superpedestrian.link",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Betrieb in Spanien unklar, die europäische Gesellschaft wurde 2025 aufgelöst"
     },
     {
      "name": "Uber Eats",
@@ -957,24 +1049,26 @@
     {
      "name": "Renfe",
      "cat": "rail",
-     "note": "Offizielle App für Renfe-Tickets",
+     "note": "Offizielle App für Renfe Züge",
      "pkg": "com.renfeviajeros.ticket",
      "src": "https://www.bento.travel/spain"
     },
     {
      "name": "iryo",
      "cat": "rail",
-     "note": "Privater Hochgeschwindigkeitszug"
+     "note": "Hochgeschwindigkeitszüge, Tickets in der App",
+     "src": "https://apps.apple.com/gb/app/iryo/id6444018990"
     },
     {
      "name": "OUIGO España",
      "cat": "rail",
-     "note": "Günstiger Hochgeschwindigkeitszug"
+     "note": "Günstiger Hochgeschwindigkeitszug",
+     "pkg": "com.sncf.ouigo.espana"
     },
     {
      "name": "ALSA",
      "cat": "rail",
-     "note": "Offizielle Fernbus-App",
+     "note": "Fernbustickets und Live Infos",
      "pkg": "com.mo2o.alsa",
      "src": "https://www.bento.travel/spain"
     },
@@ -982,50 +1076,93 @@
      "name": "FREE NOW",
      "cat": "taxi",
      "pkg": "taxi.android.client",
-     "note": "Lizenztaxis in unterstützten Städten",
+     "note": "Lizenztaxis in vielen Städten bestellen",
      "src": "https://www.bento.travel/spain"
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Verfügbarkeit je nach Stadt prüfen",
+     "note": "Fahrdienst in ausgewählten Städten",
      "src": "https://www.bento.travel/spain"
     },
     {
      "name": "Just Eat",
      "cat": "delivery",
      "pkg": "com.justeat.app.uk",
-     "note": "Restaurant-Lieferung",
+     "note": "Restaurantlieferung, Preise vergleichen lohnt",
      "src": "https://www.bento.travel/spain"
     },
     {
      "name": "Citymapper",
      "cat": "maps",
      "pkg": "com.citymapper.app.release",
-     "note": "Routenplanung in unterstützten Städten",
+     "note": "Routenplanung mit allen Verkehrsmitteln",
      "src": "https://www.bento.travel/spain"
     },
     {
      "name": "BlaBlaCar",
      "cat": "rail",
      "pkg": "com.comuto",
-     "note": "Fahrgemeinschaften und Busse",
+     "note": "Mitfahrgelegenheiten und Busse",
      "src": "https://www.bento.travel/spain"
     },
     {
      "name": "TheFork",
      "cat": "delivery",
      "pkg": "com.lafourchette.lafourchette",
-     "note": "Restaurants reservieren mit Aktionen",
+     "note": "Restaurants finden und mit Rabatt reservieren",
      "src": "https://www.bento.travel/spain"
     },
     {
      "name": "AlertCops",
      "cat": "safety",
      "pkg": "com.alertcops4.app",
-     "note": "Offizieller Polizei-Chat, mehrsprachig",
-     "src": "https://www.bento.travel/spain"
+     "note": "Mehrsprachiger Kontakt zur Polizei",
+     "src": "https://www.bento.travel/spain",
+     "ess": true,
+     "use": "limited",
+     "req": "Bestätigung mit ausländischer Nummer klappt nicht immer"
+    },
+    {
+     "name": "Bizum",
+     "cat": "payment",
+     "note": "Spanisches Sofortüberweisen per Handynummer",
+     "use": "no",
+     "req": "Nur mit spanischem oder andorranischem Bankkonto (IBAN)",
+     "src": "https://bizum.com/es/en/faqs/can-i-bizum-a-person-with-an-account-abroad-and-if-he-has-a-mobile-phone-abroad/"
+    },
+    {
+     "name": "Free2Move",
+     "cat": "carshare",
+     "note": "Carsharing per App",
+     "use": "limited",
+     "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+     "src": "https://www.esmadrid.com/en/node/94965"
+    },
+    {
+     "name": "Europcar On Demand",
+     "cat": "carshare",
+     "note": "Autos rund um die Uhr per App mieten",
+     "use": "limited",
+     "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+     "src": "https://www.esmadrid.com/en/node/94965"
+    },
+    {
+     "name": "Acciona",
+     "cat": "micro",
+     "note": "Elektrische Leihroller (Motosharing)",
+     "use": "limited",
+     "req": "Volljährig, Motorradführerschein oder Autoführerschein seit 3 Jahren, Kreditkarte",
+     "src": "https://www.ifema.es/visita-madrid/guias/alquiler-motos-madrid"
+    },
+    {
+     "name": "Cooltra",
+     "cat": "micro",
+     "note": "Elektroroller minuten oder tageweise mieten",
+     "use": "limited",
+     "req": "Ab 18 mit AM oder B für 50 ccm, für 125 ccm ab 21 mit 3 Jahren Autoführerschein",
+     "src": "https://www.ifema.es/visita-madrid/guias/alquiler-motos-madrid"
     }
    ],
    "cities": [
@@ -1044,12 +1181,22 @@
       {
        "name": "TMB App",
        "cat": "transit",
-       "note": "Metro und Bus Barcelona"
+       "note": "Metro und Bus Barcelona",
+       "pkg": "com.geomobile.tmbmobile"
       },
       {
        "name": "Smou",
        "cat": "parking",
-       "note": "Städtische Mobilitäts-App: Parken, Bicing, Laden"
+       "note": "Blaue und grüne Parkzonen per Handy zahlen",
+       "src": "https://bsmsa.cat/en/press_releases/40-payments-regulated-parking-barcelona-and-metropolitan-area-are-now-made-using-smou-app",
+       "use": "limited",
+       "req": "Leihräder Bicing nur für Einwohner Barcelonas"
+      },
+      {
+       "name": "Hola Barcelona",
+       "cat": "tourism",
+       "note": "Reisekarte und Tickets für Metro und Bus",
+       "src": "https://blog.holabarcelona.com/en/hola-barcelona/best-apps-get-around-barcelona"
       }
      ]
     },
@@ -1064,22 +1211,80 @@
        "cat": "transit",
        "pkg": "com.crtm.virtual",
        "note": "Virtuelle Madrider ÖPNV-Karte",
-       "mine": true
+       "mine": true,
+       "use": "no",
+       "req": "Laut Quelle eingestellt"
       },
       {
        "name": "Metro de Madrid",
        "cat": "transit",
-       "note": "Offizielle Metro-App"
+       "note": "Offizielle Metro App mit Netzinfos",
+       "src": "https://www.comunidad.madrid/transporte/apps-transporte-publico"
       },
       {
        "name": "EMT Madrid",
        "cat": "transit",
-       "note": "Stadtbusse Madrid"
+       "note": "Stadtbusse, Ankunftszeiten und Linien",
+       "src": "https://apps.apple.com/app/id332237215"
+      },
+      {
+       "name": "WiBle",
+       "cat": "carshare",
+       "note": "Carsharing mit Plug in Hybriden",
+       "use": "limited",
+       "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+       "src": "https://www.esmadrid.com/en/node/94965"
+      },
+      {
+       "name": "guppy",
+       "cat": "carshare",
+       "note": "Autos, Transporter und Roller stunden oder tageweise",
+       "use": "limited",
+       "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+       "src": "https://www.esmadrid.com/en/node/94965"
+      },
+      {
+       "name": "Voltio",
+       "cat": "carshare",
+       "note": "Elektrisches Carsharing, Öffnen per Handy",
+       "use": "limited",
+       "req": "Registrierung in der App mit Führerschein und Kreditkarte",
+       "src": "https://www.esmadrid.com/en/node/94965"
+      },
+      {
+       "name": "Mi Tarjeta Transporte",
+       "cat": "transit",
+       "note": "Verkehrskarte aufladen und im Handy nutzen",
+       "use": "limited",
+       "req": "Nur Android, braucht eine persönliche Tarjeta Transporte (TTP Personal)",
+       "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/?lang=en"
+      }
+     ]
+    },
+    {
+     "name": "Valencia",
+     "match": [
+      "Valencia"
+     ],
+     "apps": [
+      {
+       "name": "EMT Valencia",
+       "cat": "transit",
+       "pkg": "es.emtvalencia.emt",
+       "note": "Busankunft, Routen und Haltestellen",
+       "src": "https://www.visitvalencia.com/en/plan-your-trip-to-valencia/getting-around/buses-in-valencia"
+      },
+      {
+       "name": "Metrobus",
+       "cat": "transit",
+       "pkg": "com.softoursistemas.metgovalencia",
+       "note": "Gelbe Regionalbusse rund um Valencia",
+       "src": "https://www.visitvalencia.com/en/plan-your-trip-to-valencia/getting-around/buses-in-valencia"
       }
      ]
     }
    ],
-   "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht Pflicht, also nicht dafür zahlen.",
+   "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht nötig, also nichts dafür zahlen.",
    "src": "https://www.bento.travel/spain",
    "checked": "2026-11-17"
   },
@@ -1456,12 +1661,14 @@
      "name": "Flowbird",
      "cat": "parking",
      "pkg": "group.flowbird.mpp",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "In Paris seit 4. Juli 2026 keine Parkzahlung mehr möglich, dort EasyPark nutzen"
     },
     {
      "name": "SNCF Connect",
      "cat": "rail",
-     "note": "TGV, Intercités, OUIGO, viele TER",
+     "note": "Bahntickets für TGV, OUIGO, Intercités und TER",
      "pkg": "com.vsct.vsc.mobile.horaireetresa.android",
      "ess": true,
      "src": "https://www.bento.travel/france"
@@ -1469,13 +1676,14 @@
     {
      "name": "G7 Taxi",
      "cat": "taxi",
-     "note": "Lizenzierte Taxis in Paris und vielen Städten"
+     "note": "Lizenzierte Taxis in Paris und vielen Städten",
+     "pkg": "fr.taxisg7.grandpublic"
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Fahrdienst mit Preisschätzung",
+     "note": "Fahrdienst in Paris und vielen Städten",
      "ess": true,
      "src": "https://www.bento.travel/france"
     },
@@ -1483,14 +1691,14 @@
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "note": "Preis- und Wartezeitvergleich",
+     "note": "Zweiter Fahrdienst zum Preisvergleich",
      "src": "https://www.bento.travel/france"
     },
     {
      "name": "Uber Eats",
      "cat": "delivery",
      "pkg": "com.ubercab.eats",
-     "note": "Breite Lieferabdeckung",
+     "note": "Essen und Lebensmittel nach Hause liefern lassen",
      "ess": true,
      "src": "https://www.bento.travel/france"
     },
@@ -1498,39 +1706,134 @@
      "name": "Deliveroo",
      "cat": "delivery",
      "pkg": "com.deliveroo.orderapp",
-     "note": "Lieferdienst, Gebühren prüfen",
+     "note": "Lieferdienst, bezahlt wird nur per Karte",
      "src": "https://www.bento.travel/france"
     },
     {
      "name": "Cartes IGN",
      "cat": "maps",
      "pkg": "fr.ign.geoportail",
-     "note": "Offizielle Outdoor-Karten, offline",
+     "note": "Amtliche Wanderkarten mit Wegen und GPX",
      "src": "https://www.bento.travel/france"
     },
     {
      "name": "BlaBlaCar",
      "cat": "rail",
      "pkg": "com.comuto",
-     "note": "Mitfahrbörse für Fernfahrten",
+     "note": "Mitfahrgelegenheiten und günstige Fernbusse",
      "src": "https://www.bento.travel/france"
     },
     {
      "name": "TheFork",
      "cat": "delivery",
      "pkg": "com.lafourchette.lafourchette",
-     "note": "Restaurants reservieren",
+     "note": "Restaurants finden und mit Rabatt reservieren",
      "src": "https://www.bento.travel/france"
     },
     {
      "name": "Météo-France",
      "cat": "safety",
      "pkg": "fr.meteo",
-     "note": "Offizielle Wetterwarnungen",
+     "note": "Amtliche Wetterwarnungen und Regenradar",
      "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "Freie E-Bikes in Paris, keine Leih-E-Scooter mehr",
+     "src": "https://www.paris.fr/pages/velo-en-libre-service-bientot-un-troisieme-operateur-a-paris-31482"
+    },
+    {
+     "name": "Dott",
+     "cat": "micro",
+     "note": "Freie E-Bikes, in Paris einer von drei Anbietern",
+     "src": "https://www.paris.fr/pages/velo-en-libre-service-bientot-un-troisieme-operateur-a-paris-31482"
+    },
+    {
+     "name": "Voi",
+     "cat": "micro",
+     "note": "Freie E-Bikes, seit Oktober 2025 in Paris",
+     "src": "https://www.paris.fr/pages/velo-en-libre-service-bientot-un-troisieme-operateur-a-paris-31482"
+    },
+    {
+     "name": "Getaround",
+     "cat": "carshare",
+     "note": "Autos von Privatleuten mieten, teils ohne Schlüsselübergabe",
+     "use": "limited",
+     "req": "Ab 18 Jahren, mindestens 2 Jahre Führerschein (Basisautos), Bankkarte auf eigenen Namen, Kaution",
+     "src": "https://serenitrip.fr/guide/location-voiture/acteurs/particulier/getaround/"
+    },
+    {
+     "name": "PayByPhone",
+     "cat": "parking",
+     "note": "Parken per Handy bezahlen, in Paris zugelassen",
+     "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "note": "Parkgebühren per App, in Paris zugelassen",
+     "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
+    },
+    {
+     "name": "Indigo Neo",
+     "cat": "parking",
+     "note": "Straßenparken in Paris und Indigo Parkhäuser",
+     "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
     }
    ],
    "cities": [
+    {
+     "name": "Bordeaux",
+     "match": [
+      "Bordeaux"
+     ],
+     "apps": [
+      {
+       "name": "TBM mobilités",
+       "cat": "transit",
+       "pkg": "com.infotbm.tbm",
+       "note": "Fahrpläne, Routen und E-Tickets in Bordeaux",
+       "src": "https://www.infotbm.com/en/visit/tickets-and-fares-visitors.html"
+      }
+     ]
+    },
+    {
+     "name": "Lyon",
+     "match": [
+      "Lyon"
+     ],
+     "apps": [
+      {
+       "name": "TCL",
+       "cat": "transit",
+       "note": "Offizielle Fahrplan und Echtzeit App für Lyon",
+       "src": "https://tcl.fr/en/discover/tcl-applications"
+      },
+      {
+       "name": "TCL E-Ticket",
+       "cat": "transit",
+       "note": "Tickets für Bus, Tram und Metro in Lyon kaufen",
+       "use": "limited",
+       "req": "Nur Android Smartphone mit NFC, kein iPhone",
+       "src": "https://tcl.fr/en/discover/tcl-applications"
+      }
+     ]
+    },
+    {
+     "name": "Nice",
+     "match": [
+      "Nice"
+     ],
+     "apps": [
+      {
+       "name": "Lignes d'Azur",
+       "cat": "transit",
+       "note": "Offizielle App für Bus und Tram in Nizza",
+       "src": "https://www.france.fr/de/nuetzliche-tipps/oeffentliche-verkehrsmittel-nizza"
+      }
+     ]
+    },
     {
      "name": "Paris",
      "match": [
@@ -1545,12 +1848,15 @@
        "pkg": "com.applidium.vianavigo",
        "mine": true,
        "note": "Navigo, Tickets für Paris",
-       "ess": true
+       "ess": true,
+       "use": "limited",
+       "req": "Handyticket nur auf kompatiblem Smartphone, sonst Navigo Easy Karte nutzen"
       },
       {
        "name": "Bonjour RATP",
        "cat": "transit",
-       "note": "Offizielle RATP-App für Metro, RER, Bus"
+       "note": "Offizielle RATP-App für Metro, RER, Bus",
+       "pkg": "com.fabernovel.ratp"
       },
       {
        "name": "G7 Taxi",
@@ -1558,11 +1864,39 @@
        "pkg": "fr.taxisg7.grandpublic",
        "note": "Lizenzierte Taxis, Flughafen-Fixpreise",
        "src": "https://www.bento.travel/france"
+      },
+      {
+       "name": "Vélib'",
+       "cat": "micro",
+       "note": "Stationsgebundene Leihräder, auch als 24-Stunden-Pass",
+       "src": "https://www.velib-metropole.fr/en/subscription/V1_OFFRE_CD_DECOUVERTE/1"
+      },
+      {
+       "name": "Free2move",
+       "cat": "carshare",
+       "note": "Elektroautos minutenweise in Paris und Umgebung",
+       "use": "limited",
+       "req": "Führerschein und Ausweis in der App prüfen lassen, Kreditkarte nötig",
+       "src": "https://www.iledefrance-mobilites.fr/pt/le-reseau/services-de-mobilite/auto-partage/operateurs-autopartage-labellises"
+      },
+      {
+       "name": "Communauto",
+       "cat": "carshare",
+       "note": "Stationsautos stunden- oder tageweise, Sprit inklusive",
+       "use": "limited",
+       "req": "Vorab Registrierung mit Führerschein, Kreditkarte nötig",
+       "src": "https://www.quechoisir.org/actualite-autopartage-a-paris-des-solutions-subsistent-n167464/"
+      },
+      {
+       "name": "Go City",
+       "cat": "tourism",
+       "note": "Paris Pass mit Eintritt zu vielen Sehenswürdigkeiten",
+       "src": "https://gocity.com/en/paris"
       }
      ]
     }
    ],
-   "note": "In Paris für Nahverkehrstickets die IDFM-App oder Navigo Easy nutzen, nicht nur die Bankkarte.",
+   "note": "In Paris Fahrkarten per App Île-de-France Mobilités oder Navigo Easy Karte kaufen, die Bankkarte gilt nicht als Ticket.",
    "src": "https://www.bento.travel/france",
    "checked": "2026-11-17"
   },
@@ -2851,95 +3185,137 @@
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "note": "Fahrdienst-Alternative zu Uber, Preise vergleichen",
+     "note": "Fahrdienst, Preis und Wartezeit mit Uber vergleichen",
      "ess": true,
-     "src": "https://www.bento.travel/czech-republic"
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Fahrdienst in Prag und weiteren Städten",
+     "note": "Fahrten in Prag und weiteren Städten, auch Flughafentaxi",
      "ess": true,
-     "src": "https://www.bento.travel/czech-republic"
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Liftago",
      "cat": "taxi",
      "pkg": "com.adleritech.app.liftago.passenger",
-     "note": "Lizenzierte Taxis in 15 Städten",
-     "src": "https://www.bento.travel/czech-republic"
+     "note": "Lizenzierte Taxis in 15 Städten per App bestellen",
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Wolt",
      "cat": "delivery",
      "pkg": "com.wolt.android",
-     "note": "Essen und Einkäufe, auf Englisch nutzbar",
+     "note": "Essen und Einkäufe liefern lassen, auf Englisch",
      "ess": true,
-     "src": "https://www.bento.travel/czech-republic"
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "foodora",
      "cat": "delivery",
      "pkg": "se.onlinepizza",
-     "note": "Großes Liefernetz für Restaurants und Läden",
+     "note": "Großes Liefernetz für Restaurants und Lebensmittel",
      "ess": true,
-     "src": "https://www.bento.travel/czech-republic"
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Bolt Food",
      "cat": "delivery",
      "pkg": "com.bolt.deliveryclient",
-     "note": "Lieferdienst in unterstützten Zonen",
-     "src": "https://www.bento.travel/czech-republic"
+     "note": "Lieferdienst von Bolt für Essen und Einkäufe",
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Mapy.com",
      "cat": "maps",
      "pkg": "cz.seznam.mapy",
-     "note": "Outdoor-Karte mit Wanderwegen und Offline-Navigation",
+     "note": "Karte mit Wanderwegen und Offline-Navigation",
      "ess": true,
-     "src": "https://www.bento.travel/czech-republic"
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "IDOS",
      "cat": "rail",
      "pkg": "cz.mafra.jizdnirady",
-     "note": "Landesweiter Fahrplan für Züge, Busse, Stadtverkehr",
+     "note": "Landesweite Fahrplanauskunft für Bahn und Bus",
      "ess": true,
-     "src": "https://www.bento.travel/czech-republic"
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Můj vlak",
      "cat": "rail",
      "pkg": "cz.cd.mujvlak.an",
-     "note": "Offizielle ČD-App: Tickets, Gleise, Verspätungen",
+     "note": "Offizielle App der ČD für Tickets und Verspätungen",
      "ess": true,
-     "src": "https://www.bento.travel/czech-republic"
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "RegioJet",
      "cat": "rail",
      "pkg": "cz.studio9.sa",
-     "note": "RegioJet-Züge und Busse",
-     "src": "https://www.bento.travel/czech-republic"
+     "note": "Tickets für RegioJet-Züge und Fernbusse",
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Leo Express",
      "cat": "rail",
      "pkg": "com.leoexpress.leoexpress",
-     "note": "Leo-Express-Züge und Busse",
-     "src": "https://www.bento.travel/czech-republic"
+     "note": "Tickets für Leo-Express-Züge und Busse",
+     "src": "https://www.bento.travel/de/czech-republic"
     },
     {
      "name": "Záchranka",
      "cat": "safety",
      "pkg": "com.medicalit.zachranka",
-     "note": "Notruf-App mit Standortübermittlung",
-     "src": "https://www.bento.travel/czech-republic"
+     "note": "Notruf-App, übermittelt den Standort an den Rettungsdienst",
+     "src": "https://www.bento.travel/de/czech-republic"
+    },
+    {
+     "name": "Anytime Carsharing CZ",
+     "cat": "carshare",
+     "note": "Free-Floating-Carsharing in Prag, Plzeň und Kladno",
+     "use": "limited",
+     "req": "Führerschein Klasse B nötig, Registrierung mit persönlichen Daten in der App",
+     "src": "https://apps.apple.com/us/app/id1454244328?l=en-us"
+    },
+    {
+     "name": "SEJF",
+     "cat": "parking",
+     "note": "Parken und ÖPNV-Tickets in mehreren Städten, Zahlung per Karte",
+     "src": "https://apps.apple.com/ly/app/sejf/id301404273"
     }
    ],
    "cities": [
+    {
+     "name": "Brno",
+     "match": [
+      "Brno"
+     ],
+     "apps": [
+      {
+       "name": "DPMBinfo",
+       "cat": "transit",
+       "note": "App der Brnoer Verkehrsbetriebe mit Tickets und Abfahrten",
+       "src": "https://apps.apple.com/us/app/dpmbinfo/id1269475431"
+      }
+     ]
+    },
+    {
+     "name": "Plzen",
+     "match": [
+      "Plzen"
+     ],
+     "apps": [
+      {
+       "name": "Virtuální Plzeňská karta",
+       "cat": "transit",
+       "note": "ÖPNV-Tickets in Plzeň, Einzelfahrschein ohne Registrierung",
+       "src": "https://www.visitplzen.eu/en/useful-information/transport-around-pilsen/"
+      }
+     ]
+    },
     {
      "name": "Prag",
      "match": [
@@ -2951,22 +3327,60 @@
        "name": "PID Lítačka",
        "cat": "transit",
        "pkg": "cz.dpp.praguepublictransport",
-       "note": "Offizielle Routen- und Ticket-App für Prag",
+       "note": "Offizielle Prager ÖPNV-App mit Handytickets",
        "ess": true,
-       "src": "https://www.bento.travel/czech-republic"
+       "src": "https://www.bento.travel/de/czech-republic"
       },
       {
        "name": "Prague Visitor Pass",
        "cat": "tourism",
        "pkg": "cz.operatorict.pvp",
-       "note": "Offizielle Prag-Citycard mit ÖPNV",
-       "src": "https://www.bento.travel/czech-republic"
+       "note": "Offizielle Prager Citycard mit Nahverkehr",
+       "src": "https://www.bento.travel/de/czech-republic"
+      },
+      {
+       "name": "Bolt Drive",
+       "cat": "carshare",
+       "note": "Carsharing in Prag, buchbar in der Bolt-App",
+       "use": "limited",
+       "req": "Führerschein und Ausweis in der App fotografieren und prüfen lassen",
+       "src": "https://cc.cz/carsharing-od-boltu-ma-za-sebou-prvni-mesice-v-praze-utoci-cenou-zkusili-jsme-jak-funguje/"
+      },
+      {
+       "name": "Rekola",
+       "cat": "micro",
+       "note": "Leihräder und E-Bikes in Prag",
+       "src": "https://pid.cz/en/?p=177681"
+      },
+      {
+       "name": "Nextbike",
+       "cat": "micro",
+       "note": "Leihräder in Prag, mit Lítačka-Konto koppelbar",
+       "src": "https://pid.cz/en/?p=177681"
+      },
+      {
+       "name": "EasyPark",
+       "cat": "parking",
+       "note": "Parkgebühren in den Prager Zonen per App zahlen",
+       "src": "https://parking.praha.eu/en/payment-for-parking/"
+      },
+      {
+       "name": "ParkSimply",
+       "cat": "parking",
+       "note": "Offizieller Partner für Zonenparken in Prag",
+       "src": "https://parking.praha.eu/en/payment-for-parking/"
+      },
+      {
+       "name": "citymove",
+       "cat": "parking",
+       "note": "Parken in Prag bezahlen, offizieller Vertragspartner",
+       "src": "https://parking.praha.eu/en/payment-for-parking/"
       }
      ]
     }
    ],
-   "note": "In Prag gilt das PID-Ticket nicht für den Airport Express; Fernverbindungen direkt beim Betreiber buchen und in CZK zahlen.",
-   "src": "https://www.bento.travel/czech-republic",
+   "note": "PID-Tickets vor dem Einsteigen aktivieren und warten, bis sie gültig sind; der Airport Express ist nicht enthalten.",
+   "src": "https://www.bento.travel/de/czech-republic",
    "checked": "2026-11-17"
   },
   {
@@ -2980,66 +3394,70 @@
      "pkg": "com.ubercab",
      "note": "Vermittelt lizenzierte Taxis, u. a. von Dantaxi",
      "ess": true,
-     "src": "https://www.bento.travel/denmark"
+     "src": "https://www.bento.travel/denmark/ride-hailing"
     },
     {
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "note": "Lizenzierte Taxis, offiziell nur Kopenhagen und Aarhus",
-     "src": "https://www.bento.travel/denmark"
+     "note": "Lizenzierte Taxis in Kopenhagen und Aarhus",
+     "src": "https://www.bento.travel/denmark/ride-hailing"
     },
     {
      "name": "Wolt",
      "cat": "delivery",
      "pkg": "com.wolt.android",
-     "note": "Essen, Lebensmittel und mehr in vielen Städten",
+     "note": "Wichtigster Lieferdienst, Bezahlung nur online",
      "ess": true,
-     "src": "https://www.bento.travel/denmark"
+     "src": "https://www.bento.travel/denmark/food-delivery"
     },
     {
      "name": "Uber Eats",
      "cat": "delivery",
      "pkg": "com.ubercab.eats",
-     "note": "Lieferdienst in Kopenhagen, Aarhus, Odense",
-     "src": "https://www.bento.travel/denmark"
+     "note": "Seit 2026 in Kopenhagen, Aarhus und Odense",
+     "src": "https://www.bento.travel/denmark/food-delivery"
     },
     {
      "name": "EasyPark",
      "cat": "parking",
      "pkg": "net.easypark.android",
-     "note": "Parken bezahlen",
-     "src": "https://www.bento.travel/denmark"
+     "note": "Parkgebühren per App zahlen, Servicegebühr beachten",
+     "src": "https://www.bento.travel/apps/donkey-republic"
     },
     {
      "name": "Rejseplanen",
      "cat": "transit",
      "pkg": "de.hafas.android.rejseplanen",
-     "note": "Offizieller Planer für Zug, Bus, Metro, Fähre",
+     "note": "Landesweite Routenplanung für Bahn, Bus, Metro, Fähre",
      "ess": true,
-     "src": "https://www.bento.travel/denmark"
+     "src": "https://bento.travel/denmark/transit"
     },
     {
      "name": "Rejsebillet",
      "cat": "transit",
      "pkg": "dk.rejsekort.rejsebillet",
-     "note": "Offizielle Tickets, auch City Pass",
+     "note": "Offizielle Tickets für ganz Dänemark, auch City Pass",
      "ess": true,
-     "src": "https://www.bento.travel/denmark"
+     "src": "https://bento.travel/denmark/transit",
+     "use": "limited",
+     "req": "Nummer für SMS nötig, sonst Ticketautomat nutzen"
     },
     {
      "name": "DSB",
      "cat": "rail",
      "pkg": "dk.dsb.nda.android",
-     "note": "Dänische Bahn, Tickets und Live-Infos",
-     "src": "https://www.bento.travel/denmark"
+     "note": "Bahntickets, Sitzplätze und Echtzeitinfos",
+     "src": "https://bento.travel/denmark/transit"
     },
     {
      "name": "Rejsekort",
      "cat": "transit",
      "pkg": "dk.rejsekort.digitalrejsekort",
-     "note": "Check-in-App, ersetzt die alte Karte",
-     "src": "https://www.bento.travel/denmark"
+     "note": "Check-in-App für Bus und Bahn statt Plastikkarte",
+     "src": "https://bento.travel/denmark/transit",
+     "use": "limited",
+     "req": "Registrierung mit Personendaten, Zahlungskarte, Standort und Bluetooth nötig"
     },
     {
      "name": "DinnerBooking",
@@ -3047,6 +3465,36 @@
      "pkg": "com.dinnerbooking.users",
      "note": "Restaurants finden und reservieren",
      "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "Dantaxi",
+     "cat": "taxi",
+     "pkg": "dk.dantaxi.app",
+     "note": "Taxi fast überall in Dänemark per App bestellen",
+     "src": "https://dantaxi.dk/english"
+    },
+    {
+     "name": "Too Good To Go",
+     "cat": "delivery",
+     "pkg": "com.app.tgtg",
+     "note": "Übriges Essen von Läden und Lokalen günstig abholen",
+     "src": "https://routesnorth.com/planning-a-trip-to-denmark/useful-apps-for-a-trip-to-denmark"
+    },
+    {
+     "name": "MobilePay",
+     "cat": "payment",
+     "note": "Verbreitete dänische Bezahl-App",
+     "use": "no",
+     "req": "Dänischer Ausweis, dänisches Bankkonto und lokale Nummer nötig",
+     "src": "https://www.bento.travel/denmark/payments"
+    },
+    {
+     "name": "GreenMobility",
+     "cat": "carshare",
+     "note": "Elektro-Carsharing in Kopenhagen und Aarhus",
+     "use": "limited",
+     "req": "Führerschein und Zahlungskarte, Konto erst nach Prüfung freigeschaltet",
+     "src": "https://www.greenmobility.com/dk/en/carsharing/"
     }
    ],
    "cities": [
@@ -3061,21 +3509,47 @@
        "name": "Donkey Republic",
        "cat": "micro",
        "pkg": "com.donkeyrepublic.bike.android",
-       "note": "Leihräder per App",
-       "src": "https://www.bento.travel/denmark"
+       "note": "Leihräder per App, nur an erlaubten Stellen abstellen",
+       "src": "https://www.bento.travel/apps/donkey-republic"
       },
       {
        "name": "Copenhagen Card",
        "cat": "tourism",
        "pkg": "com.woco.copenhagencard",
-       "note": "Stadtpass für Attraktionen",
-       "src": "https://www.bento.travel/denmark"
+       "note": "Stadtpass mit ÖPNV und Attraktionen, offline nutzbar",
+       "src": "https://copenhagencard.com/how-it-works"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "Leihräder mit Genehmigung der Stadt",
+       "src": "https://www.kk.dk/sites/default/files/2026-06/24.06.26%20-%20Orienteringsnotat%20om%20Status%20p%C3%A5%20kontrolindsatsen%20med%20udlejningscykler.pdf"
+      },
+      {
+       "name": "Dott",
+       "cat": "micro",
+       "note": "Leihräder mit Genehmigung der Stadt",
+       "src": "https://www.kk.dk/sites/default/files/2026-06/24.06.26%20-%20Orienteringsnotat%20om%20Status%20p%C3%A5%20kontrolindsatsen%20med%20udlejningscykler.pdf"
+      },
+      {
+       "name": "Voi",
+       "cat": "micro",
+       "note": "E-Bikes, seit Mai 2026 wieder in der Stadt",
+       "src": "https://www.kk.dk/sites/default/files/2026-06/24.06.26%20-%20Orienteringsnotat%20om%20Status%20p%C3%A5%20kontrolindsatsen%20med%20udlejningscykler.pdf"
+      },
+      {
+       "name": "CPH Airport",
+       "cat": "flights",
+       "pkg": "dk.cph.cphairport",
+       "note": "Flugstatus und Infos zum Flughafen Kopenhagen",
+       "src": "https://routesnorth.com/planning-a-trip-to-denmark/useful-apps-for-a-trip-to-denmark"
       }
      ]
     }
    ],
    "src": "https://www.bento.travel/denmark",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "note": "Routenplanung ist kein Ticket: Fahrschein vor der Fahrt kaufen oder per Check-in starten, dazu zwei Karten mitnehmen."
   },
   {
    "code": "HR",
