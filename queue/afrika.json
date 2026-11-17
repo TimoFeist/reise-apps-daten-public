@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "ZA",
-"en": "South Africa",
-"slug": "south-africa"
-},
-{
-"code": "KE",
-"en": "Kenya",
-"slug": "kenya"
-},
-{
-"code": "EG",
-"en": "Egypt",
-"slug": "egypt"
-},
-{
-"code": "MA",
-"en": "Morocco",
-"slug": "morocco"
-},
-{
 "code": "TN",
 "en": "Tunisia",
 "slug": "tunisia"
@@ -302,5 +282,26 @@
 "slug": "zimbabwe"
 }
 ],
-"done": []
+"done": [
+{
+"code": "ZA",
+"en": "South Africa",
+"slug": "south-africa"
+},
+{
+"code": "KE",
+"en": "Kenya",
+"slug": "kenya"
+},
+{
+"code": "EG",
+"en": "Egypt",
+"slug": "egypt"
+},
+{
+"code": "MA",
+"en": "Morocco",
+"slug": "morocco"
+}
+]
 }
