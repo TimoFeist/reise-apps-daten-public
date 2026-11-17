@@ -7,8 +7,8 @@ Regeln:
 * Apps mit "city" landen in der passenden Stadt (Abgleich über "match"), neue Städte werden angelegt.
 * "version" wird auf das übergebene Datum gesetzt.
 * "use": "ok" | "limited" | "no" und "req" (was als Ausländer nötig ist).
-  Apps mit "use": "no" werden nicht aufgenommen und bestehende recherchierte Einträge
-  werden entfernt. Timos eigene Apps ("mine") bleiben, bekommen aber den Hinweis.
+  Apps mit "use": "no" bleiben drin und erscheinen in der App ganz unten unter
+  "Nur mit Voraussetzungen". Timos eigene Apps ("mine") bekommen nur den Hinweis.
 
 Aufruf: python3 merge_raw.py 2026-11-17
 Format raw/<ISO>.json:
@@ -107,7 +107,6 @@ def merge(data, code, raw):
             target = country["apps"]
         existing = {key(x): x for x in target}
         k = key(app)
-        unusable = app.get("use") == "no"
         if k in existing:
             old = existing[k]
             if old.get("mine"):
@@ -117,9 +116,6 @@ def merge(data, code, raw):
                     if f in app:
                         old[f] = app[f]
                 continue
-            if unusable:
-                target.remove(old)
-                continue
             # Recherchierten Eintrag aktualisieren
             for f in ("cat", "note", "pkg", "src", "ess", "use", "req"):
                 if f in app:
@@ -128,8 +124,6 @@ def merge(data, code, raw):
                 old.pop("use", None)
             if "req" not in app:
                 old.pop("req", None)
-            continue
-        if unusable:
             continue
         # Gleicher Name ohne Paket vorhanden? Dann Paket nachtragen
         same_name = next((x for x in target if x["name"].strip().lower() == app["name"].lower()), None)
