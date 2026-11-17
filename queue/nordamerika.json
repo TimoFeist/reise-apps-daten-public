@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "CU",
-   "en": "Cuba",
-   "slug": "cuba"
-  },
-  {
-   "code": "DO",
-   "en": "Dominican Republic",
-   "slug": "dominican-republic"
-  },
-  {
-   "code": "AI",
-   "en": "Anguilla",
-   "slug": "anguilla"
-  },
-  {
-   "code": "AG",
-   "en": "Antigua and Barbuda",
-   "slug": "antigua-and-barbuda"
-  },
-  {
    "code": "AW",
    "en": "Aruba",
    "slug": "aruba"
@@ -207,6 +187,26 @@
    "code": "CR",
    "en": "Costa Rica",
    "slug": "costa-rica"
+  },
+  {
+   "code": "CU",
+   "en": "Cuba",
+   "slug": "cuba"
+  },
+  {
+   "code": "DO",
+   "en": "Dominican Republic",
+   "slug": "dominican-republic"
+  },
+  {
+   "code": "AI",
+   "en": "Anguilla",
+   "slug": "anguilla"
+  },
+  {
+   "code": "AG",
+   "en": "Antigua and Barbuda",
+   "slug": "antigua-and-barbuda"
   }
  ]
 }
