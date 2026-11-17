@@ -1,0 +1,121 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/guyana-node/guyanasicherheit/220348",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Ein- und Ausreiseformular frühestens 48 Stunden vorher online ausfüllen und die Bestätigung bei der Kontrolle zeigen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, Fälle von Strafverfolgung sind laut Auswärtigem Amt aber nicht bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guyana-node/guyanasicherheit/220348",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Guyana ED Form",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Webformular für Ein- und Ausreise, 48 h vorher",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guyanapoliceforce.gy/?p=5000"
+  },
+  {
+   "name": "GuyWay",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Elektrischer Fahrdienst mit Teslas, auch zum Flughafen",
+   "city": "Georgetown",
+   "use": "ok",
+   "req": "",
+   "src": "https://iphoneaddict.fr/apps/voyages/guyway-959.html"
+  },
+  {
+   "name": "LehWeRide",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi bestellen und Fahrzeug auf der Karte verfolgen",
+   "city": "Georgetown",
+   "use": "limited",
+   "req": "Telefonnummer muss per Code bestätigt werden",
+   "src": "https://apps.apple.com/gy/app/lehweride/id1497001909"
+  },
+  {
+   "name": "BookARideGY",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrten buchen, Zahlung per Karte oder PayPal",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/bookaridegy/id1541296701?l=fr-FR"
+  },
+  {
+   "name": "RideGY",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Neuer lokaler Fahrdienst seit 2026, bar oder Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guyanachronicle.com/?p=726568"
+  },
+  {
+   "name": "GTEats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen, Lebensmittel und Apotheke bargeldlos liefern",
+   "city": "Georgetown",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/gy/app/gteats/id1632607975"
+  },
+  {
+   "name": "Discover Cars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen in Georgetown vergleichen und buchen",
+   "city": "Georgetown",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discovercars.com/guyana/georgetown/downtown"
+  },
+  {
+   "name": "Guyana Tourism Authority",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielles Portal, Touren und Reisepakete buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guyanatourism.com/"
+  },
+  {
+   "name": "Secure Eye",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Polizei-App, Unfälle und Straftaten direkt melden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guyanatimesgy.com/gpf-launches-secure-eye-app-to-boost-real-time-crime-reporting"
+  },
+  {
+   "name": "mmg+",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobiles Guthaben für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Ausweis, lokaler Adressnachweis und guyanische TIN nötig",
+   "src": "https://cms-my.onecomm.gy/?p=120"
+  }
+ ]
+}

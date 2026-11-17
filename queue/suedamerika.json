@@ -2,26 +2,6 @@
  "continent": "SA",
  "todo": [
   {
-   "code": "GF",
-   "en": "French Guiana",
-   "slug": "french-guiana"
-  },
-  {
-   "code": "GY",
-   "en": "Guyana",
-   "slug": "guyana"
-  },
-  {
-   "code": "PY",
-   "en": "Paraguay",
-   "slug": "paraguay"
-  },
-  {
-   "code": "GS",
-   "en": "South Georgia and the South Sandwich Islands",
-   "slug": "south-georgia-and-the-south-sandwich-islands"
-  },
-  {
    "code": "SR",
    "en": "Suriname",
    "slug": "suriname"
@@ -77,6 +57,26 @@
    "code": "FK",
    "en": "Falkland Islands (Malvinas)",
    "slug": "falkland-islands-malvinas"
+  },
+  {
+   "code": "GF",
+   "en": "French Guiana",
+   "slug": "french-guiana"
+  },
+  {
+   "code": "GY",
+   "en": "Guyana",
+   "slug": "guyana"
+  },
+  {
+   "code": "PY",
+   "en": "Paraguay",
+   "slug": "paraguay"
+  },
+  {
+   "code": "GS",
+   "en": "South Georgia and the South Sandwich Islands",
+   "slug": "south-georgia-and-the-south-sandwich-islands"
   }
  ]
 }

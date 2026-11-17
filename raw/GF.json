@@ -1,0 +1,88 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Gelbfieberimpfung ist zur Einreise Pflicht, Mietwagen ist fast nötig und außerhalb der Städte Bargeld mitnehmen.",
+ "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, laut Auswärtigem Amt keine besonderen Schwierigkeiten bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "SMART MOOV",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busnetz der CACL: Routen, Echtzeit, Tickets kaufen",
+   "city": "Cayenne",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/dm/app/smart-moov/id6596763717"
+  },
+  {
+   "name": "CACL 6-en-1",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtinfos Großraum Cayenne: Busplan, Verkehr, Wetter",
+   "city": "Cayenne",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/az/app/6-en-1/id1636445839"
+  },
+  {
+   "name": "Sixt",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Cayenne und in der Stadt",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 21, Führerschein und Ausweis nötig",
+   "src": "https://sixt.com/car-rental/french-guiana/cayenne"
+  },
+  {
+   "name": "AlloJeffrey",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von Partnerrestaurants, aus Guyane",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/gy/app/allo-jeffrey/id1478741897"
+  },
+  {
+   "name": "Kesquondine",
+   "cat": "delivery",
+   "pkg": "com.kqd",
+   "ess": false,
+   "note": "Restaurants finden, Speisekarten mit Fotos ansehen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.kqd"
+  },
+  {
+   "name": "Air Caraïbes",
+   "cat": "flights",
+   "pkg": "com.app.aircaraibes",
+   "ess": false,
+   "note": "Flüge nach Cayenne buchen, Check-in, Bordkarte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.aircaraibes.com/application-mobile"
+  },
+  {
+   "name": "Météo-France",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Wetterwarnungen (Vigilance) auch für Guyane",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://meteofrance.com/actualites-et-dossiers/la-vigilance-meteorologique-en-outre-mer"
+  }
+ ]
+}

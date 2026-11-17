@@ -1,0 +1,132 @@
+{
+ "src": "https://www.bento.travel/paraguay",
+ "fetched": "2026-11-17",
+ "updated": "Last updated: August 2026",
+ "note": "Für Stadtbusse im Großraum Asunción eine physische Jaha- oder Más-Karte besorgen, Bargeld nehmen sie nicht.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1990 legal, die Ehe ist Mann und Frau vorbehalten und es gibt kaum Diskriminierungsschutz.",
+ "lgbtq_src": "https://www.equaldex.com/region/asunción",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Einfachster Fahrdienst, auch Ciudad del Este, Encarnación",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/paraguay/ride-hailing"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Zweiter Fahrdienst zum Preisvergleich, Karte oder bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/paraguay/ride-hailing"
+  },
+  {
+   "name": "MUV",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Fahrdienst aus Paraguay",
+   "city": "",
+   "use": "limited",
+   "req": "Nur paraguayische Karten hinterlegbar, sonst bar zahlen",
+   "src": "https://www.bento.travel/paraguay/ride-hailing"
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Größte Auswahl: Restaurants, Läden und Apotheken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/paraguay/food-delivery"
+  },
+  {
+   "name": "Monchis",
+   "cat": "delivery",
+   "pkg": "com.artico.delivery.pedidos",
+   "ess": false,
+   "note": "Lokale Liefer-App, stark im Raum Asunción",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/paraguay/food-delivery"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Navigation mit Live-Verkehr und Gefahrenmeldungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/paraguay"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "ess": false,
+   "note": "Busrouten im Großraum, Ankunftszeiten nur geschätzt",
+   "city": "Asunción",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/paraguay"
+  },
+  {
+   "name": "Plataforma 10",
+   "cat": "rail",
+   "pkg": "com.plataforma10.app",
+   "ess": false,
+   "note": "Fernbustickets für viele Strecken buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/paraguay"
+  },
+  {
+   "name": "SAT SEN",
+   "cat": "safety",
+   "pkg": "com.sat_sen.sat_sen_app",
+   "ess": false,
+   "note": "Amtliche Unwetter- und Notfallwarnungen, Pilotbetrieb",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/paraguay"
+  },
+  {
+   "name": "Tigo Money",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobiles Guthabenkonto von Tigo",
+   "city": "",
+   "use": "no",
+   "req": "Paraguayischer Ausweis und aktive Tigo-Leitung nötig",
+   "src": "https://www.bento.travel/blog/how-to-pay-in-paraguay"
+  },
+  {
+   "name": "Kinto Share",
+   "cat": "carshare",
+   "pkg": "com.goodtravelsoftware.sharecar.toyotaargentina",
+   "ess": false,
+   "note": "Toyota-Mietwagen per App buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung und internationale Kreditkarte in der App nötig",
+   "src": "https://noticias.autocosmos.cl/2024/11/04/kinto-share-la-forma-mas-facil-de-arrendar-autos-de-toyota-en-america-latina"
+  }
+ ]
+}
