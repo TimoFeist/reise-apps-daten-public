@@ -1,0 +1,88 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Vor Abflug EASE auf ease.gov.cv ausfüllen und zahlen; Uber und Bolt gibt es nicht, Fährtickets online bei cvinterilhas.cv.",
+ "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind legal und Diskriminierung ist verboten, gleichgeschlechtliche Partnerschaften werden aber nicht anerkannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Bo Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lizenzierte Taxis und Flughafentransfers buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/bs/app/bo-taxi/id1467487210"
+  },
+  {
+   "name": "GetRentacar",
+   "cat": "carshare",
+   "pkg": "getrentacar.app",
+   "ess": false,
+   "note": "Mietwagen in Praia, Mindelo und auf Sal",
+   "city": "",
+   "use": "limited",
+   "req": "Meist ab 21, internationaler Führerschein empfohlen, Visa oder Mastercard",
+   "src": "https://getrentacar.com/en-US/cape-verde"
+  },
+  {
+   "name": "Deliiv",
+   "cat": "delivery",
+   "pkg": "com.deliivapp.customer",
+   "ess": false,
+   "note": "Essenslieferung von Restaurants in Praia",
+   "city": "Praia",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.deliivapp.customer"
+  },
+  {
+   "name": "Bafa",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von Partnerrestaurants nach Hause liefern",
+   "city": "Praia",
+   "use": "ok",
+   "req": "",
+   "src": "https://mwm.ai/apps/bafa-pedir-comida-em-casa/6757710425"
+  },
+  {
+   "name": "Pagali",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Kapverdische Bezahl-App und digitale Geldbörse",
+   "city": "",
+   "use": "limited",
+   "req": "An lokale Banken gebunden, Nutzung mit deutscher Karte nicht belegt",
+   "src": "https://apps.apple.com/ly/app/pagali/id6449363463"
+  },
+  {
+   "name": "Maps.me",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline-Karten zum Wandern und für Landstraßen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.roafly.com/de/blog/cape-verde-transport-guide"
+  },
+  {
+   "name": "Morabex Cabo Verde",
+   "cat": "tourism",
+   "pkg": "com.morabexcaboverde",
+   "ess": false,
+   "note": "Reiseführer mit Audioguides und Orten auf der Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.morabexcaboverde"
+  }
+ ]
+}

@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "BV",
-"en": "Bouvet Island",
-"slug": "bouvet-island"
-},
-{
-"code": "BF",
-"en": "Burkina Faso",
-"slug": "burkina-faso"
-},
-{
-"code": "BI",
-"en": "Burundi",
-"slug": "burundi"
-},
-{
-"code": "CV",
-"en": "Cabo Verde",
-"slug": "cape-verde"
-},
-{
 "code": "CM",
 "en": "Cameroon",
 "slug": "cameroon"
@@ -302,6 +282,26 @@
 "code": "BW",
 "en": "Botswana",
 "slug": "botswana"
+},
+{
+"code": "BV",
+"en": "Bouvet Island",
+"slug": "bouvet-island"
+},
+{
+"code": "BF",
+"en": "Burkina Faso",
+"slug": "burkina-faso"
+},
+{
+"code": "BI",
+"en": "Burundi",
+"slug": "burundi"
+},
+{
+"code": "CV",
+"en": "Cabo Verde",
+"slug": "cape-verde"
 }
 ]
 }

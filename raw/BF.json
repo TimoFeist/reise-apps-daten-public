@@ -1,0 +1,98 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336",
+ "fetched": "2026-11-17",
+ "updated": "Stand: 17.11.2026 (Auswärtiges Amt)",
+ "note": "Visum vorab online beantragen, Einreiseformular mit QR-Code frühestens 72 Stunden vor Abflug ausfüllen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind seit Oktober 2025 strafbar und mit mehrjähriger Haft bedroht, Ausländer werden ausgewiesen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336",
+ "apps": [
+  {
+   "name": "LetsGo BF",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Fahrdienst mit E-Autos, auch Paketversand",
+   "city": "Ouagadougou",
+   "use": "limited",
+   "req": "Konto nötig, Zahlungswege laut Quelle unklar, Bargeld bereithalten",
+   "src": "https://apps.apple.com/dk/app/letsgo-bf/id6741215667"
+  },
+  {
+   "name": "GoChap",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Super-App für Fahrten, Pakete, Essen und Einkauf",
+   "city": "Ouagadougou",
+   "use": "limited",
+   "req": "Bezahlung meist elektronisch über lokale Mobile-Money-Dienste",
+   "src": "https://apps.apple.com/pl/app/gochap/id6473851215"
+  },
+  {
+   "name": "GoChap Food",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen aus Restaurants in Ouagadougou bestellen",
+   "city": "Ouagadougou",
+   "use": "limited",
+   "req": "Elektronische Zahlung über LigdiCash, lokale Nummer ratsam",
+   "src": "https://burkina24.com/2025/06/23/gochap-lance-gochap-food-a-ouagadougou-la-livraison-de-repas-a-portee-de-clic/"
+  },
+  {
+   "name": "BonBiz FooD",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst für Restaurantessen seit 2019",
+   "city": "Ouagadougou",
+   "use": "limited",
+   "req": "Registrierung und Zahlungswege laut Quelle unklar",
+   "src": "https://www.sidwaya.info/carrefour/2025/09/03/digitalisation-du-commerce-des-repas-une-opportunite-de-job-pour-des-etudiants/"
+  },
+  {
+   "name": "Ecomove",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi und Lieferungen mit Preis vorab in der App",
+   "city": "Ouagadougou",
+   "use": "limited",
+   "req": "Registrierung und Zahlungswege laut Quelle unklar",
+   "src": "https://burkina24.com/?p=414060"
+  },
+  {
+   "name": "Orange Max it",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Orange-Money-Konto, Guthaben und Rechnungen zahlen",
+   "city": "",
+   "use": "no",
+   "req": "Orange-Money-Konto mit burkinischer Nummer nötig",
+   "src": "https://burkina24.com/2026/09/21/orange-burkina-faso-lance-la-nouvelle-version-de-son-application-max-it/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisewarnungen und Hinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App für schwule und queere Männer",
+   "city": "",
+   "use": "no",
+   "req": "Homosexualität seit 2025 strafbar, Nutzung gefährlich",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336"
+  }
+ ]
+}
