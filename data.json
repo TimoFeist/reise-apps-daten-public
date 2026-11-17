@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 19:38",
+ "version": "2026-11-17 23:37",
  "categories": [
   {
    "id": "entry",
@@ -9736,6 +9736,226 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
    "lgbtq_note": "Homosexuelle Handlungen sind in Algerien gesetzlich verboten und stehen unter Strafe.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BF",
+   "name": "Burkina Faso",
+   "flag": "🇧🇫",
+   "apps": [
+    {
+     "name": "Orange Max it",
+     "cat": "payment",
+     "note": "Orange-Money-Konto, Guthaben und Rechnungen zahlen",
+     "use": "no",
+     "req": "Orange-Money-Konto mit burkinischer Nummer nötig",
+     "src": "https://burkina24.com/2026/09/21/orange-burkina-faso-lance-la-nouvelle-version-de-son-application-max-it/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisewarnungen und Hinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App für schwule und queere Männer",
+     "use": "no",
+     "req": "Homosexualität seit 2025 strafbar, Nutzung gefährlich",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Ouagadougou",
+     "match": [
+      "Ouagadougou"
+     ],
+     "apps": [
+      {
+       "name": "LetsGo BF",
+       "cat": "taxi",
+       "note": "Fahrdienst mit E-Autos, auch Paketversand",
+       "ess": true,
+       "use": "limited",
+       "req": "Konto nötig, Zahlungswege laut Quelle unklar, Bargeld bereithalten",
+       "src": "https://apps.apple.com/dk/app/letsgo-bf/id6741215667"
+      },
+      {
+       "name": "GoChap",
+       "cat": "taxi",
+       "note": "Super-App für Fahrten, Pakete, Essen und Einkauf",
+       "use": "limited",
+       "req": "Bezahlung meist elektronisch über lokale Mobile-Money-Dienste",
+       "src": "https://apps.apple.com/pl/app/gochap/id6473851215"
+      },
+      {
+       "name": "GoChap Food",
+       "cat": "delivery",
+       "note": "Essen aus Restaurants in Ouagadougou bestellen",
+       "use": "limited",
+       "req": "Elektronische Zahlung über LigdiCash, lokale Nummer ratsam",
+       "src": "https://burkina24.com/2025/06/23/gochap-lance-gochap-food-a-ouagadougou-la-livraison-de-repas-a-portee-de-clic/"
+      },
+      {
+       "name": "BonBiz FooD",
+       "cat": "delivery",
+       "note": "Lieferdienst für Restaurantessen seit 2019",
+       "use": "limited",
+       "req": "Registrierung und Zahlungswege laut Quelle unklar",
+       "src": "https://www.sidwaya.info/carrefour/2025/09/03/digitalisation-du-commerce-des-repas-une-opportunite-de-job-pour-des-etudiants/"
+      },
+      {
+       "name": "Ecomove",
+       "cat": "taxi",
+       "note": "Taxi und Lieferungen mit Preis vorab in der App",
+       "use": "limited",
+       "req": "Registrierung und Zahlungswege laut Quelle unklar",
+       "src": "https://burkina24.com/?p=414060"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab online beantragen, Einreiseformular mit QR-Code frühestens 72 Stunden vor Abflug ausfüllen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336",
+   "lgbtq_note": "Homosexuelle Handlungen sind seit Oktober 2025 strafbar und mit mehrjähriger Haft bedroht, Ausländer werden ausgewiesen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BI",
+   "name": "Burundi",
+   "flag": "🇧🇮",
+   "apps": [
+    {
+     "name": "Baza Burundi",
+     "cat": "delivery",
+     "pkg": "com.baza.baza_customer",
+     "note": "Essen von Restaurants in der Nähe bestellen",
+     "use": "limited",
+     "req": "Zahlung nur bar bei Lieferung in Burundi-Franc",
+     "src": "https://mwm.ai/apps/baza-burundi/1659178968"
+    },
+    {
+     "name": "Lumicash Channel",
+     "cat": "payment",
+     "note": "Mobile Money von Lumitel für Überweisung und QR-Zahlung",
+     "use": "limited",
+     "req": "Lumitel-SIM mit Lumicash-Konto nötig, Codes per SMS",
+     "src": "https://apps.apple.com/np/app/lumicash-channel/id1625524767"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Burundi riskant",
+     "use": "no",
+     "req": "Gleichgeschlechtliche Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bujumbura",
+     "match": [
+      "Bujumbura"
+     ],
+     "apps": [
+      {
+       "name": "Wasili",
+       "cat": "taxi",
+       "pkg": "com.mediabox.wasilirider",
+       "note": "Fahrdienst in Bujumbura, Zahlung bar oder per App",
+       "ess": true,
+       "src": "https://burunditravel.bi/en/wasili-burundi/"
+      },
+      {
+       "name": "GetRentacar",
+       "cat": "carshare",
+       "note": "Mietwagen von lokalen Anbietern in Bujumbura",
+       "use": "limited",
+       "req": "Ab 18, ein Jahr Fahrpraxis, Führerschein, internationaler Führerschein und Reisepass",
+       "src": "https://getrentacar.com/en-US//5045118"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab auf migration.gov.bi beantragen und am Flughafen Bujumbura abholen; genug US-Dollar bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar (bis zu zwei Jahre Haft oder Geldstrafe), der Präsident hetzt offen gegen LGBTQ+-Personen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "CV",
+   "name": "Kap Verde",
+   "flag": "🇨🇻",
+   "apps": [
+    {
+     "name": "Bo Taxi",
+     "cat": "taxi",
+     "note": "Lizenzierte Taxis und Flughafentransfers buchen",
+     "src": "https://apps.apple.com/bs/app/bo-taxi/id1467487210"
+    },
+    {
+     "name": "GetRentacar",
+     "cat": "carshare",
+     "pkg": "getrentacar.app",
+     "note": "Mietwagen in Praia, Mindelo und auf Sal",
+     "use": "limited",
+     "req": "Meist ab 21, internationaler Führerschein empfohlen, Visa oder Mastercard",
+     "src": "https://getrentacar.com/en-US/cape-verde"
+    },
+    {
+     "name": "Pagali",
+     "cat": "payment",
+     "note": "Kapverdische Bezahl-App und digitale Geldbörse",
+     "use": "limited",
+     "req": "An lokale Banken gebunden, Nutzung mit deutscher Karte nicht belegt",
+     "src": "https://apps.apple.com/ly/app/pagali/id6449363463"
+    },
+    {
+     "name": "Maps.me",
+     "cat": "maps",
+     "note": "Offline-Karten zum Wandern und für Landstraßen",
+     "src": "https://www.roafly.com/de/blog/cape-verde-transport-guide"
+    },
+    {
+     "name": "Morabex Cabo Verde",
+     "cat": "tourism",
+     "pkg": "com.morabexcaboverde",
+     "note": "Reiseführer mit Audioguides und Orten auf der Karte",
+     "src": "https://appgoblin.info/apps/com.morabexcaboverde"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Praia",
+     "match": [
+      "Praia"
+     ],
+     "apps": [
+      {
+       "name": "Deliiv",
+       "cat": "delivery",
+       "pkg": "com.deliivapp.customer",
+       "note": "Essenslieferung von Restaurants in Praia",
+       "src": "https://play.google.com/store/apps/details?id=com.deliivapp.customer"
+      },
+      {
+       "name": "Bafa",
+       "cat": "delivery",
+       "note": "Essen von Partnerrestaurants nach Hause liefern",
+       "src": "https://mwm.ai/apps/bafa-pedir-comida-em-casa/6757710425"
+      }
+     ]
+    }
+   ],
+   "note": "Vor Abflug EASE auf ease.gov.cv ausfüllen und zahlen; Uber und Bolt gibt es nicht, Fährtickets online bei cvinterilhas.cv.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
+   "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind legal und Diskriminierung ist verboten, gleichgeschlechtliche Partnerschaften werden aber nicht anerkannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
    "checked": "2026-11-17"
   }
  ]
