@@ -2779,7 +2779,9 @@
      "name": "Lyft",
      "cat": "taxi",
      "pkg": "me.lyft.android",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Nicht jede ausländische Nummer wird akzeptiert"
     },
     {
      "name": "Target",
@@ -2820,8 +2822,86 @@
     {
      "name": "ESTA Mobile",
      "cat": "entry",
-     "note": "Offizielle CBP-App für ESTA (Visa Waiver Program)",
-     "src": "https://esta.cbp.dhs.gov/"
+     "note": "Offizielle CBP-App für den ESTA-Antrag",
+     "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages",
+     "ess": true
+    },
+    {
+     "name": "Mobile Passport Control",
+     "cat": "entry",
+     "pkg": "gov.dhs.cbp.pspd.mpc",
+     "note": "Schnellere Einreisekontrolle per App",
+     "use": "no",
+     "req": "Nur für US-Bürger und Kanadier",
+     "src": "https://www.cbp.gov/travel/us-citizens/mobile-passport-control"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Größter Fahrdienst im ganzen Land",
+     "ess": true,
+     "src": "https://play.google.com/store/apps/details?id=com.ubercab"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essen und Einkäufe liefern lassen",
+     "src": "https://play.google.com/store/apps/details?id=com.ubercab.eats"
+    },
+    {
+     "name": "Amtrak",
+     "cat": "rail",
+     "pkg": "com.amtrak.rider",
+     "note": "Fernzüge buchen, Tickets in der App",
+     "src": "https://play.google.com/store/apps/details?id=com.amtrak.rider"
+    },
+    {
+     "name": "Greyhound",
+     "cat": "rail",
+     "pkg": "com.greyhound.mobile.consumer",
+     "note": "Fernbusse zwischen vielen Städten",
+     "src": "https://play.google.com/store/apps/details?id=com.greyhound.mobile.consumer"
+    },
+    {
+     "name": "FlixBus",
+     "cat": "rail",
+     "pkg": "de.flixbus.app",
+     "note": "Günstige Fernbusse, auch in den USA",
+     "src": "https://play.google.com/store/apps/details?id=de.flixbus.app"
+    },
+    {
+     "name": "Turo",
+     "cat": "carshare",
+     "pkg": "com.relayrides.android.relayrides",
+     "note": "Autos von Privatleuten mieten",
+     "use": "limited",
+     "req": "Physischer Führerschein aus zugelassenem Land, kein IDP als Ersatz",
+     "src": "https://help.turo.com/en_us/booking-a-car-in-the-us-H1gxVVeE9.md"
+    },
+    {
+     "name": "Zipcar",
+     "cat": "carshare",
+     "pkg": "com.zc.android",
+     "note": "Carsharing stunden oder tageweise",
+     "use": "limited",
+     "req": "Ausländischer Führerschein nur teils akzeptiert",
+     "src": "https://support.zipcar.com/hc/en-us/articles/115012010647-Can-I-join-with-a-non-US-driver-s-license"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "pkg": "com.limebike",
+     "note": "E-Scooter und E-Bikes in vielen Städten",
+     "src": "https://www.li.me/locations/new-york"
+    },
+    {
+     "name": "FEMA",
+     "cat": "safety",
+     "pkg": "gov.fema.mobile.android",
+     "note": "Wetterwarnungen und Katastrophenhilfe",
+     "src": "https://www.fema.gov/about/news-multimedia/mobile-products"
     }
    ],
    "cities": [
@@ -2836,6 +2916,81 @@
        "cat": "transit",
        "pkg": "com.mbta.mobileapp",
        "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Chicago",
+     "match": [
+      "Chicago"
+     ],
+     "apps": [
+      {
+       "name": "Ventra",
+       "cat": "transit",
+       "pkg": "com.ventrachicago.riderapp",
+       "note": "Virtuelle Ventra-Karte für CTA und Pace",
+       "src": "https://www.transitchicago.com/howto/pay-for-your-fare/"
+      }
+     ]
+    },
+    {
+     "name": "Las Vegas",
+     "match": [
+      "Las Vegas"
+     ],
+     "apps": [
+      {
+       "name": "RideRTC",
+       "cat": "transit",
+       "pkg": "com.rtcsnv.rideRTC",
+       "note": "Bustickets und Routen in Las Vegas",
+       "src": "https://www.rtcsnv.com/ways-to-travel/how-to-ride/ridertc-app/"
+      }
+     ]
+    },
+    {
+     "name": "Los Angeles",
+     "match": [
+      "Los Angeles"
+     ],
+     "apps": [
+      {
+       "name": "TAP LA",
+       "cat": "transit",
+       "pkg": "net.metro.taprider",
+       "note": "Virtuelle TAP-Karte und Fahrten laden",
+       "src": "https://thesource.metro.net/new-tap-mobile-app-upgrades-available-now/"
+      }
+     ]
+    },
+    {
+     "name": "New York",
+     "match": [
+      "New York"
+     ],
+     "apps": [
+      {
+       "name": "MTA",
+       "cat": "transit",
+       "pkg": "info.mta.mymta",
+       "note": "Echtzeit, Karten und Routen für U-Bahn und Bus",
+       "ess": true,
+       "src": "https://www.mta.info/guides/apps"
+      },
+      {
+       "name": "MTA TrainTime",
+       "cat": "rail",
+       "pkg": "com.mta.mobileapp",
+       "note": "Tickets für LIRR und Metro-North",
+       "src": "https://www.mta.info/guides/apps"
+      },
+      {
+       "name": "Citi Bike",
+       "cat": "micro",
+       "pkg": "com.citibikenyc.citibike",
+       "note": "Offizielles Leihrad, Tagespass in der App",
+       "src": "https://help.citibikenyc.com/hc/en-us/articles/360032340451-Day-pass"
       }
      ]
     },
@@ -2859,8 +3014,50 @@
        "mine": true
       }
      ]
+    },
+    {
+     "name": "San Francisco",
+     "match": [
+      "San Francisco"
+     ],
+     "apps": [
+      {
+       "name": "Clipper",
+       "cat": "transit",
+       "pkg": "com.clippercard.mobile.clipper",
+       "note": "Bay-Area-Fahrkarte im Handy aufladen",
+       "src": "https://www.clippercard.com/clipper-app"
+      },
+      {
+       "name": "MuniMobile",
+       "cat": "transit",
+       "pkg": "de.hafas.android.sfmta",
+       "note": "Muni-Tickets, wird bis Mitte 2027 eingestellt",
+       "use": "limited",
+       "req": "Seit 1.9.2026 keine Einzeltickets mehr",
+       "src": "https://www.sfmta.com/blog/new-ways-pay-munimobile-will-be-retiring"
+      }
+     ]
+    },
+    {
+     "name": "Washington",
+     "match": [
+      "Washington"
+     ],
+     "apps": [
+      {
+       "name": "SmarTrip",
+       "cat": "transit",
+       "pkg": "com.wmata.smartrip",
+       "note": "Metro-Karte im Handy, Guthaben und Pässe",
+       "src": "https://www.wmata.com/fares/MobilePay/SmarTrip-App.cfm"
+      }
+     ]
     }
-   ]
+   ],
+   "note": "Deutsche brauchen vor der Reise eine ESTA-Genehmigung, am besten über die offizielle CBP-App oder Website beantragen.",
+   "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages",
+   "checked": "2026-11-17"
   },
   {
    "code": "MX",
@@ -2872,13 +3069,108 @@
      "cat": "tourism",
      "pkg": "com.gocitypass",
      "note": "Stadtpass für viele Städte",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "In Mexiko eingestellt, alte Pässe bis 3.1.2027 gültig"
     },
     {
      "name": "McDonald's",
      "cat": "delivery",
      "pkg": "com.mcdo.mcdonalds",
      "mine": true
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst in vielen Städten und Urlaubsorten",
+     "src": "https://www.bento.travel/mexico/ride-hailing"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Fahrdienst mit Taxi, Moto und Preisvorschlag",
+     "use": "limited",
+     "req": "Handynummer mit SMS-Empfang nötig, lokale Nummer bevorzugt",
+     "src": "https://www.bento.travel/mexico/ride-hailing"
+    },
+    {
+     "name": "Rappi",
+     "cat": "delivery",
+     "pkg": "com.grability.rappi",
+     "note": "Essen, Einkäufe und Apotheke liefern lassen",
+     "use": "limited",
+     "req": "Ausländische Karten scheitern teils an der Prüfung",
+     "src": "https://www.bento.travel/mexico/food-delivery"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essens- und Einkaufslieferung, nutzt Uber-Konto",
+     "src": "https://www.bento.travel/mexico/food-delivery"
+    },
+    {
+     "name": "DiDi Food",
+     "cat": "delivery",
+     "pkg": "com.xiaojukeji.didi.global.customer",
+     "note": "Lieferdienst für Restaurants mit Aktionen",
+     "use": "limited",
+     "req": "Handynummer mit SMS-Empfang nötig",
+     "src": "https://www.bento.travel/mexico/food-delivery"
+    },
+    {
+     "name": "ADO",
+     "cat": "rail",
+     "pkg": "com.mobilityado.ado",
+     "note": "Offizielle Tickets für Fernbusse, vor allem im Süden",
+     "use": "limited",
+     "req": "Ausländische Karten teils abgelehnt, dann Website oder Schalter",
+     "src": "https://www.bento.travel/mexico/transit"
+    },
+    {
+     "name": "Ángeles Verdes",
+     "cat": "safety",
+     "pkg": "com.angeles.verdes.app",
+     "note": "Staatliche Pannenhilfe und Infos für Autofahrer",
+     "src": "https://www.bento.travel/mexico/transit"
+    },
+    {
+     "name": "Mercado Pago",
+     "cat": "payment",
+     "note": "Lokale Bezahl-App für Händler und Überweisungen",
+     "use": "no",
+     "req": "Verifizierung und lokale Einzahlung nötig, für Einwohner gedacht",
+     "src": "https://www.bento.travel/mexico/payments"
+    },
+    {
+     "name": "Spin by OXXO",
+     "cat": "payment",
+     "note": "Bezahl-App der Kette OXXO",
+     "use": "no",
+     "req": "Verifizierung und lokale Einzahlung nötig, für Einwohner gedacht",
+     "src": "https://www.bento.travel/mexico/payments"
+    },
+    {
+     "name": "Wise",
+     "cat": "payment",
+     "note": "Konto und Karte für günstiges Bezahlen in Pesos",
+     "src": "https://www.bento.travel/mexico/payments"
+    },
+    {
+     "name": "México Invita",
+     "cat": "tourism",
+     "note": "Offizieller Reiseführer mit Routen und Notruf",
+     "src": "https://www.cronica.com.mx/nacional/2026/11/03/sectur-y-atdt-impulsan-el-turismo-con-la-nueva-app-mexico-invita/"
+    },
+    {
+     "name": "Drivana",
+     "cat": "carshare",
+     "note": "Privatautos mieten, teils mit Lieferung",
+     "use": "limited",
+     "req": "Prüfung von Ausweis, Führerschein und Einkommen in der App",
+     "src": "https://apps.apple.com/mx/app/drivana/id6502799127"
     }
    ],
    "cities": [
@@ -2898,8 +3190,67 @@
        "mine": true
       }
      ]
+    },
+    {
+     "name": "Guadalajara",
+     "match": [
+      "Guadalajara"
+     ],
+     "apps": [
+      {
+       "name": "MiBici",
+       "cat": "micro",
+       "pkg": "com.lyft.android.guadalajaraapp",
+       "note": "Öffentliche Leihräder mit 1 bis 7 Tage Pässen",
+       "use": "limited",
+       "req": "Nur Kreditkarte, 2.500 MXN Kaution werden geblockt",
+       "src": "https://mibici.net/en/about-mibici"
+      }
+     ]
+    },
+    {
+     "name": "Mexiko-Stadt",
+     "match": [
+      "Mexico City",
+      "Mexiko-Stadt"
+     ],
+     "apps": [
+      {
+       "name": "App CDMX",
+       "cat": "transit",
+       "pkg": "mx.gob.cdmx.adip.apps",
+       "note": "Offizielle Stadt-App mit Routen und Störungen",
+       "use": "limited",
+       "req": "Mobile Kartenfunktionen teils nur lokal, MI-Karte mitnehmen",
+       "src": "https://www.bento.travel/mexico/transit"
+      },
+      {
+       "name": "ECOBICI",
+       "cat": "micro",
+       "pkg": "com.lyft.android.mexicocityapp",
+       "note": "Öffentliche Leihräder mit Tagespässen",
+       "src": "https://mexicocity.cdmx.gob.mx/e/getting-around/ecobici/"
+      }
+     ]
+    },
+    {
+     "name": "Monterrey",
+     "match": [
+      "Monterrey"
+     ],
+     "apps": [
+      {
+       "name": "Pasaporte Nuevo León",
+       "cat": "tourism",
+       "note": "Staatliche Tourismus-App mit Routen und Events",
+       "src": "https://www.nl.gob.mx/es/boletines/lanzan-samuel-y-mariana-pasaporte-nuevo-leon-rumbo-al-mundial-2026"
+      }
+     ]
     }
-   ]
+   ],
+   "note": "Uber und DiDi dürfen an Flughäfen oft nicht abholen, dort offizielle Taxis nutzen und Pesos bar dabeihaben.",
+   "src": "https://www.bento.travel/mexico",
+   "checked": "2026-11-17"
   },
   {
    "code": "AU",
@@ -4352,6 +4703,442 @@
    ],
    "note": "Dirham in bar mitnehmen, da Souks, Cafés und Taxis oft nur Bargeld nehmen.",
    "src": "https://www.bento.travel/morocco",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "CA",
+   "name": "Kanada",
+   "flag": "🇨🇦",
+   "apps": [
+    {
+     "name": "Transit App",
+     "cat": "transit",
+     "pkg": "com.thetransitapp.droid",
+     "note": "Echtzeit-Abfahrten, Störungen und Routen in vielen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Größter Fahrdienst, Abholpunkte an Flughäfen beachten",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "Lyft",
+     "cat": "taxi",
+     "pkg": "me.lyft.android",
+     "note": "Fahrdienst als Alternative, nicht überall vertreten",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "DoorDash",
+     "cat": "delivery",
+     "pkg": "com.dd.doordash",
+     "note": "Essen und Einkäufe liefern lassen",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Lieferdienst mit dem vorhandenen Uber-Konto",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "Skip",
+     "cat": "delivery",
+     "pkg": "com.ncconsulting.skipthedishes_android",
+     "note": "Kanadischer Lieferdienst, auch in kleineren Orten",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "WeatherCAN",
+     "cat": "safety",
+     "pkg": "ca.gc.ec.weather_app_android.ops",
+     "note": "Amtliche Wetterwarnungen und Radar",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "PRESTO",
+     "cat": "transit",
+     "pkg": "com.metrolinx.presto.android.consumerapp",
+     "note": "Guthaben und Pässe der PRESTO-Karte in Ontario verwalten",
+     "use": "limited",
+     "req": "PRESTO-Karte nötig, alternativ Kreditkarte antippen",
+     "src": "https://www.ttc.ca/riding-the-ttc/Updates/Pay-your-fare-with-your-debit-or-credit-card"
+    },
+    {
+     "name": "Flair Airlines",
+     "cat": "flights",
+     "pkg": "com.flyflair.mobile",
+     "note": "Buchung und Check-in beim Billigflieger",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "ArriveCAN",
+     "cat": "entry",
+     "pkg": "ca.gc.cbsa.coronavirus",
+     "note": "Freiwillige Zollerklärung vorab an 10 Flughäfen",
+     "src": "https://www.canada.ca/en/border-services-agency/services/arrivecan.htm"
+    },
+    {
+     "name": "Parks Canada App",
+     "cat": "tourism",
+     "pkg": "com.parkscanada.mobile",
+     "note": "Nationalparks mit Offline-Infos und Touren",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "Tim Hortons",
+     "cat": "delivery",
+     "pkg": "digital.rbi.timhortons",
+     "note": "Kaffee vorbestellen, bezahlen und Punkte sammeln",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "Wise",
+     "cat": "payment",
+     "pkg": "com.transferwise.android",
+     "note": "Kanadische Dollar halten und günstig tauschen",
+     "src": "https://wise.com/help/articles/2813542/where-do-i-need-to-live-to-hold-money-with-wise"
+    },
+    {
+     "name": "Via Rail",
+     "cat": "rail",
+     "pkg": "com.viarail.reservia",
+     "note": "Fernzüge buchen und Zugstatus abrufen",
+     "src": "https://www.bento.travel/canada"
+    },
+    {
+     "name": "Turo",
+     "cat": "carshare",
+     "pkg": "com.relayrides.android.relayrides",
+     "note": "Autos von Privatleuten mieten",
+     "use": "limited",
+     "req": "Mindestalter 23, Fahrerprüfung bei erster Buchung",
+     "src": "https://turo.com/ca/en/car-rental/canada/how-turo-works"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "Leih-E-Scooter und E-Bikes in mehreren Städten",
+     "use": "limited",
+     "req": "Mindestalter 18",
+     "src": "https://www.calgary.ca/bike-walk-roll/electric-scooters.html"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "note": "E-Scooter-Verleih, etwa in Calgary",
+     "use": "limited",
+     "req": "Mindestalter 18",
+     "src": "https://www.calgary.ca/bike-walk-roll/electric-scooters.html"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Calgary",
+     "match": [
+      "Calgary"
+     ],
+     "apps": [
+      {
+       "name": "Calgary Transit My Fare",
+       "cat": "transit",
+       "pkg": "com.justride.calgary",
+       "note": "Offizielle Ticket-App für Bus und CTrain",
+       "src": "https://www.bento.travel/canada"
+      },
+      {
+       "name": "MyParking",
+       "cat": "parking",
+       "pkg": "com.cpa.accountManagement",
+       "note": "Offizielle ParkPlus-App, Zahlung auch als Gast",
+       "src": "https://www.calgaryparking.com/paying-for-parking/mobile-app.html"
+      }
+     ]
+    },
+    {
+     "name": "Halifax",
+     "match": [
+      "Halifax"
+     ],
+     "apps": [
+      {
+       "name": "HFXGO",
+       "cat": "transit",
+       "pkg": "com.justride.halifax",
+       "note": "Tickets für Busse und Fähre in Halifax",
+       "src": "https://www.bento.travel/canada"
+      }
+     ]
+    },
+    {
+     "name": "Montreal",
+     "match": [
+      "Montreal"
+     ],
+     "apps": [
+      {
+       "name": "Chrono",
+       "cat": "transit",
+       "pkg": "quebec.artm.chrono",
+       "note": "Fahrpläne und Tickets für Bus und Metro",
+       "src": "https://www.bento.travel/canada"
+      },
+      {
+       "name": "Mobicité",
+       "cat": "parking",
+       "pkg": "ca.agencemobilitedurable.mobicite",
+       "note": "Offizielle Park-App für Straße und städtische Plätze",
+       "use": "limited",
+       "req": "Konto und Kreditkarte nötig",
+       "src": "https://www.agencemobilitedurable.ca/en/practical-info/pmobileservice"
+      },
+      {
+       "name": "BIXI",
+       "cat": "micro",
+       "note": "Leihräder und E-Bikes mit Stationskarte",
+       "src": "https://bixi.com/en/mobile-application/"
+      }
+     ]
+    },
+    {
+     "name": "Quebec City",
+     "match": [
+      "Quebec City"
+     ],
+     "apps": [
+      {
+       "name": "RTC Nomade temps réel",
+       "cat": "transit",
+       "pkg": "ca.rtcquebec.nomade",
+       "note": "Busse in Echtzeit, Haltestellen und Störungen",
+       "src": "https://www.rtcquebec.ca/informations-pratiques/pour-rester-informe/rtc-nomade-temps-reel"
+      },
+      {
+       "name": "RTC Nomade paiement",
+       "cat": "transit",
+       "pkg": "com.rtc.ticket",
+       "note": "Bustickets kaufen und im Handy entwerten",
+       "use": "limited",
+       "req": "Konto und Visa oder Mastercard nötig",
+       "src": "https://www.rtcquebec.ca/tarifs-et-achat/achat-et-points-de-vente/rtc-nomade-paiement"
+      }
+     ]
+    },
+    {
+     "name": "Toronto",
+     "match": [
+      "Toronto"
+     ],
+     "apps": [
+      {
+       "name": "Green P",
+       "cat": "parking",
+       "pkg": "com.passportparking.mobile.toronto",
+       "note": "Offizielle Park-App der Stadt Toronto",
+       "src": "https://mobilepay.greenp.com/faq/how-do-i-get-the-green-p-app/"
+      },
+      {
+       "name": "Bike Share Toronto",
+       "cat": "micro",
+       "note": "Leihräder mit Tagespass oder Minutenpreis",
+       "src": "https://bikesharetoronto.com/pricing/"
+      }
+     ]
+    },
+    {
+     "name": "Vancouver",
+     "match": [
+      "Vancouver"
+     ],
+     "apps": [
+      {
+       "name": "Evo Car Share",
+       "cat": "carshare",
+       "note": "Freefloating-Carsharing im Raum Vancouver",
+       "use": "limited",
+       "req": "Fahrpraxis 3 Jahre, beglaubigt übersetzter Fahrerauszug",
+       "src": "https://evo.ca/vulogfaq"
+      },
+      {
+       "name": "PayByPhone",
+       "cat": "parking",
+       "note": "Straßenparken per Handy bezahlen",
+       "src": "https://vancouver.ca/streets-transportation/pay-for-parking.aspx"
+      },
+      {
+       "name": "HotSpot",
+       "cat": "parking",
+       "note": "Zweite offizielle Option fürs Straßenparken",
+       "src": "https://vancouver.ca/streets-transportation/pay-for-parking.aspx"
+      },
+      {
+       "name": "Mobi",
+       "cat": "micro",
+       "note": "Leihräder und E-Bikes mit Minutentarif",
+       "src": "https://www.mobibikes.ca/en/offers-subscription"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen für Flüge eine eTA für 7 CAD, nur über canada.ca, eine offizielle App gibt es nicht. Bezahlt wird meist per Kreditkarte.",
+   "src": "https://www.bento.travel/canada",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "CR",
+   "name": "Costa Rica",
+   "flag": "🇨🇷",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Verbreitete Fahrdienst-App, Kennzeichen prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Zweiter Fahrdienst als Alternative zu Uber",
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Regionaler Lieferdienst für Essen und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung mit dem Uber-Konto",
+     "ess": true,
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "DiDi Food",
+     "cat": "delivery",
+     "pkg": "com.xiaojukeji.didi.global.customer",
+     "note": "Weitere Lieferoption, Adresse vorab prüfen",
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Live-Verkehr und Staumeldungen",
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Busrouten planen, Haltestellen vor Ort prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "Passer",
+     "cat": "rail",
+     "pkg": "passer.app",
+     "note": "Tickets für Überlandbusse, etwa Tracopa",
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "Emergencias 9-1-1 CR",
+     "cat": "safety",
+     "pkg": "com.datasoftla.app911_cr",
+     "note": "Offizielle Notruf-App mit Standort und Chat",
+     "ess": true,
+     "src": "https://www.bento.travel/costa-rica"
+    },
+    {
+     "name": "Naturaleza Mágica",
+     "cat": "tourism",
+     "note": "Offizielle Infos zu Nationalparks von SINAC",
+     "src": "https://delfino.cr/2025/07/minae-invita-a-la-poblacion-a-descargar-aplicacion-naturaleza-magica"
+    },
+    {
+     "name": "SINPE TP Pasajero",
+     "cat": "transit",
+     "note": "Kartenzahlung in Bus und Bahn verwalten",
+     "use": "limited",
+     "req": "Kontaktlose Bankkarte nötig, nicht auf allen Linien",
+     "src": "https://apps.apple.com/co/app/sinpe-tp-pasajero/id1612109967"
+    },
+    {
+     "name": "Incofer CR",
+     "cat": "rail",
+     "note": "Fahrpläne, Tarife und Status der Vorortzüge",
+     "src": "https://apps.apple.com/bm/app/incofer-cr/id1632487842"
+    },
+    {
+     "name": "Budget Costa Rica",
+     "cat": "carshare",
+     "note": "Mietwagen ohne Schalter abholen und öffnen",
+     "use": "limited",
+     "req": "Physische Kreditkarte und Mindestalter 21 nötig",
+     "src": "https://apps.apple.com/us/app/id1516677167"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Cartago",
+     "match": [
+      "Cartago"
+     ],
+     "apps": [
+      {
+       "name": "epark CR",
+       "cat": "parking",
+       "note": "Städtische Parkplätze per App bezahlen",
+       "src": "https://www.crhoy.com/nacionales/muni-de-cartago-no-cobra-parquimetros-en-cuadrantes-con-numeros-borrosos/"
+      }
+     ]
+    },
+    {
+     "name": "Heredia",
+     "match": [
+      "Heredia"
+     ],
+     "apps": [
+      {
+       "name": "Zona H",
+       "cat": "parking",
+       "note": "Offizielle Park-App der Stadt Heredia",
+       "use": "limited",
+       "req": "Ausweisnummer und Bankkarte bei Registrierung nötig",
+       "src": "https://delfino.cr/2026/03/aplicacion-zona-h-permitira-pagar-parqueo-desde-el-celular-en-heredia"
+      }
+     ]
+    },
+    {
+     "name": "San José",
+     "match": [
+      "San José"
+     ],
+     "apps": [
+      {
+       "name": "epark CR",
+       "cat": "parking",
+       "note": "Parkgebühren in der Innenstadt per App zahlen",
+       "src": "https://observador.cr/municipalidad-de-san-jose-reactivara-cobro-de-parquimetros-el-22-de-abril/"
+      }
+     ]
+    }
+   ],
+   "note": "Uber und DiDi sind nicht reguliert, lizenzierte rote Taxis oder genehmigte Shuttles sind die offizielle Alternative.",
+   "src": "https://www.bento.travel/costa-rica",
    "checked": "2026-11-17"
   }
  ]
