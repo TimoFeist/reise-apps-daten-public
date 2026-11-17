@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 17:29",
+ "version": "2026-11-17 17:32",
  "categories": [
   {
    "id": "entry",
@@ -1062,8 +1062,9 @@
     {
      "name": "OUIGO España",
      "cat": "rail",
-     "note": "Günstiger Hochgeschwindigkeitszug",
-     "pkg": "com.sncf.ouigo.espana"
+     "note": "Günstige Schnellzüge, Ticket als QR Code",
+     "pkg": "com.sncf.ouigo.espana",
+     "src": "https://www.ouigo.com/es/ventajas-app-trenes"
     },
     {
      "name": "ALSA",
@@ -1181,8 +1182,9 @@
       {
        "name": "TMB App",
        "cat": "transit",
-       "note": "Metro und Bus Barcelona",
-       "pkg": "com.geomobile.tmbmobile"
+       "note": "Metro und Bus, Tickets kaufen und aufladen",
+       "pkg": "com.geomobile.tmbmobile",
+       "src": "https://www.tmb.cat/en/barcelona/tmb-app-t-mobilitat"
       },
       {
        "name": "Smou",
@@ -1676,8 +1678,9 @@
     {
      "name": "G7 Taxi",
      "cat": "taxi",
-     "note": "Lizenzierte Taxis in Paris und vielen Städten",
-     "pkg": "fr.taxisg7.grandpublic"
+     "note": "Lizenzierte Taxis, stark in Paris, auch Flughafenfahrten",
+     "pkg": "fr.taxisg7.grandpublic",
+     "src": "https://www.bento.travel/france"
     },
     {
      "name": "Uber",
@@ -1855,8 +1858,11 @@
       {
        "name": "Bonjour RATP",
        "cat": "transit",
-       "note": "Offizielle RATP-App für Metro, RER, Bus",
-       "pkg": "com.fabernovel.ratp"
+       "note": "RATP App mit Routen und Handytickets für Paris",
+       "pkg": "com.fabernovel.ratp",
+       "src": "https://www.ratp.fr/en/titres-et-tarifs/smartphone-tickets",
+       "use": "limited",
+       "req": "Handyticket nur auf kompatiblem Smartphone, Prüfung erfolgt in der App"
       },
       {
        "name": "G7 Taxi",
@@ -3114,31 +3120,125 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Bolt Food",
      "cat": "delivery",
      "pkg": "com.bolt.deliveryclient",
      "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "In Südafrika nicht verfügbar"
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
      "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Piki",
      "cat": "delivery",
      "pkg": "com.food.ordering",
      "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "In Südafrika nicht verfügbar"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung in vielen Städten",
+     "src": "https://www.bento.travel/south-africa"
+    },
+    {
+     "name": "Mr D",
+     "cat": "delivery",
+     "pkg": "com.mrd.food",
+     "note": "Größter heimischer Lieferdienst für Essen und Einkäufe",
+     "use": "limited",
+     "req": "Ausländische Karten werden online teils abgelehnt, 3D-Secure nötig",
+     "src": "https://www.bento.travel/south-africa"
+    },
+    {
+     "name": "SnapScan",
+     "cat": "payment",
+     "pkg": "com.fireid.snapscan",
+     "note": "QR-Zahlung bei lokalen Händlern als Ergänzung",
+     "use": "limited",
+     "req": "Karte mit aktiviertem 3D-Secure nötig",
+     "src": "https://www.bento.travel/south-africa"
+    },
+    {
+     "name": "Gautrain",
+     "cat": "rail",
+     "pkg": "com.afrigis.gautrain",
+     "note": "Schnellbahn und Zubringerbusse in Gauteng",
+     "src": "https://www.bento.travel/south-africa"
+    },
+    {
+     "name": "SA Traveller Management System",
+     "cat": "entry",
+     "pkg": "za.gov.sars.satms",
+     "note": "Offizielle Reiseerklärung der Steuerbehörde SARS",
+     "src": "https://www.bento.travel/south-africa"
+    },
+    {
+     "name": "Intercape",
+     "cat": "rail",
+     "pkg": "za.co.intercape.app",
+     "note": "Fernbusse in Südafrika und Nachbarländern buchen",
+     "src": "https://www.bento.travel/south-africa"
+    },
+    {
+     "name": "ESP",
+     "cat": "misc",
+     "pkg": "com.ashwhale.sepush.eskom",
+     "note": "Infos zu Strom- und Wasserabschaltungen",
+     "src": "https://www.bento.travel/south-africa"
+    },
+    {
+     "name": "Avis Car Hire",
+     "cat": "carshare",
+     "pkg": "com.avis.mobile",
+     "note": "Mietwagen buchen und verwalten, teils ohne Schalter",
+     "src": "https://apps.apple.com/za/app/avis-car-hire/id883735332"
+    },
+    {
+     "name": "First Car Rental",
+     "cat": "carshare",
+     "pkg": "com.mellisa.first_car_rental",
+     "note": "Buchungs-App eines großen heimischen Autovermieters",
+     "src": "https://firstcarrental.co.za/mobile-apps"
     }
    ],
-   "cities": []
+   "cities": [
+    {
+     "name": "Cape Town",
+     "match": [
+      "Cape Town"
+     ],
+     "apps": [
+      {
+       "name": "MyCiTi",
+       "cat": "transit",
+       "pkg": "com.myciti.app.myciti",
+       "note": "Offizielle Bus-App mit Routen und Live-Tracking",
+       "use": "limited",
+       "req": "Fahren nur mit physischer myconnect-Karte",
+       "src": "https://www.bento.travel/south-africa"
+      }
+     ]
+    }
+   ],
+   "note": "Nur per App gebuchte Fahrten nutzen und Hauptstraßen bevorzugen, da Kriminalität die Routenwahl stark beeinflusst.",
+   "src": "https://www.bento.travel/south-africa",
+   "checked": "2026-11-17"
   },
   {
    "code": "KE",
@@ -3150,7 +3250,8 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Bolt Food",
@@ -3164,17 +3265,132 @@
      "cat": "taxi",
      "pkg": "com.ubercab",
      "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Piki",
      "cat": "delivery",
      "pkg": "com.food.ordering",
      "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "In Kenia nicht verfügbar"
+    },
+    {
+     "name": "Little",
+     "cat": "taxi",
+     "pkg": "com.craftsilicon.littlecabrider",
+     "note": "Kenianischer Fahrdienst als Ausweichoption",
+     "src": "https://www.bento.travel/kenya"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrten mit selbst verhandeltem Preis",
+     "src": "https://www.bento.travel/kenya"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen, Einkäufe und Kiosk-Lieferung",
+     "ess": true,
+     "src": "https://www.bento.travel/kenya/food-delivery"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Lieferung in Nairobi, Mombasa, Kisumu, Nakuru",
+     "src": "https://www.bento.travel/kenya/food-delivery"
+    },
+    {
+     "name": "My-OneApp (M-PESA)",
+     "cat": "payment",
+     "pkg": "com.safaricom.mpesa.lifestyle",
+     "note": "Safaricom-App für M-PESA-Zahlungen",
+     "ess": true,
+     "use": "limited",
+     "req": "Safaricom-SIM mit Reisepass registrieren und M-PESA im Shop aktivieren",
+     "src": "https://www.bento.travel/kenya/payments"
+    },
+    {
+     "name": "Tourist Tap",
+     "cat": "payment",
+     "pkg": "com.little.littlepay",
+     "note": "Mit Karte an M-PESA-Händler zahlen, ohne lokale SIM",
+     "use": "limited",
+     "req": "Apple Pay oder Android-Handy mit NFC und kontaktloser Karte nötig",
+     "src": "https://www.bento.travel/kenya/payments"
+    },
+    {
+     "name": "BuuPass",
+     "cat": "rail",
+     "pkg": "io.andronicus.buupass",
+     "note": "Fernbustickets mit Sitzplatzwahl",
+     "src": "https://www.bento.travel/kenya"
+    },
+    {
+     "name": "Kenya Airways",
+     "cat": "flights",
+     "pkg": "com.kenyaairways.prodapp",
+     "note": "Buchung und Check-in der Nationalairline",
+     "src": "https://www.bento.travel/kenya"
+    },
+    {
+     "name": "FlyJambojet",
+     "cat": "flights",
+     "pkg": "com.jambojet.booking.twa",
+     "note": "Inlandsflüge von Jambojet",
+     "src": "https://www.bento.travel/kenya"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Kostenlose Offline-Karten für Touren",
+     "src": "https://www.bento.travel/kenya"
+    },
+    {
+     "name": "Kenya ETA",
+     "cat": "entry",
+     "pkg": "ke.go.etakenya.app",
+     "note": "Offizielle App für Antrag und Ablage der eTA",
+     "ess": true,
+     "src": "https://etakenya.go.ke/faqs"
+    },
+    {
+     "name": "GetRentacar",
+     "cat": "carshare",
+     "pkg": "getrentacar.app",
+     "note": "Mietwagen in Nairobi, Mombasa und an Flughäfen",
+     "use": "limited",
+     "req": "Führerschein (sonst internationaler), Mindestalter 21, Visa oder Mastercard",
+     "src": "https://getrentacar.com/en-US/kenya"
     }
    ],
-   "cities": []
+   "cities": [
+    {
+     "name": "Nairobi",
+     "match": [
+      "Nairobi"
+     ],
+     "apps": [
+      {
+       "name": "ma3wise",
+       "cat": "transit",
+       "pkg": "ke.co.ma3wise",
+       "note": "Routenplaner für Matatus in Nairobi",
+       "src": "https://www.bento.travel/kenya"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen vor der Reise eine eTA (etakenya.go.ke, etwa 3 Werktage Bearbeitung); Safari-Anbieter bei der Tourism Regulatory Authority prüfen.",
+   "src": "https://www.bento.travel/kenya",
+   "checked": "2026-11-17"
   },
   {
    "code": "CZ",
@@ -3783,6 +3999,338 @@
    ],
    "note": "Mit Forint (HUF) zahlen, Umrechnung in Euro an der Kasse ablehnen und etwas Bargeld dabeihaben.",
    "src": "https://www.bento.travel/hungary",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "EG",
+   "name": "Ägypten",
+   "flag": "🇪🇬",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Einfachster Fahrdienst, vor dem Einsteigen Kennzeichen prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis selbst vorschlagen und Angebote vergleichen",
+     "ess": true,
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Zum Vergleich von Preis und Wartezeit",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Ausweichoption, Verfügbarkeit vor Ort prüfen",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "pkg": "com.talabat",
+     "note": "Größte Lieferplattform für Essen und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "elmenus",
+     "cat": "delivery",
+     "pkg": "com.elmenus.app",
+     "note": "Restaurants und Lieferung, Menüs auch auf Englisch",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "MRSOOL",
+     "cat": "delivery",
+     "pkg": "com.mrsool",
+     "note": "Kurierdienst für Sonderwünsche",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "Breadfast",
+     "cat": "delivery",
+     "pkg": "com.breadfast",
+     "note": "Lebensmittel und Drogerieartikel, Lieferzone prüfen",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "InstaShop",
+     "cat": "delivery",
+     "pkg": "com.stedor.instashop",
+     "note": "Lieferung aus Supermärkten in der Nähe",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "Rabbit",
+     "cat": "delivery",
+     "pkg": "com.rabbit.mart",
+     "note": "Schnelle Lieferung von Einkäufen",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "Amazon Shopping",
+     "cat": "shopping",
+     "pkg": "com.amazon.mShop.android.shopping",
+     "note": "Onlineshop, Amazon Now nur in einzelnen Stadtteilen",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "Experience Egypt",
+     "cat": "tourism",
+     "pkg": "com.easwaaqmisr.myegypt",
+     "note": "Offizielle Tickets für Museen und Ausgrabungsstätten",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "GoBus",
+     "cat": "rail",
+     "pkg": "com.gobuseg",
+     "note": "Fernbusse, Abfahrtsterminal und Klasse prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "Blue-Bus",
+     "cat": "rail",
+     "pkg": "com.nativeapp.bluebusmobile",
+     "note": "Weiterer Fernbusanbieter zum Fahrplanvergleich",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "ABELA",
+     "cat": "rail",
+     "pkg": "com.ernst.app",
+     "note": "Buchung der Schlafwagenzüge",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "ReGo BUS",
+     "cat": "rail",
+     "pkg": "com.engx.regoride",
+     "note": "Vergleicht mehrere Busunternehmen",
+     "src": "https://www.bento.travel/egypt"
+    },
+    {
+     "name": "Vodafone Cash",
+     "cat": "payment",
+     "note": "Mobiles Bezahlen für Einheimische",
+     "use": "no",
+     "req": "Ägyptischer Personalausweis und darauf registrierte Mobilnummer nötig",
+     "src": "https://www.bento.travel/egypt/payments"
+    },
+    {
+     "name": "InstaPay",
+     "cat": "payment",
+     "note": "Sofortüberweisungen zwischen ägyptischen Banken",
+     "use": "no",
+     "req": "Nur mit Konto bei einer ägyptischen Bank",
+     "src": "https://www.bento.travel/egypt/payments"
+    },
+    {
+     "name": "myFawry",
+     "cat": "payment",
+     "note": "Rechnungen, Aufladungen und Zahlungen im Inland",
+     "use": "limited",
+     "req": "Vor allem für Einheimische gedacht, für Besucher kaum nötig",
+     "src": "https://www.bento.travel/egypt/payments"
+    },
+    {
+     "name": "Egyptian National Railway",
+     "cat": "rail",
+     "pkg": "enr.transit.maf",
+     "note": "Offizielle Bahn-App mit Fahrplänen und E-Tickets",
+     "use": "limited",
+     "req": "Fahrplanauskunft für alle, Ticketkauf nur für ägyptische Staatsbürger",
+     "src": "https://www.seat61.com/Egypt.htm"
+    },
+    {
+     "name": "Visa On Arrival",
+     "cat": "entry",
+     "note": "Offizielles Visum bei Ankunft als QR-Code",
+     "use": "limited",
+     "req": "Pilotphase seit August 2026, zunächst nur Flughafen Kairo",
+     "src": "https://kyodonewsprwire.jp/release/202607233028"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kairo",
+     "match": [
+      "Cairo",
+      "Kairo"
+     ],
+     "apps": [
+      {
+       "name": "Cairo Metro",
+       "cat": "transit",
+       "pkg": "com.cairo.metro.app",
+       "note": "Offizieller Metroplaner, Tickets am Bahnhof",
+       "src": "https://www.bento.travel/egypt"
+      }
+     ]
+    }
+   ],
+   "note": "Fahrten immer in der App halten, Kennzeichen prüfen und kleine EGP-Scheine bereithalten.",
+   "src": "https://www.bento.travel/egypt",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "MA",
+   "name": "Marokko",
+   "flag": "🇲🇦",
+   "apps": [
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis wird ausgehandelt, oft bar bezahlt",
+     "ess": true,
+     "src": "https://www.bento.travel/morocco"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrten in ausgewählten Großstädten",
+     "ess": true,
+     "src": "https://www.bento.travel/morocco"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Zweite Fahrdienst-Option in größeren Städten",
+     "src": "https://www.bento.travel/morocco"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Größte Lieferabdeckung in Touristenstädten",
+     "ess": true,
+     "src": "https://www.bento.travel/morocco"
+    },
+    {
+     "name": "Kooul",
+     "cat": "delivery",
+     "pkg": "com.ora.customer",
+     "note": "Lieferalternative in mehreren Großstädten",
+     "src": "https://www.bento.travel/morocco"
+    },
+    {
+     "name": "ONCF Voyages",
+     "cat": "rail",
+     "pkg": "ma.oncf.oncfmobileapp",
+     "note": "Offizielle Bahn-App, auch für Al Boraq",
+     "ess": true,
+     "src": "https://www.bento.travel/morocco"
+    },
+    {
+     "name": "marKoub.ma",
+     "cat": "rail",
+     "pkg": "com.marKoub.app",
+     "note": "Fernbustickets vergleichen und buchen",
+     "src": "https://www.bento.travel/morocco"
+    },
+    {
+     "name": "Mobi4U",
+     "cat": "transit",
+     "note": "Alsa-Stadtbusse in Rabat und Agadir mit Tickets",
+     "src": "https://www.alsa.com/en/mobi4u-download"
+    },
+    {
+     "name": "GetRentacar",
+     "cat": "carshare",
+     "pkg": "getrentacar.app",
+     "note": "Mietwagen von lokalen Anbietern in vielen Städten",
+     "use": "limited",
+     "req": "Ab 21 Jahren, Führerschein, Reisepass, Visa oder Mastercard Debitkarte, Kaution bei Abholung",
+     "src": "https://getrentacar.com/en-US/morocco?p=9"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Casablanca",
+     "match": [
+      "Casablanca"
+     ],
+     "apps": [
+      {
+       "name": "CASABUS",
+       "cat": "transit",
+       "pkg": "com.casabus.android.app",
+       "note": "Buslinien und Ankunftszeiten in Casablanca",
+       "src": "https://www.bento.travel/morocco"
+      },
+      {
+       "name": "Allobike",
+       "cat": "micro",
+       "note": "Leihräder stundenweise und Radtouren",
+       "src": "https://apps.apple.com/ma/app/allobike/id6505114588"
+      }
+     ]
+    },
+    {
+     "name": "Marrakesch",
+     "match": [
+      "Marrakesch",
+      "Marrakesh"
+     ],
+     "apps": [
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "pkg": "ee.mtakso.client",
+       "note": "Fahrdienst, laut Quelle nur in Marrakesch",
+       "src": "https://www.bento.travel/morocco"
+      },
+      {
+       "name": "Bolt Food",
+       "cat": "delivery",
+       "pkg": "com.bolt.deliveryclient",
+       "note": "Essenslieferung, laut Quelle nur in Marrakesch",
+       "src": "https://www.bento.travel/morocco"
+      }
+     ]
+    },
+    {
+     "name": "Rabat",
+     "match": [
+      "Rabat"
+     ],
+     "apps": [
+      {
+       "name": "Blassty",
+       "cat": "transit",
+       "pkg": "com.transitloop.rrm",
+       "note": "Offizielle Planung für Bus und Tram um Rabat",
+       "src": "https://www.bento.travel/morocco"
+      },
+      {
+       "name": "Tram Mobile",
+       "cat": "transit",
+       "note": "Tramtickets Rabat-Salé als QR-Code",
+       "use": "limited",
+       "req": "Zahlung per Bankkarte, nicht jede ausländische Karte wird angenommen",
+       "src": "https://apps.apple.com/app/id1588746412"
+      }
+     ]
+    }
+   ],
+   "note": "Dirham in bar mitnehmen, da Souks, Cafés und Taxis oft nur Bargeld nehmen.",
+   "src": "https://www.bento.travel/morocco",
    "checked": "2026-11-17"
   }
  ]
