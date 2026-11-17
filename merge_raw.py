@@ -96,6 +96,10 @@ def merge(data, code, raw):
         country["note"] = raw["note"].strip()
     if src:
         country["src"] = src
+    if raw.get("lgbtq_note"):
+        country["lgbtq_note"] = raw["lgbtq_note"].strip()
+        if raw.get("lgbtq_src"):
+            country["lgbtq_src"] = raw["lgbtq_src"]
     if raw.get("fetched"):
         country["checked"] = raw["fetched"]
     added = 0

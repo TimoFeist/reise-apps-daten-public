@@ -79,6 +79,11 @@
    "icon": "🏨"
   },
   {
+   "id": "lgbtq",
+   "name": "LGBTQ+",
+   "icon": "🏳️‍🌈"
+  },
+  {
    "id": "misc",
    "name": "Sonstiges",
    "icon": "📱"
@@ -368,6 +373,22 @@
      "cat": "parking",
      "pkg": "net.easypark.android",
      "mine": true
+    },
+    {
+     "name": "Grindr",
+     "pkg": "com.grindrapp.android",
+     "cat": "lgbtq",
+     "mine": true,
+     "where": "all",
+     "note": "Dating und Community; Sicherheitshinweis des Landes beachten"
+    },
+    {
+     "name": "Spartacus",
+     "pkg": "tm.gayguide",
+     "cat": "lgbtq",
+     "mine": true,
+     "where": "all",
+     "note": "Gay Travel Guide mit Bars, Hotels, Events"
     }
    ],
    "cities": []
