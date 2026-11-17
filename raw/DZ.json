@@ -1,0 +1,149 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Visum vorab bei der Botschaft beantragen, Kreditkarten werden kaum akzeptiert, daher Euro in bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind in Algerien gesetzlich verboten und stehen unter Strafe.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
+ "discontinued": [
+  {
+   "name": "Yango",
+   "pkg": "",
+   "src": "https://algeriatech.news/?p=19715"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Yassir",
+   "cat": "taxi",
+   "pkg": "com.yatechnologies.yassir_rider",
+   "ess": true,
+   "note": "Algerische Super-App für Fahrten, Essen und Einkäufe",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Handynummer, ob eine ausländische Nummer reicht, ist nicht belegt; Fahrten meist bar",
+   "src": "https://appgoblin.info/apps/com.yatechnologies.yassir_rider"
+  },
+  {
+   "name": "Heetch",
+   "cat": "taxi",
+   "pkg": "com.heetch",
+   "ess": false,
+   "note": "Fahrdienst in Algier und Oran, Bezahlung bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.heetch"
+  },
+  {
+   "name": "temtem",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst und Lieferungen, u. a. Algier, Oran, Constantine",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit ausländischer Nummer nicht belegt",
+   "src": "https://algeriatech.news/?p=19715"
+  },
+  {
+   "name": "Taxi Safe",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche Sogral-App für zugelassene Taxis mit Taxameter",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit ausländischer Nummer nicht belegt",
+   "src": "https://algerie-eco.com/?p=221458"
+  },
+  {
+   "name": "Yassir Express",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essens- und Lebensmittellieferung über die Yassir-App",
+   "city": "",
+   "use": "limited",
+   "req": "Lieferdienst ist Teil der Yassir-App, Zahlung mit ausländischer Karte nicht belegt",
+   "src": "https://appgoblin.info/apps/com.yatechnologies.yassir_rider"
+  },
+  {
+   "name": "Mahatati",
+   "cat": "rail",
+   "pkg": "com.sogral.mobile",
+   "ess": false,
+   "note": "Fernbus-Abfahrten, Preise und Tickets der Busbahnhöfe",
+   "city": "",
+   "use": "limited",
+   "req": "Fahrplan frei nutzbar, Ticketkauf mit ausländischer Karte nicht belegt",
+   "src": "https://appwisp.com/app/android/com.sogral.mobile"
+  },
+  {
+   "name": "Air Algérie",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge der Staatsairline buchen und online einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1458273665"
+  },
+  {
+   "name": "BaridiMob",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Banking und Überweisungen von Algérie Poste",
+   "city": "",
+   "use": "no",
+   "req": "Aktives Konto bei Algérie Poste mit Edahabia-Karte nötig",
+   "src": "https://www.algerie360.com/algerie-poste-quelles-sont-conditions-pour-transferer-de-largent-via-lapplication-baridimob/"
+  },
+  {
+   "name": "Discover Algeria",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Kulturerbe-App mit virtuellen Touren und Bilderkennung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.algerie360.com/discover-algeria-lalgerie-lance-sa-premiere-appli-touristique-intelligente/"
+  },
+  {
+   "name": "El Metro",
+   "cat": "transit",
+   "pkg": "dz.sema.qrcode",
+   "ess": false,
+   "note": "Offizielle Metro-App mit QR-Tickets und Abos",
+   "city": "Algiers",
+   "use": "limited",
+   "req": "Zahlung mit ausländischer Karte nicht belegt, Tickets auch am Schalter",
+   "src": "https://www.algerie360.com/sema-lance-lapplication-el-metro-voici-ses-principales-fonctionnalites/"
+  },
+  {
+   "name": "ETUSA MOB",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Busapp der ETUSA mit Linien und Haltestellen",
+   "city": "Algiers",
+   "use": "ok",
+   "req": "",
+   "src": "https://algerie-eco.com/2022/01/11/etusa-une-application-mobile-pour-faciliter-les-deplacements/"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App für Männer",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen strafbar, Nutzung riskant",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044"
+  }
+ ]
+}

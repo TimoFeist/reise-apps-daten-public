@@ -1,0 +1,131 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/angola-node/angolasicherheit-208118",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Karten werden kaum akzeptiert und Geldautomaten nehmen nur VISA, daher genug Bargeld in Kwanza einplanen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, offen gezeigte Zärtlichkeiten unter gleichgeschlechtlichen Paaren sind aber unüblich.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/angola-node/angolasicherheit-208118",
+ "apps": [
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": true,
+   "note": "Meistgeladener Fahrdienst in Luanda, mit Notrufknopf",
+   "city": "Luanda",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.menosfios.com/en/yango-e-ministerio-dos-transportes-abordam-regulacao-do-sector-e-seguranca-no-servico-de-transporte-por-aplicativo/"
+  },
+  {
+   "name": "Heetch",
+   "cat": "taxi",
+   "pkg": "com.heetch",
+   "ess": true,
+   "note": "Französischer Fahrdienst in Luanda, Zahlung bar",
+   "city": "Luanda",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.heetch"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": false,
+   "note": "Fahrpreis wird vorab mit dem Fahrer ausgehandelt",
+   "city": "Luanda",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.verangola.net/va/en/052025/Transports/44403/inDrive-transport-service-that-allows-you-to-negotiate-fares-with-drivers-arrives-in-Luanda.htm"
+  },
+  {
+   "name": "UGO Angola",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Fahrdienst für ganz Luanda, auch zum Flughafen",
+   "city": "Luanda",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/ao/app/ugo-angola/id1134945096"
+  },
+  {
+   "name": "Tupuca+",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Angolanische Super-App für Essen, Einkäufe und Taxi",
+   "city": "",
+   "use": "limited",
+   "req": "Bezahlung über lokale Dienste wie Multicaixa Express oder Unitel Money",
+   "src": "https://apps.apple.com/app/id1135386915"
+  },
+  {
+   "name": "AngoMart",
+   "cat": "delivery",
+   "pkg": "com.angomart.customer",
+   "ess": false,
+   "note": "Online-Supermarkt mit schneller Lieferung",
+   "city": "",
+   "use": "limited",
+   "req": "Lieferung nur in ausgewählten Gebieten, Zahlung per PayPal oder lokaler Wallet",
+   "src": "https://play.google.com/store/apps/details?id=com.angomart.customer&hl=en_US"
+  },
+  {
+   "name": "Afercon Xpress",
+   "cat": "misc",
+   "pkg": "afercon.xpress.app",
+   "ess": false,
+   "note": "Super-App für Taxi, Kurierdienst und Marktplatz",
+   "city": "",
+   "use": "limited",
+   "req": "Kontoverifizierung mit Ausweisdokument, Zahlung über Prepaid-Wallet",
+   "src": "https://aferconxpress.net/"
+  },
+  {
+   "name": "Discover Cars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagenvergleich mit Europcar und Hertz in Luanda",
+   "city": "Luanda",
+   "use": "limited",
+   "req": "Internationaler Führerschein zusammen mit dem deutschen nötig, portugiesische Übersetzung empfohlen",
+   "src": "https://www.discovercars.com/angola/luanda"
+  },
+  {
+   "name": "TAAG Angola Airlines",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "App der nationalen Fluggesellschaft zur Ticketbuchung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://atta.travel/resource/taag-launches-mobile-app-to-enhance-booking-and-boost-tourism-connectivity.html"
+  },
+  {
+   "name": "Multicaixa Express",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitetste Bezahl-App Angolas für Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Angolanisches Bankkonto mit IBAN nötig",
+   "src": "https://www.expansao.co.ao/empresas/detalhe/entre-ter-ou-nao-conta-no-banco-kwik-e-multicaixa-express-aceleram-61905.html"
+  },
+  {
+   "name": "Unitel Money",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse des Mobilfunkanbieters Unitel",
+   "city": "",
+   "use": "limited",
+   "req": "Angolanische Unitel-SIM nötig, Registrierung für Ausländer unklar",
+   "src": "https://www.verangola.net/va/en/042026/Telecommunications/48377/Unitel-Money-reinforces-national-expansion-with-pilot-project-in-Namibe.htm"
+  }
+ ]
+}

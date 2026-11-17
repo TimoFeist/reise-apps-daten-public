@@ -1,0 +1,109 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/botsuana-node/botsuanasicherheit-219522",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Zum Monatsende sind Geldautomaten oft leer, daher etwas Bargeld in Euro oder US-Dollar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht mehr strafbar, die Gesetzesänderung gilt seit April 2026; in der Gesellschaft gibt es weiterhin Vorbehalte.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/botsuana-node/botsuanasicherheit-219522",
+ "apps": [
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": true,
+   "note": "Fahrdienst mit Preisvorschlag, auch Fernfahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://indrive.com/en-bw/city-rides"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": false,
+   "note": "Fahrten und Lieferungen, Bargeld oder Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://yango.com/en_bw/"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Fahrdienst, seit 2024 in Gaborone aktiv",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.mmegi.bw/business/taxi-assc-concedes-market-share-to-ride-hailing-apps/news"
+  },
+  {
+   "name": "Wanzy",
+   "cat": "delivery",
+   "pkg": "com.wanzy.ordering",
+   "ess": false,
+   "note": "Lokale Liefer-App für Restaurants im Raum Gaborone",
+   "city": "Gaborone",
+   "use": "limited",
+   "req": "Zahlung mit ausländischer Karte und Anmeldung ohne lokale Nummer unklar",
+   "src": "https://www.mmegi.bw/business/wanzy-gains-ground-in-delivery-market/news"
+  },
+  {
+   "name": "Zebras",
+   "cat": "delivery",
+   "pkg": "com.zebras.ordering",
+   "ess": false,
+   "note": "Lebensmittel, Essen und Apothekenartikel in Gaborone",
+   "city": "Gaborone",
+   "use": "limited",
+   "req": "Zahlung mit ausländischer Karte und Anmeldung ohne lokale Nummer unklar",
+   "src": "https://apps.apple.com/app/id6749685246"
+  },
+  {
+   "name": "Zesta",
+   "cat": "delivery",
+   "pkg": "com.verbosec.eats",
+   "ess": false,
+   "note": "Essen, Lebensmittel und Kurierdienst aus Gaborone",
+   "city": "",
+   "use": "limited",
+   "req": "Liefergebiet und Zahlung mit ausländischer Karte unklar",
+   "src": "https://play.google.com/store/apps/details?id=com.verbosec.eats&hl=en"
+  },
+  {
+   "name": "Max it",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Orange-App mit Orange Money und QR-Zahlung",
+   "city": "",
+   "use": "limited",
+   "req": "Orange-SIM nötig, Registrierung für Ausländer nur mit Reisepass im Orange-Shop",
+   "src": "https://www.orange.co.bw/en/apps/orange-max-it-botswana.html"
+  },
+  {
+   "name": "Air Botswana",
+   "cat": "flights",
+   "pkg": "bw.co.airbotswana.app",
+   "ess": false,
+   "note": "Flüge der Landesairline buchen und einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=bw.co.airbotswana.app&hl=en"
+  },
+  {
+   "name": "DiscoverCars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen in Gaborone, Maun und Kasane vergleichen",
+   "city": "",
+   "use": "limited",
+   "req": "Internationaler Führerschein zusammen mit dem deutschen Führerschein nötig",
+   "src": "https://discovercars.com/botswana"
+  }
+ ]
+}

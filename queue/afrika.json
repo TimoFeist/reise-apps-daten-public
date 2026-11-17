@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "DZ",
-"en": "Algeria",
-"slug": "algeria"
-},
-{
-"code": "AO",
-"en": "Angola",
-"slug": "angola"
-},
-{
-"code": "BJ",
-"en": "Benin",
-"slug": "benin"
-},
-{
-"code": "BW",
-"en": "Botswana",
-"slug": "botswana"
-},
-{
 "code": "BV",
 "en": "Bouvet Island",
 "slug": "bouvet-island"
@@ -302,6 +282,26 @@
 "code": "SC",
 "en": "Seychelles",
 "slug": "seychelles"
+},
+{
+"code": "DZ",
+"en": "Algeria",
+"slug": "algeria"
+},
+{
+"code": "AO",
+"en": "Angola",
+"slug": "angola"
+},
+{
+"code": "BJ",
+"en": "Benin",
+"slug": "benin"
+},
+{
+"code": "BW",
+"en": "Botswana",
+"slug": "botswana"
 }
 ]
 }

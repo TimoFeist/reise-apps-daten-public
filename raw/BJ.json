@@ -1,0 +1,54 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
+ "fetched": "2026-11-17",
+ "updated": "Stand: 17.11.2026 (Auswärtiges Amt)",
+ "note": "Das e-Visum mindestens sieben Tage vor der Reise online beantragen, an Grenze und Flughafen gibt es keine Visa mehr.",
+ "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar, werden in der Gesellschaft aber eher toleriert als wertgeschätzt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
+ "apps": [
+  {
+   "name": "Gozem",
+   "cat": "taxi",
+   "pkg": "com.gozem",
+   "ess": true,
+   "note": "Super-App für Taxi, Zem, Tricycle, Essen und Kurier",
+   "city": "Cotonou",
+   "use": "limited",
+   "req": "Registrierung und Zahlungswege laut Quelle unklar, lokale SIM ratsam",
+   "src": "https://gozem.co/bj/"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst mit Auto, Moto, Tuk-Tuk und Lieferung",
+   "city": "Cotonou",
+   "use": "limited",
+   "req": "Zahlungswege laut Quelle unklar, Bargeld bereithalten",
+   "src": "https://yango.com/cotonou/tariff/"
+  },
+  {
+   "name": "myMTN BN",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "MTN-Kundenapp für Tarifpakete und MoMo-Übersicht",
+   "city": "",
+   "use": "limited",
+   "req": "Nur für Kunden mit beninischer MTN-SIM",
+   "src": "https://apps.apple.com/be/app/mymtn-bn/id6480581002"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984"
+  }
+ ]
+}
