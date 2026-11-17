@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 19:21",
+ "version": "2026-11-17 19:30",
  "categories": [
   {
    "id": "entry",
@@ -3903,13 +3903,17 @@
      "name": "NETS App",
      "cat": "payment",
      "pkg": "com.mls.nets.reader",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Nur Karten aus Singapur oder Malaysia hinterlegbar"
     },
     {
      "name": "OCBC",
      "cat": "payment",
      "pkg": "com.ocbc.mobile",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Singapurisches OCBC-Konto nötig, digitale Eröffnung nicht mit deutschem Pass"
     },
     {
      "name": "Changi",
@@ -3939,13 +3943,17 @@
      "name": "MyICA Mobile",
      "cat": "entry",
      "note": "SG Arrival Card, innerhalb von 3 Tagen vor Ankunft, kostenlos",
-     "src": "https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card"
+     "src": "https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card",
+     "pkg": "sg.gov.ica.mobile.app",
+     "ess": true
     },
     {
      "name": "MyTransport.SG",
      "cat": "transit",
      "note": "Offizielle LTA-App: Bus- und MRT-Ankunftszeiten",
-     "src": "https://www.bento.travel/singapore/transit"
+     "src": "https://www.bento.travel/singapore/transit",
+     "pkg": "sg.gov.lta.mytransportsg",
+     "ess": true
     },
     {
      "name": "SimplyGo",
@@ -3953,26 +3961,141 @@
      "note": "Fahrpreise, Karte; Bezahlen geht auch direkt mit Visa/Mastercard",
      "use": "limited",
      "req": "Volle Registrierung nur mit singapurischer Nummer, Gastmodus geht ohne",
-     "src": "https://www.bento.travel/singapore/transit"
+     "src": "https://www.bento.travel/singapore/transit",
+     "pkg": "sg.com.transitlink"
     },
     {
      "name": "Grab",
      "cat": "taxi",
      "pkg": "com.grabtaxi.passenger",
-     "note": "Wichtigster Fahrdienst, kein Uber in Singapur"
+     "note": "Wichtigster Fahrdienst, auch Essenslieferung per GrabFood",
+     "src": "https://www.bento.travel/singapore",
+     "ess": true
     },
     {
      "name": "Gojek",
      "cat": "taxi",
-     "note": "Alternative zu Grab, zum Preisvergleich"
+     "note": "Alternative zu Grab, zum Preisvergleich",
+     "pkg": "com.gojek.app"
     },
     {
      "name": "CDG Zig",
      "cat": "taxi",
-     "note": "Taxis von ComfortDelGro"
+     "note": "Taxis von ComfortDelGro",
+     "pkg": "com.codigo.comfort",
+     "ess": true
+    },
+    {
+     "name": "TADA",
+     "cat": "taxi",
+     "pkg": "io.mvlchain.tada",
+     "note": "Lizenzierter Fahrdienst, oft etwas günstiger",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "RYDE",
+     "cat": "taxi",
+     "pkg": "com.rydesharing.ryde",
+     "note": "Weitere lizenzierte Option für Taxis und Fahrdienste",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "Wise",
+     "cat": "payment",
+     "pkg": "com.transferwise.android",
+     "note": "Reisekarte, nur an bestimmten QR-Codes nutzbar",
+     "use": "limited",
+     "req": "Verifiziertes Wise-Konto nötig",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "Citymapper",
+     "cat": "maps",
+     "pkg": "com.citymapper.app.release",
+     "note": "Übersichtlicher ÖPNV-Planer mit Offline-Netzplan",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "KITS Style",
+     "cat": "rail",
+     "pkg": "mpay.apps.kits.superapp",
+     "note": "KTMB-Tickets für den Shuttle Tebrau nach Johor",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "BatamFast Online Ferry Booking",
+     "cat": "rail",
+     "pkg": "com.batamfast.booking",
+     "note": "Fährtickets nach Batam und Malaysia",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "GetGo",
+     "cat": "carshare",
+     "note": "Carsharing mit Autos an vielen Standorten",
+     "use": "no",
+     "req": "Keine Anmeldung für Touristen, Arbeitspass und singapurischer Führerschein nötig",
+     "src": "https://help.getgo.sg/hc/en-us/articles/14462659133337-If-I-hold-a-foreign-driving-licence-can-I-drive-a-GetGo"
+    },
+    {
+     "name": "HelloRide",
+     "cat": "micro",
+     "note": "Leihräder, Abrechnung nach der Fahrt per Karte",
+     "src": "https://www.littledayout.com/bike-sharing-singapore-cycling-rental-app/"
+    },
+    {
+     "name": "Anywheel",
+     "cat": "micro",
+     "note": "Leihräder mit Prepaid-Guthaben ab 10 S$",
+     "src": "https://www.littledayout.com/bike-sharing-singapore-cycling-rental-app/"
+    },
+    {
+     "name": "Parking@HDB",
+     "cat": "parking",
+     "note": "Parken in HDB-Parkhäusern automatisch per Kamera zahlen",
+     "src": "https://www.hdb.gov.sg/car-parks/parkinghdb/FAQs"
+    },
+    {
+     "name": "Parking.sg",
+     "cat": "parking",
+     "note": "Staatliche App für Parkplätze mit Coupon-Pflicht",
+     "src": "https://ask.gov.sg/parkingsg/questions/clgok0nrb0003mk08hz8o8xy6"
+    },
+    {
+     "name": "Visit Singapore Travel Guide",
+     "cat": "tourism",
+     "pkg": "sg.gov.stb.visitsingapore",
+     "note": "Offizieller Guide des Tourismusamts mit Routenideen",
+     "src": "https://appwisp.com/app/android/sg.gov.stb.visitsingapore"
+    },
+    {
+     "name": "myENV",
+     "cat": "safety",
+     "pkg": "sg.gov.nea",
+     "note": "Offizielle Wetter- und Umwelt-App mit Warnungen",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "ScamShield",
+     "cat": "safety",
+     "pkg": "sg.gov.scamshield",
+     "note": "Offizielle Prüfung verdächtiger Anrufe und Links",
+     "src": "https://www.bento.travel/singapore"
+    },
+    {
+     "name": "Telegram",
+     "cat": "misc",
+     "pkg": "org.telegram.messenger",
+     "note": "Messenger für Gruppen und Kanäle",
+     "src": "https://www.bento.travel/singapore"
     }
    ],
-   "cities": []
+   "cities": [],
+   "note": "Deutsche brauchen bis 90 Tage kein Visum, vorab die SG Arrival Card ausfüllen. An Hawker-Ständen kleine S$-Scheine bereithalten.",
+   "src": "https://www.bento.travel/singapore",
+   "lgbtq_note": "Homosexuelle Handlungen sind seit November 2022 nicht mehr strafbar, gleichgeschlechtliche Ehen und Partnerschaften werden aber weiterhin nicht anerkannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/singapur-node/singapursicherheit-225412",
+   "checked": "2026-11-17"
   },
   {
    "code": "AE",
@@ -3983,7 +4106,8 @@
      "name": "Careem",
      "cat": "taxi",
      "pkg": "com.careem.acma",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Go City",
@@ -3991,9 +4115,211 @@
      "pkg": "com.gocitypass",
      "note": "Stadtpass für viele Städte",
      "mine": true
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrdienst zum Preisvergleich, vor allem in Dubai",
+     "ess": true,
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Eher teurer Fahrdienst in Dubai und Abu Dhabi",
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Lizenzierte Fahrzeuge und Taxis, Angebot oft knapp",
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "pkg": "com.talabat",
+     "note": "Größte Liefer-App für Restaurants und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+    },
+    {
+     "name": "Deliveroo",
+     "cat": "delivery",
+     "pkg": "com.deliveroo.orderapp",
+     "note": "Restaurantlieferung in Dubai, Abu Dhabi, Sharjah und Ajman",
+     "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+    },
+    {
+     "name": "Keeta",
+     "cat": "delivery",
+     "pkg": "com.sankuai.sailor.afooddelivery",
+     "note": "Neue Liefer-App mit befristeten Rabatten",
+     "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+    },
+    {
+     "name": "Smiles",
+     "cat": "delivery",
+     "pkg": "ae.etisalat.smiles",
+     "note": "Bonus-App von e& mit Lieferdienst, nur bei gutem Angebot",
+     "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+    },
+    {
+     "name": "Noon",
+     "cat": "shopping",
+     "pkg": "com.noon.buyerapp",
+     "note": "Marktplatz mit Schnelllieferung, auch Essen über noon Food",
+     "use": "limited",
+     "req": "Bestätigungscode an ausländische Nummer kommt nicht immer an",
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "Amazon Shopping",
+     "cat": "shopping",
+     "pkg": "com.amazon.mShop.android.shopping",
+     "note": "Einkäufe über Amazon.ae mit Lieferung",
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "botim",
+     "cat": "misc",
+     "pkg": "im.thebot.messenger",
+     "note": "Erlaubte Internettelefonie, wenn beide die App nutzen",
+     "use": "limited",
+     "req": "Gegenüber muss botim ebenfalls installiert haben, Wallet nicht für Kurzbesucher gedacht",
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Verkehrslage, Blitzer und Umleitungen",
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "Etihad Rail",
+     "cat": "rail",
+     "pkg": "com.etihadrail.app_prod_sds",
+     "note": "Zugtickets zwischen Abu Dhabi und Fujairah, Strecke prüfen",
+     "src": "https://www.bento.travel/united-arab-emirates"
+    },
+    {
+     "name": "Apple Pay, Google Pay, Samsung Wallet",
+     "cat": "payment",
+     "note": "Kontaktlos mit der eigenen Karte zahlen, Karte als Reserve",
+     "use": "limited",
+     "req": "Heimische Bank muss das Wallet unterstützen, ausländische Karten werden teils abgelehnt",
+     "src": "https://www.bento.travel/united-arab-emirates/payments"
+    },
+    {
+     "name": "Aani",
+     "cat": "payment",
+     "note": "Lokales Sofortzahlungssystem der VAE",
+     "use": "no",
+     "req": "VAE-Telefonnummer, Emirates ID und lokales Bankkonto nötig",
+     "src": "https://www.bento.travel/united-arab-emirates/payments"
+    },
+    {
+     "name": "Payit",
+     "cat": "payment",
+     "note": "Lokale Bezahl- und Wallet-App",
+     "use": "no",
+     "req": "Für Einwohner gedacht, VAE-Telefonnummer oder Emirates ID nötig",
+     "src": "https://www.bento.travel/united-arab-emirates/payments"
+    },
+    {
+     "name": "ekar Car Rental",
+     "cat": "carshare",
+     "pkg": "ae.ekar",
+     "note": "Carsharing pro Minute in Dubai, Abu Dhabi und Sharjah",
+     "use": "limited",
+     "req": "Identitätsprüfung mit Reisepass und Führerschein in der App, Freischaltung kann dauern, Mindestalter 21",
+     "src": "https://play.google.com/store/apps/details?id=ae.ekar"
+    },
+    {
+     "name": "Udrive",
+     "cat": "carshare",
+     "note": "Carsharing nach Fahrzeit, Tank und Parken inklusive",
+     "use": "limited",
+     "req": "Registrierung mit Ausweis oder Reisepass und Führerschein, deutscher Führerschein wird anerkannt, Mindestalter 21",
+     "src": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-driving-in-the-uae-as-a-tourist-licence-rules-car-rentals-and-insurance-1.500388132"
+    },
+    {
+     "name": "Yaldi",
+     "cat": "carshare",
+     "note": "Mietwagen stunden- oder tageweise per App",
+     "use": "limited",
+     "req": "Reisepass, Führerschein und Registrierung in der App nötig, Mindestalter 21",
+     "src": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-driving-in-the-uae-as-a-tourist-licence-rules-car-rentals-and-insurance-1.500388132"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "pkg": "com.grindrapp.android",
+     "note": "Weltweite Dating-App, in den VAE gesperrt",
+     "use": "no",
+     "req": "Im Land netzseitig gesperrt, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://www.dubaispots.com/en/guides/is-it-legal-to-use-dating-apps-in-dubai/"
     }
    ],
    "cities": [
+    {
+     "name": "Abu Dhabi",
+     "match": [
+      "Abu Dhabi"
+     ],
+     "apps": [
+      {
+       "name": "Abu Dhabi Taxi",
+       "cat": "taxi",
+       "pkg": "transad.abudhabi.taxi",
+       "note": "Offizielle Taxi-App für Abu Dhabi und Al Ain",
+       "use": "limited",
+       "req": "Registrierung und Kontakt zum Fahrer brauchen oft eine lokale Telefonnummer",
+       "src": "https://www.bento.travel/united-arab-emirates/ride-hailing"
+      },
+      {
+       "name": "Abu Dhabi Link",
+       "cat": "transit",
+       "pkg": "abudhabi.healthlink",
+       "note": "Sammelshuttle auf Abruf, etwa auf Yas und Saadiyat",
+       "src": "https://www.bento.travel/united-arab-emirates/transit"
+      },
+      {
+       "name": "Darbi",
+       "cat": "transit",
+       "note": "Offizielle ITC-App für Busplan, Hafilat-Aufladung und Mawaqif-Parken",
+       "use": "limited",
+       "req": "Seit 2022 kaum aktualisiert, Busdaten oft ungenau, Hafilat-Karte vor Ort kaufen",
+       "src": "https://apps.apple.com/ae/app/darbi/id840100351"
+      },
+      {
+       "name": "Experience Abu Dhabi",
+       "cat": "tourism",
+       "pkg": "com.visitabudhabi.android",
+       "note": "Offizieller Reiseführer für Abu Dhabi",
+       "src": "https://www.bento.travel/united-arab-emirates"
+      }
+     ]
+    },
+    {
+     "name": "Ajman",
+     "match": [
+      "Ajman"
+     ],
+     "apps": [
+      {
+       "name": "Masaar Travel",
+       "cat": "transit",
+       "pkg": "com.bpcbt.billet.clientv2.ajman",
+       "note": "Busse, Live-Ortung und Masaar-Karte in Ajman",
+       "src": "https://www.bento.travel/united-arab-emirates/transit"
+      }
+     ]
+    },
     {
      "name": "Dubai",
      "match": [
@@ -4003,18 +4329,102 @@
       {
        "name": "S'hail",
        "cat": "transit",
-       "note": "Offizieller RTA-Planer"
+       "note": "Offizieller RTA-Planer",
+       "pkg": "com.rta.suhail",
+       "ess": true
       },
       {
        "name": "nol Pay",
        "cat": "transit",
        "note": "nol-Karte aufladen",
        "use": "limited",
-       "req": "Handy mit NFC und physische nol-Karte nötig"
+       "req": "Handy mit NFC und physische nol-Karte nötig",
+       "pkg": "com.snowballtech.rta"
+      },
+      {
+       "name": "Parkin",
+       "cat": "parking",
+       "note": "Öffentliche Parkplätze in Dubai per Karte oder Wallet zahlen",
+       "use": "limited",
+       "req": "Zahlung für andere Emirate nur mit VAE-Mobilfunkvertrag von e&, du oder Virgin Mobile",
+       "src": "https://gulfnews.com/living-in-uae/transport/you-can-pay-for-parking-across-the-uae-through-one-app-1.500200328"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "Zugelassene E-Scooter in ausgewählten Stadtteilen",
+       "use": "limited",
+       "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16",
+       "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"
+      },
+      {
+       "name": "Dott",
+       "cat": "micro",
+       "note": "Zugelassene E-Scooter in ausgewählten Stadtteilen",
+       "use": "limited",
+       "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16",
+       "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"
+      },
+      {
+       "name": "Skurrt",
+       "cat": "micro",
+       "note": "Lokaler Anbieter zugelassener E-Scooter",
+       "use": "limited",
+       "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16",
+       "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"
+      },
+      {
+       "name": "Visit Dubai",
+       "cat": "tourism",
+       "pkg": "com.dtcm.dubaitourism",
+       "note": "Offizieller Stadtführer mit Buchung von Attraktionen",
+       "src": "https://www.bento.travel/united-arab-emirates"
+      },
+      {
+       "name": "Dubai Police",
+       "cat": "safety",
+       "note": "Hilfe anfordern und Touristenpolizei kontaktieren",
+       "src": "https://gulfnews.com/living-in-uae/ask-us/essential-dubai-apps-every-tourist-should-download-before-visiting-1.500146592"
+      }
+     ]
+    },
+    {
+     "name": "Ras Al Khaimah",
+     "match": [
+      "Ras Al Khaimah"
+     ],
+     "apps": [
+      {
+       "name": "Sayr by RAKTA",
+       "cat": "transit",
+       "pkg": "ae.rakta.alhamrabus",
+       "note": "Busse, Überlandbusse und Taxi in Ras Al Khaimah",
+       "src": "https://www.bento.travel/united-arab-emirates/transit"
+      }
+     ]
+    },
+    {
+     "name": "Sharjah",
+     "match": [
+      "Sharjah"
+     ],
+     "apps": [
+      {
+       "name": "RTA Sharjah",
+       "cat": "transit",
+       "note": "Offizielle App für Taxi, Busfahrpläne und Parken in Sharjah",
+       "use": "limited",
+       "req": "Registrierung und Taxibuchung laut Nutzern oft fehlerhaft, Fahrpläne zusätzlich prüfen",
+       "src": "https://apps.apple.com/app/id1187003188"
       }
      ]
     }
-   ]
+   ],
+   "note": "Deutsche reisen bis 90 Tage visumfrei mit biometrischem Reisepass ein, der 6 Monate gültig ist. Für bestimmte Medikamente vorab eine Einfuhrgenehmigung beantragen, Anrufe über Messenger sind oft gesperrt.",
+   "src": "https://www.bento.travel/united-arab-emirates",
+   "lgbtq_note": "Homosexuelle Handlungen sind verboten und werden bei Anzeige strafrechtlich verfolgt, auch Cross-Dressing und Zärtlichkeiten in der Öffentlichkeit sind untersagt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/vae-node/vaesicherheit-202332",
+   "checked": "2026-11-17"
   },
   {
    "code": "ZA",
@@ -8491,6 +8901,465 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2013 möglich, Schutz vor Diskriminierung, Rae-rae sind traditionell Teil der Gesellschaft.",
    "lgbtq_src": "https://equaldex.com/region/french-polynesia",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "JP",
+   "name": "Japan",
+   "flag": "🇯🇵",
+   "apps": [
+    {
+     "name": "Visit Japan Web",
+     "cat": "entry",
+     "note": "Einreise und Zoll vorab online erfassen, QR-Code bei Ankunft",
+     "src": "https://www.digital.go.jp/en/services/visit_japan_web-en/"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Taxis und Premiumwagen in unterstützten Städten bestellen",
+     "src": "https://www.bento.travel/japan"
+    },
+    {
+     "name": "GO",
+     "cat": "taxi",
+     "pkg": "com.dena.automotive.taxibell",
+     "note": "Größte Taxi-App Japans, klappt auch mit ausländischer Nummer",
+     "src": "https://www.bento.travel/japan"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung in vielen Städten, Englisch und ausländische Karten",
+     "src": "https://www.bento.travel/japan"
+    },
+    {
+     "name": "Rocket Now",
+     "cat": "delivery",
+     "note": "Günstige Lieferung ohne Liefergebühr, App auf Englisch",
+     "use": "limited",
+     "req": "Laut bento.travel Übersetzung, Auswahl und Adresssuche noch lückenhaft",
+     "src": "https://www.bento.travel/japan/food-delivery"
+    },
+    {
+     "name": "Demae-can",
+     "cat": "delivery",
+     "note": "Großer japanischer Lieferdienst für Restaurants",
+     "use": "limited",
+     "req": "Stark auf Einheimische ausgerichtet, ob ausländische Karten gehen, ist unklar",
+     "src": "https://www.bento.travel/japan/food-delivery"
+    },
+    {
+     "name": "Tabelog",
+     "cat": "delivery",
+     "pkg": "com.kakaku.tabelog.tourists",
+     "note": "Wichtigste Restaurantsuche mit Bewertungen, mehrsprachig",
+     "ess": true,
+     "src": "https://www.bento.travel/japan"
+    },
+    {
+     "name": "Japan Travel by NAVITIME",
+     "cat": "maps",
+     "pkg": "com.navitime.inbound.walk",
+     "note": "Genaue Bahnrouten, Pässe filtern und Routen offline speichern",
+     "use": "limited",
+     "req": "Einige Funktionen wie Störungsinfos nur im Bezahlabo",
+     "src": "https://www.bento.travel/japan"
+    },
+    {
+     "name": "Welcome Suica Mobile",
+     "cat": "transit",
+     "note": "Digitale Suica für Besucher, 180 Tage gültig",
+     "use": "no",
+     "req": "Nur iPhone oder Apple Watch mit Apple Pay, keine Android-Version",
+     "src": "https://www.jreast.co.jp/multi/de/wsmlp"
+    },
+    {
+     "name": "Mobile Suica",
+     "cat": "transit",
+     "note": "Suica als App für Bahn, Bus und Einkäufe",
+     "use": "no",
+     "req": "Nur Android-Handys aus Japan mit Osaifu-Keitai, ausländische Karten meist nicht hinterlegbar",
+     "src": "https://www.getaroundjapan.jp/?p=11538"
+    },
+    {
+     "name": "PayPay",
+     "cat": "payment",
+     "note": "Verbreitetste QR-Bezahl-App in Japan",
+     "use": "no",
+     "req": "Konto mit Guthaben nur mit japanischen Aufenthaltsdokumenten nutzbar",
+     "src": "https://www.bento.travel/japan/payments"
+    },
+    {
+     "name": "SmartEX",
+     "cat": "rail",
+     "pkg": "jp.co.jr_central.exreserve.or",
+     "note": "Shinkansen auf Tokaido, Sanyo und Kyushu buchen",
+     "src": "https://www.bento.travel/japan"
+    },
+    {
+     "name": "JR East App",
+     "cat": "rail",
+     "pkg": "jp.co.jreast",
+     "note": "Routen, Fahrpläne und Störungsmeldungen von JR East",
+     "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
+    },
+    {
+     "name": "Eki Net",
+     "cat": "rail",
+     "pkg": "com.net.eki.app",
+     "note": "Shinkansen und Expresszüge von JR East ticketlos buchen",
+     "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
+    },
+    {
+     "name": "Safety tips",
+     "cat": "safety",
+     "pkg": "jp.co.rcsc.safetyTips.android",
+     "note": "Offizielle Warnungen zu Erdbeben, Tsunami, Wetter und Vulkanen",
+     "ess": true,
+     "src": "https://www.bento.travel/japan"
+    },
+    {
+     "name": "NHK WORLD-JAPAN",
+     "cat": "safety",
+     "pkg": "jp.or.nhk.nhkworld.tv",
+     "note": "Nachrichten aus Japan auf Englisch, live oder auf Abruf",
+     "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
+    },
+    {
+     "name": "VoiceTra",
+     "cat": "misc",
+     "pkg": "jp.go.nict.voicetra",
+     "note": "Sprachübersetzer einer staatlichen Forschungsstelle",
+     "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
+    },
+    {
+     "name": "OMOTENASHI GUIDE",
+     "cat": "misc",
+     "pkg": "jp.co.yamaha.omotenashiguide",
+     "note": "Durchsagen und Infos an Bahnhöfen und Orten als Text",
+     "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
+    },
+    {
+     "name": "Toyota Rent a Car",
+     "cat": "carshare",
+     "note": "Mietwagen über die offizielle Webseite buchen",
+     "use": "limited",
+     "req": "Deutscher Führerschein nur mit anerkannter japanischer Übersetzung, Vorauszahlung per Kreditkarte",
+     "src": "https://support.trlosaka.co.jp/portal/ja/kb/articles/what-do-i-need-to-rent-a-car"
+    },
+    {
+     "name": "LUUP",
+     "cat": "micro",
+     "note": "Leih-E-Scooter und E-Bikes in vielen Großstädten",
+     "use": "limited",
+     "req": "Ausweisfoto wie Reisepass hochladen und Verkehrsregeltest vor der ersten Fahrt",
+     "src": "https://tabimaniajapan.com/?p=5105"
+    },
+    {
+     "name": "Docomo Bike Share",
+     "cat": "micro",
+     "pkg": "jp.docomo_cycle.bikeshare",
+     "note": "Leihräder mit Elektromotor, Registrierung in der App",
+     "use": "limited",
+     "req": "SMS-fähige Nummer nötig, ausländische Nummern und Karten klappen nicht immer",
+     "src": "https://www.docomo-cycle.jp/registration?lang=en"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Hiroshima",
+     "match": [
+      "Hiroshima"
+     ],
+     "apps": [
+      {
+       "name": "MOBIRY",
+       "cat": "transit",
+       "note": "Digitale Tickets für Straßenbahn, Bus und Fähre, nur Webseite",
+       "src": "https://www.pref.hiroshima.lg.jp/site/hiroshima-summit-de/useful-information.html"
+      }
+     ]
+    },
+    {
+     "name": "Kyoto",
+     "match": [
+      "Kyoto"
+     ],
+     "apps": [
+      {
+       "name": "Arukumachi KYOTO",
+       "cat": "transit",
+       "note": "Routenplaner für Busse und Bahnen in Kyoto, auf Englisch",
+       "src": "https://kyoto.travel/en/info/maps-apps/mobile-app.html"
+      }
+     ]
+    },
+    {
+     "name": "Osaka",
+     "match": [
+      "Osaka"
+     ],
+     "apps": [
+      {
+       "name": "Osaka Amazing Pass (Digital)",
+       "cat": "tourism",
+       "note": "Digitaler Pass für Bahn und Sehenswürdigkeiten, über Surutto QRutto",
+       "use": "limited",
+       "req": "Vorher Mitgliedskonto bei Surutto QRutto anlegen",
+       "src": "https://metronine.osaka/en/ticket/ticket-a03"
+      }
+     ]
+    },
+    {
+     "name": "Tokio",
+     "match": [
+      "Tokio",
+      "Tokyo"
+     ],
+     "apps": [
+      {
+       "name": "Tokyo Metro For Tourists",
+       "cat": "transit",
+       "pkg": "li.yapp.app2FB432B4",
+       "note": "Ausflugsziele entlang der Tokyo Metro nach Interessen",
+       "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
+      },
+      {
+       "name": "Disaster Preparedness Tokyo",
+       "cat": "safety",
+       "pkg": "jp.tokyo.metro.tokyotobousaiapp",
+       "note": "Katastrophenratgeber und Karten der Stadt Tokio",
+       "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen bis 90 Tage visumfrei mit Reisepass ein. Visit Japan Web nur über die offizielle Seite der Digital Agency nutzen, es kursieren Fälschungen.",
+   "src": "https://www.bento.travel/japan",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe oder eingetragene Partnerschaft gibt es aber nicht, die Tokyo Rainbow Pride läuft seit Jahren ohne Zwischenfälle.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/japan-node/japansicherheit/213032",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "TR",
+   "name": "Türkei",
+   "flag": "🇹🇷",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Vermittelt lizenzierte Taxis, Taxameter und Endbetrag prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/turkey"
+    },
+    {
+     "name": "BiTaksi",
+     "cat": "taxi",
+     "pkg": "com.bitaksi.musteri",
+     "note": "Lizenzierte Taxis in 34 Städten, englischer Support",
+     "use": "limited",
+     "req": "SMS-Anmeldung vorab testen, ausländische Karten werden nicht immer angenommen",
+     "src": "https://www.bento.travel/turkey/ride-hailing"
+    },
+    {
+     "name": "Trendyol Go",
+     "cat": "delivery",
+     "pkg": "com.trendyol.go",
+     "note": "Essenslieferung, zuerst die Adresse der Unterkunft eingeben",
+     "src": "https://www.bento.travel/turkey"
+    },
+    {
+     "name": "Yemeksepeti",
+     "cat": "delivery",
+     "pkg": "com.inovel.app.yemeksepeti",
+     "note": "Größter Lieferdienst, vorher Sprache auf Englisch stellen",
+     "src": "https://www.bento.travel/turkey"
+    },
+    {
+     "name": "Getir",
+     "cat": "delivery",
+     "pkg": "com.getir",
+     "note": "Lebensmittel und Essen in Minuten, englische Oberfläche",
+     "src": "https://www.bento.travel/turkey"
+    },
+    {
+     "name": "Migros",
+     "cat": "delivery",
+     "note": "Supermarkt-App, liefert auch von Restaurants",
+     "use": "limited",
+     "req": "Anmeldung mit ausländischer Nummer nicht bestätigt",
+     "src": "https://www.bento.travel/turkey"
+    },
+    {
+     "name": "Papara",
+     "cat": "payment",
+     "note": "Türkische Geldbörse und Karte für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Verifizierung nur mit türkischem Chip-Ausweis oder türkischer Aufenthaltserlaubnis",
+     "src": "https://www.papara.com/en/faq/account/how-can-i-verify-my-account"
+    },
+    {
+     "name": "Müzekart",
+     "cat": "tourism",
+     "pkg": "com.muzekart.app",
+     "note": "Offizielle Museums-App des Kulturministeriums",
+     "use": "no",
+     "req": "Digitaler Eintritt nur für türkische Staatsbürger, Touristen kaufen den MuseumPass Türkiye",
+     "src": "https://restproperty.com/news-en/gizn-v-turcii/turkey-digital-museum-access-muzekart-replacement/"
+    },
+    {
+     "name": "Obilet",
+     "cat": "rail",
+     "pkg": "com.obilet.androidside",
+     "note": "Fernbusse, Züge und Flüge buchen, Tickets offline sichern",
+     "ess": true,
+     "src": "https://www.bento.travel/turkey"
+    },
+    {
+     "name": "E-Bilet",
+     "cat": "rail",
+     "pkg": "tr.gov.tcdd.tasimacilik",
+     "note": "Offizielle App der Staatsbahn TCDD für Zugtickets",
+     "src": "https://www.bento.travel/turkey"
+    },
+    {
+     "name": "GetirAraç",
+     "cat": "carshare",
+     "note": "Carsharing nach Minuten, Stunden oder Tagen, auch in BiTaksi",
+     "use": "limited",
+     "req": "Führerschein wird in der App geprüft, Regeln für ausländische Führerscheine nicht angegeben",
+     "src": "https://bitaksi.com/en/getir-arac"
+    },
+    {
+     "name": "Martı",
+     "cat": "micro",
+     "note": "E-Scooter, Mopeds und Mitfahrdienst TAG",
+     "use": "limited",
+     "req": "Ausweisprüfung in der App, Mopeds nur mit Führerschein, SMS mit ausländischer Nummer kann hängen",
+     "src": "https://www.marti.tech/Help_en_v2.html"
+    },
+    {
+     "name": "BinBin",
+     "cat": "micro",
+     "note": "E-Scooter zum Ausleihen per App",
+     "use": "limited",
+     "req": "SMS-Bestätigung mit ausländischer Nummer klappt nicht immer, Zahlungsmittel nötig",
+     "src": "https://istanbul.com/blog/istanbul-scooter-rental"
+    },
+    {
+     "name": "HOP",
+     "cat": "micro",
+     "note": "E-Scooter zum Ausleihen per App",
+     "use": "limited",
+     "req": "SMS-Bestätigung mit ausländischer Nummer klappt nicht immer, Zahlungsmittel nötig",
+     "src": "https://istanbul.com/blog/istanbul-scooter-rental"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App für schwule und queere Männer",
+     "use": "no",
+     "req": "Seit 2013 von der Telekommunikationsbehörde in der Türkei gesperrt",
+     "src": "https://kaosgl.org/en/single-news/the-constitutional-court-rendered-a-verdict-of-violation-of-freedom-of-expression-on-all-access-bans-including-hornet"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Ankara",
+     "match": [
+      "Ankara"
+     ],
+     "apps": [
+      {
+       "name": "EGO Cep'te",
+       "cat": "transit",
+       "pkg": "com.ego.android",
+       "note": "Offizielle App: zeigt, wo der Bus gerade ist",
+       "src": "https://ego.gov.tr/en/sayfa/2125/ego-cepte-uygulamasi"
+      }
+     ]
+    },
+    {
+     "name": "Antalya",
+     "match": [
+      "Antalya"
+     ],
+     "apps": [
+      {
+       "name": "Antalya Kart",
+       "cat": "transit",
+       "pkg": "kentkart.mobile.antalyakart",
+       "note": "Offizielle App für Buskarte, Guthaben, Linien und Routen",
+       "use": "limited",
+       "req": "Ob die Anmeldung mit ausländischer Nummer klappt, ist nicht belegt",
+       "src": "https://www.antalyakart.com.tr/Page/MobilUygulama"
+      }
+     ]
+    },
+    {
+     "name": "Istanbul",
+     "match": [
+      "Istanbul"
+     ],
+     "apps": [
+      {
+       "name": "iTaksi",
+       "cat": "taxi",
+       "note": "Städtische Taxiplattform mit Preisschätzung",
+       "use": "limited",
+       "req": "Ob die Anmeldung mit ausländischer Nummer klappt, ist nicht belegt",
+       "src": "https://istanbul.com/blog/general-information/istanbul-transportation-apps"
+      },
+      {
+       "name": "İstanbulkart Mobil",
+       "cat": "transit",
+       "pkg": "com.belbim.istanbulkart",
+       "note": "Offizielle App: Guthaben laden, per QR-Code fahren",
+       "use": "limited",
+       "req": "Anmeldung für Ausländer nicht belegt, alternativ kontaktlos mit Bankkarte zahlen",
+       "src": "https://www.istanbulkart.istanbul/istanbulkartMobile"
+      },
+      {
+       "name": "Metro İstanbul",
+       "cat": "transit",
+       "note": "Netzpläne, Stationen und Störungen von Metro und Tram",
+       "src": "https://istanbul.com/blog/general-information/istanbul-transportation-apps"
+      },
+      {
+       "name": "İSPARK",
+       "cat": "parking",
+       "note": "Städtische Parkhäuser finden und Parkgebühren zahlen",
+       "use": "no",
+       "req": "Zum Bezahlen ist die türkische Identitätsnummer (TC Kimlik) Pflicht",
+       "src": "https://ispark.istanbul/mobil-uygulama-uyelik-sozlesmesi/"
+      }
+     ]
+    },
+    {
+     "name": "Izmir",
+     "match": [
+      "Izmir"
+     ],
+     "apps": [
+      {
+       "name": "İzmirim Kart Mobil",
+       "cat": "transit",
+       "note": "Digitale Fahrkarte per QR für Bus, Metro, Fähre und İZBAN",
+       "use": "limited",
+       "req": "Ob die Anmeldung mit ausländischer Nummer klappt, ist nicht belegt",
+       "src": "https://www.izmir.bel.tr/tr/Haberler/toplu-ulasimda-dijital-izmirim-kart-rahatligi/52466/156"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen bis 90 Tage visumfrei ein, auch mit Personalausweis. Lira in bar und eine zweite Karte mitnehmen, beim Taxi auf das Taxameter achten.",
+   "src": "https://www.bento.travel/turkey",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Pride-Veranstaltungen werden aber regelmäßig verboten und 2026 gab es Razzien sowie Sperren von Webseiten und Konten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit/201962",
    "checked": "2026-11-17"
   }
  ]
