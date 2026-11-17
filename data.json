@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 19:13",
+ "version": "2026-11-17 19:21",
  "categories": [
   {
    "id": "entry",
@@ -1321,7 +1321,9 @@
      "cat": "tourism",
      "pkg": "it.prometheus.onepass",
      "note": "OnePass",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Konto mit Login für Mitgliedskarte nötig, Gäste nur Reiseziele"
     },
     {
      "name": "Go City",
@@ -1334,7 +1336,9 @@
      "name": "coffee cApp",
      "cat": "delivery",
      "pkg": "com.yourvoice.ccApp",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Bestätigung der Handynummer per SMS nötig"
     },
     {
      "name": "BurgerKingIT",
@@ -1353,7 +1357,9 @@
      "name": "Satispay",
      "cat": "payment",
      "pkg": "com.satispay.customer",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Wohnsitz im EWR und SEPA-Bankkonto nötig"
     },
     {
      "name": "BigBusTours",
@@ -1371,21 +1377,22 @@
     {
      "name": "Italo",
      "cat": "rail",
-     "note": "Schnellzüge, Preise vergleichen",
+     "note": "Schnellzüge, Tickets bis 3 Minuten vor Abfahrt",
      "pkg": "it.italotreno",
-     "src": "https://www.bento.travel/italy"
+     "src": "https://www.italotreno.com/en/App"
     },
     {
      "name": "Moovit",
      "cat": "maps",
-     "note": "Bus und Metro in vielen italienischen Städten"
+     "note": "ÖPNV-Routen in über 350 italienischen Städten",
+     "src": "https://moovit.com/it/blog/ovunque-tu-vada-moovit-ce/"
     },
     {
      "name": "FREE NOW",
      "cat": "taxi",
      "pkg": "taxi.android.client",
-     "note": "Lizenzierte Taxis, z. B. Rom und Mailand",
-     "src": "https://www.bento.travel/italy"
+     "note": "Taxis in zehn Städten, etwa Rom und Mailand",
+     "src": "https://www.bento.travel/italy/ride-hailing"
     },
     {
      "name": "itTaxi",
@@ -1393,36 +1400,36 @@
      "pkg": "it.ud.microtek.ITTaxi",
      "note": "Lizenzierte Taxis in über 87 Städten",
      "ess": true,
-     "src": "https://www.bento.travel/italy"
+     "src": "https://www.bento.travel/italy/ride-hailing"
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Meist nur Taxis oder Premium-Wagen",
-     "src": "https://www.bento.travel/italy"
+     "note": "Meist nur Taxi oder Premiumwagen, je nach Stadt",
+     "src": "https://www.bento.travel/italy/ride-hailing"
     },
     {
      "name": "appTaxi",
      "cat": "taxi",
      "pkg": "it.ud.microtek.AppTaxi",
-     "note": "Taxis in über 50 Städten, u. a. Florenz, Venedig",
-     "src": "https://www.bento.travel/italy"
+     "note": "Taxis in über 50 Städten, u. a. Florenz",
+     "src": "https://www.bento.travel/italy/ride-hailing"
     },
     {
      "name": "Glovo",
      "cat": "delivery",
      "pkg": "com.glovo",
-     "note": "Essen, Lebensmittel, lokale Läden",
+     "note": "Essen, Lebensmittel und lokale Läden",
      "ess": true,
-     "src": "https://www.bento.travel/italy"
+     "src": "https://www.bento.travel/italy/food-delivery"
     },
     {
      "name": "Deliveroo",
      "cat": "delivery",
      "pkg": "com.deliveroo.orderapp",
-     "note": "Alternative für Essen und Lebensmittel",
-     "src": "https://www.bento.travel/italy"
+     "note": "Alternative für Essen und Einkauf, nur Kartenzahlung",
+     "src": "https://www.bento.travel/italy/food-delivery"
     },
     {
      "name": "TheFork",
@@ -1435,8 +1442,10 @@
      "name": "MooneyGo",
      "cat": "transit",
      "pkg": "net.pluservice.myCicero",
-     "note": "Tickets für über 140 Verkehrsbetriebe",
-     "src": "https://www.bento.travel/italy"
+     "note": "Tickets für über 140 Verkehrsbetriebe und Parken",
+     "src": "https://www.bento.travel/italy/transit",
+     "use": "limited",
+     "req": "Registrierung oder Zahlung mit ausländischen Daten kann scheitern"
     },
     {
      "name": "Musei Italiani",
@@ -1451,6 +1460,39 @@
      "pkg": "it.Beta80Group.whereareu",
      "note": "Offizielle Notruf-App mit Standort",
      "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "note": "Parken in rund 1000 Gemeinden per App zahlen",
+     "src": "https://www.alvolante.it/news/easypark-attiva-1000-comuni-italiani-409319"
+    },
+    {
+     "name": "Free2move",
+     "cat": "carshare",
+     "pkg": "com.car2go",
+     "note": "Freefloating Carsharing in Mailand, Rom und Turin",
+     "use": "limited",
+     "req": "Konto mit Führerscheinprüfung und Zahlungskarte nötig",
+     "src": "https://www.free2move.com/it/en/car-sharing/milan-ppc5/"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "Leih-E-Scooter und E-Bikes, etwa in Rom",
+     "src": "https://turismoroma.it/it/pagina/sharing-mobility-roma"
+    },
+    {
+     "name": "Dott",
+     "cat": "micro",
+     "note": "Leih-E-Scooter und E-Bikes, etwa in Rom",
+     "src": "https://turismoroma.it/it/pagina/sharing-mobility-roma"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "note": "Leih-E-Scooter, etwa in Rom",
+     "src": "https://turismoroma.it/it/pagina/sharing-mobility-roma"
     }
    ],
    "cities": [
@@ -1466,6 +1508,20 @@
        "name": "itTaxi",
        "cat": "taxi",
        "note": "Taxi-App, in Florenz besonders verbreitet"
+      },
+      {
+       "name": "at bus",
+       "cat": "transit",
+       "note": "Autolinee Toscane: Fahrpläne und Tickets",
+       "use": "limited",
+       "req": "Konto my at für Tickets nötig",
+       "src": "https://apps.apple.com/it/app/at-bus/id1636455849?l=en"
+      },
+      {
+       "name": "Firenzecard",
+       "cat": "tourism",
+       "note": "Digitale Museumskarte für über 60 Museen",
+       "src": "https://apps.apple.com/us/app/firenzecard/id1276107302"
       }
      ]
     },
@@ -1482,6 +1538,36 @@
        "cat": "transit",
        "pkg": "it.atm.appmobile",
        "mine": true
+      },
+      {
+       "name": "Enjoy",
+       "cat": "carshare",
+       "note": "Carsharing in Mailand nur noch ab Enilive-Tankstellen",
+       "use": "limited",
+       "req": "Konto mit Führerschein und Zahlungskarte nötig",
+       "src": "https://lespresso.it/c/mobilita/2026/07/01/car-sharing-italia-quali-servizi-ci-sono/63130"
+      },
+      {
+       "name": "BikeMi",
+       "cat": "micro",
+       "note": "Städtische Leihräder, Ausleihe per App",
+       "src": "https://www.comune.milano.it/en/-/bike-sharing.-nuova-app-del-bikemi-la-tessera-si-fa-virtuale"
+      }
+     ]
+    },
+    {
+     "name": "Neapel",
+     "match": [
+      "Naples",
+      "Neapel"
+     ],
+     "apps": [
+      {
+       "name": "UnicoCampania",
+       "cat": "transit",
+       "pkg": "net.pluservice.unicoc",
+       "note": "Tickets für ANM und weitere Betriebe",
+       "src": "https://dmo-napoli-ese.inera.it/en/getting-around/"
       }
      ]
     },
@@ -1498,6 +1584,45 @@
        "cat": "transit",
        "pkg": "com.rsm.muoversiaroma",
        "mine": true
+      },
+      {
+       "name": "Cooltra",
+       "cat": "micro",
+       "note": "Elektrische Roller zum Mieten in Rom",
+       "use": "limited",
+       "req": "Führerschein nötig",
+       "src": "https://turismoroma.it/it/pagina/sharing-mobility-roma"
+      },
+      {
+       "name": "ATAC ROMA",
+       "cat": "transit",
+       "note": "Offizielle App: Routen, Wartezeiten, Tickets",
+       "use": "limited",
+       "req": "Registrierung für alle Funktionen nötig",
+       "src": "https://atac.roma.it/en/media/news/2026/01/15/atac-launches-its-new-app--journey-planner--tickets-and-more"
+      },
+      {
+       "name": "Roma Pass",
+       "cat": "tourism",
+       "pkg": "romapass.zetema.plusrv",
+       "note": "Offizielle Stadtkarte digital: ÖPNV und Museen",
+       "src": "https://www.turismoroma.it/it/node/161573"
+      },
+      {
+       "name": "Chiama Taxi",
+       "cat": "taxi",
+       "pkg": "it.romamobilita.chiamataxi.client",
+       "note": "Städtische App zum Taxi rufen in Rom",
+       "src": "https://turismoroma.it/de/node/18676"
+      },
+      {
+       "name": "Car Sharing Roma",
+       "cat": "carshare",
+       "pkg": "it.romamobilita.carsharing",
+       "note": "Städtisches Carsharing mit Zufahrt in die ZTL",
+       "use": "limited",
+       "req": "Konto mit Führerschein und Zahlungskarte nötig",
+       "src": "https://turismoroma.it/de/node/18676"
       }
      ]
     },
@@ -1512,15 +1637,17 @@
        "name": "AVM Venezia",
        "cat": "transit",
        "pkg": "net.pluservice.Actv",
-       "note": "Bus, Tram und Vaporetto in Venedig",
-       "src": "https://www.bento.travel/italy"
+       "note": "ACTV Tickets für Vaporetto, Bus, Tram und Parken",
+       "src": "https://tripplanner.veneziaunica.it/en/node/766"
       }
      ]
     }
    ],
-   "note": "Nie ohne Erlaubnis in eine ZTL-Zone fahren, auch wenn die Karten-App die Route vorschlägt.",
+   "note": "Nie ohne sichere Erlaubnis in eine ZTL fahren, auch wenn die Karten-App dorthin führt.",
    "src": "https://www.bento.travel/italy",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/italiensicherheit-211322"
   },
   {
    "code": "PT",
@@ -2656,7 +2783,7 @@
      "name": "FREE NOW",
      "cat": "taxi",
      "pkg": "taxi.android.client",
-     "note": "Lizenzierte Taxis, bar oder per App",
+     "note": "Lizenzierte Taxis, Zahlung per App oder bar",
      "ess": true,
      "src": "https://www.bento.travel/greece"
     },
@@ -2664,7 +2791,7 @@
      "name": "Ferryhopper",
      "cat": "rail",
      "pkg": "com.mobileferryhopperapp",
-     "note": "Fähren vergleichen und buchen",
+     "note": "Fähren vergleichen, buchen und live verfolgen",
      "ess": true,
      "src": "https://www.bento.travel/greece"
     },
@@ -2672,29 +2799,37 @@
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Taxis in Attika, Thessaloniki",
+     "note": "Vermittelt lizenzierte Taxis, kein UberX",
      "src": "https://www.bento.travel/greece"
     },
     {
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "note": "Athen und einige Inseln",
+     "note": "Taxi Alternative in Athen und auf einigen Inseln",
      "src": "https://www.bento.travel/greece"
     },
     {
      "name": "efood",
      "cat": "delivery",
      "pkg": "com.venturegeeks.efood",
-     "note": "Lokaler Lieferdienst",
-     "src": "https://www.bento.travel/greece"
+     "note": "Lokaler Lieferdienst, Anmeldung vorab testen",
+     "src": "https://www.bento.travel/greece",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer kann scheitern"
     },
     {
      "name": "Viber",
      "cat": "misc",
      "pkg": "com.viber.voip",
-     "note": "Messenger, den viele Anbieter nutzen",
+     "note": "Messenger, den viele Griechen und Anbieter nutzen",
      "src": "https://www.bento.travel/greece"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "Leih E-Scooter in Athen und Thessaloniki",
+     "src": "https://electricscooterguide.com/lime-electric-scooters-return-to-greece/"
     }
    ],
    "cities": [
@@ -2713,13 +2848,100 @@
        "cat": "transit",
        "pkg": "com.att.android.tfa",
        "mine": true
+      },
+      {
+       "name": "Avis Go Now",
+       "cat": "carshare",
+       "note": "Autos stundenweise in Athen, Rückgabe an Partnerorten",
+       "src": "https://myavis.gr/en/avis-go-now/athina"
+      },
+      {
+       "name": "Dott",
+       "cat": "micro",
+       "note": "Leih E-Scooter im Zentrum, nur ab 18, Helmpflicht",
+       "src": "https://ridedott.com/press-release/athens-launch/"
+      },
+      {
+       "name": "ATH.ENA GO",
+       "cat": "transit",
+       "note": "Offizielle Ticket App für Bus, Metro und Tram in Athen",
+       "use": "limited",
+       "req": "Virtuelle Karte im Handy nur auf Android mit NFC",
+       "src": "https://www.tovima.com/society/greece-the-digital-ticket-era-arrives-with-ath-ena-go/amp/"
+      },
+      {
+       "name": "AthensWay",
+       "cat": "parking",
+       "note": "Städtische App für Parkzonen und Busankünfte",
+       "src": "https://www.tovima.com/society/athens-launches-new-app-for-parking-and-city-mobility/amp/"
+      },
+      {
+       "name": "Culture is Athens",
+       "cat": "tourism",
+       "pkg": "services.epsilon.cultureisathens",
+       "note": "Kulturkalender und Museen der Stadt Athen",
+       "src": "https://cultureisathens.gr/en/?p=11003"
+      }
+     ]
+    },
+    {
+     "name": "Heraklion",
+     "match": [
+      "Heraklion"
+     ],
+     "apps": [
+      {
+       "name": "Iraklio City Bus",
+       "cat": "transit",
+       "pkg": "com.threepi.android.iraklioinfo",
+       "note": "Stadtbusse in Heraklion mit Echtzeit und Routen",
+       "src": "https://www.heraklion.gr/en/ourplace/web-mobile-apps-for-heraklion"
+      },
+      {
+       "name": "Modern City Guide",
+       "cat": "tourism",
+       "pkg": "com.Municipality.HeraklionGuide",
+       "note": "Städtischer Stadtführer mit Audiotouren",
+       "src": "https://www.heraklion.gr/en/ourplace/web-mobile-apps-for-heraklion"
+      }
+     ]
+    },
+    {
+     "name": "Rhodes",
+     "match": [
+      "Rhodes"
+     ],
+     "apps": [
+      {
+       "name": "Rhodes Public Transport",
+       "cat": "transit",
+       "pkg": "gr.noveltech.cityguide.motivate",
+       "note": "Städtische App mit Busankünften und Routen",
+       "src": "https://site.rhodes.gr/?p=5410"
+      }
+     ]
+    },
+    {
+     "name": "Thessaloniki",
+     "match": [
+      "Thessaloniki"
+     ],
+     "apps": [
+      {
+       "name": "OSETH Bus",
+       "cat": "transit",
+       "pkg": "com.amco.city.thessaloniki",
+       "note": "Offizielle Bus App für Thessaloniki, QR Tickets",
+       "src": "https://oseth.com.gr/en/frequently-asked-questions?page=1"
       }
      ]
     }
    ],
-   "note": "Auf kleinen Inseln den Transfer über die Unterkunft organisieren und Euro-Bargeld bereithalten.",
+   "note": "Keine App deckt ganz Griechenland ab, für Inseln und späte Fähren den Transfer über die Unterkunft planen.",
    "src": "https://www.bento.travel/greece",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/greece-node/greecesicherheit-211534"
   },
   {
    "code": "MT",
@@ -4460,7 +4682,7 @@
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Breitester Fahrdienst mit lizenzierten Taxis",
+     "note": "Weit verbreiteter Fahrdienst, auch lizenzierte Taxis",
      "ess": true,
      "src": "https://www.bento.travel/croatia"
     },
@@ -4468,7 +4690,7 @@
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "note": "Preisvergleich in neun Städten",
+     "note": "Fahrdienst zum Preisvergleich in neun Städten",
      "ess": true,
      "src": "https://www.bento.travel/croatia"
     },
@@ -4476,7 +4698,7 @@
      "name": "Wizi",
      "cat": "taxi",
      "pkg": "com.binom.cammeo",
-     "note": "Lizenzierte Taxis in Zagreb, an der Küste, auf Krk",
+     "note": "Lizenzierte Taxis in Zagreb, an der Küste und auf Krk",
      "src": "https://www.bento.travel/croatia"
     },
     {
@@ -4491,14 +4713,14 @@
      "name": "Glovo",
      "cat": "delivery",
      "pkg": "com.glovo",
-     "note": "Lieferung in Städten und Küstenorten",
+     "note": "Lieferungen in großen Städten und Küstenorten",
      "src": "https://www.bento.travel/croatia"
     },
     {
      "name": "HAK Croatia Traffic Info",
      "cat": "maps",
      "pkg": "com.infinum.hak",
-     "note": "Offizielle Straßen-, Grenz- und Fährinfos",
+     "note": "Offizielle Infos zu Straßen, Grenzen, Fähren, Kameras",
      "ess": true,
      "src": "https://www.bento.travel/croatia"
     },
@@ -4506,14 +4728,14 @@
      "name": "Bmove",
      "cat": "parking",
      "pkg": "hr.infoart.epk",
-     "note": "Parken in über 90 Städten",
+     "note": "Parken per Karte in über 90 Städten",
      "src": "https://www.bento.travel/croatia"
     },
     {
      "name": "Jadrolinija",
      "cat": "rail",
      "pkg": "hr.jadrolinija.mjadrolinija",
-     "note": "Offizielle Fähr-App mit Tickets",
+     "note": "Offizielle Fähr-App mit Fahrplan und Tickets",
      "ess": true,
      "src": "https://www.bento.travel/croatia"
     },
@@ -4521,39 +4743,75 @@
      "name": "TP Line",
      "cat": "rail",
      "pkg": "com.tplineapp",
-     "note": "Katamarane zu den Inseln",
+     "note": "Tickets für Katamarane an der Adria",
      "src": "https://www.bento.travel/croatia"
     },
     {
      "name": "FlixBus",
      "cat": "rail",
      "pkg": "de.flixbus.app",
-     "note": "Fernbusse",
+     "note": "Fernbusse mit Handyticket",
      "src": "https://www.bento.travel/croatia"
     },
     {
      "name": "Arriva Croatia",
      "cat": "rail",
      "pkg": "hr.com.arriva.arrivacroatia",
-     "note": "Arriva-Busse mit QR-Tickets",
+     "note": "Arriva-Busse buchen, Ticket als QR-Code",
      "src": "https://www.bento.travel/croatia"
     },
     {
      "name": "HŽPP",
      "cat": "rail",
      "pkg": "com.hzppispromobile",
-     "note": "Offizielle Bahn-App",
+     "note": "Offizielle Bahn-App mit Fahrplan und Tickets",
      "src": "https://www.bento.travel/croatia"
     },
     {
      "name": "Nautical Info Service Croatia",
      "cat": "safety",
      "pkg": "hr.mppi.nis",
-     "note": "Offizielle Seesicherheits-App",
+     "note": "Amtliche Seeinfos mit Wetter und Notrufnummern",
      "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Avant2Go",
+     "cat": "carshare",
+     "note": "E-Carsharing in Zagreb, Dubrovnik und an Flughäfen",
+     "use": "limited",
+     "req": "Registrierung und Kontoaktivierung in der App nötig",
+     "src": "https://apps.apple.com/hr/app/avant2go/id1129792707"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "note": "Leihräder in über 40 Orten, in Zagreb als Bajs",
+     "src": "https://nextbike.hr/en"
     }
    ],
    "cities": [
+    {
+     "name": "Dubrovnik",
+     "match": [
+      "Dubrovnik"
+     ],
+     "apps": [
+      {
+       "name": "Libertas App",
+       "cat": "transit",
+       "pkg": "com.enumsoftware.libertasapp",
+       "note": "Busse des Stadtbetriebs live, Linien und Halte",
+       "src": "https://libertasdubrovnik.hr/en/blog/400/-the-libertas-mobile-application-is-available-from-today"
+      },
+      {
+       "name": "Dubrovnik Parking",
+       "cat": "parking",
+       "note": "Stundenparkscheine für Dubrovnik per App",
+       "src": "https://www.sanitat.hr/en/faq"
+      }
+     ]
+    },
     {
      "name": "Rijeka",
      "match": [
@@ -4564,7 +4822,7 @@
        "name": "RCC Mobility",
        "cat": "transit",
        "pkg": "com.rijekacitycard.mobility",
-       "note": "Busse in Rijeka",
+       "note": "Digitale Tickets für die Autotrolej-Busse",
        "src": "https://www.bento.travel/croatia"
       }
      ]
@@ -4579,8 +4837,14 @@
        "name": "Promet Split",
        "cat": "transit",
        "pkg": "hr.prometsplit.mobile",
-       "note": "Busse in Split mit Tickets",
+       "note": "Stadtbusse mit Tickets und Live-Positionen",
        "src": "https://www.bento.travel/croatia"
+      },
+      {
+       "name": "Split Parking",
+       "cat": "parking",
+       "note": "Freie Parkplätze finden und per Karte zahlen",
+       "src": "https://visitsplit.com/en/2986/parking-in-split-pt-2-not-a-nightmare-anymore"
       }
      ]
     },
@@ -4594,16 +4858,27 @@
        "name": "Moj ZET",
        "cat": "transit",
        "pkg": "com.zetmobile",
-       "note": "Tram und Bus Zagreb, digitale Tickets",
+       "note": "Offizielle App für Tram und Bus mit Handytickets",
        "ess": true,
-       "src": "https://www.bento.travel/croatia"
+       "src": "https://www.bento.travel/croatia",
+       "use": "limited",
+       "req": "Mit ausländischem Mobilfunknetz teils Störungen"
+      },
+      {
+       "name": "ZgPark",
+       "cat": "parking",
+       "pkg": "hr.sedamit.zgparking.production",
+       "note": "Parkscheine für Parkplätze und Garagen per Karte",
+       "src": "https://www.zagrebparking.hr/activities/public-parking-lots/parking-payment-methods/zgpark-mobile-application/445"
       }
      ]
     }
    ],
-   "note": "Visa oder Mastercard und etwas Euro-Bargeld mitnehmen; Bolt Food liefert in Kroatien seit Oktober 2025 nicht mehr.",
+   "note": "Neben Visa oder Mastercard etwas Euro-Bargeld mitnehmen, kleine Läden, Märkte und Strände nehmen oft nur bar.",
    "src": "https://www.bento.travel/croatia",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "lgbtq_note": "Homosexualität ist gesetzlich respektiert und eingetragene Partnerschaften sind möglich; abseits der Städte und Urlaubsorte ist die Akzeptanz teils gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kroatien-node/kroatiensicherheit/210072"
   },
   {
    "code": "HU",
@@ -4622,23 +4897,27 @@
      "name": "foodora",
      "cat": "delivery",
      "pkg": "se.onlinepizza",
-     "note": "Breitestes Lieferangebot in Ungarn",
+     "note": "Größtes Lieferangebot, auch in kleinen Orten",
      "ess": true,
-     "src": "https://www.bento.travel/hungary"
+     "src": "https://www.bento.travel/hungary/food-delivery",
+     "use": "limited",
+     "req": "Ausländische Nummer und Karte nicht immer akzeptiert"
     },
     {
      "name": "Wolt",
      "cat": "delivery",
      "pkg": "com.wolt.android",
-     "note": "Essen und Einkäufe in vielen Städten",
-     "src": "https://www.bento.travel/hungary"
+     "note": "Essen, Lebensmittel und Läden in vielen Städten",
+     "src": "https://www.bento.travel/hungary/food-delivery",
+     "use": "limited",
+     "req": "Ausländische Karten werden teils abgelehnt"
     },
     {
      "name": "Parkl",
      "cat": "parking",
      "pkg": "net.parkl.androidclient",
-     "note": "Parken, Garagen, Laden, E-Vignette",
-     "src": "https://www.bento.travel/hungary"
+     "note": "Straßenparken, Garagen, Laden und E-Vignette",
+     "src": "https://www.bento.travel/hungary/navigation"
     },
     {
      "name": "MÁVPlusz",
@@ -4654,6 +4933,40 @@
      "pkg": "org.rsoe.android.bm_okf_push",
      "note": "Offizielle Unwetter- und Notfallwarnungen",
      "src": "https://www.bento.travel/hungary"
+    },
+    {
+     "name": "Revolut",
+     "cat": "payment",
+     "note": "Bezahlen in Forint mit fairem Wechselkurs",
+     "use": "limited",
+     "req": "Konto vorab im Heimatland eröffnen",
+     "src": "https://www.bento.travel/hungary/payments"
+    },
+    {
+     "name": "Wise",
+     "cat": "payment",
+     "note": "Multiwährungskonto zum Bezahlen in Forint",
+     "use": "limited",
+     "req": "Konto vorab im Heimatland eröffnen",
+     "src": "https://www.bento.travel/hungary/payments"
+    },
+    {
+     "name": "Közlekedési Mobiljegy",
+     "cat": "transit",
+     "pkg": "hu.nemzetimobilfizetes.mobiljegyapp",
+     "note": "Staatliche Ticket-App für Budapest, Debrecen, Szeged, Pécs",
+     "use": "limited",
+     "req": "Registrierung nötig; ausländische Karte nicht bestätigt",
+     "src": "https://mobiljegy.nmzrt.hu/en"
+    },
+    {
+     "name": "Simple",
+     "cat": "parking",
+     "pkg": "com.otpmobil.simple.phoenix",
+     "note": "Parken und Mobiltickets der OTP Bank",
+     "use": "limited",
+     "req": "Registrierung nötig; ausländische Karte nicht bestätigt",
+     "src": "https://mobiljegy.nmzrt.hu/en"
     }
    ],
    "cities": [
@@ -4667,23 +4980,109 @@
        "name": "Uber",
        "cat": "taxi",
        "pkg": "com.ubercab",
-       "note": "Taxi-Alternative zum Vergleich",
-       "src": "https://www.bento.travel/hungary"
+       "note": "Vermittelt Főtaxi, nur als Reserve",
+       "src": "https://www.bento.travel/hungary/ride-hailing"
       },
       {
        "name": "BudapestGO",
        "cat": "transit",
        "pkg": "hu.webvalto.bkkfutar",
-       "note": "Offizielle BKK-App mit Tickets",
+       "note": "Offizielle BKK-App: Routen, Störungen, Tickets",
        "ess": true,
-       "src": "https://www.bento.travel/hungary"
+       "src": "https://www.bento.travel/hungary/transit"
+      },
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "pkg": "ee.mtakso.client",
+       "note": "Lizenzierte gelbe Taxis mit Taxameter",
+       "ess": true,
+       "src": "https://www.bento.travel/hungary/ride-hailing"
+      },
+      {
+       "name": "Bolt Food",
+       "cat": "delivery",
+       "note": "Weitere Lieferoption in Budapest",
+       "src": "https://www.bento.travel/hungary/food-delivery"
+      },
+      {
+       "name": "MOL Limo",
+       "cat": "carshare",
+       "note": "Carsharing in ganz Budapest, Rückgabe am Flughafen",
+       "use": "limited",
+       "req": "Ab 20 Jahren, Führerschein, Ausweis und Bankkarte nötig",
+       "src": "https://getmancar.com/blogs/carsharing-in-hungary"
+      },
+      {
+       "name": "GreenGo",
+       "cat": "carshare",
+       "note": "Elektrisches Carsharing mit rund 500 Autos",
+       "use": "limited",
+       "req": "Registrierung mit Ausweis und Führerschein in der App",
+       "src": "https://getmancar.com/blogs/carsharing-in-budapest"
+      },
+      {
+       "name": "MOL Bubi",
+       "cat": "micro",
+       "note": "Öffentliche Leihräder und E-Bikes der Stadt",
+       "src": "https://budappest.com/the-new-mol-bubi-is-here/"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "E-Scooter zum Ausleihen",
+       "src": "https://bkk.hu/utazasi-informaciok/aktiv-kozlekedes/megosztott-roller-es-kerekpar/"
+      },
+      {
+       "name": "Parking Hungary",
+       "cat": "parking",
+       "pkg": "hu.parkinghungary.app",
+       "note": "Parken ohne Automat per Karte, ohne Registrierung",
+       "src": "https://parking-hungary.hu/en/parking-without-parking-meter-budapest"
+      },
+      {
+       "name": "MVM Mobiliti",
+       "cat": "parking",
+       "note": "Park-App auf Englisch für Budapest",
+       "src": "https://budappest.com/budapest-parking-just-went-fully-digital-what-tourists-need-to-know/"
+      }
+     ]
+    },
+    {
+     "name": "Debrecen",
+     "match": [
+      "Debrecen"
+     ],
+     "apps": [
+      {
+       "name": "MyDKV",
+       "cat": "transit",
+       "note": "Offizielle Fahrplan-App mit Live-Ortung der DKV",
+       "src": "https://apps.apple.com/hu/app/mydkv/id6474126423"
+      }
+     ]
+    },
+    {
+     "name": "Pecs",
+     "match": [
+      "Pecs"
+     ],
+     "apps": [
+      {
+       "name": "TükeBuszON+",
+       "cat": "transit",
+       "pkg": "com.hc_linear.tuke_app.tuke_busz_app",
+       "note": "Offizielle Bus-App: Routen, Echtzeit, Tickets",
+       "src": "https://www.magyarbusz.info/en/2024/10/31/tuke-busz-launches-new-route-planning-app/"
       }
      ]
     }
    ],
-   "note": "Mit Forint (HUF) zahlen, Umrechnung in Euro an der Kasse ablehnen und etwas Bargeld dabeihaben.",
+   "note": "Physische Karte mit PIN und etwas Forint dabeihaben, Umrechnung in Euro an Kasse und Automat ablehnen.",
    "src": "https://www.bento.travel/hungary",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "lgbtq_note": "Gleichgeschlechtliche Partnerschaften sind legal und eintragbar, die Ehe nicht; Pride-Veranstaltungen können seit 2025 verboten und Teilnehmende bestraft werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ungarn-node/ungarnsicherheit/210332"
   },
   {
    "code": "EG",
