@@ -353,8 +353,8 @@
     {
      "name": "UK ETA",
      "cat": "entry",
-     "note": "Offizielle App des Home Office für die ETA. Ob du eine brauchst: gov.uk/electronic-travel-authorisation",
-     "src": "https://www.gov.uk/electronic-travel-authorisation",
+     "note": "Offizielle App für die Einreisegenehmigung",
+     "src": "https://www.bento.travel/united-kingdom",
      "pkg": "uk.gov.HomeOffice.ho3"
     },
     {
@@ -721,7 +721,10 @@
     {
      "name": "TWINT",
      "cat": "payment",
-     "note": "Schweizer Bezahl-App, nicht für jeden Besucher nutzbar"
+     "note": "Schweizer Bezahl-App, nicht für jeden Besucher nutzbar",
+     "use": "limited",
+     "req": "Nur als TWINT Prepaid mit Wohnsitz und Nummer in CH, DE, AT oder LI",
+     "src": "https://www.roafly.com/blog/switzerland-travel-money"
     }
    ],
    "cities": [
@@ -823,8 +826,9 @@
     {
      "name": "Renfe",
      "cat": "rail",
-     "note": "Spanische Staatsbahn",
-     "pkg": "com.renfeviajeros.ticket"
+     "note": "Offizielle App für Renfe-Tickets",
+     "pkg": "com.renfeviajeros.ticket",
+     "src": "https://www.bento.travel/spain"
     },
     {
      "name": "iryo",
@@ -839,8 +843,9 @@
     {
      "name": "ALSA",
      "cat": "rail",
-     "note": "Fernbusse in Spanien",
-     "pkg": "com.mo2o.alsa"
+     "note": "Offizielle Fernbus-App",
+     "pkg": "com.mo2o.alsa",
+     "src": "https://www.bento.travel/spain"
     },
     {
      "name": "FREE NOW",
@@ -1006,8 +1011,9 @@
     {
      "name": "Italo",
      "cat": "rail",
-     "note": "Privater Hochgeschwindigkeitszug, oft günstiger als Frecciarossa",
-     "pkg": "it.italotreno"
+     "note": "Schnellzüge, Preise vergleichen",
+     "pkg": "it.italotreno",
+     "src": "https://www.bento.travel/italy"
     },
     {
      "name": "Moovit",
@@ -1176,15 +1182,17 @@
     {
      "name": "CP Comboios de Portugal",
      "cat": "rail",
-     "note": "Offizielle Bahn-App, z. B. Lissabon–Porto",
+     "note": "Offizielle Bahn-App mit Tickets",
      "pkg": "pt.cp.mobiapp",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/portugal"
     },
     {
      "name": "Rede Expressos",
      "cat": "rail",
-     "note": "Fernbusse in Portugal",
-     "pkg": "pt.beware.myrne"
+     "note": "Fernbusse",
+     "pkg": "pt.beware.myrne",
+     "src": "https://www.bento.travel/portugal"
     },
     {
      "name": "Moovit",
@@ -1319,9 +1327,10 @@
     {
      "name": "SNCF Connect",
      "cat": "rail",
-     "note": "Offizielle App der französischen Bahn",
+     "note": "TGV, Intercités, OUIGO, viele TER",
      "pkg": "com.vsct.vsc.mobile.horaireetresa.android",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/france"
     },
     {
      "name": "G7 Taxi",
@@ -1456,11 +1465,6 @@
      "note": "Züge und Busse"
     },
     {
-     "name": "Vipps",
-     "cat": "payment",
-     "note": "Braucht eine norwegische Nummer, Karte reicht meist"
-    },
-    {
      "name": "EasyPark",
      "cat": "parking",
      "pkg": "net.easypark.android"
@@ -1534,13 +1538,19 @@
      "name": "Swish",
      "cat": "payment",
      "pkg": "se.bankgirot.swish",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Schwedisches Bankkonto, Personennummer und BankID nötig",
+     "src": "https://www.bento.travel/sweden/payments"
     },
     {
      "name": "BankID",
      "cat": "payment",
      "pkg": "com.bankid.bus",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Schwedisches Bankkonto und Personennummer nötig",
+     "src": "https://stripe.com/en-fr/resources/more/swish-an-in-depth-guide"
     },
     {
      "name": "AuroraReach",
@@ -2550,7 +2560,10 @@
     {
      "name": "SimplyGo",
      "cat": "transit",
-     "note": "Fahrpreise, Karte; Bezahlen geht auch direkt mit Visa/Mastercard"
+     "note": "Fahrpreise, Karte; Bezahlen geht auch direkt mit Visa/Mastercard",
+     "use": "limited",
+     "req": "Volle Registrierung nur mit singapurischer Nummer, Gastmodus geht ohne",
+     "src": "https://www.bento.travel/singapore/transit"
     },
     {
      "name": "Grab",
@@ -2605,7 +2618,9 @@
       {
        "name": "nol Pay",
        "cat": "transit",
-       "note": "nol-Karte aufladen"
+       "note": "nol-Karte aufladen",
+       "use": "limited",
+       "req": "Handy mit NFC und physische nol-Karte nötig"
       }
      ]
     }

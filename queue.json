@@ -1,17 +1,66 @@
 {
-"done": [
-"CZ",
-"DK",
-"ES",
-"FR",
-"GB",
-"GR",
-"HR",
-"HU",
-"IT",
-"PT"
-],
+"done": [],
 "todo": [
+{
+"code": "CZ",
+"en": "Czechia",
+"slug": "czech-republic",
+"recheck": true
+},
+{
+"code": "DK",
+"en": "Denmark",
+"slug": "denmark",
+"recheck": true
+},
+{
+"code": "ES",
+"en": "Spain",
+"slug": "spain",
+"recheck": true
+},
+{
+"code": "FR",
+"en": "France",
+"slug": "france",
+"recheck": true
+},
+{
+"code": "GB",
+"en": "United Kingdom",
+"slug": "united-kingdom",
+"recheck": true
+},
+{
+"code": "GR",
+"en": "Greece",
+"slug": "greece",
+"recheck": true
+},
+{
+"code": "HR",
+"en": "Croatia",
+"slug": "croatia",
+"recheck": true
+},
+{
+"code": "HU",
+"en": "Hungary",
+"slug": "hungary",
+"recheck": true
+},
+{
+"code": "IT",
+"en": "Italy",
+"slug": "italy",
+"recheck": true
+},
+{
+"code": "PT",
+"en": "Portugal",
+"slug": "portugal",
+"recheck": true
+},
 {
 "code": "DE",
 "en": "Germany",

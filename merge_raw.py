@@ -6,11 +6,15 @@ Regeln:
 * Pro Land werden fehlende Apps ergänzt (Abgleich über pkg, sonst über den Namen).
 * Apps mit "city" landen in der passenden Stadt (Abgleich über "match"), neue Städte werden angelegt.
 * "version" wird auf das übergebene Datum gesetzt.
+* "use": "ok" | "limited" | "no" und "req" (was als Ausländer nötig ist).
+  Apps mit "use": "no" werden nicht aufgenommen und bestehende recherchierte Einträge
+  werden entfernt. Timos eigene Apps ("mine") bleiben, bekommen aber den Hinweis.
 
 Aufruf: python3 merge_raw.py 2026-11-17
 Format raw/<ISO>.json:
 {"src": "https://...", "updated": "...", "note": "Tipp für das Land",
- "apps": [{"name": "", "cat": "", "pkg": "", "ess": true, "note": "", "city": ""}]}
+ "apps": [{"name": "", "cat": "", "pkg": "", "ess": true, "note": "", "city": "",
+           "use": "ok", "req": ""}]}
 """
 import glob, json, os, sys
 
@@ -55,6 +59,12 @@ def clean_app(a, src):
         out["ess"] = True
     if a.get("url"):
         out["url"] = a["url"]
+    use = (a.get("use") or "ok").strip().lower()
+    out["use"] = use if use in ("ok", "limited", "no") else "ok"
+    if a.get("req"):
+        out["req"] = a["req"].strip()
+    if out["use"] == "ok":
+        out.pop("use")
     out["src"] = a.get("src") or src
     return out
 
@@ -97,16 +107,29 @@ def merge(data, code, raw):
             target = country["apps"]
         existing = {key(x): x for x in target}
         k = key(app)
+        unusable = app.get("use") == "no"
         if k in existing:
             old = existing[k]
             if old.get("mine"):
                 if app.get("ess"):
                     old["ess"] = True
+                for f in ("use", "req"):
+                    if f in app:
+                        old[f] = app[f]
                 continue
-            # Recherchierten Eintrag aktualisieren (Notiz, Kategorie, Paket)
-            for f in ("cat", "note", "pkg", "src", "ess"):
+            if unusable:
+                target.remove(old)
+                continue
+            # Recherchierten Eintrag aktualisieren
+            for f in ("cat", "note", "pkg", "src", "ess", "use", "req"):
                 if f in app:
                     old[f] = app[f]
+            if "use" not in app:
+                old.pop("use", None)
+            if "req" not in app:
+                old.pop("req", None)
+            continue
+        if unusable:
             continue
         # Gleicher Name ohne Paket vorhanden? Dann Paket nachtragen
         same_name = next((x for x in target if x["name"].strip().lower() == app["name"].lower()), None)
