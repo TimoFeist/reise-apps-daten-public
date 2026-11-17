@@ -1,0 +1,2252 @@
+{
+ "schema": 1,
+ "version": "2026-11-17",
+ "categories": [
+  {
+   "id": "entry",
+   "name": "Visa & Einreise",
+   "icon": "🛂"
+  },
+  {
+   "id": "transit",
+   "name": "Nahverkehr & Tickets",
+   "icon": "🚇"
+  },
+  {
+   "id": "rail",
+   "name": "Bahn, Bus & Fähre",
+   "icon": "🚆"
+  },
+  {
+   "id": "taxi",
+   "name": "Taxi & Fahrdienste",
+   "icon": "🚕"
+  },
+  {
+   "id": "carshare",
+   "name": "Carsharing & Mietwagen",
+   "icon": "🚗"
+  },
+  {
+   "id": "micro",
+   "name": "Scooter & Fahrräder",
+   "icon": "🛴"
+  },
+  {
+   "id": "parking",
+   "name": "Parken",
+   "icon": "🅿️"
+  },
+  {
+   "id": "maps",
+   "name": "Karten & Navigation",
+   "icon": "🗺️"
+  },
+  {
+   "id": "delivery",
+   "name": "Lieferdienste & Essen",
+   "icon": "🍔"
+  },
+  {
+   "id": "payment",
+   "name": "Bezahlen & Banking",
+   "icon": "💳"
+  },
+  {
+   "id": "tourism",
+   "name": "Tourismus & Stadtpässe",
+   "icon": "🎟️"
+  },
+  {
+   "id": "shopping",
+   "name": "Einkaufen",
+   "icon": "🛒"
+  },
+  {
+   "id": "safety",
+   "name": "Notfall & Sicherheit",
+   "icon": "🆘"
+  },
+  {
+   "id": "flights",
+   "name": "Flüge & Flughafen",
+   "icon": "✈️"
+  },
+  {
+   "id": "hotels",
+   "name": "Unterkünfte & Buchen",
+   "icon": "🏨"
+  },
+  {
+   "id": "misc",
+   "name": "Sonstiges",
+   "icon": "📱"
+  }
+ ],
+ "countries": [
+  {
+   "code": "WW",
+   "name": "Weltweit",
+   "flag": "🌍",
+   "apps": [
+    {
+     "name": "Google Maps",
+     "cat": "maps",
+     "pkg": "com.google.android.apps.maps",
+     "mine": true
+    },
+    {
+     "name": "Rome2Rio",
+     "cat": "maps",
+     "pkg": "com.rome2rio.www.rome2rio",
+     "mine": true
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true
+    },
+    {
+     "name": "Booking.com",
+     "cat": "hotels",
+     "pkg": "com.booking",
+     "mine": true
+    },
+    {
+     "name": "Airbnb",
+     "cat": "hotels",
+     "pkg": "com.airbnb.android",
+     "mine": true
+    },
+    {
+     "name": "GetYourGuide",
+     "cat": "tourism",
+     "pkg": "com.getyourguide.android",
+     "mine": true
+    },
+    {
+     "name": "Klook",
+     "cat": "tourism",
+     "pkg": "com.klook",
+     "mine": true
+    },
+    {
+     "name": "Tiqets",
+     "cat": "tourism",
+     "pkg": "com.tiqets.tiqetsapp",
+     "mine": true
+    },
+    {
+     "name": "Viator",
+     "cat": "tourism",
+     "pkg": "com.viator.mobile.android",
+     "mine": true
+    },
+    {
+     "name": "Flightradar24",
+     "cat": "flights",
+     "pkg": "com.flightradar24free",
+     "mine": true
+    },
+    {
+     "name": "TripIt",
+     "cat": "flights",
+     "pkg": "com.tripit",
+     "mine": true
+    },
+    {
+     "name": "Kiwi.com",
+     "cat": "flights",
+     "pkg": "com.skypicker.main",
+     "mine": true
+    },
+    {
+     "name": "Revolut",
+     "cat": "payment",
+     "pkg": "com.revolut.revolut",
+     "mine": true
+    },
+    {
+     "name": "Lufthansa",
+     "cat": "flights",
+     "pkg": "com.lufthansa.android.lufthansa",
+     "mine": true
+    },
+    {
+     "name": "Miles & More",
+     "cat": "flights",
+     "pkg": "com.plannet.milesandmoreapp",
+     "mine": true
+    },
+    {
+     "name": "Priority Pass",
+     "cat": "flights",
+     "pkg": "com.prioritypass3",
+     "mine": true
+    },
+    {
+     "name": "Star Alliance",
+     "cat": "flights",
+     "pkg": "com.staralliance.navigator",
+     "mine": true
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "pkg": "com.limebike",
+     "mine": true
+    },
+    {
+     "name": "Voi",
+     "cat": "micro",
+     "pkg": "io.voiapp.voi",
+     "mine": true
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "mine": true
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "mine": true
+    },
+    {
+     "name": "FlixBus",
+     "cat": "rail",
+     "pkg": "de.flixbus.app",
+     "mine": true
+    },
+    {
+     "name": "Omio",
+     "cat": "rail",
+     "pkg": "com.goeuro.rosie",
+     "mine": true
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "pkg": "net.easypark.android",
+     "mine": true
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "GB",
+   "name": "Großbritannien",
+   "flag": "🇬🇧",
+   "apps": [
+    {
+     "name": "Gett",
+     "cat": "taxi",
+     "pkg": "com.gettaxi.android",
+     "mine": true
+    },
+    {
+     "name": "Trainline",
+     "cat": "rail",
+     "pkg": "com.thetrainline",
+     "mine": true
+    },
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "TodayTix",
+     "cat": "tourism",
+     "pkg": "com.todaytix.TodayTix",
+     "mine": true
+    },
+    {
+     "name": "Eventim UK",
+     "cat": "tourism",
+     "pkg": "uk.eventim.mobile.app.Android",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "mine": true
+    },
+    {
+     "name": "Dojo",
+     "cat": "payment",
+     "pkg": "uk.co.walkinapp.prod",
+     "mine": true
+    },
+    {
+     "name": "TicketSwap",
+     "cat": "tourism",
+     "pkg": "com.ticketswap.ticketswap",
+     "mine": true
+    },
+    {
+     "name": "McDonald's",
+     "cat": "delivery",
+     "pkg": "com.mcdonalds.app.uk",
+     "mine": true
+    },
+    {
+     "name": "LNER",
+     "cat": "rail",
+     "pkg": "uk.co.icectoc.customer",
+     "mine": true
+    },
+    {
+     "name": "Fever",
+     "cat": "tourism",
+     "pkg": "com.feverup.fever",
+     "mine": true
+    },
+    {
+     "name": "JOOS",
+     "cat": "delivery",
+     "pkg": "com.slics.joos",
+     "mine": true
+    },
+    {
+     "name": "Taco Bell UK",
+     "cat": "delivery",
+     "pkg": "com.tacobelluk.app",
+     "mine": true
+    },
+    {
+     "name": "TicketmasterUK",
+     "cat": "tourism",
+     "pkg": "com.ticketmaster.mobile.android.uk",
+     "mine": true
+    },
+    {
+     "name": "Avanti West Coast",
+     "cat": "rail",
+     "pkg": "com.avantiwestcoast",
+     "mine": true
+    },
+    {
+     "name": "ScotRail",
+     "cat": "rail",
+     "pkg": "com.firstscotrail",
+     "mine": true
+    },
+    {
+     "name": "UK ETA",
+     "cat": "entry",
+     "note": "Offizielle App des Home Office für die ETA. Ob du eine brauchst: gov.uk/electronic-travel-authorisation",
+     "src": "https://www.gov.uk/electronic-travel-authorisation"
+    }
+   ],
+   "cities": [
+    {
+     "name": "London",
+     "match": [
+      "London",
+      "Greater London"
+     ],
+     "apps": [
+      {
+       "name": "TfL Go",
+       "cat": "transit",
+       "pkg": "uk.gov.tfl.gotfl",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Oxford",
+     "match": [
+      "Oxford",
+      "Oxfordshire"
+     ],
+     "apps": [
+      {
+       "name": "Oxford Bus",
+       "cat": "transit",
+       "pkg": "uk.co.oxfordbuscompany",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "DE",
+   "name": "Deutschland",
+   "flag": "🇩🇪",
+   "apps": [
+    {
+     "name": "stadtmobil",
+     "cat": "carshare",
+     "pkg": "de.cantamen.stadtmobil",
+     "mine": true
+    },
+    {
+     "name": "DB Navigator",
+     "cat": "rail",
+     "pkg": "de.hafas.android.db",
+     "mine": true
+    },
+    {
+     "name": "FlixBus",
+     "cat": "rail",
+     "pkg": "de.flixbus.app",
+     "mine": true
+    },
+    {
+     "name": "BahnBonus",
+     "cat": "rail",
+     "pkg": "com.deutschebahn.bahnbonus",
+     "mine": true
+    }
+   ],
+   "cities": [
+    {
+     "name": "Berlin",
+     "match": [
+      "Berlin"
+     ],
+     "apps": [
+      {
+       "name": "Fahrinfo Berlin",
+       "cat": "transit",
+       "pkg": "de.eos.uptrade.android.fahrinfo.berlin",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Hamburg",
+     "match": [
+      "Hamburg"
+     ],
+     "apps": [
+      {
+       "name": "hvv",
+       "cat": "transit",
+       "pkg": "de.eos.uptrade.android.fahrinfo.hamburg",
+       "mine": true
+      },
+      {
+       "name": "hvv switch",
+       "cat": "transit",
+       "pkg": "de.hochbahn.hvvswitch",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Köln",
+     "match": [
+      "Köln",
+      "Cologne"
+     ],
+     "apps": [
+      {
+       "name": "KVB",
+       "cat": "transit",
+       "pkg": "koeln.kvb.ticket.app",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "München",
+     "match": [
+      "München",
+      "Munich"
+     ],
+     "apps": [
+      {
+       "name": "MVGO",
+       "cat": "transit",
+       "pkg": "de.mvg.more",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Nordrhein-Westfalen",
+     "match": [
+      "Nordrhein-Westfalen",
+      "North Rhine-Westphalia"
+     ],
+     "apps": [
+      {
+       "name": "mobil.nrw",
+       "cat": "transit",
+       "pkg": "com.mentz.mobilnrw_cibo_app",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Rust (Europa-Park)",
+     "match": [
+      "Rust",
+      "Ortenaukreis"
+     ],
+     "apps": [
+      {
+       "name": "EP & Rulantica",
+       "cat": "tourism",
+       "pkg": "com.EuropaParkMackKG.EPGuide",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "AT",
+   "name": "Österreich",
+   "flag": "🇦🇹",
+   "apps": [
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "wegfinder",
+     "cat": "transit",
+     "pkg": "ch.swift.willi",
+     "note": "ÖBB-Mobilitäts-App (wegfinder)",
+     "mine": true
+    },
+    {
+     "name": "bmove",
+     "cat": "micro",
+     "pkg": "hr.infoart.epk",
+     "note": "bmove",
+     "mine": true
+    },
+    {
+     "name": "ÖBB Tickets",
+     "cat": "rail",
+     "pkg": "at.oebb.ts",
+     "mine": true
+    },
+    {
+     "name": "WESTbahnApp",
+     "cat": "rail",
+     "pkg": "at.westbahn.app",
+     "mine": true
+    },
+    {
+     "name": "ÖBB Scotty",
+     "cat": "rail",
+     "note": "Fahrplanauskunft ÖBB"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Salzburg",
+     "match": [
+      "Salzburg"
+     ],
+     "apps": [
+      {
+       "name": "Sbg Verkehr",
+       "cat": "transit",
+       "pkg": "de.hafas.android.svv",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Wien",
+     "match": [
+      "Wien",
+      "Vienna"
+     ],
+     "apps": [
+      {
+       "name": "WienMobil",
+       "cat": "transit",
+       "note": "Offizielle App der Wiener Linien"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "CH",
+   "name": "Schweiz",
+   "flag": "🇨🇭",
+   "apps": [
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "SBB Mobile",
+     "cat": "rail",
+     "pkg": "ch.sbb.mobile.android.b2c",
+     "mine": true
+    },
+    {
+     "name": "Trainline",
+     "cat": "rail",
+     "pkg": "com.thetrainline",
+     "mine": true
+    },
+    {
+     "name": "TWINT",
+     "cat": "payment",
+     "note": "Schweizer Bezahl-App, nicht für jeden Besucher nutzbar"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Zürich",
+     "match": [
+      "Zürich",
+      "Zurich"
+     ],
+     "apps": [
+      {
+       "name": "ZVV",
+       "cat": "transit",
+       "pkg": "ch.mnc.zvv.oneapp",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ES",
+   "name": "Spanien",
+   "flag": "🇪🇸",
+   "apps": [
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "mine": true
+    },
+    {
+     "name": "Burger King®",
+     "cat": "delivery",
+     "pkg": "es.burgerking.android",
+     "mine": true
+    },
+    {
+     "name": "Cabify",
+     "cat": "taxi",
+     "pkg": "com.cabify.rider",
+     "mine": true
+    },
+    {
+     "name": "Iberia",
+     "cat": "flights",
+     "pkg": "com.iberia.android",
+     "mine": true
+    },
+    {
+     "name": "Superpedestrian",
+     "cat": "micro",
+     "pkg": "com.superpedestrian.link",
+     "mine": true
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "mine": true
+    },
+    {
+     "name": "Gett",
+     "cat": "taxi",
+     "pkg": "com.gettaxi.android",
+     "mine": true
+    },
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "Takeaway",
+     "cat": "delivery",
+     "pkg": "uk.takeaway.android",
+     "mine": true
+    },
+    {
+     "name": "Dia",
+     "cat": "shopping",
+     "pkg": "es.dia",
+     "mine": true
+    },
+    {
+     "name": "Taco Bell",
+     "cat": "delivery",
+     "pkg": "es.tacobell.app",
+     "mine": true
+    },
+    {
+     "name": "ElParking",
+     "cat": "parking",
+     "pkg": "com.elparking.elparking",
+     "mine": true
+    },
+    {
+     "name": "Renfe",
+     "cat": "rail",
+     "note": "Spanische Staatsbahn"
+    },
+    {
+     "name": "iryo",
+     "cat": "rail",
+     "note": "Privater Hochgeschwindigkeitszug"
+    },
+    {
+     "name": "OUIGO España",
+     "cat": "rail",
+     "note": "Günstiger Hochgeschwindigkeitszug"
+    },
+    {
+     "name": "ALSA",
+     "cat": "rail",
+     "note": "Fernbusse in Spanien"
+    },
+    {
+     "name": "FREE NOW",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "note": "Laut Quellen beste Taxi-App in Barcelona"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Barcelona",
+     "match": [
+      "Barcelona"
+     ],
+     "apps": [
+      {
+       "name": "Sagrada Família",
+       "cat": "tourism",
+       "pkg": "org.sagradafamilia.droid",
+       "mine": true
+      },
+      {
+       "name": "TMB App",
+       "cat": "transit",
+       "note": "Metro und Bus Barcelona"
+      },
+      {
+       "name": "Smou",
+       "cat": "parking",
+       "note": "Städtische Mobilitäts-App: Parken, Bicing, Laden"
+      }
+     ]
+    },
+    {
+     "name": "Madrid",
+     "match": [
+      "Madrid"
+     ],
+     "apps": [
+      {
+       "name": "Tarjeta Transporte Virtual",
+       "cat": "transit",
+       "pkg": "com.crtm.virtual",
+       "note": "Virtuelle Madrider ÖPNV-Karte",
+       "mine": true
+      },
+      {
+       "name": "Metro de Madrid",
+       "cat": "transit",
+       "note": "Offizielle Metro-App"
+      },
+      {
+       "name": "EMT Madrid",
+       "cat": "transit",
+       "note": "Stadtbusse Madrid"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IT",
+   "name": "Italien",
+   "flag": "🇮🇹",
+   "apps": [
+    {
+     "name": "OnePass",
+     "cat": "tourism",
+     "pkg": "it.prometheus.onepass",
+     "note": "OnePass",
+     "mine": true
+    },
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "coffee cApp",
+     "cat": "delivery",
+     "pkg": "com.yourvoice.ccApp",
+     "mine": true
+    },
+    {
+     "name": "BurgerKingIT",
+     "cat": "delivery",
+     "pkg": "it.burgerking.android",
+     "mine": true
+    },
+    {
+     "name": "Just Eat",
+     "cat": "delivery",
+     "pkg": "com.justeat.app.it",
+     "mine": true
+    },
+    {
+     "name": "Satispay",
+     "cat": "payment",
+     "pkg": "com.satispay.customer",
+     "mine": true
+    },
+    {
+     "name": "BigBusTours",
+     "cat": "tourism",
+     "pkg": "com.bigbustours.bbt",
+     "mine": true
+    },
+    {
+     "name": "Trenitalia",
+     "cat": "rail",
+     "pkg": "com.lynxspa.prontotreno",
+     "mine": true
+    },
+    {
+     "name": "Italo",
+     "cat": "rail",
+     "note": "Privater Hochgeschwindigkeitszug, oft günstiger als Frecciarossa"
+    },
+    {
+     "name": "Moovit",
+     "cat": "maps",
+     "note": "Bus und Metro in vielen italienischen Städten"
+    },
+    {
+     "name": "FREE NOW",
+     "cat": "taxi",
+     "pkg": "taxi.android.client"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Florenz",
+     "match": [
+      "Florenz",
+      "Firenze",
+      "Florence"
+     ],
+     "apps": [
+      {
+       "name": "itTaxi",
+       "cat": "taxi",
+       "note": "Taxi-App, in Florenz besonders verbreitet"
+      }
+     ]
+    },
+    {
+     "name": "Mailand",
+     "match": [
+      "Mailand",
+      "Milano",
+      "Milan"
+     ],
+     "apps": [
+      {
+       "name": "ATM Milano",
+       "cat": "transit",
+       "pkg": "it.atm.appmobile",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Rom",
+     "match": [
+      "Rom",
+      "Roma",
+      "Rome"
+     ],
+     "apps": [
+      {
+       "name": "Roma Mobilità",
+       "cat": "transit",
+       "pkg": "com.rsm.muoversiaroma",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PT",
+   "name": "Portugal",
+   "flag": "🇵🇹",
+   "apps": [
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "pkg": "co.bird.android",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true
+    },
+    {
+     "name": "CP Comboios de Portugal",
+     "cat": "rail",
+     "note": "Offizielle Bahn-App, z. B. Lissabon–Porto"
+    },
+    {
+     "name": "Rede Expressos",
+     "cat": "rail",
+     "note": "Fernbusse in Portugal"
+    },
+    {
+     "name": "Moovit",
+     "cat": "maps",
+     "note": "ÖPNV in Lissabon und Porto"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Lissabon",
+     "match": [
+      "Lissabon",
+      "Lisboa",
+      "Lisbon"
+     ],
+     "apps": [
+      {
+       "name": "Carris Metropolitana",
+       "cat": "transit",
+       "note": "Busse im Großraum Lissabon"
+      },
+      {
+       "name": "navegante",
+       "cat": "transit",
+       "note": "Echtzeitinfo für ÖPNV im Großraum Lissabon"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "FR",
+   "name": "Frankreich",
+   "flag": "🇫🇷",
+   "apps": [
+    {
+     "name": "McDo France",
+     "cat": "delivery",
+     "pkg": "com.md.mcdonalds.gomcdo",
+     "mine": true
+    },
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "Flowbird",
+     "cat": "parking",
+     "pkg": "group.flowbird.mpp",
+     "mine": true
+    },
+    {
+     "name": "SNCF Connect",
+     "cat": "rail",
+     "note": "Offizielle App der französischen Bahn"
+    },
+    {
+     "name": "G7 Taxi",
+     "cat": "taxi",
+     "note": "Lizenzierte Taxis in Paris und vielen Städten"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Paris",
+     "match": [
+      "Paris",
+      "Île-de-France",
+      "Ile-de-France"
+     ],
+     "apps": [
+      {
+       "name": "Île-de-France Mobilités",
+       "cat": "transit",
+       "pkg": "com.applidium.vianavigo",
+       "mine": true,
+       "note": "Navigo, Tickets für Paris"
+      },
+      {
+       "name": "Bonjour RATP",
+       "cat": "transit",
+       "note": "Offizielle RATP-App für Metro, RER, Bus"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "NO",
+   "name": "Norwegen",
+   "flag": "🇳🇴",
+   "apps": [
+    {
+     "name": "Ryde",
+     "cat": "taxi",
+     "pkg": "com.ryde_android",
+     "mine": true
+    },
+    {
+     "name": "foodora",
+     "cat": "delivery",
+     "pkg": "se.onlinepizza",
+     "mine": true
+    },
+    {
+     "name": "Thon Hotels",
+     "cat": "hotels",
+     "pkg": "otg.thonhotel",
+     "mine": true
+    },
+    {
+     "name": "Entur",
+     "cat": "transit",
+     "note": "Alle Busse, Züge, Fähren in Norwegen, Tickets"
+    },
+    {
+     "name": "Vy",
+     "cat": "rail",
+     "note": "Züge und Busse"
+    },
+    {
+     "name": "Vipps",
+     "cat": "payment",
+     "note": "Braucht eine norwegische Nummer, Karte reicht meist"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "pkg": "net.easypark.android"
+    },
+    {
+     "name": "Yr",
+     "cat": "misc",
+     "note": "Wetter vom norwegischen Wetterdienst"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Oslo",
+     "match": [
+      "Oslo"
+     ],
+     "apps": [
+      {
+       "name": "Oslo Pass",
+       "cat": "tourism",
+       "pkg": "no.wtw.visitoslo.oslopass.android",
+       "mine": true
+      },
+      {
+       "name": "Flytoget",
+       "cat": "rail",
+       "pkg": "no.flytoget.flytoget",
+       "mine": true
+      },
+      {
+       "name": "Ruter",
+       "cat": "transit",
+       "pkg": "no.ruter.reise",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "SE",
+   "name": "Schweden",
+   "flag": "🇸🇪",
+   "apps": [
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "Viator",
+     "cat": "tourism",
+     "pkg": "com.viator.mobile.android",
+     "mine": true
+    },
+    {
+     "name": "Klook",
+     "cat": "tourism",
+     "pkg": "com.klook",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true
+    },
+    {
+     "name": "Swish",
+     "cat": "payment",
+     "pkg": "se.bankgirot.swish",
+     "mine": true
+    },
+    {
+     "name": "BankID",
+     "cat": "payment",
+     "pkg": "com.bankid.bus",
+     "mine": true
+    },
+    {
+     "name": "AuroraReach",
+     "cat": "tourism",
+     "pkg": "com.aurorareach.app",
+     "mine": true
+    },
+    {
+     "name": "Taco Bar",
+     "cat": "delivery",
+     "pkg": "se.caspeco.bstl.tacobar",
+     "mine": true
+    },
+    {
+     "name": "SJ",
+     "cat": "rail",
+     "note": "Schwedische Bahn"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "pkg": "net.easypark.android"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Göteborg",
+     "match": [
+      "Göteborg",
+      "Gothenburg",
+      "Västra Götaland"
+     ],
+     "apps": [
+      {
+       "name": "Västtrafik",
+       "cat": "transit",
+       "pkg": "com.vaesttrafik.vaesttrafik",
+       "mine": true
+      },
+      {
+       "name": "Liseberg",
+       "cat": "tourism",
+       "pkg": "se.liseberg.liseberg",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Malmö",
+     "match": [
+      "Malmö",
+      "Skåne"
+     ],
+     "apps": [
+      {
+       "name": "Skånetrafiken",
+       "cat": "transit",
+       "pkg": "se.skanetrafiken.washington",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Stockholm",
+     "match": [
+      "Stockholm"
+     ],
+     "apps": [
+      {
+       "name": "Arlanda Express",
+       "cat": "rail",
+       "pkg": "se.arlandaexpress.atrain",
+       "mine": true
+      },
+      {
+       "name": "SL",
+       "cat": "transit",
+       "pkg": "com.sl.SLBiljetter",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "FI",
+   "name": "Finnland",
+   "flag": "🇫🇮",
+   "apps": [
+    {
+     "name": "Klook",
+     "cat": "tourism",
+     "pkg": "com.klook",
+     "mine": true
+    },
+    {
+     "name": "Cluby",
+     "cat": "tourism",
+     "pkg": "com.solinor.loyaltybeacon",
+     "note": "Cluby",
+     "mine": true
+    }
+   ],
+   "cities": [
+    {
+     "name": "Helsinki",
+     "match": [
+      "Helsinki",
+      "Uusimaa"
+     ],
+     "apps": [
+      {
+       "name": "HSL",
+       "cat": "transit",
+       "pkg": "fi.hsl.app",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "EE",
+   "name": "Estland",
+   "flag": "🇪🇪",
+   "apps": [
+    {
+     "name": "airBaltic",
+     "cat": "flights",
+     "pkg": "com.redmadrobot.pins",
+     "note": "airBaltic (aus deinem Baltikum-Ordner)",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "RIDE",
+     "cat": "taxi",
+     "pkg": "ride.app",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "Mobilly",
+     "cat": "transit",
+     "pkg": "lv.mobilly.android",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "MOBI",
+     "cat": "taxi",
+     "pkg": "com.mobi.passenger",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "AuroraReach",
+     "cat": "tourism",
+     "pkg": "com.aurorareach.app",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "LV",
+   "name": "Lettland",
+   "flag": "🇱🇻",
+   "apps": [
+    {
+     "name": "airBaltic",
+     "cat": "flights",
+     "pkg": "com.redmadrobot.pins",
+     "note": "airBaltic (aus deinem Baltikum-Ordner)",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "RIDE",
+     "cat": "taxi",
+     "pkg": "ride.app",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "MOBI",
+     "cat": "taxi",
+     "pkg": "com.mobi.passenger",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "AuroraReach",
+     "cat": "tourism",
+     "pkg": "com.aurorareach.app",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Riga",
+     "match": [
+      "Riga",
+      "Rīga"
+     ],
+     "apps": [
+      {
+       "name": "Mobilly",
+       "cat": "transit",
+       "pkg": "lv.mobilly.android",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "LT",
+   "name": "Litauen",
+   "flag": "🇱🇹",
+   "apps": [
+    {
+     "name": "airBaltic",
+     "cat": "flights",
+     "pkg": "com.redmadrobot.pins",
+     "note": "airBaltic (aus deinem Baltikum-Ordner)",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "RIDE",
+     "cat": "taxi",
+     "pkg": "ride.app",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "Mobilly",
+     "cat": "transit",
+     "pkg": "lv.mobilly.android",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "MOBI",
+     "cat": "taxi",
+     "pkg": "com.mobi.passenger",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "AuroraReach",
+     "cat": "tourism",
+     "pkg": "com.aurorareach.app",
+     "mine": true,
+     "note": "(aus deinem Baltikum-Ordner)"
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "NL",
+   "name": "Niederlande",
+   "flag": "🇳🇱",
+   "apps": [
+    {
+     "name": "Deliveroo",
+     "cat": "delivery",
+     "pkg": "com.deliveroo.orderapp",
+     "mine": true
+    },
+    {
+     "name": "glimble",
+     "cat": "transit",
+     "pkg": "com.arriva.glimble",
+     "mine": true
+    },
+    {
+     "name": "Takeaway",
+     "cat": "delivery",
+     "pkg": "uk.takeaway.android",
+     "mine": true
+    },
+    {
+     "name": "Flink",
+     "cat": "delivery",
+     "pkg": "com.pickery.app",
+     "mine": true
+    },
+    {
+     "name": "NS",
+     "cat": "rail",
+     "note": "Offizielle App der niederländischen Bahn"
+    },
+    {
+     "name": "9292",
+     "cat": "transit",
+     "note": "ÖPNV-Planer für alle Verkehrsbetriebe in den Niederlanden"
+    },
+    {
+     "name": "OVpay",
+     "cat": "transit",
+     "note": "Check-in/out mit Bankkarte oder Handy, ohne Registrierung"
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "BE",
+   "name": "Belgien",
+   "flag": "🇧🇪",
+   "apps": [
+    {
+     "name": "De Lijn",
+     "cat": "transit",
+     "pkg": "com.themobilecompany.delijn",
+     "mine": true
+    },
+    {
+     "name": "Brussels Airlines",
+     "cat": "flights",
+     "pkg": "com.brusselsairlines.bmobile",
+     "mine": true
+    },
+    {
+     "name": "Takeaway",
+     "cat": "delivery",
+     "pkg": "uk.takeaway.android",
+     "mine": true
+    },
+    {
+     "name": "Tomorrowland",
+     "cat": "tourism",
+     "pkg": "com.tomorrowland.oneworldradio",
+     "note": "Tomorrowland",
+     "mine": true
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "LU",
+   "name": "Luxemburg",
+   "flag": "🇱🇺",
+   "apps": [
+    {
+     "name": "mobiliteit.lu",
+     "cat": "transit",
+     "pkg": "de.hafas.android.cdt",
+     "mine": true
+    },
+    {
+     "name": "Goosty",
+     "cat": "taxi",
+     "pkg": "com.customer.goosty",
+     "mine": true
+    },
+    {
+     "name": "FLEX",
+     "cat": "carshare",
+     "pkg": "com.mobilityinternational.classic.client103",
+     "mine": true
+    },
+    {
+     "name": "Takeaway",
+     "cat": "delivery",
+     "pkg": "uk.takeaway.android",
+     "mine": true
+    },
+    {
+     "name": "Wedely",
+     "cat": "delivery",
+     "pkg": "com.wedely",
+     "mine": true
+    },
+    {
+     "name": "UFODRIVE",
+     "cat": "carshare",
+     "pkg": "com.ufodrive.app",
+     "mine": true
+    },
+    {
+     "name": "CFL mobile",
+     "cat": "rail",
+     "pkg": "de.hafas.android.cfl",
+     "mine": true
+    },
+    {
+     "name": "LetzRide",
+     "cat": "taxi",
+     "pkg": "com.letzride",
+     "mine": true
+    }
+   ],
+   "cities": [
+    {
+     "name": "Luxemburg-Stadt",
+     "match": [
+      "Luxembourg",
+      "Luxemburg"
+     ],
+     "apps": [
+      {
+       "name": "cityapp – VDL",
+       "cat": "tourism",
+       "pkg": "lu.vdl",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "PL",
+   "name": "Polen",
+   "flag": "🇵🇱",
+   "apps": [
+    {
+     "name": "zbiletem",
+     "cat": "transit",
+     "pkg": "zbiletem.zbiletem",
+     "mine": true
+    },
+    {
+     "name": "My Polferries",
+     "cat": "rail",
+     "pkg": "pl.loyaltyclub.polferriescard",
+     "mine": true
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true
+    },
+    {
+     "name": "Jakdojade",
+     "cat": "transit",
+     "note": "ÖPNV und Tickets in über 130 polnischen Städten",
+     "src": "https://www.bento.travel/poland/transit"
+    },
+    {
+     "name": "Koleo",
+     "cat": "rail",
+     "note": "Zugtickets in Polen"
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "IS",
+   "name": "Island",
+   "flag": "🇮🇸",
+   "apps": [
+    {
+     "name": "AuroraReach",
+     "cat": "tourism",
+     "pkg": "com.aurorareach.app",
+     "mine": true
+    },
+    {
+     "name": "hello aurora",
+     "cat": "tourism",
+     "pkg": "com.helloaurora",
+     "mine": true
+    },
+    {
+     "name": "Parka",
+     "cat": "parking",
+     "pkg": "is.parka.parka",
+     "mine": true
+    },
+    {
+     "name": "112 Iceland",
+     "cat": "safety",
+     "note": "Offizielle Notruf-App, sendet Standort an 112",
+     "src": "https://www.bento.travel/iceland"
+    },
+    {
+     "name": "SafeTravel",
+     "cat": "safety",
+     "note": "ICE-SAR: Warnungen, Straßenzustand, Reiseplan hinterlegen"
+    },
+    {
+     "name": "Veður",
+     "cat": "misc",
+     "note": "Isländischer Wetterdienst mit Warnungen"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Reykjavík",
+     "match": [
+      "Reykjavík",
+      "Reykjavik",
+      "Capital Region"
+     ],
+     "apps": [
+      {
+       "name": "Klappið",
+       "cat": "transit",
+       "note": "Strætó-Busse, digitale Tickets"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "IE",
+   "name": "Irland",
+   "flag": "🇮🇪",
+   "apps": [
+    {
+     "name": "Iarnrod Eireann - Irish Rail Official App",
+     "cat": "rail",
+     "pkg": "de.hafas.android.irishrail",
+     "mine": true
+    },
+    {
+     "name": "FREE NOW",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "mine": true
+    },
+    {
+     "name": "Aircoach",
+     "cat": "rail",
+     "pkg": "com.aircoach.android",
+     "mine": true
+    },
+    {
+     "name": "TFI Live",
+     "cat": "transit",
+     "note": "Offizieller Planer für Bus, Luas, Irish Rail",
+     "src": "https://www.bento.travel/ireland/transit"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Dublin",
+     "match": [
+      "Dublin"
+     ],
+     "apps": [
+      {
+       "name": "Leap Top-Up",
+       "cat": "transit",
+       "note": "Leap Card aufladen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "GR",
+   "name": "Griechenland",
+   "flag": "🇬🇷",
+   "apps": [
+    {
+     "name": "VISIT GREECE",
+     "cat": "tourism",
+     "pkg": "com.visit_greece",
+     "mine": true
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "mine": true
+    }
+   ],
+   "cities": [
+    {
+     "name": "Athen",
+     "match": [
+      "Athen",
+      "Athens",
+      "Athina",
+      "Attica",
+      "Attika"
+     ],
+     "apps": [
+      {
+       "name": "OASA Telematics",
+       "cat": "transit",
+       "pkg": "com.att.android.tfa",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MT",
+   "name": "Malta",
+   "flag": "🇲🇹",
+   "apps": [
+    {
+     "name": "Tallinja",
+     "cat": "transit",
+     "pkg": "com.mpt.tallinjaapp",
+     "mine": true
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "mine": true
+    },
+    {
+     "name": "eCabs",
+     "cat": "taxi",
+     "note": "Fahrdienst in Malta (nicht auf Gozo)"
+    },
+    {
+     "name": "Gozo Channel",
+     "cat": "rail",
+     "note": "Fähre Malta–Gozo"
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "US",
+   "name": "USA",
+   "flag": "🇺🇸",
+   "apps": [
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "TodayTix",
+     "cat": "tourism",
+     "pkg": "com.todaytix.TodayTix",
+     "mine": true
+    },
+    {
+     "name": "Lyft",
+     "cat": "taxi",
+     "pkg": "me.lyft.android",
+     "mine": true
+    },
+    {
+     "name": "Target",
+     "cat": "shopping",
+     "pkg": "com.target.ui",
+     "mine": true
+    },
+    {
+     "name": "City Experiences",
+     "cat": "tourism",
+     "pkg": "com.hornblower.hornblower",
+     "mine": true
+    },
+    {
+     "name": "Grubhub",
+     "cat": "delivery",
+     "pkg": "com.grubhub.android",
+     "mine": true
+    },
+    {
+     "name": "Whole Foods Market",
+     "cat": "shopping",
+     "pkg": "com.wholefoods.wholefoodsmarket",
+     "mine": true
+    },
+    {
+     "name": "DoorDash",
+     "cat": "delivery",
+     "pkg": "com.dd.doordash",
+     "mine": true
+    },
+    {
+     "name": "CVS Health",
+     "cat": "shopping",
+     "pkg": "com.cvs.launchers.cvs",
+     "mine": true
+    },
+    {
+     "name": "ESTA Mobile",
+     "cat": "entry",
+     "note": "Offizielle CBP-App für ESTA (Visa Waiver Program)",
+     "src": "https://esta.cbp.dhs.gov/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Boston",
+     "match": [
+      "Boston"
+     ],
+     "apps": [
+      {
+       "name": "mTicket",
+       "cat": "transit",
+       "pkg": "com.mbta.mobileapp",
+       "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Orlando",
+     "match": [
+      "Orlando",
+      "Orange County"
+     ],
+     "apps": [
+      {
+       "name": "Universal FL",
+       "cat": "tourism",
+       "pkg": "com.universalstudios.orlandoresort",
+       "mine": true
+      },
+      {
+       "name": "SeaWorld",
+       "cat": "tourism",
+       "pkg": "com.seaworld.mobile",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "MX",
+   "name": "Mexiko",
+   "flag": "🇲🇽",
+   "apps": [
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "McDonald's",
+     "cat": "delivery",
+     "pkg": "com.mcdo.mcdonalds",
+     "mine": true
+    }
+   ],
+   "cities": [
+    {
+     "name": "Cancún & Riviera Maya",
+     "match": [
+      "Cancún",
+      "Cancun",
+      "Quintana Roo",
+      "Playa del Carmen"
+     ],
+     "apps": [
+      {
+       "name": "XCARET!",
+       "cat": "tourism",
+       "pkg": "com.xcaret.xcaret_parques",
+       "mine": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "AU",
+   "name": "Australien",
+   "flag": "🇦🇺",
+   "apps": [
+    {
+     "name": "GoGet",
+     "cat": "carshare",
+     "pkg": "com.goget.goget",
+     "mine": true
+    },
+    {
+     "name": "Flexicar",
+     "cat": "carshare",
+     "pkg": "com.flexicar.app",
+     "mine": true
+    },
+    {
+     "name": "Popcar Car Share",
+     "cat": "carshare",
+     "pkg": "au.popcar.classic.client101",
+     "mine": true
+    },
+    {
+     "name": "Uber Carshare",
+     "cat": "carshare",
+     "pkg": "au.com.carnextdoor.app",
+     "mine": true
+    },
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "Fever",
+     "cat": "tourism",
+     "pkg": "com.feverup.fever",
+     "mine": true
+    },
+    {
+     "name": "NaviLens GO",
+     "cat": "transit",
+     "pkg": "com.neosistec.navilensgo",
+     "mine": true
+    },
+    {
+     "name": "DoorDash",
+     "cat": "delivery",
+     "pkg": "com.dd.doordash",
+     "mine": true
+    },
+    {
+     "name": "Secure Parking",
+     "cat": "parking",
+     "pkg": "au.com.secureparking.production",
+     "mine": true
+    },
+    {
+     "name": "eVisitor (ImmiAccount, Web)",
+     "cat": "entry",
+     "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+     "note": "Deutsche Pässe: eVisitor 651 kostenlos über ImmiAccount, nicht über die ETA-App",
+     "src": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Sydney",
+     "match": [
+      "Sydney"
+     ],
+     "apps": [
+      {
+       "name": "ParknPay",
+       "cat": "parking",
+       "pkg": "au.gov.nsw.onegov.parknpay.release",
+       "mine": true
+      },
+      {
+       "name": "Opal Travel",
+       "cat": "transit",
+       "note": "Offizielle Transport-for-NSW-App"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "SG",
+   "name": "Singapur",
+   "flag": "🇸🇬",
+   "apps": [
+    {
+     "name": "SMRT Connect",
+     "cat": "transit",
+     "pkg": "sg.com.smrt.smrtconnect",
+     "mine": true
+    },
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    },
+    {
+     "name": "NETS App",
+     "cat": "payment",
+     "pkg": "com.mls.nets.reader",
+     "mine": true
+    },
+    {
+     "name": "OCBC",
+     "cat": "payment",
+     "pkg": "com.ocbc.mobile",
+     "mine": true
+    },
+    {
+     "name": "Changi",
+     "cat": "flights",
+     "pkg": "com.changiairport.cagapp",
+     "mine": true
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "mine": true
+    },
+    {
+     "name": "WAUG",
+     "cat": "tourism",
+     "pkg": "kr.co.waug.waug",
+     "mine": true
+    },
+    {
+     "name": "Oddle Eats",
+     "cat": "delivery",
+     "pkg": "com.oddleeatsapp",
+     "mine": true
+    },
+    {
+     "name": "MyICA Mobile",
+     "cat": "entry",
+     "note": "SG Arrival Card, innerhalb von 3 Tagen vor Ankunft, kostenlos",
+     "src": "https://www.ica.gov.sg/enter-depart/entry_requirements/sg-arrival-card"
+    },
+    {
+     "name": "MyTransport.SG",
+     "cat": "transit",
+     "note": "Offizielle LTA-App: Bus- und MRT-Ankunftszeiten",
+     "src": "https://www.bento.travel/singapore/transit"
+    },
+    {
+     "name": "SimplyGo",
+     "cat": "transit",
+     "note": "Fahrpreise, Karte; Bezahlen geht auch direkt mit Visa/Mastercard"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Wichtigster Fahrdienst, kein Uber in Singapur"
+    },
+    {
+     "name": "Gojek",
+     "cat": "taxi",
+     "note": "Alternative zu Grab, zum Preisvergleich"
+    },
+    {
+     "name": "CDG Zig",
+     "cat": "taxi",
+     "note": "Taxis von ComfortDelGro"
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "AE",
+   "name": "Vereinigte Arabische Emirate",
+   "flag": "🇦🇪",
+   "apps": [
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "mine": true
+    },
+    {
+     "name": "Go City",
+     "cat": "tourism",
+     "pkg": "com.gocitypass",
+     "note": "Stadtpass für viele Städte",
+     "mine": true
+    }
+   ],
+   "cities": [
+    {
+     "name": "Dubai",
+     "match": [
+      "Dubai"
+     ],
+     "apps": [
+      {
+       "name": "S'hail",
+       "cat": "transit",
+       "note": "Offizieller RTA-Planer"
+      },
+      {
+       "name": "nol Pay",
+       "cat": "transit",
+       "note": "nol-Karte aufladen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "code": "ZA",
+   "name": "Südafrika",
+   "flag": "🇿🇦",
+   "apps": [
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    },
+    {
+     "name": "Piki",
+     "cat": "delivery",
+     "pkg": "com.food.ordering",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    }
+   ],
+   "cities": []
+  },
+  {
+   "code": "KE",
+   "name": "Kenia",
+   "flag": "🇰🇪",
+   "apps": [
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    },
+    {
+     "name": "Piki",
+     "cat": "delivery",
+     "pkg": "com.food.ordering",
+     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "mine": true
+    }
+   ],
+   "cities": []
+  }
+ ]
+}
