@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 17:59",
+ "version": "2026-11-17 18:09",
  "categories": [
   {
    "id": "entry",
@@ -3261,25 +3261,33 @@
      "name": "GoGet",
      "cat": "carshare",
      "pkg": "com.goget.goget",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Ab 18, ein Jahr Fahrpraxis, Übersetzung bei nicht englischem Führerschein"
     },
     {
      "name": "Flexicar",
      "cat": "carshare",
      "pkg": "com.flexicar.app",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Ab 18, Antrag muss freigegeben werden, Passdaten können verlangt werden"
     },
     {
      "name": "Popcar Car Share",
      "cat": "carshare",
      "pkg": "au.popcar.classic.client101",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Laut Quelle eingestellt"
     },
     {
      "name": "Uber Carshare",
      "cat": "carshare",
      "pkg": "au.com.carnextdoor.app",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Führerschein vorab in der App prüfen lassen, Übersetzung falls nicht englisch"
     },
     {
      "name": "Go City",
@@ -3322,10 +3330,307 @@
     {
      "name": "Uber",
      "cat": "taxi",
-     "pkg": "com.ubercab"
+     "pkg": "com.ubercab",
+     "note": "Verbreiteter Fahrdienst in Städten und an Flughäfen",
+     "src": "https://www.bento.travel/australia",
+     "ess": true
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Fahrdienst als Alternative, nur in einigen Städten",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "13cabs",
+     "cat": "taxi",
+     "pkg": "com.cabs",
+     "note": "Lizenzierte Taxis in den großen Städten buchen",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Shebah",
+     "cat": "taxi",
+     "pkg": "au.com.shebah.rider",
+     "note": "Vorbestellte Fahrten für Frauen und Kinder",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essen und Kleinkram in vielen Städten liefern lassen",
+     "ess": true,
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "HungryPanda",
+     "cat": "delivery",
+     "pkg": "com.hungrypanda.waimai",
+     "note": "Asiatisches Essen, nur in Großstädten",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "OpenTable",
+     "cat": "delivery",
+     "pkg": "com.opentable",
+     "note": "Restaurants finden und Tische reservieren",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "EatClub",
+     "cat": "delivery",
+     "pkg": "dinnerdeal.android.customer",
+     "note": "Rabatte bei Restaurants zu bestimmten Zeiten",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Verkehrs- und Gefahrenmeldungen",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Metro Tasmania",
+     "cat": "transit",
+     "pkg": "au.com.metrotas.tripplanner",
+     "note": "Busse in Hobart, Launceston und Burnie planen",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "NT Bus Tracker",
+     "cat": "transit",
+     "pkg": "au.gov.nec.nt.bustracker",
+     "note": "Busse in Darwin und Alice Springs live verfolgen",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Rome2Rio",
+     "cat": "rail",
+     "pkg": "com.rome2rio.www.rome2rio",
+     "note": "Flug, Zug, Bus und Fähre vergleichen",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Woolworths",
+     "cat": "shopping",
+     "pkg": "com.woolworths",
+     "note": "Supermarkt mit Lieferung und Abholung",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Coles",
+     "cat": "shopping",
+     "pkg": "com.coles.android.shopmate",
+     "note": "Supermarkt mit Lieferung und Einkaufslisten",
+     "use": "limited",
+     "req": "Handynummer mit Bestätigungscode für Konto nötig",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Tourist Refund Scheme",
+     "cat": "entry",
+     "pkg": "au.gov.customs.trs",
+     "note": "Steuerrückerstattung vor Ausreise per QR vorbereiten",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "AustralianETA",
+     "cat": "entry",
+     "pkg": "au.gov.homeaffairs.eta",
+     "note": "Offizielle ETA-App für berechtigte Pässe",
+     "ess": true,
+     "use": "limited",
+     "req": "Nur für berechtigte Pässe, Deutsche nutzen meist eVisitor 651",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "WikiCamps Australia",
+     "cat": "tourism",
+     "pkg": "au.com.angryrobot.wikicamps",
+     "note": "Camping, Rastplätze und Versorgung finden",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "BOM Weather",
+     "cat": "safety",
+     "pkg": "au.gov.bom.metview",
+     "note": "Offizielles Wetter mit Radar und Warnungen",
+     "ess": true,
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Emergency Plus",
+     "cat": "safety",
+     "pkg": "com.threesixtyentertainment.nesn",
+     "note": "Zeigt Standort für den Notruf, ruft nicht selbst",
+     "ess": true,
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Hazards Near Me NSW",
+     "cat": "safety",
+     "pkg": "au.gov.nsw.rfs.firesnearme.nsw",
+     "note": "Warnungen zu Buschfeuer, Flut und Tsunami in NSW",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "VicEmergency",
+     "cat": "safety",
+     "pkg": "com.naturallybeing.fireready",
+     "note": "Offizielle Notfallwarnungen für Victoria",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Emergency WA",
+     "cat": "safety",
+     "pkg": "au.gov.wa.dfes.emergencywa",
+     "note": "Warnungen und Einsätze in Westaustralien",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Alert SA",
+     "cat": "safety",
+     "pkg": "au.gov.sa.safecom.alertsa",
+     "note": "Warnungen und Einsätze in Südaustralien",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "TasALERT",
+     "cat": "safety",
+     "pkg": "au.gov.tas.alert.app",
+     "note": "Warnungen für Tasmanien mit gespeicherten Orten",
+     "src": "https://www.bento.travel/australia"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "Leih-E-Bikes und E-Scooter, ab 16 Jahren",
+     "src": "https://www.li.me/en-au/locations/melbourne"
     }
    ],
    "cities": [
+    {
+     "name": "Adelaide",
+     "match": [
+      "Adelaide"
+     ],
+     "apps": [
+      {
+       "name": "Adelaide Metro Buy & Go",
+       "cat": "transit",
+       "pkg": "au.gov.sa.adelaidemetroapp",
+       "note": "Handytickets und Besucherpässe für Adelaide",
+       "src": "https://www.bento.travel/australia"
+      },
+      {
+       "name": "Beam",
+       "cat": "micro",
+       "note": "Leih-E-Scooter, ab 16 und mit Helm",
+       "src": "https://www.cityofadelaide.com.au/transport-parking/public-transport/e-scooters/"
+      },
+      {
+       "name": "Neuron Mobility",
+       "cat": "micro",
+       "note": "Leih-E-Scooter, ab 16 und mit Helm",
+       "src": "https://www.cityofadelaide.com.au/transport-parking/public-transport/e-scooters/"
+      },
+      {
+       "name": "UPark",
+       "cat": "parking",
+       "note": "Web-App per QR am Automaten, auch als Gast",
+       "src": "https://www.cityofadelaide.com.au/transport-parking/parking/pay-for-parking-in-the-city"
+      }
+     ]
+    },
+    {
+     "name": "Brisbane",
+     "match": [
+      "Brisbane"
+     ],
+     "apps": [
+      {
+       "name": "Translink",
+       "cat": "transit",
+       "pkg": "de.hafas.android.translink",
+       "note": "Offizieller Routenplaner für Südost-Queensland",
+       "src": "https://translink.com.au/news-and-media/articles/817366"
+      },
+      {
+       "name": "CellOPark",
+       "cat": "parking",
+       "pkg": "air.com.cellopark.au",
+       "note": "Zugelassene Park-App der Stadt Brisbane",
+       "src": "https://brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-meters-and-fees/pay-by-app-zones"
+      },
+      {
+       "name": "PayStay",
+       "cat": "parking",
+       "pkg": "au.com.paystay",
+       "note": "Zweite zugelassene Park-App in Brisbane",
+       "src": "https://brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-meters-and-fees/pay-by-app-zones"
+      }
+     ]
+    },
+    {
+     "name": "Canberra",
+     "match": [
+      "Canberra"
+     ],
+     "apps": [
+      {
+       "name": "MyWay+",
+       "cat": "transit",
+       "pkg": "au.gov.act.transport.mywayplus",
+       "note": "Fahrplan und Tarifkonto, Bankkarte genügt",
+       "src": "https://www.bento.travel/australia"
+      }
+     ]
+    },
+    {
+     "name": "Melbourne",
+     "match": [
+      "Melbourne"
+     ],
+     "apps": [
+      {
+       "name": "Public Transport Victoria app",
+       "cat": "transit",
+       "pkg": "au.gov.vic.ptv",
+       "note": "Fahrplan für Zug, Tram und Bus, myki aufladen",
+       "src": "https://ptv.vic.gov.au/tickets/myki-upgrade"
+      },
+      {
+       "name": "EasyPark",
+       "cat": "parking",
+       "note": "Straßenparken der Stadt per App zahlen",
+       "src": "https://www.melbourne.vic.gov.au/parking-and-transport/parking/Pages/kerbside-parking-fees.aspx"
+      }
+     ]
+    },
+    {
+     "name": "Perth",
+     "match": [
+      "Perth"
+     ],
+     "apps": [
+      {
+       "name": "Transperth",
+       "cat": "transit",
+       "pkg": "au.gov.wa.pta.transperth",
+       "note": "Fahrplan mit Live-Abfahrten und Störungen",
+       "src": "https://www.transperth.wa.gov.au/App"
+      },
+      {
+       "name": "EasyPark",
+       "cat": "parking",
+       "note": "Städtische Parkplätze per App zahlen",
+       "src": "https://perth.wa.gov.au/news-and-updates/all-news/new-parking-payment-app-rolling-out-in-the-city-of-perth"
+      }
+     ]
+    },
     {
      "name": "Sydney",
      "match": [
@@ -3341,11 +3646,17 @@
       {
        "name": "Opal Travel",
        "cat": "transit",
-       "note": "Offizielle Transport-for-NSW-App"
+       "note": "Offizielle Transport-for-NSW-App",
+       "pkg": "au.com.opal.travel"
       }
      ]
     }
-   ]
+   ],
+   "note": "Transit- und Warn-Apps passend zur Route laden und in Melbourne die laufende myki-Umstellung beachten.",
+   "src": "https://www.bento.travel/australia",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Ehe für alle ist eingeführt, Rechte für trans Personen variieren je Bundesstaat.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/australien-sicherheit/213920",
+   "checked": "2026-11-17"
   },
   {
    "code": "SG",
@@ -5814,6 +6125,458 @@
    ],
    "note": "Machu-Picchu-Tickets nur über TuBoleto kaufen und Zugtickets separat bei autorisierten Anbietern buchen.",
    "src": "https://www.bento.travel/peru",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "AQ",
+   "name": "Antarktis",
+   "flag": "🇦🇶",
+   "apps": [
+    {
+     "name": "IAATO Antarctic Expedition App",
+     "cat": "tourism",
+     "pkg": "com.iaatoprod",
+     "note": "Offizielle Besucherregeln und Infos, auch offline",
+     "ess": true,
+     "src": "https://play.google.com/store/apps/details?id=com.iaatoprod&hl=en_US"
+    },
+    {
+     "name": "IAATO Polar Guide: Antarctica",
+     "cat": "tourism",
+     "pkg": "com.softwarethinking.iaato.guideantarctica",
+     "note": "Ältere IAATO-Referenz zu Regeln und Tieren, Stand 2024",
+     "src": "https://appwisp.com/app/android/com.softwarethinking.iaato.guideantarctica"
+    },
+    {
+     "name": "HX",
+     "cat": "misc",
+     "pkg": "com.travelhx.guestapp",
+     "note": "Bord-App von HX mit Tagesprogramm und Ausflügen",
+     "use": "limited",
+     "req": "Nur mit HX-Buchung, volle Funktion im Bord-WLAN",
+     "src": "https://play.google.com/store/apps/details?id=com.travelhx.guestapp&hl=en_IN"
+    },
+    {
+     "name": "Quark Expeditions",
+     "cat": "misc",
+     "pkg": "com.vamoos.apps.quarkexpeditions",
+     "note": "Begleit-App für Polarreisen mit Quark",
+     "use": "limited",
+     "req": "Nur mit Buchung bei Quark Expeditions",
+     "src": "https://play.google.com/store/apps/details?id=com.vamoos.apps.quarkexpeditions"
+    },
+    {
+     "name": "Antarctica21",
+     "cat": "misc",
+     "pkg": "com.mcoms.hotstream.antarctica21",
+     "note": "Reise-App mit Programm, Wetter und Schiffsposition",
+     "use": "limited",
+     "req": "Nur mit Buchung bei Antarctica21",
+     "src": "https://prod.antarctica21.com/journal/introducing-the-antarctica21-app"
+    }
+   ],
+   "cities": [],
+   "note": "Bei Pauschalreisen holt der Veranstalter die Genehmigung ein, Individualreisende beantragen sie selbst beim Umweltbundesamt.",
+   "src": "https://www.umweltbundesamt.de/themen/nachhaltigkeit-strategien-internationales/antarktis/antarktisreisende",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "AS",
+   "name": "Amerikanisch-Samoa",
+   "flag": "🇦🇸",
+   "apps": [
+    {
+     "name": "NPS App",
+     "cat": "tourism",
+     "pkg": "gov.nps.mobileapp",
+     "note": "Offizielle Nationalpark-App, Inhalte offline speicherbar",
+     "ess": true,
+     "src": "https://www.nps.gov/subjects/digital/nps-apps.htm"
+    },
+    {
+     "name": "Hawaiian Airlines",
+     "cat": "flights",
+     "pkg": "com.hawaiianairlines.app",
+     "note": "Buchung, Check-in und Bordkarte für Flüge nach Pago Pago",
+     "src": "https://play.google.com/store/apps/details?id=com.hawaiianairlines.app&hl=en_NZ"
+    },
+    {
+     "name": "Talofa Eats",
+     "cat": "delivery",
+     "note": "Lokaler Essenslieferdienst auf Tutuila, Zahlung per Karte",
+     "src": "https://apps.apple.com/us/app/talofa-eats/id1621982780"
+    }
+   ],
+   "cities": [],
+   "note": "Deutsche brauchen vorab eine Online-Genehmigung (Entry Permit Waiver), mindestens 48 Stunden vor Abflug, gilt bis 30 Tage.",
+   "src": "https://www.legalaffairs.as.gov/copy-of-entry-permit-waiver-program",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1980 legal, Ehen werden vor Ort nicht geschlossen, die Gesellschaft ist religiös und eher konservativ.",
+   "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_American_Samoa",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "NZ",
+   "name": "Neuseeland",
+   "flag": "🇳🇿",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Größter Fahrdienst, in kleinen Orten Alternative planen",
+     "ess": true,
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Fahrdienst in drei Städten, Preis mit Uber vergleichen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "YourRide",
+     "cat": "taxi",
+     "pkg": "nz.co.zoomy.zoomy",
+     "note": "Taxi-Netz mit Vorbestellung, auch in Regionen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung in vielen Städten und Regionen",
+     "ess": true,
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "DoorDash",
+     "cat": "delivery",
+     "pkg": "com.dd.doordash",
+     "note": "Lieferung je nach Adresse, Gesamtpreis vergleichen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Delivereasy",
+     "cat": "delivery",
+     "pkg": "nz.co.delivereasy",
+     "note": "Lokaler Lieferdienst, auch in kleineren Städten",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "First Table",
+     "cat": "delivery",
+     "pkg": "com.firsttable.live",
+     "note": "Restauranttische zu ruhigen Zeiten mit Rabatt",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Facebook Messenger",
+     "cat": "misc",
+     "pkg": "com.facebook.orca",
+     "note": "Kontakt zu Betrieben über deren Facebook-Seiten",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Plan My Walk",
+     "cat": "maps",
+     "pkg": "nz.org.mountainsafety.planmywalk",
+     "note": "Offizielle Wanderplanung mit Warnungen und Wetter",
+     "ess": true,
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "CamperMate",
+     "cat": "maps",
+     "pkg": "nz.co.campermate",
+     "note": "Camping- und Stellplätze auch offline finden",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Rankers Camping NZ",
+     "cat": "maps",
+     "pkg": "nz.co.rankers.freecampingnz",
+     "note": "Campingverzeichnis, Schilder vor Ort beachten",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "NZTA Journey Planner",
+     "cat": "maps",
+     "note": "Offizielle Straßenlage und Sperrungen prüfen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Transit App",
+     "cat": "transit",
+     "pkg": "com.thetransitapp.droid",
+     "note": "ÖPNV-Planer für mehrere Regionen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Club+",
+     "cat": "shopping",
+     "pkg": "nz.co.clubplus.app",
+     "note": "Treueprogramm für New World, PAK'nSAVE, Four Square",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Everyday Rewards",
+     "cat": "shopping",
+     "pkg": "com.woolworths.rewards",
+     "note": "Treueprogramm von Woolworths",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Bookme",
+     "cat": "tourism",
+     "pkg": "air.com.wBOOKMEDISCOUNTS7734925",
+     "note": "Aktivitäten und Attraktionen mit Rabatt buchen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "DOC Booking Service",
+     "cat": "tourism",
+     "note": "Offizielle Buchung für DOC-Hütten und Campingplätze",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Wise",
+     "cat": "payment",
+     "pkg": "com.transferwise.android",
+     "note": "Mehrwährungskonto für günstiges Bezahlen",
+     "use": "limited",
+     "req": "Konto im Heimatland eröffnen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Air NZ",
+     "cat": "flights",
+     "pkg": "nz.co.airnz.mpass",
+     "note": "Offizielle Airline-App mit Buchung und Bordkarte",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Jetstar",
+     "cat": "flights",
+     "pkg": "com.ink.jetstar.mobile.app",
+     "note": "Offizielle App für ausgewählte Inlandsflüge",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "InterCity",
+     "cat": "rail",
+     "note": "Landesweites Fernbusnetz, Plätze früh buchen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Interislander",
+     "cat": "rail",
+     "note": "Fähre über die Cook Strait, Hinweise vorab prüfen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Bluebridge Cook Strait Ferries",
+     "cat": "rail",
+     "note": "Zweite Fähre über die Cook Strait, Check-in beachten",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "NZTD",
+     "cat": "entry",
+     "pkg": "nz.govt.mbie.td",
+     "note": "Pflichterklärung zur Einreise vor der Passkontrolle",
+     "ess": true,
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "NZeTA",
+     "cat": "entry",
+     "pkg": "nz.govt.mbie.eta",
+     "note": "Offizielle App für die Pflicht-NZeTA, günstiger als Web",
+     "ess": true,
+     "src": "https://www.immigration.govt.nz/about-us/news-centre/requesting-a-new-zealand-electronic-travel-authority"
+    },
+    {
+     "name": "MetService",
+     "cat": "safety",
+     "pkg": "com.metservice.kryten",
+     "note": "Offizielles Wetter und Unwetterwarnungen",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "GeoNet Quakes",
+     "cat": "safety",
+     "pkg": "nz.org.geonet.quake",
+     "note": "Offizielle Erdbebeninfos in Echtzeit",
+     "src": "https://www.bento.travel/new-zealand"
+    },
+    {
+     "name": "Cityhop",
+     "cat": "carshare",
+     "pkg": "com.kinto.nz.prod",
+     "note": "Carsharing in mehreren Städten, vorab buchbar",
+     "use": "limited",
+     "req": "Ab 21, Führerschein auf Englisch, SMS-Empfang nötig",
+     "src": "https://www.cityhop.co.nz/international-travelers"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Auckland",
+     "match": [
+      "Auckland"
+     ],
+     "apps": [
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "pkg": "ee.mtakso.client",
+       "note": "Fahrdienst nur in Auckland, Abholzeit prüfen",
+       "src": "https://www.bento.travel/new-zealand"
+      },
+      {
+       "name": "AT Mobile",
+       "cat": "transit",
+       "pkg": "nz.govt.at.atmobile",
+       "note": "Offizielle ÖPNV-App für Auckland mit AT HOP",
+       "ess": true,
+       "src": "https://www.bento.travel/new-zealand"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "Leih-E-Scooter und E-Bikes",
+       "src": "https://www.aucklandcouncil.govt.nz/en/licences-regulations/e-scooter-licences-regulations-auckland.html"
+      },
+      {
+       "name": "Flamingo",
+       "cat": "micro",
+       "note": "Leih-E-Scooter und E-Bikes",
+       "src": "https://www.aucklandcouncil.govt.nz/en/licences-regulations/e-scooter-licences-regulations-auckland.html"
+      },
+      {
+       "name": "AC Parking",
+       "cat": "parking",
+       "note": "Parken der Stadt zahlen, früher AT Park",
+       "src": "https://at.govt.nz/driving-and-parking/pay-for-parking"
+      }
+     ]
+    },
+    {
+     "name": "Christchurch",
+     "match": [
+      "Christchurch"
+     ],
+     "apps": [
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "Offizieller E-Scooter-Anbieter der Stadt",
+       "src": "https://newshub.medianet.com.au/2025/01/lime-selected-as-christchurch-and-aucklands-long-term-transportation-partner/82532"
+      },
+      {
+       "name": "Transit App",
+       "cat": "transit",
+       "pkg": "com.thetransitapp.droid",
+       "note": "Von Metro empfohlen für Echtzeit-Busdaten",
+       "src": "https://www.metroinfo.co.nz/travel-information/real-time-bus-information-apps/"
+      },
+      {
+       "name": "PayMyPark",
+       "cat": "parking",
+       "pkg": "nz.co.adriley.paymypark",
+       "note": "Parken im Zentrum zahlen, löste TXT A Park ab",
+       "src": "https://www.chrislynchmedia.com/?p=3259"
+      }
+     ]
+    },
+    {
+     "name": "Queenstown",
+     "match": [
+      "Queenstown"
+     ],
+     "apps": [
+      {
+       "name": "Transit App",
+       "cat": "transit",
+       "pkg": "com.thetransitapp.droid",
+       "note": "Orbus-Busse planen und live verfolgen",
+       "src": "https://www.orc.govt.nz/public-transport/queenstown-buses-and-ferries"
+      },
+      {
+       "name": "PayMyPark",
+       "cat": "parking",
+       "pkg": "nz.co.adriley.paymypark",
+       "note": "Städtische Parkplätze zahlen, Gast mit 50c Gebühr",
+       "src": "https://qldc.govt.nz/services/transport-and-parking/parking/paymypark-smartphone-app"
+      }
+     ]
+    },
+    {
+     "name": "Rotorua",
+     "match": [
+      "Rotorua"
+     ],
+     "apps": [
+      {
+       "name": "PayStay",
+       "cat": "parking",
+       "note": "Städtische Parkplätze per App zahlen",
+       "src": "https://www.rotorualakescouncil.nz/roads-transport/parking/paying-for-parking"
+      }
+     ]
+    },
+    {
+     "name": "Wellington",
+     "match": [
+      "Wellington"
+     ],
+     "apps": [
+      {
+       "name": "Metlink",
+       "cat": "transit",
+       "pkg": "nz.org.metlink.app",
+       "note": "Offizielle Fahrpläne für Bus, Zug und Fähre",
+       "src": "https://www.metlink.org.nz/news-and-updates/news/get-on-with-it-credit-and-debit-card-payment-for-metlink-services-is-here"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "Leih-E-Scooter, E-Bikes seit Frühjahr 2026",
+       "src": "https://futurefive.co.nz/story/lime-rolls-out-shared-e-scooters-e-bikes-in-wellington"
+      },
+      {
+       "name": "Flamingo",
+       "cat": "micro",
+       "note": "Leih-E-Scooter und E-Bikes",
+       "src": "https://wellington.govt.nz/climate-change-sustainability-environment/sustainable-living/low-carbon-transport/scooters-and-bikes"
+      },
+      {
+       "name": "Beam",
+       "cat": "micro",
+       "note": "Leih-E-Scooter und E-Bikes",
+       "src": "https://wellington.govt.nz/climate-change-sustainability-environment/sustainable-living/low-carbon-transport/scooters-and-bikes"
+      },
+      {
+       "name": "Snapper",
+       "cat": "transit",
+       "note": "Snapper-Karte aufladen, für Pässe und Rabatte",
+       "src": "https://www.metlink.org.nz/news-and-updates/news/get-on-with-it-credit-and-debit-card-payment-for-metlink-services-is-here"
+      },
+      {
+       "name": "PayMyPark",
+       "cat": "parking",
+       "pkg": "nz.co.adriley.paymypark",
+       "note": "Straßenparken im Zentrum per App zahlen",
+       "src": "https://wellington.govt.nz/parking-fees"
+      }
+     ]
+    }
+   ],
+   "note": "Strenge Biosecurity-Regeln: Lebensmittel, Pflanzen und Outdoor-Ausrüstung im Zweifel deklarieren, sonst droht eine Strafe von 400 NZD.",
+   "src": "https://www.bento.travel/new-zealand",
+   "lgbtq_note": "Das Auswärtige Amt nennt für Neuseeland keine besonderen Strafrechtsbestimmungen für LGBTIQ-Reisende.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/neuseeland-node/neuseelandsicherheit/220146",
    "checked": "2026-11-17"
   }
  ]
