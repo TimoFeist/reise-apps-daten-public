@@ -2,26 +2,6 @@
  "continent": "SA",
  "todo": [
   {
-   "code": "CO",
-   "en": "Colombia",
-   "slug": "colombia"
-  },
-  {
-   "code": "BO",
-   "en": "Bolivia",
-   "slug": "bolivia"
-  },
-  {
-   "code": "EC",
-   "en": "Ecuador",
-   "slug": "ecuador"
-  },
-  {
-   "code": "FK",
-   "en": "Falkland Islands (Malvinas)",
-   "slug": "falkland-islands-malvinas"
-  },
-  {
    "code": "GF",
    "en": "French Guiana",
    "slug": "french-guiana"
@@ -77,6 +57,26 @@
    "code": "PE",
    "en": "Peru",
    "slug": "peru"
+  },
+  {
+   "code": "CO",
+   "en": "Colombia",
+   "slug": "colombia"
+  },
+  {
+   "code": "BO",
+   "en": "Bolivia",
+   "slug": "bolivia"
+  },
+  {
+   "code": "EC",
+   "en": "Ecuador",
+   "slug": "ecuador"
+  },
+  {
+   "code": "FK",
+   "en": "Falkland Islands (Malvinas)",
+   "slug": "falkland-islands-malvinas"
   }
  ]
 }
