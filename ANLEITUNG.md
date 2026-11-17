@@ -34,6 +34,8 @@ Im Pflege-Modus pro Lauf eine weltweite App ohne Länderliste (z. B. Lime, Voi, 
 
 ## Parallel arbeiten (mehrere Aufgaben gleichzeitig)
 
+* Eine alte `queue.json` im Hauptordner ist veraltet: ignorieren und, falls vorhanden, mit `git rm queue.json` entfernen. Länder darin, die schon eine aktuelle `raw/<ISO>.json` haben, gelten als erledigt.
+
 * Jede Aufgabe arbeitet nur mit ihrem Kontinent: `queue/europa.json`, `nordamerika`, `suedamerika`, `asien`, `afrika`, `ozeanien`.
 * Aufgaben schreiben **nur** `raw/<ISO>.json` und ihre eigene `queue/<kontinent>.json`. **Nie `data.json` committen**, die baut die GitHub Action „Daten zusammenführen“ nach jedem Push automatisch neu.
 * Vor dem Commit prüfen: `python3 merge_raw.py --check` muss ohne Fehler durchlaufen. Danach `git checkout -- data.json`, falls sich etwas geändert hat.
