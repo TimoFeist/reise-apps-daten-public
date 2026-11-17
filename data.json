@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 18:37",
+ "version": "2026-11-17 18:47",
  "categories": [
   {
    "id": "entry",
@@ -6964,6 +6964,240 @@
    "src": "https://www.bento.travel/tanzania",
    "lgbtq_note": "Homosexuelle Handlungen werden mit sehr hohen Gefängnisstrafen bestraft, das gilt auch für Ausländer.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tansaniasicherheit/208662",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "AG",
+   "name": "Antigua und Barbuda",
+   "flag": "🇦🇬",
+   "apps": [
+    {
+     "name": "Swyft Taxi",
+     "cat": "taxi",
+     "note": "Erste Fahrdienst-App, Fahrer mit Taxilizenz",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto muss vor der ersten Fahrt freigegeben werden",
+     "src": "https://apps.apple.com/app/id6633433179"
+    },
+    {
+     "name": "Ferryhopper",
+     "cat": "rail",
+     "note": "Fährtickets zwischen Antigua und Barbuda buchen",
+     "src": "https://www.ferryhopper.com/en/ferry-routes/direct/antigua-barbuda"
+    },
+    {
+     "name": "AllMart",
+     "cat": "delivery",
+     "note": "Lokaler Lieferdienst für Essen und Einkäufe",
+     "use": "limited",
+     "req": "Anmeldung per Telefonnummer nötig",
+     "src": "https://apps.apple.com/us/app/id1503116652"
+    },
+    {
+     "name": "Antigua Eats",
+     "cat": "misc",
+     "note": "Restaurantführer mit Menüs und Taxinummern, kostenpflichtig",
+     "src": "https://apps.apple.com/dm/app/antigua-eats/id6449305262"
+    },
+    {
+     "name": "Subway Antigua",
+     "cat": "delivery",
+     "note": "Vorbestellen und in der Filiale abholen",
+     "src": "https://apps.apple.com/ag/app/subway-antigua/id1613950773"
+    }
+   ],
+   "cities": [],
+   "note": "Der deutsche Führerschein reicht nicht, ein Urlaubsführerschein kostet etwa 50 XCD bei Polizei oder Mietwagenfirma.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042",
+   "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Handlungen sind nicht mehr strafbar, offene Zärtlichkeiten in der Öffentlichkeit können aber negative Aufmerksamkeit erregen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "AI",
+   "name": "Anguilla",
+   "flag": "🇦🇮",
+   "apps": [
+    {
+     "name": "Xcape",
+     "cat": "tourism",
+     "note": "Offizielle Reise-App des Tourist Board mit Karte",
+     "ess": true,
+     "src": "https://anguillafocus.com/anguilla-tourist-board-unveils-taste-feel-live-summer-campaign-and-app/"
+    },
+    {
+     "name": "Axa Eats",
+     "cat": "delivery",
+     "note": "Essen von Restaurants auf der Insel bestellen",
+     "src": "https://apps.apple.com/us/app/axa-eats/id1575674746"
+    }
+   ],
+   "cities": [],
+   "note": "Uber und andere Fahrdienste gibt es nicht. Taxis haben kein Taxameter, daher den Gesamtpreis vor der Fahrt vereinbaren.",
+   "src": "https://www.travelwithhello.com/blog/anguilla-transport-guide",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen unter Erwachsenen sind seit 2001 legal, die Ehe bleibt Mann und Frau vorbehalten.",
+   "lgbtq_src": "https://equaldex.com/region/anguilla",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "CU",
+   "name": "Kuba",
+   "flag": "🇨🇺",
+   "apps": [
+    {
+     "name": "La Nave",
+     "cat": "taxi",
+     "pkg": "app.lanave.user",
+     "note": "Wichtigste Taxi-App Kubas, vor allem in Havanna",
+     "use": "no",
+     "req": "Kubanische Telefonnummer für die Registrierung nötig",
+     "src": "https://www.bento.travel/cuba"
+    },
+    {
+     "name": "Mandao",
+     "cat": "delivery",
+     "pkg": "com.mandao.delivery",
+     "note": "Kubanischer Lieferdienst für Essen und Einkäufe",
+     "use": "limited",
+     "req": "Ausländische Karte nicht sicher, Barzahlung und Verfügbarkeit vorab prüfen",
+     "src": "https://www.bento.travel/cuba"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karten und Routen, Kuba vorab laden",
+     "ess": true,
+     "src": "https://www.bento.travel/cuba"
+    },
+    {
+     "name": "AlaMesa",
+     "cat": "delivery",
+     "pkg": "com.alamesacuba.app",
+     "note": "Offline-Verzeichnis kubanischer Restaurants mit Menüs",
+     "src": "https://www.bento.travel/cuba"
+    },
+    {
+     "name": "Maps.me",
+     "cat": "maps",
+     "note": "Weitere Offline-Karte als Alternative",
+     "src": "https://www.bento.travel/cuba/navigation"
+    },
+    {
+     "name": "Transfermóvil",
+     "cat": "payment",
+     "note": "Kubanische Bezahl- und Banking-App",
+     "use": "no",
+     "req": "Kubanisches Bankkonto und lokale Registrierung nötig",
+     "src": "https://www.bento.travel/cuba/payments"
+    },
+    {
+     "name": "EnZona",
+     "cat": "payment",
+     "note": "Kubanische Wallet für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Kubanisches Bankkonto und lokale Registrierung nötig",
+     "src": "https://www.bento.travel/cuba/payments"
+    },
+    {
+     "name": "Viajando",
+     "cat": "rail",
+     "note": "Staatliche App für Bus- und Zugtickets",
+     "use": "no",
+     "req": "Ticketverkauf per App seit Juni 2026 bis auf Weiteres ausgesetzt",
+     "src": "https://www.directoriocubano.info/?p=139239"
+    }
+   ],
+   "cities": [],
+   "note": "Visa und Mastercard funktionieren seit Juni 2026 nicht mehr, daher genug Bargeld für die ganze Reise mitnehmen.",
+   "src": "https://www.bento.travel/cuba",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Toleranz in der Bevölkerung ist vor allem auf dem Land aber gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/212208",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "DO",
+   "name": "Dominikanische Republik",
+   "flag": "🇩🇴",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Verbreiteter Fahrdienst in Städten und an Flughäfen",
+     "ess": true,
+     "src": "https://www.bento.travel/dominican-republic"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis wird verhandelt, meist Barzahlung",
+     "src": "https://www.bento.travel/dominican-republic"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Ausweich-App, wenn Uber wenig Fahrer hat",
+     "src": "https://www.bento.travel/dominican-republic"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Marktführer für Essen, Einkäufe und Apotheke",
+     "ess": true,
+     "src": "https://www.bento.travel/dominican-republic"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung über das Uber-Konto",
+     "src": "https://www.bento.travel/dominican-republic"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Live-Verkehr und Gefahrenmeldungen",
+     "src": "https://www.bento.travel/dominican-republic"
+    },
+    {
+     "name": "PoliturApp",
+     "cat": "safety",
+     "note": "Notruf-App der Touristenpolizei mit Chat, auch Deutsch",
+     "src": "https://apps.apple.com/do/app/politurapp/id1607779696"
+    },
+    {
+     "name": "Alerta COE",
+     "cat": "safety",
+     "note": "Offizielle Warnungen des Krisenzentrums je Provinz",
+     "src": "https://apps.apple.com/us/app/id1490912894"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Santo Domingo",
+     "match": [
+      "Santo Domingo"
+     ],
+     "apps": [
+      {
+       "name": "Moovit",
+       "cat": "transit",
+       "note": "Routen für Metro, Seilbahn und OMSA-Busse",
+       "src": "https://moovitapp.com/index/en/public_transit-Santo_Domingo-5979"
+      }
+     ]
+    }
+   ],
+   "note": "Karten nie aus den Augen lassen, Geldautomaten nur innen in Banken nutzen und nachts nicht allein unterwegs sein.",
+   "src": "https://www.bento.travel/dominican-republic",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die Akzeptanz in der Bevölkerung ist vor allem auf dem Land aber gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node/dominikanischerepubliksicherheit/206146",
    "checked": "2026-11-17"
   }
  ]
