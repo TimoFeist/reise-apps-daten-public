@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 18:47",
+ "version": "2026-11-17 18:57",
  "categories": [
   {
    "id": "entry",
@@ -7198,6 +7198,493 @@
    "src": "https://www.bento.travel/dominican-republic",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die Akzeptanz in der Bevölkerung ist vor allem auf dem Land aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node/dominikanischerepubliksicherheit/206146",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BO",
+   "name": "Bolivien, Plurinationaler Staat",
+   "flag": "🇧🇴",
+   "apps": [
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis vorschlagen; in vielen Großstädten verfügbar",
+     "ess": true,
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Festpreis-Taxi und Essenslieferung in drei Großstädten",
+     "ess": true,
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Optional; Fahrer nehmen Aufträge oft seltener an",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Lieferdienst für Restaurants und Apotheken",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Karte wird teils abgelehnt, Bargeld bereithalten",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Moreta Pay",
+     "cat": "payment",
+     "pkg": "com.moreta.moretamobile",
+     "note": "Bezahlen per QR bei Händlern ohne lokales Konto",
+     "use": "limited",
+     "req": "Identitätsprüfung und Guthaben vorab nötig",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "WanderWallet",
+     "cat": "payment",
+     "pkg": "com.borderlesslimited.wanderwallet",
+     "note": "Wallet für QR-Zahlungen ohne bolivianisches Konto",
+     "use": "limited",
+     "req": "Identitätsprüfung und Guthaben vorab nötig",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karten ohne Konto, keine Live-Sperrungen",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Western Union",
+     "cat": "payment",
+     "pkg": "com.westernunion.android.mtapp",
+     "note": "Geld senden und mit Pass abholen; Gebühren vergleichen",
+     "use": "limited",
+     "req": "Versand nur aus unterstützten Ländern",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Busbud",
+     "cat": "rail",
+     "pkg": "com.busbud.android",
+     "note": "Suche und Buchung ausgewählter Fernbusse",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Tanqueo",
+     "cat": "misc",
+     "note": "Zeigt Tankstellen mit verfügbarem Benzin oder Diesel",
+     "src": "https://www.bento.travel/bolivia"
+    },
+    {
+     "name": "Hertz",
+     "cat": "carshare",
+     "pkg": "com.hertz.android.digital",
+     "note": "Mietwagen an den Flughäfen La Paz und Santa Cruz",
+     "src": "https://www.hertz.com/us/en/location/bolivia/lapaz/lpbt51"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Cochabamba",
+     "match": [
+      "Cochabamba"
+     ],
+     "apps": [
+      {
+       "name": "Trufi",
+       "cat": "transit",
+       "pkg": "app.trufi.navigator",
+       "note": "Offline-Routen für Micros und Trufis",
+       "src": "https://www.bento.travel/bolivia"
+      }
+     ]
+    },
+    {
+     "name": "La Paz",
+     "match": [
+      "La Paz"
+     ],
+     "apps": [
+      {
+       "name": "Yala Mi Teleférico",
+       "cat": "transit",
+       "pkg": "bo.miteleferico.mobiletelefericovirtual",
+       "note": "Offizielle virtuelle Seilbahnkarte für La Paz und El Alto",
+       "use": "limited",
+       "req": "Konto nötig, Android mit NFC; sonst Ticket am Schalter",
+       "src": "https://www.bento.travel/bolivia"
+      },
+      {
+       "name": "La Paz Bus",
+       "cat": "transit",
+       "note": "Offizielle App der Stadt: Routen, Ankunft, Tarife PumaKatari",
+       "src": "https://apps.apple.com/app/id1534623794"
+      },
+      {
+       "name": "Visit La Paz",
+       "cat": "tourism",
+       "note": "Offizielle Tourismus-App der Stadt mit Karten und Tipps",
+       "src": "https://apps.apple.com/us/app/id1471153727"
+      }
+     ]
+    }
+   ],
+   "note": "Bargeld in Bolivianos mitnehmen, da Märkte, kleine Läden und Taxis ausländische Karten oft nicht annehmen.",
+   "src": "https://www.bento.travel/bolivia",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Verfassung verbietet Diskriminierung; im Hochland ist die Gesellschaft konservativer als in Santa Cruz, eine gleichgeschlechtliche Ehe ist nicht möglich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bolivien-node/boliviensicherheit/213428",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "CO",
+   "name": "Kolumbien",
+   "flag": "🇨🇴",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Erste Wahl in vielen Städten; Kennzeichen prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/colombia"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Breite Alternative in rund 20 Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/colombia"
+    },
+    {
+     "name": "Cabify",
+     "cat": "taxi",
+     "pkg": "com.cabify.rider",
+     "note": "Reserve in sechs Städten",
+     "src": "https://www.bento.travel/colombia"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Preis selbst vorschlagen; in Großstädten oft viele Fahrer",
+     "src": "https://www.bento.travel/colombia"
+    },
+    {
+     "name": "Taxis Libres",
+     "cat": "taxi",
+     "pkg": "com.cotech.taxislibres",
+     "note": "Lizenzierte Taxis in sechs Städten; Preis vorher klären",
+     "src": "https://www.bento.travel/colombia"
+    },
+    {
+     "name": "Rappi",
+     "cat": "delivery",
+     "pkg": "com.grability.rappi",
+     "note": "Essen, Einkauf und Apotheke; Pin genau am Eingang setzen",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Karte wird nicht immer akzeptiert",
+     "src": "https://www.bento.travel/colombia/food-delivery"
+    },
+    {
+     "name": "DiDi Food",
+     "cat": "delivery",
+     "pkg": "com.xiaojukeji.didi.global.customer",
+     "note": "Alternative in sieben Städten; Karte oder bar",
+     "use": "limited",
+     "req": "Ausländische Karte wird nicht immer akzeptiert",
+     "src": "https://www.bento.travel/colombia/food-delivery"
+    },
+    {
+     "name": "Localiza",
+     "cat": "carshare",
+     "note": "Mietwagen per App buchen, inklusive digitaler Fahrzeugabnahme",
+     "req": "Ab 21 Jahren, Reisepass, Führerschein und Kreditkarte nötig",
+     "src": "https://colombiamove.com/blog/es/how-to-rent-car-colombia-localiza-guide/"
+    },
+    {
+     "name": "Nequi",
+     "cat": "payment",
+     "note": "Verbreitete Bezahl- und Überweisungs-App",
+     "use": "no",
+     "req": "Cédula de extranjería und kolumbianische Handynummer nötig",
+     "src": "https://colombiamove.com/blog/es/nequi-daviplata-guide-foreigners-colombia/"
+    },
+    {
+     "name": "Daviplata",
+     "cat": "payment",
+     "note": "Digitale Geldbörse der Bank Davivienda",
+     "use": "no",
+     "req": "Kolumbianischer Ausweis (CE oder PPT) und lokale Nummer nötig",
+     "src": "https://colombiamove.com/blog/es/nequi-daviplata-guide-foreigners-colombia/"
+    },
+    {
+     "name": "redBus",
+     "cat": "rail",
+     "pkg": "in.redbus.android",
+     "note": "Fernbusse zwischen Städten vergleichen und buchen",
+     "ess": true,
+     "src": "https://www.bento.travel/colombia"
+    },
+    {
+     "name": "Pinbus",
+     "cat": "rail",
+     "pkg": "com.pinbus.app",
+     "note": "Fernbusportal mit zusätzlichen Abfahrten",
+     "src": "https://www.bento.travel/colombia"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bogota",
+     "match": [
+      "Bogota"
+     ],
+     "apps": [
+      {
+       "name": "Tembici",
+       "cat": "micro",
+       "note": "Leihräder in Bogotá; offene Stationen in der App prüfen",
+       "use": "limited",
+       "req": "Konto mit E-Mail und Karte; ausländische Karte nicht bestätigt",
+       "src": "https://colombiamove.com/blog/es/colombia-city-bike-share-encicla-tembici-expat-guide/"
+      },
+      {
+       "name": "TransMiApp",
+       "cat": "transit",
+       "pkg": "com.nexura.transmilenio",
+       "note": "Offizielle App für TransMilenio: Routen, Ankunftszeiten, Saldo",
+       "ess": true,
+       "use": "limited",
+       "req": "Aufladen der TuLlave-Karte per PSE nur mit kolumbianischem Bankkonto",
+       "src": "https://bogota.gov.co/mi-ciudad/movilidad/transmiapp-se-renueva-para-mejores-viajes-en-transmilenio-bogota-2026"
+      }
+     ]
+    },
+    {
+     "name": "Cali",
+     "match": [
+      "Cali"
+     ],
+     "apps": [
+      {
+       "name": "MIO App",
+       "cat": "transit",
+       "note": "Offizielle App des MIO: Echtzeit, Saldo, Aufladepunkte",
+       "src": "https://www.cali.gov.co/movilidad/publicaciones/144513/el-mio-lanza-su-propia-aplicacion-movil-con-informacion-de-rutas-en-tiempo-real-y-otros-servicios/"
+      }
+     ]
+    },
+    {
+     "name": "Cartagena",
+     "match": [
+      "Cartagena"
+     ],
+     "apps": [
+      {
+       "name": "MiBus Transcaribe",
+       "cat": "transit",
+       "pkg": "br.com.m2m.meuonibus.transcaribe",
+       "note": "Offizielle Transcaribe-App: Busse live, Saldo, Routenplaner",
+       "src": "https://www.eluniversal.com.co/cartagena/2025/04/24/mibus-transcaribe-consulte-rutas-saldos-y-tiempos-desde-su-celular/"
+      }
+     ]
+    },
+    {
+     "name": "Medellin",
+     "match": [
+      "Medellin"
+     ],
+     "apps": [
+      {
+       "name": "EnCicla",
+       "cat": "micro",
+       "note": "Öffentliche Leihräder im Großraum Medellín, nur werktags",
+       "use": "no",
+       "req": "Antrag mit Ausweis, Selfie und lokaler Nebenkostenrechnung",
+       "src": "https://colombiamove.com/blog/es/colombia-city-bike-share-encicla-tembici-expat-guide/"
+      },
+      {
+       "name": "Metro de Medellín",
+       "cat": "transit",
+       "pkg": "co.gov.metrodemedellin",
+       "note": "Offizielle Metro-App: Routen, Linienstatus, Cívica-Saldo",
+       "src": "https://metrodemedellin.gov.co/en/al-dia/descarga-nuestra-app"
+      }
+     ]
+    }
+   ],
+   "note": "Check-MIG nur auf der offiziellen Regierungsseite ausfüllen, nie an Vermittler zahlen, kleine Pesoscheine für den Nahverkehr dabeihaben.",
+   "src": "https://www.bento.travel/colombia",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Akzeptanz ist vor allem auf dem Land gering; das Auswärtige Amt warnt vor Raubüberfällen nach Treffen über Dating-Apps.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/KolumbienSicherheit.html",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "EC",
+   "name": "Ecuador",
+   "flag": "🇪🇨",
+   "apps": [
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Preis selbst vorschlagen, Fahrer nach Bewertung wählen",
+     "ess": true,
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Einfachste Wahl für Besucher in mehreren Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Zum Preisvergleich in Quito und Guayaquil",
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "Ktaxi",
+     "cat": "taxi",
+     "pkg": "com.kradac.ktaxi",
+     "note": "Vermittelt Funktaxis, auch in kleineren Orten",
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Größtes Liefernetz für Essen und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung mit dem vorhandenen Uber-Konto",
+     "ess": true,
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "Rappi",
+     "cat": "delivery",
+     "pkg": "com.grability.rappi",
+     "note": "Essen und Einkäufe, Alternative in Großstädten",
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Live-Verkehrslage für Autofahrer in Großstädten",
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Routenplaner für Busse als zweite Option",
+     "src": "https://www.bento.travel/from/usa/to/ecuador"
+    },
+    {
+     "name": "ECU 911",
+     "cat": "safety",
+     "pkg": "com.ecu911",
+     "note": "Offizielle Notruf-App, sendet den Standort mit",
+     "use": "limited",
+     "req": "Registrierung mit Reisepass und Handynummer; Notruf 911 geht immer",
+     "src": "https://www.primicias.ec/noticias/sociedad/reportar-emergencias-robos-accidentes-aplicacion-ecu911"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Cuenca",
+     "match": [
+      "Cuenca"
+     ],
+     "apps": [
+      {
+       "name": "AzuTaxi",
+       "cat": "taxi",
+       "pkg": "com.kradac.azutaxi",
+       "note": "Taxibestellung in Cuenca und der Provinz Azuay",
+       "src": "https://www.bento.travel/from/usa/to/ecuador"
+      },
+      {
+       "name": "AppSERT",
+       "cat": "parking",
+       "note": "Offizielle App der EMOV EP für Parkzonen in Cuenca",
+       "use": "limited",
+       "req": "Benutzerkonto nötig, Anmeldung für Ausländer nicht belegt",
+       "src": "https://apps.apple.com/ec/app/appsert/id1444755840"
+      }
+     ]
+    },
+    {
+     "name": "Quito",
+     "match": [
+      "Quito"
+     ],
+     "apps": [
+      {
+       "name": "Quito Nos Mueve",
+       "cat": "transit",
+       "pkg": "com.busmatick.busapp_quito",
+       "note": "Offizielle App für Metro, Trolebús, Ecovía und QuitoBici",
+       "ess": true,
+       "src": "https://www.bento.travel/from/usa/to/ecuador"
+      },
+      {
+       "name": "Enterprise",
+       "cat": "carshare",
+       "note": "Mietwagen direkt am Flughafen Quito",
+       "src": "https://www.enterprise.com/es/car-rental-locations/ec/aeropuerto-internacional-de-quito-kx05.html"
+      }
+     ]
+    }
+   ],
+   "note": "Bargeld in kleinen, unbeschädigten Dollarscheinen mitnehmen, weil Kartenzahlung und Netz oft ausfallen.",
+   "src": "https://www.bento.travel/from/usa/to/ecuador",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist erlaubt und Diskriminierung im Arbeitsrecht verboten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "FK",
+   "name": "Falklandinseln (Malwinen)",
+   "flag": "🇫🇰",
+   "apps": [
+    {
+     "name": "Explore Falkland Islands",
+     "cat": "tourism",
+     "pkg": "com.outdooractive.falkland",
+     "note": "Offizielle Gratis-App mit Wanderrouten und Offline-Karten",
+     "ess": true,
+     "src": "https://www.falklandislands.com/plan-your-trip/visitor-information/explore-falkland-islands-app"
+    }
+   ],
+   "cities": [],
+   "note": "Taxis über lokale Firmen in Stanley buchen; Mietwagen gibt es nur zum Selbstfahren und meist ohne Geländefahrten.",
+   "src": "https://www.falklandislands.com/plan-your-trip/getting-around/travel-by-road",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.",
+   "lgbtq_src": "https://thepinknews.com/2017/04/12/falkland-islands-introduces-full-marriage-equality",
    "checked": "2026-11-17"
   }
  ]
