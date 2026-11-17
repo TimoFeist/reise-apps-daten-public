@@ -27,5 +27,7 @@ Datendatei für die App **Reise-Apps**. Die App lädt `data.json` beim Start (h�
 
 ## Stand
 
-* Etappe 1: 27 Länder aus den Nova-Ordnern + Weltweit + Südafrika/Kenia (aus dem Afrika-Ordner).
-* Weitere Länder folgen in Etappen. Monatlich werden Links und Apps geprüft.
+* Grundlage: Timos eigene Apps aus seinen Nova-Ordnern (★) plus recherchierte Apps je Land.
+* Hauptquelle für die Länder: bento.travel (gepflegte Länderseiten, Stand 2026, mit Play-Store-Paketnamen). Jede App hat ihre Quelle in `src`.
+* Fertig aus der Hauptquelle: siehe `queue.json` → `done`. Offen: `queue.json` → `todo`.
+* Ablauf zum Ergänzen: `ANLEITUNG.md`, Zusammenführen mit `merge_raw.py`.

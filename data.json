@@ -354,7 +354,106 @@
      "name": "UK ETA",
      "cat": "entry",
      "note": "Offizielle App des Home Office für die ETA. Ob du eine brauchst: gov.uk/electronic-travel-authorisation",
-     "src": "https://www.gov.uk/electronic-travel-authorisation"
+     "src": "https://www.gov.uk/electronic-travel-authorisation",
+     "pkg": "uk.gov.HomeOffice.ho3"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Größte Fahrdienst-App, auch Belfast",
+     "ess": true,
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "FREE NOW",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "note": "Taxis, in London auch Black Cabs",
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "Just Eat",
+     "cat": "delivery",
+     "pkg": "com.justeat.app.uk",
+     "note": "Lieferung und Abholung landesweit",
+     "ess": true,
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "Deliveroo",
+     "cat": "delivery",
+     "pkg": "com.deliveroo.orderapp",
+     "note": "Essen und Einkäufe, stark in London",
+     "ess": true,
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "OS Maps",
+     "cat": "maps",
+     "pkg": "uk.co.ordnancesurvey.osmaps",
+     "note": "Wander- und Radkarten, offline",
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "Citymapper",
+     "cat": "transit",
+     "pkg": "com.citymapper.app.release",
+     "note": "Nahverkehr mit Echtzeit",
+     "ess": true,
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "Translink Planner",
+     "cat": "transit",
+     "pkg": "com.mdv.TranslinkCompanion",
+     "note": "Busse und Züge in Nordirland",
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "National Rail",
+     "cat": "rail",
+     "pkg": "uk.co.nationalrail.google",
+     "note": "Offizielle Bahnplanung mit Live-Daten",
+     "ess": true,
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "National Express",
+     "cat": "rail",
+     "pkg": "com.utrack.nationalexpress",
+     "note": "Fernbusse",
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "OpenTable",
+     "cat": "delivery",
+     "pkg": "com.opentable",
+     "note": "Restaurants reservieren",
+     "ess": true,
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "TheFork",
+     "cat": "delivery",
+     "pkg": "com.lafourchette.lafourchette",
+     "note": "Restaurants mit Rabatten",
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "Resy",
+     "cat": "delivery",
+     "pkg": "com.resy.android.prod",
+     "note": "Reservierungen, vor allem London",
+     "src": "https://www.bento.travel/united-kingdom"
+    },
+    {
+     "name": "Met Office Weather",
+     "cat": "safety",
+     "pkg": "uk.gov.metoffice.weather.android",
+     "note": "Offizielle Unwetterwarnungen",
+     "ess": true,
+     "src": "https://www.bento.travel/united-kingdom"
     }
    ],
    "cities": [
@@ -369,7 +468,8 @@
        "name": "TfL Go",
        "cat": "transit",
        "pkg": "uk.gov.tfl.gotfl",
-       "mine": true
+       "mine": true,
+       "ess": true
       }
      ]
     },
@@ -388,7 +488,9 @@
       }
      ]
     }
-   ]
+   ],
+   "note": "Vor Abreise die UK ETA für den genutzten Reisepass beantragen; Nordirland nutzt Translink statt National Rail.",
+   "src": "https://www.bento.travel/united-kingdom"
   },
   {
    "code": "DE",
@@ -721,7 +823,8 @@
     {
      "name": "Renfe",
      "cat": "rail",
-     "note": "Spanische Staatsbahn"
+     "note": "Spanische Staatsbahn",
+     "pkg": "com.renfeviajeros.ticket"
     },
     {
      "name": "iryo",
@@ -736,13 +839,57 @@
     {
      "name": "ALSA",
      "cat": "rail",
-     "note": "Fernbusse in Spanien"
+     "note": "Fernbusse in Spanien",
+     "pkg": "com.mo2o.alsa"
     },
     {
      "name": "FREE NOW",
      "cat": "taxi",
      "pkg": "taxi.android.client",
-     "note": "Laut Quellen beste Taxi-App in Barcelona"
+     "note": "Lizenztaxis in unterstützten Städten",
+     "src": "https://www.bento.travel/spain"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Verfügbarkeit je nach Stadt prüfen",
+     "src": "https://www.bento.travel/spain"
+    },
+    {
+     "name": "Just Eat",
+     "cat": "delivery",
+     "pkg": "com.justeat.app.uk",
+     "note": "Restaurant-Lieferung",
+     "src": "https://www.bento.travel/spain"
+    },
+    {
+     "name": "Citymapper",
+     "cat": "maps",
+     "pkg": "com.citymapper.app.release",
+     "note": "Routenplanung in unterstützten Städten",
+     "src": "https://www.bento.travel/spain"
+    },
+    {
+     "name": "BlaBlaCar",
+     "cat": "rail",
+     "pkg": "com.comuto",
+     "note": "Fahrgemeinschaften und Busse",
+     "src": "https://www.bento.travel/spain"
+    },
+    {
+     "name": "TheFork",
+     "cat": "delivery",
+     "pkg": "com.lafourchette.lafourchette",
+     "note": "Restaurants reservieren mit Aktionen",
+     "src": "https://www.bento.travel/spain"
+    },
+    {
+     "name": "AlertCops",
+     "cat": "safety",
+     "pkg": "com.alertcops4.app",
+     "note": "Offizieller Polizei-Chat, mehrsprachig",
+     "src": "https://www.bento.travel/spain"
     }
    ],
    "cities": [
@@ -795,7 +942,9 @@
       }
      ]
     }
-   ]
+   ],
+   "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht Pflicht, also nicht dafür zahlen.",
+   "src": "https://www.bento.travel/spain"
   },
   {
    "code": "IT",
@@ -832,7 +981,8 @@
      "name": "Just Eat",
      "cat": "delivery",
      "pkg": "com.justeat.app.it",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Satispay",
@@ -850,12 +1000,14 @@
      "name": "Trenitalia",
      "cat": "rail",
      "pkg": "com.lynxspa.prontotreno",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Italo",
      "cat": "rail",
-     "note": "Privater Hochgeschwindigkeitszug, oft günstiger als Frecciarossa"
+     "note": "Privater Hochgeschwindigkeitszug, oft günstiger als Frecciarossa",
+     "pkg": "it.italotreno"
     },
     {
      "name": "Moovit",
@@ -865,7 +1017,74 @@
     {
      "name": "FREE NOW",
      "cat": "taxi",
-     "pkg": "taxi.android.client"
+     "pkg": "taxi.android.client",
+     "note": "Lizenzierte Taxis, z. B. Rom und Mailand",
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "itTaxi",
+     "cat": "taxi",
+     "pkg": "it.ud.microtek.ITTaxi",
+     "note": "Lizenzierte Taxis in über 87 Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Meist nur Taxis oder Premium-Wagen",
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "appTaxi",
+     "cat": "taxi",
+     "pkg": "it.ud.microtek.AppTaxi",
+     "note": "Taxis in über 50 Städten, u. a. Florenz, Venedig",
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen, Lebensmittel, lokale Läden",
+     "ess": true,
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "Deliveroo",
+     "cat": "delivery",
+     "pkg": "com.deliveroo.orderapp",
+     "note": "Alternative für Essen und Lebensmittel",
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "TheFork",
+     "cat": "delivery",
+     "pkg": "com.lafourchette.lafourchette",
+     "note": "Restaurants reservieren mit Angeboten",
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "MooneyGo",
+     "cat": "transit",
+     "pkg": "net.pluservice.myCicero",
+     "note": "Tickets für über 140 Verkehrsbetriebe",
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "Musei Italiani",
+     "cat": "tourism",
+     "pkg": "it.dgmusei.museitaliani",
+     "note": "Offizielle Tickets für staatliche Museen",
+     "src": "https://www.bento.travel/italy"
+    },
+    {
+     "name": "112 Where ARE U",
+     "cat": "safety",
+     "pkg": "it.Beta80Group.whereareu",
+     "note": "Offizielle Notruf-App mit Standort",
+     "src": "https://www.bento.travel/italy"
     }
    ],
    "cities": [
@@ -915,8 +1134,26 @@
        "mine": true
       }
      ]
+    },
+    {
+     "name": "Venedig",
+     "match": [
+      "Venedig",
+      "Venice"
+     ],
+     "apps": [
+      {
+       "name": "AVM Venezia",
+       "cat": "transit",
+       "pkg": "net.pluservice.Actv",
+       "note": "Bus, Tram und Vaporetto in Venedig",
+       "src": "https://www.bento.travel/italy"
+      }
+     ]
     }
-   ]
+   ],
+   "note": "Nie ohne Erlaubnis in eine ZTL-Zone fahren, auch wenn die Karten-App die Route vorschlägt.",
+   "src": "https://www.bento.travel/italy"
   },
   {
    "code": "PT",
@@ -933,22 +1170,78 @@
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "CP Comboios de Portugal",
      "cat": "rail",
-     "note": "Offizielle Bahn-App, z. B. Lissabon–Porto"
+     "note": "Offizielle Bahn-App, z. B. Lissabon–Porto",
+     "pkg": "pt.cp.mobiapp",
+     "ess": true
     },
     {
      "name": "Rede Expressos",
      "cat": "rail",
-     "note": "Fernbusse in Portugal"
+     "note": "Fernbusse in Portugal",
+     "pkg": "pt.beware.myrne"
     },
     {
      "name": "Moovit",
      "cat": "maps",
      "note": "ÖPNV in Lissabon und Porto"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Lizenzierte Fahrten in vielen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/portugal"
+    },
+    {
+     "name": "IzzyMove",
+     "cat": "taxi",
+     "pkg": "net.txidigital.izzymove",
+     "note": "Lizenzierte Taxis mit Vorbuchung",
+     "src": "https://www.bento.travel/portugal"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/portugal"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Lieferdienst",
+     "ess": true,
+     "src": "https://www.bento.travel/portugal"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Lieferdienst von Bolt",
+     "src": "https://www.bento.travel/portugal"
+    },
+    {
+     "name": "TheFork",
+     "cat": "delivery",
+     "pkg": "com.lafourchette.lafourchette",
+     "note": "Restaurants reservieren",
+     "src": "https://www.bento.travel/portugal"
+    },
+    {
+     "name": "ProCiv Madeira",
+     "cat": "safety",
+     "pkg": "com.dobsware.procivmadeira",
+     "note": "Warnungen auf Madeira",
+     "src": "https://www.bento.travel/portugal"
     }
    ],
    "cities": [
@@ -969,10 +1262,35 @@
        "name": "navegante",
        "cat": "transit",
        "note": "Echtzeitinfo für ÖPNV im Großraum Lissabon"
+      },
+      {
+       "name": "Citymapper",
+       "cat": "transit",
+       "pkg": "com.citymapper.app.release",
+       "note": "Bus, Tram, Metro, Fähre",
+       "ess": true,
+       "src": "https://www.bento.travel/portugal"
+      }
+     ]
+    },
+    {
+     "name": "Porto",
+     "match": [
+      "Porto"
+     ],
+     "apps": [
+      {
+       "name": "Anda",
+       "cat": "transit",
+       "pkg": "pt.opt.anda",
+       "note": "Ticket-App für Porto",
+       "src": "https://www.bento.travel/portugal"
       }
      ]
     }
-   ]
+   ],
+   "note": "In Lissabon gilt die kontaktlose Bankkarte nur für die U-Bahn, nicht für Bus, Tram, Vorortzug oder Fähre.",
+   "src": "https://www.bento.travel/portugal"
   },
   {
    "code": "FR",
@@ -1001,12 +1319,72 @@
     {
      "name": "SNCF Connect",
      "cat": "rail",
-     "note": "Offizielle App der französischen Bahn"
+     "note": "Offizielle App der französischen Bahn",
+     "pkg": "com.vsct.vsc.mobile.horaireetresa.android",
+     "ess": true
     },
     {
      "name": "G7 Taxi",
      "cat": "taxi",
      "note": "Lizenzierte Taxis in Paris und vielen Städten"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst mit Preisschätzung",
+     "ess": true,
+     "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Preis- und Wartezeitvergleich",
+     "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Breite Lieferabdeckung",
+     "ess": true,
+     "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "Deliveroo",
+     "cat": "delivery",
+     "pkg": "com.deliveroo.orderapp",
+     "note": "Lieferdienst, Gebühren prüfen",
+     "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "Cartes IGN",
+     "cat": "maps",
+     "pkg": "fr.ign.geoportail",
+     "note": "Offizielle Outdoor-Karten, offline",
+     "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "BlaBlaCar",
+     "cat": "rail",
+     "pkg": "com.comuto",
+     "note": "Mitfahrbörse für Fernfahrten",
+     "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "TheFork",
+     "cat": "delivery",
+     "pkg": "com.lafourchette.lafourchette",
+     "note": "Restaurants reservieren",
+     "src": "https://www.bento.travel/france"
+    },
+    {
+     "name": "Météo-France",
+     "cat": "safety",
+     "pkg": "fr.meteo",
+     "note": "Offizielle Wetterwarnungen",
+     "src": "https://www.bento.travel/france"
     }
    ],
    "cities": [
@@ -1023,16 +1401,26 @@
        "cat": "transit",
        "pkg": "com.applidium.vianavigo",
        "mine": true,
-       "note": "Navigo, Tickets für Paris"
+       "note": "Navigo, Tickets für Paris",
+       "ess": true
       },
       {
        "name": "Bonjour RATP",
        "cat": "transit",
        "note": "Offizielle RATP-App für Metro, RER, Bus"
+      },
+      {
+       "name": "G7 Taxi",
+       "cat": "taxi",
+       "pkg": "fr.taxisg7.grandpublic",
+       "note": "Lizenzierte Taxis, Flughafen-Fixpreise",
+       "src": "https://www.bento.travel/france"
       }
      ]
     }
-   ]
+   ],
+   "note": "In Paris für Nahverkehrstickets die IDFM-App oder Navigo Easy nutzen, nicht nur die Bankkarte.",
+   "src": "https://www.bento.travel/france"
   },
   {
    "code": "NO",
@@ -1747,7 +2135,52 @@
      "name": "Wolt",
      "cat": "delivery",
      "pkg": "com.wolt.android",
-     "mine": true
+     "mine": true,
+     "ess": true
+    },
+    {
+     "name": "FREE NOW",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "note": "Lizenzierte Taxis, bar oder per App",
+     "ess": true,
+     "src": "https://www.bento.travel/greece"
+    },
+    {
+     "name": "Ferryhopper",
+     "cat": "rail",
+     "pkg": "com.mobileferryhopperapp",
+     "note": "Fähren vergleichen und buchen",
+     "ess": true,
+     "src": "https://www.bento.travel/greece"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Taxis in Attika, Thessaloniki",
+     "src": "https://www.bento.travel/greece"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Athen und einige Inseln",
+     "src": "https://www.bento.travel/greece"
+    },
+    {
+     "name": "efood",
+     "cat": "delivery",
+     "pkg": "com.venturegeeks.efood",
+     "note": "Lokaler Lieferdienst",
+     "src": "https://www.bento.travel/greece"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Messenger, den viele Anbieter nutzen",
+     "src": "https://www.bento.travel/greece"
     }
    ],
    "cities": [
@@ -1769,7 +2202,9 @@
       }
      ]
     }
-   ]
+   ],
+   "note": "Auf kleinen Inseln den Transfer über die Unterkunft organisieren und Euro-Bargeld bereithalten.",
+   "src": "https://www.bento.travel/greece"
   },
   {
    "code": "MT",
@@ -2247,6 +2682,471 @@
     }
    ],
    "cities": []
+  },
+  {
+   "code": "CZ",
+   "name": "Tschechien",
+   "flag": "🇨🇿",
+   "apps": [
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst-Alternative zu Uber, Preise vergleichen",
+     "ess": true,
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst in Prag und weiteren Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Liftago",
+     "cat": "taxi",
+     "pkg": "com.adleritech.app.liftago.passenger",
+     "note": "Lizenzierte Taxis in 15 Städten",
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe, auf Englisch nutzbar",
+     "ess": true,
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "foodora",
+     "cat": "delivery",
+     "pkg": "se.onlinepizza",
+     "note": "Großes Liefernetz für Restaurants und Läden",
+     "ess": true,
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Lieferdienst in unterstützten Zonen",
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Mapy.com",
+     "cat": "maps",
+     "pkg": "cz.seznam.mapy",
+     "note": "Outdoor-Karte mit Wanderwegen und Offline-Navigation",
+     "ess": true,
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "IDOS",
+     "cat": "rail",
+     "pkg": "cz.mafra.jizdnirady",
+     "note": "Landesweiter Fahrplan für Züge, Busse, Stadtverkehr",
+     "ess": true,
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Můj vlak",
+     "cat": "rail",
+     "pkg": "cz.cd.mujvlak.an",
+     "note": "Offizielle ČD-App: Tickets, Gleise, Verspätungen",
+     "ess": true,
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "RegioJet",
+     "cat": "rail",
+     "pkg": "cz.studio9.sa",
+     "note": "RegioJet-Züge und Busse",
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Leo Express",
+     "cat": "rail",
+     "pkg": "com.leoexpress.leoexpress",
+     "note": "Leo-Express-Züge und Busse",
+     "src": "https://www.bento.travel/czech-republic"
+    },
+    {
+     "name": "Záchranka",
+     "cat": "safety",
+     "pkg": "com.medicalit.zachranka",
+     "note": "Notruf-App mit Standortübermittlung",
+     "src": "https://www.bento.travel/czech-republic"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Prag",
+     "match": [
+      "Prag",
+      "Prague"
+     ],
+     "apps": [
+      {
+       "name": "PID Lítačka",
+       "cat": "transit",
+       "pkg": "cz.dpp.praguepublictransport",
+       "note": "Offizielle Routen- und Ticket-App für Prag",
+       "ess": true,
+       "src": "https://www.bento.travel/czech-republic"
+      },
+      {
+       "name": "Prague Visitor Pass",
+       "cat": "tourism",
+       "pkg": "cz.operatorict.pvp",
+       "note": "Offizielle Prag-Citycard mit ÖPNV",
+       "src": "https://www.bento.travel/czech-republic"
+      }
+     ]
+    }
+   ],
+   "note": "In Prag gilt das PID-Ticket nicht für den Airport Express; Fernverbindungen direkt beim Betreiber buchen und in CZK zahlen.",
+   "src": "https://www.bento.travel/czech-republic"
+  },
+  {
+   "code": "DK",
+   "name": "Dänemark",
+   "flag": "🇩🇰",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Vermittelt lizenzierte Taxis, u. a. von Dantaxi",
+     "ess": true,
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Lizenzierte Taxis, offiziell nur Kopenhagen und Aarhus",
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen, Lebensmittel und mehr in vielen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Lieferdienst in Kopenhagen, Aarhus, Odense",
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "pkg": "net.easypark.android",
+     "note": "Parken bezahlen",
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "Rejseplanen",
+     "cat": "transit",
+     "pkg": "de.hafas.android.rejseplanen",
+     "note": "Offizieller Planer für Zug, Bus, Metro, Fähre",
+     "ess": true,
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "Rejsebillet",
+     "cat": "transit",
+     "pkg": "dk.rejsekort.rejsebillet",
+     "note": "Offizielle Tickets, auch City Pass",
+     "ess": true,
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "DSB",
+     "cat": "rail",
+     "pkg": "dk.dsb.nda.android",
+     "note": "Dänische Bahn, Tickets und Live-Infos",
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "Rejsekort",
+     "cat": "transit",
+     "pkg": "dk.rejsekort.digitalrejsekort",
+     "note": "Check-in-App, ersetzt die alte Karte",
+     "src": "https://www.bento.travel/denmark"
+    },
+    {
+     "name": "DinnerBooking",
+     "cat": "delivery",
+     "pkg": "com.dinnerbooking.users",
+     "note": "Restaurants finden und reservieren",
+     "src": "https://www.bento.travel/denmark"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kopenhagen",
+     "match": [
+      "Copenhagen",
+      "Kopenhagen"
+     ],
+     "apps": [
+      {
+       "name": "Donkey Republic",
+       "cat": "micro",
+       "pkg": "com.donkeyrepublic.bike.android",
+       "note": "Leihräder per App",
+       "src": "https://www.bento.travel/denmark"
+      },
+      {
+       "name": "Copenhagen Card",
+       "cat": "tourism",
+       "pkg": "com.woco.copenhagencard",
+       "note": "Stadtpass für Attraktionen",
+       "src": "https://www.bento.travel/denmark"
+      }
+     ]
+    }
+   ],
+   "src": "https://www.bento.travel/denmark"
+  },
+  {
+   "code": "HR",
+   "name": "Kroatien",
+   "flag": "🇭🇷",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Breitester Fahrdienst mit lizenzierten Taxis",
+     "ess": true,
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Preisvergleich in neun Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Wizi",
+     "cat": "taxi",
+     "pkg": "com.binom.cammeo",
+     "note": "Lizenzierte Taxis in Zagreb, an der Küste, auf Krk",
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in über 30 Orten",
+     "ess": true,
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Lieferung in Städten und Küstenorten",
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "HAK Croatia Traffic Info",
+     "cat": "maps",
+     "pkg": "com.infinum.hak",
+     "note": "Offizielle Straßen-, Grenz- und Fährinfos",
+     "ess": true,
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Bmove",
+     "cat": "parking",
+     "pkg": "hr.infoart.epk",
+     "note": "Parken in über 90 Städten",
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Jadrolinija",
+     "cat": "rail",
+     "pkg": "hr.jadrolinija.mjadrolinija",
+     "note": "Offizielle Fähr-App mit Tickets",
+     "ess": true,
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "TP Line",
+     "cat": "rail",
+     "pkg": "com.tplineapp",
+     "note": "Katamarane zu den Inseln",
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "FlixBus",
+     "cat": "rail",
+     "pkg": "de.flixbus.app",
+     "note": "Fernbusse",
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Arriva Croatia",
+     "cat": "rail",
+     "pkg": "hr.com.arriva.arrivacroatia",
+     "note": "Arriva-Busse mit QR-Tickets",
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "HŽPP",
+     "cat": "rail",
+     "pkg": "com.hzppispromobile",
+     "note": "Offizielle Bahn-App",
+     "src": "https://www.bento.travel/croatia"
+    },
+    {
+     "name": "Nautical Info Service Croatia",
+     "cat": "safety",
+     "pkg": "hr.mppi.nis",
+     "note": "Offizielle Seesicherheits-App",
+     "src": "https://www.bento.travel/croatia"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Rijeka",
+     "match": [
+      "Rijeka"
+     ],
+     "apps": [
+      {
+       "name": "RCC Mobility",
+       "cat": "transit",
+       "pkg": "com.rijekacitycard.mobility",
+       "note": "Busse in Rijeka",
+       "src": "https://www.bento.travel/croatia"
+      }
+     ]
+    },
+    {
+     "name": "Split",
+     "match": [
+      "Split"
+     ],
+     "apps": [
+      {
+       "name": "Promet Split",
+       "cat": "transit",
+       "pkg": "hr.prometsplit.mobile",
+       "note": "Busse in Split mit Tickets",
+       "src": "https://www.bento.travel/croatia"
+      }
+     ]
+    },
+    {
+     "name": "Zagreb",
+     "match": [
+      "Zagreb"
+     ],
+     "apps": [
+      {
+       "name": "Moj ZET",
+       "cat": "transit",
+       "pkg": "com.zetmobile",
+       "note": "Tram und Bus Zagreb, digitale Tickets",
+       "ess": true,
+       "src": "https://www.bento.travel/croatia"
+      }
+     ]
+    }
+   ],
+   "note": "Visa oder Mastercard und etwas Euro-Bargeld mitnehmen; Bolt Food liefert in Kroatien seit Oktober 2025 nicht mehr.",
+   "src": "https://www.bento.travel/croatia"
+  },
+  {
+   "code": "HU",
+   "name": "Ungarn",
+   "flag": "🇭🇺",
+   "apps": [
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Lizenzierte Taxis in Budapest, Taxameter zählt",
+     "ess": true,
+     "src": "https://www.bento.travel/hungary"
+    },
+    {
+     "name": "foodora",
+     "cat": "delivery",
+     "pkg": "se.onlinepizza",
+     "note": "Breitestes Lieferangebot in Ungarn",
+     "ess": true,
+     "src": "https://www.bento.travel/hungary"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in vielen Städten",
+     "src": "https://www.bento.travel/hungary"
+    },
+    {
+     "name": "Parkl",
+     "cat": "parking",
+     "pkg": "net.parkl.androidclient",
+     "note": "Parken, Garagen, Laden, E-Vignette",
+     "src": "https://www.bento.travel/hungary"
+    },
+    {
+     "name": "MÁVPlusz",
+     "cat": "rail",
+     "pkg": "hu.mav.emmapp",
+     "note": "Offizielle App für Zug- und Fernbustickets",
+     "ess": true,
+     "src": "https://www.bento.travel/hungary"
+    },
+    {
+     "name": "VÉSZ",
+     "cat": "safety",
+     "pkg": "org.rsoe.android.bm_okf_push",
+     "note": "Offizielle Unwetter- und Notfallwarnungen",
+     "src": "https://www.bento.travel/hungary"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Budapest",
+     "match": [
+      "Budapest"
+     ],
+     "apps": [
+      {
+       "name": "Uber",
+       "cat": "taxi",
+       "pkg": "com.ubercab",
+       "note": "Taxi-Alternative zum Vergleich",
+       "src": "https://www.bento.travel/hungary"
+      },
+      {
+       "name": "BudapestGO",
+       "cat": "transit",
+       "pkg": "hu.webvalto.bkkfutar",
+       "note": "Offizielle BKK-App mit Tickets",
+       "ess": true,
+       "src": "https://www.bento.travel/hungary"
+      }
+     ]
+    }
+   ],
+   "note": "Mit Forint (HUF) zahlen, Umrechnung in Euro an der Kasse ablehnen und etwas Bargeld dabeihaben.",
+   "src": "https://www.bento.travel/hungary"
   }
  ]
 }
