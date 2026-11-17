@@ -2,30 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "GR",
-"en": "Greece",
-"slug": "greece",
-"recheck": true
-},
-{
-"code": "HR",
-"en": "Croatia",
-"slug": "croatia",
-"recheck": true
-},
-{
-"code": "HU",
-"en": "Hungary",
-"slug": "hungary",
-"recheck": true
-},
-{
-"code": "IT",
-"en": "Italy",
-"slug": "italy",
-"recheck": true
-},
-{
 "code": "PT",
 "en": "Portugal",
 "slug": "portugal",
@@ -261,6 +237,30 @@
 "code": "GB",
 "en": "United Kingdom",
 "slug": "united-kingdom",
+"recheck": true
+},
+{
+"code": "GR",
+"en": "Greece",
+"slug": "greece",
+"recheck": true
+},
+{
+"code": "HR",
+"en": "Croatia",
+"slug": "croatia",
+"recheck": true
+},
+{
+"code": "HU",
+"en": "Hungary",
+"slug": "hungary",
+"recheck": true
+},
+{
+"code": "IT",
+"en": "Italy",
+"slug": "italy",
 "recheck": true
 }
 ]
