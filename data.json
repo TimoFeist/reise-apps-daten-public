@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 23:37",
+ "version": "2026-11-17 23:46",
  "categories": [
   {
    "id": "entry",
@@ -9956,6 +9956,308 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind legal und Diskriminierung ist verboten, gleichgeschlechtliche Partnerschaften werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "AW",
+   "name": "Aruba",
+   "flag": "🇦🇼",
+   "apps": [
+    {
+     "name": "Aruba ED-Card",
+     "cat": "entry",
+     "note": "Pflicht-Einreisekarte als Webformular, 7 Tage vorher",
+     "ess": true,
+     "src": "https://www.aruba.com/us/plan-your-visit/getting-to-aruba/online-ed-card"
+    },
+    {
+     "name": "Aruba Taxi App",
+     "cat": "taxi",
+     "note": "Lizenzierte Taxis buchen, offizieller Tarif plus 4 USD",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto mit Name, E-Mail und Telefonnummer, ab 18 Jahren",
+     "src": "https://apps.apple.com/us/app/id1542452164"
+    },
+    {
+     "name": "Aruba To You",
+     "cat": "delivery",
+     "note": "Essenslieferung von Restaurants der Insel, nur bargeldlos",
+     "src": "https://apps.apple.com/us/app/id6450213151"
+    },
+    {
+     "name": "Vapvap Eats",
+     "cat": "delivery",
+     "note": "Essen und Einkäufe liefern lassen oder abholen",
+     "use": "limited",
+     "req": "Konto beim Bezahlen nötig, Anmeldung auch mit Google oder Apple",
+     "src": "https://apps.apple.com/pg/app/vapvap-eats/id6737782070"
+    },
+    {
+     "name": "Ride Green Bike",
+     "cat": "micro",
+     "note": "Leih-E-Fahrzeuge per QR-Code entsperren, auch Tagespass",
+     "use": "limited",
+     "req": "Registrierung in der App nötig",
+     "src": "https://apps.apple.com/us/app/id6446088799"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen auch am Flughafen per App buchen",
+     "use": "limited",
+     "req": "Ab 23 Jahren, Führerschein seit 5 Jahren, Kreditkarte nötig",
+     "src": "https://sixt.com/car-rental/aruba"
+    },
+    {
+     "name": "myAruba",
+     "cat": "tourism",
+     "note": "Offizielle Reiseplanungs-App der Tourismusbehörde",
+     "src": "https://apps.apple.com/us/app/myaruba/id1616045046"
+    }
+   ],
+   "cities": [],
+   "note": "Vor der Reise die digitale ED-Karte ausfüllen, Einreise nur mit Reisepass, nicht mit Personalausweis.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+   "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BB",
+   "name": "Barbados",
+   "flag": "🇧🇧",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Lizenzierte Taxis rufen, Preis vorab sehen",
+     "ess": true,
+     "use": "limited",
+     "req": "Karte erst nach Ankunft hinzufügbar",
+     "src": "https://www.bento.travel/barbados/ride-hailing"
+    },
+    {
+     "name": "pickUP Barbados",
+     "cat": "taxi",
+     "pkg": "production.pickupbarbodas.customer",
+     "note": "Lokale Taxi-App mit über 400 lizenzierten Taxis",
+     "use": "limited",
+     "req": "Login per SMS oder WhatsApp, Karte erst nach Ankunft",
+     "src": "https://www.bento.travel/barbados/ride-hailing"
+    },
+    {
+     "name": "Bimride",
+     "cat": "taxi",
+     "note": "Lokale Fahrdienst-App, Zahlung bar oder per Karte",
+     "use": "limited",
+     "req": "Anmeldung mit Telefonnummer",
+     "src": "https://apps.apple.com/us/app/bimride/id6499478384"
+    },
+    {
+     "name": "Chefette",
+     "cat": "delivery",
+     "pkg": "com.chefette.app",
+     "note": "Lokale Fastfood-Kette, Abholung und Lieferung",
+     "src": "https://www.bento.travel/es/barbados"
+    },
+    {
+     "name": "foodDROP",
+     "cat": "delivery",
+     "note": "Essenslieferung von Restaurants, auch in Barbados",
+     "use": "limited",
+     "req": "Anmeldung per SMS-Code",
+     "src": "https://apps.apple.com/app/id1478415342"
+    },
+    {
+     "name": "Transitbb",
+     "cat": "transit",
+     "pkg": "com.app.transitbb",
+     "note": "Offizielle App der Transport Board für Busrouten",
+     "src": "https://transportboard.com/contact-us/faq"
+    },
+    {
+     "name": "Pearly",
+     "cat": "transit",
+     "note": "Busse der Transport Board live und Verkehrslage",
+     "use": "limited",
+     "req": "Für Einwohner gedacht, Nutzung durch Besucher unklar",
+     "src": "https://barbadostoday.bb/2026/06/09/pearly-app-aims-to-improve-access-to-public-services-buses/"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen und in Bridgetown",
+     "use": "limited",
+     "req": "Mindestalter 25, zusätzlich lokaler Urlaubsführerschein",
+     "src": "https://www.sixt.com.sa/car-rental/barbados/"
+    },
+    {
+     "name": "Liat Air",
+     "cat": "flights",
+     "pkg": "com.hititcs.liat20",
+     "note": "Offizielle App für Liat-Flüge in der Karibik",
+     "src": "https://www.bento.travel/es/barbados"
+    }
+   ],
+   "cities": [],
+   "note": "Nur lizenzierte Taxis nutzen, passendes Kleingeld in BBD für den Bus bereithalten, einsame Strände nachts meiden.",
+   "src": "https://www.bento.travel/es/barbados",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen stehen noch im Gesetz, der Oberste Gerichtshof erklärte die Strafnormen 2022 aber für verfassungswidrig; in der Öffentlichkeit ist Zurückhaltung geboten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/barbados-node/barbadossicherheit-226424",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BS",
+   "name": "Bahamas",
+   "flag": "🇧🇸",
+   "apps": [
+    {
+     "name": "Aqua Rides Passenger",
+     "cat": "taxi",
+     "note": "Lokale Fahrdienst-App mit Taxis und Flughafentransfers",
+     "use": "limited",
+     "req": "Nur für iPhone gelistet",
+     "src": "https://apps.apple.com/us/app/id6745246094"
+    },
+    {
+     "name": "KRAVEN",
+     "cat": "delivery",
+     "pkg": "com.kraven",
+     "note": "Essen, Einkäufe und Getränke liefern lassen",
+     "use": "limited",
+     "req": "Nur New Providence, Freeport und Exuma, Resorts teils gesperrt",
+     "src": "https://www.bento.travel/bahamas/food-delivery"
+    },
+    {
+     "name": "Bahama Eats",
+     "cat": "delivery",
+     "note": "Lieferdienst für Restaurants, Lebensmittel und Läden",
+     "src": "https://apps.apple.com/au/app/bahama-eats/id1470039780"
+    },
+    {
+     "name": "Caribo Bahamas",
+     "cat": "carshare",
+     "note": "Autos und Boote direkt bei Vermietern buchen",
+     "use": "limited",
+     "req": "Führerschein nötig, Bedingungen je Vermieter",
+     "src": "https://apps.apple.com/app/id6742114934"
+    },
+    {
+     "name": "The Islands Of The Bahamas",
+     "cat": "tourism",
+     "note": "Offizielle Reiseplanungs-App des Tourismusministeriums",
+     "src": "https://www.tourismtoday.com/news-category/islands-bahamas-mobile-app"
+    },
+    {
+     "name": "Bahamasair",
+     "cat": "flights",
+     "note": "Inlandsflüge zwischen den Inseln buchen und einchecken",
+     "src": "https://apps.apple.com/us/app/bahamasair/id1530393151?l=es-MX"
+    },
+    {
+     "name": "Sand Dollar",
+     "cat": "payment",
+     "note": "Digitale Zentralbankwährung der Bahamas",
+     "use": "no",
+     "req": "Nur im Inland, Wallet eines lokalen Instituts nötig",
+     "src": "https://www.bento.travel/bahamas/payments"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Nassau",
+     "match": [
+      "Nassau"
+     ],
+     "apps": [
+      {
+       "name": "HOP Bahamas",
+       "cat": "taxi",
+       "note": "Fahrten mit Festpreis vorbuchen, Kartenzahlung",
+       "use": "limited",
+       "req": "Nur iPhone und Web, keine geprüfte Android-App",
+       "src": "https://www.bento.travel/bahamas/ride-hailing"
+      }
+     ]
+    }
+   ],
+   "note": "Zwei Karten verschiedener Banken und kleine US-Dollar-Scheine mitnehmen, auf kleinen Inseln und in Jitneys klappt Karte oft nicht.",
+   "src": "https://www.bento.travel/bahamas",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1991 legal, es gibt aber keinen Diskriminierungsschutz und keine Anerkennung von Partnerschaften, gesellschaftlich bestehen deutliche Vorbehalte.",
+   "lgbtq_src": "https://outrightinternational.org/our-work/americas/bahamas",
+   "checked": "2026-11-17"
+  },
+  {
+   "code": "BZ",
+   "name": "Belize",
+   "flag": "🇧🇿",
+   "apps": [
+    {
+     "name": "Travel Belize",
+     "cat": "tourism",
+     "note": "Offizielle App des Tourismusamts, Reiseplanung",
+     "ess": true,
+     "src": "https://apps.apple.com/us/app/id1566428824"
+    },
+    {
+     "name": "Belize Express Plus",
+     "cat": "rail",
+     "note": "Fährtickets Belize City, San Pedro, Caye Caulker",
+     "ess": true,
+     "src": "https://apps.apple.com/app/id6764143313"
+    },
+    {
+     "name": "Toocan Eats",
+     "cat": "delivery",
+     "note": "Essenslieferung von Restaurants in Belize",
+     "src": "https://apps.apple.com/bn/app/toocan-eats/id6477782259"
+    },
+    {
+     "name": "RUNMAN BZ",
+     "cat": "delivery",
+     "note": "Essen bestellen mit Liefer-Tracking",
+     "use": "limited",
+     "req": "Registrierung in der App nötig",
+     "src": "https://apps.apple.com/us/app/runman-bz/id6504531841"
+    },
+    {
+     "name": "AccuWeather",
+     "cat": "safety",
+     "note": "Wetter und Sturmwarnungen in der Regenzeit",
+     "src": "https://caribbeanlifestyle.com/?p=20190"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Belize City",
+     "match": [
+      "Belize City"
+     ],
+     "apps": [
+      {
+       "name": "501 Transit",
+       "cat": "transit",
+       "note": "Busrouten und Fahrtplanung, zuerst E-Busse",
+       "src": "https://www.undp.org/belize/press-releases/belize-launches-its-first-public-transport-commuter-application-501-transit"
+      },
+      {
+       "name": "Midriva",
+       "cat": "taxi",
+       "pkg": "apps.midriva.user",
+       "note": "Taxi und E-Taxi bestellen, bar oder Karte",
+       "use": "limited",
+       "req": "Konto in der App nötig, E-Taxis nur in Belize City",
+       "src": "https://appgoblin.info/apps/apps.midriva.user"
+      }
+     ]
+    }
+   ],
+   "note": "Ein- und Zollerklärung vorab online ausfüllen, bei Ausreise per Flug fallen 37,50 USD Gebühr an.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/belize-node/belizesicherheit/220284",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht verboten, die Akzeptanz in der Bevölkerung ist aber sehr gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/belize-node/belizesicherheit/220284",
    "checked": "2026-11-17"
   }
  ]
