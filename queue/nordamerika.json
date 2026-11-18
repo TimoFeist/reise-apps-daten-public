@@ -1,12 +1,6 @@
 {
  "continent": "NA",
- "todo": [
-  {
-   "code": "VI",
-   "en": "Virgin Islands, U.S.",
-   "slug": "virgin-islands-u-s"
-  }
- ],
+ "todo": [],
  "done": [
   {
    "code": "US",
@@ -207,6 +201,11 @@
    "code": "VG",
    "en": "Virgin Islands, British",
    "slug": "virgin-islands-british"
+  },
+  {
+   "code": "VI",
+   "en": "Virgin Islands, U.S.",
+   "slug": "virgin-islands-u-s"
   }
  ]
 }

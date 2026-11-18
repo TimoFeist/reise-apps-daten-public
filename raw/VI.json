@@ -1,0 +1,19 @@
+{
+ "src": "https://www.citizendailypost.com/faq/is-there-uber-on-st-john/",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Uber und Lyft fahren hier praktisch nicht, auf St. John gibt es Sammeltaxis am Fähranleger, viele Fahrer wollen Bargeld.",
+ "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2015 legal und seit 2022 gilt ein Diskriminierungsschutz.",
+ "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_United_States_Virgin_Islands",
+ "discontinued": [],
+ "apps": [
+  {"name": "ESTA Mobile", "cat": "entry", "pkg": "", "ess": true, "note": "Offizielle CBP App für den ESTA Antrag vor dem Flug", "city": "", "use": "ok", "req": "", "src": "https://www.cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"},
+  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/usa-node/usavereinigtestaatensicherheit-201382"},
+  {"name": "VI Hail", "cat": "taxi", "pkg": "", "ess": true, "note": "Fahrdienst App auf St. Croix, bargeldlos per Karte", "city": "", "use": "ok", "req": "", "src": "https://www.gotostcroix.com/st-croix-blog/vi-hail-st-croix-uber-style-rideshare-app/"},
+  {"name": "Isleat", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen und Einkäufe von lokalen Partnern liefern lassen", "city": "", "use": "limited", "req": "Konto mit E-Mail nötig, Android Version in der Quelle nicht belegt", "src": "https://apps.apple.com/us/app/isleat/id6755629800"},
+  {"name": "Boomerang Express", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung und Abholung bei lokalen Restaurants", "city": "", "use": "no", "req": "Nur für iPhone, Bezahlung per Karte", "src": "https://apps.apple.com/us/app/boomerang-express/id1540618861"},
+  {"name": "My Virgin Islands", "cat": "tourism", "pkg": "", "ess": false, "note": "Inselguide mit Events, Karten und Verzeichnis aller drei Inseln", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/my-virgin-islands/id345832106"},
+  {"name": "Hertz", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen auf St. Croix", "city": "", "use": "limited", "req": "Mindestalter meist 25 Jahre", "src": "https://www.gotostcroix.com/getting-around/car-rentals/"},
+  {"name": "Budget", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen auf St. Croix", "city": "", "use": "limited", "req": "Mindestalter meist 25 Jahre", "src": "https://www.gotostcroix.com/getting-around/car-rentals/"}
+ ]
+}
