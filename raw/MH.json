@@ -1,0 +1,44 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Kein Visum nötig, aber Reisepass 6 Monate über den Aufenthalt gültig und Rückflugticket; ab 30 Tagen Aufenthalt HIV-Test Pflicht.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht verboten, Ehe und Lebenspartnerschaft werden aber nicht anerkannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "United Airlines",
+   "cat": "flights",
+   "pkg": "com.united.mobile.android",
+   "ess": true,
+   "note": "Buchung und Check in für den Island Hopper nach Majuro",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.infomarshallislands.com/united-airlines/"
+  },
+  {
+   "name": "MyNTA",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "NTA Konto verwalten, Guthaben aufladen, Verbrauch prüfen",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit SIM bzw. Konto der NTA sinnvoll",
+   "src": "https://apps.apple.com/us/app/mynta/id1235519526"
+  },
+  {
+   "name": "Wiahut",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von Essen und Waren aus Läden in Majuro",
+   "city": "Majuro",
+   "use": "limited",
+   "req": "Nur Gebiet Rita bis Flughafen, Bezahlweg und Konto unklar",
+   "src": "https://marshallislandsjournal.com/meals-and-more-on-wheels/"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Visumfrei bis 90 Tage mit Reisepass, der bei Ausreise 6 Monate gilt, Karten selten akzeptiert, genug AUD bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle von Strafverfolgung bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Fiji Airways",
+   "cat": "flights",
+   "pkg": "com.tvptdigital.fijiairways",
+   "ess": true,
+   "note": "Buchung, Check in und Status für Flüge Nadi nach Tarawa",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.tvptdigital.fijiairways"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364"
+  },
+  {
+   "name": "SunSmart",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "UV Index der WHO als Hilfe zum Sonnenschutz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364"
+  },
+  {
+   "name": "MAPS.ME",
+   "cat": "maps",
+   "pkg": "com.mapswithme.maps.pro",
+   "ess": true,
+   "note": "Offline Karten für South Tarawa und Kiritimati",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/kiribati/kiribati-travel-resources-apps-maps-emergency-cont/"
+  },
+  {
+   "name": "ANZ Pacific",
+   "cat": "payment",
+   "pkg": "com.anz.anzpacific",
+   "ess": false,
+   "note": "Mobile Banking der ANZ Bank Kiribati",
+   "city": "",
+   "use": "no",
+   "req": "Nur mit ANZ Konto und Internet Banking Zugang in Kiribati",
+   "src": "https://apps.apple.com/au/app/anz-pacific/id1316832499"
+  }
+ ]
+}

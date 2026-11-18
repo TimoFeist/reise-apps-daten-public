@@ -2,26 +2,6 @@
 "continent": "OC",
 "todo": [
 {
-"code": "HM",
-"en": "Heard Island and McDonald Islands",
-"slug": "heard-island-and-mcdonald-islands"
-},
-{
-"code": "KI",
-"en": "Kiribati",
-"slug": "kiribati"
-},
-{
-"code": "MH",
-"en": "Marshall Islands",
-"slug": "marshall-islands"
-},
-{
-"code": "FM",
-"en": "Micronesia, Federated States of",
-"slug": "micronesia"
-},
-{
 "code": "NR",
 "en": "Nauru",
 "slug": "nauru"
@@ -142,6 +122,26 @@
 "code": "GU",
 "en": "Guam",
 "slug": "guam"
+},
+{
+"code": "HM",
+"en": "Heard Island and McDonald Islands",
+"slug": "heard-island-and-mcdonald-islands"
+},
+{
+"code": "KI",
+"en": "Kiribati",
+"slug": "kiribati"
+},
+{
+"code": "MH",
+"en": "Marshall Islands",
+"slug": "marshall-islands"
+},
+{
+"code": "FM",
+"en": "Micronesia, Federated States of",
+"slug": "micronesia"
 }
 ]
 }

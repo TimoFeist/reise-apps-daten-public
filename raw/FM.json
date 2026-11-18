@@ -1,0 +1,44 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Kein Visum bis 90 Tage, Pass 120 Tage über den Aufenthalt hinaus gültig, Rückflugticket zeigen, kein Roaming, lokale SIM kaufen.",
+ "lgbtq_note": "Gleichgeschlechtliche Beziehungen unter Erwachsenen sind straffrei und Diskriminierung ist verboten, die gesellschaftliche Akzeptanz ist aber gering.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "United Airlines",
+   "cat": "flights",
+   "pkg": "com.united.mobile.android",
+   "ess": true,
+   "note": "Buchung, Check in und Bordkarte für den Island Hopper",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.appbrain.com/app/united-airlines/com.united.mobile.android"
+  },
+  {
+   "name": "BFSM",
+   "cat": "payment",
+   "pkg": "com.malauzai.DH12001",
+   "ess": false,
+   "note": "Mobile Banking der Bank of the FSM für Kontoinhaber",
+   "city": "",
+   "use": "no",
+   "req": "Nur mit Konto bei der Bank of the FSM",
+   "src": "https://play.google.com/store/apps/details?id=com.malauzai.DH12001&hl=en_US"
+  },
+  {
+   "name": "Mogethin Yap",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Inselinfos zu Wetter, Taifunen, Fischen und Vögeln auf Yap",
+   "city": "Yap",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/-/id6746702146"
+  }
+ ]
+}
