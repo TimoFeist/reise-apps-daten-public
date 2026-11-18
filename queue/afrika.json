@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "CG",
-"en": "Congo",
-"slug": "republic-of-the-congo"
-},
-{
-"code": "CD",
-"en": "Congo, The Democratic Republic of the",
-"slug": "dr-congo"
-},
-{
-"code": "CI",
-"en": "Côte d'Ivoire",
-"slug": "ivory-coast"
-},
-{
-"code": "DJ",
-"en": "Djibouti",
-"slug": "djibouti"
-},
-{
 "code": "GQ",
 "en": "Equatorial Guinea",
 "slug": "equatorial-guinea"
@@ -302,6 +282,26 @@
 "code": "KM",
 "en": "Comoros",
 "slug": "comoros"
+},
+{
+"code": "CG",
+"en": "Congo",
+"slug": "republic-of-the-congo"
+},
+{
+"code": "CD",
+"en": "Congo, The Democratic Republic of the",
+"slug": "dr-congo"
+},
+{
+"code": "CI",
+"en": "Côte d'Ivoire",
+"slug": "ivory-coast"
+},
+{
+"code": "DJ",
+"en": "Djibouti",
+"slug": "djibouti"
 }
 ]
 }
