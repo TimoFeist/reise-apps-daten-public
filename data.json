@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 15:11",
+ "version": "2026-11-18 15:21",
  "categories": [
   {
    "id": "entry",
@@ -3391,14 +3391,17 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "(aus deinem Baltikum-Ordner)",
+     "ess": true
     },
     {
      "name": "RIDE",
      "cat": "taxi",
      "pkg": "ride.app",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "(aus deinem Baltikum-Ordner)",
+     "use": "no",
+     "req": "In Estland nicht verfügbar, nur in Riga"
     },
     {
      "name": "Mobilly",
@@ -3412,7 +3415,9 @@
      "cat": "taxi",
      "pkg": "com.mobi.passenger",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "(aus deinem Baltikum-Ordner)",
+     "use": "no",
+     "req": "In Estland laut Store nicht angeboten, nur Lettland"
     },
     {
      "name": "AuroraReach",
@@ -3420,9 +3425,162 @@
      "pkg": "com.aurorareach.app",
      "mine": true,
      "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "Forus",
+     "cat": "taxi",
+     "pkg": "com.taxigo.ee",
+     "note": "Lizenzierte Taxis in sechs Städten bestellen",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Erste Wahl für Essen und Einkäufe nach Hause",
+     "ess": true,
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Lieferdienst als Alternative zu Wolt",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "TableOnline",
+     "cat": "delivery",
+     "pkg": "fi.tableonline.app",
+     "note": "Restaurants finden und Tische reservieren",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "RMK Loodusega koos",
+     "cat": "maps",
+     "pkg": "ee.rmk.app",
+     "note": "Offizielle Karte für Wanderwege und Rastplätze",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "PARGI.EE",
+     "cat": "parking",
+     "pkg": "ee.emt.mpark",
+     "note": "Parkgebühren per Bankkarte in vielen Zonen zahlen",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Pilet.ee",
+     "cat": "transit",
+     "pkg": "com.pilet.ee.live",
+     "note": "QR-Tickets für Tallinn und Tartu, Ühiskaart aufladen",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Elron",
+     "cat": "rail",
+     "pkg": "io.wenture.elron",
+     "note": "Offizielle Bahn-App mit Fahrplan, Tickets und Störungen",
+     "ess": true,
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Tpilet",
+     "cat": "rail",
+     "pkg": "ee.tpilet.app",
+     "note": "Tickets für viele Regional- und Fernbusse",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Praamid.ee",
+     "cat": "rail",
+     "pkg": "ee.praamid.mobile",
+     "note": "Fähren nach Saaremaa und Hiiumaa buchen",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Ole valmis!",
+     "cat": "safety",
+     "pkg": "ee.naiskodukaitse.olevalmis",
+     "note": "Offizieller Krisenratgeber mit Warnungen, auch Englisch",
+     "src": "https://bento.travel/estonia"
+    },
+    {
+     "name": "Bolt Drive",
+     "cat": "carshare",
+     "note": "Carsharing in der Bolt-App, rund 1000 Autos in Tallinn",
+     "use": "limited",
+     "req": "Führerschein Klasse B, mind. 18 Jahre und 6 Monate Fahrpraxis",
+     "src": "https://bolt.eu/en-ee/support/articles/360020685099/"
+    },
+    {
+     "name": "CityBee",
+     "cat": "carshare",
+     "note": "Carsharing in Tallinn und Tartu per App",
+     "use": "limited",
+     "req": "Führerscheinprüfung in der App, nur Kartenführerschein",
+     "src": "https://citybee.lt/en/about-us/"
     }
    ],
-   "cities": []
+   "cities": [
+    {
+     "name": "Pärnu",
+     "match": [
+      "Pärnu"
+     ],
+     "apps": [
+      {
+       "name": "Flowbird",
+       "cat": "parking",
+       "note": "Straßenparken in Pärnu per App bezahlen",
+       "src": "https://visitparnu.com/en/tourist-information-frequently-asked-questions/"
+      }
+     ]
+    },
+    {
+     "name": "Tallinn",
+     "match": [
+      "Tallinn"
+     ],
+     "apps": [
+      {
+       "name": "Uber",
+       "cat": "taxi",
+       "pkg": "com.ubercab",
+       "note": "Fahrdienst nur in Tallinn, gut zum Preisvergleich",
+       "src": "https://bento.travel/estonia"
+      },
+      {
+       "name": "Tallinn Card",
+       "cat": "tourism",
+       "pkg": "ee.visittallinn.tallinncard",
+       "note": "Attraktionen, Nahverkehr und 3 Stunden Leihrad inklusive",
+       "src": "https://bento.travel/estonia"
+      }
+     ]
+    },
+    {
+     "name": "Tartu",
+     "match": [
+      "Tartu"
+     ],
+     "apps": [
+      {
+       "name": "Tartu Smart Bike",
+       "cat": "micro",
+       "note": "Leihräder der Stadt Tartu per App entsperren",
+       "use": "limited",
+       "req": "Konto mit internetfähiger Bankkarte, Tages- oder Saisonticket",
+       "src": "https://tartu.ee/en/news/tartu-bike-share-system-to-launch-on-8-june"
+      }
+     ]
+    }
+   ],
+   "note": "In Tallinn die kontaktlose Bankkarte am Entwerter nutzen und eine zweite Karte sowie etwas Bargeld als Reserve dabeihaben.",
+   "src": "https://bento.travel/estonia",
+   "lgbtq_note": "Keine besonderen Strafrechtsbestimmungen, Diskriminierung wegen sexueller Orientierung ist gesetzlich verboten, Akzeptanz schwankt örtlich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/estland-node/estlandsicherheit-200754",
+   "checked": "2026-11-18"
   },
   {
    "code": "LV",
@@ -3441,7 +3599,8 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "(aus deinem Baltikum-Ordner)",
+     "ess": true
     },
     {
      "name": "RIDE",
@@ -3463,9 +3622,124 @@
      "pkg": "com.aurorareach.app",
      "mine": true,
      "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe liefern lassen, landesweit verbreitet",
+     "ess": true,
+     "src": "https://www.bento.travel/latvia/food-delivery"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Alternative für Restaurants und Einkäufe",
+     "src": "https://www.bento.travel/latvia/food-delivery"
+    },
+    {
+     "name": "Revolut",
+     "cat": "payment",
+     "note": "Mobiles Konto, praktisch zum Bezahlen in Euro",
+     "use": "limited",
+     "req": "Nur mit bestehendem Konto",
+     "src": "https://www.bento.travel/latvia/payments"
+    },
+    {
+     "name": "Wise",
+     "cat": "payment",
+     "note": "Mehrwährungskonto zum Bezahlen mit Karte",
+     "use": "limited",
+     "req": "Nur mit bestehendem Konto",
+     "src": "https://www.bento.travel/latvia/payments"
+    },
+    {
+     "name": "Forus",
+     "cat": "taxi",
+     "pkg": "com.taxigo.ee",
+     "note": "Lizenzierte Taxis bestellen, zweite Option",
+     "src": "https://www.bento.travel/blog/is-uber-available-in-latvia"
+    },
+    {
+     "name": "Bolt Drive",
+     "cat": "carshare",
+     "note": "Carsharing mit Minutenpreis in Riga",
+     "use": "limited",
+     "req": "Führerschein in App prüfen, Mindestalter laut App",
+     "src": "https://bolt.eu/en-lv/legal/bolt-drive/tnc-bolt-drive/"
+    },
+    {
+     "name": "CityBee",
+     "cat": "carshare",
+     "note": "Carsharing in Riga und Liepaja",
+     "use": "limited",
+     "req": "Kartenführerschein per Foto in App prüfen",
+     "src": "https://citybee.lt/en/about-us/"
+    },
+    {
+     "name": "CarGuru",
+     "cat": "carshare",
+     "note": "Carsharing per App in Riga",
+     "use": "limited",
+     "req": "Registrierung mit Führerschein nötig",
+     "src": "https://www.liveriga.com/en/11942-car-sharing-options"
+    },
+    {
+     "name": "Vivi Latvija",
+     "cat": "rail",
+     "pkg": "com.pv.vivi",
+     "note": "Offizielle Bahn-App mit Tickets und Live-Zugstatus",
+     "ess": true,
+     "src": "https://www.bento.travel/latvia"
+    },
+    {
+     "name": "112 Latvija",
+     "cat": "safety",
+     "pkg": "lv.latvija.p112",
+     "note": "Offizielle Notrufe, Warnungen und Schutzhinweise",
+     "ess": true,
+     "src": "https://www.bento.travel/latvia"
     }
    ],
    "cities": [
+    {
+     "name": "Jurmala",
+     "match": [
+      "Jurmala"
+     ],
+     "apps": [
+      {
+       "name": "EuroPark",
+       "cat": "parking",
+       "note": "Einfahrtsgebühr für Jurmala mit dem Auto zahlen",
+       "src": "https://www.visitjurmala.lv/en/buy-an-entry-pass"
+      },
+      {
+       "name": "Citadele",
+       "cat": "payment",
+       "note": "Bankapp, auch für den Jurmala Einfahrtspass",
+       "use": "no",
+       "req": "Nur mit Konto bei der Citadele Bank",
+       "src": "https://www.visitjurmala.lv/en/buy-an-entry-pass"
+      }
+     ]
+    },
+    {
+     "name": "Liepaja",
+     "match": [
+      "Liepaja"
+     ],
+     "apps": [
+      {
+       "name": "Liepājas pilsēta",
+       "cat": "transit",
+       "pkg": "lv.mtx.liepaja",
+       "note": "Stadtapp mit Tickets für Bus und Tram",
+       "src": "https://liepaja.travel/en/useful/getting-around/by-transport"
+      }
+     ]
+    },
     {
      "name": "Riga",
      "match": [
@@ -3477,11 +3751,31 @@
        "name": "Mobilly",
        "cat": "transit",
        "pkg": "lv.mobilly.android",
-       "mine": true
+       "mine": true,
+       "ess": true
+      },
+      {
+       "name": "Skok",
+       "cat": "micro",
+       "note": "Elektromopeds in Riga mieten",
+       "use": "limited",
+       "req": "Gültiger Führerschein nötig",
+       "src": "https://www.liveriga.com/en/11941-micromobility-transportation"
+      },
+      {
+       "name": "Rīgas satiksme",
+       "cat": "transit",
+       "note": "Offizielle App für Codetickets in Bus und Tram",
+       "src": "https://www.rigassatiksme.lv/en/tickets-and-e-ticket/code-tickets"
       }
      ]
     }
-   ]
+   ],
+   "note": "Riga-Tickets vor Fahrtantritt kaufen und direkt nach dem Einsteigen registrieren, Bolt am Flughafen über Pickup P1.",
+   "src": "https://www.bento.travel/latvia",
+   "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Handlungen sind nicht strafbar, auf dem Land ist die Akzeptanz geringer als in Städten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/lettland-node/lettlandsicherheit-200674",
+   "checked": "2026-11-18"
   },
   {
    "code": "LT",
@@ -3500,7 +3794,8 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "(aus deinem Baltikum-Ordner)",
+     "ess": true
     },
     {
      "name": "RIDE",
@@ -3514,14 +3809,18 @@
      "cat": "transit",
      "pkg": "lv.mobilly.android",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "(aus deinem Baltikum-Ordner)",
+     "use": "limited",
+     "req": "In Litauen bisher nur Zahlungen rund ums Auto"
     },
     {
      "name": "MOBI",
      "cat": "taxi",
      "pkg": "com.mobi.passenger",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "(aus deinem Baltikum-Ordner)",
+     "use": "no",
+     "req": "Nur in Riga (Lettland) verfügbar, nicht in Litauen"
     },
     {
      "name": "AuroraReach",
@@ -3529,9 +3828,203 @@
      "pkg": "com.aurorareach.app",
      "mine": true,
      "note": "(aus deinem Baltikum-Ordner)"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst in den fünf größten Städten",
+     "src": "https://bento.travel/lithuania/ride-hailing"
+    },
+    {
+     "name": "eTAKSI",
+     "cat": "taxi",
+     "pkg": "lt.etaksi.android",
+     "note": "Lokale Taxizentrale mit Preisangabe vorab",
+     "src": "https://bento.travel/lithuania/ride-hailing"
+    },
+    {
+     "name": "Etransport - Taxi and more",
+     "cat": "taxi",
+     "pkg": "com.eTransport.LT.taxi1424",
+     "note": "Taxi vorbestellen, auch Minivan und Kindersitz",
+     "src": "https://bento.travel/lithuania/ride-hailing"
+    },
+    {
+     "name": "Forus",
+     "cat": "taxi",
+     "pkg": "com.taxigo.ee",
+     "note": "Kleinerer Fahrdienst, Preis selbst vorschlagen",
+     "src": "https://bento.travel/lithuania/ride-hailing"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in 15 Städten liefern lassen",
+     "ess": true,
+     "src": "https://www.bento.travel/lithuania/food-delivery"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Restaurants und Lebensmittel, je nach Adresse",
+     "src": "https://www.bento.travel/lithuania/food-delivery"
+    },
+    {
+     "name": "LTG Link",
+     "cat": "rail",
+     "pkg": "app.tunit.tunit_flutter_mobile",
+     "note": "Zugtickets der litauischen Bahn kaufen",
+     "ess": true,
+     "src": "https://apps.apple.com/lt/app/ltg-link/id1594730224"
+    },
+    {
+     "name": "CityBee",
+     "cat": "carshare",
+     "pkg": "com.primeleasing.citybee",
+     "note": "Carsharing mit Autos und Transportern",
+     "use": "limited",
+     "req": "Führerschein wird per Videoanruf in der App geprüft",
+     "src": "https://govilnius.lt/carsharing-services"
+    },
+    {
+     "name": "Bolt Drive",
+     "cat": "carshare",
+     "note": "Günstiges Carsharing in der Bolt App",
+     "use": "limited",
+     "req": "Ausweis und Führerschein in der App hochladen",
+     "src": "https://bolt.eu/en-lt/legal/bolt-drive/tnc-bolt-drive/"
+    },
+    {
+     "name": "UNIPARK",
+     "cat": "parking",
+     "pkg": "lt.itgirnos.uniparkparking.prod",
+     "note": "Parken in vielen Städten, auch Neringa-Eintritt",
+     "src": "https://unipark.lt/en/unipark-app/"
+    },
+    {
+     "name": "LT72",
+     "cat": "safety",
+     "pkg": "com.lt_72.pagd",
+     "note": "Offizielle Warn-App, Luftalarm auch auf Englisch",
+     "ess": true,
+     "src": "https://www.lrt.lt/en/news-in-english/19/2935359/how-to-receive-air-alert-warnings-in-english"
+    },
+    {
+     "name": "Trafi",
+     "cat": "transit",
+     "pkg": "com.trafi.android.tr",
+     "note": "ÖPNV-Planer, Ticketkauf in der App nur in Vilnius",
+     "src": "https://www.bento.travel/lithuania"
+    },
+    {
+     "name": "Autobusų bilietai",
+     "cat": "rail",
+     "pkg": "com.kautra.android.autobusubilietai",
+     "note": "Fernbus-Suche und Tickets bei über 40 Anbietern",
+     "src": "https://www.bento.travel/lithuania"
     }
    ],
-   "cities": []
+   "cities": [
+    {
+     "name": "Kaunas",
+     "match": [
+      "Kaunas"
+     ],
+     "apps": [
+      {
+       "name": "Žiogas",
+       "cat": "transit",
+       "pkg": "com.kvt.ziogas",
+       "note": "Handytickets für Busse und Trolleybusse",
+       "src": "https://en.kaunas.lt/be-kategorijos/contactless-payments-on-public-transport-in-kaunas-convenience-at-a-single-tap"
+      }
+     ]
+    },
+    {
+     "name": "Klaipeda",
+     "match": [
+      "Klaipeda"
+     ],
+     "apps": [
+      {
+       "name": "e.Ticket Klaipėda",
+       "cat": "transit",
+       "pkg": "com.klaipeda.app",
+       "note": "QR-Tickets für Klaipėda, Code im Fahrzeug scannen",
+       "src": "https://www.bento.travel/lithuania"
+      },
+      {
+       "name": "Smiltynės perkėla",
+       "cat": "rail",
+       "pkg": "lt.lexita.smiltynes_app",
+       "note": "Fähre Klaipėda nach Smiltynė: Tickets und Zeiten",
+       "src": "https://www.bento.travel/lithuania"
+      }
+     ]
+    },
+    {
+     "name": "Vilnius",
+     "match": [
+      "Vilnius"
+     ],
+     "apps": [
+      {
+       "name": "Taxi.lt",
+       "cat": "taxi",
+       "pkg": "org.taxilt",
+       "note": "Taxi in Vilnius per App oder online bestellen",
+       "src": "https://www.govilnius.lt/taxis-and-ride-sharing-services"
+      },
+      {
+       "name": "Spark",
+       "cat": "carshare",
+       "pkg": "lt.mediapark.rideshare",
+       "note": "Elektro-Carsharing in Vilnius",
+       "use": "limited",
+       "req": "Registrierung mit Führerschein nötig",
+       "src": "https://govilnius.lt/carsharing-services"
+      },
+      {
+       "name": "JUDU",
+       "cat": "transit",
+       "pkg": "com.judu",
+       "note": "Offizielle App für Bus, Trolleybus und Parken",
+       "ess": true,
+       "use": "limited",
+       "req": "Konto per E-Mail nötig, Zahlung mit Karte",
+       "src": "https://judu.lt/en/application/"
+      },
+      {
+       "name": "Vilnius Pass",
+       "cat": "tourism",
+       "pkg": "lt.govilnius.passes",
+       "note": "Stadtpass mit Museen, Touren und Rabatten",
+       "src": "https://www.govilnius.lt/about-vilnius-pass"
+      },
+      {
+       "name": "Cyclocity",
+       "cat": "micro",
+       "note": "Leihräder an Stationen in Vilnius",
+       "src": "https://judu.lt/en/?p=71127"
+      },
+      {
+       "name": "RIDE",
+       "cat": "taxi",
+       "pkg": "ride.app",
+       "note": "E-Scooter und E-Bikes in Vilnius leihen",
+       "src": "https://judu.lt/en/?p=71127"
+      }
+     ]
+    }
+   ],
+   "note": "Stadttickets gelten nur je Stadt, in Vilnius reicht eine kontaktlose Karte für ein 60-Minuten-Ticket.",
+   "src": "https://www.bento.travel/lithuania",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, ein Gesetz beschränkt aber öffentliche Informationen über andere Familienmodelle.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/litauen-node/litauensicherheit-200620",
+   "checked": "2026-11-18"
   },
   {
    "code": "NL",
@@ -4259,21 +4752,175 @@
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Jakdojade",
      "cat": "transit",
      "note": "ÖPNV und Tickets in über 130 polnischen Städten",
-     "src": "https://www.bento.travel/poland/transit"
+     "src": "https://www.bento.travel/poland/transit",
+     "pkg": "com.citynav.jakdojade.pl.android",
+     "ess": true
     },
     {
      "name": "Koleo",
      "cat": "rail",
-     "note": "Zugtickets in Polen"
+     "note": "Zugtickets in Polen",
+     "pkg": "pl.koleo",
+     "ess": true
+    },
+    {
+     "name": "FREENOW",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "note": "Lizenzierte Taxis und Festpreise in 23 Städten",
+     "src": "https://www.bento.travel/poland"
+    },
+    {
+     "name": "Pyszne.pl",
+     "cat": "delivery",
+     "pkg": "com.yourdelivery.pyszne",
+     "note": "Restaurant-Marktplatz, Zahlart je nach Lokal",
+     "src": "https://www.bento.travel/poland"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe mit Live-Tracking liefern lassen",
+     "src": "https://www.bento.travel/poland"
+    },
+    {
+     "name": "PKP Intercity",
+     "cat": "rail",
+     "pkg": "pkp.ic.eicmobile",
+     "note": "Offizielle App für EIP, EIC, IC und TLK Züge",
+     "src": "https://www.bento.travel/poland"
+    },
+    {
+     "name": "e-podróżnik.pl",
+     "cat": "rail",
+     "pkg": "com.inno.epodroznik.android",
+     "note": "Planer für Regionalbusse und kombinierte Routen",
+     "src": "https://www.bento.travel/poland"
+    },
+    {
+     "name": "Traficar",
+     "cat": "carshare",
+     "note": "Carsharing in polnischen Städten, Abrechnung per App",
+     "use": "limited",
+     "req": "Führerschein-Prüfung in der App nötig",
+     "src": "https://media.traficar.pl/447990-traficar-podsumowuje-2025-rok-bezpieczniej-bardziej-funkcjonalnie-blizej-miasta"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "E-Scooter zum Ausleihen per App",
+     "src": "https://warszawa19115.pl/en/-/elektryczne-hulajnogi"
+    },
+    {
+     "name": "Dott",
+     "cat": "micro",
+     "note": "E-Scooter zum Ausleihen per App",
+     "src": "https://warszawa19115.pl/en/-/elektryczne-hulajnogi"
     }
    ],
-   "cities": []
+   "cities": [
+    {
+     "name": "Gdansk",
+     "match": [
+      "Gdansk"
+     ],
+     "apps": [
+      {
+       "name": "System FALA",
+       "cat": "transit",
+       "note": "Verkehrsverbund Dreistadt, Kontaktloskarte reicht",
+       "src": "https://systemfala.pl/help/informacje-dla-turystow/system-fala-dla-turystow-pakiet-praktycznych-informacji"
+      }
+     ]
+    },
+    {
+     "name": "Krakau",
+     "match": [
+      "Krakau",
+      "Krakow"
+     ],
+     "apps": [
+      {
+       "name": "iMKA",
+       "cat": "transit",
+       "note": "Tickets für Stadtverkehr und Bahn im Verbund MKA",
+       "src": "https://krakow.pl/komunikacja/14904,artykul,rodzaje-biletow.html"
+      }
+     ]
+    },
+    {
+     "name": "Poznan",
+     "match": [
+      "Poznan"
+     ],
+     "apps": [
+      {
+       "name": "Poznań City Card",
+       "cat": "tourism",
+       "note": "Stadtpass als App, Kauf auch online möglich",
+       "src": "https://visitpoznan.pl/en/poznan-city-card"
+      }
+     ]
+    },
+    {
+     "name": "Warschau",
+     "match": [
+      "Warsaw",
+      "Warschau"
+     ],
+     "apps": [
+      {
+       "name": "Bolt Drive",
+       "cat": "carshare",
+       "note": "Carsharing in der Bolt App, Start in Warschau",
+       "use": "limited",
+       "req": "Führerschein-Prüfung in der App nötig",
+       "src": "https://android.com.pl/moto/1068560-bolt-drive-polska-flota-carsharing/"
+      },
+      {
+       "name": "Veturilo",
+       "cat": "micro",
+       "pkg": "com.nextbike.veturilo",
+       "note": "Städtische Leihräder, Saison März bis November",
+       "src": "https://warszawa19115.pl/en/-/veturilo"
+      },
+      {
+       "name": "mobiWAWA",
+       "cat": "transit",
+       "pkg": "pl.xentivo.ummobiwawa",
+       "note": "Städtische App für ÖPNV-Tickets und Metro-Zugang",
+       "src": "https://warszawa19115.pl/en/-/aplikacja-mobiwawa"
+      }
+     ]
+    },
+    {
+     "name": "Wroclaw",
+     "match": [
+      "Wroclaw"
+     ],
+     "apps": [
+      {
+       "name": "URBANCARD",
+       "cat": "transit",
+       "note": "Städtische Ticket-App für Bus und Tram der MPK",
+       "src": "https://www.wroclaw.pl/dla-mieszkanca/nowy-operator-mobilny-mpk-wroclaw-z-biletem"
+      }
+     ]
+    }
+   ],
+   "note": "An Terminals und Geldautomaten in PLN zahlen und die Umrechnung in die Heimatwährung ablehnen.",
+   "src": "https://www.bento.travel/poland",
+   "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen für LGBTQ+ Reisende und verweist auf die allgemeinen Hinweise.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/polen-node/polensicherheit/199124",
+   "checked": "2026-11-18"
   },
   {
    "code": "IS",
