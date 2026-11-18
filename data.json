@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 00:20",
+ "version": "2026-11-18 00:28",
  "categories": [
   {
    "id": "entry",
@@ -1055,8 +1055,9 @@
     {
      "name": "ÖBB Scotty",
      "cat": "rail",
-     "note": "Fahrplanauskunft ÖBB",
-     "pkg": "de.hafas.android.oebb"
+     "note": "Fahrplanauskunft der ÖBB mit Echtzeit und Livekarte",
+     "pkg": "de.hafas.android.oebb",
+     "src": "https://www.oebb.at/de/tickets-kundenkarten/weg-zum-ticket/app-angebot"
     },
     {
      "name": "Uber",
@@ -1205,9 +1206,10 @@
       {
        "name": "WienMobil",
        "cat": "transit",
-       "note": "Offizielle App der Wiener Linien",
+       "note": "Offizielle Wiener-Linien-App mit Tickets und Sharing",
        "pkg": "at.wienerlinien.wienmobillab",
-       "ess": true
+       "ess": true,
+       "src": "https://www.bento.travel/austria"
       },
       {
        "name": "Free2move",
@@ -11239,6 +11241,940 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht verboten, Ehe und Lebenspartnerschaft werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "ID",
+   "name": "Indonesien",
+   "flag": "🇮🇩",
+   "apps": [
+    {
+     "name": "All Indonesia",
+     "cat": "entry",
+     "pkg": "id.go.imigrasi.allindonesia",
+     "note": "Pflicht: digitale Einreisekarte bis 3 Tage vor Ankunft",
+     "ess": true,
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Indonesia eVisa",
+     "cat": "entry",
+     "note": "Offizielles Portal für e-VOA und andere eVisa",
+     "ess": true,
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Gojek",
+     "cat": "taxi",
+     "pkg": "com.gojek.app",
+     "note": "Marktführer für Fahrten, GoFood und Bluebird Taxis",
+     "ess": true,
+     "use": "limited",
+     "req": "SMS Code an die Telefonnummer nötig, ausländische Karten werden teils abgelehnt",
+     "src": "https://www.bento.travel/indonesia/ride-hailing"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Auto und Motorradtaxi, dazu GrabFood Lieferung",
+     "ess": true,
+     "use": "limited",
+     "req": "SMS Code an die Telefonnummer nötig, ausländische Karten werden teils abgelehnt",
+     "src": "https://www.bento.travel/indonesia/ride-hailing"
+    },
+    {
+     "name": "MyBluebird",
+     "cat": "taxi",
+     "pkg": "com.seatech.bluebird",
+     "note": "Lizenzierte Taxis mit Taxameter oder Festpreis",
+     "src": "https://www.bento.travel/indonesia/ride-hailing"
+    },
+    {
+     "name": "Maxim",
+     "cat": "taxi",
+     "pkg": "com.taxsee.taxsee",
+     "note": "Günstige Fahrten mit Auto oder Motorrad",
+     "src": "https://www.bento.travel/indonesia/ride-hailing"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis wird mit dem Fahrer verhandelt",
+     "src": "https://www.bento.travel/indonesia/ride-hailing"
+    },
+    {
+     "name": "Shopee Indonesia",
+     "cat": "delivery",
+     "pkg": "com.shopee.id",
+     "note": "Shopping App mit ShopeeFood Essenslieferung",
+     "use": "limited",
+     "req": "Aufwendige Einrichtung, ausländische Karten werden teils abgelehnt",
+     "src": "https://www.bento.travel/indonesia/food-delivery"
+    },
+    {
+     "name": "GoPay",
+     "cat": "payment",
+     "pkg": "com.gojek.gopay",
+     "note": "Lokales Wallet für QRIS und Gojek, optional",
+     "use": "limited",
+     "req": "Passprüfung für GoPay Plus, Telefonnummer und Aufladung im Laden nötig",
+     "src": "https://www.bento.travel/fr/indonesia/payments"
+    },
+    {
+     "name": "DANA",
+     "cat": "payment",
+     "pkg": "id.dana",
+     "note": "E-Wallet für QRIS, internationale Karte verknüpfbar",
+     "use": "limited",
+     "req": "Registrierung per Telefonnummer, mit indonesischer SIM deutlich einfacher",
+     "src": "https://www.dana.id/blog/can-foreigners-use-digital-wallets-in-indonesia/"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Kostenlose Offline Karten ohne Konto",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Access by KAI",
+     "cat": "rail",
+     "pkg": "com.kai.kaiticketing",
+     "note": "Offizielle App der Bahn für Fern und Nahverkehr",
+     "ess": true,
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer kann scheitern",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "C-Access",
+     "cat": "rail",
+     "pkg": "com.kci.access",
+     "note": "Fahrpläne und QR Tickets der KAI Commuter Züge",
+     "use": "limited",
+     "req": "Bestätigung per SMS Code kann scheitern",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Whoosh",
+     "cat": "rail",
+     "pkg": "com.cars.jbrticket",
+     "note": "Schnellzug Jakarta nach Bandung buchen",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Ferizy",
+     "cat": "rail",
+     "pkg": "com.nutech_integrasi.asdpmobile",
+     "note": "Fährtickets für Personen und Fahrzeuge",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "PELNI",
+     "cat": "rail",
+     "pkg": "id.co.pelni.superapp",
+     "note": "Fahrpläne und Tickets für Langstreckenschiffe",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Traveloka",
+     "cat": "flights",
+     "pkg": "com.traveloka.android",
+     "note": "Flüge, Hotels, Züge und Busse buchen",
+     "ess": true,
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "tiket.com",
+     "cat": "flights",
+     "pkg": "com.tiket.gits",
+     "note": "Flüge, Züge, Hotels und Mietwagen buchen",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Klook",
+     "cat": "tourism",
+     "pkg": "com.klook",
+     "note": "Ausflüge, Eintritte und Transfers buchen",
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "Info BMKG",
+     "cat": "safety",
+     "pkg": "com.Info_BMKG",
+     "note": "Amtliche Wetter, Erdbeben und Tsunamiwarnungen",
+     "ess": true,
+     "src": "https://www.bento.travel/fr/indonesia"
+    },
+    {
+     "name": "TRACtoGo",
+     "cat": "carshare",
+     "pkg": "com.trac.tractogo",
+     "note": "Mietwagen von TRAC Astra, auch ohne Fahrer",
+     "use": "no",
+     "req": "Für Selbstfahrer indonesischer Ausweis KTP und indonesischer Führerschein nötig",
+     "src": "https://www.trac.astra.co.id/blog/en-tips/essential-documents-for-renting-a-car-from-trac/664"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating App für schwule Männer",
+     "use": "no",
+     "req": "Von den Behörden seit 2016 gesperrt, nur per VPN erreichbar und riskant",
+     "src": "https://www.thejakartapost.com/news/2016/09/17/lgbt-persecution-continues-with-apps-ban.html"
+    },
+    {
+     "name": "Blued",
+     "cat": "lgbtq",
+     "note": "Dating App für schwule Männer",
+     "use": "no",
+     "req": "Von den Behörden seit 2016 gesperrt",
+     "src": "https://www.thejakartapost.com/news/2016/09/17/lgbt-persecution-continues-with-apps-ban.html"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bali",
+     "match": [
+      "Bali"
+     ],
+     "apps": [
+      {
+       "name": "Love Bali",
+       "cat": "entry",
+       "pkg": "baliprov.diskominfos.lovebali",
+       "note": "Touristenabgabe Bali von 150.000 IDR vorab bezahlen",
+       "src": "https://lovebali.baliprov.go.id/faq"
+      }
+     ]
+    },
+    {
+     "name": "Jakarta",
+     "match": [
+      "Jakarta"
+     ],
+     "apps": [
+      {
+       "name": "Green SM",
+       "cat": "taxi",
+       "note": "Fahrten mit Elektromotorrädern, seit September 2026",
+       "use": "limited",
+       "req": "Ob ausländische Nummern und Karten gehen, sagt die Quelle nicht",
+       "src": "https://www.malaymail.com/news/money/mediaoutreach/2026/09/17/green-sm-launches-electric-motorbike-service-in-indonesia-marking-its-first-international-market/488162"
+      },
+      {
+       "name": "TJ:Transjakarta",
+       "cat": "transit",
+       "pkg": "com.transjakmobile",
+       "note": "Buslinien, Ankunftszeiten und Busse live",
+       "src": "https://www.bento.travel/fr/indonesia"
+      },
+      {
+       "name": "MyMRTJ",
+       "cat": "transit",
+       "pkg": "com.mrt.jakarta",
+       "note": "Offizielle MRT App mit Fahrplan und Tickets",
+       "src": "https://www.bento.travel/fr/indonesia"
+      },
+      {
+       "name": "JakLingko",
+       "cat": "transit",
+       "note": "QR Tickets und Routen für Busse, MRT, LRT und Bahn",
+       "use": "limited",
+       "req": "Konto mit Telefonnummer nötig, Zahlung meist über QRIS oder lokale Wallets",
+       "src": "https://apps.apple.com/sg/app/jaklingko/id1579262471"
+      }
+     ]
+    },
+    {
+     "name": "Surabaya",
+     "match": [
+      "Surabaya"
+     ],
+     "apps": [
+      {
+       "name": "Gobis Suroboyo",
+       "cat": "transit",
+       "note": "Suroboyo Bus live verfolgen, Linien und Haltestellen",
+       "src": "https://apps.apple.com/app/id6745028056"
+      }
+     ]
+    },
+    {
+     "name": "Yogyakarta",
+     "match": [
+      "Yogyakarta"
+     ],
+     "apps": [
+      {
+       "name": "Visiting Jogja",
+       "cat": "tourism",
+       "pkg": "com.visitingjogja",
+       "note": "Offizieller Reiseführer mit Ticketreservierung",
+       "src": "https://visitingjogja.jogjaprov.go.id/en/17959/a-guide-to-using-jogja-apps/"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche erhalten ein Visum bei Ankunft oder vorab als e-VOA, All Indonesia vor Ankunft kostenlos ausfüllen und Zahlungslinks per Nachricht ignorieren.",
+   "src": "https://www.bento.travel/fr/indonesia",
+   "lgbtq_note": "Außer in Aceh, wo nach Scharia Prügelstrafen auch für Nichtmuslime drohen, sind homosexuelle Handlungen nicht strafbar, werden aber kaum toleriert, und seit Januar 2026 ist außerehelicher Sex nach dem neuen Strafrecht auf Anzeige strafbar.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/indonesien-node/indonesiensicherheit/212396",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "KR",
+   "name": "Korea, Republik",
+   "flag": "🇰🇷",
+   "apps": [
+    {
+     "name": "K-ETA",
+     "cat": "entry",
+     "note": "Elektronische Reisegenehmigung, für Deutsche ausgesetzt",
+     "req": "Für deutsche Staatsangehörige bis 31.12.2026 nicht erforderlich",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/korea-node/koreasicherheit-216132"
+    },
+    {
+     "name": "e-Arrival Card",
+     "cat": "entry",
+     "note": "Einreisekarte online bis 3 Tage vor Ankunft ausfüllen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/korea-node/koreasicherheit-216132"
+    },
+    {
+     "name": "k.ride",
+     "cat": "taxi",
+     "pkg": "com.kakaomobility.kride",
+     "note": "Taxi-App für Besucher, ausländische Nummer und Karte",
+     "ess": true,
+     "src": "https://www.bento.travel/south-korea/ride-hailing"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Vermittelt lizenzierte Taxis, u. a. in Seoul und Busan",
+     "src": "https://www.bento.travel/south-korea/ride-hailing"
+    },
+    {
+     "name": "Kakao T",
+     "cat": "taxi",
+     "note": "Meistgenutzte Taxi-App der Einheimischen",
+     "use": "limited",
+     "req": "Bei der Einrichtung oft koreanische Identitäts und Zahlungsprüfung, Besucher sollen k.ride nutzen",
+     "src": "https://www.bento.travel/south-korea/ride-hailing"
+    },
+    {
+     "name": "Baemin",
+     "cat": "delivery",
+     "pkg": "com.sampleapp",
+     "note": "Größter Lieferdienst, Gastbestellung auch auf Englisch",
+     "ess": true,
+     "use": "limited",
+     "req": "Gastzugang ohne koreanische Nummer, ausländische Karte je nach Bank abgelehnt",
+     "src": "https://www.bento.travel/south-korea/food-delivery"
+    },
+    {
+     "name": "Shuttle Delivery",
+     "cat": "delivery",
+     "pkg": "com.goshuttle",
+     "note": "Englischsprachige Lieferung in ausgewählten Zonen",
+     "src": "https://www.bento.travel/south-korea/food-delivery"
+    },
+    {
+     "name": "Coupang Eats",
+     "cat": "delivery",
+     "note": "Großer koreanischer Essenslieferdienst",
+     "use": "no",
+     "req": "Koreanische Telefonnummer und Ausländerausweis (ARC) nötig",
+     "src": "https://10mag.com/how-to-use-coupang-in-korea-english-guide-for-foreigners/"
+    },
+    {
+     "name": "CATCHTABLE",
+     "cat": "delivery",
+     "pkg": "kr.co.catchtable.global.catchtable_global",
+     "note": "Restaurants reservieren und auf Wartelisten setzen",
+     "ess": true,
+     "src": "https://www.bento.travel/south-korea"
+    },
+    {
+     "name": "Creatrip",
+     "cat": "tourism",
+     "pkg": "com.creatrip",
+     "note": "Buchung von Restaurants, Erlebnissen und Touren",
+     "src": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=198570"
+    },
+    {
+     "name": "WOWPASS",
+     "cat": "payment",
+     "pkg": "com.wow.wowpass",
+     "note": "Prepaid-Karte für Besucher mit Tmoney-Funktion",
+     "src": "https://www.bento.travel/south-korea/payments"
+    },
+    {
+     "name": "Kakao Pay",
+     "cat": "payment",
+     "note": "Verbreitete koreanische Bezahl-App",
+     "use": "no",
+     "req": "Koreanische Identität, Mobilfunkvertrag oder Bankkonto nötig",
+     "src": "https://www.bento.travel/south-korea/payments"
+    },
+    {
+     "name": "Naver Pay",
+     "cat": "payment",
+     "note": "Bezahldienst von Naver für Läden und Onlinekäufe",
+     "use": "no",
+     "req": "Koreanische Identität, Mobilfunkvertrag oder Bankkonto nötig",
+     "src": "https://www.bento.travel/south-korea/payments"
+    },
+    {
+     "name": "GoHanpass",
+     "cat": "payment",
+     "pkg": "com.hanpass.visit",
+     "note": "KTX, Fernbus und Taxi buchen, dazu Bezahl-Wallet",
+     "src": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=198570"
+    },
+    {
+     "name": "KakaoTalk",
+     "cat": "misc",
+     "pkg": "com.kakao.talk",
+     "note": "Messenger, oft von Gastgebern und Anbietern genutzt",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer kann eingeschränkt sein",
+     "src": "https://www.bento.travel/south-korea"
+    },
+    {
+     "name": "Naver Map",
+     "cat": "maps",
+     "pkg": "com.nhn.android.nmap",
+     "note": "Beste Karten-App mit ÖPNV-Routen in Korea",
+     "ess": true,
+     "src": "https://www.bento.travel/south-korea"
+    },
+    {
+     "name": "KakaoMap",
+     "cat": "maps",
+     "pkg": "net.daum.android.map",
+     "note": "Zweite Karten-App zum Gegenprüfen von Routen",
+     "src": "https://www.bento.travel/south-korea"
+    },
+    {
+     "name": "MobileTmoney",
+     "cat": "transit",
+     "note": "Tmoney in Apple Wallet für Bus und U-Bahn",
+     "use": "limited",
+     "req": "Nur iPhone XS oder neuer mit iOS 17.2 oder Apple Watch, nicht jede Auslandskarte geht",
+     "src": "https://www.bento.travel/south-korea/transit"
+    },
+    {
+     "name": "KOREA TOUR CARD Tmoney",
+     "cat": "transit",
+     "pkg": "com.tmoney.mkoreatourcard",
+     "note": "Tmoney für Besucher auf Android-Handys",
+     "use": "limited",
+     "req": "Nur kompatible Android-Handys mit NFC",
+     "src": "https://www.bento.travel/south-korea/transit"
+    },
+    {
+     "name": "Papago",
+     "cat": "misc",
+     "pkg": "com.naver.labs.translator",
+     "note": "Übersetzer für Text, Sprache und Fotos",
+     "ess": true,
+     "src": "https://www.bento.travel/south-korea"
+    },
+    {
+     "name": "KORAIL+",
+     "cat": "rail",
+     "pkg": "com.korail.talk",
+     "note": "Offizielle App für KTX und andere Züge",
+     "ess": true,
+     "src": "https://www.bento.travel/south-korea"
+    },
+    {
+     "name": "Emergency Ready App",
+     "cat": "safety",
+     "pkg": "kr.or.klid.newengsafekorea2025",
+     "note": "Staatliche Warnungen, Schutzräume und Notaufnahmen",
+     "ess": true,
+     "src": "https://www.bento.travel/south-korea"
+    },
+    {
+     "name": "VISITKOREA",
+     "cat": "tourism",
+     "pkg": "com.visitkorea.eng",
+     "note": "Offizielle Reiseinfos der Korea Tourism Organization",
+     "src": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=198570"
+    },
+    {
+     "name": "Odii",
+     "cat": "tourism",
+     "pkg": "kto.smarttour",
+     "note": "Kostenlose Audioguides zu Sehenswürdigkeiten",
+     "src": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=198570"
+    },
+    {
+     "name": "SOCAR",
+     "cat": "carshare",
+     "note": "Carsharing und Mietwagen, Angebot für Ausländer",
+     "use": "limited",
+     "req": "Reisepass, internationaler und nationaler Führerschein mit 1 Jahr Fahrpraxis, Kreditkarte auf eigenen Namen",
+     "src": "https://socar-docs.zendesk.com/hc/ko/articles/40989624241945--SOCAR-Rental-Information-24"
+    },
+    {
+     "name": "SWING",
+     "cat": "micro",
+     "note": "Leih-E-Scooter, E-Bikes und Fahrräder",
+     "src": "https://apps.apple.com/us/app/id1459344011"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Busan",
+     "match": [
+      "Busan"
+     ],
+     "apps": [
+      {
+       "name": "Visit Busan Pass",
+       "cat": "tourism",
+       "note": "Pass für Sehenswürdigkeiten in Busan",
+       "src": "https://apps.apple.com/app/id1665823358"
+      }
+     ]
+    },
+    {
+     "name": "Jeju",
+     "match": [
+      "Jeju"
+     ],
+     "apps": [
+      {
+       "name": "VISIT JEJU",
+       "cat": "tourism",
+       "note": "Offizielle Reiseinfos der Jeju Tourism Organization",
+       "src": "https://apps.apple.com/au/app/visit-jeju/id1114314789"
+      }
+     ]
+    },
+    {
+     "name": "Seoul",
+     "match": [
+      "Seoul"
+     ],
+     "apps": [
+      {
+       "name": "TABA",
+       "cat": "taxi",
+       "pkg": "com.globaleur.taxi",
+       "note": "Taxi-App für Touristen, Anmeldung mit Heimatnummer",
+       "src": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=187149"
+      },
+      {
+       "name": "Seoul Bike (Ttareungyi)",
+       "cat": "micro",
+       "pkg": "com.dki.spb_android",
+       "note": "Städtische Leihräder per QR-Code entsperren",
+       "src": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=187149"
+      },
+      {
+       "name": "Visit Seoul",
+       "cat": "tourism",
+       "note": "Offizieller Reiseführer der Seoul Tourism Organization",
+       "src": "https://apps.apple.com/app/id360156429"
+      },
+      {
+       "name": "Discover Seoul Pass",
+       "cat": "tourism",
+       "note": "Offizieller Sehenswürdigkeitenpass für Seoul",
+       "src": "https://apps.apple.com/app/id1131125136"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen bis Ende 2026 keine K-ETA. Für Bus und U-Bahn eine Tmoney-Karte nutzen, Bankkarten gehen an den Sperren nicht.",
+   "src": "https://www.bento.travel/south-korea",
+   "lgbtq_note": "Homosexuelle Handlungen sind legal, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die gesellschaftliche Akzeptanz ist eher gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korea-node/koreasicherheit-216132",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "TH",
+   "name": "Thailand",
+   "flag": "🇹🇭",
+   "apps": [
+    {
+     "name": "Thailand Digital Arrival Card (TDAC)",
+     "cat": "entry",
+     "note": "Pflicht-Einreisekarte online, kostenlos, keine App",
+     "ess": true,
+     "src": "https://www.thailand.go.th/guide-book-detail/thailand-digital-arrival-card--tdac---2-2"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Fahrdienst und Essenslieferung, auf Englisch",
+     "ess": true,
+     "src": "https://www.bento.travel/thailand/ride-hailing"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Autos und Motorradtaxis, oft günstiger als Grab",
+     "ess": true,
+     "src": "https://www.bento.travel/thailand/ride-hailing"
+    },
+    {
+     "name": "LINE MAN",
+     "cat": "delivery",
+     "pkg": "com.linecorp.linemanth",
+     "note": "Thailändischer Lieferdienst mit großer Auswahl",
+     "use": "limited",
+     "req": "Login über LINE-Konto, ausländische Karte nicht garantiert, vieles nur auf Thai",
+     "src": "https://www.bento.travel/thailand/food-delivery"
+    },
+    {
+     "name": "ShopeeFood",
+     "cat": "delivery",
+     "note": "Lokaler Essenslieferdienst von Shopee",
+     "use": "limited",
+     "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt",
+     "src": "https://www.bento.travel/thailand/food-delivery"
+    },
+    {
+     "name": "Robinhood",
+     "cat": "delivery",
+     "note": "Lokaler Essenslieferdienst",
+     "use": "limited",
+     "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt",
+     "src": "https://www.bento.travel/thailand/food-delivery"
+    },
+    {
+     "name": "TAGTHAi",
+     "cat": "payment",
+     "pkg": "com.thaidigitalplatform.tagthai",
+     "note": "Touristen-App mit Pässen und KBank-Wallet für QR",
+     "use": "limited",
+     "req": "Ab 20 Jahren, Passprüfung an einer KBank-Wechselstube, Aufladen nur mit Fremdwährung",
+     "src": "https://www.bento.travel/thailand/payments"
+    },
+    {
+     "name": "TrueMoney",
+     "cat": "payment",
+     "note": "Verbreitete E-Wallet für QR-Zahlungen",
+     "use": "limited",
+     "req": "Registrierung mit thailändischer Handynummer, Passscan und Gesichtsscan",
+     "src": "https://www.truemoney.com/foreigner-payment/"
+    },
+    {
+     "name": "PromptPay (Bank-Apps)",
+     "cat": "payment",
+     "note": "QR-Zahlsystem der thailändischen Banken",
+     "use": "no",
+     "req": "Thailändisches Bankkonto nötig, für Kurzaufenthalte nicht verfügbar",
+     "src": "https://www.thailandstarterkit.com/money/promptpay-and-qr-payments-for-foreigner-in-thailand/"
+    },
+    {
+     "name": "LINE",
+     "cat": "misc",
+     "pkg": "jp.naver.line.android",
+     "note": "Wichtigster Messenger für Hotels und Touranbieter",
+     "ess": true,
+     "src": "https://www.bento.travel/thailand"
+    },
+    {
+     "name": "ViaBus",
+     "cat": "transit",
+     "pkg": "com.indyzalab.transitia",
+     "note": "Busse live auf der Karte und Routenplaner",
+     "src": "https://www.bento.travel/thailand"
+    },
+    {
+     "name": "SRT D-Ticket",
+     "cat": "rail",
+     "note": "Offizielle App der Staatsbahn für Zugtickets",
+     "ess": true,
+     "src": "https://www.bento.travel/thailand"
+    },
+    {
+     "name": "12Go",
+     "cat": "rail",
+     "pkg": "co.go12.ticketapp",
+     "note": "Busse, Züge und Fähren vergleichen und buchen",
+     "src": "https://www.bento.travel/thailand"
+    },
+    {
+     "name": "Thailand Tourist Police",
+     "cat": "safety",
+     "pkg": "tourist.police.app",
+     "note": "Touristenpolizei mit Livechat, auch ohne Thai-SIM",
+     "src": "https://www.bento.travel/thailand"
+    },
+    {
+     "name": "HAUP",
+     "cat": "carshare",
+     "note": "Carsharing und Mietwagen, Öffnen per App",
+     "use": "limited",
+     "req": "Ab 20 Jahren, Führerschein seit 1 Jahr mit Angaben auf Englisch, Kreditkarte, LINE-ID, Freischaltung nach Prüfung",
+     "src": "https://www.haupcar.com/en/termsandconditions"
+    },
+    {
+     "name": "Anywheel",
+     "cat": "micro",
+     "note": "Leihräder an Stationen, Abo ab etwa 50 Baht am Tag",
+     "use": "limited",
+     "req": "Kreditkarte oder TrueMoney hinterlegen, Gratisstunde womöglich nur für Einheimische",
+     "src": "https://www.timeout.com/bangkok/news/is-bike-sharing-the-secret-to-beating-bangkok-traffic-011626"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bangkok",
+     "match": [
+      "Bangkok"
+     ],
+     "apps": [
+      {
+       "name": "MuvMi",
+       "cat": "taxi",
+       "pkg": "co.muvmi.passenger",
+       "note": "Geteilte E-Tuk-Tuks zwischen festen Haltepunkten",
+       "src": "https://www.bento.travel/thailand/ride-hailing"
+      },
+      {
+       "name": "THE SKYTRAINs",
+       "cat": "transit",
+       "note": "Offizielle BTS-App für Routen, Preise und Stationen",
+       "src": "https://apps.apple.com/app/id6446191311"
+      }
+     ]
+    },
+    {
+     "name": "Chiang Mai",
+     "match": [
+      "Chiang Mai"
+     ],
+     "apps": [
+      {
+       "name": "Chiang Mai Pass (TAGTHAi)",
+       "cat": "tourism",
+       "pkg": "com.thaidigitalplatform.tagthai",
+       "note": "Digitaler Pass für über 60 Attraktionen und Lokale",
+       "use": "limited",
+       "req": "Angebot von 2023, aktuelle Verfügbarkeit in der TAGTHAi App prüfen",
+       "src": "https://www.tatnews.org/2023/07/tagthai-launches-new-chiang-mai-pass-for-tourists/"
+      }
+     ]
+    },
+    {
+     "name": "Pattaya",
+     "match": [
+      "Pattaya"
+     ],
+     "apps": [
+      {
+       "name": "Pattaya Pass (TAGTHAi)",
+       "cat": "tourism",
+       "pkg": "com.thaidigitalplatform.tagthai",
+       "note": "Tagespass für Attraktionen, Lokale und Spas",
+       "use": "limited",
+       "req": "Angebot von 2023, aktuelle Verfügbarkeit in der TAGTHAi App prüfen",
+       "src": "https://www.tagthai.com/explore/p/tagthai-officially-introduces-pattaya-pass-a-digital-travel-card"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche erhalten seit 15.9.2026 visumfrei höchstens 30 Tage. Die TDAC kostenlos nur auf tdac.immigration.go.th ausfüllen, frühestens 3 Tage vor Ankunft.",
+   "src": "https://www.bento.travel/thailand",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen sind möglich und rechtlich voll gleichgestellt, vor allem die Großstädte gelten als sehr tolerant.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailandsicherheit-201558",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "VN",
+   "name": "Vietnam",
+   "flag": "🇻🇳",
+   "apps": [
+    {
+     "name": "Vietnam E-Visa",
+     "cat": "entry",
+     "note": "Offizielles Portal für das E-Visum bis 90 Tage",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Autos und Mopeds landesweit, Auslandskarte mit 4% Gebühr",
+     "src": "https://www.bento.travel/vietnam/ride-hailing"
+    },
+    {
+     "name": "Green SM",
+     "cat": "taxi",
+     "pkg": "com.gsm.customer",
+     "note": "Elektroautos und E-Mopeds, früher Xanh SM",
+     "use": "limited",
+     "req": "Ausländische Zahlungsmittel teils nicht möglich, Bargeld bereithalten",
+     "src": "https://www.bento.travel/vietnam/ride-hailing"
+    },
+    {
+     "name": "Be",
+     "cat": "taxi",
+     "pkg": "xyz.be.customer",
+     "note": "Vietnamesischer Fahrdienst in vielen Städten",
+     "use": "limited",
+     "req": "Anmeldung als Besucher und ausländische Karten klappen nicht immer",
+     "src": "https://www.bento.travel/vietnam/ride-hailing"
+    },
+    {
+     "name": "Mai Linh Taxi",
+     "cat": "taxi",
+     "pkg": "ml.online.passenger",
+     "note": "Große Taxifirma mit Netz in vielen Provinzen",
+     "src": "https://www.bento.travel/vietnam/ride-hailing"
+    },
+    {
+     "name": "Vinasun Taxi",
+     "cat": "taxi",
+     "pkg": "com.vinasuntaxi.clientapp",
+     "note": "Taxis vor allem in Ho Chi Minh City und im Süden",
+     "src": "https://www.bento.travel/vietnam/ride-hailing"
+    },
+    {
+     "name": "ShopeeFood",
+     "cat": "delivery",
+     "pkg": "com.deliverynow",
+     "note": "Großer Lieferdienst, besonders stark in Hanoi",
+     "use": "limited",
+     "req": "Ausländische Karten werden nicht sicher akzeptiert",
+     "src": "https://www.bento.travel/vietnam/food-delivery"
+    },
+    {
+     "name": "GrabFood",
+     "cat": "delivery",
+     "note": "Essenslieferung in der Grab-App, Barzahlung möglich",
+     "src": "https://www.bento.travel/vietnam/food-delivery"
+    },
+    {
+     "name": "beFood",
+     "cat": "delivery",
+     "note": "Lieferdienst in der Be-App, vor allem Hanoi und Saigon",
+     "use": "limited",
+     "req": "Ausländische Karten und SMS-Anmeldung nicht geprüft",
+     "src": "https://www.bento.travel/vietnam/food-delivery"
+    },
+    {
+     "name": "Moreta Pay",
+     "cat": "payment",
+     "pkg": "com.moreta.moretamobile",
+     "note": "Wallet für Besucher, zahlt an vietnamesischen QR-Codes",
+     "src": "https://www.bento.travel/vietnam/payments"
+    },
+    {
+     "name": "VNPAY",
+     "cat": "payment",
+     "note": "QR-Zahlungen, Anmeldung mit Reisepass und Visa-Karte",
+     "src": "https://danangfantasticity.com/discovery/how-to-use-the-vnpay-app-for-international-visitors"
+    },
+    {
+     "name": "MoMo",
+     "cat": "payment",
+     "note": "Verbreitetste Wallet in Vietnam",
+     "use": "no",
+     "req": "Vietnamesische Nummer, Identitätsprüfung und lokales Bankkonto nötig",
+     "src": "https://www.bento.travel/vietnam/payments"
+    },
+    {
+     "name": "ZaloPay",
+     "cat": "payment",
+     "note": "Bezahl-Wallet aus dem Zalo-Umfeld",
+     "use": "no",
+     "req": "Vietnamesische Nummer, Identitätsprüfung und lokales Bankkonto nötig",
+     "src": "https://www.bento.travel/vietnam/payments"
+    },
+    {
+     "name": "Zalo",
+     "cat": "misc",
+     "pkg": "com.zing.zalo",
+     "note": "Wichtigster Messenger, auch für Hotels und Läden",
+     "use": "limited",
+     "req": "Anmeldung mit ausländischer Nummer klappt nicht immer, vor der Reise testen",
+     "src": "https://www.bento.travel/vietnam/messaging"
+    },
+    {
+     "name": "Mioto",
+     "cat": "carshare",
+     "note": "Plattform für Mietwagen zum Selbstfahren",
+     "use": "limited",
+     "req": "Führerschein und Ausweis in der App, Kaution, ausländische Papiere unklar",
+     "src": "https://news.tuoitre.vn/self-drive-car-rentals-see-strong-demand-ahead-of-vietnam-national-day-holiday-103260826184539842.htm"
+    },
+    {
+     "name": "BonbonCar",
+     "cat": "carshare",
+     "note": "Mietwagen per App, Lieferung zum Flughafen möglich",
+     "use": "limited",
+     "req": "Führerschein und Ausweis in der App, Kaution, ausländische Papiere unklar",
+     "src": "https://news.tuoitre.vn/self-drive-car-rentals-see-strong-demand-ahead-of-vietnam-national-day-holiday-103260826184539842.htm"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Hanoi",
+     "match": [
+      "Hanoi"
+     ],
+     "apps": [
+      {
+       "name": "TNGo",
+       "cat": "micro",
+       "note": "Öffentliche Leihräder, Entsperren per QR-Code",
+       "use": "limited",
+       "req": "Ob ausländische Nummer und Karte gehen, ist unklar",
+       "src": "https://hanoitimes.vn/hanoi-launches-public-bike-share-service.590443.html"
+      },
+      {
+       "name": "Hanoi Metro",
+       "cat": "transit",
+       "note": "Einzel-, Tages- und Wochentickets mit QR-Code",
+       "use": "limited",
+       "req": "Registrierung am Schalter im Bahnhof, Nutzung durch Ausländer unklar",
+       "src": "https://hanoicapital.chinhphu.vn/ha-noi-metro-pilots-weekly-tickets-via-mobile-app-110251104171644555.htm"
+      }
+     ]
+    },
+    {
+     "name": "Ho Chi Minh City",
+     "match": [
+      "Ho Chi Minh City"
+     ],
+     "apps": [
+      {
+       "name": "TNGo-HCM",
+       "cat": "micro",
+       "note": "Öffentliche Leihräder und E-Bikes im Zentrum",
+       "use": "limited",
+       "req": "Ob ausländische Nummer und Karte gehen, ist unklar",
+       "src": "https://news.tuoitre.vn/print/ho-chi-minh-city-launches-public-e-bike-service-with-free-trial-rides-103260315095350025.htm"
+      },
+      {
+       "name": "HCMC Metro HURC",
+       "cat": "transit",
+       "note": "QR-Tickets für die Metrolinie 1",
+       "use": "limited",
+       "req": "Nutzung durch Ausländer unklar, Bankkarte an der Sperre als Alternative",
+       "src": "https://e.vnexpress.net/news/news/traffic/no-more-paper-tickets-at-4-ho-chi-minh-city-metro-stations-as-cashless-push-begins-4939300.html"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen bis 45 Tage visumfrei ein, für längere Aufenthalte gibt es ein E-Visum bis 90 Tage über das offizielle Portal.",
+   "src": "https://www.bento.travel/vietnam/ride-hailing",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die Gesellschaft gilt als eher konservativ.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274",
    "checked": "2026-11-18"
   }
  ]
