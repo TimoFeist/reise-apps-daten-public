@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 05:30",
+ "version": "2026-11-18 05:35",
  "categories": [
   {
    "id": "entry",
@@ -15526,6 +15526,268 @@
    "src": "https://www.bento.travel/philippines",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen und gute gesellschaftliche Akzeptanz, gleichgeschlechtliche Partnerschaften und Ehen werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/philippinen-node/philippinensicherheit/212492",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "ER",
+   "name": "Eritrea",
+   "flag": "🇪🇷",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "ess": true,
+     "use": "limited",
+     "req": "Kein mobiles Internet im Land, vor der Reise aktualisieren",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/eritrea-node/eritreasicherheit/226176"
+    }
+   ],
+   "cities": [],
+   "note": "Visum vorab bei eritreischer Botschaft; keine Geldautomaten, keine Kreditkarten, kein mobiles Internet. Bargeld mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/eritrea-node/eritreasicherheit/226176",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können zu Haft oder Geldstrafe führen; Zurückhaltung dringend geraten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eritrea-node/eritreasicherheit/226176",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "ET",
+   "name": "Äthiopien",
+   "flag": "🇪🇹",
+   "apps": [
+    {
+     "name": "Ethiopia e-Visa",
+     "cat": "entry",
+     "note": "Offizielles Portal evisa.gov.et für das E-Visum",
+     "ess": true,
+     "req": "Gilt nur bei Einreise über Flughafen Addis Abeba Bole",
+     "src": "https://ethioembassy.org.uk/?p=3594"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Dritte Fahrdienst-Option, auch in Hawassa",
+     "src": "https://www.bento.travel/ethiopia/ride-hailing"
+    },
+    {
+     "name": "telebirr",
+     "cat": "payment",
+     "pkg": "cn.tydic.ethiopay",
+     "note": "Mobile Wallet von Ethio Telecom für QR-Zahlungen",
+     "use": "limited",
+     "req": "Ethio-Telecom-Nummer und Registrierung mit Pass nötig",
+     "src": "https://www.bento.travel/ethiopia/payments"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karte, Äthiopien vor der Reise laden",
+     "src": "https://www.bento.travel/ethiopia/navigation"
+    },
+    {
+     "name": "Green Motion",
+     "cat": "carshare",
+     "note": "Mietwagen mit Station am Flughafen Bole",
+     "use": "limited",
+     "req": "Internationaler Führerschein, Kreditkarte, Alter 30 bis 65",
+     "src": "https://greenmotion.com/locations/ethiopia/addis-ababa-bole-international-airport"
+    },
+    {
+     "name": "Ethiopian Airlines",
+     "cat": "flights",
+     "pkg": "com.ethiopianairlines.ethiopianairlines",
+     "note": "Buchung, Check-in und Inlandsflüge der Staatsairline",
+     "src": "https://appgoblin.info/apps/com.ethiopianairlines.ethiopianairlines"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Äthiopien riskant",
+     "use": "no",
+     "req": "Homosexualität strafbar, große Vorsicht bei Dating-Apps",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/aethiopien-node/aethiopiensicherheit-209504"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Addis Ababa",
+     "match": [
+      "Addis Ababa"
+     ],
+     "apps": [
+      {
+       "name": "Ride",
+       "cat": "taxi",
+       "pkg": "com.multibrains.taxi.passenger.ridepassengeret",
+       "note": "Verbreitete Taxi-App, auch Buchung per Hotline 8294",
+       "ess": true,
+       "use": "limited",
+       "req": "Fahrer rufen oft an, erreichbare Nummer nötig; Bargeld als Reserve",
+       "src": "https://www.bento.travel/ethiopia/ride-hailing"
+      },
+      {
+       "name": "Feres",
+       "cat": "taxi",
+       "pkg": "com.feres.user",
+       "note": "Große Alternative zu Ride, Preise vergleichen",
+       "ess": true,
+       "use": "limited",
+       "req": "Erreichbare Telefonnummer ratsam; kleine Birr-Scheine bereithalten",
+       "src": "https://www.bento.travel/ethiopia/ride-hailing"
+      },
+      {
+       "name": "beU Delivery",
+       "cat": "delivery",
+       "pkg": "com.xmt.beu.applite",
+       "note": "Essenslieferung mit großer Restaurantauswahl",
+       "use": "limited",
+       "req": "Kuriere rufen an, erreichbare Nummer nötig; Barzahlung möglich",
+       "src": "https://www.bento.travel/ethiopia/food-delivery"
+      },
+      {
+       "name": "Deliver Addis",
+       "cat": "delivery",
+       "pkg": "com.deliveraddis.deliveraddis",
+       "note": "Etablierter Lieferdienst für Restaurants, auch per Web",
+       "use": "limited",
+       "req": "Ausländische Karten gehen nicht immer; Bargeld bereithalten",
+       "src": "https://www.bento.travel/ethiopia/food-delivery"
+      },
+      {
+       "name": "ZMall",
+       "cat": "delivery",
+       "pkg": "com.zmall.user",
+       "note": "Lieferung von Restaurants, Lebensmitteln und Läden",
+       "src": "https://www.bento.travel/ethiopia/food-delivery"
+      },
+      {
+       "name": "Menged",
+       "cat": "transit",
+       "pkg": "com.menged.user",
+       "note": "Busse verfolgen und bezahlen, nur teilnehmende Linien",
+       "use": "limited",
+       "req": "Aufladen teils nur über telebirr",
+       "src": "https://www.bento.travel/ethiopia/transit"
+      },
+      {
+       "name": "Addis Bike",
+       "cat": "micro",
+       "note": "Leihräder an Stationen, Entsperren per QR-Code",
+       "use": "limited",
+       "req": "Registrierung laut Store mit nationalem Ausweis; nur iPhone",
+       "src": "https://apps.apple.com/us/app/-/id6742169443"
+      }
+     ]
+    }
+   ],
+   "note": "Visum nötig, E-Visum nur bei Einreise über Addis Abeba Bole; Pass sechs Monate gültig. Birr in kleinen Scheinen mitnehmen.",
+   "src": "https://www.bento.travel/ethiopia/ride-hailing",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar und mit bis zu 15 Jahren Haft bedroht; bei Dating-Apps ist große Vorsicht geboten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aethiopien-node/aethiopiensicherheit-209504",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GQ",
+   "name": "Äquatorialguinea",
+   "flag": "🇬🇶",
+   "apps": [
+    {
+     "name": "BGFIMobile GE",
+     "cat": "payment",
+     "pkg": "com.gui.app.ge",
+     "note": "Mobile Banking und BGFIMoney der BGFIBank",
+     "use": "no",
+     "req": "Lokale Telefonnummer, für Banking ein BGFIBank Konto nötig",
+     "src": "https://appgoblin.info/apps/com.gui.app.ge"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Malabo",
+     "match": [
+      "Malabo"
+     ],
+     "apps": [
+      {
+       "name": "Buga",
+       "cat": "taxi",
+       "note": "Fahrdienst mit Festpreis und Live-Verfolgung",
+       "use": "limited",
+       "req": "Registrierung mit Telefonnummer, lokale Nummer kann nötig sein",
+       "src": "https://apps.apple.com/app/id6745259668"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen über Partner CFAO Motors in Malabo",
+       "src": "https://avis.com/amp/en/locations/eq/malabo/e6g"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab nötig, bei Anreise per Flug als E-Visum; Gelbfieberimpfung Pflicht. Karten selten, Euro bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node/aequatorialguineasicherheit-226768",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, LGBTQ+ Personen werden gesellschaftlich aber stigmatisiert und sind nicht gesetzlich geschützt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node/aequatorialguineasicherheit-226768",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SZ",
+   "name": "Eswatini",
+   "flag": "🇸🇿",
+   "apps": [
+    {
+     "name": "Leap Taxi App",
+     "cat": "taxi",
+     "note": "Lokale Taxi-App, zuerst in Eswatini gestartet",
+     "ess": true,
+     "src": "https://apps.apple.com/lu/app/leap-taxi-app/id6475029322"
+    },
+    {
+     "name": "Thumo",
+     "cat": "delivery",
+     "note": "Essenslieferung in Mbabane und Ezulwini; Bar, Karte, Mobile Money",
+     "ess": true,
+     "src": "https://app.newsonafrica.com/sz/article/thumo-app-in-eswatini-a-young-delivery-platforms-early-traction-growing-pains-and-regulatory-questions-ahead-3266"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen King Mswati III und in Matsapha",
+     "req": "Internationaler Führerschein und Kreditkarte nötig",
+     "src": "https://avis.co.za/drive-avis/car-hire-locations/southern-africa/eswatini"
+    },
+    {
+     "name": "Europcar",
+     "cat": "carshare",
+     "note": "Mietwagen mit Station in Matsapha",
+     "req": "Internationaler Führerschein und Kreditkarte nötig",
+     "src": "https://www.europcar.co.uk/en-gb/places/car-hire-eswatini/matsapha"
+    },
+    {
+     "name": "MyMTN Eswatini",
+     "cat": "misc",
+     "note": "Guthaben und Datenpakete für MTN-SIM verwalten",
+     "use": "limited",
+     "req": "Lokale MTN-SIM nötig",
+     "src": "https://apps.apple.com/us/app/id1509957641"
+    },
+    {
+     "name": "eMali",
+     "cat": "payment",
+     "note": "Mobile Wallet von Eswatini Mobile für Zahlungen und Transfers",
+     "use": "no",
+     "req": "Lokale SIM, Ausweis und Wohnsitznachweis nötig",
+     "src": "https://www.eswatiniobserver.com/e-mali-expands-digital-payments-eswatini/"
+    }
+   ],
+   "cities": [],
+   "note": "Touristenvisum für 30 Tage an der Grenze; Reisepass sechs Monate gültig, kein Personalausweis. Linksverkehr, nachts nicht fahren.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, aktuelle Verfolgungen sind nicht bekannt; Zärtlichkeiten in der Öffentlichkeit können geahndet werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
    "checked": "2026-11-18"
   }
  ]
