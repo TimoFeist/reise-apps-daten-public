@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 15:52",
+ "version": "2026-11-18 19:43",
  "categories": [
   {
    "id": "entry",
@@ -21785,6 +21785,446 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, der High Court hat die Gesetze 2024 bestätigt; Fälle von Strafverfolgung sind laut Auswärtigem Amt nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NE",
+   "name": "Niger",
+   "flag": "🇳🇪",
+   "apps": [
+    {
+     "name": "SiDrive",
+     "cat": "taxi",
+     "note": "Nigrische Fahrdienst-App für Auto und Motorrad",
+     "src": "https://apps.apple.com/ml/app/sidrive/id6760192920"
+    },
+    {
+     "name": "Airtel Money",
+     "cat": "payment",
+     "note": "Mobile-Money-Wallet von Airtel Niger",
+     "use": "no",
+     "req": "Nigrische Airtel-Nummer mit Registrierung nötig",
+     "src": "https://btw.media/en/airtel-niger-pushes-digital-and-financial-inclusion"
+    },
+    {
+     "name": "MyMoov Niger",
+     "cat": "misc",
+     "note": "Kundenkonto und Angebote von Moov Africa Niger",
+     "use": "limited",
+     "req": "Nur mit SIM-Karte von Moov Africa Niger",
+     "src": "https://apps.apple.com/bg/app/mymoov-niger/id1668457544"
+    },
+    {
+     "name": "Garinmou",
+     "cat": "tourism",
+     "note": "Reiseführer zu Sehenswürdigkeiten in allen Regionen",
+     "src": "https://mwm.ai/apps/garinmou/6788901205"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Niger gefährlich",
+     "use": "no",
+     "req": "Gleichgeschlechtliche Handlungen seit 2026 mit Haft bedroht",
+     "src": "https://76crimes.com/2026/06/12/niger-adopts-anti-lgbtq-law-threatens-up-to-20-years-in-prison/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Niamey",
+     "match": [
+      "Niamey"
+     ],
+     "apps": [
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen mit Station am Flughafen Niamey",
+       "use": "limited",
+       "req": "Führerschein und Karte; Vollkasko und Diebstahlschutz Pflicht",
+       "src": "https://www.avis.com/en/locations/af/nr/niamey/nim"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung und Ausreiseaufforderung des Auswärtigen Amts; Visum vorab über die Botschaft, Gelbfieberimpfung Pflicht.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/226384",
+   "lgbtq_note": "Seit Juni 2026 sind gleichgeschlechtliche Handlungen mit fünf bis zehn Jahren Haft strafbar, LGBTQ+ Vereinigungen ebenfalls.",
+   "lgbtq_src": "https://76crimes.com/2026/06/12/niger-adopts-anti-lgbtq-law-threatens-up-to-20-years-in-prison/",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NG",
+   "name": "Nigeria",
+   "flag": "🇳🇬",
+   "apps": [
+    {
+     "name": "Nigeria e-Visa",
+     "cat": "entry",
+     "note": "Offizielles Portal evisa.immigration.gov.ng, Erteilung in etwa 48 Stunden",
+     "ess": true,
+     "req": "Vor der Reise beantragen, Visum mit QR-Code mitführen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/nigeria-node/nigeriasicherheit/205788"
+    },
+    {
+     "name": "Landing and Exit Card",
+     "cat": "entry",
+     "note": "Digitale Ein- und Ausreisekarte über lecard.immigration.gov.ng",
+     "ess": true,
+     "req": "Online vorab ausfüllen, Nachweis während des Aufenthalts mitführen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/nigeria-node/nigeriasicherheit/205788"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Größtes Städtenetz, nach Ubers Abzug erste Wahl",
+     "ess": true,
+     "src": "https://www.bento.travel/nigeria"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis in der App mit dem Fahrer aushandeln",
+     "src": "https://www.bento.travel/nigeria"
+    },
+    {
+     "name": "Chowdeck",
+     "cat": "delivery",
+     "pkg": "com.chowdeck.com",
+     "note": "Essen, Einkäufe und Apotheke in neun Städten liefern lassen",
+     "ess": true,
+     "use": "limited",
+     "req": "Telefonnummer und E-Mail nötig; ausländische Karten können scheitern",
+     "src": "https://www.bento.travel/nigeria/transit"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Lieferung von Restaurants und Läden, vor allem Lagos und Abuja",
+     "src": "https://www.bento.travel/nigeria"
+    },
+    {
+     "name": "LemFi",
+     "cat": "payment",
+     "pkg": "com.lemonadeFinance.android",
+     "note": "Geld an nigerianische Bankkonten überweisen, keine Kartenzahlung",
+     "use": "limited",
+     "req": "Nur für Einwohner unterstützter Länder, Identitätsprüfung vor der Reise",
+     "src": "https://www.bento.travel/nigeria/payments"
+    },
+    {
+     "name": "OPay",
+     "cat": "payment",
+     "note": "Verbreitete lokale Wallet für Überweisungen und Zahlungen",
+     "use": "no",
+     "req": "Nigerianische BVN oder NIN zur Kontoeröffnung nötig",
+     "src": "https://techpoint.africa/2023/12/18/opay-palmpay-enforce-bvn-nin/"
+    },
+    {
+     "name": "PalmPay",
+     "cat": "payment",
+     "note": "Lokale Wallet für Überweisungen und Zahlungen",
+     "use": "no",
+     "req": "Nigerianische BVN oder NIN zur Kontoeröffnung nötig",
+     "src": "https://techpoint.africa/2023/12/18/opay-palmpay-enforce-bvn-nin/"
+    },
+    {
+     "name": "GIG Mobility",
+     "cat": "rail",
+     "pkg": "com.gigm",
+     "note": "Überlandbusse buchen, Ticket offline speichern",
+     "src": "https://www.bento.travel/nigeria"
+    },
+    {
+     "name": "NRC E-Ticketing",
+     "cat": "rail",
+     "note": "Bahntickets etwa für Lagos nach Ibadan über nrc.gsds.ng",
+     "use": "no",
+     "req": "Nigerianische NIN zur Registrierung nötig; am Bahnhof nur bargeldlos",
+     "src": "https://techcabal.com/2023/11/09/how-to-book-train-online-for-lagos-ibadan-2023"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Nigeria gefährlich",
+     "use": "no",
+     "req": "Homosexualität strafbar; Banden locken Nutzer über Dating-Apps in Fallen",
+     "src": "https://www.context.news/digital-rights/lgbtq-nigerians-using-apps-like-grindr-caught-in-dating-traps"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Lagos",
+     "match": [
+      "Lagos"
+     ],
+     "apps": [
+      {
+       "name": "Lagride",
+       "cat": "taxi",
+       "pkg": "com.lagos.emobility.client",
+       "note": "Fahrdienst des Bundesstaats Lagos, kleinere Flotte",
+       "src": "https://www.bento.travel/nigeria/transit"
+      },
+      {
+       "name": "Cowry",
+       "cat": "transit",
+       "pkg": "com.cowry",
+       "note": "Fahrgeld für BRT Busse und Blue Line Bahn in Lagos",
+       "use": "limited",
+       "req": "Auslandskarten oft abgelehnt; physische Karte bei Agenten aufladen",
+       "src": "https://www.bento.travel/nigeria/transit"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen mit Station in Apapa, Lagos",
+       "use": "limited",
+       "req": "Führerschein und Kreditkarte; Fahreralter ab 25 in der Buchung",
+       "src": "https://www.avis.com/en/locations/af/ng/lagos/p8h"
+      },
+      {
+       "name": "Sixt",
+       "cat": "carshare",
+       "note": "Mietwagen, Übergabe durch Personal in der Ankunftshalle",
+       "use": "limited",
+       "req": "Führerschein nötig, Mindestalter 18; kein Schalter vor Ort",
+       "src": "https://www.sixt.co.uk/car-hire/nigeria/lagos/"
+      },
+      {
+       "name": "MyLagosApp",
+       "cat": "tourism",
+       "note": "Events, Ausgehen, Verkehrslage und Notdienste in Lagos",
+       "src": "https://nairametrics.com/2025/05/08/lagos-tourism-ministry-partners-mylagosapp-to-enhance-service-delivery-for-residents-and-tourists/"
+      }
+     ]
+    }
+   ],
+   "note": "E-Visum vor Abflug beantragen, Visum bei Ankunft gibt es nicht mehr; Gelbfieberimpfung Pflicht und Uber ist seit September 2026 weg.",
+   "src": "https://www.bento.travel/nigeria",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, landesweit drohen bis zu 14 Jahre Haft und in nördlichen Bundesstaaten nach islamischem Recht noch härtere Strafen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nigeria-node/nigeriasicherheit/205788",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "RE",
+   "name": "Réunion",
+   "flag": "🇷🇪",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+    },
+    {
+     "name": "FR-Alert",
+     "cat": "safety",
+     "note": "Behördliche Warnungen bei Zyklon oder Vulkanausbruch",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+    },
+    {
+     "name": "M-Ticket Car Jaune",
+     "cat": "transit",
+     "pkg": "com.actoll.tpass.carjaune",
+     "note": "Handytickets für Car Jaune, Citalis, Alternéo, Kar'Ouest",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto mit E-Mail und Kreditkarte nötig, NFC beim Scannen ausschalten",
+     "src": "https://tsi.carjaune3.cityway.fr/setlang/en/9/0"
+    },
+    {
+     "name": "Car Jaune",
+     "cat": "rail",
+     "pkg": "fr.cityway.android_v2.carjaune",
+     "note": "Inselweites Busnetz: Fahrpläne, Routen und Störungen",
+     "ess": true,
+     "src": "https://appgoblin.info/apps/fr.cityway.android_v2.carjaune"
+    },
+    {
+     "name": "Île de La Réunion Mobilités",
+     "cat": "transit",
+     "note": "Routenplaner für alle Busnetze, Rad und Mitfahrten",
+     "src": "https://www.leaderreunion.fr/en/une-application-pour-mieux-se-deplacer/"
+    },
+    {
+     "name": "Pup",
+     "cat": "delivery",
+     "note": "Essen von Imbiss bis Hausmannskost liefern lassen",
+     "src": "https://apps.apple.com/be/app/pup/id6741674344"
+    },
+    {
+     "name": "EasyMove VTC/Taxi à La Réunion",
+     "cat": "taxi",
+     "note": "Fahrer mit Mietwagen in der Nähe auf der ganzen Insel",
+     "src": "https://apps.apple.com/fr/app/id6496204636"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Roland Garros, täglich geöffnet",
+     "use": "limited",
+     "req": "Führerschein nötig, Bedingungen für Fahrer unter 25 vorab prüfen",
+     "src": "https://avis.fr/services-avis/location-voiture/afrique/reunion/sainte-marie/aeroport-de-saint-denis"
+    },
+    {
+     "name": "Zotcar",
+     "cat": "carshare",
+     "note": "Autos von Privatleuten mieten, ohne Papiervertrag",
+     "use": "limited",
+     "req": "Mindestalter 23, Führerschein seit drei Jahren",
+     "src": "https://serenitrip.fr/?p=16697"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Saint-Paul",
+     "match": [
+      "Saint-Paul"
+     ],
+     "apps": [
+      {
+       "name": "KAR'OUEST",
+       "cat": "transit",
+       "note": "Busnetz der Westküste mit Abfahrten und Störungen",
+       "src": "https://apps.apple.com/jp/app/karouest/id1475766354?l=en"
+      }
+     ]
+    },
+    {
+     "name": "Saint-Pierre",
+     "match": [
+      "Saint-Pierre"
+     ],
+     "apps": [
+      {
+       "name": "Alternéo",
+       "cat": "transit",
+       "pkg": "fr.cityway.android_v2.alterneo",
+       "note": "Stadtbusse im Süden mit Fahrplänen und Routen",
+       "src": "https://appgoblin.info/apps/fr.cityway.android_v2.alterneo"
+      },
+      {
+       "name": "alterVélo libre service",
+       "cat": "micro",
+       "note": "E-Leihräder an Stationen, per Handy entsperren",
+       "use": "limited",
+       "req": "Konto und Abo in der App nötig",
+       "src": "https://apps.apple.com/us/app/id6469518435"
+      }
+     ]
+    }
+   ],
+   "note": "Personalausweis genügt, bei Umstieg etwa über Mauritius aber Reisepass nötig; Mietwagen vorab buchen, Zyklonsaison Januar bis April.",
+   "src": "https://en.reunion.fr/organize/holiday-tips/questions-answers/transport-on-the-island/",
+   "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "RW",
+   "name": "Ruanda",
+   "flag": "🇷🇼",
+   "apps": [
+    {
+     "name": "Irembo",
+     "cat": "entry",
+     "note": "Staatliches Portal irembo.gov.rw für den Visumantrag",
+     "ess": true,
+     "req": "Gebühr rund 50 USD per Visa oder Mastercard, Pass sechs Monate über die Reise hinaus gültig",
+     "src": "https://support.irembo.gov.rw/en/support/solutions/articles/47001155415-how-to-apply-for-visa"
+    },
+    {
+     "name": "Vuba Vuba",
+     "cat": "delivery",
+     "pkg": "com.esicia.vubaba",
+     "note": "Essen und Lebensmittel in Kigali, Rubavu, Musanze und Rusizi",
+     "use": "limited",
+     "req": "Ausländische Karte kann scheitern, Bargeld bereithalten; erreichbare Telefonnummer nötig",
+     "src": "https://www.bento.travel/rwanda/food-delivery"
+    },
+    {
+     "name": "MTN MoMo",
+     "cat": "payment",
+     "pkg": "mtnft.momo.consumer",
+     "note": "Verbreitetste Mobile-Money-Wallet des Landes",
+     "use": "no",
+     "req": "Ruandische MTN-Nummer mit Registrierung per Reisepass nötig, reine Daten-eSIM reicht nicht",
+     "src": "https://bento.travel/blog/how-to-pay-in-rwanda"
+    },
+    {
+     "name": "Tap&Go",
+     "cat": "transit",
+     "pkg": "com.tapandgorw.app",
+     "note": "Begleit-App zur Buskarte, ersetzt die Karte nicht",
+     "use": "limited",
+     "req": "Physische Tap&Go-Karte nötig, Aufladen am Terminal oder bei Agenten",
+     "src": "https://www.bento.travel/rwanda"
+    },
+    {
+     "name": "RITCO",
+     "cat": "rail",
+     "pkg": "rw.ritco.app",
+     "note": "Staatliche Fernbusse mit Fahrplan und Tickets",
+     "src": "https://www.bento.travel/rwanda"
+    },
+    {
+     "name": "RwandAir",
+     "cat": "flights",
+     "note": "Flüge der Landesairline buchen und online einchecken",
+     "src": "https://www.rwandair.com/information/prepare-to-fly/plan-your-travel-with-rwandair-app"
+    },
+    {
+     "name": "Visit Rwanda",
+     "cat": "tourism",
+     "pkg": "com.rdb.tourism",
+     "note": "App der Entwicklungsbehörde RDB zu Parks, Touren und Unterkünften",
+     "src": "https://www.visitrwanda.com/visit-rwanda-app/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kigali",
+     "match": [
+      "Kigali"
+     ],
+     "apps": [
+      {
+       "name": "Move",
+       "cat": "taxi",
+       "pkg": "rw.vw.communitycarsharing",
+       "note": "Fahrdienst mit VW-Fahrzeugen und Chauffeur",
+       "ess": true,
+       "src": "https://www.bento.travel/rwanda"
+      },
+      {
+       "name": "YEGO",
+       "cat": "taxi",
+       "pkg": "com.yego.passenger",
+       "note": "Regulierte Taxis mit Preisschätzung ohne Aufschlag",
+       "ess": true,
+       "use": "limited",
+       "req": "Zahlung bar oder per Mobile Money, ausländische Karte nicht gesichert",
+       "src": "https://www.bento.travel/rwanda"
+      },
+      {
+       "name": "Europcar",
+       "cat": "carshare",
+       "note": "Mietwagen mit oder ohne Fahrer am Flughafen Kigali",
+       "use": "limited",
+       "req": "Kreditkarte auf den Namen des Fahrers, internationaler Führerschein nur zusammen mit dem deutschen",
+       "src": "https://www.europcar.co.uk/en-gb/places/car-hire-rwanda/kigali/kigali-intl-airport-self-drive"
+      }
+     ]
+    }
+   ],
+   "note": "Visum online über Irembo oder bei Ankunft, rund 50 USD; wer in den 30 Tagen davor in der DR Kongo war, wird abgewiesen.",
+   "src": "https://www.bento.travel/rwanda",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Beziehungen sind gesellschaftlich aber nicht akzeptiert; Zurückhaltung in der Öffentlichkeit ist ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ruanda-node/ruandasicherheit-212026",
    "checked": "2026-11-18"
   }
  ]
