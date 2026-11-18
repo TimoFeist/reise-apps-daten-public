@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 19:47",
+ "version": "2026-11-18 20:07",
  "categories": [
   {
    "id": "entry",
@@ -22577,6 +22577,218 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind auch in den Britischen Überseegebieten nicht strafbar, gesellschaftliche Akzeptanz und Schutzrechte sind aber geringer als in Großbritannien.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "TV",
+   "name": "Tuvalu",
+   "flag": "🇹🇻",
+   "apps": [
+    {
+     "name": "Fiji Airways",
+     "cat": "flights",
+     "pkg": "com.tvptdigital.fijiairways",
+     "note": "Buchung und Check in für die Flüge von Fidschi nach Funafuti",
+     "ess": true,
+     "src": "https://appgoblin.info/apps/com.tvptdigital.fijiairways"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste der deutschen Auslandsvertretungen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666"
+    },
+    {
+     "name": "Tuvalu Meteorological Service",
+     "cat": "safety",
+     "note": "Wetterberichte und Sturmwarnungen, nur Webseite",
+     "src": "https://tuvmet.tv/node/3794"
+    },
+    {
+     "name": "Timeless Tuvalu",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite mit Unterkünften und Touren",
+     "src": "https://www.timelesstuvalu.com/travel-to-the-tuvalu-islands/"
+    }
+   ],
+   "cities": [],
+   "note": "Visumfrei bis 90 Tage, aber keine Geldautomaten und keine Kartenzahlung, daher genug AUD bar für den ganzen Aufenthalt mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
+   "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind laut Auswärtigem Amt verboten und können mit Haftstrafen belegt werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "VU",
+   "name": "Vanuatu",
+   "flag": "🇻🇺",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste der deutschen Auslandsvertretungen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498"
+    },
+    {
+     "name": "VMGD",
+     "cat": "safety",
+     "pkg": "com.cubit.weather.prod",
+     "note": "Offizielle Wetter-, Zyklon- und Vulkanwarnungen, offline",
+     "ess": true,
+     "src": "https://www.vmgd.gov.vu/policies/privacy-policy"
+    },
+    {
+     "name": "Vanuatu Travel",
+     "cat": "tourism",
+     "note": "Tourismusamt mit Tipps zu Bus, Taxi und Fähren, nur Webseite",
+     "src": "https://www.vanuatu.travel/things-to-know/travel-tips/using-local-transport"
+    },
+    {
+     "name": "Air Vanuatu",
+     "cat": "flights",
+     "note": "Nationale Airline, derzeit nur Inlandsflüge ab Port Vila",
+     "src": "https://www.ch-aviation.com/news/170482-air-vanuatu-eyes-domestic-route-resumptions-by-4q26"
+    },
+    {
+     "name": "Aelan Express",
+     "cat": "rail",
+     "note": "Fähre Port Vila nach Malekula und Santo, online buchbar",
+     "req": "Zahlung online per Visa-Karte",
+     "src": "https://vbr.vu/news/mv-blue-wota-resumes-inter-island-service-after-upgrades/"
+    },
+    {
+     "name": "Vanuatu Ferry",
+     "cat": "rail",
+     "note": "Inselfähren mit Onlinebuchung, nur Webseite",
+     "src": "https://www.vanuatu.travel/au/practical-information/getting-around-vanuatu/ferries"
+    },
+    {
+     "name": "Budget Rent A Car",
+     "cat": "carshare",
+     "note": "Mietwagen, Zahlung auch per MyCash-QR, keine App belegt",
+     "req": "Gültiger Führerschein nötig",
+     "src": "https://digicelpacific.com/news/budget-car-rentals-taps-digicel-vanuatu-mycash-for-convenient-rental-payments"
+    },
+    {
+     "name": "MyCash Digicel",
+     "cat": "payment",
+     "note": "Digicel-Geldbörse für QR-Zahlungen und Überweisungen",
+     "use": "limited",
+     "req": "Digicel-Vanuatu-SIM und Registrierung nötig",
+     "src": "https://www.digicelpacific.com/mobile/vu/promotions/learn-more-about_mycash"
+    },
+    {
+     "name": "M-VATU",
+     "cat": "payment",
+     "note": "Mobile Geldbörse von Vodafone Vanuatu mit QR-Zahlung",
+     "use": "limited",
+     "req": "Registrierung im Vodafone-Shop mit Reisepass und lokaler Nummer",
+     "src": "https://www.tvl.vu/pages/m-vatu"
+    },
+    {
+     "name": "NBV IsiMobile",
+     "cat": "payment",
+     "note": "Mobile Banking der National Bank of Vanuatu",
+     "use": "no",
+     "req": "Konto bei der National Bank of Vanuatu nötig",
+     "src": "https://www.nbv.vu/mobile-banking.html"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Port Vila",
+     "match": [
+      "Port Vila"
+     ],
+     "apps": [
+      {
+       "name": "Air Taxi Vanuatu",
+       "cat": "flights",
+       "note": "Charter- und Vulkanflüge ab Port Vila, Buchung per Webseite",
+       "src": "https://vanuatu.travel/au/air-taxi-vanuatu"
+      },
+      {
+       "name": "Maua",
+       "cat": "shopping",
+       "note": "Onlineshop lokaler Händler mit Lieferung, auch Essen",
+       "src": "https://vbr.vu/profile/the-maua-app/"
+      }
+     ]
+    }
+   ],
+   "note": "Kein Visum bis 90 Tage, Pass 6 Monate gültig. Taxis haben kein Taxameter, Preis vorher aushandeln und Bargeld in Vatu dabeihaben.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498",
+   "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt nicht strafbar, Partnerschaften werden aber nicht anerkannt und es gibt keinen Diskriminierungsschutz.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "WF",
+   "name": "Wallis und Futuna",
+   "flag": "🇼🇫",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste, sinnvoll in der Zyklonsaison",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+    },
+    {
+     "name": "Aircalin",
+     "cat": "flights",
+     "note": "Einzige Airline nach Wallis, Flüge ab Nouméa buchen",
+     "ess": true,
+     "src": "https://www.wallis-futuna.travel/en/what-to-see-do/useful-information"
+    },
+    {
+     "name": "Wallis et Futuna Tourisme",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite mit Vermietern, nur Webseite",
+     "src": "https://wallis-futuna.travel/en/what-to-see-do/transport"
+    },
+    {
+     "name": "Haviti location",
+     "cat": "carshare",
+     "note": "Fahrzeugvermietung auf Wallis mit Schalter am Flughafen",
+     "req": "Buchung per Formular, Telefon oder E-Mail",
+     "src": "https://wallis-futuna.travel/en/what-to-see-do/transport/194-haviti-location-en"
+    },
+    {
+     "name": "Banque de Wallis et Futuna",
+     "cat": "payment",
+     "pkg": "net.bnpparibas.mescompteswallisfutuna",
+     "note": "Banking App der einzigen Bank im Gebiet",
+     "use": "no",
+     "req": "Nur mit Konto bei der Banque de Wallis et Futuna",
+     "src": "https://appgoblin.info/apps/net.bnpparibas.mescompteswallisfutuna"
+    }
+   ],
+   "cities": [],
+   "note": "Genug Bargeld in Franc CFP mitnehmen, viele Läden nehmen keine Karte. Busse gibt es nicht, Mietwagen oder Roller vorab reservieren.",
+   "src": "https://www.wallis-futuna.travel/en/what-to-see-do/useful-information",
+   "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, eigene Hinweise für Wallis und Futuna nennt das Auswärtige Amt nicht.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "checked": "2026-11-18"
   }
  ]
