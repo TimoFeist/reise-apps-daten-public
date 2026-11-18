@@ -2,26 +2,6 @@
   "continent": "AF",
   "todo": [
     {
-      "code": "NE",
-      "en": "Niger",
-      "slug": "niger"
-    },
-    {
-      "code": "NG",
-      "en": "Nigeria",
-      "slug": "nigeria"
-    },
-    {
-      "code": "RW",
-      "en": "Rwanda",
-      "slug": "rwanda"
-    },
-    {
-      "code": "RE",
-      "en": "Réunion",
-      "slug": "r-union"
-    },
-    {
       "code": "SH",
       "en": "Saint Helena, Ascension and Tristan da Cunha",
       "slug": "saint-helena-ascension-and-tristan-da-cunha"
@@ -302,6 +282,26 @@
       "code": "NA",
       "en": "Namibia",
       "slug": "namibia"
+    },
+    {
+      "code": "NE",
+      "en": "Niger",
+      "slug": "niger"
+    },
+    {
+      "code": "NG",
+      "en": "Nigeria",
+      "slug": "nigeria"
+    },
+    {
+      "code": "RW",
+      "en": "Rwanda",
+      "slug": "rwanda"
+    },
+    {
+      "code": "RE",
+      "en": "Réunion",
+      "slug": "r-union"
     }
   ]
 }
