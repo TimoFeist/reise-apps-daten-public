@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 15:28",
+ "version": "2026-11-18 15:38",
  "categories": [
   {
    "id": "entry",
@@ -21173,6 +21173,353 @@
    "src": "https://www.bento.travel/saudi-arabia",
    "lgbtq_note": "Homosexuelle Handlungen werden strafrechtlich verfolgt und mit Geld- oder Freiheitsstrafe geahndet, im Einzelfall droht die Todesstrafe, gesellschaftlich sind sie nicht akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MR",
+   "name": "Mauretanien",
+   "flag": "🇲🇷",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisewarnungen und Hinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190"
+    },
+    {
+     "name": "Netavgou",
+     "cat": "rail",
+     "note": "Mitfahrten und Privatfahrten zwischen Städten",
+     "use": "no",
+     "req": "Guthaben nur über Bankily, Masrvi oder Sedad aufladbar",
+     "src": "https://mwm.ai/apps/netavgou-ntfgw/6751147143"
+    },
+    {
+     "name": "Diaango FOOD",
+     "cat": "delivery",
+     "note": "Warme Mahlzeiten aus Restaurants bestellen",
+     "use": "limited",
+     "req": "Bezahlart nicht angegeben",
+     "src": "https://apps.apple.com/ae/app/diaango-food/id1595561434"
+    },
+    {
+     "name": "Kriliy Cars",
+     "cat": "carshare",
+     "note": "Mauretanischer Mietwagen-Marktplatz, landesweit",
+     "use": "limited",
+     "req": "Anfrage wird vom Anbieter geprüft, Bezahlart nicht angegeben",
+     "src": "https://mwm.ai/apps/kriliy-cars/6596811598"
+    },
+    {
+     "name": "Bankily",
+     "cat": "payment",
+     "note": "Verbreitete Bezahl-App der Banque Populaire",
+     "use": "no",
+     "req": "Mauretanische Ausweisnummer (NNI) für die Kontoeröffnung nötig",
+     "src": "https://prnewswire.com/fr/communiques-de-presse/bankily-revolutionne-les-services-bancaires-numeriques-en-mauritanie-845292240.html"
+    },
+    {
+     "name": "Masrvi",
+     "cat": "payment",
+     "note": "Digitales Konto der BMCI für Zahlungen",
+     "use": "limited",
+     "req": "Konto läuft über einen mauretanischen Mobilfunkanschluss",
+     "src": "https://thefintechtimes.com/mauritanian-bank-for-international-trade-launches-digital-banking-app-powered-by-tagpay/"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Mauretanien gefährlich",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind mit der Todesstrafe bedroht",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Nouakchott",
+     "match": [
+      "Nouakchott"
+     ],
+     "apps": [
+      {
+       "name": "Mauritania Taxi: RideApp",
+       "cat": "taxi",
+       "pkg": "rideapp.taxi.mauritania.passenger",
+       "note": "Stadtfahrten und Flughafentransfer zum Festpreis",
+       "use": "limited",
+       "req": "Keine Angaben zu Registrierung und Bezahlung, Buchung auch telefonisch",
+       "src": "https://play.google.com/store/apps/details?id=rideapp.taxi.mauritania.passenger&hl=en_US"
+      },
+      {
+       "name": "Carim",
+       "cat": "taxi",
+       "note": "Lokale Fahrdienst-App mit Fahrerverfolgung",
+       "use": "limited",
+       "req": "Telefonnummer wird erfasst, Preise und Bezahlung nicht veröffentlicht",
+       "src": "https://apps.apple.com/app/id6760763173"
+      },
+      {
+       "name": "General Livraison",
+       "cat": "delivery",
+       "note": "Essen, Lebensmittel, Medikamente und Pakete liefern",
+       "use": "limited",
+       "req": "Bezahlart nicht angegeben",
+       "src": "https://apps.apple.com/us/app/id6743953460"
+      },
+      {
+       "name": "Livrily",
+       "cat": "delivery",
+       "note": "Restaurants, Läden und Apotheken mit Lieferung",
+       "use": "limited",
+       "req": "Registrierung mit Telefonnummer nötig",
+       "src": "https://apps.apple.com/us/app/wejabat/id1541922446"
+      },
+      {
+       "name": "Europcar",
+       "cat": "carshare",
+       "note": "Mietwagen über die Station am Flughafen buchen",
+       "use": "limited",
+       "req": "Kreditkarte auf eigenen Namen, internationaler Führerschein; Station als Chauffeur-Station gelistet",
+       "src": "https://www.europcar.co.uk/en-gb/places/car-hire-mauritania/nouakchott/nouakchott-airport"
+      }
+     ]
+    }
+   ],
+   "note": "E-Visum vorab online beantragen, 55 Euro bar bei Einreise zahlen; Reisepass muss noch sechs Monate gültig sein, Bargeld mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190",
+   "lgbtq_note": "Homosexuelle Handlungen gelten im Strafrecht als schweres Vergehen und sind mit der Todesstrafe bedroht; Diskretion ist dringend geboten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MZ",
+   "name": "Mosambik",
+   "flag": "🇲🇿",
+   "apps": [
+    {
+     "name": "eVisa Moçambique",
+     "cat": "entry",
+     "note": "Offizielles Portal für die eTA bis 30 Tage, Gebühr vorab online",
+     "ess": true,
+     "url": "https://evisa.gov.mz",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mosambiksicherheit-221782"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrdienst in Maputo, Matola und Beira, auch Essenslieferung",
+     "ess": true,
+     "src": "https://yango.com/en_mz/rider"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen in Maputo sowie an den Flughäfen Beira und Tete",
+     "use": "limited",
+     "req": "Gültiger Führerschein nötig, internationaler nur zusammen mit dem deutschen",
+     "src": "https://www.avis.co.za/drive-avis/car-hire-locations/africa/mozambique"
+    },
+    {
+     "name": "My M-Pesa Mozambique",
+     "cat": "payment",
+     "note": "Mobile Money von Vodacom für Zahlungen und Überweisungen",
+     "use": "limited",
+     "req": "Vodacom-SIM nötig, SIM-Karten werden mit Ausweis registriert",
+     "src": "https://enjoymoz.com/mobile-phone/"
+    },
+    {
+     "name": "eMola",
+     "cat": "payment",
+     "note": "Mobile Money von Movitel, Überweisung zu M-Pesa möglich",
+     "use": "limited",
+     "req": "Movitel-SIM nötig, SIM-Karten werden mit Ausweis registriert",
+     "src": "https://enjoymoz.com/mobile-phone/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Maputo",
+     "match": [
+      "Maputo"
+     ],
+     "apps": [
+      {
+       "name": "PICK & DROP",
+       "cat": "taxi",
+       "note": "Mosambikanische App für Fahrten und Paketversand",
+       "src": "https://apps.apple.com/app/id6749892940"
+      },
+      {
+       "name": "Europcar",
+       "cat": "carshare",
+       "note": "Mietwagen in Maputo online buchen",
+       "use": "limited",
+       "req": "Kreditkarte auf den Fahrer, Führerschein und internationaler Führerschein nötig",
+       "src": "https://www.europcar.co.uk/en-gb/stations/mozambique/maputo-airport"
+      }
+     ]
+    }
+   ],
+   "note": "Vor der Reise eine eTA über evisa.gov.mz beantragen, nur mit Reisepass; vor Cabo Delgado außer Pemba wird gewarnt.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mosambiksicherheit-221782",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die liberale Rechtslage ist in der Gesellschaft aber wenig verankert, daher Zurückhaltung ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mosambiksicherheit-221782",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NA",
+   "name": "Namibia",
+   "flag": "🇳🇦",
+   "apps": [
+    {
+     "name": "Namibia E-Visum (Visa on Arrival online)",
+     "cat": "entry",
+     "note": "Offizielles Portal des Innenministeriums, vor Abreise beantragen",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "note": "Fahrdienst in Windhoek, Swakopmund und Walvis Bay, bar oder Karte",
+     "ess": true,
+     "src": "https://yango.com/en_na/rider"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Fahrdienst mit eigenem Preisvorschlag, meist Barzahlung",
+     "src": "https://indrive.com/en-na/city-rides"
+    },
+    {
+     "name": "DiscoverCars",
+     "cat": "carshare",
+     "note": "Mietwagen und Geländewagen in Windhoek und Walvis Bay vergleichen",
+     "use": "limited",
+     "req": "Internationaler Führerschein mit deutschem Führerschein nötig, Führerschein seit mindestens 2 Jahren",
+     "src": "https://www.discovercars.com/namibia"
+    },
+    {
+     "name": "PayPulse",
+     "cat": "payment",
+     "note": "Wallet von Standard Bank für QR-Zahlung, Parken und Rechnungen",
+     "use": "limited",
+     "req": "Anmeldung per SMS-Code, ob ausländische Nummern gehen, ist unklar; ID-Prüfung für einige Funktionen",
+     "src": "https://www.standardbank.com.na/static_file/Namibia/Personal/pdfs/PayPulse%20Step-By-Step%20Guide.pdf"
+    },
+    {
+     "name": "NWR Namibia Wildlife Resorts",
+     "cat": "hotels",
+     "pkg": "na.com.nwr.app.android",
+     "note": "Staatliche Unterkünfte in den Nationalparks prüfen und buchen",
+     "use": "limited",
+     "req": "Online-Buchung laut NWR zeitweise nicht verfügbar, dann Anfrage per E-Mail",
+     "src": "https://www.nwr.com.na/?p=33842"
+    },
+    {
+     "name": "Etosha App - Namibia",
+     "cat": "tourism",
+     "note": "Offline-Karte der Wasserlöcher und Tierführer für Etosha",
+     "src": "https://apps.apple.com/app/id1582052099"
+    },
+    {
+     "name": "Tracks4Africa Guide",
+     "cat": "maps",
+     "pkg": "za.co.tracks4africa.guide.hybrid",
+     "note": "Offline-Reiseführer mit Karten, Namibia-Paket kostenpflichtig",
+     "src": "https://t4a-guide-app.tracks4africa.co.za"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Windhoek",
+     "match": [
+      "Windhoek"
+     ],
+     "apps": [
+      {
+       "name": "LEFA Namibia",
+       "cat": "taxi",
+       "note": "Namibischer Fahrdienst, auch Fahrten zum Flughafen Hosea Kutako",
+       "use": "limited",
+       "req": "Anmeldung mit Handynummer und E-Mail, ob ausländische Nummern gehen, ist unklar",
+       "src": "https://apps.apple.com/app/id1327371047"
+      },
+      {
+       "name": "Tap a Meal",
+       "cat": "delivery",
+       "note": "Essen aus Restaurants in Windhoek liefern oder abholen",
+       "use": "limited",
+       "req": "Nur Kartenzahlung in der App, Anmeldung ohne lokale Nummer unklar",
+       "src": "https://apps.apple.com/na/app/tap-a-meal/id1503916684"
+      }
+     ]
+    }
+   ],
+   "note": "Seit April 2025 brauchen Deutsche ein Visum, am besten vorab als E-Visum; Reisepass mit 6 Monaten Gültigkeit und 3 freien Seiten.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314",
+   "lgbtq_note": "Das Verbot gleichgeschlechtlicher Handlungen unter Männern wurde 2024 vom Obersten Gericht gekippt, die Regierung hat Berufung eingelegt; offen gelebte Homosexualität ist gesellschaftlich unerwünscht.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "YT",
+   "name": "Mayotte",
+   "flag": "🇾🇹",
+   "apps": [
+    {
+     "name": "Barge de Mayotte",
+     "cat": "rail",
+     "note": "Inoffizielle Info-App zur Fähre, kein Ticketkauf",
+     "src": "https://apps.apple.com/us/app/id1539343816"
+    },
+    {
+     "name": "GariCo Mobilités à Mayotte",
+     "cat": "taxi",
+     "note": "Mitfahrten, Taxi, Fährzeiten und M'Safara-Busse",
+     "src": "https://apps.apple.com/us/app/id1587471999"
+    },
+    {
+     "name": "ChronoCourse",
+     "cat": "delivery",
+     "note": "Supermarkt und Restaurantessen auf der ganzen Insel",
+     "src": "https://apps.apple.com/us/app/chronocourse/id6744323610"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Pamandzi und in Mamoudzou",
+     "use": "limited",
+     "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr",
+     "src": "https://www.avis.fr/services-avis/location-voiture/afrique/mayotte"
+    },
+    {
+     "name": "I.R.M Info Route Mayotte",
+     "cat": "safety",
+     "note": "Live-Meldungen zu Straßensperren, Staus und Steinwürfen",
+     "src": "https://www.mayottehebdo.com/actualite/transport/votre-trajet-a-mayotte-signale-en-direct/"
+    },
+    {
+     "name": "Sortir à Mayotte",
+     "cat": "tourism",
+     "note": "Veranstaltungen, Ausflüge und Freizeit mit Karte",
+     "src": "https://www.mayottehebdo.com/?p=91952"
+    },
+    {
+     "name": "AIR AUSTRAL",
+     "cat": "flights",
+     "note": "Flüge buchen, Check-in und mobile Bordkarte",
+     "src": "https://apps.apple.com/app/id1369158515"
+    }
+   ],
+   "cities": [],
+   "note": "Personalausweis genügt, ein Reisepass wird empfohlen; kein Leitungswasser trinken und auf Armutskriminalität achten.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+   "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, Daten zur gesellschaftlichen Akzeptanz fehlen.",
+   "lgbtq_src": "https://www.equaldex.com/region/mayotte",
    "checked": "2026-11-18"
   }
  ]
