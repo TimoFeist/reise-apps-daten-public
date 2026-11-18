@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "JM",
-   "en": "Jamaica",
-   "slug": "jamaica"
-  },
-  {
-   "code": "MQ",
-   "en": "Martinique",
-   "slug": "martinique"
-  },
-  {
-   "code": "MS",
-   "en": "Montserrat",
-   "slug": "montserrat"
-  },
-  {
-   "code": "NI",
-   "en": "Nicaragua",
-   "slug": "nicaragua"
-  },
-  {
    "code": "PA",
    "en": "Panama",
    "slug": "panama"
@@ -207,6 +187,26 @@
    "code": "HN",
    "en": "Honduras",
    "slug": "honduras"
+  },
+  {
+   "code": "JM",
+   "en": "Jamaica",
+   "slug": "jamaica"
+  },
+  {
+   "code": "MQ",
+   "en": "Martinique",
+   "slug": "martinique"
+  },
+  {
+   "code": "MS",
+   "en": "Montserrat",
+   "slug": "montserrat"
+  },
+  {
+   "code": "NI",
+   "en": "Nicaragua",
+   "slug": "nicaragua"
   }
  ]
 }

@@ -1,0 +1,23 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Personalausweis reicht, bei Zwischenlandung auf einer nicht französischen Insel aber Reisepass mitnehmen.",
+ "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+ "discontinued": [],
+ "apps": [
+  {"name": "Martinique Mobilités", "cat": "transit", "pkg": "", "ess": true, "note": "Offizielle Bus-App: Routenplaner, Fahrpläne und Tarife", "city": "", "use": "ok", "req": "", "src": "https://rci.fm/martinique/infos/Informations-pratiques/Martinique-Mobilites-une-application-de-Martinique-Transport"},
+  {"name": "MT Ticket", "cat": "transit", "pkg": "", "ess": false, "note": "Bustickets und Abos für das Netz Centre und Nord", "city": "", "use": "limited", "req": "Konto mit E-Mail-Bestätigung nötig", "src": "https://apps.apple.com/us/app/mt-ticket/id1559700702?l=en"},
+  {"name": "SudLib", "cat": "transit", "pkg": "", "ess": false, "note": "Busnetz im Süden: Live-Fahrpläne, Routen und Störungen", "city": "", "use": "ok", "req": "", "src": "https://mwm.ai/apps/sudlib/1597767690"},
+  {"name": "Transit", "cat": "rail", "pkg": "com.thetransitapp.droid", "ess": false, "note": "Fahrplan der Fähre Fort-de-France nach Trois-Îlets", "city": "", "use": "ok", "req": "", "src": "https://transitapp.com/en/region/fort-de-france/martinique-transport-navettes-maritimes/ferry-2"},
+  {"name": "Rhumz", "cat": "taxi", "pkg": "com.rhumz.pax", "ess": true, "note": "Lokaler Fahrdienst mit Festpreis, auch Flughafentransfer", "city": "", "use": "ok", "req": "", "src": "https://www.rhumz.com/"},
+  {"name": "Uber", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrdienst auf Martinique nicht verfügbar", "city": "", "use": "no", "req": "Uber-Fahrten werden auf Martinique nicht angeboten", "src": "https://www.rhumz.com/uber-en-martinique-quelles-alternatives/"},
+  {"name": "EasyTaVie", "cat": "delivery", "pkg": "io.easy.customer", "ess": false, "note": "Lokale Essenslieferung und Abholung bei Restaurants", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=io.easy.customer&hl=en_US"},
+  {"name": "Uber Eats", "cat": "delivery", "pkg": "", "ess": false, "note": "Essenslieferung, vor allem im Raum Fort-de-France", "city": "", "use": "ok", "req": "", "src": "https://rci.fm/martinique/infos/Economie/La-livraison-de-repas-un-service-en-plein-essor-en-Martinique"},
+  {"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Aimé Césaire, Miete per App ändern", "city": "", "use": "limited", "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr", "src": "https://www.avis.fr/services-avis/location-voiture/caraibes/martinique/lamentin/aeroport-de-lamentin"},
+  {"name": "Martinique Tour", "cat": "tourism", "pkg": "", "ess": false, "note": "Zweisprachiger Inselführer mit Stränden, Wanderungen, Events", "city": "", "use": "ok", "req": "", "src": "https://www.martinique.org/en/martinique-tour"},
+  {"name": "Nav&Co", "cat": "misc", "pkg": "", "ess": false, "note": "Staatliche Bootsfahrer-App mit Regeln und Schutzzonen", "city": "", "use": "ok", "req": "", "src": "https://outremers360.com/bassin-atlantique-appli/innovation-en-outre-mer-lapplication-nav-co-nouvel-outil-pour-naviguer-en-toute-securite-et-en-respect-des-ecosystemes-marins-en-martinique"},
+  {"name": "Air Caraïbes", "cat": "flights", "pkg": "", "ess": false, "note": "Flüge buchen, Check-in, Bordkarte und Fluginfos", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id6443589629"}
+ ]
+}

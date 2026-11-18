@@ -1,0 +1,121 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Flugreisende melden sich vorab über die Fluggesellschaft an, die Touristenkarte kostet 10 USD und ist nur bar zu zahlen.",
+ "lgbtq_note": "Es gibt keine strafrechtlichen Bestimmungen gegen Homosexualität, die Verfassung verbietet Diskriminierung wegen der sexuellen Orientierung.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Einreiseformular MINT",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Webformular für Einreise auf dem Land- oder Seeweg",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316"
+  },
+  {
+   "name": "Ray App",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Beliebtester Fahrdienst in Managua, bar oder per Karte",
+   "city": "Managua",
+   "use": "ok",
+   "req": "",
+   "src": "https://onde.app/cases/ride-hailing-growth-in-central-america"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrpreis verhandeln, auch Mototaxis, rechtlich Grauzone",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.descubre.vc/noticia/el-auge-de-las-motos-de-indrive-en-managua-popularidad-frente-a-retos-regulatorios-2026-03-31"
+  },
+  {
+   "name": "Aventón",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Fahrdienst, außerhalb Managuas kaum verfügbar",
+   "city": "Managua",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.nonprod.lonelyplanet.com/articles/getting-around-nicaragua"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Internationaler Fahrdienst, im Land nicht aktiv",
+   "city": "",
+   "use": "no",
+   "req": "In Nicaragua nicht verfügbar",
+   "src": "https://www.aeropuertosdelmundo.net/aeropuerto-MGA-preguntas-frecuentes/"
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Führender Lieferdienst vor allem in Managua, auch Barzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.trade.gov/country-commercial-guides/nicaragua-ecommerce"
+  },
+  {
+   "name": "Rentcars",
+   "cat": "carshare",
+   "pkg": "com.rentcars.rentcarscom",
+   "ess": false,
+   "note": "Mietwagen von 11 Anbietern am Flughafen Managua vergleichen",
+   "city": "",
+   "use": "limited",
+   "req": "Kreditkarte auf eigenen Namen, Reisepass und meist Mindestalter 25 nötig",
+   "src": "https://site-aws.rentcars.com/en-gb/company/flexways/nicaragua/airports/mga-augusto-cesar-sandino-managua-departamento-de-managua"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Linien, Haltestellen und Fahrpläne der Stadtbusse",
+   "city": "Managua",
+   "use": "ok",
+   "req": "",
+   "src": "https://moovitapp.com/index/en/public_transit-lines-Managua-3422-855681"
+  },
+  {
+   "name": "Mi Tigo",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben und Datenpakete für Tigo per Karte kaufen",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit Tigo SIM-Karte sinnvoll",
+   "src": "https://support.tigo.com.ni/files/pre/file-reglamento-sorteo-bases-app-mitigo-abr26-.pdf"
+  }
+ ]
+}

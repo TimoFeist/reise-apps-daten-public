@@ -1,0 +1,55 @@
+{
+ "src": "https://visitmontserrat.com/sea",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Die Fähre ab Antigua ist bis auf Weiteres eingestellt. Taxis haben kein Taxameter, daher den Preis vor der Fahrt vereinbaren.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, gleichgeschlechtliche Ehen werden nicht anerkannt und die Gesellschaft gilt als sehr konservativ.",
+ "lgbtq_src": "https://www.gov.uk/foreign-travel-advice/montserrat/safety-and-security",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Travel Montserrat",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Einreise- und Zollformular online vor der Ankunft",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://visitmontserrat.com/sea"
+  },
+  {
+   "name": "Visitor Driving Permit",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Befristete Fahrerlaubnis für Mietwagen online beantragen",
+   "city": "",
+   "use": "limited",
+   "req": "Heimischer Führerschein nötig, Gebühr 18 US-Dollar",
+   "src": "https://www.visitmontserrat.com/getting-around/"
+  },
+  {
+   "name": "Simply Alliouagana",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Verzeichnis lokaler Restaurants, Aktivitäten und Dienste",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://discovermni.com/?p=104285"
+  },
+  {
+   "name": "Serra",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale mobile Geldbörse zum Bezahlen bei Händlern",
+   "city": "",
+   "use": "no",
+   "req": "Ausweis aus Montserrat nötig",
+   "src": "https://apps.apple.com/app/id1580826404"
+  }
+ ]
+}
