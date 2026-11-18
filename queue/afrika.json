@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "TF",
-"en": "French Southern Territories",
-"slug": "french-southern-territories"
-},
-{
-"code": "GA",
-"en": "Gabon",
-"slug": "gabon"
-},
-{
-"code": "GM",
-"en": "Gambia",
-"slug": "gambia"
-},
-{
-"code": "GH",
-"en": "Ghana",
-"slug": "ghana"
-},
-{
 "code": "GN",
 "en": "Guinea",
 "slug": "guinea"
@@ -302,6 +282,26 @@
 "code": "ET",
 "en": "Ethiopia",
 "slug": "ethiopia"
+},
+{
+"code": "TF",
+"en": "French Southern Territories",
+"slug": "french-southern-territories"
+},
+{
+"code": "GA",
+"en": "Gabon",
+"slug": "gabon"
+},
+{
+"code": "GM",
+"en": "Gambia",
+"slug": "gambia"
+},
+{
+"code": "GH",
+"en": "Ghana",
+"slug": "ghana"
 }
 ]
 }
