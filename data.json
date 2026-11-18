@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 05:35",
+ "version": "2026-11-18 09:36",
  "categories": [
   {
    "id": "entry",
@@ -15788,6 +15788,351 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, aktuelle Verfolgungen sind nicht bekannt; Zärtlichkeiten in der Öffentlichkeit können geahndet werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GA",
+   "name": "Gabun",
+   "flag": "🇬🇦",
+   "apps": [
+    {
+     "name": "Gabon e-Visa",
+     "cat": "entry",
+     "note": "Offizielles Portal evisa.dgdi.ga für das Touristenvisum",
+     "ess": true,
+     "use": "limited",
+     "req": "Nur für Touristen; Gebühr laut Quelle teils bar bei Ankunft am Flughafen",
+     "src": "https://visasnews.com/en/gabon-toward-a-fully-digital-e-visa-by-december-2025/"
+    },
+    {
+     "name": "HOLEB",
+     "cat": "taxi",
+     "note": "Gabunische Fahrdienst-App, Preis vorab sichtbar",
+     "src": "https://apps.apple.com/lb/app/holeb/id6736893851"
+    },
+    {
+     "name": "Ekena",
+     "cat": "rail",
+     "note": "Web-App für Tickets für Zug, Boot und Straße im Inland",
+     "src": "https://www.wearetech.africa/fr/fils/solutions/ekena-numerise-lachat-de-billets-de-transport-au-gabon"
+    },
+    {
+     "name": "Airtel Money",
+     "cat": "payment",
+     "note": "Verbreitetste Mobile-Money-Lösung im Land",
+     "use": "no",
+     "req": "Gabunische Airtel-SIM nötig",
+     "src": "https://www.transfi.com/blog/gabons-payment-rails-how-they-work---mobile-money-banking-services-regional-interoperability"
+    },
+    {
+     "name": "Moov Money",
+     "cat": "payment",
+     "note": "Zweite große Mobile-Money-Lösung in Gabun",
+     "use": "no",
+     "req": "Gabunische Moov-SIM nötig",
+     "src": "https://www.transfi.com/blog/gabons-payment-rails-how-they-work---mobile-money-banking-services-regional-interoperability"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Libreville",
+     "match": [
+      "Libreville"
+     ],
+     "apps": [
+      {
+       "name": "Gozem",
+       "cat": "taxi",
+       "pkg": "com.gozem",
+       "note": "Fahrdienst in Libreville, Zahlung per Karte oder Mobile Money",
+       "ess": true,
+       "src": "https://website.gozem.co/corporate/?p=476"
+      },
+      {
+       "name": "Yoboresto",
+       "cat": "delivery",
+       "note": "Essen aus vielen Restaurants, auch Tischreservierung",
+       "use": "limited",
+       "req": "Registrierung mit Telefonnummer nötig",
+       "src": "https://www.wearetech.africa/fr/fils/solutions/gabon-yoboresto-l-application-mobile-qui-redefinit-l-experience-culinaire-en-connectant-clients-et-restaurants"
+      },
+      {
+       "name": "Gogo Africa",
+       "cat": "delivery",
+       "note": "Lieferung von Essen, Lebensmitteln und Medikamenten",
+       "use": "limited",
+       "req": "Konto mit Telefonnummer und Lieferadresse nötig",
+       "src": "https://apps.apple.com/us/app/id1635958341"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen mit Station am Flughafen Léon Mba",
+       "use": "limited",
+       "req": "Fahrer laut Buchungsseite ab 25 Jahren",
+       "src": "https://www.avis.fr/services-avis/location-voiture/afrique/gabon/libreville/aeroport-international-de-libreville"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vor der Reise nötig, Gelbfieberimpfung ist Pflicht. Genug Bargeld in Euro mitnehmen, Kartenzahlung klappt nur selten.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/gabun-node/gabunsicherheit-226324",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, offen gelebte Homosexualität wird von großen Teilen der Bevölkerung aber abgelehnt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/gabun-node/gabunsicherheit-226324",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GH",
+   "name": "Ghana",
+   "flag": "🇬🇭",
+   "apps": [
+    {
+     "name": "Ghana e-Visa",
+     "cat": "entry",
+     "note": "Offizielles Portal evisa.immigration.gov.gh für das E-Visum",
+     "ess": true,
+     "req": "Gebühr für Touristenvisum 260 USD, Pass sechs Monate gültig",
+     "src": "https://www.myjoyonline.com/ghanas-new-e-visa-what-it-is-and-how-to-apply/"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Erste Wahl für Fahrten in mehreren Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Größte Stadtabdeckung, Preise mit Uber vergleichen",
+     "ess": true,
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Dritte Option in Accra und Kumasi",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis wird mit dem Fahrer ausgehandelt",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Shaxi",
+     "cat": "taxi",
+     "pkg": "com.shaxigh.rider",
+     "note": "Ghanaische Fahrdienst-App als Reserve",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Beste erste Wahl für Essen und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Hubtel",
+     "cat": "delivery",
+     "pkg": "com.hubtel.hcb",
+     "note": "Essen, Lebensmittel und Waren an die Adresse bestellen",
+     "use": "limited",
+     "req": "Ausländische Karte beim Bezahlen nicht sicher, Bargeld bereithalten",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "MTN MoMo",
+     "cat": "payment",
+     "pkg": "mtnft.momo.consumer",
+     "note": "Größte Mobile-Money-Wallet des Landes",
+     "use": "no",
+     "req": "MTN-Nummer mit Registrierung per Ghana Card nötig, Touristen meist nicht zugelassen",
+     "src": "https://help-center.mtn.com.gh/hc/en-us/articles/7526351895826-I-do-not-have-a-Ghana-Card-Can-I-use-my-Passport-to-register-my-SIM-card"
+    },
+    {
+     "name": "Telecel Play",
+     "cat": "payment",
+     "pkg": "com.myvodafone.app",
+     "note": "Konto-App mit Zugang zu Telecel Cash",
+     "use": "limited",
+     "req": "Ghanaische Telecel-Nummer und Registrierung nötig, Pass nur teils akzeptiert",
+     "src": "https://www.bento.travel/compare/ghana/mtn-momo-gh-vs-telecel-play-gh"
+    },
+    {
+     "name": "Tap n' Go",
+     "cat": "transit",
+     "pkg": "com.itmsgh.tapngogh",
+     "note": "Staatliche Karte und App für Busse und Trotros",
+     "use": "limited",
+     "req": "Aufladen per Mobile Money; nicht jeder Betreiber nimmt sie an",
+     "src": "https://mot.gov.gh/10/16/1/166/tap-n’-go-transport-service-launched"
+    },
+    {
+     "name": "GIG Mobility",
+     "cat": "rail",
+     "pkg": "com.gigm",
+     "note": "Fernbusse auf ausgewählten Strecken buchen",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Africa World Airlines",
+     "cat": "flights",
+     "pkg": "com.africaworld.app",
+     "note": "Inlandsflüge buchen und einchecken",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "PassionAir",
+     "cat": "flights",
+     "pkg": "com.passionair.biletsatis",
+     "note": "Inlandsflüge suchen, buchen und verwalten",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "GhanaPostGPS",
+     "cat": "maps",
+     "pkg": "com.ghanapostgps.ghanapost",
+     "note": "Offizielle digitale Adressen für jedes Grundstück",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Akwaaba",
+     "cat": "tourism",
+     "pkg": "com.akwaaba.akwaabaapp",
+     "note": "Events, Touren und Erlebnisse finden und buchen",
+     "src": "https://www.bento.travel/fr/ghana"
+    },
+    {
+     "name": "Visit Ghana",
+     "cat": "tourism",
+     "note": "App der Tourismusbehörde für Sehenswürdigkeiten und Unterkünfte",
+     "src": "https://apps.apple.com/td/app/visit-ghana/id1547180179"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Ghana gefährlich",
+     "use": "no",
+     "req": "Homosexualität strafbar; Banden locken Nutzer in Fallen und erpressen sie",
+     "src": "https://76crimes.com/2026/01/29/torture-blackmail-extortion-the-dangers-of-queer-online-dating-in-ghana/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Accra",
+     "match": [
+      "Accra"
+     ],
+     "apps": [
+      {
+       "name": "Chowdeck",
+       "cat": "delivery",
+       "pkg": "com.chowdeck.com",
+       "note": "Lieferung von Essen und Lebensmitteln",
+       "use": "limited",
+       "req": "Erreichbare Telefonnummer für die Bestellung nötig",
+       "src": "https://www.bento.travel/fr/ghana"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen mit Station in Accra",
+       "use": "limited",
+       "req": "Führerschein und Kreditkarte; Vollkasko und Diebstahlschutz Pflicht",
+       "src": "https://avis.com/amp/en/locations/gh/accra/r20"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab nötig (E-Visum seit Mai 2026), Gelbfieberimpfung Pflicht; MoMo nicht als einziges Zahlungsmittel einplanen.",
+   "src": "https://www.bento.travel/fr/ghana",
+   "lgbtq_note": "Homosexuelle Handlungen sind mit mehrjähriger Haft bedroht, ein schärferes Gesetz wurde im Mai 2026 beschlossen; Zurückhaltung in der Öffentlichkeit ist dringend geraten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ghana-node/ghanasicherheit-203372",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GM",
+   "name": "Gambia",
+   "flag": "🇬🇲",
+   "apps": [
+    {
+     "name": "Gamride",
+     "cat": "taxi",
+     "note": "Lokale Taxi-App für Großraum Banjul und Flughafen",
+     "ess": true,
+     "use": "limited",
+     "req": "Telefonnummer vermutlich nötig; Zahlung bar oder per lokalem Mobile Money",
+     "src": "https://apps.apple.com/app/id6746125541"
+    },
+    {
+     "name": "Tardem",
+     "cat": "taxi",
+     "pkg": "com.seysolution.tardem",
+     "note": "Fahrdienst mit geprüften Fahrern in den größeren Orten",
+     "use": "limited",
+     "req": "Anmeldung mit Telefonnummer und SMS-Code; Zahlung bar oder per Mobile Money",
+     "src": "https://appgoblin.info/apps/com.seysolution.tardem"
+    },
+    {
+     "name": "1Bena",
+     "cat": "delivery",
+     "pkg": "product.customer.bena",
+     "note": "Essen, Einkäufe, Kurier und Fahrten in einer App",
+     "src": "https://www.my-gambia.com/article/didnt-know-about-1bena/"
+    },
+    {
+     "name": "INDIL",
+     "cat": "delivery",
+     "pkg": "com.Indil.markets",
+     "note": "Lieferung von Märkten und Läden, auch Botendienst",
+     "src": "https://www.indil.gm/customer-app"
+    },
+    {
+     "name": "Wave",
+     "cat": "payment",
+     "note": "Verbreitetes Mobile Money für Zahlungen und Überweisungen",
+     "use": "limited",
+     "req": "Konto nur mit Identitätsprüfung per Pass bei einem Wave-Agenten",
+     "src": "https://wave.com/en/terms_gm"
+    },
+    {
+     "name": "Afrimoney",
+     "cat": "payment",
+     "note": "Mobile Money von Africell für Überweisungen und Rechnungen",
+     "use": "limited",
+     "req": "Registrierung per SMS oder bei einem Agenten, Africell-Nummer nötig",
+     "src": "https://www.africell.com/afrimoney/"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen mit Station am Flughafen Banjul, rund um die Uhr",
+     "use": "limited",
+     "req": "Heimischer Führerschein, Visa-Kreditkarte, Mindestalter 21 Jahre",
+     "src": "https://avis.com/amp/pt/locations/gm/banjul/bjl"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Gambia riskant",
+     "use": "no",
+     "req": "Homosexualität strafbar, große Vorsicht bei Dating-Apps",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624"
+    }
+   ],
+   "cities": [],
+   "note": "Visum gibt es bei Einreise kostenlos, am Flughafen Banjul 20 USD oder EUR Abgabe in bar; meist wird bar bezahlt.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit mehrjähriger Haft bestraft werden; große Zurückhaltung ist geboten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
    "checked": "2026-11-18"
   }
  ]
