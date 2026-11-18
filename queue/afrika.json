@@ -2,26 +2,6 @@
   "continent": "AF",
   "todo": [
     {
-      "code": "SH",
-      "en": "Saint Helena, Ascension and Tristan da Cunha",
-      "slug": "saint-helena-ascension-and-tristan-da-cunha"
-    },
-    {
-      "code": "ST",
-      "en": "Sao Tome and Principe",
-      "slug": "sao-tome-and-principe"
-    },
-    {
-      "code": "SN",
-      "en": "Senegal",
-      "slug": "senegal"
-    },
-    {
-      "code": "SL",
-      "en": "Sierra Leone",
-      "slug": "sierra-leone"
-    },
-    {
       "code": "SO",
       "en": "Somalia",
       "slug": "somalia"
@@ -302,6 +282,26 @@
       "code": "RE",
       "en": "Réunion",
       "slug": "r-union"
+    },
+    {
+      "code": "SH",
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "slug": "saint-helena-ascension-and-tristan-da-cunha"
+    },
+    {
+      "code": "ST",
+      "en": "Sao Tome and Principe",
+      "slug": "sao-tome-and-principe"
+    },
+    {
+      "code": "SN",
+      "en": "Senegal",
+      "slug": "senegal"
+    },
+    {
+      "code": "SL",
+      "en": "Sierra Leone",
+      "slug": "sierra-leone"
     }
   ]
 }
