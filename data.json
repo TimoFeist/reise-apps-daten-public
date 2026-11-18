@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 09:36",
+ "version": "2026-11-18 09:42",
  "categories": [
   {
    "id": "entry",
@@ -16133,6 +16133,337 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit mehrjähriger Haft bestraft werden; große Zurückhaltung ist geboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GP",
+   "name": "Guadeloupe",
+   "flag": "🇬🇵",
+   "apps": [
+    {
+     "name": "En woute",
+     "cat": "taxi",
+     "note": "Fahrdienst auf Guadeloupe, sofort oder vorbestellt",
+     "src": "https://apps.apple.com/fr/app/en-woute/id6444211839?l=en-GB"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "note": "Essenslieferung in sechs Gemeinden, etwa Pointe-à-Pitre",
+     "src": "https://rci.fm/guadeloupe/infos/Economie/Le-service-Uber-Eats-setend-encore-plus-en-Guadeloupe"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Pôle Caraïbes, Buchung per App",
+     "use": "limited",
+     "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr",
+     "src": "https://www.avis.fr/services-avis/location-voiture/caraibes/guadeloupe"
+    },
+    {
+     "name": "Hello Guadeloupe",
+     "cat": "tourism",
+     "note": "Offizielle Tourismus-App mit Routen und Karte",
+     "src": "https://outremers360.com/bassin-atlantique-appli/le-comite-du-tourisme-des-iles-de-guadeloupe-lance-hello-guadeloupe-une-application-pour-dynamiser-loffre-touristique"
+    },
+    {
+     "name": "Rando Guadeloupe",
+     "cat": "tourism",
+     "note": "Wanderwege des Nationalparks, auch offline mit GPS",
+     "src": "https://apps.apple.com/us/app/id1261275189"
+    },
+    {
+     "name": "Nav&Co",
+     "cat": "misc",
+     "note": "Staatliche Segler-App mit Regeln zu Ankern und Schutzzonen",
+     "src": "https://www.mer.gouv.fr/navco-le-cap-des-100-000-utilisateurs-franchi"
+    },
+    {
+     "name": "Air Caraïbes",
+     "cat": "flights",
+     "pkg": "com.app.aircaraibes",
+     "note": "Flüge buchen, Check-in, Bordkarte und Fluginfos",
+     "src": "https://www.aircaraibes.com/application-mobile"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Basse-Terre",
+     "match": [
+      "Basse-Terre"
+     ],
+     "apps": [
+      {
+       "name": "TRANS SUD",
+       "cat": "transit",
+       "note": "Busnetz Grand Sud Caraïbe mit Fahrplan und Tickets",
+       "src": "https://apps.apple.com/app/id6449498067"
+      }
+     ]
+    },
+    {
+     "name": "Pointe-à-Pitre",
+     "match": [
+      "Pointe-à-Pitre"
+     ],
+     "apps": [
+      {
+       "name": "KARULIS",
+       "cat": "transit",
+       "note": "Stadtbusse: Echtzeit, Routen und Tickets per QR-Code",
+       "src": "https://apps.apple.com/us/app/id1509009176"
+      },
+      {
+       "name": "Karu'Vélo",
+       "cat": "micro",
+       "note": "E-Leihräder im Selbstverleih in Pointe-à-Pitre",
+       "src": "https://apps.apple.com/us/app/karuvelo/id1632440617?l=en"
+      }
+     ]
+    }
+   ],
+   "note": "Fähren nach Marie-Galante und Les Saintes vorab online buchen, Bustickets im Großraum Pointe-à-Pitre per App kaufen.",
+   "src": "https://www.aircaraibes.com/destinations/guadeloupe/transports",
+   "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, die gesellschaftliche Akzeptanz ist aber begrenzt.",
+   "lgbtq_src": "https://www.equaldex.com/region/guadeloupe",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GT",
+   "name": "Guatemala",
+   "flag": "🇬🇹",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Einfachster Fahrdienst, Abholpunkt vorher genau prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Preis selbst vorschlagen, oft Barzahlung",
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "Amarillo Express",
+     "cat": "taxi",
+     "pkg": "com.tap.user",
+     "note": "Lokales Taxiunternehmen mit Festpreis vorab",
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Größte Liefer-App für Essen und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung über das Uber-Konto, vor allem in der Stadt",
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Live-Verkehr, Sperrungen beachten",
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Routenplaner für Stadtbusse, Zeiten nur geschätzt",
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "Declaracion Del Viajero SAT-GT",
+     "cat": "entry",
+     "pkg": "gt.gob.sat.aduanas.declaviajerosatapp",
+     "note": "Offizielle Zollerklärung bei Ankunft per Flug oder Schiff",
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "INSIVUMEH Alerta de Terremotos",
+     "cat": "safety",
+     "pkg": "com.bbr.insivumehapp",
+     "note": "Offizielle Erdbebenwarnung mit Push-Meldungen",
+     "src": "https://www.bento.travel/guatemala"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen in Guatemala, Buchung in der App verwalten",
+     "use": "limited",
+     "req": "Gültiger Führerschein und Reisepass bei Abholung nötig",
+     "src": "https://www.sixt.com/car-rental/guatemala/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Guatemala City",
+     "match": [
+      "Guatemala City"
+     ],
+     "apps": [
+      {
+       "name": "Yango",
+       "cat": "taxi",
+       "pkg": "com.yandex.yango",
+       "note": "Fahrten in Economy, Comfort oder per Moto",
+       "src": "https://www.bento.travel/guatemala"
+      },
+      {
+       "name": "Tu Bus",
+       "cat": "transit",
+       "pkg": "com.tubusguatemala.app",
+       "note": "Live-Standorte der TuBus-Linien, nur Android",
+       "src": "https://www.bento.travel/guatemala"
+      },
+      {
+       "name": "TCiudadana",
+       "cat": "transit",
+       "note": "App der Stadt, Karte aufladen und Guthaben sehen",
+       "use": "limited",
+       "req": "Eigene Karte nötig, Konto mit Name, E-Mail und Telefon",
+       "src": "https://apps.apple.com/hn/app/tciudadana/id1572346788?l=en-GB"
+      }
+     ]
+    }
+   ],
+   "note": "Guatemala ist kaum bargeldlos, kleine Quetzal-Scheine für Busse, Boote, Märkte und Trinkgeld einstecken.",
+   "src": "https://www.bento.travel/guatemala",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, es fehlt aber ein Diskriminierungsschutz, auf dem Land ist die Toleranz gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guatemala-node/guatemalasicherheit-221882",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "HN",
+   "name": "Honduras",
+   "flag": "🇭🇳",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst in Tegucigalpa, San Pedro Sula und Comayagua",
+     "ess": true,
+     "src": "https://www.revistaeyn.com/empresasymanagement/la-app-de-uber-amplia-su-cobertura-en-mas-ciudades-de-honduras-FO26394724"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Fahrdienst per App, rechtlich noch nicht reguliert",
+     "src": "https://www.laprensa.hn/fotogalerias/honduras/taxis-vip-uber-indrive-conflicto-acuerdos-honduras-JB31031558"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Essen, Supermarkt und Apotheke liefern lassen",
+     "ess": true,
+     "src": "https://www.revistaeyn.com/eyn-brandlab/pedidosya-plus-llega-a-honduras-CD22479139"
+    },
+    {
+     "name": "Dream Ferries",
+     "cat": "rail",
+     "note": "Fähren zwischen Roatán, Utila und La Ceiba",
+     "src": "https://apps.apple.com/app/id6751184605"
+    },
+    {
+     "name": "Rentcars",
+     "cat": "carshare",
+     "pkg": "com.rentcars.rentcarscom",
+     "note": "Mietwagen großer Anbieter an den Flughäfen vergleichen",
+     "src": "https://www.rentcars.com/es-co/airports/honduras/sap-san-pedro-sula-departamento-de-cortes"
+    },
+    {
+     "name": "TENGO App",
+     "cat": "payment",
+     "note": "Lokale Bezahl-App mit QR, Überweisungen und Visa-Karte",
+     "use": "limited",
+     "req": "Registrierung mit biometrischer Prüfung, für Ausländer unklar",
+     "src": "https://apps.apple.com/hn/app/tengo-app/id962381914"
+    },
+    {
+     "name": "Mi Tigo Honduras",
+     "cat": "misc",
+     "note": "Guthaben und Datenpakete für Tigo aufladen",
+     "use": "limited",
+     "req": "Nur mit Tigo SIM-Karte sinnvoll",
+     "src": "https://apps.apple.com/hn/app/mi-tigo-honduras/id925903504"
+    }
+   ],
+   "cities": [],
+   "note": "Taxis nicht am Straßenrand heranwinken, Radiotaxis bevorzugen und bei Flugreisen die digitale Zollerklärung ausfüllen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/honduras-node/hondurassicherheit-221078",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1899 legal, die Verfassung verbietet aber die gleichgeschlechtliche Ehe und Gewalt gegen LGBTQ+ Menschen ist häufig.",
+   "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Honduras",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "HT",
+   "name": "Haiti",
+   "flag": "🇭🇹",
+   "apps": [
+    {
+     "name": "iKat",
+     "cat": "entry",
+     "note": "Pflicht-Webformular für Ein- und Ausreise, keine App",
+     "ess": true,
+     "src": "https://visasnews.com/haiti-le-formulaire-numerique-dentree-et-de-sortie-ikat-obligatoire-depuis-le-1er-octobre-2026/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisewarnung und Hinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048"
+    },
+    {
+     "name": "Sunrise Airways",
+     "cat": "flights",
+     "pkg": "com.hititcs.sunriseairways",
+     "note": "Flüge der haitianischen Airline buchen und verwalten",
+     "src": "https://www.haitilibre.com/en/news-46442-haiti-internet-new-sunrise-airways-app.html"
+    },
+    {
+     "name": "PlopPlop",
+     "cat": "taxi",
+     "note": "Taxi, Motorrad und Lieferung in Jacmel, Cap und Les Cayes",
+     "src": "https://apps.apple.com/mx/app/plopplop/id6747666097"
+    },
+    {
+     "name": "MonCash",
+     "cat": "payment",
+     "pkg": "com.useboom.htwallet",
+     "note": "Mobiles Geld von Digicel für Zahlung und Transfer",
+     "use": "limited",
+     "req": "Identifizierung mit Pass und Selfie, SIM der Nummer im Gerät nötig",
+     "src": "https://moncashdfs.com/complete-the-identification-process"
+    },
+    {
+     "name": "Natcash (Natcom)",
+     "cat": "payment",
+     "note": "Mobiles Geld von Natcom, auch QR-Zahlung bei Händlern",
+     "use": "limited",
+     "req": "Identitätsprüfung nötig, Bedingungen für Ausländer unklar",
+     "src": "https://apps.apple.com/app/id1613464862"
+    }
+   ],
+   "cities": [],
+   "note": "Das Auswärtige Amt warnt vor Reisen nach Haiti. Der Flughafen Port-au-Prince ist geschlossen, Flüge nur eingeschränkt über Cap-Haïtien.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
+   "lgbtq_note": "Laut Auswärtigem Amt herrscht latente Homophobie, gegen Ausländer gerichtete Diskriminierung im Alltag ist aber nicht bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
    "checked": "2026-11-18"
   }
  ]
