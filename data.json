@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 14:47",
+ "version": "2026-11-18 15:06",
  "categories": [
   {
    "id": "entry",
@@ -19417,6 +19417,222 @@
    "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico",
    "lgbtq_note": "Die gleichgeschlechtliche Ehe ist wie im übrigen US-Gebiet legal, gleichgeschlechtliche Paare dürfen adoptieren.",
    "lgbtq_src": "https://equallywed.com/?p=44767",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SB",
+   "name": "Salomoninseln",
+   "flag": "🇸🇧",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650"
+    },
+    {
+     "name": "MAPS.ME",
+     "cat": "maps",
+     "note": "Offline Karten laden, da das Netz oft schwach ist",
+     "ess": true,
+     "src": "https://www.milehacker.com/travel/solomon-islands/honiara/honiara-travel-resources-apps-maps-emergency-conta/"
+    },
+    {
+     "name": "Booking.com",
+     "cat": "hotels",
+     "note": "Unterkünfte in Honiara und auf den Inseln buchen",
+     "src": "https://www.milehacker.com/travel/solomon-islands/honiara/honiara-travel-resources-apps-maps-emergency-conta/"
+    },
+    {
+     "name": "Solomon Airlines",
+     "cat": "flights",
+     "note": "Inlandsflüge zu 20 Zielen buchen, nur Webseite",
+     "src": "https://www.flysolomons.com/about-us/news/general/solomon-airlines-launches-new-booking-system"
+    },
+    {
+     "name": "M-Selen",
+     "cat": "payment",
+     "note": "Mobile Geldbörse von Our Telekom für Zahlungen",
+     "use": "no",
+     "req": "Our-Telekom-SIM und Anmeldung mit Ausweis bei Agent oder Shop nötig",
+     "src": "https://www.ourtelekom.com.sb/m-selen/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Honiara",
+     "match": [
+      "Honiara"
+     ],
+     "apps": [
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Honiara online buchen",
+       "use": "limited",
+       "req": "Führerschein, Vollkasko (CDW) Pflicht, Kreditkarte für Kaution üblich",
+       "src": "https://www.avis.com/en/locations/pac/si/honiara/hir"
+      }
+     ]
+    }
+   ],
+   "note": "Kein Visum bis 90 Tage, Pass 6 Monate gültig. Karten nur in Honiara und Gizo, sonst genug SBD bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
+   "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt strafbar und können mit Gefängnis bestraft werden, daher ist große Zurückhaltung ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "TO",
+   "name": "Tonga",
+   "flag": "🇹🇴",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste der deutschen Auslandsvertretungen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790"
+    },
+    {
+     "name": "Tonga Pocket Guide",
+     "cat": "tourism",
+     "note": "Reiseführer, Touren und Mietwagen buchen, nur Webseite",
+     "src": "https://tongapocketguide.com"
+    },
+    {
+     "name": "Lulutai Airlines",
+     "cat": "flights",
+     "note": "Einzige Inlandsairline, Buchung per Webseite oder Telefon",
+     "src": "https://tongapocketguide.com/the-guide-to-flights-in-tonga"
+    },
+    {
+     "name": "Tofa Ramsay Shipping",
+     "cat": "rail",
+     "note": "Inselfähren nach Ha'apai, Vava'u und 'Eua, online buchbar",
+     "src": "https://tongapocketguide.com/the-guide-to-travelling-in-tonga-by-ferry"
+    },
+    {
+     "name": "MyCash Digicel",
+     "cat": "payment",
+     "note": "Digicel-Geldbörse für QR-Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Digicel-Tonga-Nummer und Registrierung mit Name, Adresse und Foto nötig",
+     "src": "https://www.digicelpacific.com/news/digicel-tonga-pioneers-financial-inclusion-with-innovative-two-tier-kyc-for-mycas"
+    }
+   ],
+   "cities": [],
+   "note": "Deutsche brauchen bis 90 Tage kein Visum, Pass 6 Monate über den Aufenthalt gültig. Kein Uber, Taxis und Fähren bar zahlen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "WS",
+   "name": "Samoa",
+   "flag": "🇼🇸",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758"
+    },
+    {
+     "name": "Va'aitau o Samoa",
+     "cat": "safety",
+     "note": "Wetter, Zyklon- und Tsunamiwarnungen für Samoa",
+     "ess": true,
+     "src": "https://mwm.ai/apps/vaaitau-o-samoa/6746432784"
+    },
+    {
+     "name": "Maua Taxi",
+     "cat": "taxi",
+     "note": "Taxi per App bestellen, Preis nach Strecke, Fahrerin wählbar",
+     "use": "limited",
+     "req": "Nur Taxis registrierter Taxistände angebunden",
+     "src": "https://samoaobserver.ws/category/samoa/111502"
+    },
+    {
+     "name": "Uilo",
+     "cat": "taxi",
+     "note": "Neue samoanische Taxi-App, seit 2026 im Testbetrieb",
+     "use": "limited",
+     "req": "Erst im Testbetrieb, Abdeckung und Bezahlung unklar",
+     "src": "https://samoanewshub.com/2026/08/06/samoan-software-engineering-graduate-launches-cab-hailing-app/"
+    },
+    {
+     "name": "SekiEats",
+     "cat": "delivery",
+     "note": "Essen von lokalen Restaurants liefern lassen, Karte oder bar",
+     "src": "https://apps.apple.com/us/app/id1574322393"
+    },
+    {
+     "name": "My Samoa",
+     "cat": "delivery",
+     "note": "Supermärkte und Restaurants, Abholung oder Lieferung",
+     "src": "https://apps.apple.com/au/app/my-samoa/id6476515326"
+    },
+    {
+     "name": "Maua",
+     "cat": "shopping",
+     "note": "Lokaler Marktplatz für Obst, Fisch, Handwerk mit Lieferung",
+     "use": "limited",
+     "req": "Bezahlung vor allem per lokalem Mobile Money, Karte möglich",
+     "src": "https://apps.apple.com/us/app/maua/id1468726583"
+    },
+    {
+     "name": "Discover Samoa",
+     "cat": "tourism",
+     "note": "Reiseführer mit Stränden, Restaurants und Events, offline",
+     "src": "https://apps.apple.com/ph/app/id6752038091"
+    },
+    {
+     "name": "Samoa Airways",
+     "cat": "flights",
+     "note": "Flüge nach Savai'i und Pago Pago buchen, nur Webseite",
+     "src": "https://samoaairways.com/"
+    },
+    {
+     "name": "MyCash Digicel",
+     "cat": "payment",
+     "note": "Mobile Geldbörse von Digicel Samoa für Überweisungen",
+     "use": "no",
+     "req": "Digicel-Samoa-Nummer und Registrierung mit Foto und Adresse nötig",
+     "src": "https://www.digicelpacific.com/mobile/ws/promotions/samoa-imt"
+    },
+    {
+     "name": "M-Tala",
+     "cat": "payment",
+     "pkg": "com.samoawalletapp",
+     "note": "Mobile Geldbörse von Vodafone Samoa für Zahlungen",
+     "use": "no",
+     "req": "Vodafone-Samoa-Nummer und Registrierung nötig",
+     "src": "https://mwm.ai/apps/m-tala/6717590005"
+    },
+    {
+     "name": "MyDigicel",
+     "cat": "misc",
+     "note": "Guthaben und Datenpakete von Digicel Samoa verwalten",
+     "use": "limited",
+     "req": "Nur mit Digicel-Samoa-SIM",
+     "src": "https://www.digicelpacific.com/mobile/ws/prepaid-roaming-plans"
+    }
+   ],
+   "cities": [],
+   "note": "Kein Visum bis 90 Tage, Reisepass muss 6 Monate über den Aufenthalt gültig sein. Mietwagen nur mit temporärer Fahrerlaubnis.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
    "checked": "2026-11-18"
   }
  ]
