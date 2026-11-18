@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 04:48",
+ "version": "2026-11-18 05:07",
  "categories": [
   {
    "id": "entry",
@@ -13703,6 +13703,229 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Diskriminierung kommt vor allem im ländlichen Raum vor.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NC",
+   "name": "Neukaledonien",
+   "flag": "🇳🇨",
+   "apps": [
+    {
+     "name": "Sixt",
+     "cat": "carshare",
+     "note": "Mietwagen in Nouméa und am Flughafen buchen",
+     "use": "limited",
+     "req": "Führerschein und Kreditkarte nötig, Mindestalter beachten",
+     "src": "https://www.sixt.fr/location-voiture/nouvelle-caledonie/noumea"
+    },
+    {
+     "name": "Plan NC",
+     "cat": "maps",
+     "note": "Lokaler Stadtplan und Adresssuche für Neukaledonien",
+     "src": "https://apps.apple.com/st/app/plan-nc/id1426105729"
+    },
+    {
+     "name": "BNC MaCarte",
+     "cat": "payment",
+     "note": "Kartenverwaltung der Banque de Nouvelle-Calédonie",
+     "use": "no",
+     "req": "Nur mit Konto und Karte der BNC",
+     "src": "https://apps.apple.com/us/app/bnc-macarte/id6449153469"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Noumea",
+     "match": [
+      "Noumea"
+     ],
+     "apps": [
+      {
+       "name": "Tanéo",
+       "cat": "transit",
+       "pkg": "nc.smtu.taneo",
+       "note": "Offizielle Bus-App für den Großraum Nouméa",
+       "ess": true,
+       "src": "https://www.taneo.nc/application-mobile/"
+      },
+      {
+       "name": "Taneo e-ticket",
+       "cat": "transit",
+       "pkg": "com.actoll.tpass.taneo",
+       "note": "Bustickets für das Tanéo-Netz auf dem Handy kaufen",
+       "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.taneo&hl=en_US"
+      },
+      {
+       "name": "Zygo",
+       "cat": "taxi",
+       "note": "Fahrdienst mit Festpreis in Nouméa, auch zum Flughafen",
+       "src": "https://apps.apple.com/us/app/zygo-rides-in-new-caledonia/id6744917758"
+      },
+      {
+       "name": "Flowbird",
+       "cat": "parking",
+       "note": "Parkgebühren in Nouméa per Handy zahlen",
+       "src": "https://noumea.nc/sites/default/files/presses-2024/09/189-ip-application-flowbird-paiement-du-stationnement_0.pdf"
+      },
+      {
+       "name": "Grall",
+       "cat": "tourism",
+       "note": "Audiotouren durch Nouméa und das Bagno auf Île Nou",
+       "src": "https://au.newcaledonia.travel/offers/parcours-historique-du-bagne-de-lile-nou-appli-grall-noumea-en-au-4117362"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen visumfrei ein, wegen möglicher Kontrollen beim Umstieg einen 6 Monate gültigen Reisepass mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+   "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, laut Auswärtigem Amt keine Hinweise auf besondere Schwierigkeiten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NF",
+   "name": "Norfolkinsel",
+   "flag": "🇳🇫",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Norfolk unter Australien",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/australien-node/australiensicherheit/213920"
+    },
+    {
+     "name": "Qantas Airways",
+     "cat": "flights",
+     "pkg": "au.com.qantas.qantas",
+     "note": "Buchung und Bordkarte, Flüge ab Sydney und Brisbane",
+     "ess": true,
+     "src": "https://appgoblin.info/apps/au.com.qantas.qantas"
+    },
+    {
+     "name": "Norfolk Island National Park",
+     "cat": "tourism",
+     "note": "Offizielle Park-App mit Offline Karten und Vogelführer",
+     "ess": true,
+     "src": "https://norfolkislandnationalpark.gov.au/plan/plan-your-trip/download-official-norfolk-island-national-park-app/"
+    },
+    {
+     "name": "Explore Norfolk Island",
+     "cat": "tourism",
+     "note": "Selbstgeführte Audio Touren zum Abfahren der Insel",
+     "use": "limited",
+     "req": "Zugang wird über Aata Orn Tours gebucht oder vor Ort abgeholt",
+     "src": "https://www.norfolkisland.com.au/things-to-do/tours/explore-norfolk-island/"
+    },
+    {
+     "name": "Norf'k",
+     "cat": "misc",
+     "note": "Lern-App für die Inselsprache Norf'k",
+     "src": "https://apps.apple.com/dk/app/norfk/id1568038662"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrdienst, auf der Insel nicht verfügbar",
+     "use": "no",
+     "req": "Auf Norfolk Island kein Angebot, Taxis vorab telefonisch buchen",
+     "src": "https://www.milehacker.com/travel/australia/norfolk-island/getting-around-norfolk-island-public-transport-tax/"
+    }
+   ],
+   "cities": [],
+   "note": "Es gelten Australiens Visaregeln, Deutsche brauchen also ein eVisitor, australische SIMs gehen nicht, Touristen-SIM vor Ort kaufen.",
+   "src": "https://www.norfolkisland.com.au/travel-essentials/faqs/",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
+   "lgbtq_src": "https://www.equaldex.com/region/norfolk-island",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NR",
+   "name": "Nauru",
+   "flag": "🇳🇷",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416"
+    },
+    {
+     "name": "SunSmart",
+     "cat": "safety",
+     "note": "UV Index der WHO als Hilfe zum Sonnenschutz",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416"
+    },
+    {
+     "name": "MAPS.ME",
+     "cat": "maps",
+     "note": "Offline Karte von Nauru vor der Reise laden",
+     "ess": true,
+     "src": "https://www.milehacker.com/travel/nauru/nauru-travel-resources-apps-maps-emergency-contact/"
+    },
+    {
+     "name": "MyDigicel",
+     "cat": "misc",
+     "note": "Guthaben und Datenpakete von Digicel Nauru verwalten",
+     "use": "limited",
+     "req": "Nur mit Digicel Nauru SIM und Digicel ID",
+     "src": "https://www.digicelpacific.com/mobile/nr/prime-bundles"
+    }
+   ],
+   "cities": [],
+   "note": "Einreisegenehmigung vor dem Flug beantragen, Visum bei Ankunft für 30 Tage, keine Kartenzahlung, genug AUD bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
+   "lgbtq_note": "Homosexuelle Handlungen sind entkriminalisiert, Partnerschaften werden aber nicht anerkannt und es gibt keinen Diskriminierungsschutz.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NU",
+   "name": "Niue",
+   "flag": "🇳🇺",
+   "apps": [
+    {
+     "name": "Air NZ",
+     "cat": "flights",
+     "note": "Buchung, Check in und Bordkarte für den Flug ab Auckland",
+     "ess": true,
+     "src": "https://www.airnewzealand.com/air-nz-app"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"
+    },
+    {
+     "name": "Krisenvorsorgeliste ELEFAND",
+     "cat": "safety",
+     "note": "Registrierung für Deutsche im Ausland für Krisenfälle",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"
+    },
+    {
+     "name": "SunSmart",
+     "cat": "safety",
+     "note": "UV Index der WHO als Hilfe zum Sonnenschutz",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"
+    },
+    {
+     "name": "Telecom Niue",
+     "cat": "misc",
+     "pkg": "com.alepo.niue.selfcare",
+     "note": "Guthaben prüfen, aufladen und Kundenkonto verwalten",
+     "use": "limited",
+     "req": "Nur mit SIM von Telecom Niue sinnvoll",
+     "src": "https://appgoblin.info/apps/com.alepo.niue.selfcare"
+    }
+   ],
+   "cities": [],
+   "note": "Visumfrei unter 30 Tagen mit Reisepass, 6 Monate gültig, Anreise nur über Auckland, Karten nicht überall, NZD bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit Juni 2024 legal, die Ehe ist Mann und Frau vorbehalten, Schutz vor Diskriminierung gibt es nicht.",
+   "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Niue",
    "checked": "2026-11-18"
   }
  ]
