@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 10:31",
+ "version": "2026-11-18 10:48",
  "categories": [
   {
    "id": "entry",
@@ -18358,6 +18358,364 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node/lesothosicherheit-226974",
    "lgbtq_note": "Ob gleichgeschlechtliche Handlungen noch strafbar sind, ist umstritten; Strafverfolgung ist nicht bekannt, das Thema gilt aber als Tabu.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node/lesothosicherheit-226974",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "JM",
+   "name": "Jamaika",
+   "flag": "🇯🇲",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst in Kingston, Montego Bay und Ocho Rios",
+     "ess": true,
+     "src": "https://www.bento.travel/jamaica/transit"
+    },
+    {
+     "name": "Knutsford Express",
+     "cat": "rail",
+     "pkg": "com.knutsfordexpress.travels",
+     "note": "Fernbus zwischen Städten und Flughäfen buchen",
+     "ess": true,
+     "src": "https://www.bento.travel/jamaica/transit"
+    },
+    {
+     "name": "7Krave",
+     "cat": "delivery",
+     "pkg": "com.app.jamenu",
+     "note": "Essen, Einkäufe und Läden, Karte oder Barzahlung",
+     "ess": true,
+     "src": "https://www.bento.travel/jamaica/transit"
+    },
+    {
+     "name": "QuickCart",
+     "cat": "delivery",
+     "pkg": "com.myquickplate.app",
+     "note": "Essen, Lebensmittel und Apotheke, auch Barzahlung",
+     "src": "https://www.bento.travel/jamaica/transit"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Live-Verkehr und Gefahrenmeldungen",
+     "src": "https://www.bento.travel/jamaica/transit"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Erlaubt, laut bento wegen Sicherheitsfällen nicht empfohlen",
+     "src": "https://www.bento.travel/jamaica/ride-hailing"
+    },
+    {
+     "name": "Amber OnTime",
+     "cat": "taxi",
+     "note": "Lokaler Fahrdienst",
+     "use": "no",
+     "req": "Jamaikanische Telefonnummer für die Registrierung nötig",
+     "src": "https://www.bento.travel/jamaica/ride-hailing"
+    },
+    {
+     "name": "Ride Jamaica",
+     "cat": "taxi",
+     "note": "Lizenzierte Touristentaxis für Transfers und Touren",
+     "src": "https://apps.apple.com/us/app/id6455423068"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "note": "In Jamaika kein Liefergebiet bekannt",
+     "use": "no",
+     "req": "In Jamaika nicht verfügbar",
+     "src": "https://www.bento.travel/jamaica/food-delivery"
+    },
+    {
+     "name": "DoorDash",
+     "cat": "delivery",
+     "note": "In Jamaika kein Liefergebiet bekannt",
+     "use": "no",
+     "req": "In Jamaika nicht verfügbar",
+     "src": "https://www.bento.travel/jamaica/food-delivery"
+    },
+    {
+     "name": "Lynk",
+     "cat": "payment",
+     "note": "Jamaikanische Wallet für Einheimische",
+     "use": "no",
+     "req": "Jamaikanischer Ausweis und Wohnsitz in Jamaika nötig",
+     "src": "https://www.bento.travel/jamaica/payments"
+    },
+    {
+     "name": "PICA Enter Jamaica",
+     "cat": "entry",
+     "note": "Kostenlose Pflicht-Registrierung vor der Reise, nur offizielle Seite",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/jamaikasicherheit-226490"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Über Dating-Apps werden Besucher in Fallen gelockt",
+     "use": "no",
+     "req": "Nicht gesperrt, aber Überfälle und Raub nach Dates gemeldet",
+     "src": "https://our.today/american-airlines-warns-cabin-crews-about-using-dating-apps-in-jamaica"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kingston",
+     "match": [
+      "Kingston"
+     ],
+     "apps": [
+      {
+       "name": "JUTC Smartfare",
+       "cat": "transit",
+       "pkg": "com.jutc.smartfare.android",
+       "note": "Bargeldlos Busfahrten der JUTC bezahlen",
+       "use": "limited",
+       "req": "SmartFare-Konto mit Guthaben nötig",
+       "src": "https://www.similarweb.com/app/google/com.jutc.smartfare.android"
+      }
+     ]
+    }
+   ],
+   "note": "Nicht auf Wallet-Apps verlassen: gebührenfreie Karte, Ersatzkarte und etwas Bargeld mitnehmen, Geldautomaten nur innen nutzen.",
+   "src": "https://www.bento.travel/jamaica/transit",
+   "lgbtq_note": "Homosexuelle Handlungen sind in Jamaika strafbar, ein großer Teil der Bevölkerung ist feindlich eingestellt und gewalttätige Übergriffe sind nicht selten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/jamaikasicherheit-226490",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MQ",
+   "name": "Martinique",
+   "flag": "🇲🇶",
+   "apps": [
+    {
+     "name": "Martinique Mobilités",
+     "cat": "transit",
+     "note": "Offizielle Bus-App: Routenplaner, Fahrpläne und Tarife",
+     "ess": true,
+     "src": "https://rci.fm/martinique/infos/Informations-pratiques/Martinique-Mobilites-une-application-de-Martinique-Transport"
+    },
+    {
+     "name": "MT Ticket",
+     "cat": "transit",
+     "note": "Bustickets und Abos für das Netz Centre und Nord",
+     "use": "limited",
+     "req": "Konto mit E-Mail-Bestätigung nötig",
+     "src": "https://apps.apple.com/us/app/mt-ticket/id1559700702?l=en"
+    },
+    {
+     "name": "SudLib",
+     "cat": "transit",
+     "note": "Busnetz im Süden: Live-Fahrpläne, Routen und Störungen",
+     "src": "https://mwm.ai/apps/sudlib/1597767690"
+    },
+    {
+     "name": "Transit",
+     "cat": "rail",
+     "pkg": "com.thetransitapp.droid",
+     "note": "Fahrplan der Fähre Fort-de-France nach Trois-Îlets",
+     "src": "https://transitapp.com/en/region/fort-de-france/martinique-transport-navettes-maritimes/ferry-2"
+    },
+    {
+     "name": "Rhumz",
+     "cat": "taxi",
+     "pkg": "com.rhumz.pax",
+     "note": "Lokaler Fahrdienst mit Festpreis, auch Flughafentransfer",
+     "ess": true,
+     "src": "https://www.rhumz.com/"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrdienst auf Martinique nicht verfügbar",
+     "use": "no",
+     "req": "Uber-Fahrten werden auf Martinique nicht angeboten",
+     "src": "https://www.rhumz.com/uber-en-martinique-quelles-alternatives/"
+    },
+    {
+     "name": "EasyTaVie",
+     "cat": "delivery",
+     "pkg": "io.easy.customer",
+     "note": "Lokale Essenslieferung und Abholung bei Restaurants",
+     "src": "https://play.google.com/store/apps/details?id=io.easy.customer&hl=en_US"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "note": "Essenslieferung, vor allem im Raum Fort-de-France",
+     "src": "https://rci.fm/martinique/infos/Economie/La-livraison-de-repas-un-service-en-plein-essor-en-Martinique"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Aimé Césaire, Miete per App ändern",
+     "use": "limited",
+     "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr",
+     "src": "https://www.avis.fr/services-avis/location-voiture/caraibes/martinique/lamentin/aeroport-de-lamentin"
+    },
+    {
+     "name": "Martinique Tour",
+     "cat": "tourism",
+     "note": "Zweisprachiger Inselführer mit Stränden, Wanderungen, Events",
+     "src": "https://www.martinique.org/en/martinique-tour"
+    },
+    {
+     "name": "Nav&Co",
+     "cat": "misc",
+     "note": "Staatliche Bootsfahrer-App mit Regeln und Schutzzonen",
+     "src": "https://outremers360.com/bassin-atlantique-appli/innovation-en-outre-mer-lapplication-nav-co-nouvel-outil-pour-naviguer-en-toute-securite-et-en-respect-des-ecosystemes-marins-en-martinique"
+    },
+    {
+     "name": "Air Caraïbes",
+     "cat": "flights",
+     "note": "Flüge buchen, Check-in, Bordkarte und Fluginfos",
+     "src": "https://apps.apple.com/us/app/id6443589629"
+    }
+   ],
+   "cities": [],
+   "note": "Personalausweis reicht, bei Zwischenlandung auf einer nicht französischen Insel aber Reisepass mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+   "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MS",
+   "name": "Montserrat",
+   "flag": "🇲🇸",
+   "apps": [
+    {
+     "name": "Travel Montserrat",
+     "cat": "entry",
+     "note": "Einreise- und Zollformular online vor der Ankunft",
+     "ess": true,
+     "src": "https://visitmontserrat.com/sea"
+    },
+    {
+     "name": "Visitor Driving Permit",
+     "cat": "carshare",
+     "note": "Befristete Fahrerlaubnis für Mietwagen online beantragen",
+     "use": "limited",
+     "req": "Heimischer Führerschein nötig, Gebühr 18 US-Dollar",
+     "src": "https://www.visitmontserrat.com/getting-around/"
+    },
+    {
+     "name": "Simply Alliouagana",
+     "cat": "tourism",
+     "note": "Verzeichnis lokaler Restaurants, Aktivitäten und Dienste",
+     "src": "https://discovermni.com/?p=104285"
+    },
+    {
+     "name": "Serra",
+     "cat": "payment",
+     "note": "Lokale mobile Geldbörse zum Bezahlen bei Händlern",
+     "use": "no",
+     "req": "Ausweis aus Montserrat nötig",
+     "src": "https://apps.apple.com/app/id1580826404"
+    }
+   ],
+   "cities": [],
+   "note": "Die Fähre ab Antigua ist bis auf Weiteres eingestellt. Taxis haben kein Taxameter, daher den Preis vor der Fahrt vereinbaren.",
+   "src": "https://visitmontserrat.com/sea",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, gleichgeschlechtliche Ehen werden nicht anerkannt und die Gesellschaft gilt als sehr konservativ.",
+   "lgbtq_src": "https://www.gov.uk/foreign-travel-advice/montserrat/safety-and-security",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "NI",
+   "name": "Nicaragua",
+   "flag": "🇳🇮",
+   "apps": [
+    {
+     "name": "Einreiseformular MINT",
+     "cat": "entry",
+     "note": "Webformular für Einreise auf dem Land- oder Seeweg",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Fahrpreis verhandeln, auch Mototaxis, rechtlich Grauzone",
+     "src": "https://www.descubre.vc/noticia/el-auge-de-las-motos-de-indrive-en-managua-popularidad-frente-a-retos-regulatorios-2026-03-31"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Internationaler Fahrdienst, im Land nicht aktiv",
+     "use": "no",
+     "req": "In Nicaragua nicht verfügbar",
+     "src": "https://www.aeropuertosdelmundo.net/aeropuerto-MGA-preguntas-frecuentes/"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Führender Lieferdienst vor allem in Managua, auch Barzahlung",
+     "ess": true,
+     "src": "https://www.trade.gov/country-commercial-guides/nicaragua-ecommerce"
+    },
+    {
+     "name": "Rentcars",
+     "cat": "carshare",
+     "pkg": "com.rentcars.rentcarscom",
+     "note": "Mietwagen von 11 Anbietern am Flughafen Managua vergleichen",
+     "use": "limited",
+     "req": "Kreditkarte auf eigenen Namen, Reisepass und meist Mindestalter 25 nötig",
+     "src": "https://site-aws.rentcars.com/en-gb/company/flexways/nicaragua/airports/mga-augusto-cesar-sandino-managua-departamento-de-managua"
+    },
+    {
+     "name": "Mi Tigo",
+     "cat": "misc",
+     "note": "Guthaben und Datenpakete für Tigo per Karte kaufen",
+     "use": "limited",
+     "req": "Nur mit Tigo SIM-Karte sinnvoll",
+     "src": "https://support.tigo.com.ni/files/pre/file-reglamento-sorteo-bases-app-mitigo-abr26-.pdf"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Managua",
+     "match": [
+      "Managua"
+     ],
+     "apps": [
+      {
+       "name": "Ray App",
+       "cat": "taxi",
+       "note": "Beliebtester Fahrdienst in Managua, bar oder per Karte",
+       "ess": true,
+       "src": "https://onde.app/cases/ride-hailing-growth-in-central-america"
+      },
+      {
+       "name": "Aventón",
+       "cat": "taxi",
+       "note": "Lokaler Fahrdienst, außerhalb Managuas kaum verfügbar",
+       "src": "https://www.nonprod.lonelyplanet.com/articles/getting-around-nicaragua"
+      },
+      {
+       "name": "Moovit",
+       "cat": "transit",
+       "note": "Linien, Haltestellen und Fahrpläne der Stadtbusse",
+       "src": "https://moovitapp.com/index/en/public_transit-lines-Managua-3422-855681"
+      }
+     ]
+    }
+   ],
+   "note": "Flugreisende melden sich vorab über die Fluggesellschaft an, die Touristenkarte kostet 10 USD und ist nur bar zu zahlen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
+   "lgbtq_note": "Es gibt keine strafrechtlichen Bestimmungen gegen Homosexualität, die Verfassung verbietet Diskriminierung wegen der sexuellen Orientierung.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
    "checked": "2026-11-18"
   }
  ]
