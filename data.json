@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 04:35",
+ "version": "2026-11-18 04:41",
  "categories": [
   {
    "id": "entry",
@@ -13102,6 +13102,317 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/venezuelasicherheit-224982",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe und eingetragene Partnerschaft gibt es nicht, Schutz vor Diskriminierung nur teilweise.",
    "lgbtq_src": "https://www.equaldex.com/region/venezuela",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "CD",
+   "name": "Demokratische Republik Kongo",
+   "flag": "🇨🇩",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts mit Krisenwarnungen",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "note": "Fahrdienst und Lieferdienst, verbreitet in Kinshasa",
+     "ess": true,
+     "src": "https://ecomatin.net/cameroun-congo-rdc-yango-lance-un-hub-regional-en-afrique-centrale-pour-deployer-ses-services-financiers"
+    },
+    {
+     "name": "M-Pesa DRC",
+     "cat": "payment",
+     "note": "Mobile Money von Vodacom für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Vodacom-Nummer und Ausweis nötig, Ausländer brauchen eine Aufenthaltskarte",
+     "src": "https://blog.iambeezy.app/fr/ouvrir-compte-m-pesa-rdc-2026/"
+    },
+    {
+     "name": "Orange Max it RDC",
+     "cat": "payment",
+     "pkg": "com.orange.sugu.ocd",
+     "note": "Orange Money, Guthaben und Datenpakete in einer App",
+     "use": "limited",
+     "req": "Für Orange Money kongolesische Orange-SIM nötig",
+     "src": "https://appgoblin.info/apps/com.orange.sugu.ocd"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in der DR Kongo riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen können als Sittlichkeitsverstoß mit Haft bestraft werden",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kinshasa",
+     "match": [
+      "Kinshasa"
+     ],
+     "apps": [
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "note": "Fahrdienst, seit 2024 in Kinshasa aktiv",
+       "src": "https://kolonell.com/fr/blog/app-gestion-flotte-taxi-vtc-kinshasa-2026"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Kinshasa N'djili buchen",
+       "use": "limited",
+       "req": "Internationaler Führerschein nur zusammen mit deutschem Führerschein gültig",
+       "src": "https://www.avis.com/fr/locations/af/zm/kinshasa/fih"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab bei der Botschaft beantragen, Gelbfieberimpfung ist Pflicht, neue US-Dollar-Scheine mitnehmen; Teilreisewarnung beachten.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht ausdrücklich strafbar, werden aber als Verstoß gegen die Sittlichkeit mit Haft geahndet; ein Verbotsgesetz wird debattiert.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "CG",
+   "name": "Kongo",
+   "flag": "🇨🇬",
+   "apps": [
+    {
+     "name": "Noki Noki",
+     "cat": "delivery",
+     "note": "Kurier, Essen und Einkäufe in Brazzaville und Pointe-Noire",
+     "src": "https://www.wearetech.africa/fr/fils/solutions/congo-noki-noki-opere-dans-la-livraison-au-dernier-kilometre"
+    },
+    {
+     "name": "MTN MoMo",
+     "cat": "payment",
+     "note": "Mobile Money von MTN für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "MTN-Congo-Nummer und Registrierung mit Ausweis bei einem Agenten nötig",
+     "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-mtn-momo-congo-2026/"
+    },
+    {
+     "name": "Airtel Money",
+     "cat": "payment",
+     "note": "Mobile Money von Airtel für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Aktive Airtel-Congo-Nummer und Aufenthaltstitel oder kongolesischer Ausweis nötig",
+     "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-airtel-money-congo/"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in der Republik Kongo riskant",
+     "use": "no",
+     "req": "Willkürliche Verhaftungen wegen homosexueller Handlungen möglich",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Brazzaville",
+     "match": [
+      "Brazzaville"
+     ],
+     "apps": [
+      {
+       "name": "Gozem",
+       "cat": "taxi",
+       "pkg": "com.gozem",
+       "note": "Super-App für Taxis und Premiumfahrten in Brazzaville",
+       "ess": true,
+       "src": "https://gozem.co/cg/en/"
+      },
+      {
+       "name": "Europcar",
+       "cat": "carshare",
+       "note": "Mietwagen in Brazzaville online reservieren",
+       "use": "limited",
+       "req": "Führerschein und Kreditkarte nötig",
+       "src": "https://www.europcar.com/pt-br/places/car-rental-congo/brazzaville/brazaville"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Brazzaville buchen",
+       "use": "limited",
+       "req": "Führerschein und Kreditkarte nötig",
+       "src": "https://www.avis.com/fr/locations/cg/brassaville/bzv"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab bei der Botschaft in Berlin beantragen, kein Visum bei Ankunft; Gelbfieber-Impfnachweis und Euro bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542",
+   "lgbtq_note": "Kein ausdrückliches Verbot genannt, offen gezeigte homosexuelle Handlungen können aber zu willkürlichen Verhaftungen wegen Sittenwidrigkeit führen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "CI",
+   "name": "Côte d'Ivoire",
+   "flag": "🇨🇮",
+   "apps": [
+    {
+     "name": "Snedai E-Visa",
+     "cat": "entry",
+     "note": "Offizieller Dienstleister für das E-Visum, nur diesen nutzen",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "note": "Marktführer für Fahrten in Abidjan, Eco und Confort",
+     "ess": true,
+     "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"
+    },
+    {
+     "name": "Heetch",
+     "cat": "taxi",
+     "note": "Fahrdienst in Abidjan, auch barrierearme Fahrten",
+     "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Fahrpreis wird verhandelt, mit SOS-Knopf",
+     "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "note": "Lieferung von Essen und Apothekenware in Abidjan",
+     "src": "https://kolonell.com/fr/blog/pharmacie-abidjan-livraison-yango-glovo-modele-2026"
+    },
+    {
+     "name": "Wave",
+     "cat": "payment",
+     "pkg": "com.wave.personal",
+     "note": "Günstiges Mobile Money, weit verbreitet im Alltag",
+     "use": "no",
+     "req": "Konto an eine ivorische Telefonnummer gebunden",
+     "src": "https://ibrahimkamara.com/blog/application-wave-telecharger"
+    },
+    {
+     "name": "Orange Max it",
+     "cat": "payment",
+     "note": "Orange Money, Guthaben und Datenpakete in einer App",
+     "use": "limited",
+     "req": "Für Orange Money lokale Orange-SIM nötig",
+     "src": "https://apps.apple.com/app/id1061120855"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Abidjan",
+     "match": [
+      "Abidjan"
+     ],
+     "apps": [
+      {
+       "name": "Yango Deli",
+       "cat": "delivery",
+       "note": "Essenslieferung über die Yango-App in Abidjan",
+       "src": "https://news.abidjan.net/articles/729660/cote-divoire-industrie-de-livraison-de-repas-yango-deli-etend-sa-portee-aux-quartiers-dabobo-adjame-et-port-bouet"
+      },
+      {
+       "name": "SOTRA Mobile",
+       "cat": "transit",
+       "note": "Linien und Routen der SOTRA-Busse in Abidjan",
+       "use": "limited",
+       "req": "Bezahlung in der App nur per Wave mit ivorischer Nummer",
+       "src": "https://apps.apple.com/app/id6443695261"
+      }
+     ]
+    }
+   ],
+   "note": "Visum nötig: E-Visum spätestens drei Tage vorher nur über Snedai beantragen, Bestätigung drucken; Gelbfieberimpfung Pflicht.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, werden gesellschaftlich aber häufig nicht akzeptiert; Schutz vor Diskriminierung fehlt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "DJ",
+   "name": "Dschibuti",
+   "flag": "🇩🇯",
+   "apps": [
+    {
+     "name": "RIDE: Ethiopia & Djibouti",
+     "cat": "taxi",
+     "note": "Taxi-Buchung, vor allem Addis Abeba, auch Dschibuti",
+     "src": "https://appgoblin.info/apps/1375514824"
+    },
+    {
+     "name": "Europcar",
+     "cat": "carshare",
+     "note": "Mietwagen online buchen, mehrere Stationen im Land",
+     "src": "https://www.europcar.ie/en-ie/car-rental/locations/djibouti/djibouti"
+    },
+    {
+     "name": "Djibouti Money",
+     "cat": "payment",
+     "note": "D-Money von Djibouti Telecom für Zahlungen und Transfers",
+     "use": "no",
+     "req": "Nur für Kunden von Djibouti Telecom, lokale SIM nötig",
+     "src": "https://apps.apple.com/us/app/id1581317470"
+    },
+    {
+     "name": "WAAFI",
+     "cat": "payment",
+     "note": "Mobile Money der Salaam African Bank",
+     "use": "no",
+     "req": "Lokale Telefonnummer und Identitätsprüfung nötig",
+     "src": "https://apps.apple.com/nl/app/waafi-app/id1164281864"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Djibouti",
+     "match": [
+      "Djibouti"
+     ],
+     "apps": [
+      {
+       "name": "Sahaal Ride",
+       "cat": "taxi",
+       "note": "Lokaler Fahrdienst, Zahlung bar oder per Mobile Money",
+       "ess": true,
+       "src": "https://wearetech.africa/en/fils-uk/solutions/djibouti-s-sahaal-ride-app-connects-riders-and-drivers-with-flexible-payments"
+      },
+      {
+       "name": "Limo",
+       "cat": "delivery",
+       "note": "Marktplatz mit Lieferung von Läden und Restaurants",
+       "src": "https://wearetech.africa/en/fils-uk/solutions/limo-brings-online-marketplace-and-home-delivery-services-to-djibouti"
+      },
+      {
+       "name": "Kikidrop",
+       "cat": "delivery",
+       "note": "Lieferung aus Restaurants, Läden und Apotheken",
+       "src": "https://apps.apple.com/app/id1514836238"
+      }
+     ]
+    }
+   ],
+   "note": "Visum nötig, am besten vorab als E-Visum über evisa.gouv.dj; Pass sechs Monate gültig. Kreditkarten selten, Bargeld mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
+   "lgbtq_note": "Keine Fälle strafrechtlicher Verfolgung bekannt, gleichgeschlechtliche Partnerschaften werden gesellschaftlich aber nicht toleriert; Zurückhaltung ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
    "checked": "2026-11-18"
   }
  ]
