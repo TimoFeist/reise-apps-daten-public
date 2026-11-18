@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 14:37",
+ "version": "2026-11-18 14:47",
  "categories": [
   {
    "id": "entry",
@@ -19046,6 +19046,377 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu 14 Jahren Haft bestraft werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "BL",
+   "name": "Saint-Barthélemy",
+   "flag": "🇧🇱",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+    },
+    {
+     "name": "FR-Alert",
+     "cat": "safety",
+     "note": "Französische Warnmeldungen aufs Handy im Gefahrengebiet",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+    },
+    {
+     "name": "Fly SBC",
+     "cat": "flights",
+     "note": "Flüge von St Barth Commuter buchen und Buchungen ansehen",
+     "ess": true,
+     "src": "https://apps.apple.com/dk/app/fly-sbc/id6449741481"
+    },
+    {
+     "name": "Voyager",
+     "cat": "rail",
+     "note": "Fähre nach Saint Martin, Buchung über die Website",
+     "ess": true,
+     "src": "https://www.saintbarth-tourisme.com/travel"
+    },
+    {
+     "name": "Great Bay Express",
+     "cat": "rail",
+     "note": "Fähre zwischen Sint Maarten und Gustavia, Website",
+     "src": "https://www.saintbarth-tourisme.com/travel"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen, in der Hochsaison früh buchen",
+     "use": "limited",
+     "req": "Kreditkarte auf eigenen Namen und Führerschein nötig",
+     "src": "https://www.saintbarth-tourisme.com/travel"
+    },
+    {
+     "name": "DeliBarth",
+     "cat": "delivery",
+     "note": "Essen und Lebensmittel von Inselrestaurants liefern lassen",
+     "ess": true,
+     "src": "https://apps.apple.com/bz/app/delibarth/id1626081071"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Auf der Insel nicht aktiv, Taxis nur per Telefon",
+     "use": "no",
+     "req": "Auf Saint-Barthélemy nicht verfügbar",
+     "src": "https://gustaviaharbor.com/?p=12019"
+    }
+   ],
+   "cities": [],
+   "note": "Bei Zwischenstopp auf nicht französischen Inseln wie Sint Maarten ist ein mindestens sechs Monate gültiger Reisepass nötig.",
+   "src": "https://www.saintbarth-tourisme.com/travel",
+   "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "KN",
+   "name": "St. Kitts und Nevis",
+   "flag": "🇰🇳",
+   "apps": [
+    {
+     "name": "e-border St. Kitts Nevis",
+     "cat": "entry",
+     "pkg": "kn.eborder.app",
+     "note": "Offizielle eTA und ED-Formular für Zoll und Einreise",
+     "ess": true,
+     "src": "https://www.knatravelform.kn/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stkittsundnevissicherheit-226596"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stkittsundnevissicherheit-226596"
+    },
+    {
+     "name": "SKN Transit",
+     "cat": "rail",
+     "note": "Fährpläne zwischen St. Kitts und Nevis, Plätze buchen",
+     "ess": true,
+     "src": "https://www.nevisisland.com/plan/ferry-services"
+    },
+    {
+     "name": "DROP: SKN Ride Hailing",
+     "cat": "taxi",
+     "note": "Lokaler Fahrdienst mit Festpreis, bar oder per Karte",
+     "src": "https://apps.apple.com/us/app/-/id6670600899"
+    },
+    {
+     "name": "SKNCabs",
+     "cat": "taxi",
+     "note": "Fahrten und Flughafentransfers auf ganz St. Kitts",
+     "src": "https://apps.apple.com/gb/app/skncabs/id6504747432"
+    },
+    {
+     "name": "Hertz",
+     "cat": "carshare",
+     "note": "Mietwagen mit Station an der Bay Road in Basseterre",
+     "use": "limited",
+     "req": "Lokale Fahrerlaubnis für 25 USD am Schalter nötig",
+     "src": "https://www.hertz.com/us/en/location/saintkittsandnevis/basseterre/skbo60"
+    }
+   ],
+   "cities": [],
+   "note": "Vor der Reise ist eine kostenpflichtige eTA nötig, am besten etwa 14 Tage vorher online beantragen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stkittsundnevissicherheit-226596",
+   "lgbtq_note": "Das gesetzliche Verbot homosexueller Handlungen wurde 2022 vom Eastern Caribbean Supreme Court für einvernehmliche Handlungen Erwachsener im privaten Raum für verfassungswidrig erklärt, Strafverfolgungen sind seit Jahren nicht bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stkittsundnevissicherheit-226596",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "PA",
+   "name": "Panama",
+   "flag": "🇵🇦",
+   "apps": [
+    {
+     "name": "Zollerklärung online",
+     "cat": "entry",
+     "note": "Pflicht bei Bargeld oder Waren über 10.000 USD",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/panama-node/panamasicherheit-206378"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/panama-node/panamasicherheit-206378"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Erste Wahl für Fahrten in Panama-Stadt und David",
+     "ess": true,
+     "src": "https://bento.travel/panama"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Auch im Landesinneren, Berichte über Sicherheitsmängel",
+     "src": "https://www.bento.travel/blog/is-uber-available-in-panama"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "pkg": "com.pedidosya",
+     "note": "Größter Lieferdienst für Essen und Einkäufe",
+     "ess": true,
+     "src": "https://bento.travel/panama/food-delivery"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Lieferung als Ersatz, nutzt das Uber Konto",
+     "src": "https://bento.travel/panama/food-delivery"
+    },
+    {
+     "name": "Degusta",
+     "cat": "delivery",
+     "pkg": "com.codealis.degusta.android",
+     "note": "Restaurantführer mit Speisekarten, Bewertungen, Tischbuchung",
+     "ess": true,
+     "src": "https://bento.travel/panama"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Live-Verkehr und Gefahrenmeldungen",
+     "src": "https://bento.travel/panama"
+    },
+    {
+     "name": "Rentcars",
+     "cat": "carshare",
+     "pkg": "com.rentcars.rentcarscom",
+     "note": "Mietwagen vergleichen, auch Tocumen und David",
+     "use": "limited",
+     "req": "Führerschein nötig, deutscher gilt bis 90 Tage Aufenthalt",
+     "src": "https://www.rentcars.com/es/rentadora/avis/panama"
+    },
+    {
+     "name": "Visit Canal de Panamá",
+     "cat": "tourism",
+     "note": "Webseite für Tickets Miraflores und Agua Clara",
+     "use": "limited",
+     "req": "Zahlung nur per Kreditkarte",
+     "src": "https://pancanal.com/en/discover-the-panama-canal-in-an-easier-and-faster-way/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Panama City",
+     "match": [
+      "Panama City"
+     ],
+     "apps": [
+      {
+       "name": "DiDi",
+       "cat": "taxi",
+       "pkg": "com.didiglobal.passenger",
+       "note": "Alternative zu Uber, offiziell nur in Panama-Stadt",
+       "src": "https://bento.travel/panama"
+      },
+      {
+       "name": "A2-20",
+       "cat": "transit",
+       "note": "Guthaben und Fahrten der Metro- und Buskarte prüfen",
+       "use": "limited",
+       "req": "Aufladen in der App nur per Yappy möglich",
+       "src": "https://www.telemetro.com/nacionales/nueva-aplicacion-a2-20-consulta-el-saldo-y-recarga-tu-tarjeta-del-metro-y-metrobus-n6091339"
+      },
+      {
+       "name": "Moovit",
+       "cat": "transit",
+       "note": "Linien und Fahrpläne von Metro und MiBus",
+       "src": "https://moovitapp.com/index/en/public_transit-lines-Panam%C3%A1-4674-994958"
+      }
+     ]
+    }
+   ],
+   "note": "Kleine US-Dollar-Scheine und eine Ersatzkarte mitnehmen, Busse, Taxis und Märkte brauchen oft Bargeld.",
+   "src": "https://bento.travel/panama",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die gesellschaftliche Akzeptanz ist aber gering, besonders auf dem Land.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/panama-node/panamasicherheit-206378",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "PR",
+   "name": "Puerto Rico",
+   "flag": "🇵🇷",
+   "apps": [
+    {
+     "name": "ESTA Mobile",
+     "cat": "entry",
+     "note": "Offizielle CBP App für den ESTA Antrag vor dem Flug",
+     "ess": true,
+     "src": "https://www.cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/usa-node/usavereinigtestaatensicherheit-201382"
+    },
+    {
+     "name": "FEMA",
+     "cat": "safety",
+     "note": "US Warnungen bei Hurrikans und anderen Naturgefahren",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/usa-node/usavereinigtestaatensicherheit-201382"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Wichtigste Fahrdienst App, am besten rund um San Juan",
+     "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico"
+    },
+    {
+     "name": "Lyft",
+     "cat": "taxi",
+     "pkg": "me.lyft.android",
+     "note": "Ausweichoption zu Uber in San Juan und am Flughafen",
+     "use": "limited",
+     "req": "Neue Konten nur mit Nummer aus USA, Kanada oder Puerto Rico",
+     "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Stärkster Lieferdienst, Abdeckung je nach Adresse",
+     "src": "https://www.bento.travel/compare/puerto-rico/uber-eats-pr-vs-doordash-pr"
+    },
+    {
+     "name": "DoorDash",
+     "cat": "delivery",
+     "pkg": "com.dd.doordash",
+     "note": "Zweiter Lieferdienst in San Juan und weiteren Orten",
+     "src": "https://www.bento.travel/compare/puerto-rico/uber-eats-pr-vs-doordash-pr"
+    },
+    {
+     "name": "Uva",
+     "cat": "delivery",
+     "note": "Lokaler Lieferdienst, App eher schwach bewertet",
+     "src": "https://www.bento.travel/compare/puerto-rico/uber-eats-pr-vs-doordash-pr"
+    },
+    {
+     "name": "ATH Móvil",
+     "cat": "payment",
+     "note": "Verbreitete lokale Bezahl App bei kleinen Händlern",
+     "use": "no",
+     "req": "ATH Debitkarte einer lokalen Bank nötig",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-puerto-rico"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Live Verkehr und Gefahren beim Autofahren",
+     "src": "https://www.bento.travel/puerto-rico/intercity-transport"
+    },
+    {
+     "name": "City Experiences",
+     "cat": "rail",
+     "pkg": "com.hornblower.hornblower",
+     "note": "Offizielle Fähr App Ceiba, Vieques und Culebra",
+     "ess": true,
+     "src": "https://www.puertoricoferry.com/en/faq/"
+    },
+    {
+     "name": "Turo",
+     "cat": "carshare",
+     "note": "Privates Carsharing, seit 2025 offiziell zugelassen",
+     "use": "limited",
+     "req": "Mindestalter, Führerscheinprüfung und Kreditkarte nötig",
+     "src": "https://www.elnuevodia.com/english/business/notas/car-sharing-platform-turo-now-authorized-to-operate-in-puerto-rico"
+    }
+   ],
+   "cities": [
+    {
+     "name": "San Juan",
+     "match": [
+      "San Juan"
+     ],
+     "apps": [
+      {
+       "name": "Transit",
+       "cat": "transit",
+       "pkg": "com.thetransitapp.droid",
+       "note": "Von ATI unterstützt, Tren Urbano und Stadtbusse",
+       "src": "https://www.bento.travel/puerto-rico/intercity-transport"
+      },
+      {
+       "name": "Skootel",
+       "cat": "micro",
+       "note": "Leih E-Scooter per QR Code, auch Karte als Zahlung",
+       "src": "https://apps.apple.com/us/app/skootel-scooter-sharing/id6615074657"
+      },
+      {
+       "name": "ParkMobile",
+       "cat": "parking",
+       "note": "Parken per App im Distrito T-Mobile",
+       "src": "https://parkmobile.io/about-us/newsroom/articles/parkmobile-expands-its-presence-to-puerto-rico-and-launches-at-distrito-t-mobile-offering-contactles"
+      }
+     ]
+    }
+   ],
+   "note": "Karten werden fast überall akzeptiert, kleine Händler nehmen aber teils nur Bargeld oder ATH Móvil.",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico",
+   "lgbtq_note": "Die gleichgeschlechtliche Ehe ist wie im übrigen US-Gebiet legal, gleichgeschlechtliche Paare dürfen adoptieren.",
+   "lgbtq_src": "https://equallywed.com/?p=44767",
    "checked": "2026-11-18"
   }
  ]
