@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 10:48",
+ "version": "2026-11-18 14:37",
  "categories": [
   {
    "id": "entry",
@@ -18716,6 +18716,336 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
    "lgbtq_note": "Es gibt keine strafrechtlichen Bestimmungen gegen Homosexualität, die Verfassung verbietet Diskriminierung wegen der sexuellen Orientierung.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "LY",
+   "name": "Libyen",
+   "flag": "🇱🇾",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/219624"
+    },
+    {
+     "name": "ELEFAND",
+     "cat": "safety",
+     "note": "Eintrag in die Krisenvorsorgeliste der Botschaft",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/219624"
+    },
+    {
+     "name": "ADEX: Libya Taxi App",
+     "cat": "taxi",
+     "pkg": "adex.taxi.libya.passenger",
+     "note": "Taxi in Tripolis, Misrata, Bengasi und Gharyan, bar oder Karte",
+     "use": "limited",
+     "req": "Konto mit Telefonnummer nötig",
+     "src": "https://apps.apple.com/app/id6503294742"
+    },
+    {
+     "name": "Hubbir",
+     "cat": "taxi",
+     "note": "Fahrten und Transporte in Tripolis und Misrata",
+     "use": "limited",
+     "req": "Konto mit Telefonnummer nötig",
+     "src": "https://apps.apple.com/us/app/id6754839570"
+    },
+    {
+     "name": "Presto",
+     "cat": "delivery",
+     "note": "Essen, Einkäufe und Apotheke in mehreren Großstädten",
+     "src": "https://wildcatsandblacksheep.com/?p=14960"
+    },
+    {
+     "name": "Hafelati",
+     "cat": "transit",
+     "note": "Buslinien, Fahrpläne und Verkaufsstellen von Al Sahm",
+     "src": "https://apps.apple.com/us/app/hafelati/id1548463465?uo=4"
+    },
+    {
+     "name": "Luna Scooter Libya",
+     "cat": "micro",
+     "note": "Leih-E-Scooter per QR-Code in festen Zonen",
+     "use": "limited",
+     "req": "Bediengebiete nicht genannt, vorab in der App prüfen",
+     "src": "https://apps.apple.com/us/app/-/id6747382211"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Libyen riskant",
+     "use": "no",
+     "req": "Unsittliches Verhalten wird mit Haft bestraft",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/219624"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Tripoli",
+     "match": [
+      "Tripoli"
+     ],
+     "apps": [
+      {
+       "name": "Eilda",
+       "cat": "taxi",
+       "note": "Fahrdienst mit Fahrerinnen nur für Frauen",
+       "use": "limited",
+       "req": "Nur für Frauen als Fahrgäste",
+       "src": "https://apps.apple.com/us/app/id6738202787"
+      },
+      {
+       "name": "Sixt",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Mitiga und in der Stadt",
+       "use": "limited",
+       "req": "Gültiger Führerschein und Reisepass nötig",
+       "src": "https://www.sixt.com/car-rental/libya/tripoli/"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung des Auswärtigen Amts; Visum vorab bei der Botschaft in Berlin, Bargeld in Euro oder Dollar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/219624",
+   "lgbtq_note": "Sex außerhalb der Ehe und sogenanntes unsittliches Verhalten sind verboten und mit Haft bedroht, gleichgeschlechtliche Partnerschaften sind nicht vorgesehen, Zurückhaltung wird empfohlen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/219624",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MG",
+   "name": "Madagaskar",
+   "flag": "🇲🇬",
+   "apps": [
+    {
+     "name": "Misy",
+     "cat": "taxi",
+     "pkg": "com.misy.rider",
+     "note": "Madagassische App für Taxi, Moto, Auto und Bajaj mit Festpreis",
+     "ess": true,
+     "use": "limited",
+     "req": "Bezahlung bar oder per Mobile Money, Taxi und Bajaj nur in einigen Städten",
+     "src": "https://misy.app/en"
+    },
+    {
+     "name": "MadaEat",
+     "cat": "delivery",
+     "pkg": "mg.madaeat.app",
+     "note": "Essen aus lokalen Restaurants bestellen, kleine neue App",
+     "src": "https://play.google.com/store/apps/details?id=mg.madaeat.app&hl=en_US"
+    },
+    {
+     "name": "MVola",
+     "cat": "payment",
+     "note": "Mobile Money von Telma für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Wohnsitz in Madagaskar, Ausweis und aktive SIM-Karte nötig",
+     "src": "https://mvola.mg/wp-content/uploads/2024/12/CGU_Services-MVola-Novembre-2024.pdf"
+    },
+    {
+     "name": "Orange Money Africa",
+     "cat": "payment",
+     "note": "Mobile Money von Orange, Konto direkt in der App eröffnen",
+     "use": "limited",
+     "req": "Madagassische SIM-Karte, Ausweisdokument und Foto nötig",
+     "src": "https://www.wearetech.africa/fr/fils/actualites/telecom/le-service-orange-money-ouvert-a-tous-a-madagascar-sans-distinction-d-operateurs-telecoms"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Antananarivo",
+     "match": [
+      "Antananarivo"
+     ],
+     "apps": [
+      {
+       "name": "Piqla",
+       "cat": "taxi",
+       "note": "Fahrdienst mit Elektroautos und Preis vorab",
+       "src": "https://apps.apple.com/lb/app/piqla/id6736907045"
+      },
+      {
+       "name": "inDrive",
+       "cat": "taxi",
+       "note": "Fahrpreis selbst vorschlagen, auch Fahrten zum Flughafen",
+       "src": "https://nomada.tools/directory/ride-hailing/madagascar"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Ivato und in der Stadt buchen",
+       "use": "limited",
+       "req": "Führerschein nötig, Bedingungen beim Anbieter prüfen",
+       "src": "https://www.avis.com/fr/locations/mg/antananarivo"
+      }
+     ]
+    }
+   ],
+   "note": "Visum bis 90 Tage gibt es bei Ankunft gegen Gebühr in Euro; Reisepass muss noch sechs Monate gültig sein, Ausweis reicht nicht.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/madagaskar-node/madagaskarsicherheit-207960",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, das Schutzalter ist aber ungleich, gleichgeschlechtliche Ehen sind verboten und es gibt kaum Schutz vor Diskriminierung.",
+   "lgbtq_src": "https://equaldex.com/region/madagascar",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "ML",
+   "name": "Mali",
+   "flag": "🇲🇱",
+   "apps": [
+    {
+     "name": "Orange Max it Mali",
+     "cat": "payment",
+     "note": "Orange-Money-Wallet, Guthaben und QR-Zahlungen",
+     "use": "limited",
+     "req": "Für die meisten Funktionen Orange-Mali-Anschluss nötig",
+     "src": "https://apps.apple.com/ml/app/orange-max-it-mali/id1494321079?l=fr-FR"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Mali gefährlich",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bamako",
+     "match": [
+      "Bamako"
+     ],
+     "apps": [
+      {
+       "name": "Heetch",
+       "cat": "taxi",
+       "pkg": "com.heetch",
+       "note": "Fahrdienst in Bamako, Zahlung bar oder per Mobile Money",
+       "ess": true,
+       "src": "https://www.heetch.com/en/blog/comment-utiliser-lapplication-heetch-mali-en-etant-passager"
+      },
+      {
+       "name": "Woyo",
+       "cat": "taxi",
+       "note": "Malische Taxi-App mit festen Preisen in Bamako",
+       "src": "https://www.wearetech.africa/fr/fils/solutions/mali-woyo-offre-des-services-de-vtc-a-bamako"
+      },
+      {
+       "name": "Livrado",
+       "cat": "delivery",
+       "note": "Essen, Supermarkt und Botengänge in Bamako liefern lassen",
+       "src": "https://wearetech.africa/en/fils-uk/solutions/livrado-simplifies-food-delivery-errands-and-storage-in-bamako"
+      },
+      {
+       "name": "Fikaso Plus",
+       "cat": "delivery",
+       "note": "Restaurantlieferung, Pakete und Fahrten in Bamako",
+       "use": "limited",
+       "req": "Bezahlung über die Wallet in der App",
+       "src": "https://www.wearetech.africa/fr/fils/solutions/mali-l-application-mobile-fikaso-plus-relie-les-consommateurs-aux-restaurants-de-bamako-en-quelques-clics"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen über die Avis-Station in Bamako",
+       "use": "limited",
+       "req": "Führerschein nötig, Standardtarif für Fahrer ab 25 Jahren",
+       "src": "https://www.avis.fr/services-avis/location-voiture/afrique/mali/bamako/bamako-location-de-voiture"
+      }
+     ]
+    }
+   ],
+   "note": "Das Auswärtige Amt warnt vor Reisen und fordert zur Ausreise auf; Visum vorab beantragen, Gelbfieberimpfung ist Pflicht.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258",
+   "lgbtq_note": "Homosexuelle Handlungen sind in Mali ausdrücklich mit Geld- oder Haftstrafen bedroht und sollten in der Öffentlichkeit unbedingt vermieden werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MW",
+   "name": "Malawi",
+   "flag": "🇲🇼",
+   "apps": [
+    {
+     "name": "GetRentacar",
+     "cat": "carshare",
+     "pkg": "getrentacar.app",
+     "note": "Mietwagen von Anbietern, unter anderem am Flughafen Lilongwe",
+     "use": "limited",
+     "req": "Führerschein mit internationalem Führerschein, Visa oder Mastercard Debitkarte, Kaution vor Ort",
+     "src": "https://getrentacar.com/en-US/malawi"
+    },
+    {
+     "name": "ChanguFood",
+     "cat": "delivery",
+     "note": "Essenslieferung von vielen Restaurants",
+     "use": "limited",
+     "req": "Zahlung über PayChangu, ob ausländische Karten gehen, ist unklar",
+     "src": "https://mwnation.com/changufood-powered-by-paychangu-brings-tech-driven-taste-to-mite-2025/"
+    },
+    {
+     "name": "Madyo",
+     "cat": "delivery",
+     "note": "Restaurants bestellen mit Live Verfolgung, Sitz in Lilongwe",
+     "use": "limited",
+     "req": "Bezahlung über lokales Mobile Money vorgesehen",
+     "src": "https://www.wearetech.africa/en/fils-uk/solutions/madyo-connects-restaurants-and-diners-in-malawi"
+    },
+    {
+     "name": "TNM Smart App",
+     "cat": "payment",
+     "pkg": "mw.co.tnm.topup.tnmsmartapp",
+     "note": "Guthaben, Datenpakete und Mpamba Mobile Money von TNM",
+     "use": "no",
+     "req": "Registrierte TNM Nummer nötig, SIM Registrierung mit Ausweis",
+     "src": "https://appwisp.com/app/android/mw.co.tnm.topup.tnmsmartapp"
+    },
+    {
+     "name": "MyAirtel",
+     "cat": "payment",
+     "note": "Guthaben, Datenpakete und Airtel Money verwalten",
+     "use": "no",
+     "req": "Registrierte Airtel Malawi Nummer nötig, SIM Registrierung mit Ausweis",
+     "src": "https://www.maraviexpress.com/?p=37154"
+    },
+    {
+     "name": "Visit Malawi",
+     "cat": "tourism",
+     "note": "Kostenlose Reiseinfos zu Malawi, nur für iOS",
+     "src": "https://apps.apple.com/us/app/visit-malawi/id6450369615"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating App, in Malawi riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar, hohe Haftstrafen möglich",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Blantyre",
+     "match": [
+      "Blantyre"
+     ],
+     "apps": [
+      {
+       "name": "VoiceMap",
+       "cat": "tourism",
+       "note": "Audio Stadtrundgang durch Blantyre, auch offline nutzbar",
+       "src": "https://voicemap.me/tour/blantyre/malawi-s-commercial-heart-a-blantyre-walking-tour"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen seit Januar 2026 ein Visum, bei Ankunft oder online; Geldautomaten geben oft nur kleine Beträge aus.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu 14 Jahren Haft bestraft werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
    "checked": "2026-11-18"
   }
  ]
