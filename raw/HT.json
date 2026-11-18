@@ -1,0 +1,77 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
+ "fetched": "2026-11-18",
+ "updated": "Stand: 18.11.2026 (Auswärtiges Amt)",
+ "note": "Das Auswärtige Amt warnt vor Reisen nach Haiti. Der Flughafen Port-au-Prince ist geschlossen, Flüge nur eingeschränkt über Cap-Haïtien.",
+ "lgbtq_note": "Laut Auswärtigem Amt herrscht latente Homophobie, gegen Ausländer gerichtete Diskriminierung im Alltag ist aber nicht bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "iKat",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Webformular für Ein- und Ausreise, keine App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://visasnews.com/haiti-le-formulaire-numerique-dentree-et-de-sortie-ikat-obligatoire-depuis-le-1er-octobre-2026/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisewarnung und Hinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048"
+  },
+  {
+   "name": "Sunrise Airways",
+   "cat": "flights",
+   "pkg": "com.hititcs.sunriseairways",
+   "ess": false,
+   "note": "Flüge der haitianischen Airline buchen und verwalten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.haitilibre.com/en/news-46442-haiti-internet-new-sunrise-airways-app.html"
+  },
+  {
+   "name": "PlopPlop",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi, Motorrad und Lieferung in Jacmel, Cap und Les Cayes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mx/app/plopplop/id6747666097"
+  },
+  {
+   "name": "MonCash",
+   "cat": "payment",
+   "pkg": "com.useboom.htwallet",
+   "ess": false,
+   "note": "Mobiles Geld von Digicel für Zahlung und Transfer",
+   "city": "",
+   "use": "limited",
+   "req": "Identifizierung mit Pass und Selfie, SIM der Nummer im Gerät nötig",
+   "src": "https://moncashdfs.com/complete-the-identification-process"
+  },
+  {
+   "name": "Natcash (Natcom)",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobiles Geld von Natcom, auch QR-Zahlung bei Händlern",
+   "city": "",
+   "use": "limited",
+   "req": "Identitätsprüfung nötig, Bedingungen für Ausländer unklar",
+   "src": "https://apps.apple.com/app/id1613464862"
+  }
+ ]
+}

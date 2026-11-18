@@ -1,0 +1,88 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/honduras-node/hondurassicherheit-221078",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Taxis nicht am Straßenrand heranwinken, Radiotaxis bevorzugen und bei Flugreisen die digitale Zollerklärung ausfüllen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1899 legal, die Verfassung verbietet aber die gleichgeschlechtliche Ehe und Gewalt gegen LGBTQ+ Menschen ist häufig.",
+ "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Honduras",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrdienst in Tegucigalpa, San Pedro Sula und Comayagua",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.revistaeyn.com/empresasymanagement/la-app-de-uber-amplia-su-cobertura-en-mas-ciudades-de-honduras-FO26394724"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst per App, rechtlich noch nicht reguliert",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.laprensa.hn/fotogalerias/honduras/taxis-vip-uber-indrive-conflicto-acuerdos-honduras-JB31031558"
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Essen, Supermarkt und Apotheke liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.revistaeyn.com/eyn-brandlab/pedidosya-plus-llega-a-honduras-CD22479139"
+  },
+  {
+   "name": "Dream Ferries",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähren zwischen Roatán, Utila und La Ceiba",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6751184605"
+  },
+  {
+   "name": "Rentcars",
+   "cat": "carshare",
+   "pkg": "com.rentcars.rentcarscom",
+   "ess": false,
+   "note": "Mietwagen großer Anbieter an den Flughäfen vergleichen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rentcars.com/es-co/airports/honduras/sap-san-pedro-sula-departamento-de-cortes"
+  },
+  {
+   "name": "TENGO App",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Bezahl-App mit QR, Überweisungen und Visa-Karte",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit biometrischer Prüfung, für Ausländer unklar",
+   "src": "https://apps.apple.com/hn/app/tengo-app/id962381914"
+  },
+  {
+   "name": "Mi Tigo Honduras",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben und Datenpakete für Tigo aufladen",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit Tigo SIM-Karte sinnvoll",
+   "src": "https://apps.apple.com/hn/app/mi-tigo-honduras/id925903504"
+  }
+ ]
+}

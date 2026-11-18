@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "GP",
-   "en": "Guadeloupe",
-   "slug": "guadeloupe"
-  },
-  {
-   "code": "GT",
-   "en": "Guatemala",
-   "slug": "guatemala"
-  },
-  {
-   "code": "HT",
-   "en": "Haiti",
-   "slug": "haiti"
-  },
-  {
-   "code": "HN",
-   "en": "Honduras",
-   "slug": "honduras"
-  },
-  {
    "code": "JM",
    "en": "Jamaica",
    "slug": "jamaica"
@@ -207,6 +187,26 @@
    "code": "GD",
    "en": "Grenada",
    "slug": "grenada"
+  },
+  {
+   "code": "GP",
+   "en": "Guadeloupe",
+   "slug": "guadeloupe"
+  },
+  {
+   "code": "GT",
+   "en": "Guatemala",
+   "slug": "guatemala"
+  },
+  {
+   "code": "HT",
+   "en": "Haiti",
+   "slug": "haiti"
+  },
+  {
+   "code": "HN",
+   "en": "Honduras",
+   "slug": "honduras"
   }
  ]
 }
