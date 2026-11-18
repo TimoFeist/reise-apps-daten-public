@@ -1,0 +1,176 @@
+{
+ "src": "https://www.bento.travel/sri-lanka",
+ "fetched": "2026-11-18",
+ "updated": "Last updated: August 2026",
+ "note": "Bargeld mitführen, denn Guesthouses, Tuk-Tuks und Busse nehmen oft nur Cash; ETA nur über eta.gov.lk beantragen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind für Männer und Frauen strafbar, Strafverfahren gegen Erwachsene gibt es in der Praxis aber kaum.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/srilanka-node/srilankasicherheit-212254",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sri Lanka ETA",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Gebührenfreie Einreisegenehmigung vorab online beantragen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/srilanka-node/srilankasicherheit-212254"
+  },
+  {
+   "name": "PickMe",
+   "cat": "taxi",
+   "pkg": "com.pickme.passenger",
+   "ess": true,
+   "note": "Tuk-Tuks, Autos und Essenslieferung in einer App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-sri-lanka"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrten in Colombo, Negombo und Beruwala",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-sri-lanka"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": true,
+   "note": "Essen und Lebensmittel in Colombo und Umgebung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/sri-lanka/food-delivery"
+  },
+  {
+   "name": "Pravesha",
+   "cat": "rail",
+   "pkg": "com.slrpassengerapp",
+   "ess": true,
+   "note": "Offizielle Bahn-App für normale Zugtickets ohne Sitzplatz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "Sri Lanka Railways Seat Reservation",
+   "cat": "rail",
+   "pkg": "",
+   "ess": true,
+   "note": "Reservierte Sitzplätze bis 30 Tage vorher buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://seatreservation.railway.gov.lk/"
+  },
+  {
+   "name": "NTC Bus Information",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrpläne und Preise für Überlandbusse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/sri-lanka/transit"
+  },
+  {
+   "name": "Sri Lanka Bus Tickets",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Sitzplätze in Fernbussen auf ausgewählten Strecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Kostenlose Offline-Karten ohne Konto",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "The Pekoe Trail",
+   "cat": "tourism",
+   "pkg": "com.youlead.pekoetrail",
+   "ess": false,
+   "note": "Offizielle Wander-App mit Etappen, GPS und Trail-Pass",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "CCF Heritage eTickets",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Tickets für Kulturstätten vorab kaufen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "DWC National Park Permits",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Eintrittsgenehmigungen für Nationalparks online",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "1990 Suwa Seriya",
+   "cat": "safety",
+   "pkg": "lk.gov.suwasariya.ambulance1990",
+   "ess": true,
+   "note": "Kostenloser Rettungsdienst mit Standortübermittlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "Sri Lanka Tourism 1912",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Touristeninfo und Hotline 1912 rund um die Uhr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "DMC Sri Lanka",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Warnungen vor Überschwemmungen und Erdrutschen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "src": "https://www.bento.travel/maldives",
+ "fetched": "2026-11-18",
+ "updated": "Last updated: August 2026",
+ "note": "Resorts organisieren den Flughafentransfer selbst, daher Art, Preis, Gepäck und späteste Ankunftszeit vorab mit dem Resort klären.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden verfolgt, das Rechtssystem orientiert sich an der Scharia.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malediven-node/maledivensicherheit-220382",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "IMUGA Traveller Declaration",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Kostenlose Einreiseerklärung bis 96 Stunden vor Ankunft",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "RTL Travel App",
+   "cat": "transit",
+   "pkg": "com.scsoft.maldivesrtl",
+   "ess": true,
+   "note": "Offizielle App für Busse und Schnellfähren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Odiapp",
+   "cat": "rail",
+   "pkg": "travel.odi",
+   "ess": false,
+   "note": "Plätze auf Schnellbooten buchen und Boote chartern",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Avas App",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Bekannteste lokale Taxi-App im Großraum Malé",
+   "city": "Malé",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Malé Taxi Line",
+   "cat": "taxi",
+   "pkg": "mv.mtcc.TaxiApp",
+   "ess": false,
+   "note": "Staatliches Taxi im Großraum Malé, Kartenzahlung",
+   "city": "Malé",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Foodies",
+   "cat": "delivery",
+   "pkg": "com.theloopcraft.foodies",
+   "ess": true,
+   "note": "Lieferdienst mit über 100 Restaurants",
+   "city": "Malé",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "AVAS Food",
+   "cat": "delivery",
+   "pkg": "com.daitonn.avasfood",
+   "ess": false,
+   "note": "Lokaler Lieferdienst für Malé und Hulhumalé",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Swipe by BML",
+   "cat": "payment",
+   "pkg": "mv.com.bml.swipe",
+   "ess": false,
+   "note": "Wallet für MVR und USD, für Besucher optional",
+   "city": "",
+   "use": "limited",
+   "req": "Identitätsprüfung nötig, Rückerstattung auf Karte eingeschränkt",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Maldivian",
+   "cat": "flights",
+   "pkg": "aero.maldivian.app",
+   "ess": false,
+   "note": "Buchung und Check-in der Inlandsfluglinie",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Udha Maldives",
+   "cat": "safety",
+   "pkg": "com.tecxal.udha",
+   "ess": false,
+   "note": "Warnungen, Wetter und Gezeiten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": false,
+   "note": "Zweiter Messenger, nur bei Bedarf installieren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/maldives"
+  },
+  {
+   "name": "Urban Glide MV",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter an Stationen der Stadtentwicklung HDC",
+   "city": "Hulhumalé",
+   "use": "limited",
+   "req": "Registrierung in der App, Zugang für Ausländer unklar",
+   "src": "https://apps.apple.com/us/app/urban-glide-mv/id6449532059"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, Nutzung wird staatlich überwacht",
+   "city": "",
+   "use": "no",
+   "req": "Homosexualität ist strafbar, Online-Aktivität wird überwacht",
+   "src": "https://nomadicboys.com/gay-maldives/"
+  }
+ ]
+}

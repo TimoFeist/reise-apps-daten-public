@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "TW",
-"en": "Taiwan",
-"slug": "taiwan"
-},
-{
-"code": "IN",
-"en": "India",
-"slug": "india"
-},
-{
-"code": "LK",
-"en": "Sri Lanka",
-"slug": "sri-lanka"
-},
-{
-"code": "MV",
-"en": "Maldives",
-"slug": "maldives"
-},
-{
 "code": "IL",
 "en": "Israel",
 "slug": "israel"
@@ -267,6 +247,26 @@
 "code": "HK",
 "en": "Hong Kong",
 "slug": "hong-kong"
+},
+{
+"code": "TW",
+"en": "Taiwan",
+"slug": "taiwan"
+},
+{
+"code": "IN",
+"en": "India",
+"slug": "india"
+},
+{
+"code": "LK",
+"en": "Sri Lanka",
+"slug": "sri-lanka"
+},
+{
+"code": "MV",
+"en": "Maldives",
+"slug": "maldives"
 }
 ]
 }
