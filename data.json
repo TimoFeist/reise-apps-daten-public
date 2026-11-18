@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 20:28",
+ "version": "2026-11-18 20:37",
  "categories": [
   {
    "id": "entry",
@@ -23998,6 +23998,259 @@
    "src": "https://www.bento.travel/oman",
    "lgbtq_note": "Homosexuelle Handlungen sind mit bis zu drei Jahren Haft strafbar, Cross-Dressing ist verboten, gleichgeschlechtliche Ehen werden nicht anerkannt und nach einer Verurteilung droht die Ausweisung.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/oman-node/omansicherheit-204160",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SH",
+   "name": "St. Helena, Ascension und Tristan da Cunha",
+   "flag": "🇸🇭",
+   "apps": [
+    {
+     "name": "Outdooractive",
+     "cat": "tourism",
+     "note": "Offizielle Post Box Walks von St Helena Tourism",
+     "ess": true,
+     "src": "https://atta.travel/resource/st-helena-launches-famous-post-box-walks-on-outdooractive-app.html"
+    },
+    {
+     "name": "Fly Airlink",
+     "cat": "flights",
+     "note": "Flüge der Airlink buchen, einchecken, Status prüfen",
+     "ess": true,
+     "src": "https://atcnews.org/airlink-launches-app-for-passenger-convenience/"
+    }
+   ],
+   "cities": [],
+   "note": "Taxis und Mietwagen sind knapp und sollten vor der Reise gebucht werden; Busse sind der einzige öffentliche Verkehr.",
+   "src": "https://sthelenaairport.com/at-the-airport/directions-and-transport/",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.",
+   "lgbtq_src": "https://thepinknews.com/2017/12/20/this-tiny-island-just-passed-same-sex-marriage/",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SL",
+   "name": "Sierra Leone",
+   "flag": "🇸🇱",
+   "apps": [
+    {
+     "name": "Orange Max it - Sierra Leone",
+     "cat": "payment",
+     "note": "Orange Money und Guthaben in einer App verwalten",
+     "use": "limited",
+     "req": "Nur für Kunden mit Orange-SIM aus Sierra Leone",
+     "src": "https://apps.apple.com/us/app/-/id6443607903"
+    },
+    {
+     "name": "MyAfricell SL",
+     "cat": "payment",
+     "note": "Africell-Konto und Afrimoney-Wallet, Rechnungen zahlen",
+     "use": "limited",
+     "req": "Africell-SIM aus Sierra Leone nötig, Afrimoney per SMS oder Agent",
+     "src": "https://apps.apple.com/us/app/myafricell-sl/id1572635366"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Sierra Leone nur mit Vorsicht nutzen",
+     "use": "limited",
+     "req": "Gesellschaftliche Ablehnung, große Diskretion geboten",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Freetown",
+     "match": [
+      "Freetown"
+     ],
+     "apps": [
+      {
+       "name": "KargoSL",
+       "cat": "taxi",
+       "note": "Keke, Moto oder Taxi buchen, dazu Pakete und Einkäufe",
+       "ess": true,
+       "use": "limited",
+       "req": "Zahlung per Orange Money oder App-Wallet, lokale Nummer üblich",
+       "src": "https://apps.apple.com/app/id6761107673"
+      },
+      {
+       "name": "Jisnor4U",
+       "cat": "delivery",
+       "note": "Lieferung von Restaurants, Supermärkten und Apotheken",
+       "use": "limited",
+       "req": "Zahlungswege nicht angegeben, lokale Nummer wahrscheinlich nötig",
+       "src": "https://apps.apple.com/bo/app/jisnor4u/id6475585867"
+      },
+      {
+       "name": "Way-Li",
+       "cat": "delivery",
+       "note": "Bestell-App eines Restaurants mit Abholung oder Lieferung",
+       "use": "limited",
+       "req": "In-App-Zahlung über lokales Mobile Money",
+       "src": "https://mwm.ai/apps/way-li/6765676969"
+      }
+     ]
+    }
+   ],
+   "note": "eVisum vorab auf evisa.sl beantragen, 25 USD Sicherheitsgebühr über securipass.sl zahlen; Gelbfieberimpfung ist Pflicht.",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
+   "lgbtq_note": "Männliche homosexuelle Handlungen sind formal strafbar, das Gesetz wird kaum angewendet; Homosexualität stößt aber auf breite Ablehnung.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SN",
+   "name": "Senegal",
+   "flag": "🇸🇳",
+   "apps": [
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "note": "Meistgenutzter Fahrdienst mit Festpreis, Barzahlung geht",
+     "ess": true,
+     "src": "https://www.expat.com/en/guide/africa/senegal/dakar/37434-getting-around-dakar.html"
+    },
+    {
+     "name": "Yassir",
+     "cat": "taxi",
+     "note": "Fahrten in Dakar und Thiès, auch zum Flughafen AIBD",
+     "src": "https://algerie-eco.com/2023/05/23/vtc-yassir-etend-ses-services-a-thies/"
+    },
+    {
+     "name": "Yango Food Delivery",
+     "cat": "delivery",
+     "note": "Essenslieferung innerhalb der Yango App",
+     "src": "https://senego.com/restauration-et-numerique-yango-food-delivery-debarque-au-senegal_1804663.html"
+    },
+    {
+     "name": "Dakar Dem Dikk",
+     "cat": "transit",
+     "note": "Stadtbusse und Fernlinien, Reisen umbuchen oder stornieren",
+     "src": "https://www.osiris.sn/transport-dakar-dem-dikk-annonce-de-nouvelles-innovations-sur-son-application.html"
+    },
+    {
+     "name": "Wave",
+     "cat": "payment",
+     "pkg": "com.wave.personal",
+     "note": "Verbreitetes Mobile Money, auch für TER und BRT Tickets",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto nur nach Passprüfung bei einem Wave-Agenten",
+     "src": "https://ibrahimkamara.com/blog/wave-senegal"
+    },
+    {
+     "name": "Orange Max it",
+     "cat": "payment",
+     "note": "Orange App mit Orange Money, BRT-Tickets geplant",
+     "use": "limited",
+     "req": "Senegalesische Orange-SIM und Orange-Money-Konto nötig",
+     "src": "https://www.wearetech.africa/fr/fils/actualites/telecom/senegal-sonatel-connecte-son-application-max-it-au-reseau-de-bus-rapides-de-dakar"
+    },
+    {
+     "name": "Ataya",
+     "cat": "tourism",
+     "note": "Ausflüge, Kultur, Sport und Events im Land buchen",
+     "src": "https://www.seneweb.com/en/news/Societe/ataya-the-app-that-is-revolutionizing-leisure-and-tourism-in-senegal_n_468528.html"
+    },
+    {
+     "name": "Sixt",
+     "cat": "carshare",
+     "note": "Mietwagen im Zentrum von Dakar und am Flughafen",
+     "use": "limited",
+     "req": "Internationaler Führerschein plus deutscher Führerschein",
+     "src": "https://www.sixt.fr/location-voiture/senegal/dakar"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen mit Station am Flughafen Dakar",
+     "use": "limited",
+     "req": "Internationaler Führerschein plus deutscher Führerschein",
+     "src": "https://www.avis.fr/services-avis/location-voiture/afrique/senegal/dakar/aeroport-de-dakar"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, im Senegal sehr gefährlich",
+     "use": "no",
+     "req": "Homosexualität strafbar, Polizei wertet Handys aus",
+     "src": "https://www.hrw.org/fr/news/2026/10/12/senegal-une-repression-brutale-bafoue-les-droits-des-personnes-lgbt"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Dakar",
+     "match": [
+      "Dakar"
+     ],
+     "apps": [
+      {
+       "name": "Heetch",
+       "cat": "taxi",
+       "note": "Zweiter großer Fahrdienst in Dakar zum Preisvergleich",
+       "src": "https://kolonell.com/en/blog/taxi-vtc-app-dakar-2026"
+      },
+      {
+       "name": "SunuBRT",
+       "cat": "transit",
+       "note": "Offizielle BRT App mit Fahrplan, Routen und QR-Tickets",
+       "ess": true,
+       "use": "limited",
+       "req": "Nur auf Französisch; Ticketkauf vermutlich per Mobile Money",
+       "src": "https://apps.apple.com/ge/app/sunubrt/id6476969132"
+      }
+     ]
+    }
+   ],
+   "note": "Kein Visum bis drei Monate, nur mit Reisepass. Uber fehlt, Fahrten per Yango oder Heetch, sonst Taxipreis vorher aushandeln.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190",
+   "lgbtq_note": "Homosexuelle Handlungen sind seit März 2026 mit 5 bis 10 Jahren Haft strafbar, auch Ausländer wurden schon festgenommen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "ST",
+   "name": "São Tomé und Príncipe",
+   "flag": "🇸🇹",
+   "apps": [
+    {
+     "name": "eVisa São Tomé e Príncipe",
+     "cat": "entry",
+     "note": "Online-Visum für Aufenthalte über 15 Tage",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434"
+    },
+    {
+     "name": "Dobra Digital",
+     "cat": "payment",
+     "note": "Lokale Wallet, Zahlen per QR-Code bei Händlern",
+     "use": "limited",
+     "req": "Registrierung laut Quelle unklar; Aufladung per Visa oder Bank",
+     "src": "https://apps.apple.com/st/app/dobra-digital/id1557688732"
+    },
+    {
+     "name": "Maps.me",
+     "cat": "maps",
+     "note": "Offline-Karten für die Inseln",
+     "src": "https://www.milehacker.com/travel/sao-tome-principe/sao-tome/getting-around-sao-tome-public-transport-taxis-car/"
+    },
+    {
+     "name": "TAP Air Portugal",
+     "cat": "flights",
+     "note": "Flüge über Lissabon nach São Tomé",
+     "src": "https://www.flytap.com/pt_pt/voos-para-sao-tome-e-principe"
+    }
+   ],
+   "cities": [],
+   "note": "Bis 15 Tage visumfrei, am Flughafen 25 EUR Tourismusabgabe; nur Visa-Karten gehen, genug Bargeld mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
    "checked": "2026-11-18"
   }
  ]
