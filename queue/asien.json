@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "OM",
-"en": "Oman",
-"slug": "oman"
-},
-{
-"code": "BH",
-"en": "Bahrain",
-"slug": "bahrain"
-},
-{
-"code": "KW",
-"en": "Kuwait",
-"slug": "kuwait"
-},
-{
-"code": "GE",
-"en": "Georgia",
-"slug": "georgia"
-},
-{
 "code": "AM",
 "en": "Armenia",
 "slug": "armenia"
@@ -267,6 +247,26 @@
 "code": "SA",
 "en": "Saudi Arabia",
 "slug": "saudi-arabia"
+},
+{
+"code": "OM",
+"en": "Oman",
+"slug": "oman"
+},
+{
+"code": "BH",
+"en": "Bahrain",
+"slug": "bahrain"
+},
+{
+"code": "KW",
+"en": "Kuwait",
+"slug": "kuwait"
+},
+{
+"code": "GE",
+"en": "Georgia",
+"slug": "georgia"
 }
 ]
 }
