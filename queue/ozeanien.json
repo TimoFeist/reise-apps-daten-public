@@ -2,26 +2,6 @@
 "continent": "OC",
 "todo": [
 {
-"code": "MP",
-"en": "Northern Mariana Islands",
-"slug": "northern-mariana-islands"
-},
-{
-"code": "PW",
-"en": "Palau",
-"slug": "palau"
-},
-{
-"code": "PG",
-"en": "Papua New Guinea",
-"slug": "papua-new-guinea"
-},
-{
-"code": "PN",
-"en": "Pitcairn",
-"slug": "pitcairn"
-},
-{
 "code": "WS",
 "en": "Samoa",
 "slug": "samoa"
@@ -142,6 +122,26 @@
 "code": "NF",
 "en": "Norfolk Island",
 "slug": "norfolk-island"
+},
+{
+"code": "MP",
+"en": "Northern Mariana Islands",
+"slug": "northern-mariana-islands"
+},
+{
+"code": "PW",
+"en": "Palau",
+"slug": "palau"
+},
+{
+"code": "PG",
+"en": "Papua New Guinea",
+"slug": "papua-new-guinea"
+},
+{
+"code": "PN",
+"en": "Pitcairn",
+"slug": "pitcairn"
 }
 ]
 }
