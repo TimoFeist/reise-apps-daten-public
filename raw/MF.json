@@ -1,0 +1,88 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Personalausweis reicht, bei Flug über Sint Maarten oder andere Inseln ist ein sechs Monate gültiger Reisepass nötig.",
+ "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "FR-Alert",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Französische Warnmeldungen aufs Handy im Gefahrengebiet",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "We Are SXM",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline Inselführer für beide Seiten der Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1493427807"
+  },
+  {
+   "name": "RIDEZEE",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lizenzierte Taxis von Sint Maarten, Tarife für beide Seiten",
+   "city": "",
+   "use": "limited",
+   "req": "Startet auf Sint Maarten, französische Seite unklar",
+   "src": "https://apps.apple.com/dz/app/sxm-cab/id6477154512"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auf der Insel nicht aktiv, Taxis per Telefon",
+   "city": "",
+   "use": "no",
+   "req": "In Saint-Martin nicht verfügbar",
+   "src": "https://www.travelwithhello.com/blog/saint-martinfrench-part-transport-guide"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Grand Case",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein nötig, Fahreralter bei Buchung 25+",
+   "src": "https://www.avis.com/en/locations/zf/saint-martin/sfg"
+  }
+ ]
+}

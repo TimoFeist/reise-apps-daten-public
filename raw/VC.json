@@ -1,0 +1,77 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreise visumfrei bis 6 Monate mit Reisepass, der 6 Monate gültig ist; Rück- oder Weiterflug nötig.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, der High Court hat die Gesetze 2024 bestätigt; Fälle von Strafverfolgung sind laut Auswärtigem Amt nicht bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268"
+  },
+  {
+   "name": "BeamX",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Lokaler Fahrdienst, nur auf St. Vincent verfügbar",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Telefonnummer nötig, Bedingungen unklar",
+   "src": "https://apps.apple.com/us/app/id1512423838"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst, auf St. Vincent nicht im Angebot",
+   "city": "",
+   "use": "no",
+   "req": "In St. Vincent und den Grenadinen nicht verfügbar",
+   "src": "https://www.travelwithhello.com/blog/saint-vincent-and-the-grenadines-transport-guide"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen in der Ankunftshalle am Flughafen Argyle",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 25, Kreditkarte, lokale Fahrerlaubnis für 50 EC$",
+   "src": "https://www.avis.com/en/locations/vc/saint-vincent/svd"
+  },
+  {
+   "name": "KariBites",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen liefern lassen oder vorab bestellen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto und Kartenzahlung nötig",
+   "src": "https://apps.apple.com/us/app/karibites/id1577340566"
+  }
+ ]
+}

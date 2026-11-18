@@ -1,0 +1,143 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Vor der Einreise ist ein Online Einreise- und Zollformular nötig, es öffnet 72 Stunden vor Reiseantritt.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Saint Lucia Online ED Form",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Online Einreise und Zollformular, QR Code vorzeigen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750"
+  },
+  {
+   "name": "Allez",
+   "cat": "taxi",
+   "pkg": "com.allez.rider",
+   "ess": true,
+   "note": "Lokaler Fahrdienst mit Festpreis und Kartenzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+  },
+  {
+   "name": "Tropicab",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst für St. Lucia, Fahrten vorab planbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6737500741"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fährt seit 2026, Regierung hält Betrieb für illegal",
+   "city": "",
+   "use": "limited",
+   "req": "Ohne staatliche Genehmigung, Angebot kann enden",
+   "src": "https://www.caribbeannationalweekly.com/news/caribbean-news/st-lucia-warns-uber-operating-illegally-despite-cease-letters/"
+  },
+  {
+   "name": "SLU Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von Restaurants bestellen, Lieferung oder Abholung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/de/app/slu-eats/id6738348288"
+  },
+  {
+   "name": "TropX",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen, Lebensmittel und Pakete inselweit liefern",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/tropx/id6745878332"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen in der Ankunftshalle am Flughafen Hewanorra",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 21 Jahren, lokale Fahrerlaubnis nötig",
+   "src": "https://www.sixt.com/car-rental/st-lucia/vieux-fort/st-lucia-intl-airport/"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Hewanorra mit Shuttle",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein seit 3 Jahren, lokale Erlaubnis 22 USD",
+   "src": "https://www.hertz.com/pe/en/location/saintlucia/vieuxfort/uvfo50"
+  },
+  {
+   "name": "L'Express des Îles",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähre nach Martinique, Dominica und Guadeloupe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+  },
+  {
+   "name": "FunToSee Island Water Ferry",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Wassertaxi vom Flughafen zu Resorts im Nordwesten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+  }
+ ]
+}

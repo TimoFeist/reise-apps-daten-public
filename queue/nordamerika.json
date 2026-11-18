@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "LC",
-   "en": "Saint Lucia",
-   "slug": "saint-lucia"
-  },
-  {
-   "code": "MF",
-   "en": "Saint Martin (French part)",
-   "slug": "saint-martin-french-part"
-  },
-  {
-   "code": "PM",
-   "en": "Saint Pierre and Miquelon",
-   "slug": "saint-pierre-and-miquelon"
-  },
-  {
-   "code": "VC",
-   "en": "Saint Vincent and the Grenadines",
-   "slug": "saint-vincent-and-the-grenadines"
-  },
-  {
    "code": "SX",
    "en": "Sint Maarten (Dutch part)",
    "slug": "sint-maarten-dutch-part"
@@ -207,6 +187,26 @@
    "code": "KN",
    "en": "Saint Kitts and Nevis",
    "slug": "saint-kitts-and-nevis"
+  },
+  {
+   "code": "LC",
+   "en": "Saint Lucia",
+   "slug": "saint-lucia"
+  },
+  {
+   "code": "MF",
+   "en": "Saint Martin (French part)",
+   "slug": "saint-martin-french-part"
+  },
+  {
+   "code": "PM",
+   "en": "Saint Pierre and Miquelon",
+   "slug": "saint-pierre-and-miquelon"
+  },
+  {
+   "code": "VC",
+   "en": "Saint Vincent and the Grenadines",
+   "slug": "saint-vincent-and-the-grenadines"
   }
  ]
 }

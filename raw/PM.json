@@ -1,0 +1,77 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Bei Anreise über Kanada ist eine eTA nötig, seit Juni 2026 auch für die Fähre nach Fortune.",
+ "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "SPM Exceptions",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle Inselinfos, Touren, Events und Fährhinweise",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/lb/app/spm-exceptions/id1610708751"
+  },
+  {
+   "name": "Transit",
+   "cat": "rail",
+   "pkg": "com.thetransitapp.droid",
+   "ess": false,
+   "note": "Fahrpläne der SPM Ferries zwischen den Inseln",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://transitapp.com/fr/region/saint-pierre-et-miquelon"
+  },
+  {
+   "name": "Air Saint-Pierre",
+   "cat": "flights",
+   "pkg": "",
+   "ess": true,
+   "note": "Einzige Fluglinie, Buchung über die Website",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://airsaintpierre.com/"
+  },
+  {
+   "name": "ArriveCAN",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Zollerklärung vorab bei Einreise nach Kanada",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://airsaintpierre.com/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+  }
+ ]
+}
