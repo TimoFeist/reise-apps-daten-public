@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 00:28",
+ "version": "2026-11-18 00:36",
  "categories": [
   {
    "id": "entry",
@@ -12175,6 +12175,200 @@
    "src": "https://www.bento.travel/vietnam/ride-hailing",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die Gesellschaft gilt als eher konservativ.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "CF",
+   "name": "Zentralafrikanische Republik",
+   "flag": "🇨🇫",
+   "apps": [
+    {
+     "name": "Max it RCA",
+     "cat": "payment",
+     "note": "Orange-App für Orange Money, Guthaben und Rechnungen",
+     "use": "limited",
+     "req": "Orange-Money-Konto mit lokaler Orange-SIM nötig",
+     "src": "https://apps.apple.com/ca/app/max-it-rca/id1616515352"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in der ZAR riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar, Anzeigen können zu Strafverfolgung führen",
+     "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bangui",
+     "match": [
+      "Bangui"
+     ],
+     "apps": [
+      {
+       "name": "Sango Taxi",
+       "cat": "taxi",
+       "note": "Neue Fahrdienst-App für Bangui, auch Paketversand",
+       "src": "https://mwm.ai/apps/sango-taxi/6755672456"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung des Auswärtigen Amts. Visum vorab bei der Botschaft in Paris, Gelbfieberimpfung Pflicht, Euro bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
+   "lgbtq_note": "Homosexuelle Handlungen sind mit bis zu zwei Jahren Haft und Geldstrafe bedroht, verfolgt wird meist nach Anzeigen von Einheimischen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "CM",
+   "name": "Kamerun",
+   "flag": "🇨🇲",
+   "apps": [
+    {
+     "name": "CMR Customs Declaration App",
+     "cat": "entry",
+     "pkg": "cm.customs.declaration_app",
+     "note": "Pflicht-Zollerklärung, QR-Code bei Ankunft scannen",
+     "ess": true,
+     "src": "https://lefisk.cm/blog/douane-cmr-application-declaration-voyageur-cameroun-qr-code-aeroports"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrdienst und Paketkurier in Douala und Yaoundé",
+     "ess": true,
+     "src": "https://www.cameroon-tribune.cm/article.html/81044/en.html/yango-ride-takes-safety-beyond-the-app-with-safety-events-in-yaounde-douala"
+    },
+    {
+     "name": "Gozem",
+     "cat": "taxi",
+     "pkg": "com.gozem",
+     "note": "Super-App für Fahrten und Lieferungen, etwa in Douala",
+     "src": "https://gozem.co/?p=2415"
+    },
+    {
+     "name": "MoMo",
+     "cat": "payment",
+     "pkg": "mtnft.momo.consumer",
+     "note": "Mobile Money von MTN für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "MTN-Kamerun-SIM und Registrierung mit Ausweis in einer MTN-Filiale nötig",
+     "src": "https://appgoblin.info/apps/mtnft.momo.consumer"
+    },
+    {
+     "name": "Orange Max it",
+     "cat": "payment",
+     "note": "Orange Money, Guthaben und Datenpakete in einer App",
+     "use": "limited",
+     "req": "Für Orange Money lokale Orange-SIM nötig, Konto an kamerunische Nummer gebunden",
+     "src": "https://apps.apple.com/us/app/-/id1116920093"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Kamerun riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    }
+   ],
+   "cities": [],
+   "note": "E-Visum vorab online beantragen, Gelbfieber-Impfnachweis mitführen und Zollerklärung per App ausfüllen; Euro bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kamerunsicherheit-208874",
+   "lgbtq_note": "Homosexuelle Handlungen sind nach Artikel 347 strafbar (sechs Monate bis fünf Jahre Haft), auch Ausländer werden verfolgt und Übergriffe sind häufig.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kamerunsicherheit-208874",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "KM",
+   "name": "Komoren",
+   "flag": "🇰🇲",
+   "apps": [
+    {
+     "name": "MVola Comores",
+     "cat": "payment",
+     "pkg": "mg.telma.cmrmvolaapp",
+     "note": "Mobile Money von Yas für Überweisung und QR-Zahlung",
+     "use": "no",
+     "req": "Komorische Yas-SIM mit MVola-Konto nötig",
+     "src": "https://appgoblin.info/apps/mg.telma.cmrmvolaapp"
+    },
+    {
+     "name": "Huri Money",
+     "cat": "payment",
+     "note": "Mobile Money von Comores Telecom",
+     "use": "no",
+     "req": "Komorische Huri-SIM von Comores Telecom mit Konto nötig",
+     "src": "https://www.osiris.sn/comores-axian-decroche-une-licence-de-banque-numerique-et-muscle-son-offre.html"
+    },
+    {
+     "name": "HOLO",
+     "cat": "payment",
+     "note": "Mobile Banking der Entwicklungsbank BDC mit Zahlungen",
+     "use": "no",
+     "req": "HOLO-Konto bei der Banque de Développement des Comores nötig",
+     "src": "https://mwm.ai/ko/apps/holo/1483197517"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, auf den Komoren riskant",
+     "use": "no",
+     "req": "Gleichgeschlechtliche Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/komoren-node/komorensicherheit-226660"
+    }
+   ],
+   "cities": [],
+   "note": "Visum gibt es bei Ankunft am Flughafen auf Grande Comore für etwa 30 Euro. Euro bar mitnehmen, Geldautomaten sind unzuverlässig.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/komoren-node/komorensicherheit-226660",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, es drohen bis zu fünf Jahre Haft oder hohe Geldstrafen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/komoren-node/komorensicherheit-226660",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "TD",
+   "name": "Tschad",
+   "flag": "🇹🇩",
+   "apps": [
+    {
+     "name": "Mossosouk Shopping",
+     "cat": "shopping",
+     "note": "Onlineshop für Elektronik, Mode und Haushalt",
+     "src": "https://tchadinfos.com/2024/10/10/mossosouk-com-lance-le-paiement-par-carte-visa-et-mastercard-sur-son-application-mobile-mossosouk-shopping/"
+    },
+    {
+     "name": "Moov Money Tchad",
+     "cat": "payment",
+     "note": "Mobile Money Wallet von Moov Africa Tchad",
+     "use": "no",
+     "req": "Tschadische Moov-SIM mit Moov-Money-Konto nötig",
+     "src": "https://apps.apple.com/td/app/moov-money-tchad/id1672266714"
+    },
+    {
+     "name": "My Airtel Africa",
+     "cat": "payment",
+     "note": "Airtel Money für Überweisung, QR-Zahlung und Guthaben",
+     "use": "no",
+     "req": "Tschadische Airtel-SIM mit Airtel-Money-Konto nötig",
+     "src": "https://apps.apple.com/app/id1462268018"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, im Tschad riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774"
+    }
+   ],
+   "cities": [],
+   "note": "Visum mindestens 7 Tage vorab online beantragen, Gelbfieberimpfung ist Pflicht; Euro oder US-Dollar bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden mit drei Monaten bis zwei Jahren Haft sowie Geldstrafe geahndet.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
    "checked": "2026-11-18"
   }
  ]
