@@ -2,26 +2,6 @@
   "continent": "AF",
   "todo": [
     {
-      "code": "LY",
-      "en": "Libya",
-      "slug": "libya"
-    },
-    {
-      "code": "MG",
-      "en": "Madagascar",
-      "slug": "madagascar"
-    },
-    {
-      "code": "MW",
-      "en": "Malawi",
-      "slug": "malawi"
-    },
-    {
-      "code": "ML",
-      "en": "Mali",
-      "slug": "mali"
-    },
-    {
       "code": "MR",
       "en": "Mauritania",
       "slug": "mauritania"
@@ -302,6 +282,26 @@
       "code": "LR",
       "en": "Liberia",
       "slug": "liberia"
+    },
+    {
+      "code": "LY",
+      "en": "Libya",
+      "slug": "libya"
+    },
+    {
+      "code": "MG",
+      "en": "Madagascar",
+      "slug": "madagascar"
+    },
+    {
+      "code": "MW",
+      "en": "Malawi",
+      "slug": "malawi"
+    },
+    {
+      "code": "ML",
+      "en": "Mali",
+      "slug": "mali"
     }
   ]
 }
