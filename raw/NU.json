@@ -1,0 +1,16 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Visumfrei unter 30 Tagen mit Reisepass, 6 Monate gültig, Anreise nur über Auckland, Karten nicht überall, NZD bar mitnehmen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit Juni 2024 legal, die Ehe ist Mann und Frau vorbehalten, Schutz vor Diskriminierung gibt es nicht.",
+ "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Niue",
+ "discontinued": [],
+ "apps": [
+  {"name": "Air NZ", "cat": "flights", "pkg": "", "ess": true, "note": "Buchung, Check in und Bordkarte für den Flug ab Auckland", "city": "", "use": "ok", "req": "", "src": "https://www.airnewzealand.com/air-nz-app"},
+  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reisehinweise und Warnungen des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"},
+  {"name": "Krisenvorsorgeliste ELEFAND", "cat": "safety", "pkg": "", "ess": false, "note": "Registrierung für Deutsche im Ausland für Krisenfälle", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"},
+  {"name": "SunSmart", "cat": "safety", "pkg": "", "ess": false, "note": "UV Index der WHO als Hilfe zum Sonnenschutz", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"},
+  {"name": "Telecom Niue", "cat": "misc", "pkg": "com.alepo.niue.selfcare", "ess": false, "note": "Guthaben prüfen, aufladen und Kundenkonto verwalten", "city": "", "use": "limited", "req": "Nur mit SIM von Telecom Niue sinnvoll", "src": "https://appgoblin.info/apps/com.alepo.niue.selfcare"}
+ ]
+}

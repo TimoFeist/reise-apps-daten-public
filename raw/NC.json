@@ -1,0 +1,99 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Deutsche reisen visumfrei ein, wegen möglicher Kontrollen beim Umstieg einen 6 Monate gültigen Reisepass mitnehmen.",
+ "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, laut Auswärtigem Amt keine Hinweise auf besondere Schwierigkeiten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Tanéo",
+   "cat": "transit",
+   "pkg": "nc.smtu.taneo",
+   "ess": true,
+   "note": "Offizielle Bus-App für den Großraum Nouméa",
+   "city": "Noumea",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.taneo.nc/application-mobile/"
+  },
+  {
+   "name": "Taneo e-ticket",
+   "cat": "transit",
+   "pkg": "com.actoll.tpass.taneo",
+   "ess": false,
+   "note": "Bustickets für das Tanéo-Netz auf dem Handy kaufen",
+   "city": "Noumea",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.taneo&hl=en_US"
+  },
+  {
+   "name": "Zygo",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst mit Festpreis in Nouméa, auch zum Flughafen",
+   "city": "Noumea",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/zygo-rides-in-new-caledonia/id6744917758"
+  },
+  {
+   "name": "Sixt",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen in Nouméa und am Flughafen buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig, Mindestalter beachten",
+   "src": "https://www.sixt.fr/location-voiture/nouvelle-caledonie/noumea"
+  },
+  {
+   "name": "Flowbird",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkgebühren in Nouméa per Handy zahlen",
+   "city": "Noumea",
+   "use": "ok",
+   "req": "",
+   "src": "https://noumea.nc/sites/default/files/presses-2024/09/189-ip-application-flowbird-paiement-du-stationnement_0.pdf"
+  },
+  {
+   "name": "Grall",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Audiotouren durch Nouméa und das Bagno auf Île Nou",
+   "city": "Noumea",
+   "use": "ok",
+   "req": "",
+   "src": "https://au.newcaledonia.travel/offers/parcours-historique-du-bagne-de-lile-nou-appli-grall-noumea-en-au-4117362"
+  },
+  {
+   "name": "Plan NC",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Stadtplan und Adresssuche für Neukaledonien",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/st/app/plan-nc/id1426105729"
+  },
+  {
+   "name": "BNC MaCarte",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Kartenverwaltung der Banque de Nouvelle-Calédonie",
+   "city": "",
+   "use": "no",
+   "req": "Nur mit Konto und Karte der BNC",
+   "src": "https://apps.apple.com/us/app/bnc-macarte/id6449153469"
+  }
+ ]
+}

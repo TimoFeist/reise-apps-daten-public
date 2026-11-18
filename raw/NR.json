@@ -1,0 +1,55 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreisegenehmigung vor dem Flug beantragen, Visum bei Ankunft für 30 Tage, keine Kartenzahlung, genug AUD bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind entkriminalisiert, Partnerschaften werden aber nicht anerkannt und es gibt keinen Diskriminierungsschutz.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416"
+  },
+  {
+   "name": "SunSmart",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "UV Index der WHO als Hilfe zum Sonnenschutz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416"
+  },
+  {
+   "name": "MAPS.ME",
+   "cat": "maps",
+   "pkg": "",
+   "ess": true,
+   "note": "Offline Karte von Nauru vor der Reise laden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/nauru/nauru-travel-resources-apps-maps-emergency-contact/"
+  },
+  {
+   "name": "MyDigicel",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben und Datenpakete von Digicel Nauru verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit Digicel Nauru SIM und Digicel ID",
+   "src": "https://www.digicelpacific.com/mobile/nr/prime-bundles"
+  }
+ ]
+}

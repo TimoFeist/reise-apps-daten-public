@@ -2,26 +2,6 @@
 "continent": "OC",
 "todo": [
 {
-"code": "NR",
-"en": "Nauru",
-"slug": "nauru"
-},
-{
-"code": "NC",
-"en": "New Caledonia",
-"slug": "new-caledonia"
-},
-{
-"code": "NU",
-"en": "Niue",
-"slug": "niue"
-},
-{
-"code": "NF",
-"en": "Norfolk Island",
-"slug": "norfolk-island"
-},
-{
 "code": "MP",
 "en": "Northern Mariana Islands",
 "slug": "northern-mariana-islands"
@@ -142,6 +122,26 @@
 "code": "FM",
 "en": "Micronesia, Federated States of",
 "slug": "micronesia"
+},
+{
+"code": "NR",
+"en": "Nauru",
+"slug": "nauru"
+},
+{
+"code": "NC",
+"en": "New Caledonia",
+"slug": "new-caledonia"
+},
+{
+"code": "NU",
+"en": "Niue",
+"slug": "niue"
+},
+{
+"code": "NF",
+"en": "Norfolk Island",
+"slug": "norfolk-island"
 }
 ]
 }
