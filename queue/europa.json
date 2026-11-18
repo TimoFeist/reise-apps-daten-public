@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "NL",
-"en": "Netherlands",
-"slug": "netherlands"
-},
-{
-"code": "BE",
-"en": "Belgium",
-"slug": "belgium"
-},
-{
-"code": "LU",
-"en": "Luxembourg",
-"slug": "luxembourg"
-},
-{
-"code": "NO",
-"en": "Norway",
-"slug": "norway"
-},
-{
 "code": "SE",
 "en": "Sweden",
 "slug": "sweden"
@@ -262,6 +242,26 @@
 "code": "CH",
 "en": "Switzerland",
 "slug": "switzerland"
+},
+{
+"code": "NL",
+"en": "Netherlands",
+"slug": "netherlands"
+},
+{
+"code": "BE",
+"en": "Belgium",
+"slug": "belgium"
+},
+{
+"code": "LU",
+"en": "Luxembourg",
+"slug": "luxembourg"
+},
+{
+"code": "NO",
+"en": "Norway",
+"slug": "norway"
 }
 ]
 }

@@ -1,0 +1,321 @@
+{
+ "src": "https://www.bento.travel/netherlands/transit",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Für normale Fahrten mit Bus, Bahn und Tram reicht kontaktloses Bezahlen mit Bankkarte oder Handy beim Ein- und Auschecken.",
+ "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTIQ Reisende, die Akzeptanz ist vor allem in Großstädten hoch.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
+ "discontinued": [
+  {
+   "name": "Deliveroo",
+   "pkg": "com.deliveroo.orderapp",
+   "src": "https://www.bento.travel/netherlands/food-delivery"
+  }
+ ],
+ "apps": [
+  {
+   "name": "9292",
+   "cat": "transit",
+   "pkg": "nl.negentwee",
+   "ess": true,
+   "note": "Landesweiter Routenplaner für Bahn, Bus, Tram, Metro und Fähre",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/transit"
+  },
+  {
+   "name": "OVpay",
+   "cat": "transit",
+   "pkg": "nl.tls.ovpay",
+   "ess": false,
+   "note": "Fahrten und Kosten beim Bezahlen mit Bankkarte im Blick",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/transit"
+  },
+  {
+   "name": "glimble",
+   "cat": "transit",
+   "pkg": "com.arriva.glimble",
+   "mine": true,
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1565154890?l=en-us"
+  },
+  {
+   "name": "NS",
+   "cat": "rail",
+   "pkg": "nl.ns.android.activity",
+   "ess": false,
+   "note": "Offizielle Bahn-App mit Gleisen, Störungen und Tickets",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/ns"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrdienst mit lizenzierten Fahrern in mehreren Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/ride-hailing"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Fahrdienst in Amsterdam und weiteren Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Nur in einigen Städten verfügbar",
+   "src": "https://www.bento.travel/netherlands/ride-hailing"
+  },
+  {
+   "name": "TCA Taxi",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_TCA_Amsterdam",
+   "ess": false,
+   "note": "Taxizentrale Amsterdam, Fahrten auch vorbestellen",
+   "city": "Amsterdam",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/ride-hailing"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": true,
+   "note": "Essen liefern lassen, in allen zwölf Provinzen aktiv",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/food-delivery"
+  },
+  {
+   "name": "Thuisbezorgd.nl",
+   "cat": "delivery",
+   "pkg": "com.takeaway.android",
+   "ess": true,
+   "note": "Größter Lieferdienst des Landes, auch in kleinen Orten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/food-delivery"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Essen und Einkäufe in über 20 Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Nur in unterstützten Städten, Kartenzahlung vorab testen",
+   "src": "https://www.bento.travel/netherlands/food-delivery"
+  },
+  {
+   "name": "Takeaway",
+   "cat": "delivery",
+   "pkg": "uk.takeaway.android",
+   "mine": true,
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/food-delivery"
+  },
+  {
+   "name": "Flink",
+   "cat": "delivery",
+   "pkg": "com.pickery.app",
+   "mine": true,
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.iamexpat.nl/expat-info/dutch-news/shop-dutchie-flinks-hassle-free-delivery-app"
+  },
+  {
+   "name": "Deliveroo",
+   "cat": "delivery",
+   "pkg": "com.deliveroo.orderapp",
+   "mine": true,
+   "city": "",
+   "use": "no",
+   "req": "In den Niederlanden seit Ende November 2022 eingestellt",
+   "src": "https://www.bento.travel/netherlands/food-delivery"
+  },
+  {
+   "name": "Tikkie",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Zahlungslinks verschicken und Rechnungen teilen",
+   "city": "",
+   "use": "no",
+   "req": "Niederländisches Bankkonto und europäische Handynummer nötig",
+   "src": "https://www.bento.travel/netherlands/payments"
+  },
+  {
+   "name": "Greenwheels",
+   "cat": "carshare",
+   "pkg": "com.greenwheels",
+   "ess": false,
+   "note": "Stationsbasiertes Carsharing mit über 3000 Autos im Land",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 Jahren, Führerscheinprüfung und Kaution vor der ersten Buchung",
+   "src": "https://help.greenwheels.com/en/articles/627300-can-i-use-a-greenwheels-car-with-a-foreign-driving-licence"
+  },
+  {
+   "name": "MyWheels",
+   "cat": "carshare",
+   "pkg": "nl.mywheels.app",
+   "ess": false,
+   "note": "Carsharing per App, Auto mit dem Handy öffnen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Führerschein nötig",
+   "src": "https://mywheels.nl/en/auto-huren"
+  },
+  {
+   "name": "felyx",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektro-Mopeds leihen, unter anderem in Amsterdam und Rotterdam",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein Klasse AM oder B nötig, Helmpflicht",
+   "src": "https://www.felyx.com/en/products/our-locations.html"
+  },
+  {
+   "name": "Check",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektro-Mopeds und E-Bikes, Abrechnung pro Minute",
+   "city": "",
+   "use": "limited",
+   "req": "Für Mopeds Führerschein Klasse AM oder B und Helm nötig",
+   "src": "https://expatinfoholland.nl/help-guides/transport-mobility/scooter-regulations-in-the-netherlands"
+  },
+  {
+   "name": "GO Sharing",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektro-Mopeds in Städten wie Den Haag, Delft und Eindhoven",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein Klasse AM oder B nötig, Helmpflicht",
+   "src": "https://expatinfoholland.nl/help-guides/transport-mobility/scooter-regulations-in-the-netherlands"
+  },
+  {
+   "name": "Donkey Republic",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder per App in Amsterdam, Rotterdam und Den Haag",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.donkey.bike/netherlands"
+  },
+  {
+   "name": "OV-fiets",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder der NS an vielen Bahnhöfen",
+   "city": "",
+   "use": "no",
+   "req": "Niederländisches Bankkonto und niederländische Adresse nötig",
+   "src": "https://www.amsterdamtips.com/ov-fiets"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Straßenparken und Garagen per Handy bezahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.easypark.com/en-nl"
+  },
+  {
+   "name": "Q-Park",
+   "cat": "parking",
+   "pkg": "com.qpark.mobilepark.android",
+   "ess": false,
+   "note": "Über 150 Parkhäuser und Straßenparken ohne Ticket",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Kennzeichen und Visa, Mastercard oder iDEAL nötig",
+   "src": "https://www.q-park.nl/en-gb/app/"
+  },
+  {
+   "name": "GVB travel app",
+   "cat": "transit",
+   "pkg": "nl.gvb.reizigersapp",
+   "ess": false,
+   "note": "Routen und GVB-Tickets für Tram, Metro, Bus und Fähre",
+   "city": "Amsterdam",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/netherlands/transit"
+  },
+  {
+   "name": "I amsterdam City Card",
+   "cat": "tourism",
+   "pkg": "com.iamsterdam.iamsterdam",
+   "ess": false,
+   "note": "Offizieller Stadtführer mit Karte und Rabatten der City Card",
+   "city": "Amsterdam",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.iamsterdam.com/en/i-am/install-city-card-app"
+  },
+  {
+   "name": "RET",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Tickets für Metro, Tram und Bus in Rotterdam",
+   "city": "Rotterdam",
+   "use": "ok",
+   "req": "",
+   "src": "https://ret.nl/en/home/travel-products/e-tickets.html"
+  },
+  {
+   "name": "HTM info & tickets",
+   "cat": "transit",
+   "pkg": "nl.infoplazamob.htm",
+   "ess": false,
+   "note": "Routen, Störungen und Tickets für Tram und Bus in Den Haag",
+   "city": "The Hague",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.htm.nl/en/app"
+  },
+  {
+   "name": "U-OV",
+   "cat": "transit",
+   "pkg": "nl.infoplazamobility.app.uov",
+   "ess": false,
+   "note": "Abfahrten in Echtzeit und E-Tickets für Bus und Tram",
+   "city": "Utrecht",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.u-ov.nl/en/Reisinformatie/U-OV-app"
+  }
+ ]
+}

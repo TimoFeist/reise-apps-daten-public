@@ -1,0 +1,270 @@
+{
+ "src": "https://www.bento.travel/norway",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Visa oder Mastercard reichen fast überall, Vipps brauchen Besucher nicht, eine zweite physische Karte hilft.",
+ "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTQ+ Reisende, die Akzeptanz ist vor allem in Städten gut.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/norwegensicherheit-205878",
+ "discontinued": [
+  {
+   "name": "AtB Mobillett",
+   "pkg": "",
+   "src": "https://atb.no/en/ticket/"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Festpreisfahrten mit lizenzierten Taxis in zehn Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/bolt"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lizenzierte Taxis mit Preisschätzung, z. B. in Oslo und Bergen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/apps/uber"
+  },
+  {
+   "name": "foodora",
+   "cat": "delivery",
+   "pkg": "se.onlinepizza",
+   "ess": true,
+   "note": "Restaurants und Lebensmittel in vielen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/norway/food-delivery"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe liefern lassen, breite Abdeckung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/norway/food-delivery"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Kleinere Lieferalternative in Oslo und Bergen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/norway/food-delivery"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Start in Norwegen wurde 2026 gestoppt",
+   "city": "",
+   "use": "no",
+   "req": "In Norwegen derzeit nicht verfügbar",
+   "src": "https://www.bento.travel/norway/food-delivery"
+  },
+  {
+   "name": "Vipps",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Norwegens Bezahl-App, für Besucher nicht nötig",
+   "city": "",
+   "use": "no",
+   "req": "Norwegische Nummer, BankID und norwegisches Konto nötig",
+   "src": "https://www.bento.travel/blog/how-to-pay-in-norway"
+  },
+  {
+   "name": "Entur",
+   "cat": "transit",
+   "pkg": "no.entur",
+   "ess": true,
+   "note": "Landesweite Reiseplanung und Tickets für Bahn, Bus, Boot",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/norway/transit"
+  },
+  {
+   "name": "Vy",
+   "cat": "rail",
+   "pkg": "com.intele.nsbmob.app",
+   "ess": true,
+   "note": "Zugtickets und Fahrplan, dazu Partnerangebote",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/norway/transit"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "net.easypark.android",
+   "ess": false,
+   "note": "Parken per App in fast allen norwegischen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://easypark.com/en-no/help/parking/where-can-i-use-easypark"
+  },
+  {
+   "name": "Yr",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Wettervorhersage von NRK und Meteorologischem Institut",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/au/app/yr-no/id490989206"
+  },
+  {
+   "name": "Thon Hotels",
+   "cat": "hotels",
+   "pkg": "otg.thonhotel",
+   "ess": false,
+   "note": "Buchen, Check-in ohne Rezeption und digitaler Zimmerschlüssel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.thonhotels.com/app"
+  },
+  {
+   "name": "Hyre",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen stunden oder tageweise, Handy als Schlüssel",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18, Pass und Führerschein, Bonitätsprüfung und Kaution",
+   "src": "https://www.hyre.no/en"
+  },
+  {
+   "name": "Ryde",
+   "cat": "micro",
+   "pkg": "com.ryde_android",
+   "ess": false,
+   "note": "E-Scooter-Anbieter aus Oslo, in Oslo auch über Ruter",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlungskarte und Handynummer nötig, Mindestalter beachten",
+   "src": "https://ruter.no/en/getting-help/terms-and-conditions/personal-data-protection/terms-and-conditions-ruter-app/terms-and-conditions-for-ryde"
+  },
+  {
+   "name": "Ruter",
+   "cat": "transit",
+   "pkg": "no.ruter.reise",
+   "ess": true,
+   "note": "Tickets und Planung für Bus, Tram, Metro und Boote",
+   "city": "Oslo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/norway/transit"
+  },
+  {
+   "name": "Voi",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter und E-Bikes, auch über die Ruter-App buchbar",
+   "city": "Oslo",
+   "use": "limited",
+   "req": "Ab 15 bzw. 16 Jahren, Kreditkarte, in Ruter Altersprüfung per Vipps",
+   "src": "https://ruter.no/en/more-transport-services/e-scooter-and-city-bike.md"
+  },
+  {
+   "name": "Oslo Bysykkel",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadträder an rund 270 Stationen, auch 3-Tage-Pass",
+   "city": "Oslo",
+   "use": "limited",
+   "req": "Registrierung mit Handynummer nötig, ab 15 Jahren",
+   "src": "https://www.visitoslo.com/rental/city-bikes-oslo-bysykkel"
+  },
+  {
+   "name": "Oslo Pass",
+   "cat": "tourism",
+   "pkg": "no.wtw.visitoslo.oslopass.android",
+   "ess": false,
+   "note": "Offizieller Stadtpass mit Museen und freiem ÖPNV",
+   "city": "Oslo",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/oslo-pass-official-city-card/id860680673"
+  },
+  {
+   "name": "Flytoget",
+   "cat": "rail",
+   "pkg": "no.flytoget.flytoget",
+   "ess": false,
+   "note": "Flughafenzug Oslo: Tickets, Abfahrten, Reiseplaner",
+   "city": "Oslo",
+   "use": "ok",
+   "req": "",
+   "src": "https://flytoget.no/en/travel-information/flytoget-app"
+  },
+  {
+   "name": "Skyss",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Neue Skyss-App für Bus und Bybanen seit März 2026",
+   "city": "Bergen",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.skyss.no/en/travel/news/new-skyss-app/"
+  },
+  {
+   "name": "AtB",
+   "cat": "transit",
+   "pkg": "no.mittatb.store",
+   "ess": false,
+   "note": "Tickets für Bus, Tram und Boot, Zahlung per Karte",
+   "city": "Trondheim",
+   "use": "ok",
+   "req": "",
+   "src": "https://atb.no/en/ticket/"
+  },
+  {
+   "name": "Kolumbus Billett",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Tickets für Bus und Boote in Rogaland, ohne Login",
+   "city": "Stavanger",
+   "use": "limited",
+   "req": "Bei teureren Tickets 3D-Secure-Prüfung der Karte",
+   "src": "https://www.kolumbus.no/en/help-and-contact/frequently-asked-questions/kolumbus-billett/"
+  },
+  {
+   "name": "Svipper",
+   "cat": "transit",
+   "pkg": "no.trfylke.svipper.production",
+   "ess": false,
+   "note": "Bus und Schnellboot in Troms, Echtzeit und Tickets",
+   "city": "Tromsø",
+   "use": "ok",
+   "req": "",
+   "src": "https://svipper.no/menu/travel/the-svipper-app"
+  }
+ ]
+}
