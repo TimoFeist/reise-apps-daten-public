@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 19:43",
+ "version": "2026-11-18 19:47",
  "categories": [
   {
    "id": "entry",
@@ -22225,6 +22225,358 @@
    "src": "https://www.bento.travel/rwanda",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Beziehungen sind gesellschaftlich aber nicht akzeptiert; Zurückhaltung in der Öffentlichkeit ist ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ruanda-node/ruandasicherheit-212026",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SX",
+   "name": "Saint-Martin (Niederländischer Teil)",
+   "flag": "🇸🇽",
+   "apps": [
+    {
+     "name": "Sint Maarten ED Form (entry.sx)",
+     "cat": "entry",
+     "note": "Kostenlose digitale Einreisekarte, bis 7 Tage vorher",
+     "ess": true,
+     "src": "https://www.businesswire.com/news/home/20260225415051/en"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084"
+    },
+    {
+     "name": "SXM Taxi",
+     "cat": "taxi",
+     "pkg": "com.rider.sxm",
+     "note": "Lizenzierte Taxis rufen, bar oder digital zahlen",
+     "src": "https://www.visitstmaarten.com/?p=19264"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Auf Sint Maarten nicht aktiv",
+     "use": "no",
+     "req": "In Sint Maarten nicht verfügbar",
+     "src": "https://www.visitstmaarten.com/st-maarten-taxis-taxi-prices/"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "note": "Auf beiden Inselseiten nicht aktiv",
+     "use": "no",
+     "req": "In Sint Maarten nicht verfügbar",
+     "src": "https://www.visitstmaarten.com/st-maarten-taxis-taxi-prices/"
+    },
+    {
+     "name": "Orders.sx",
+     "cat": "delivery",
+     "note": "Essen liefern lassen oder abholen",
+     "use": "limited",
+     "req": "Liefergebiet nur niederländische Seite, oft Barzahlung",
+     "src": "https://apps.apple.com/us/app/orderssx/id1517887390"
+    },
+    {
+     "name": "SXM2GO",
+     "cat": "delivery",
+     "note": "Essenslieferung von Restaurants der Insel",
+     "src": "https://apps.apple.com/us/app/sxm2go/id6443840313"
+    },
+    {
+     "name": "We Are SXM",
+     "cat": "tourism",
+     "note": "Offline Inselführer für beide Seiten der Insel",
+     "src": "https://apps.apple.com/app/id1493427807"
+    },
+    {
+     "name": "Enterprise",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Princess Juliana",
+     "use": "limited",
+     "req": "Führerschein und Kreditkarte nötig",
+     "src": "https://www.enterprise.com/en/car-rental-locations/sx/princess-juliana-international-airport-kt09.html"
+    },
+    {
+     "name": "Alamo",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Princess Juliana",
+     "use": "limited",
+     "req": "Führerschein und Kreditkarte nötig",
+     "src": "https://www.alamo.com/en/car-rental-locations/sx/princess-juliana-international-airport-kt06.html"
+    }
+   ],
+   "cities": [],
+   "note": "Nur mit Reisepass einreisen, kein Personalausweis. ED-Formular gratis auf entry.sx, Uber gibt es auf der Insel nicht.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
+   "lgbtq_note": "Das Auswärtige Amt nennt für das Königreich der Niederlande keine besonderen Schwierigkeiten für LGBTQ+-Reisende.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "TC",
+   "name": "Turks- und Caicosinseln",
+   "flag": "🇹🇨",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Auf den Inseln nicht aktiv, Taxi telefonisch rufen",
+     "use": "no",
+     "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+     "src": "https://www.visittci.com/providenciales/getting-around/ride-hailing"
+    },
+    {
+     "name": "Lyft",
+     "cat": "taxi",
+     "note": "Auf den Inseln nicht aktiv",
+     "use": "no",
+     "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+     "src": "https://www.visittci.com/providenciales/getting-around/ride-hailing"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "note": "Nicht aktiv, Essen besser telefonisch bestellen",
+     "use": "no",
+     "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+     "src": "https://visittci.com/providenciales/restaurants-and-dining/fast-food-take-out-delivery"
+    },
+    {
+     "name": "DoorDash",
+     "cat": "delivery",
+     "note": "Nicht aktiv auf den Inseln",
+     "use": "no",
+     "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+     "src": "https://visittci.com/providenciales/restaurants-and-dining/fast-food-take-out-delivery"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Providenciales, Linksverkehr",
+     "use": "limited",
+     "req": "Führerschein und Kreditkarte nötig, meist ab 25 Jahren",
+     "src": "https://www.avis.com/en/locations/lat/tc/turks-caicos/p7l"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Providenciales",
+     "match": [
+      "Providenciales"
+     ],
+     "apps": [
+      {
+       "name": "RideNow247",
+       "cat": "taxi",
+       "note": "Lizenzierte Taxis auf Providenciales, Kartenzahlung in App",
+       "use": "limited",
+       "req": "Neue App, Anmeldung mit deutscher Nummer unklar",
+       "src": "https://apps.apple.com/us/app/id6759492420"
+      },
+      {
+       "name": "Island Cart",
+       "cat": "delivery",
+       "note": "Lebensmittel aus lokalen Läden nach Hause geliefert",
+       "src": "https://apps.apple.com/app/id6753957597"
+      }
+     ]
+    }
+   ],
+   "note": "Reisepass nötig, sechs Monate über den Aufenthalt gültig. Einreiseformular gibt es auf Papier im Flugzeug, kein Uber.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Rechte und Akzeptanz reichen laut Auswärtigem Amt aber nicht an das Vereinigte Königreich heran.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "TT",
+   "name": "Trinidad und Tobago",
+   "flag": "🇹🇹",
+   "apps": [
+    {
+     "name": "Online Arrival/Departure Card",
+     "cat": "entry",
+     "note": "Pflichtformular für Ein- und Ausreise auf travel.gov.tt",
+     "ess": true,
+     "src": "https://foreign.gov.tt/resources/news/launch-of-trinidad-and-tobago-online-arrivaldeparture-platform/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220466"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220466"
+    },
+    {
+     "name": "TT RideShare",
+     "cat": "taxi",
+     "note": "Lokaler Fahrdienst, vom Auswärtigen Amt als sicher genannt",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto mit Telefonnummer und Verifizierung nötig",
+     "src": "https://apps.apple.com/us/app/tt-rideshare/id1524924554"
+    },
+    {
+     "name": "DROP Ride",
+     "cat": "taxi",
+     "note": "Fahrten auf Abruf, Zahlung bar oder per Karte in der App",
+     "use": "limited",
+     "req": "Konto nötig, Zulassung ausländischer Nummern unklar",
+     "src": "https://apps.apple.com/us/app/drop-ride-request-a-ride/id1145690959"
+    },
+    {
+     "name": "DeliverMe TT",
+     "cat": "taxi",
+     "note": "Taxi, Fahrdienst und Paketlieferung in Trinidad",
+     "use": "limited",
+     "req": "Konto nötig, nur auf Trinidad",
+     "src": "https://apps.apple.com/app/id1475645263"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "In Trinidad und Tobago nicht aktiv",
+     "use": "no",
+     "req": "In Trinidad und Tobago nicht verfügbar",
+     "src": "https://cellesim.com/sk/faq/do-ride-hailing-apps-like-bolt-or-other-local-services-work-in-trinidad-and-tobago-especia"
+    },
+    {
+     "name": "foodDROP",
+     "cat": "delivery",
+     "note": "Essenslieferung von Restaurants in Trinidad",
+     "use": "limited",
+     "req": "Lieferadresse in Trinidad nötig",
+     "src": "https://apps.apple.com/app/id1478415342"
+    },
+    {
+     "name": "TTIT Ferry Booking",
+     "cat": "rail",
+     "note": "Fährtickets Trinidad und Tobago online buchen",
+     "use": "limited",
+     "req": "Nur Kreditkarte, keine Visa Debit, Name wie im Ausweis",
+     "src": "https://book.ttitferry.com/en/"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Piarco mit Abholservice",
+     "use": "limited",
+     "req": "Führerschein und Kreditkarte nötig",
+     "src": "https://www.avis.com/en/locations/tt/piarco/pos"
+    },
+    {
+     "name": "Enterprise",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Piarco",
+     "use": "limited",
+     "req": "Führerschein und Kreditkarte nötig",
+     "src": "https://www.enterprise.com/en/car-rental-locations/tt/trinidad-tobago-intl-airport-kh03.html"
+    }
+   ],
+   "cities": [],
+   "note": "Seit März 2026 vor Ein- und Ausreise auf travel.gov.tt registrieren, nur Taxis mit H-Kennzeichen oder Taxi-Apps nutzen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220466",
+   "lgbtq_note": "Der Privy Council hat im November 2026 das Verbot gleichgeschlechtlicher Handlungen gekippt, das der Court of Appeal 2025 wieder eingesetzt hatte, Diskretion bleibt ratsam.",
+   "lgbtq_src": "https://www.ajc.com/news/2026/11/top-uk-appeals-court-rules-gay-sex-not-a-crime-in-the-caribbean-nation-of-trinidad-and-tobago/",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "VG",
+   "name": "Britische Jungferninseln",
+   "flag": "🇻🇬",
+   "apps": [
+    {
+     "name": "BVI ED Card",
+     "cat": "entry",
+     "note": "Digitale Ein und Ausreisekarte, Barcode per E-Mail",
+     "ess": true,
+     "src": "https://www.gov.vg/news/embarkationdisembarkation-cards-are-now-digital-vi"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+    },
+    {
+     "name": "Visit BVI",
+     "cat": "tourism",
+     "note": "Inselführer mit Stränden, Restaurants und Aktivitäten",
+     "src": "https://apps.apple.com/pl/app/visit-bvi/id1501716900"
+    },
+    {
+     "name": "Ferryhopper",
+     "cat": "rail",
+     "note": "Fährtickets, etwa Road Town nach Anegada",
+     "src": "https://www.ferryhopper.com/en/ferry-routes/direct/road-town-anegada"
+    },
+    {
+     "name": "Dash Me",
+     "cat": "delivery",
+     "note": "Essenslieferung von lokalen Restaurants, Karte oder bar",
+     "use": "limited",
+     "req": "Startete Ende 2025 nur auf Virgin Gorda",
+     "src": "https://www.virginislandsnewsonline.com/en/news/dash-me-new-food-delivery-app-launched-in-vg"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Beef Island und in Road Town",
+     "use": "limited",
+     "req": "Befristete lokale Fahrerlaubnis für 10 USD beim Vermieter nötig",
+     "src": "https://avis.com/amp/en/locations/tl/roadtown/eis"
+    },
+    {
+     "name": "Hertz",
+     "cat": "carshare",
+     "note": "Mietwagen auf Tortola",
+     "use": "limited",
+     "req": "Befristete lokale Fahrerlaubnis für 10 USD beim Vermieter nötig",
+     "src": "https://www.hertz.com/us/en/location/britishvirginislands/tortola"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Auf den Inseln nicht aktiv, Taxis per Telefon",
+     "use": "no",
+     "req": "Auf den Britischen Jungferninseln nicht verfügbar",
+     "src": "https://cellesim.com/ja/faq/can-i-use-uber-or-taxi-apps-in-the-british-virgin-islands-with-this-esim"
+    }
+   ],
+   "cities": [],
+   "note": "Vor der Ankunft die Online ED Card unter bviedcard.gov.vg ausfüllen. Uber gibt es nicht, Taxis und Fähren direkt buchen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind auch in den Britischen Überseegebieten nicht strafbar, gesellschaftliche Akzeptanz und Schutzrechte sind aber geringer als in Großbritannien.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
    "checked": "2026-11-18"
   }
  ]
