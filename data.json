@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 04:41",
+ "version": "2026-11-18 04:48",
  "categories": [
   {
    "id": "entry",
@@ -13413,6 +13413,296 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
    "lgbtq_note": "Keine Fälle strafrechtlicher Verfolgung bekannt, gleichgeschlechtliche Partnerschaften werden gesellschaftlich aber nicht toleriert; Zurückhaltung ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "DM",
+   "name": "Dominica",
+   "flag": "🇩🇲",
+   "apps": [
+    {
+     "name": "ED Card Dominica",
+     "cat": "entry",
+     "note": "Einreise- und Zollkarte als Webformular vor dem Flug",
+     "ess": true,
+     "src": "https://edcard.dominica.gov.dm/"
+    },
+    {
+     "name": "Shaufa",
+     "cat": "taxi",
+     "note": "Lokale Taxi-App mit GPS-Verfolgung der Fahrt",
+     "use": "limited",
+     "req": "Neue lokale App, Verfügbarkeit vorab prüfen",
+     "src": "https://apps.apple.com/dm/app/shaufa/id1669455768"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Douglas-Charles buchen",
+     "use": "limited",
+     "req": "Lokale Fahrerlaubnis nötig, Zuschlag für junge Fahrer",
+     "src": "https://www.expedia.com/Avis-at-Douglas-Charles-Airport-Dom-Marigot-DMA.v83354.Car-Rental-Guide-Location"
+    },
+    {
+     "name": "MLajan Wallet",
+     "cat": "payment",
+     "note": "Erste mobile Geldbörse der Insel, Zahlen per QR-Code",
+     "use": "limited",
+     "req": "Vor allem für Einwohner mit lokalem Konto gedacht",
+     "src": "https://dom767.com/dompages/mlajan"
+    },
+    {
+     "name": "Explore Dominica",
+     "cat": "tourism",
+     "note": "Reiseführer mit Karten zu Wanderwegen und Wasserfällen",
+     "src": "https://apps.apple.com/app/id1152864475"
+    }
+   ],
+   "cities": [],
+   "note": "Nur mit Reisepass einreisen und die ED Card online ausfüllen. Zum Autofahren ist eine lokale Fahrerlaubnis nötig.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/dominicasicherheit-220300",
+   "lgbtq_note": "Seit einem Gerichtsurteil von 2024 sind einvernehmliche gleichgeschlechtliche Handlungen unter Erwachsenen nicht mehr strafbar.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/dominicasicherheit-220300",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GD",
+   "name": "Grenada",
+   "flag": "🇬🇩",
+   "apps": [
+    {
+     "name": "Grenada Online ED Card",
+     "cat": "entry",
+     "note": "Einreise- und Zollformular als Webformular vor Ankunft",
+     "ess": true,
+     "src": "https://expert.puregrenada.com/grenadas-online-ed-card-is-now-live/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316"
+    },
+    {
+     "name": "Haylup",
+     "cat": "taxi",
+     "note": "Fahrdienst der Insel mit Festpreis und Kartenzahlung",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto mit Bestätigungscode per OTP nötig",
+     "src": "https://www.thetripverdict.com/getting-around-grenada"
+    },
+    {
+     "name": "Ryde Grenada",
+     "cat": "taxi",
+     "note": "Fahrten inselweit buchen, Fahrer live verfolgen",
+     "use": "limited",
+     "req": "Konto in der App nötig, Bedingungen nicht angegeben",
+     "src": "https://apps.apple.com/nl/app/ryde-grenada/id6553751747"
+    },
+    {
+     "name": "Dash GND",
+     "cat": "taxi",
+     "note": "Fahrdienst mit Preisschätzung vor der Buchung",
+     "use": "limited",
+     "req": "Konto in der App nötig, Bedingungen nicht angegeben",
+     "src": "https://apps.apple.com/us/app/id6756010815"
+    },
+    {
+     "name": "Kiwitaxi",
+     "cat": "taxi",
+     "note": "Flughafentransfer zum Festpreis vorab buchen",
+     "src": "https://www.thetripverdict.com/getting-around-grenada"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrdienst, in Grenada nicht im Angebot",
+     "use": "no",
+     "req": "In Grenada nicht verfügbar",
+     "src": "https://www.thetripverdict.com/getting-around-grenada"
+    },
+    {
+     "name": "Enterprise",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Maurice Bishop buchen",
+     "use": "limited",
+     "req": "Ab 21, Kreditkarte, lokale Fahrerlaubnis für ca. 26 USD",
+     "src": "https://www.enterprise.com/en/car-rental/locations/grenada/grenada-maurice-bishop-intl-airport-ze03.html"
+    },
+    {
+     "name": "DiscoverCars",
+     "cat": "carshare",
+     "note": "Mietwagenpreise großer Anbieter vergleichen",
+     "use": "limited",
+     "req": "Lokale Besucherfahrerlaubnis vor Ort nötig",
+     "src": "https://www.thetripverdict.com/getting-around-grenada"
+    },
+    {
+     "name": "KariBites",
+     "cat": "delivery",
+     "note": "Essen liefern lassen oder zum Abholen bestellen",
+     "use": "limited",
+     "req": "Konto nötig, Name auf Karte muss zum Konto passen",
+     "src": "https://apps.apple.com/us/app/karibites/id1577340566"
+    }
+   ],
+   "cities": [],
+   "note": "Einreise nur mit Reisepass, der 6 Monate gültig ist; Online-Einreisekarte auf edcard.gov.gd bis 72 Stunden vor Ankunft ausfüllen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316",
+   "lgbtq_note": "Homosexuelle Handlungen sind formal strafbar, Fälle von Strafverfolgung sind aber nicht bekannt; Zurückhaltung ist ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GL",
+   "name": "Grönland",
+   "flag": "🇬🇱",
+   "apps": [
+    {
+     "name": "Air Greenland",
+     "cat": "flights",
+     "note": "Inlandsflüge buchen, einchecken und Bordkarte speichern",
+     "ess": true,
+     "src": "https://apps.apple.com/app/id1454000817"
+    },
+    {
+     "name": "Pajussi",
+     "cat": "delivery",
+     "note": "Essen von Restaurants und Cafés liefern lassen",
+     "use": "limited",
+     "req": "Liefergebiet und Anmeldung laut Quelle unklar",
+     "src": "https://apps.apple.com/dk/app/pajussi/id1620340068"
+    },
+    {
+     "name": "maps.me",
+     "cat": "maps",
+     "pkg": "com.mapswithme.maps.pro",
+     "note": "Offline-Karten mit Wanderwegen, vorab herunterladen",
+     "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+    },
+    {
+     "name": "Yr",
+     "cat": "safety",
+     "note": "Wettervorhersage für die größeren Orte Grönlands",
+     "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+    },
+    {
+     "name": "Windy.com",
+     "cat": "safety",
+     "pkg": "com.windyty.android",
+     "note": "Wind, Wolken und Wellen, nützlich für Boot und Kajak",
+     "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+    },
+    {
+     "name": "Northern Light Aurora Forecast",
+     "cat": "tourism",
+     "pkg": "com.aurora_alerts.auroraalerts",
+     "note": "Polarlicht-Vorhersage mit Kp-Wert und Wetter",
+     "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724"
+    },
+    {
+     "name": "MobilePay",
+     "cat": "payment",
+     "note": "Verbreitete Bezahl-App in Dänemark und Grönland",
+     "use": "no",
+     "req": "Dänische CPR-Nummer, MitID, dänische oder grönländische Nummer und Bankkarte nötig",
+     "src": "https://mobilepay.dk/app/legal/private-terms-en"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Nuuk",
+     "match": [
+      "Nuuk"
+     ],
+     "apps": [
+      {
+       "name": "Taxagut",
+       "cat": "taxi",
+       "pkg": "gl.taxagut.appb",
+       "note": "Taxi in Nuuk per Standort bestellen, ohne Warteschleife",
+       "src": "https://play.google.com/store/apps/details?id=gl.taxagut.appb&hl=en_NZ"
+      }
+     ]
+    }
+   ],
+   "note": "Einreise nur mit Reisepass, der Personalausweis reicht nicht; Touren außerhalb der Orte nur mit lokalem Anbieter planen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724",
+   "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten, keine strafrechtlichen Einschränkungen, gute Akzeptanz vor allem in den Städten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SV",
+   "name": "El Salvador",
+   "flag": "🇸🇻",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrten in San Salvador, Santa Ana, San Miguel und La Paz",
+     "ess": true,
+     "src": "https://diario.elmundo.sv/economia/uber-amplia-cobertura-a-los-departamentos-cuscatlan-y-la-paz"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Fahrpreis mit dem Fahrer aushandeln, auch Fernfahrten",
+     "src": "https://diario.elmundo.sv/economia/la-plataforma-de-transporte-indrive-crece-50-en-el-salvador"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "note": "Essen in San Salvador liefern lassen oder abholen",
+     "src": "https://www.uber.com/global/es-es/cities/san-salvador"
+    },
+    {
+     "name": "PedidosYa",
+     "cat": "delivery",
+     "note": "Größter Lieferdienst für Essen und Einkäufe im Land",
+     "src": "https://www.elsalvador.com/dinero-y-negocios/vision-empresarial/uber-compra-pedidosya-centroamerica/1283841/2026/"
+    },
+    {
+     "name": "Enterprise",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen San Salvador buchen",
+     "use": "limited",
+     "req": "Mindestalter 21, Kreditkarte auf eigenen Namen und Reisepass",
+     "src": "https://www.enterprise.com/es/alquiler-de-autos/oficinas/el-salvador/s-salvador-apto-int-de-el-salvador-k5e1.html"
+    },
+    {
+     "name": "Chivo Wallet",
+     "cat": "payment",
+     "note": "Staatliche Wallet für Bitcoin und US-Dollar",
+     "use": "limited",
+     "req": "Ausweisprüfung mit Selfie, Nummer aus wenigen Ländern nötig",
+     "src": "https://diario.elmundo.sv/economia/como-funciona-la-chivo-wallet"
+    },
+    {
+     "name": "Turs",
+     "cat": "tourism",
+     "note": "KI-Reiseassistent mit Tipps und Routen für Besucher",
+     "src": "https://elsalvadorinenglish.com/2026/07/23/el-salvador-launches-ai-powered-turs-app-to-transform-tourism-for-international-visitors/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts auf dem Handy",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864"
+    }
+   ],
+   "cities": [],
+   "note": "Einreise nur mit Reisepass, bei Ankunft per Flug mindestens sechs Monate gültig. Kleine Dollarscheine bis 20 USD mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Diskriminierung kommt vor allem im ländlichen Raum vor.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
    "checked": "2026-11-18"
   }
  ]
