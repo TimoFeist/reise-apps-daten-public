@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 00:01",
+ "version": "2026-11-18 00:20",
  "categories": [
   {
    "id": "entry",
@@ -743,13 +743,16 @@
      "name": "stadtmobil",
      "cat": "carshare",
      "pkg": "de.cantamen.stadtmobil",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Rahmennutzungsvertrag, in Deutschland gültiger Führerschein und SEPA-Lastschrift nötig"
     },
     {
      "name": "DB Navigator",
      "cat": "rail",
      "pkg": "de.hafas.android.db",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "FlixBus",
@@ -761,7 +764,107 @@
      "name": "BahnBonus",
      "cat": "rail",
      "pkg": "com.deutschebahn.bahnbonus",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Ab 16 Jahren, Hauptwohnsitz im EWR und DB Kundenkonto nötig"
+    },
+    {
+     "name": "Freenow",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "note": "Lizenzierte Taxis in vielen Städten per App",
+     "ess": true,
+     "src": "https://www.bento.travel/germany"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst und Taxis in ausgewählten Städten",
+     "src": "https://www.bento.travel/germany"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe liefern lassen, mehrsprachig",
+     "src": "https://www.bento.travel/germany"
+    },
+    {
+     "name": "Lieferando.de",
+     "cat": "delivery",
+     "pkg": "com.yopeso.lieferando",
+     "note": "Größter Lieferdienst mit sehr vielen Restaurants",
+     "src": "https://www.bento.travel/germany"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Restaurants und Lebensmittel nach Hause liefern",
+     "src": "https://www.bento.travel/germany"
+    },
+    {
+     "name": "Komoot",
+     "cat": "maps",
+     "pkg": "de.komoot.android",
+     "note": "Wander- und Radrouten planen, auch offline",
+     "src": "https://www.bento.travel/germany"
+    },
+    {
+     "name": "NINA",
+     "cat": "safety",
+     "pkg": "de.materna.bbk.mobile.app",
+     "note": "Offizielle Warnungen zu Unwetter und Gefahren",
+     "src": "https://www.bento.travel/germany"
+    },
+    {
+     "name": "MILES",
+     "cat": "carshare",
+     "note": "Carsharing mit Abrechnung pro Kilometer",
+     "use": "limited",
+     "req": "Ab 18 Jahren, nur EU oder UK Führerschein im Kartenformat, Wohnsitz in EU/EWR",
+     "src": "https://support.miles-mobility.com/hc/en-us/articles/4936001374610"
+    },
+    {
+     "name": "SIXT share",
+     "cat": "carshare",
+     "note": "Carsharing und Mietwagen in der SIXT App",
+     "use": "limited",
+     "req": "Ab 21 Jahren, Führerschein in der App prüfen lassen",
+     "src": "https://sixt.com/share/faqs/requirements"
+    },
+    {
+     "name": "Free2move",
+     "cat": "carshare",
+     "note": "Früher SHARE NOW, Autos minutenweise mieten",
+     "use": "limited",
+     "req": "Ab 18 Jahren, Führerschein und Selfie in der App prüfen lassen",
+     "src": "https://www.berlin.de/en/getting-around/carsharing/6455533-5889084-share-now.en.html"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "E-Scooter und E-Bikes, unter anderem in Berlin",
+     "src": "https://www.berlin.de/en/getting-around/electric-scooter-sharing/"
+    },
+    {
+     "name": "Bolt",
+     "cat": "micro",
+     "note": "E-Scooter zum Ausleihen, unter anderem in Berlin",
+     "src": "https://www.berlin.de/en/getting-around/electric-scooter-sharing/"
+    },
+    {
+     "name": "Dott",
+     "cat": "micro",
+     "note": "E-Scooter, früher Tier, unter anderem in Berlin",
+     "src": "https://www.berlin.de/en/getting-around/electric-scooter-sharing/"
+    },
+    {
+     "name": "Voi",
+     "cat": "micro",
+     "note": "E-Scooter in vielen Städten, auch Berlin und München",
+     "src": "https://www.berlin.de/en/getting-around/electric-scooter-sharing/"
     }
    ],
    "cities": [
@@ -776,6 +879,37 @@
        "cat": "transit",
        "pkg": "de.eos.uptrade.android.fahrinfo.berlin",
        "mine": true
+      },
+      {
+       "name": "BVG Tickets",
+       "cat": "transit",
+       "pkg": "de.bvg.ticket",
+       "note": "BVG Tickets, auch Touristen- und 24-Stunden-Ticket",
+       "src": "https://www.bvg.de/en/Tickets/Other-ways-to-buy/Ticket-App"
+      },
+      {
+       "name": "Berlin WelcomeCard",
+       "cat": "tourism",
+       "pkg": "com.berlinwelcomecard.app",
+       "note": "Stadtpass mit ÖPNV und Rabatten digital im Handy",
+       "src": "https://www.visitberlin.de/en/berlin-welcome-card-app"
+      }
+     ]
+    },
+    {
+     "name": "Frankfurt",
+     "match": [
+      "Frankfurt"
+     ],
+     "apps": [
+      {
+       "name": "RMVgo",
+       "cat": "transit",
+       "pkg": "com.cubic.rmvgo",
+       "note": "RMV Fahrplan und Handytickets im Rhein-Main-Gebiet",
+       "use": "limited",
+       "req": "Gastkauf nur für Einzel- und Tagestickets per PayPal, sonst meinRMV Konto nötig",
+       "src": "https://www.rmv.de/s/en/rmvgo"
       }
      ]
     },
@@ -796,6 +930,13 @@
        "cat": "transit",
        "pkg": "de.hochbahn.hvvswitch",
        "mine": true
+      },
+      {
+       "name": "Hamburg Erleben & Sparen",
+       "cat": "tourism",
+       "pkg": "de.hht.erlebensparen",
+       "note": "Stadtführer mit Hamburg CARD inklusive ÖPNV",
+       "src": "https://www.hamburg-travel.com/booking/hamburg-card/hamburg-card-app/"
       }
      ]
     },
@@ -859,7 +1000,12 @@
       }
      ]
     }
-   ]
+   ],
+   "note": "Das Deutschlandticket ist ein Abo, Kündigung bis zum 10. des Monats; es gilt nicht in ICE, IC, EC oder FlixTrain.",
+   "src": "https://www.bento.travel/germany",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen; seit November 2024 lassen sich Name und Geschlechtseintrag per Selbstauskunft ändern.",
+   "lgbtq_src": "https://rainbowmap.ilga-europe.org/countries/germany/",
+   "checked": "2026-11-18"
   },
   {
    "code": "AT",
@@ -871,27 +1017,34 @@
      "cat": "tourism",
      "pkg": "com.gocitypass",
      "note": "Stadtpass für viele Städte",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "In Österreich derzeit kein Go City Pass erhältlich"
     },
     {
      "name": "wegfinder",
      "cat": "transit",
      "pkg": "ch.swift.willi",
      "note": "ÖBB-Mobilitäts-App (wegfinder)",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Konto nötig, Visa oder Mastercard mit 3D-Secure"
     },
     {
      "name": "bmove",
      "cat": "micro",
      "pkg": "hr.infoart.epk",
      "note": "bmove",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Registrierung mit Kennzeichen und Kreditkarte nötig"
     },
     {
      "name": "ÖBB Tickets",
      "cat": "rail",
      "pkg": "at.oebb.ts",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "WESTbahnApp",
@@ -902,10 +1055,130 @@
     {
      "name": "ÖBB Scotty",
      "cat": "rail",
-     "note": "Fahrplanauskunft ÖBB"
+     "note": "Fahrplanauskunft ÖBB",
+     "pkg": "de.hafas.android.oebb"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst mit lizenzierten Fahrern in großen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst in ausgewählten Städten, Preise vergleichen",
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "FREENOW",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "note": "Lizenzierte Taxis in vier Großstädten bestellen",
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe liefern lassen, in acht Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "foodora",
+     "cat": "delivery",
+     "pkg": "se.onlinepizza",
+     "note": "Restaurants und Lebensmittel, je nach Adresse",
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "Lieferando.at",
+     "cat": "delivery",
+     "pkg": "at.lieferservice.android",
+     "note": "Großes Restaurantangebot, auch in kleineren Orten",
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "pkg": "net.easypark.android",
+     "note": "Parkgebühren für Straße und Garage in vielen Städten",
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "alpenvereinaktiv",
+     "cat": "maps",
+     "pkg": "com.outdooractive.alpenverein",
+     "note": "Bergtouren planen, mit Hütten und Lawineninfos",
+     "use": "limited",
+     "req": "Offline-Karten nur mit Pro-Abo",
+     "src": "https://www.bento.travel/austria"
+    },
+    {
+     "name": "ASFINAG",
+     "cat": "misc",
+     "note": "Digitale Vignette für Autobahn und Schnellstraße",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/oesterreich-node/oesterreichsicherheit-210962"
     }
    ],
    "cities": [
+    {
+     "name": "Graz",
+     "match": [
+      "Graz"
+     ],
+     "apps": [
+      {
+       "name": "GrazMobil",
+       "cat": "transit",
+       "note": "Öffi-Tickets für Graz und die ganze Steiermark",
+       "src": "https://holding-graz.at/en/company/our-apps"
+      }
+     ]
+    },
+    {
+     "name": "Innsbruck",
+     "match": [
+      "Innsbruck"
+     ],
+     "apps": [
+      {
+       "name": "IVB Tickets",
+       "cat": "transit",
+       "note": "Tickets für Busse und Trams der IVB in Innsbruck",
+       "src": "https://www.ivb.at/en/passenger/service/"
+      }
+     ]
+    },
+    {
+     "name": "Linz",
+     "match": [
+      "Linz"
+     ],
+     "apps": [
+      {
+       "name": "LinzMobil",
+       "cat": "transit",
+       "pkg": "at.upstream.linzmobil",
+       "note": "Echtzeit, Tickets und Sharing-Infos der LINZ AG LINIEN",
+       "use": "limited",
+       "req": "Für Ticketkauf Registrierung nötig",
+       "src": "https://www.linzag.at/portal/de/privatkunden/unterwegs/linzmobil/linz_mobil.html/"
+      },
+      {
+       "name": "FAIRTIQ",
+       "cat": "transit",
+       "note": "Ein- und auschecken, Fahrpreis wird automatisch berechnet",
+       "use": "limited",
+       "req": "Lichtbildausweis mitführen, Ticket ist personengebunden",
+       "src": "https://support.fairtiq.com/hc/en-us/articles/19373507232402--FAIRTIQ-in-Linz-LINZ-AG-Overview"
+      }
+     ]
+    },
     {
      "name": "Salzburg",
      "match": [
@@ -916,7 +1189,9 @@
        "name": "Sbg Verkehr",
        "cat": "transit",
        "pkg": "de.hafas.android.svv",
-       "mine": true
+       "mine": true,
+       "use": "limited",
+       "req": "Handytickets nur in der App, Zahlungsmittel mit 1 Euro Test"
       }
      ]
     },
@@ -930,11 +1205,50 @@
       {
        "name": "WienMobil",
        "cat": "transit",
-       "note": "Offizielle App der Wiener Linien"
+       "note": "Offizielle App der Wiener Linien",
+       "pkg": "at.wienerlinien.wienmobillab",
+       "ess": true
+      },
+      {
+       "name": "Free2move",
+       "cat": "carshare",
+       "pkg": "com.car2go",
+       "note": "Free-Floating-Carsharing (früher Share Now) in Wien",
+       "use": "limited",
+       "req": "Führerschein wird vor der ersten Fahrt in der App geprüft",
+       "src": "https://free2move.com/at/de/car-sharing/vienna"
+      },
+      {
+       "name": "nextbike",
+       "cat": "micro",
+       "note": "Leihräder von WienMobil Rad an Stationen ausleihen",
+       "use": "limited",
+       "req": "Registrierung und Zahlungsmittel nötig, 1 Euro Prüfbetrag",
+       "src": "https://www.wienerlinien.at/wienmobil/rad"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "E-Scooter und einige E-Bikes in Wien leihen",
+       "use": "limited",
+       "req": "Mindestalter 18 Jahre",
+       "src": "https://www.evz.de/themen/verkehr/e-mobilitaet/zweiraeder/leihraeder-wien/"
+      },
+      {
+       "name": "ivie",
+       "cat": "tourism",
+       "pkg": "at.vienna.ivie",
+       "note": "Stadtführer von Wien Tourismus, auch für Vienna City Card",
+       "src": "https://viennacitycard.at/en/"
       }
      ]
     }
-   ]
+   ],
+   "note": "Ticket vor dem Einsteigen kaufen oder aktivieren und bei personalisierten Tickets einen Lichtbildausweis mitführen.",
+   "src": "https://www.bento.travel/austria",
+   "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen für LGBTQ+ Reisende.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/oesterreich-node/oesterreichsicherheit-210962",
+   "checked": "2026-11-18"
   },
   {
    "code": "CH",
@@ -946,13 +1260,16 @@
      "cat": "tourism",
      "pkg": "com.gocitypass",
      "note": "Stadtpass für viele Städte",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Kein Go-City-Pass für Schweizer Städte erhältlich"
     },
     {
      "name": "SBB Mobile",
      "cat": "rail",
      "pkg": "ch.sbb.mobile.android.b2c",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Trainline",
@@ -963,13 +1280,206 @@
     {
      "name": "TWINT",
      "cat": "payment",
-     "note": "Schweizer Bezahl-App, nicht für jeden Besucher nutzbar",
+     "note": "Verbreitete Schweizer Bezahl-App",
      "use": "limited",
-     "req": "Nur als TWINT Prepaid mit Wohnsitz und Nummer in CH, DE, AT oder LI",
-     "src": "https://www.roafly.com/blog/switzerland-travel-money"
+     "req": "Nur TWINT Prepaid mit Wohnsitz und Handynummer in CH, DE, AT oder LI, Identifizierung nötig",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-switzerland"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Größtes Fahrdienst-Angebot, Verfügbarkeit je Stadt prüfen",
+     "ess": true,
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst zum Preisvergleich in einigen Städten",
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "Just Eat CH",
+     "cat": "delivery",
+     "pkg": "com.eat.ch",
+     "note": "Schweizer Lieferdienst für Lieferung und Abholung",
+     "ess": true,
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Restaurants und Lebensmittel liefern lassen",
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "swisstopo",
+     "cat": "maps",
+     "pkg": "ch.admin.swisstopo",
+     "note": "Amtliche Landeskarten mit Wanderwegen, auch offline",
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "MeteoSwiss",
+     "cat": "safety",
+     "pkg": "ch.admin.meteoswiss",
+     "note": "Offizielles Wetter und Unwetterwarnungen",
+     "ess": true,
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "Rega",
+     "cat": "safety",
+     "pkg": "ch.rega.Rega",
+     "note": "Notruf an die Rettungsflugwacht mit Standort",
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "White Risk",
+     "cat": "safety",
+     "pkg": "ch.slf.whiteriskmobile",
+     "note": "Lawinenbulletin des SLF für Touren im Schnee",
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "Alertswiss",
+     "cat": "safety",
+     "pkg": "ch.admin.babs.alertswiss",
+     "note": "Amtliche Warnungen von Bund und Kantonen",
+     "src": "https://www.bento.travel/switzerland"
+    },
+    {
+     "name": "FAIRTIQ",
+     "cat": "transit",
+     "note": "Check-in, Check-out Ticket für den ÖV in der Schweiz",
+     "src": "https://passepartout.ch/verkauf-beratung/mobile-ticket/"
+    },
+    {
+     "name": "Mobility Carsharing",
+     "cat": "carshare",
+     "note": "Rund 3.000 Autos an festen Standorten per App öffnen",
+     "use": "limited",
+     "req": "Kreditkarte nötig; mit Wohnsitz im Ausland nur Fahrten innerhalb der Schweiz",
+     "src": "https://mobility.ch/en/mobility-users/customer-service/faq"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "E-Scooter und E-Bikes in vielen Schweizer Städten",
+     "src": "https://sbb.ch/en/tickets-offers/private-transport/e-scooter.html"
+    },
+    {
+     "name": "Voi",
+     "cat": "micro",
+     "note": "E-Scooter und Leihräder per Minute oder Abo",
+     "src": "https://sbb.ch/en/tickets-offers/private-transport/e-scooter.html"
+    },
+    {
+     "name": "Dott",
+     "cat": "micro",
+     "note": "E-Scooter mit Tages-, Wochen- und Monatspässen",
+     "src": "https://sbb.ch/en/tickets-offers/private-transport/e-scooter.html"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "note": "E-Scooter in Schweizer Städten per App mieten",
+     "src": "https://sbb.ch/en/tickets-offers/private-transport/e-scooter.html"
     }
    ],
    "cities": [
+    {
+     "name": "Basel",
+     "match": [
+      "Basel"
+     ],
+     "apps": [
+      {
+       "name": "Basel & Regio",
+       "cat": "transit",
+       "pkg": "com.mdv.BVBCompanion",
+       "note": "Fahrplan und Tickets der BVB und BLT in Basel",
+       "ess": true,
+       "src": "https://www.bvb.ch/en/?p=391"
+      }
+     ]
+    },
+    {
+     "name": "Bern",
+     "match": [
+      "Bern"
+     ],
+     "apps": [
+      {
+       "name": "öV Plus",
+       "cat": "transit",
+       "pkg": "ch.glue.android.mezi",
+       "note": "BERNMOBIL-App mit Fahrplan und Libero-Tickets",
+       "ess": true,
+       "src": "https://www.bernmobil.ch/de/abos-tickets/oev-plus-app"
+      },
+      {
+       "name": "Bern Welcome",
+       "cat": "tourism",
+       "note": "Stadtführer mit digitalem Bern Ticket für Hotelgäste",
+       "src": "https://bern.com/en/inform/tickets-offers/bern-ticket/bern-welcome-app-and-bern-ticket"
+      }
+     ]
+    },
+    {
+     "name": "Genf",
+     "match": [
+      "Geneva",
+      "Genf"
+     ],
+     "apps": [
+      {
+       "name": "tpg+",
+       "cat": "transit",
+       "pkg": "ch.tpg.boldor",
+       "note": "Offizielle App der Genfer Verkehrsbetriebe mit E-Tickets",
+       "ess": true,
+       "src": "https://tpg.ch/en/tpgpreview-your-new-travel-assistant"
+      },
+      {
+       "name": "Hello Geneva",
+       "cat": "tourism",
+       "note": "Offizielle Genf-App mit City Pass und Transport Card",
+       "src": "https://www.geneve.com/fr/votre-sejour/hello-geneva-app"
+      }
+     ]
+    },
+    {
+     "name": "Interlaken",
+     "match": [
+      "Interlaken"
+     ],
+     "apps": [
+      {
+       "name": "Interlaken Guide",
+       "cat": "tourism",
+       "note": "Offizielle App mit digitaler Gästekarte Interlaken Pass",
+       "src": "https://www.interlaken.swiss/en/interlakenguide-accommodation-providers"
+      }
+     ]
+    },
+    {
+     "name": "Lucerne",
+     "match": [
+      "Lucerne"
+     ],
+     "apps": [
+      {
+       "name": "Official Audio Tour Lucerne",
+       "cat": "tourism",
+       "note": "Offizielle Audio-Stadtführungen, auch offline",
+       "src": "https://www.luzern.com/en/information/on-site/audio-tour-app?type=1773135491"
+      }
+     ]
+    },
     {
      "name": "Zürich",
      "match": [
@@ -981,11 +1491,35 @@
        "name": "ZVV",
        "cat": "transit",
        "pkg": "ch.mnc.zvv.oneapp",
-       "mine": true
+       "mine": true,
+       "ess": true
+      },
+      {
+       "name": "Zürich City Guide",
+       "cat": "tourism",
+       "note": "Offizielle App von Zürich Tourismus mit Stadtkarte",
+       "src": "https://www.zuerich.com/en/zurich-card-city-guide-app"
+      },
+      {
+       "name": "Parkingpay",
+       "cat": "parking",
+       "note": "Parkgebühren der Stadt Zürich per App zahlen",
+       "src": "https://www.stadt-zuerich.ch/de/mobilitaet/parkieren/parkplaetze/oeffentliche-private-parkplaetze/parking-app.html"
+      },
+      {
+       "name": "EasyPark",
+       "cat": "parking",
+       "note": "Von der Stadt Zürich akzeptierte Park-App",
+       "src": "https://www.stadt-zuerich.ch/de/mobilitaet/parkieren/parkplaetze/oeffentliche-private-parkplaetze/parking-app.html"
       }
      ]
     }
-   ]
+   ],
+   "note": "Ticket oder EasyRide-Check-in vor dem Einsteigen nötig; extern gekaufte Pässe lassen sich oft nicht in SBB Mobile laden.",
+   "src": "https://www.bento.travel/switzerland",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, laut Auswärtigem Amt keine besonderen Schwierigkeiten und gute Akzeptanz vor allem in Städten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/schweiz-node/schweizsicherheit-206208",
+   "checked": "2026-11-18"
   },
   {
    "code": "ES",
@@ -1670,7 +2204,7 @@
     {
      "name": "CP Comboios de Portugal",
      "cat": "rail",
-     "note": "Offizielle Bahn-App mit Tickets",
+     "note": "Offizielle Bahn-App mit Fahrplan und Tickets",
      "pkg": "pt.cp.mobiapp",
      "ess": true,
      "src": "https://www.bento.travel/portugal"
@@ -1678,20 +2212,21 @@
     {
      "name": "Rede Expressos",
      "cat": "rail",
-     "note": "Fernbusse",
+     "note": "Fernbusse im ganzen Land buchen",
      "pkg": "pt.beware.myrne",
      "src": "https://www.bento.travel/portugal"
     },
     {
      "name": "Moovit",
      "cat": "maps",
-     "note": "ÖPNV in Lissabon und Porto"
+     "note": "Echtzeit Fahrpläne für Bus und Bahn in vielen Städten",
+     "src": "https://www.e-konomista.pt/apps-que-facilitam-a-mobilidade-nas-cidades-portuguesas/"
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "Lizenzierte Fahrten in vielen Städten",
+     "note": "Lizenzierte Fahrten in vielen Regionen",
      "ess": true,
      "src": "https://www.bento.travel/portugal"
     },
@@ -1699,14 +2234,14 @@
      "name": "IzzyMove",
      "cat": "taxi",
      "pkg": "net.txidigital.izzymove",
-     "note": "Lizenzierte Taxis mit Vorbuchung",
+     "note": "Lizenzierte Taxis, auch mit Vorbuchung",
      "src": "https://www.bento.travel/portugal"
     },
     {
      "name": "Glovo",
      "cat": "delivery",
      "pkg": "com.glovo",
-     "note": "Essen und Einkäufe",
+     "note": "Essen, Einkäufe und Apothekenartikel liefern lassen",
      "ess": true,
      "src": "https://www.bento.travel/portugal"
     },
@@ -1714,7 +2249,7 @@
      "name": "Uber Eats",
      "cat": "delivery",
      "pkg": "com.ubercab.eats",
-     "note": "Lieferdienst",
+     "note": "Lieferdienst mit dem Uber Konto",
      "ess": true,
      "src": "https://www.bento.travel/portugal"
     },
@@ -1722,22 +2257,36 @@
      "name": "Bolt Food",
      "cat": "delivery",
      "pkg": "com.bolt.deliveryclient",
-     "note": "Lieferdienst von Bolt",
+     "note": "Lieferdienst von Bolt, Mindestbestellwert beachten",
      "src": "https://www.bento.travel/portugal"
     },
     {
      "name": "TheFork",
      "cat": "delivery",
      "pkg": "com.lafourchette.lafourchette",
-     "note": "Restaurants reservieren",
+     "note": "Restaurants reservieren, oft mit Rabatt",
      "src": "https://www.bento.travel/portugal"
     },
     {
      "name": "ProCiv Madeira",
      "cat": "safety",
      "pkg": "com.dobsware.procivmadeira",
-     "note": "Warnungen auf Madeira",
+     "note": "Amtliche Warnungen für Madeira",
      "src": "https://www.bento.travel/portugal"
+    },
+    {
+     "name": "Lime",
+     "cat": "micro",
+     "note": "E-Scooter und E-Bikes, u. a. in Porto und Faro",
+     "src": "https://stg.portugalresident.com/?p=371293"
+    },
+    {
+     "name": "Free2Move",
+     "cat": "carshare",
+     "note": "Autos minutenweise in Lissabon und Porto",
+     "use": "limited",
+     "req": "Ausweis, gültiger Führerschein und Bankkarte bei Registrierung nötig",
+     "src": "https://www.emov.eco/lisboa/?lang=en"
     }
    ],
    "cities": [
@@ -1752,20 +2301,45 @@
       {
        "name": "Carris Metropolitana",
        "cat": "transit",
-       "note": "Busse im Großraum Lissabon"
+       "note": "Echtzeit für Busse im Umland von Lissabon",
+       "src": "https://apps.apple.com/us/app/id6553675889"
       },
       {
        "name": "navegante",
        "cat": "transit",
-       "note": "Echtzeitinfo für ÖPNV im Großraum Lissabon"
+       "note": "navegante Karte per NFC am Handy aufladen",
+       "src": "https://apps.apple.com/app/id6484591306",
+       "use": "limited",
+       "req": "Physische navegante Karte und Handy mit NFC nötig"
       },
       {
        "name": "Citymapper",
        "cat": "transit",
        "pkg": "com.citymapper.app.release",
-       "note": "Bus, Tram, Metro, Fähre",
+       "note": "Routen mit Metro, Bus, Tram, Zug und Fähre",
        "ess": true,
        "src": "https://www.bento.travel/portugal"
+      },
+      {
+       "name": "CARRISway",
+       "cat": "transit",
+       "pkg": "com.carris.passcard",
+       "note": "Pässe und Guthaben auf die navegante Karte laden",
+       "use": "limited",
+       "req": "Personalisierte navegante Karte und Handy mit NFC nötig",
+       "src": "https://lisboaparapessoas.pt/en/?p=41235"
+      },
+      {
+       "name": "Gira",
+       "cat": "micro",
+       "note": "Städtische Leihräder, Tagespass ohne Kaution",
+       "src": "https://www.rtp.pt/noticias/pais/gira-refresca-app-das-bicicletas-de-lisboa-ha-novo-design-e-acaba-caucao-de-300-euros_n1765660"
+      },
+      {
+       "name": "ePark EMEL",
+       "cat": "parking",
+       "note": "Straßenparken der EMEL per Handy bezahlen",
+       "src": "https://4gnews.pt/fim-dos-parquimetros-em-lisboa-como-os-conhecemos-tudo-o-que-muda/"
       }
      ]
     },
@@ -1779,15 +2353,19 @@
        "name": "Anda",
        "cat": "transit",
        "pkg": "pt.opt.anda",
-       "note": "Ticket-App für Porto",
-       "src": "https://www.bento.travel/portugal"
+       "note": "Handy als Andante Ticket im Raum Porto",
+       "src": "https://stcp.pt/en/travel/tariffs/multimodal-andante-tickets/anda-app",
+       "use": "limited",
+       "req": "Fahrten nur mit Android Handy mit NFC und Bluetooth, iPhone nur Aufladen"
       }
      ]
     }
    ],
-   "note": "In Lissabon gilt die kontaktlose Bankkarte nur für die U-Bahn, nicht für Bus, Tram, Vorortzug oder Fähre.",
+   "note": "In Lissabon gilt die kontaktlose Bankkarte nur in der Metro, nicht in Bus, Tram, Vorortzug oder Fähre.",
    "src": "https://www.bento.travel/portugal",
-   "checked": "2026-11-17"
+   "checked": "2026-11-18",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, laut Auswärtigem Amt gute Akzeptanz vor allem in den Großstädten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/portugal-node/portugalsicherheit-210900"
   },
   {
    "code": "FR",
