@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 20:46",
+ "version": "2026-11-18 21:18",
  "categories": [
   {
    "id": "entry",
@@ -24322,6 +24322,611 @@
    "src": "https://www.citizendailypost.com/faq/is-there-uber-on-st-john/",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2015 legal und seit 2022 gilt ein Diskriminierungsschutz.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_United_States_Virgin_Islands",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "AL",
+   "name": "Albanien",
+   "flag": "🇦🇱",
+   "apps": [
+    {
+     "name": "Patoko",
+     "cat": "taxi",
+     "pkg": "com.patoko.patoko",
+     "note": "Lokale Taxi-App mit Festpreisen, Karte oder bar",
+     "ess": true,
+     "src": "https://www.bento.travel/albania"
+    },
+    {
+     "name": "VrapOn",
+     "cat": "taxi",
+     "pkg": "com.vrapon.rider_app",
+     "note": "Taxis mit Preisschätzung, auch zum Flughafen",
+     "src": "https://www.bento.travel/albania"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in mehreren Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/albania"
+    },
+    {
+     "name": "Baboon",
+     "cat": "delivery",
+     "pkg": "al.baboon",
+     "note": "Lieferdienst für Restaurants und Läden, bar oder Karte",
+     "src": "https://www.bento.travel/albania"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karte mit Wanderwegen und Höhendaten",
+     "src": "https://www.bento.travel/albania"
+    },
+    {
+     "name": "eTransport",
+     "cat": "rail",
+     "pkg": "com.dpshtrr.etransport",
+     "note": "Offizielle Fahrpläne und Terminals der Fernbusse",
+     "src": "https://www.bento.travel/albania"
+    },
+    {
+     "name": "Gjirafa Travel",
+     "cat": "rail",
+     "note": "Fernbustickets in Albanien und im Balkan buchen",
+     "src": "https://www.bento.travel/albania"
+    },
+    {
+     "name": "TEA Tourism Events of Albania",
+     "cat": "tourism",
+     "pkg": "al.basecode.tea",
+     "note": "Offizieller Tourismusführer mit Events, auf Englisch",
+     "src": "https://www.bento.travel/albania"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Tirana",
+     "match": [
+      "Tirana"
+     ],
+     "apps": [
+      {
+       "name": "Tirana Parking",
+       "cat": "parking",
+       "pkg": "io.tirana_parking.app",
+       "note": "Parkzonen finden und Parken in Tirana bezahlen",
+       "src": "https://www.bento.travel/albania"
+      },
+      {
+       "name": "TIR",
+       "cat": "transit",
+       "pkg": "com.withtir.app",
+       "note": "Buslinien, Haltestellen und Störungen in Tirana",
+       "src": "https://www.bento.travel/albania"
+      }
+     ]
+    }
+   ],
+   "note": "Uber und Bolt fahren nicht: Patoko installieren und Bargeld in Lek mitnehmen, da viele Orte nur bar akzeptieren.",
+   "src": "https://www.bento.travel/albania",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die gesellschaftliche Toleranz ist aber gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/albanien-node/albaniensicherheit-216248",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "BG",
+   "name": "Bulgarien",
+   "flag": "🇧🇬",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrdienst ist in Bulgarien nicht aktiv",
+     "use": "no",
+     "req": "In Bulgarien nicht verfügbar",
+     "src": "https://www.bento.travel/blog/is-uber-available-in-bulgaria"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Größte Abdeckung im Land, auch in Ferienorten",
+     "ess": true,
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in sieben Städten",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Restaurants und Lebensmittel in Liefergebieten",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Beliebtester Messenger für Kontakt zu Anbietern",
+     "ess": true,
+     "use": "limited",
+     "req": "Aktivierung per Code an eine Telefonnummer",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline Karten für ganz Bulgarien",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Live-Verkehr und Warnungen",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "MPass",
+     "cat": "transit",
+     "pkg": "bg.mpass.sofia.app",
+     "note": "Digitale Tickets für Sofia und Plovdiv",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "Obilet",
+     "cat": "rail",
+     "pkg": "com.obilet.androidside",
+     "note": "Fernbusse buchen, auf Englisch",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "BGTOLL",
+     "cat": "misc",
+     "pkg": "net.kapsch.BGTOLL2",
+     "note": "Offizielle Maut App für die E-Vignette",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "112 Bulgaria",
+     "cat": "safety",
+     "pkg": "bg.mvr.help112",
+     "note": "Notruf per Text bei Hör- oder Sprachproblemen",
+     "use": "limited",
+     "req": "Vorherige Registrierung nötig",
+     "src": "https://www.bento.travel/bulgaria/intercity-transport"
+    },
+    {
+     "name": "Revolut",
+     "cat": "payment",
+     "note": "Reisekarte zum Zahlen in Euro",
+     "src": "https://www.bento.travel/bulgaria/payments"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Burgas",
+     "match": [
+      "Burgas"
+     ],
+     "apps": [
+      {
+       "name": "Transport Burgas",
+       "cat": "transit",
+       "pkg": "com.modeshift.burgas",
+       "note": "Stadtbusse in Burgas mit Fahrplan und Tickets",
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      }
+     ]
+    },
+    {
+     "name": "Plovdiv",
+     "match": [
+      "Plovdiv"
+     ],
+     "apps": [
+      {
+       "name": "Eko Taxi Plovdiv",
+       "cat": "taxi",
+       "pkg": "gr.iqs.ekotaxi_client",
+       "note": "Taxi bestellen in Plovdiv",
+       "use": "limited",
+       "req": "Anmeldung mit ausländischer Nummer klappt oft nicht",
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      },
+      {
+       "name": "Taxi One App",
+       "cat": "taxi",
+       "pkg": "gr.iqs.taxi_one_bg_client",
+       "note": "Taxis in Plovdiv mit Ortung und Vorbestellung",
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      }
+     ]
+    },
+    {
+     "name": "Sofia",
+     "match": [
+      "Sofia"
+     ],
+     "apps": [
+      {
+       "name": "TaxiMe",
+       "cat": "taxi",
+       "pkg": "com.taxime.client",
+       "note": "Lizenzierte Taxis mit Preisschätzung und Live-Ortung",
+       "ess": true,
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      },
+      {
+       "name": "Yellow Taxi 91119",
+       "cat": "taxi",
+       "pkg": "com.autocab.taxibooker.yellow333.bulgaria",
+       "note": "Offizieller Taxipartner am Flughafen Sofia",
+       "ess": true,
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      },
+      {
+       "name": "OK Taxi",
+       "cat": "taxi",
+       "pkg": "com.busols.taximan.online",
+       "note": "Taxi-App in Sofia, auf Nachahmer achten",
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      },
+      {
+       "name": "Sofia2Go",
+       "cat": "transit",
+       "pkg": "com.sofiatraffic.sofiago",
+       "note": "Offizielle App für Karten, Routen und Fahrpläne",
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      },
+      {
+       "name": "SPARK",
+       "cat": "carshare",
+       "note": "Elektroautos minutenweise in Sofia mieten",
+       "use": "limited",
+       "req": "Führerschein seit 1 Jahr, Ausweisprüfung, Kreditkarte",
+       "src": "https://bnr.bg/en/post/101148094/innovative-environment-friendly-way-of-transport-in-sofia"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "Leih E-Scooter in Sofia, ab 16 Jahren",
+       "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/bulgaria-e-scooter-laws/"
+      },
+      {
+       "name": "Bolt",
+       "cat": "micro",
+       "note": "Nur E-Scooter in Sofia, keine Autofahrten",
+       "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/bulgaria-e-scooter-laws/"
+      }
+     ]
+    },
+    {
+     "name": "Varna",
+     "match": [
+      "Varna"
+     ],
+     "apps": [
+      {
+       "name": "TTickets Varna",
+       "cat": "transit",
+       "pkg": "com.busvarnanew.ticket",
+       "note": "Offizielle App für Handytickets in Varna",
+       "src": "https://www.bento.travel/bulgaria/intercity-transport"
+      }
+     ]
+    }
+   ],
+   "note": "Seit Februar 2026 gilt nur der Euro. Uber und Bolt fahren nicht, besser lizenzierte Taxi-Apps wie TaxiMe nutzen.",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen und Diskriminierung ist verboten, Ehe oder Partnerschaft für gleichgeschlechtliche Paare gibt es nicht.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bulgarien-node/bulgariensicherheit-211834",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "ME",
+   "name": "Montenegro",
+   "flag": "🇲🇪",
+   "apps": [
+    {
+     "name": "MonteGO",
+     "cat": "taxi",
+     "pkg": "app.montegotaxi.montegotaxi",
+     "note": "Lizenzierte Taxis in Städten und an der Küste",
+     "ess": true,
+     "src": "https://www.bento.travel/montenegro"
+    },
+    {
+     "name": "Cablo",
+     "cat": "taxi",
+     "pkg": "com.cablo.riderapp",
+     "note": "Neue Taxi-App, eher als Reserve gedacht",
+     "src": "https://www.bento.travel/montenegro"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen, Supermarkt und Apotheke in sieben Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/montenegro"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Messenger für Gastgeber und Taxizentralen",
+     "src": "https://www.bento.travel/montenegro"
+    },
+    {
+     "name": "Mapy.com",
+     "cat": "maps",
+     "pkg": "cz.seznam.mapy",
+     "note": "Offline-Karten zum Wandern und Radfahren",
+     "src": "https://www.bento.travel/montenegro"
+    },
+    {
+     "name": "BusTicket4.me",
+     "cat": "rail",
+     "note": "Busfahrpläne vergleichen und Tickets finden",
+     "ess": true,
+     "src": "https://www.bento.travel/montenegro"
+    },
+    {
+     "name": "ŽPCG",
+     "cat": "rail",
+     "note": "Staatsbahn mit Fahrplänen und Online-Tickets",
+     "src": "https://www.bento.travel/montenegro"
+    },
+    {
+     "name": "GetRentacar",
+     "cat": "carshare",
+     "pkg": "getrentacar.app",
+     "note": "Mietwagen von lokalen Anbietern, viel in Podgorica",
+     "use": "limited",
+     "req": "Ab 18, Pass, Führerschein, Debitkarte, Kaution",
+     "src": "https://getrentacar.com/en-US/montenegro"
+    },
+    {
+     "name": "Localrent",
+     "cat": "carshare",
+     "note": "Vergleich lokaler Autovermieter mit kleiner Kaution",
+     "src": "https://www.triplinkhub.com/en/blog/best-travel-apps-montenegro"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Budva",
+     "match": [
+      "Budva"
+     ],
+     "apps": [
+      {
+       "name": "2M Scooter",
+       "cat": "micro",
+       "note": "Leih E-Scooter per QR-Code, Abrechnung pro Minute",
+       "src": "https://apps.apple.com/ch/app/2m-scooter/id6463933305"
+      },
+      {
+       "name": "Parking Servis Budva",
+       "cat": "parking",
+       "note": "Offizielle Park-App der Gemeinde, Zahlung per Karte",
+       "src": "https://mwm.ai/apps/parking-servis-budva/6782967840"
+      }
+     ]
+    },
+    {
+     "name": "Herceg Novi",
+     "match": [
+      "Herceg Novi"
+     ],
+     "apps": [
+      {
+       "name": "Parking Servis Herceg Novi",
+       "cat": "parking",
+       "note": "Parktickets stunden- oder tageweise per Karte",
+       "src": "https://apps.apple.com/us/app/id6762288363"
+      }
+     ]
+    },
+    {
+     "name": "Podgorica",
+     "match": [
+      "Podgorica"
+     ],
+     "apps": [
+      {
+       "name": "TeslaGoApp",
+       "cat": "taxi",
+       "pkg": "me.com.tesla.drive.podgorica.client",
+       "note": "Elektrotaxis mit Live-Ortung als Ersatz",
+       "use": "limited",
+       "req": "Bestätigung mit virtueller Nummer kann scheitern",
+       "src": "https://www.bento.travel/montenegro"
+      },
+      {
+       "name": "Parking Servis Podgorica",
+       "cat": "parking",
+       "note": "Offizielle Park-App mit Zonenticket und Abschleiminfo",
+       "use": "limited",
+       "req": "Zahlungsweg unklar, SMS nur mit lokaler SIM",
+       "src": "https://apps.apple.com/us/app/parking-servis-podgorica/id1450980778"
+      }
+     ]
+    }
+   ],
+   "note": "Uber und Bolt fahren nicht, Taxi per App buchen und Bargeld für Busse und kleine Läden dabeihaben.",
+   "src": "https://www.bento.travel/montenegro",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, außerhalb touristischer Orte ist die Akzeptanz aber gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/montenegro-node/montenegrosicherheit-216330",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "RS",
+   "name": "Serbien",
+   "flag": "🇷🇸",
+   "apps": [
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "pkg": "ru.yandex.taxi",
+     "note": "Fahrten mit lizenzierten Flotten, Preis vorab",
+     "ess": true,
+     "use": "limited",
+     "req": "Bestätigung mit ausländischer Nummer oder Karte scheitert teils",
+     "src": "https://www.bento.travel/serbia/ride-hailing"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in über 30 serbischen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/serbia/food-delivery"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen, Supermarkt und Läden, je nach Adresse",
+     "ess": true,
+     "src": "https://www.bento.travel/serbia/food-delivery"
+    },
+    {
+     "name": "Mister D",
+     "cat": "delivery",
+     "note": "Lokaler Essenslieferdienst in einigen Orten",
+     "src": "https://www.bento.travel/serbia/food-delivery"
+    },
+    {
+     "name": "Moovit",
+     "cat": "maps",
+     "note": "Routenplanung für Bus und Bahn",
+     "src": "https://www.bento.travel/serbia/transit"
+    },
+    {
+     "name": "Yandex Maps",
+     "cat": "maps",
+     "note": "Karte mit Live-Positionen der Belgrader Busse",
+     "src": "https://www.bento.travel/serbia/navigation"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Messenger, den Gastgeber und Taxis oft nutzen",
+     "src": "https://www.bento.travel/serbia/messaging"
+    },
+    {
+     "name": "Srbijavoz",
+     "cat": "rail",
+     "note": "Zugtickets per App, 10 % günstiger als am Schalter",
+     "src": "https://biznis.kurir.rs/info-biz/9536606/srbijavoz-preporucuje-putnicima-da-karte-kupuju-putem-mobilne-aplikacije"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Belgrad",
+     "match": [
+      "Belgrad",
+      "Belgrade"
+     ],
+     "apps": [
+      {
+       "name": "CAR:GO",
+       "cat": "taxi",
+       "pkg": "com.appcargo.user",
+       "note": "Fahrdienst mit Live-Tracking und Flughafentransfer",
+       "use": "limited",
+       "req": "Bestätigung oder ausländische Karte klappen nicht immer",
+       "src": "https://www.bento.travel/serbia/ride-hailing"
+      },
+      {
+       "name": "Naxis Taxi",
+       "cat": "taxi",
+       "note": "Lizenzierte Taxis mit Taxameter, auch zum Flughafen",
+       "src": "https://www.bento.travel/serbia/ride-hailing"
+      },
+      {
+       "name": "Beograd Plus",
+       "cat": "transit",
+       "pkg": "buslogic.beogradplus",
+       "note": "Offizielle Live-Daten zu Bus und Tram, ÖPNV gratis",
+       "src": "https://www.bento.travel/serbia/transit"
+      },
+      {
+       "name": "Anygo",
+       "cat": "carshare",
+       "note": "Carsharing pro Minute, Rückgabe in Belgrad",
+       "use": "limited",
+       "req": "Führerschein, Ausweis oder Pass, Kreditkarte und Selfie nötig",
+       "src": "https://apps.apple.com/app/id6473706004"
+      },
+      {
+       "name": "Parking Servis",
+       "cat": "parking",
+       "note": "Parken in Zonen und Garagen zahlen, freie Plätze",
+       "use": "limited",
+       "req": "Kartenzahlung nur nach Registrierung, als Gast nur SMS",
+       "src": "https://www.novosti.rs/beograd/vesti/908845/nova-aplikacija-jkp-parking-servis-slobodno-mesto-navodjenje-jos-mnostvo-mogucnosti-foto"
+      },
+      {
+       "name": "Belgrade Fortress (Cultural Places)",
+       "cat": "tourism",
+       "note": "Kostenloser Audioguide für 29 Orte der Festung",
+       "src": "https://www.beogradskatvrdjava.co.rs/%d0%b1%d0%b5%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b0-%d1%82%d0%b2%d1%80%d1%92%d0%b0%d0%b2%d0%b0-%d0%bd%d0%b0-%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d1%98%d0%b8-cultural-places/?lang=en"
+      }
+     ]
+    },
+    {
+     "name": "Nis",
+     "match": [
+      "Nis"
+     ],
+     "apps": [
+      {
+       "name": "NiCard JGP Niš",
+       "cat": "transit",
+       "note": "Offizielle App mit Haltestellen und Ankunftszeiten",
+       "src": "https://apps.apple.com/us/app/id1567012481"
+      }
+     ]
+    },
+    {
+     "name": "Novi Sad",
+     "match": [
+      "Novi Sad"
+     ],
+     "apps": [
+      {
+       "name": "Nsmart JGSP",
+       "cat": "transit",
+       "note": "Linien, Haltestellen und E-Wallet für Busse",
+       "src": "https://apps.apple.com/us/app/id1557928546"
+      },
+      {
+       "name": "nSpark",
+       "cat": "parking",
+       "note": "Parken per Karte, IPS oder SMS zahlen",
+       "src": "https://www.021.rs/story/Novi-Sad/Vesti/382373/Novosadski-Parking-servis-ima-novu-mobilnu-aplikaciju-Sve-usluge-na-jednom-mestu.html"
+      }
+     ]
+    }
+   ],
+   "note": "Etwas Bargeld in Dinar und eine zweite Karte mitnehmen, am Terminal immer in RSD statt in Euro zahlen.",
+   "src": "https://www.bento.travel/serbia/payments",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/serbien-node/serbiensicherheit-207502",
    "checked": "2026-11-18"
   }
  ]
