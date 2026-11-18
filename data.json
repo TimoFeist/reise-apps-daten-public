@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 05:07",
+ "version": "2026-11-18 05:18",
  "categories": [
   {
    "id": "entry",
@@ -2643,13 +2643,16 @@
      "name": "Ryde",
      "cat": "taxi",
      "pkg": "com.ryde_android",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Zahlungskarte und Handynummer nötig, Mindestalter beachten"
     },
     {
      "name": "foodora",
      "cat": "delivery",
      "pkg": "se.onlinepizza",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Thon Hotels",
@@ -2660,33 +2663,98 @@
     {
      "name": "Entur",
      "cat": "transit",
-     "note": "Alle Busse, Züge, Fähren in Norwegen, Tickets"
+     "note": "Alle Busse, Züge, Fähren in Norwegen, Tickets",
+     "pkg": "no.entur",
+     "ess": true
     },
     {
      "name": "Vy",
      "cat": "rail",
-     "note": "Züge und Busse"
+     "note": "Züge und Busse",
+     "pkg": "com.intele.nsbmob.app",
+     "ess": true
     },
     {
      "name": "EasyPark",
      "cat": "parking",
-     "pkg": "net.easypark.android"
+     "pkg": "net.easypark.android",
+     "note": "Parken per App in fast allen norwegischen Städten",
+     "src": "https://easypark.com/en-no/help/parking/where-can-i-use-easypark"
     },
     {
      "name": "Yr",
      "cat": "misc",
-     "note": "Wetter vom norwegischen Wetterdienst"
+     "note": "Wettervorhersage von NRK und Meteorologischem Institut",
+     "src": "https://apps.apple.com/au/app/yr-no/id490989206"
     },
     {
      "name": "Vipps",
      "cat": "payment",
-     "note": "Norwegens Bezahl-App",
+     "note": "Norwegens Bezahl-App, für Besucher nicht nötig",
      "use": "no",
-     "req": "Norwegische Telefonnummer nötig",
-     "src": "https://bento.travel/norway"
+     "req": "Norwegische Nummer, BankID und norwegisches Konto nötig",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-norway"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "note": "Festpreisfahrten mit lizenzierten Taxis in zehn Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/apps/bolt"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Lizenzierte Taxis mit Preisschätzung, z. B. in Oslo und Bergen",
+     "src": "https://www.bento.travel/apps/uber"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe liefern lassen, breite Abdeckung",
+     "ess": true,
+     "src": "https://www.bento.travel/norway/food-delivery"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Kleinere Lieferalternative in Oslo und Bergen",
+     "src": "https://www.bento.travel/norway/food-delivery"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "note": "Start in Norwegen wurde 2026 gestoppt",
+     "use": "no",
+     "req": "In Norwegen derzeit nicht verfügbar",
+     "src": "https://www.bento.travel/norway/food-delivery"
+    },
+    {
+     "name": "Hyre",
+     "cat": "carshare",
+     "note": "Mietwagen stunden oder tageweise, Handy als Schlüssel",
+     "use": "limited",
+     "req": "Ab 18, Pass und Führerschein, Bonitätsprüfung und Kaution",
+     "src": "https://www.hyre.no/en"
     }
    ],
    "cities": [
+    {
+     "name": "Bergen",
+     "match": [
+      "Bergen"
+     ],
+     "apps": [
+      {
+       "name": "Skyss",
+       "cat": "transit",
+       "note": "Neue Skyss-App für Bus und Bybanen seit März 2026",
+       "src": "https://www.skyss.no/en/travel/news/new-skyss-app/"
+      }
+     ]
+    },
     {
      "name": "Oslo",
      "match": [
@@ -2709,11 +2777,79 @@
        "name": "Ruter",
        "cat": "transit",
        "pkg": "no.ruter.reise",
-       "mine": true
+       "mine": true,
+       "ess": true
+      },
+      {
+       "name": "Voi",
+       "cat": "micro",
+       "note": "E-Scooter und E-Bikes, auch über die Ruter-App buchbar",
+       "use": "limited",
+       "req": "Ab 15 bzw. 16 Jahren, Kreditkarte, in Ruter Altersprüfung per Vipps",
+       "src": "https://ruter.no/en/more-transport-services/e-scooter-and-city-bike.md"
+      },
+      {
+       "name": "Oslo Bysykkel",
+       "cat": "micro",
+       "note": "Stadträder an rund 270 Stationen, auch 3-Tage-Pass",
+       "use": "limited",
+       "req": "Registrierung mit Handynummer nötig, ab 15 Jahren",
+       "src": "https://www.visitoslo.com/rental/city-bikes-oslo-bysykkel"
+      }
+     ]
+    },
+    {
+     "name": "Stavanger",
+     "match": [
+      "Stavanger"
+     ],
+     "apps": [
+      {
+       "name": "Kolumbus Billett",
+       "cat": "transit",
+       "note": "Tickets für Bus und Boote in Rogaland, ohne Login",
+       "use": "limited",
+       "req": "Bei teureren Tickets 3D-Secure-Prüfung der Karte",
+       "src": "https://www.kolumbus.no/en/help-and-contact/frequently-asked-questions/kolumbus-billett/"
+      }
+     ]
+    },
+    {
+     "name": "Tromsø",
+     "match": [
+      "Tromsø"
+     ],
+     "apps": [
+      {
+       "name": "Svipper",
+       "cat": "transit",
+       "pkg": "no.trfylke.svipper.production",
+       "note": "Bus und Schnellboot in Troms, Echtzeit und Tickets",
+       "src": "https://svipper.no/menu/travel/the-svipper-app"
+      }
+     ]
+    },
+    {
+     "name": "Trondheim",
+     "match": [
+      "Trondheim"
+     ],
+     "apps": [
+      {
+       "name": "AtB",
+       "cat": "transit",
+       "pkg": "no.mittatb.store",
+       "note": "Tickets für Bus, Tram und Boot, Zahlung per Karte",
+       "src": "https://atb.no/en/ticket/"
       }
      ]
     }
-   ]
+   ],
+   "note": "Visa oder Mastercard reichen fast überall, Vipps brauchen Besucher nicht, eine zweite physische Karte hilft.",
+   "src": "https://www.bento.travel/norway",
+   "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTQ+ Reisende, die Akzeptanz ist vor allem in Städten gut.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/norwegensicherheit-205878",
+   "checked": "2026-11-18"
   },
   {
    "code": "SE",
@@ -3051,7 +3187,9 @@
      "name": "Deliveroo",
      "cat": "delivery",
      "pkg": "com.deliveroo.orderapp",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Laut Quelle eingestellt"
     },
     {
      "name": "glimble",
@@ -3074,20 +3212,225 @@
     {
      "name": "NS",
      "cat": "rail",
-     "note": "Offizielle App der niederländischen Bahn"
+     "note": "Offizielle App der niederländischen Bahn",
+     "pkg": "nl.ns.android.activity"
     },
     {
      "name": "9292",
      "cat": "transit",
-     "note": "ÖPNV-Planer für alle Verkehrsbetriebe in den Niederlanden"
+     "note": "ÖPNV-Planer für alle Verkehrsbetriebe in den Niederlanden",
+     "pkg": "nl.negentwee",
+     "ess": true
     },
     {
      "name": "OVpay",
      "cat": "transit",
-     "note": "Check-in/out mit Bankkarte oder Handy, ohne Registrierung"
+     "note": "Check-in/out mit Bankkarte oder Handy, ohne Registrierung",
+     "pkg": "nl.tls.ovpay"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst mit lizenzierten Fahrern in mehreren Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/netherlands/ride-hailing"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst in Amsterdam und weiteren Städten",
+     "use": "limited",
+     "req": "Nur in einigen Städten verfügbar",
+     "src": "https://www.bento.travel/netherlands/ride-hailing"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essen liefern lassen, in allen zwölf Provinzen aktiv",
+     "ess": true,
+     "src": "https://www.bento.travel/netherlands/food-delivery"
+    },
+    {
+     "name": "Thuisbezorgd.nl",
+     "cat": "delivery",
+     "pkg": "com.takeaway.android",
+     "note": "Größter Lieferdienst des Landes, auch in kleinen Orten",
+     "ess": true,
+     "src": "https://www.bento.travel/netherlands/food-delivery"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Essen und Einkäufe in über 20 Städten",
+     "use": "limited",
+     "req": "Nur in unterstützten Städten, Kartenzahlung vorab testen",
+     "src": "https://www.bento.travel/netherlands/food-delivery"
+    },
+    {
+     "name": "Tikkie",
+     "cat": "payment",
+     "note": "Zahlungslinks verschicken und Rechnungen teilen",
+     "use": "no",
+     "req": "Niederländisches Bankkonto und europäische Handynummer nötig",
+     "src": "https://www.bento.travel/netherlands/payments"
+    },
+    {
+     "name": "Greenwheels",
+     "cat": "carshare",
+     "pkg": "com.greenwheels",
+     "note": "Stationsbasiertes Carsharing mit über 3000 Autos im Land",
+     "use": "limited",
+     "req": "Ab 18 Jahren, Führerscheinprüfung und Kaution vor der ersten Buchung",
+     "src": "https://help.greenwheels.com/en/articles/627300-can-i-use-a-greenwheels-car-with-a-foreign-driving-licence"
+    },
+    {
+     "name": "MyWheels",
+     "cat": "carshare",
+     "pkg": "nl.mywheels.app",
+     "note": "Carsharing per App, Auto mit dem Handy öffnen",
+     "use": "limited",
+     "req": "Konto mit Führerschein nötig",
+     "src": "https://mywheels.nl/en/auto-huren"
+    },
+    {
+     "name": "felyx",
+     "cat": "micro",
+     "note": "Elektro-Mopeds leihen, unter anderem in Amsterdam und Rotterdam",
+     "use": "limited",
+     "req": "Führerschein Klasse AM oder B nötig, Helmpflicht",
+     "src": "https://www.felyx.com/en/products/our-locations.html"
+    },
+    {
+     "name": "Check",
+     "cat": "micro",
+     "note": "Elektro-Mopeds und E-Bikes, Abrechnung pro Minute",
+     "use": "limited",
+     "req": "Für Mopeds Führerschein Klasse AM oder B und Helm nötig",
+     "src": "https://expatinfoholland.nl/help-guides/transport-mobility/scooter-regulations-in-the-netherlands"
+    },
+    {
+     "name": "GO Sharing",
+     "cat": "micro",
+     "note": "Elektro-Mopeds in Städten wie Den Haag, Delft und Eindhoven",
+     "use": "limited",
+     "req": "Führerschein Klasse AM oder B nötig, Helmpflicht",
+     "src": "https://expatinfoholland.nl/help-guides/transport-mobility/scooter-regulations-in-the-netherlands"
+    },
+    {
+     "name": "Donkey Republic",
+     "cat": "micro",
+     "note": "Leihräder per App in Amsterdam, Rotterdam und Den Haag",
+     "src": "https://www.donkey.bike/netherlands"
+    },
+    {
+     "name": "OV-fiets",
+     "cat": "micro",
+     "note": "Leihräder der NS an vielen Bahnhöfen",
+     "use": "no",
+     "req": "Niederländisches Bankkonto und niederländische Adresse nötig",
+     "src": "https://www.amsterdamtips.com/ov-fiets"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "note": "Straßenparken und Garagen per Handy bezahlen",
+     "src": "https://www.easypark.com/en-nl"
+    },
+    {
+     "name": "Q-Park",
+     "cat": "parking",
+     "pkg": "com.qpark.mobilepark.android",
+     "note": "Über 150 Parkhäuser und Straßenparken ohne Ticket",
+     "use": "limited",
+     "req": "Konto mit Kennzeichen und Visa, Mastercard oder iDEAL nötig",
+     "src": "https://www.q-park.nl/en-gb/app/"
     }
    ],
-   "cities": []
+   "cities": [
+    {
+     "name": "Amsterdam",
+     "match": [
+      "Amsterdam"
+     ],
+     "apps": [
+      {
+       "name": "TCA Taxi",
+       "cat": "taxi",
+       "pkg": "at.austrosoft.t4me.MB_TCA_Amsterdam",
+       "note": "Taxizentrale Amsterdam, Fahrten auch vorbestellen",
+       "src": "https://www.bento.travel/netherlands/ride-hailing"
+      },
+      {
+       "name": "GVB travel app",
+       "cat": "transit",
+       "pkg": "nl.gvb.reizigersapp",
+       "note": "Routen und GVB-Tickets für Tram, Metro, Bus und Fähre",
+       "src": "https://www.bento.travel/netherlands/transit"
+      },
+      {
+       "name": "I amsterdam City Card",
+       "cat": "tourism",
+       "pkg": "com.iamsterdam.iamsterdam",
+       "note": "Offizieller Stadtführer mit Karte und Rabatten der City Card",
+       "src": "https://www.iamsterdam.com/en/i-am/install-city-card-app"
+      }
+     ]
+    },
+    {
+     "name": "Den Haag",
+     "match": [
+      "Den Haag",
+      "The Hague"
+     ],
+     "apps": [
+      {
+       "name": "HTM info & tickets",
+       "cat": "transit",
+       "pkg": "nl.infoplazamob.htm",
+       "note": "Routen, Störungen und Tickets für Tram und Bus in Den Haag",
+       "src": "https://www.htm.nl/en/app"
+      }
+     ]
+    },
+    {
+     "name": "Rotterdam",
+     "match": [
+      "Rotterdam"
+     ],
+     "apps": [
+      {
+       "name": "RET",
+       "cat": "transit",
+       "note": "Tickets für Metro, Tram und Bus in Rotterdam",
+       "src": "https://ret.nl/en/home/travel-products/e-tickets.html"
+      }
+     ]
+    },
+    {
+     "name": "Utrecht",
+     "match": [
+      "Utrecht"
+     ],
+     "apps": [
+      {
+       "name": "U-OV",
+       "cat": "transit",
+       "pkg": "nl.infoplazamobility.app.uov",
+       "note": "Abfahrten in Echtzeit und E-Tickets für Bus und Tram",
+       "src": "https://www.u-ov.nl/en/Reisinformatie/U-OV-app"
+      }
+     ]
+    }
+   ],
+   "note": "Für normale Fahrten mit Bus, Bahn und Tram reicht kontaktloses Bezahlen mit Bankkarte oder Handy beim Ein- und Auschecken.",
+   "src": "https://www.bento.travel/netherlands/transit",
+   "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTIQ Reisende, die Akzeptanz ist vor allem in Großstädten hoch.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
+   "checked": "2026-11-18"
   },
   {
    "code": "BE",
@@ -3118,9 +3461,262 @@
      "pkg": "com.tomorrowland.oneworldradio",
      "note": "Tomorrowland",
      "mine": true
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst in mehreren Städten, Preis vorab sehen",
+     "ess": true,
+     "src": "https://www.bento.travel/belgium"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Bekannter Fahrdienst, Preis mit Bolt vergleichen",
+     "ess": true,
+     "src": "https://www.bento.travel/belgium"
+    },
+    {
+     "name": "Takeaway.com",
+     "cat": "delivery",
+     "pkg": "com.takeaway.android",
+     "note": "Großes Angebot an Restaurants und Lebensmitteln",
+     "ess": true,
+     "src": "https://www.bento.travel/belgium/food-delivery"
+    },
+    {
+     "name": "Deliveroo",
+     "cat": "delivery",
+     "pkg": "com.deliveroo.orderapp",
+     "note": "Essen und Einkäufe in über 25 Städten, keine Barzahlung",
+     "src": "https://www.bento.travel/belgium/food-delivery"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Lieferung von Restaurants in größeren Städten",
+     "src": "https://www.bento.travel/belgium/food-delivery"
+    },
+    {
+     "name": "SNCB/NMBS",
+     "cat": "rail",
+     "pkg": "be.sncbnmbs.b2cmobapp",
+     "note": "Offizielle Bahn App für Verbindungen und Tickets",
+     "ess": true,
+     "src": "https://www.bento.travel/belgium"
+    },
+    {
+     "name": "TEC",
+     "cat": "transit",
+     "pkg": "be.otw.tecmobile",
+     "note": "Bus und Tram in der Wallonie, Fahrplan und Tickets",
+     "src": "https://www.bento.travel/belgium"
+    },
+    {
+     "name": "112 BE",
+     "cat": "safety",
+     "pkg": "be.Nextel.EmergencyApp112",
+     "note": "Offizielle Notruf App, sendet den Standort mit",
+     "ess": true,
+     "use": "limited",
+     "req": "Vorab einrichten, Standortzugriff nötig, nur in Belgien",
+     "src": "https://www.bento.travel/belgium"
+    },
+    {
+     "name": "Cambio",
+     "cat": "carshare",
+     "pkg": "de.cambio.app",
+     "note": "Stationsbasiertes Carsharing, Öffnen per App",
+     "use": "limited",
+     "req": "Aktivierungsgebühr 35 Euro und Monatsabo, Führerschein nötig",
+     "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+    },
+    {
+     "name": "Dott",
+     "cat": "micro",
+     "pkg": "com.ridedott.rider",
+     "note": "E-Scooter und E-Bikes, Leih-E-Scooter in Brüssel nur bis Ende 2026",
+     "use": "limited",
+     "req": "Ab 18 Jahren, Kreditkarte auf eigenen Namen",
+     "src": "https://governance.brussels/en/dossiers/mobilite-partagee"
+    },
+    {
+     "name": "Blue-bike",
+     "cat": "micro",
+     "pkg": "be.bluebike.rider",
+     "note": "Leihräder an über 130 Bahnhöfen im ganzen Land",
+     "use": "limited",
+     "req": "Abo mit monatlicher Abbuchung per Lastschrift nötig",
+     "src": "https://www.belgiantrain.be/en/station-information/car-or-bike-at-station/rent-a-bike-at-the-station"
+    },
+    {
+     "name": "4411",
+     "cat": "parking",
+     "note": "Parken an der Straße per App oder SMS in über 200 Orten",
+     "use": "limited",
+     "req": "Konto mit Monatsabrechnung nötig, SMS nur mit bestimmten Mobilfunkverträgen",
+     "src": "https://support.4411.be/hc/en-be/articles/9856866128028-How-does-parking-with-4411-work"
+    },
+    {
+     "name": "KBC Brussels Mobile",
+     "cat": "payment",
+     "note": "Bank App mit Parken, Tickets und Leihrädern",
+     "use": "no",
+     "req": "Nur für Kunden der KBC Brussels mit belgischem Konto",
+     "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
     }
    ],
-   "cities": []
+   "cities": [
+    {
+     "name": "Antwerpen",
+     "match": [
+      "Antwerp",
+      "Antwerpen"
+     ],
+     "apps": [
+      {
+       "name": "Velo Antwerpen",
+       "cat": "micro",
+       "note": "Leihräder an über 300 Stationen, Tages und Wochenpass",
+       "src": "https://apps.apple.com/de/app/velo-antwerpen/id534476508?l=en-GB"
+      }
+     ]
+    },
+    {
+     "name": "Brüssel",
+     "match": [
+      "Brussels",
+      "Brüssel"
+     ],
+     "apps": [
+      {
+       "name": "Taxis Verts",
+       "cat": "taxi",
+       "pkg": "com.taxisverts.booker",
+       "note": "Lizenzierte Brüsseler Taxis, auch vorab buchbar",
+       "src": "https://www.bento.travel/belgium"
+      },
+      {
+       "name": "Victor Cab",
+       "cat": "taxi",
+       "pkg": "nl.intoapps.victorcab",
+       "note": "Taxi per App, Zahlung per App, Karte oder bar",
+       "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+      },
+      {
+       "name": "Collecto",
+       "cat": "taxi",
+       "pkg": "be.tradecom.collecto",
+       "note": "Geteiltes Nachttaxi ab festen Punkten, 6 Euro pro Person",
+       "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+      },
+      {
+       "name": "STIB-MIVB",
+       "cat": "transit",
+       "pkg": "be.stib.mivb.mobile",
+       "note": "Metro, Tram und Bus in Brüssel mit Live Abfahrten",
+       "src": "https://www.bento.travel/belgium"
+      },
+      {
+       "name": "Floya",
+       "cat": "transit",
+       "pkg": "brussels.stib_mivb.floya",
+       "note": "Routen planen und Tickets für Tram, Bus, Bahn und Räder",
+       "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+      },
+      {
+       "name": "Poppy",
+       "cat": "carshare",
+       "pkg": "com.gopoppy.app",
+       "note": "Free Floating Autos und Transporter, Abrechnung pro Minute",
+       "use": "limited",
+       "req": "Registrierung mit Führerschein nötig",
+       "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+      },
+      {
+       "name": "Getaround",
+       "cat": "carshare",
+       "note": "Autos und Transporter von Privatleuten mieten",
+       "use": "limited",
+       "req": "Registrierung mit Führerschein nötig",
+       "src": "https://be.brussels/en/transport-mobility/public-transport/shared-mobility-and-taxis/cars-and-scooters-sharing"
+      },
+      {
+       "name": "Felyx",
+       "cat": "micro",
+       "pkg": "com.felyx.android",
+       "note": "Elektro Motorroller ohne Station, Helm inklusive",
+       "use": "limited",
+       "req": "Führerschein Klasse B nötig",
+       "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+      },
+      {
+       "name": "Villo!",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.bruxelles",
+       "note": "Leihräder an rund 360 Stationen, Tageskarte möglich",
+       "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+      },
+      {
+       "name": "Brussels Card",
+       "cat": "tourism",
+       "pkg": "be.brusselscard.app",
+       "note": "Stadtpass kaufen, Museen per QR Code, Offline Karte",
+       "src": "https://www.visit.brussels/en/visitors/what-to-do/brussels-card/brussels-card-app"
+      },
+      {
+       "name": "parking.brussels",
+       "cat": "parking",
+       "note": "Führt zu freien Tiefgaragen in Brüssel",
+       "src": "https://cirbportal.irisnet.be/news-244-be-smart-with-the-parkingbrussels-app"
+      }
+     ]
+    },
+    {
+     "name": "Gent",
+     "match": [
+      "Gent",
+      "Ghent"
+     ],
+     "apps": [
+      {
+       "name": "Donkey Republic",
+       "cat": "micro",
+       "note": "Orange Leihräder rund um die Uhr, Öffnen per Bluetooth",
+       "src": "https://www.visit.gent.be/en/see-do/donkey-republic"
+      }
+     ]
+    },
+    {
+     "name": "Liège",
+     "match": [
+      "Liège"
+     ],
+     "apps": [
+      {
+       "name": "TEC",
+       "cat": "transit",
+       "pkg": "be.otw.tecmobile",
+       "note": "Empfohlen für Tram und Bustickets in Lüttich",
+       "src": "https://www.visitezliege.be/en/page/circuler-liege"
+      },
+      {
+       "name": "Liège walks",
+       "cat": "tourism",
+       "note": "Geführte Stadtrundgänge zu Fuß durch Lüttich",
+       "src": "https://www.visitezliege.be/en/page/circuler-liege"
+      }
+     ]
+    }
+   ],
+   "note": "Seit Juli 2026 braucht man im Zug schon vor dem Einsteigen ein gültiges Ticket, am einfachsten über die SNCB/NMBS App.",
+   "src": "https://www.bento.travel/belgium",
+   "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTIQ Reisende, die Akzeptanz ist vor allem in den Großstädten hoch.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/belgien-node/belgiensicherheit-200382",
+   "checked": "2026-11-18"
   },
   {
    "code": "LU",
@@ -3131,19 +3727,24 @@
      "name": "mobiliteit.lu",
      "cat": "transit",
      "pkg": "de.hafas.android.cdt",
-     "mine": true
+     "mine": true,
+     "ess": true
     },
     {
      "name": "Goosty",
      "cat": "taxi",
      "pkg": "com.customer.goosty",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Laut Quelle eingestellt"
     },
     {
      "name": "FLEX",
      "cat": "carshare",
      "pkg": "com.mobilityinternational.classic.client103",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "In Luxemburg gültiger Führerschein, Ausweis und Visa oder Mastercard nötig"
     },
     {
      "name": "Takeaway",
@@ -3161,22 +3762,78 @@
      "name": "UFODRIVE",
      "cat": "carshare",
      "pkg": "com.ufodrive.app",
-     "mine": true
+     "mine": true,
+     "use": "limited",
+     "req": "Buchung und Fahrzeugzugang nur über die App"
     },
     {
      "name": "CFL mobile",
      "cat": "rail",
      "pkg": "de.hafas.android.cfl",
-     "mine": true
+     "mine": true,
+     "use": "no",
+     "req": "Laut Quelle eingestellt"
     },
     {
      "name": "LetzRide",
      "cat": "taxi",
      "pkg": "com.letzride",
      "mine": true
+    },
+    {
+     "name": "CFL go",
+     "cat": "rail",
+     "note": "Neue CFL-App mit Echtzeit, Tickets für 1. Klasse und Ausland",
+     "src": "https://blogcfl.lu/?p=24594"
+    },
+    {
+     "name": "CFL International",
+     "cat": "rail",
+     "pkg": "com.cflint",
+     "note": "Zugtickets in Nachbarländer und weiter durch Europa",
+     "src": "https://blogcfl.lu/en/simply-explained/cfl-applications"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrten über lizenzierte lokale Partner, rund um die Uhr",
+     "src": "https://www.uber.com/global/en/r/cities/luxembourg-lu-lu/"
+    },
+    {
+     "name": "WEBTAXI",
+     "cat": "taxi",
+     "note": "Taxi bestellen bei großem landesweitem Netz von Emile Weber",
+     "src": "https://www.justarrived.lu/en/informations-thematiques/mobility-luxembourg/travel-by-taxi"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "note": "Essen und Läden liefern lassen, fast im ganzen Land",
+     "src": "https://press.wolt.com/en-LU/265847-wolt-expands-into-the-echternach-and-the-moselle-region-now-covering-nearly-the-entire-country/"
+    },
+    {
+     "name": "VisitLuxembourg",
+     "cat": "tourism",
+     "pkg": "com.visitluxembourg.app",
+     "note": "Offizielle Reise-App, verkauft auch den LuxembourgPass",
+     "src": "https://visitluxembourg.com/plan-your-stay/visitluxembourg-app"
     }
    ],
    "cities": [
+    {
+     "name": "Esch-sur-Alzette",
+     "match": [
+      "Esch-sur-Alzette"
+     ],
+     "apps": [
+      {
+       "name": "Esch",
+       "cat": "tourism",
+       "note": "Stadt-App mit Bussen, Vël'Ok-Stationen und Parkplätzen",
+       "src": "https://apps.apple.com/us/app/id601306163"
+      }
+     ]
+    },
     {
      "name": "Luxemburg-Stadt",
      "match": [
@@ -3189,10 +3846,33 @@
        "cat": "tourism",
        "pkg": "lu.vdl",
        "mine": true
+      },
+      {
+       "name": "Indigo Neo",
+       "cat": "parking",
+       "pkg": "com.opngo.live",
+       "note": "Straßenparken in der Hauptstadt per Handy bezahlen",
+       "use": "limited",
+       "req": "Kostenlose Registrierung in der App nötig",
+       "src": "https://vdl.lu/en/node/166565"
+      },
+      {
+       "name": "vel'OH! official",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.luxembourg",
+       "note": "Leihräder der Stadt, Tagespass 2 Euro, drei Tage 5 Euro",
+       "use": "limited",
+       "req": "Konto auf myveloh.lu und Pass nötig",
+       "src": "https://www.vdl.lu/en/node/69640"
       }
      ]
     }
-   ]
+   ],
+   "note": "Bus, Tram und Zug in der 2. Klasse sind landesweit gratis, ein Ticket braucht man nur für die 1. Klasse und grenzüberschreitende Fahrten.",
+   "src": "https://www.mobiliteit.lu/en/profiles/tourists/",
+   "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTQ+ Reisende, die gesellschaftliche Akzeptanz ist gut.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/luxemburg-node/luxemburgsicherheit-211256",
+   "checked": "2026-11-18"
   },
   {
    "code": "PL",
