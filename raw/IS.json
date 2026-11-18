@@ -1,0 +1,209 @@
+{
+ "src": "https://www.bento.travel/iceland",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Vor jeder Fahrt die Straßenkarte von Umferdin, SafeTravel und die Wetterwarnungen prüfen, Google Maps zeigt Sperrungen nicht verlässlich.",
+ "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen und sieht keine besonderen Schwierigkeiten für LGBTIQ Reisende.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/island-node/islandsicherheit/223400",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Hreyfill",
+   "cat": "taxi",
+   "pkg": "is.hreyfill.app",
+   "ess": true,
+   "note": "Lizenzierte Taxis, auch Fahrten zum Flughafen",
+   "city": "Reykjavik",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "Hopp",
+   "cat": "taxi",
+   "pkg": "bike.hopp",
+   "ess": false,
+   "note": "Taxis in der Hauptstadtregion buchen, dazu E-Scooter",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in Reykjavík und Umgebung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "Aha",
+   "cat": "delivery",
+   "pkg": "is.aha.maron.veitingar",
+   "ess": false,
+   "note": "Kleinerer isländischer Lieferdienst im Südwesten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "Parka",
+   "cat": "parking",
+   "pkg": "is.parka.parka",
+   "ess": true,
+   "note": "Parken und Naturstätten per Kennzeichen bezahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "net.easypark.android",
+   "ess": false,
+   "note": "Parkzonen und Parkhäuser in Reykjavík bezahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "SafeTravel",
+   "cat": "safety",
+   "pkg": "is.stokkur.safeTravel",
+   "ess": true,
+   "note": "Warnungen, Straßenlage und Standort für Rettungsdienste",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "Veður",
+   "cat": "safety",
+   "pkg": "is.stokkur.zidane.android",
+   "ess": true,
+   "note": "Wetterprognosen und Warnungen des Wetterdienstes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "112 Iceland",
+   "cat": "safety",
+   "pkg": "com.neydarlinan",
+   "ess": false,
+   "note": "Offizielle Notruf-App, auch per Text mit Standort",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/iceland"
+  },
+  {
+   "name": "Klappið",
+   "cat": "transit",
+   "pkg": "is.klappid",
+   "ess": false,
+   "note": "Strætó Busse Linien 1 bis 36, digitale Tickets",
+   "city": "Reykjavik",
+   "use": "ok",
+   "req": "",
+   "src": "https://straeto.is/en/user-information/ticketing-information"
+  },
+  {
+   "name": "Hopp",
+   "cat": "micro",
+   "pkg": "bike.hopp",
+   "ess": false,
+   "note": "E-Scooter und Carsharing in der Hauptstadtregion",
+   "city": "Reykjavik",
+   "use": "limited",
+   "req": "Carsharing nur mit in der App geprüftem Führerschein, nicht außerhalb der Hauptstadtregion",
+   "src": "https://hopp.bike/in/reykjavik"
+  },
+  {
+   "name": "Zolo",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter per Minute in Reykjavík mieten",
+   "city": "Reykjavik",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.lonelyplanet.com/articles/getting-around-reykjavik"
+  },
+  {
+   "name": "Bolt",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter Verleih in Reykjavík",
+   "city": "Reykjavik",
+   "use": "ok",
+   "req": "",
+   "src": "https://reykjavik.is/en/news/2025/procedures-dockless-bike-and-micromobility-rental-operations"
+  },
+  {
+   "name": "Zipcar Iceland",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing mit festen Stationen in Reykjavík",
+   "city": "Reykjavik",
+   "use": "limited",
+   "req": "Führerschein hochladen, Freischaltung per E-Mail bis zu 24 Stunden, App vorwiegend auf Isländisch",
+   "src": "https://apps.apple.com/us/app/zipcar-iceland/id1266042474"
+  },
+  {
+   "name": "Hopp",
+   "cat": "micro",
+   "pkg": "bike.hopp",
+   "ess": false,
+   "note": "E-Scooter in der Innenstadt von Akureyri",
+   "city": "Akureyri",
+   "use": "ok",
+   "req": "",
+   "src": "https://visiticeland.com/article/akureyri-local-transport"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "net.easypark.android",
+   "ess": false,
+   "note": "Parken in der Innenstadt von Akureyri per App",
+   "city": "Akureyri",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.akureyri.is/en/services/transportation/parking"
+  },
+  {
+   "name": "AuroraReach",
+   "cat": "tourism",
+   "pkg": "com.aurorareach.app",
+   "ess": false,
+   "note": "Polarlicht Prognose und Warnungen für viele Orte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1576251657"
+  },
+  {
+   "name": "hello aurora",
+   "cat": "tourism",
+   "pkg": "com.helloaurora",
+   "ess": false,
+   "note": "Polarlicht Prognosen, Alarme und Community Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.helloaurora"
+  }
+ ]
+}

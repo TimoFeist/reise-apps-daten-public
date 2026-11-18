@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "SE",
-"en": "Sweden",
-"slug": "sweden"
-},
-{
-"code": "FI",
-"en": "Finland",
-"slug": "finland"
-},
-{
-"code": "IS",
-"en": "Iceland",
-"slug": "iceland"
-},
-{
-"code": "IE",
-"en": "Ireland",
-"slug": "ireland"
-},
-{
 "code": "PL",
 "en": "Poland",
 "slug": "poland"
@@ -262,6 +242,26 @@
 "code": "NO",
 "en": "Norway",
 "slug": "norway"
+},
+{
+"code": "SE",
+"en": "Sweden",
+"slug": "sweden"
+},
+{
+"code": "FI",
+"en": "Finland",
+"slug": "finland"
+},
+{
+"code": "IS",
+"en": "Iceland",
+"slug": "iceland"
+},
+{
+"code": "IE",
+"en": "Ireland",
+"slug": "ireland"
 }
 ]
 }
