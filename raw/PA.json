@@ -1,0 +1,154 @@
+{
+ "src": "https://bento.travel/panama",
+ "fetched": "2026-11-18",
+ "updated": "Last updated: August 2026",
+ "note": "Kleine US-Dollar-Scheine und eine Ersatzkarte mitnehmen, Busse, Taxis und Märkte brauchen oft Bargeld.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die gesellschaftliche Akzeptanz ist aber gering, besonders auf dem Land.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/panama-node/panamasicherheit-206378",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Zollerklärung online",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Pflicht bei Bargeld oder Waren über 10.000 USD",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/panama-node/panamasicherheit-206378"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/panama-node/panamasicherheit-206378"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Erste Wahl für Fahrten in Panama-Stadt und David",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/panama"
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "ess": false,
+   "note": "Alternative zu Uber, offiziell nur in Panama-Stadt",
+   "city": "Panama City",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/panama"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auch im Landesinneren, Berichte über Sicherheitsmängel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-panama"
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Größter Lieferdienst für Essen und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/panama/food-delivery"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": false,
+   "note": "Lieferung als Ersatz, nutzt das Uber Konto",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/panama/food-delivery"
+  },
+  {
+   "name": "Degusta",
+   "cat": "delivery",
+   "pkg": "com.codealis.degusta.android",
+   "ess": true,
+   "note": "Restaurantführer mit Speisekarten, Bewertungen, Tischbuchung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/panama"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Navigation mit Live-Verkehr und Gefahrenmeldungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/panama"
+  },
+  {
+   "name": "Rentcars",
+   "cat": "carshare",
+   "pkg": "com.rentcars.rentcarscom",
+   "ess": false,
+   "note": "Mietwagen vergleichen, auch Tocumen und David",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein nötig, deutscher gilt bis 90 Tage Aufenthalt",
+   "src": "https://www.rentcars.com/es/rentadora/avis/panama"
+  },
+  {
+   "name": "A2-20",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben und Fahrten der Metro- und Buskarte prüfen",
+   "city": "Panama City",
+   "use": "limited",
+   "req": "Aufladen in der App nur per Yappy möglich",
+   "src": "https://www.telemetro.com/nacionales/nueva-aplicacion-a2-20-consulta-el-saldo-y-recarga-tu-tarjeta-del-metro-y-metrobus-n6091339"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Linien und Fahrpläne von Metro und MiBus",
+   "city": "Panama City",
+   "use": "ok",
+   "req": "",
+   "src": "https://moovitapp.com/index/en/public_transit-lines-Panam%C3%A1-4674-994958"
+  },
+  {
+   "name": "Visit Canal de Panamá",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Webseite für Tickets Miraflores und Agua Clara",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlung nur per Kreditkarte",
+   "src": "https://pancanal.com/en/discover-the-panama-canal-in-an-easier-and-faster-way/"
+  }
+ ]
+}

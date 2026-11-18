@@ -1,0 +1,176 @@
+{
+ "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico",
+ "fetched": "2026-11-18",
+ "updated": "October 7, 2026",
+ "note": "Karten werden fast überall akzeptiert, kleine Händler nehmen aber teils nur Bargeld oder ATH Móvil.",
+ "lgbtq_note": "Die gleichgeschlechtliche Ehe ist wie im übrigen US-Gebiet legal, gleichgeschlechtliche Paare dürfen adoptieren.",
+ "lgbtq_src": "https://equallywed.com/?p=44767",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "ESTA Mobile",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle CBP App für den ESTA Antrag vor dem Flug",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/usa-node/usavereinigtestaatensicherheit-201382"
+  },
+  {
+   "name": "FEMA",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "US Warnungen bei Hurrikans und anderen Naturgefahren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/usa-node/usavereinigtestaatensicherheit-201382"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Wichtigste Fahrdienst App, am besten rund um San Juan",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico"
+  },
+  {
+   "name": "Lyft",
+   "cat": "taxi",
+   "pkg": "me.lyft.android",
+   "ess": false,
+   "note": "Ausweichoption zu Uber in San Juan und am Flughafen",
+   "city": "",
+   "use": "limited",
+   "req": "Neue Konten nur mit Nummer aus USA, Kanada oder Puerto Rico",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": false,
+   "note": "Stärkster Lieferdienst, Abdeckung je nach Adresse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/compare/puerto-rico/uber-eats-pr-vs-doordash-pr"
+  },
+  {
+   "name": "DoorDash",
+   "cat": "delivery",
+   "pkg": "com.dd.doordash",
+   "ess": false,
+   "note": "Zweiter Lieferdienst in San Juan und weiteren Orten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/compare/puerto-rico/uber-eats-pr-vs-doordash-pr"
+  },
+  {
+   "name": "Uva",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Lieferdienst, App eher schwach bewertet",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/compare/puerto-rico/uber-eats-pr-vs-doordash-pr"
+  },
+  {
+   "name": "ATH Móvil",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete lokale Bezahl App bei kleinen Händlern",
+   "city": "",
+   "use": "no",
+   "req": "ATH Debitkarte einer lokalen Bank nötig",
+   "src": "https://www.bento.travel/blog/how-to-pay-in-puerto-rico"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Live Verkehr und Gefahren beim Autofahren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/puerto-rico/intercity-transport"
+  },
+  {
+   "name": "Transit",
+   "cat": "transit",
+   "pkg": "com.thetransitapp.droid",
+   "ess": false,
+   "note": "Von ATI unterstützt, Tren Urbano und Stadtbusse",
+   "city": "San Juan",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/puerto-rico/intercity-transport"
+  },
+  {
+   "name": "City Experiences",
+   "cat": "rail",
+   "pkg": "com.hornblower.hornblower",
+   "ess": true,
+   "note": "Offizielle Fähr App Ceiba, Vieques und Culebra",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.puertoricoferry.com/en/faq/"
+  },
+  {
+   "name": "Turo",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Privates Carsharing, seit 2025 offiziell zugelassen",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter, Führerscheinprüfung und Kreditkarte nötig",
+   "src": "https://www.elnuevodia.com/english/business/notas/car-sharing-platform-turo-now-authorized-to-operate-in-puerto-rico"
+  },
+  {
+   "name": "Skootel",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih E-Scooter per QR Code, auch Karte als Zahlung",
+   "city": "San Juan",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/skootel-scooter-sharing/id6615074657"
+  },
+  {
+   "name": "ParkMobile",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken per App im Distrito T-Mobile",
+   "city": "San Juan",
+   "use": "ok",
+   "req": "",
+   "src": "https://parkmobile.io/about-us/newsroom/articles/parkmobile-expands-its-presence-to-puerto-rico-and-launches-at-distrito-t-mobile-offering-contactles"
+  }
+ ]
+}

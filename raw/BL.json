@@ -1,0 +1,99 @@
+{
+ "src": "https://www.saintbarth-tourisme.com/travel",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Bei Zwischenstopp auf nicht französischen Inseln wie Sint Maarten ist ein mindestens sechs Monate gültiger Reisepass nötig.",
+ "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+  },
+  {
+   "name": "FR-Alert",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Französische Warnmeldungen aufs Handy im Gefahrengebiet",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+  },
+  {
+   "name": "Fly SBC",
+   "cat": "flights",
+   "pkg": "",
+   "ess": true,
+   "note": "Flüge von St Barth Commuter buchen und Buchungen ansehen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/dk/app/fly-sbc/id6449741481"
+  },
+  {
+   "name": "Voyager",
+   "cat": "rail",
+   "pkg": "",
+   "ess": true,
+   "note": "Fähre nach Saint Martin, Buchung über die Website",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.saintbarth-tourisme.com/travel"
+  },
+  {
+   "name": "Great Bay Express",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähre zwischen Sint Maarten und Gustavia, Website",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.saintbarth-tourisme.com/travel"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen, in der Hochsaison früh buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Kreditkarte auf eigenen Namen und Führerschein nötig",
+   "src": "https://www.saintbarth-tourisme.com/travel"
+  },
+  {
+   "name": "DeliBarth",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": true,
+   "note": "Essen und Lebensmittel von Inselrestaurants liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/bz/app/delibarth/id1626081071"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auf der Insel nicht aktiv, Taxis nur per Telefon",
+   "city": "",
+   "use": "no",
+   "req": "Auf Saint-Barthélemy nicht verfügbar",
+   "src": "https://gustaviaharbor.com/?p=12019"
+  }
+ ]
+}

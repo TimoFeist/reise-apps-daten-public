@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "PA",
-   "en": "Panama",
-   "slug": "panama"
-  },
-  {
-   "code": "PR",
-   "en": "Puerto Rico",
-   "slug": "puerto-rico"
-  },
-  {
-   "code": "BL",
-   "en": "Saint Barthélemy",
-   "slug": "saint-barth-lemy"
-  },
-  {
-   "code": "KN",
-   "en": "Saint Kitts and Nevis",
-   "slug": "saint-kitts-and-nevis"
-  },
-  {
    "code": "LC",
    "en": "Saint Lucia",
    "slug": "saint-lucia"
@@ -207,6 +187,26 @@
    "code": "NI",
    "en": "Nicaragua",
    "slug": "nicaragua"
+  },
+  {
+   "code": "PA",
+   "en": "Panama",
+   "slug": "panama"
+  },
+  {
+   "code": "PR",
+   "en": "Puerto Rico",
+   "slug": "puerto-rico"
+  },
+  {
+   "code": "BL",
+   "en": "Saint Barthélemy",
+   "slug": "saint-barth-lemy"
+  },
+  {
+   "code": "KN",
+   "en": "Saint Kitts and Nevis",
+   "slug": "saint-kitts-and-nevis"
   }
  ]
 }
