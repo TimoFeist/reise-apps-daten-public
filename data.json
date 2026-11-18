@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-17 23:58",
+ "version": "2026-11-18 00:01",
  "categories": [
   {
    "id": "entry",
@@ -10520,6 +10520,148 @@
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1990 legal, die Ehe ist Mann und Frau vorbehalten und es gibt kaum Diskriminierungsschutz.",
    "lgbtq_src": "https://www.equaldex.com/region/asunción",
    "checked": "2026-11-17"
+  },
+  {
+   "code": "FM",
+   "name": "Mikronesien, Föderierte Staaten von",
+   "flag": "🇫🇲",
+   "apps": [
+    {
+     "name": "United Airlines",
+     "cat": "flights",
+     "pkg": "com.united.mobile.android",
+     "note": "Buchung, Check in und Bordkarte für den Island Hopper",
+     "ess": true,
+     "src": "https://www.appbrain.com/app/united-airlines/com.united.mobile.android"
+    },
+    {
+     "name": "BFSM",
+     "cat": "payment",
+     "pkg": "com.malauzai.DH12001",
+     "note": "Mobile Banking der Bank of the FSM für Kontoinhaber",
+     "use": "no",
+     "req": "Nur mit Konto bei der Bank of the FSM",
+     "src": "https://play.google.com/store/apps/details?id=com.malauzai.DH12001&hl=en_US"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Yap",
+     "match": [
+      "Yap"
+     ],
+     "apps": [
+      {
+       "name": "Mogethin Yap",
+       "cat": "tourism",
+       "note": "Inselinfos zu Wetter, Taifunen, Fischen und Vögeln auf Yap",
+       "src": "https://apps.apple.com/us/app/-/id6746702146"
+      }
+     ]
+    }
+   ],
+   "note": "Kein Visum bis 90 Tage, Pass 120 Tage über den Aufenthalt hinaus gültig, Rückflugticket zeigen, kein Roaming, lokale SIM kaufen.",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
+   "lgbtq_note": "Gleichgeschlechtliche Beziehungen unter Erwachsenen sind straffrei und Diskriminierung ist verboten, die gesellschaftliche Akzeptanz ist aber gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "KI",
+   "name": "Kiribati",
+   "flag": "🇰🇮",
+   "apps": [
+    {
+     "name": "Fiji Airways",
+     "cat": "flights",
+     "pkg": "com.tvptdigital.fijiairways",
+     "note": "Buchung, Check in und Status für Flüge Nadi nach Tarawa",
+     "ess": true,
+     "src": "https://appgoblin.info/apps/com.tvptdigital.fijiairways"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364"
+    },
+    {
+     "name": "SunSmart",
+     "cat": "safety",
+     "note": "UV Index der WHO als Hilfe zum Sonnenschutz",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364"
+    },
+    {
+     "name": "MAPS.ME",
+     "cat": "maps",
+     "pkg": "com.mapswithme.maps.pro",
+     "note": "Offline Karten für South Tarawa und Kiritimati",
+     "ess": true,
+     "src": "https://www.milehacker.com/travel/kiribati/kiribati-travel-resources-apps-maps-emergency-cont/"
+    },
+    {
+     "name": "ANZ Pacific",
+     "cat": "payment",
+     "pkg": "com.anz.anzpacific",
+     "note": "Mobile Banking der ANZ Bank Kiribati",
+     "use": "no",
+     "req": "Nur mit ANZ Konto und Internet Banking Zugang in Kiribati",
+     "src": "https://apps.apple.com/au/app/anz-pacific/id1316832499"
+    }
+   ],
+   "cities": [],
+   "note": "Visumfrei bis 90 Tage mit Reisepass, der bei Ausreise 6 Monate gilt, Karten selten akzeptiert, genug AUD bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle von Strafverfolgung bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MH",
+   "name": "Marshallinseln",
+   "flag": "🇲🇭",
+   "apps": [
+    {
+     "name": "United Airlines",
+     "cat": "flights",
+     "pkg": "com.united.mobile.android",
+     "note": "Buchung und Check in für den Island Hopper nach Majuro",
+     "ess": true,
+     "src": "https://www.infomarshallislands.com/united-airlines/"
+    },
+    {
+     "name": "MyNTA",
+     "cat": "misc",
+     "note": "NTA Konto verwalten, Guthaben aufladen, Verbrauch prüfen",
+     "use": "limited",
+     "req": "Nur mit SIM bzw. Konto der NTA sinnvoll",
+     "src": "https://apps.apple.com/us/app/mynta/id1235519526"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Majuro",
+     "match": [
+      "Majuro"
+     ],
+     "apps": [
+      {
+       "name": "Wiahut",
+       "cat": "delivery",
+       "note": "Lieferung von Essen und Waren aus Läden in Majuro",
+       "use": "limited",
+       "req": "Nur Gebiet Rita bis Flughafen, Bezahlweg und Konto unklar",
+       "src": "https://marshallislandsjournal.com/meals-and-more-on-wheels/"
+      }
+     ]
+    }
+   ],
+   "note": "Kein Visum nötig, aber Reisepass 6 Monate über den Aufenthalt gültig und Rückflugticket; ab 30 Tagen Aufenthalt HIV-Test Pflicht.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht verboten, Ehe und Lebenspartnerschaft werden aber nicht anerkannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
+   "checked": "2026-11-18"
   }
  ]
 }
