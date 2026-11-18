@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 15:06",
+ "version": "2026-11-18 15:11",
  "categories": [
   {
    "id": "entry",
@@ -388,7 +388,27 @@
      "cat": "lgbtq",
      "mine": true,
      "where": "all",
-     "note": "Gay Travel Guide mit Bars, Hotels, Events"
+     "note": "Gay Travel Guide mit Bars, Hotels, Saunas und Events. Android-App nicht mehr im Play Store, die Webseite läuft weiter. Einträge teils im Abo",
+     "url": "https://spartacus.gayguide.travel",
+     "nostore": true,
+     "src": "https://apps.apple.com/app/id455453658"
+    },
+    {
+     "name": "Everywhere Is Queer",
+     "pkg": "com.everywhereisqueer.app",
+     "cat": "lgbtq",
+     "where": "all",
+     "note": "Weltweite Karte mit LGBTQ+-geführten und queerfreundlichen Orten, kostenlos",
+     "src": "https://everywhereisqueer.com/about",
+     "url": "https://everywhereisqueer.com"
+    },
+    {
+     "name": "QList",
+     "pkg": "app.qlist",
+     "cat": "lgbtq",
+     "where": "all",
+     "note": "LGBTQ+-Bars, Clubs und Treffpunkte weltweit, kostenlos",
+     "src": "https://apps.apple.com/us/app/qlist-lgbtq-map-guide/id1555540007"
     }
    ],
    "cities": []
