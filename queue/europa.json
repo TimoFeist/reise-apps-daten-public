@@ -2,27 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "PT",
-"en": "Portugal",
-"slug": "portugal",
-"recheck": true
-},
-{
-"code": "DE",
-"en": "Germany",
-"slug": "germany"
-},
-{
-"code": "AT",
-"en": "Austria",
-"slug": "austria"
-},
-{
-"code": "CH",
-"en": "Switzerland",
-"slug": "switzerland"
-},
-{
 "code": "NL",
 "en": "Netherlands",
 "slug": "netherlands"
@@ -262,6 +241,27 @@
 "en": "Italy",
 "slug": "italy",
 "recheck": true
+},
+{
+"code": "PT",
+"en": "Portugal",
+"slug": "portugal",
+"recheck": true
+},
+{
+"code": "DE",
+"en": "Germany",
+"slug": "germany"
+},
+{
+"code": "AT",
+"en": "Austria",
+"slug": "austria"
+},
+{
+"code": "CH",
+"en": "Switzerland",
+"slug": "switzerland"
 }
 ]
 }
