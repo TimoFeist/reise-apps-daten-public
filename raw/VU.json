@@ -1,0 +1,154 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Kein Visum bis 90 Tage, Pass 6 Monate gültig. Taxis haben kein Taxameter, Preis vorher aushandeln und Bargeld in Vatu dabeihaben.",
+ "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt nicht strafbar, Partnerschaften werden aber nicht anerkannt und es gibt keinen Diskriminierungsschutz.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste der deutschen Auslandsvertretungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498"
+  },
+  {
+   "name": "VMGD",
+   "cat": "safety",
+   "pkg": "com.cubit.weather.prod",
+   "ess": true,
+   "note": "Offizielle Wetter-, Zyklon- und Vulkanwarnungen, offline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.vmgd.gov.vu/policies/privacy-policy"
+  },
+  {
+   "name": "Vanuatu Travel",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Tourismusamt mit Tipps zu Bus, Taxi und Fähren, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.vanuatu.travel/things-to-know/travel-tips/using-local-transport"
+  },
+  {
+   "name": "Air Vanuatu",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Nationale Airline, derzeit nur Inlandsflüge ab Port Vila",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.ch-aviation.com/news/170482-air-vanuatu-eyes-domestic-route-resumptions-by-4q26"
+  },
+  {
+   "name": "Air Taxi Vanuatu",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Charter- und Vulkanflüge ab Port Vila, Buchung per Webseite",
+   "city": "Port Vila",
+   "use": "ok",
+   "req": "",
+   "src": "https://vanuatu.travel/au/air-taxi-vanuatu"
+  },
+  {
+   "name": "Aelan Express",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähre Port Vila nach Malekula und Santo, online buchbar",
+   "city": "",
+   "use": "ok",
+   "req": "Zahlung online per Visa-Karte",
+   "src": "https://vbr.vu/news/mv-blue-wota-resumes-inter-island-service-after-upgrades/"
+  },
+  {
+   "name": "Vanuatu Ferry",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Inselfähren mit Onlinebuchung, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.vanuatu.travel/au/practical-information/getting-around-vanuatu/ferries"
+  },
+  {
+   "name": "Budget Rent A Car",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen, Zahlung auch per MyCash-QR, keine App belegt",
+   "city": "",
+   "use": "ok",
+   "req": "Gültiger Führerschein nötig",
+   "src": "https://digicelpacific.com/news/budget-car-rentals-taps-digicel-vanuatu-mycash-for-convenient-rental-payments"
+  },
+  {
+   "name": "Maua",
+   "cat": "shopping",
+   "pkg": "",
+   "ess": false,
+   "note": "Onlineshop lokaler Händler mit Lieferung, auch Essen",
+   "city": "Port Vila",
+   "use": "ok",
+   "req": "",
+   "src": "https://vbr.vu/profile/the-maua-app/"
+  },
+  {
+   "name": "MyCash Digicel",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Digicel-Geldbörse für QR-Zahlungen und Überweisungen",
+   "city": "",
+   "use": "limited",
+   "req": "Digicel-Vanuatu-SIM und Registrierung nötig",
+   "src": "https://www.digicelpacific.com/mobile/vu/promotions/learn-more-about_mycash"
+  },
+  {
+   "name": "M-VATU",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse von Vodafone Vanuatu mit QR-Zahlung",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung im Vodafone-Shop mit Reisepass und lokaler Nummer",
+   "src": "https://www.tvl.vu/pages/m-vatu"
+  },
+  {
+   "name": "NBV IsiMobile",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Banking der National Bank of Vanuatu",
+   "city": "",
+   "use": "no",
+   "req": "Konto bei der National Bank of Vanuatu nötig",
+   "src": "https://www.nbv.vu/mobile-banking.html"
+  }
+ ]
+}

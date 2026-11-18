@@ -1,27 +1,6 @@
 {
 "continent": "OC",
-"todo": [
-{
-"code": "TV",
-"en": "Tuvalu",
-"slug": "tuvalu"
-},
-{
-"code": "UM",
-"en": "United States Minor Outlying Islands",
-"slug": "united-states-minor-outlying-islands"
-},
-{
-"code": "VU",
-"en": "Vanuatu",
-"slug": "vanuatu"
-},
-{
-"code": "WF",
-"en": "Wallis and Futuna",
-"slug": "wallis-and-futuna"
-}
-],
+"todo": [],
 "done": [
 {
 "code": "AU",
@@ -142,6 +121,26 @@
 "code": "TO",
 "en": "Tonga",
 "slug": "tonga"
+},
+{
+"code": "TV",
+"en": "Tuvalu",
+"slug": "tuvalu"
+},
+{
+"code": "UM",
+"en": "United States Minor Outlying Islands",
+"slug": "united-states-minor-outlying-islands"
+},
+{
+"code": "VU",
+"en": "Vanuatu",
+"slug": "vanuatu"
+},
+{
+"code": "WF",
+"en": "Wallis and Futuna",
+"slug": "wallis-and-futuna"
 }
 ]
 }

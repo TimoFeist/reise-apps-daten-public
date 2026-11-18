@@ -1,0 +1,66 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Visumfrei bis 90 Tage, aber keine Geldautomaten und keine Kartenzahlung, daher genug AUD bar für den ganzen Aufenthalt mitnehmen.",
+ "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind laut Auswärtigem Amt verboten und können mit Haftstrafen belegt werden.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Fiji Airways",
+   "cat": "flights",
+   "pkg": "com.tvptdigital.fijiairways",
+   "ess": true,
+   "note": "Buchung und Check in für die Flüge von Fidschi nach Funafuti",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.tvptdigital.fijiairways"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste der deutschen Auslandsvertretungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666"
+  },
+  {
+   "name": "Tuvalu Meteorological Service",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Wetterberichte und Sturmwarnungen, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://tuvmet.tv/node/3794"
+  },
+  {
+   "name": "Timeless Tuvalu",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Tourismusseite mit Unterkünften und Touren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.timelesstuvalu.com/travel-to-the-tuvalu-islands/"
+  }
+ ]
+}

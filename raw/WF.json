@@ -1,0 +1,77 @@
+{
+ "src": "https://www.wallis-futuna.travel/en/what-to-see-do/useful-information",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Genug Bargeld in Franc CFP mitnehmen, viele Läden nehmen keine Karte. Busse gibt es nicht, Mietwagen oder Roller vorab reservieren.",
+ "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, eigene Hinweise für Wallis und Futuna nennt das Auswärtige Amt nicht.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste, sinnvoll in der Zyklonsaison",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "Aircalin",
+   "cat": "flights",
+   "pkg": "",
+   "ess": true,
+   "note": "Einzige Airline nach Wallis, Flüge ab Nouméa buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.wallis-futuna.travel/en/what-to-see-do/useful-information"
+  },
+  {
+   "name": "Wallis et Futuna Tourisme",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Tourismusseite mit Vermietern, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://wallis-futuna.travel/en/what-to-see-do/transport"
+  },
+  {
+   "name": "Haviti location",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrzeugvermietung auf Wallis mit Schalter am Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "Buchung per Formular, Telefon oder E-Mail",
+   "src": "https://wallis-futuna.travel/en/what-to-see-do/transport/194-haviti-location-en"
+  },
+  {
+   "name": "Banque de Wallis et Futuna",
+   "cat": "payment",
+   "pkg": "net.bnpparibas.mescompteswallisfutuna",
+   "ess": false,
+   "note": "Banking App der einzigen Bank im Gebiet",
+   "city": "",
+   "use": "no",
+   "req": "Nur mit Konto bei der Banque de Wallis et Futuna",
+   "src": "https://appgoblin.info/apps/net.bnpparibas.mescompteswallisfutuna"
+  }
+ ]
+}
