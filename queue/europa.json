@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "BG",
-"en": "Bulgaria",
-"slug": "bulgaria"
-},
-{
-"code": "RS",
-"en": "Serbia",
-"slug": "serbia"
-},
-{
-"code": "ME",
-"en": "Montenegro",
-"slug": "montenegro"
-},
-{
-"code": "AL",
-"en": "Albania",
-"slug": "albania"
-},
-{
 "code": "BA",
 "en": "Bosnia and Herzegovina",
 "slug": "bosnia-and-herzegovina"
@@ -262,6 +242,26 @@
 "code": "RO",
 "en": "Romania",
 "slug": "romania"
+},
+{
+"code": "BG",
+"en": "Bulgaria",
+"slug": "bulgaria"
+},
+{
+"code": "RS",
+"en": "Serbia",
+"slug": "serbia"
+},
+{
+"code": "ME",
+"en": "Montenegro",
+"slug": "montenegro"
+},
+{
+"code": "AL",
+"en": "Albania",
+"slug": "albania"
 }
 ]
 }
