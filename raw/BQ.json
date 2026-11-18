@@ -1,0 +1,77 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; auf Bonaire die Visitor Entry Tax von 75 USD vorab online zahlen.",
+ "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende und keine strafrechtlichen Einschränkungen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Bonaire Visitor Entry Tax",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Einreisesteuer Bonaire online zahlen, QR-Code per Mail",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bonaire.com/en/travel-info/tourist-tax/"
+  },
+  {
+   "name": "STINAPA Nature Fee",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Naturgebühr für Tauchen und Nationalparks online kaufen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bes-reporter.com/news/nature/83585/stinapa-launches-2026-nature-fee-to-support-conservation-efforts-on-bonaire"
+  },
+  {
+   "name": "Zeli",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Taxi buchen und Essen liefern lassen auf Bonaire",
+   "city": "",
+   "use": "limited",
+   "req": "Android nur als APK von der Website, nicht bei Google Play",
+   "src": "https://zeli-bonaire.com/apps"
+  },
+  {
+   "name": "Bonaire Map",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Kostenpflichtige Offline-Karte mit Tauchplätzen und Stränden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://zeli-bonaire.com/apps"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Bonaire per App buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 23 Jahren, Kreditkarte auf eigenen Namen und Reisepass nötig",
+   "src": "https://www.enterprise.com/en/car-rental/locations/bonaire/bonaire-flamingo-international-airport-zf03.html"
+  },
+  {
+   "name": "Bonaire Cruisers",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Audio-Inseltour mit Offline-Karte, nur für iPhone",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/nl/app/id6745404102"
+  }
+ ]
+}

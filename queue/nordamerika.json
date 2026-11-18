@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "BM",
-   "en": "Bermuda",
-   "slug": "bermuda"
-  },
-  {
-   "code": "BQ",
-   "en": "Bonaire, Sint Eustatius and Saba",
-   "slug": "bonaire-sint-eustatius-and-saba"
-  },
-  {
-   "code": "KY",
-   "en": "Cayman Islands",
-   "slug": "cayman-islands"
-  },
-  {
-   "code": "CW",
-   "en": "Curaçao",
-   "slug": "cura-ao"
-  },
-  {
    "code": "DM",
    "en": "Dominica",
    "slug": "dominica"
@@ -207,6 +187,26 @@
    "code": "BZ",
    "en": "Belize",
    "slug": "belize"
+  },
+  {
+   "code": "BM",
+   "en": "Bermuda",
+   "slug": "bermuda"
+  },
+  {
+   "code": "BQ",
+   "en": "Bonaire, Sint Eustatius and Saba",
+   "slug": "bonaire-sint-eustatius-and-saba"
+  },
+  {
+   "code": "KY",
+   "en": "Cayman Islands",
+   "slug": "cayman-islands"
+  },
+  {
+   "code": "CW",
+   "en": "Curaçao",
+   "slug": "cura-ao"
   }
  ]
 }

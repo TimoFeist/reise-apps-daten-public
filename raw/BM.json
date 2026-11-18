@@ -1,0 +1,176 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; Mietwagen gibt es nicht, nur Elektro-Kleinwagen, Roller und Busse.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Rechtsschutz und gesellschaftliche Akzeptanz sind aber geringer als im Vereinigten Königreich.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Bermuda Arrival Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Einreiseformular vorab online ausfüllen, Webformular",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gotobermuda.com/bta/press-release/bermuda-visitors-win-perks-by-completing-online-arrival-card"
+  },
+  {
+   "name": "Shorelink",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Bus- und Fährtickets, Pässe und Live-Karte der Regierung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gov.bm/services/shorelink-app"
+  },
+  {
+   "name": "Hitch Bermuda",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Taxis und Fahrdienste buchen, Zahlung per Karte in der App",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit E-Mail und Telefonnummer, Kreditkarte nötig",
+   "src": "https://apps.apple.com/us/app/id1053092489"
+  },
+  {
+   "name": "BTOA Connect",
+   "cat": "taxi",
+   "pkg": "com.BTOA_Connect",
+   "ess": false,
+   "note": "Taxi-App des Taxiverbands, Zahlung per App oder bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bernews.com/2025/08/btoa-launches-connect-customer-app"
+  },
+  {
+   "name": "Ride.bm",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxis und Fahrdienste per App, Web oder WhatsApp buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gotobermuda.com/plan/inspiration/article/bermuda-ride-share-guide-apps-rules-new-legislation"
+  },
+  {
+   "name": "Journi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi- und Fahrtenbuchung mit Fahrerverfolgung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gotobermuda.com/plan/inspiration/article/bermuda-ride-share-guide-apps-rules-new-legislation"
+  },
+  {
+   "name": "Island Go",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Weitere Fahrdienst-App laut Tourismusbehörde",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gotobermuda.com/transportation"
+  },
+  {
+   "name": "Current Bermuda",
+   "cat": "carshare",
+   "pkg": "com.vulog.carshare.ff.currentvehicles.prod",
+   "ess": false,
+   "note": "Elektro-Kleinwagen wie Twizy und Ami per App mieten",
+   "city": "",
+   "use": "limited",
+   "req": "Gültiger Führerschein und Zahlungskarte nötig",
+   "src": "https://www.gotobermuda.com/index%2ephp/plan/inspiration/article/bermudas-eco-friendly-microcar-rentals"
+  },
+  {
+   "name": "Oleander E-Bikes",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Bikes für Besucher und Einheimische",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung in der App nötig",
+   "src": "https://apps.apple.com/us/app/id6443602549"
+  },
+  {
+   "name": "Whip Rideshare",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Tretroller per App entsperren, auch Pässe",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung und Zahlungskarte nötig",
+   "src": "https://apps.apple.com/app/id1615587375"
+  },
+  {
+   "name": "Sargasso Sea",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen, Lebensmittel und mehr liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Zahlungsdaten und Lieferadresse nötig",
+   "src": "https://www.gotobermuda.com/article/bermuda-food-delivery-local-restaurants-delivered-straight-to-your-door"
+  },
+  {
+   "name": "Hook Island",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Restaurants und Geschäfte der Insel liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Zahlungsdaten und Lieferadresse nötig",
+   "src": "https://www.gotobermuda.com/article/bermuda-food-delivery-local-restaurants-delivered-straight-to-your-door"
+  },
+  {
+   "name": "Five Star Home Delivery",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Restaurant- und Lebensmittellieferung auf Bermuda",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6451444129"
+  },
+  {
+   "name": "Lindo's DropIt",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Online-Supermarkt mit Lieferung, auch für Urlauber",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bernews.com/2025/04/dropit-unveils-new-platform-mobile-app"
+  },
+  {
+   "name": "Pango Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Ticketlos im Parkhaus City Hall per QR oder Kennzeichen",
+   "city": "Hamilton",
+   "use": "limited",
+   "req": "Kreditkarte oder Pango-Guthaben mit Kennzeichen verknüpfen",
+   "src": "https://www.royalgazette.com/?p=515305"
+  }
+ ]
+}

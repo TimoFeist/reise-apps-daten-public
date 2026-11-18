@@ -1,0 +1,143 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; vorher die digitale Einreisekarte auf dicardcuracao.com ausfüllen.",
+ "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Digital Immigration Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Einreisekarte als Webformular vor der Ankunft",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.curacao.com/en/questions/digital-immigration-card/what-is-the-digital-immigration-card"
+  },
+  {
+   "name": "ABC Curaçao",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrpläne, Haltestellen und Echtzeit-Ankünfte der Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1570156545"
+  },
+  {
+   "name": "Click Curaçao",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi auf der ganzen Insel rund um die Uhr buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Bestätigung per SMS, nicht jede ausländische Nummer klappt",
+   "src": "https://apps.apple.com/us/app/id1478417699"
+  },
+  {
+   "name": "24-7 Taxi Curaçao",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi mit Festpreis buchen, Fahrer live verfolgen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Telefonnummer nötig",
+   "src": "https://apps.apple.com/us/app/id1571466170"
+  },
+  {
+   "name": "Bob Delivery",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von über 50 Restaurants liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://sentoo.io/blog/making-food-delivery-easier-in-curacao-how-bob-delivery-and-sentoo-work-together"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Hato buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein seit mindestens 1 Jahr, evtl. internationaler Führerschein",
+   "src": "https://www.sixt.ca/car-rental/curacao/willemstad/curacao-intl-airport-hato"
+  },
+  {
+   "name": "Smart Wheels Curacao",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos, E-Bikes und Roller an festen Stationen mieten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id6543149559"
+  },
+  {
+   "name": "Flowbird",
+   "cat": "parking",
+   "pkg": "",
+   "ess": true,
+   "note": "Parken in Punda und Otrobanda per Kennzeichen bezahlen",
+   "city": "Willemstad",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.mycuracaoguide.com/about-curacao/transportation"
+  },
+  {
+   "name": "maps.me",
+   "cat": "maps",
+   "pkg": "com.mapswithme.maps.pro",
+   "ess": false,
+   "note": "Offline-Karten zur Navigation auf der Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.curacao.com/en/questions/internet-connection-and-cell-service/are-there-any-useful-apps-to-download-for-my-visit"
+  },
+  {
+   "name": "Curaçao Travel Guide",
+   "cat": "tourism",
+   "pkg": "com.futurecuracao.curacaotb",
+   "ess": false,
+   "note": "Offizieller Reiseführer mit Unterkünften und Routen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.curacao.com/en/travel-guide-app"
+  },
+  {
+   "name": "Curaçao Dive Map",
+   "cat": "tourism",
+   "pkg": "nl.curdivemap",
+   "ess": false,
+   "note": "Karte der Tauchplätze rund um die Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.curacao.com/en/travel-guide-app"
+  },
+  {
+   "name": "Cura-app",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Partys, Happy Hours, Strände und Lokale der Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6480454210"
+  }
+ ]
+}
