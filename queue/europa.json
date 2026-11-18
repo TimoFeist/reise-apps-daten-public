@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "PL",
-"en": "Poland",
-"slug": "poland"
-},
-{
-"code": "EE",
-"en": "Estonia",
-"slug": "estonia"
-},
-{
-"code": "LV",
-"en": "Latvia",
-"slug": "latvia"
-},
-{
-"code": "LT",
-"en": "Lithuania",
-"slug": "lithuania"
-},
-{
 "code": "MT",
 "en": "Malta",
 "slug": "malta"
@@ -262,6 +242,26 @@
 "code": "IE",
 "en": "Ireland",
 "slug": "ireland"
+},
+{
+"code": "PL",
+"en": "Poland",
+"slug": "poland"
+},
+{
+"code": "EE",
+"en": "Estonia",
+"slug": "estonia"
+},
+{
+"code": "LV",
+"en": "Latvia",
+"slug": "latvia"
+},
+{
+"code": "LT",
+"en": "Lithuania",
+"slug": "lithuania"
 }
 ]
 }

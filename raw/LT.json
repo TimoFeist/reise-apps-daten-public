@@ -1,0 +1,319 @@
+{
+ "src": "https://www.bento.travel/lithuania",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Stadttickets gelten nur je Stadt, in Vilnius reicht eine kontaktlose Karte für ein 60-Minuten-Ticket.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, ein Gesetz beschränkt aber öffentliche Informationen über andere Familienmodelle.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/litauen-node/litauensicherheit-200620",
+ "discontinued": [
+  {
+   "name": "m.Ticket",
+   "pkg": "",
+   "src": "https://www.parking.net/parking-news/vilnius-launches-unified-app-for-public-transport-parking-and-trip-planning"
+  },
+  {
+   "name": "m.Parking",
+   "pkg": "",
+   "src": "https://www.parking.net/parking-news/vilnius-launches-unified-app-for-public-transport-parking-and-trip-planning"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Größter Fahrdienst, auch Scooter und Carsharing",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/lithuania/ride-hailing"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Fahrdienst in den fünf größten Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/lithuania/ride-hailing"
+  },
+  {
+   "name": "eTAKSI",
+   "cat": "taxi",
+   "pkg": "lt.etaksi.android",
+   "ess": false,
+   "note": "Lokale Taxizentrale mit Preisangabe vorab",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/lithuania/ride-hailing"
+  },
+  {
+   "name": "Etransport - Taxi and more",
+   "cat": "taxi",
+   "pkg": "com.eTransport.LT.taxi1424",
+   "ess": false,
+   "note": "Taxi vorbestellen, auch Minivan und Kindersitz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/lithuania/ride-hailing"
+  },
+  {
+   "name": "Forus",
+   "cat": "taxi",
+   "pkg": "com.taxigo.ee",
+   "ess": false,
+   "note": "Kleinerer Fahrdienst, Preis selbst vorschlagen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bento.travel/lithuania/ride-hailing"
+  },
+  {
+   "name": "Taxi.lt",
+   "cat": "taxi",
+   "pkg": "org.taxilt",
+   "ess": false,
+   "note": "Taxi in Vilnius per App oder online bestellen",
+   "city": "Vilnius",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.govilnius.lt/taxis-and-ride-sharing-services"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in 15 Städten liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/lithuania/food-delivery"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Restaurants und Lebensmittel, je nach Adresse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/lithuania/food-delivery"
+  },
+  {
+   "name": "LTG Link",
+   "cat": "rail",
+   "pkg": "app.tunit.tunit_flutter_mobile",
+   "ess": true,
+   "note": "Zugtickets der litauischen Bahn kaufen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/lt/app/ltg-link/id1594730224"
+  },
+  {
+   "name": "CityBee",
+   "cat": "carshare",
+   "pkg": "com.primeleasing.citybee",
+   "ess": false,
+   "note": "Carsharing mit Autos und Transportern",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein wird per Videoanruf in der App geprüft",
+   "src": "https://govilnius.lt/carsharing-services"
+  },
+  {
+   "name": "Bolt Drive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Günstiges Carsharing in der Bolt App",
+   "city": "",
+   "use": "limited",
+   "req": "Ausweis und Führerschein in der App hochladen",
+   "src": "https://bolt.eu/en-lt/legal/bolt-drive/tnc-bolt-drive/"
+  },
+  {
+   "name": "Spark",
+   "cat": "carshare",
+   "pkg": "lt.mediapark.rideshare",
+   "ess": false,
+   "note": "Elektro-Carsharing in Vilnius",
+   "city": "Vilnius",
+   "use": "limited",
+   "req": "Registrierung mit Führerschein nötig",
+   "src": "https://govilnius.lt/carsharing-services"
+  },
+  {
+   "name": "UNIPARK",
+   "cat": "parking",
+   "pkg": "lt.itgirnos.uniparkparking.prod",
+   "ess": false,
+   "note": "Parken in vielen Städten, auch Neringa-Eintritt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://unipark.lt/en/unipark-app/"
+  },
+  {
+   "name": "LT72",
+   "cat": "safety",
+   "pkg": "com.lt_72.pagd",
+   "ess": true,
+   "note": "Offizielle Warn-App, Luftalarm auch auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.lrt.lt/en/news-in-english/19/2935359/how-to-receive-air-alert-warnings-in-english"
+  },
+  {
+   "name": "JUDU",
+   "cat": "transit",
+   "pkg": "com.judu",
+   "ess": true,
+   "note": "Offizielle App für Bus, Trolleybus und Parken",
+   "city": "Vilnius",
+   "use": "limited",
+   "req": "Konto per E-Mail nötig, Zahlung mit Karte",
+   "src": "https://judu.lt/en/application/"
+  },
+  {
+   "name": "Vilnius Pass",
+   "cat": "tourism",
+   "pkg": "lt.govilnius.passes",
+   "ess": false,
+   "note": "Stadtpass mit Museen, Touren und Rabatten",
+   "city": "Vilnius",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.govilnius.lt/about-vilnius-pass"
+  },
+  {
+   "name": "Cyclocity",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder an Stationen in Vilnius",
+   "city": "Vilnius",
+   "use": "ok",
+   "req": "",
+   "src": "https://judu.lt/en/?p=71127"
+  },
+  {
+   "name": "Žiogas",
+   "cat": "transit",
+   "pkg": "com.kvt.ziogas",
+   "ess": false,
+   "note": "Handytickets für Busse und Trolleybusse",
+   "city": "Kaunas",
+   "use": "ok",
+   "req": "",
+   "src": "https://en.kaunas.lt/be-kategorijos/contactless-payments-on-public-transport-in-kaunas-convenience-at-a-single-tap"
+  },
+  {
+   "name": "airBaltic",
+   "cat": "flights",
+   "pkg": "com.redmadrobot.pins",
+   "ess": false,
+   "note": "Flüge ab Vilnius buchen und einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.airbaltic.com/en-lt/flight-deals/flights-from-vilnius"
+  },
+  {
+   "name": "RIDE",
+   "cat": "taxi",
+   "pkg": "ride.app",
+   "ess": false,
+   "note": "E-Scooter und E-Bikes in Vilnius leihen",
+   "city": "Vilnius",
+   "use": "ok",
+   "req": "",
+   "src": "https://judu.lt/en/?p=71127"
+  },
+  {
+   "name": "Mobilly",
+   "cat": "transit",
+   "pkg": "lv.mobilly.android",
+   "ess": false,
+   "note": "Lettische Bezahl-App, in Litauen fürs Auto",
+   "city": "",
+   "use": "limited",
+   "req": "In Litauen bisher nur Zahlungen rund ums Auto",
+   "src": "https://groundnews.lakegeneva.lib.wi.us/article/latvian-mobilly-is-coming-to-lithuania-old-timers-are-calm-they-have-different-plans"
+  },
+  {
+   "name": "MOBI",
+   "cat": "taxi",
+   "pkg": "com.mobi.passenger",
+   "ess": false,
+   "note": "Fahrdienst mit Fahrer, nur in Riga",
+   "city": "",
+   "use": "no",
+   "req": "Nur in Riga (Lettland) verfügbar, nicht in Litauen",
+   "src": "https://apps.apple.com/app/id1495809160"
+  },
+  {
+   "name": "AuroraReach",
+   "cat": "tourism",
+   "pkg": "com.aurorareach.app",
+   "ess": false,
+   "note": "Polarlicht-Vorhersage und Alarme weltweit",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.aurorareach.app"
+  },
+  {
+   "name": "Trafi",
+   "cat": "transit",
+   "pkg": "com.trafi.android.tr",
+   "ess": false,
+   "note": "ÖPNV-Planer, Ticketkauf in der App nur in Vilnius",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/lithuania"
+  },
+  {
+   "name": "e.Ticket Klaipėda",
+   "cat": "transit",
+   "pkg": "com.klaipeda.app",
+   "ess": false,
+   "note": "QR-Tickets für Klaipėda, Code im Fahrzeug scannen",
+   "city": "Klaipeda",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/lithuania"
+  },
+  {
+   "name": "Autobusų bilietai",
+   "cat": "rail",
+   "pkg": "com.kautra.android.autobusubilietai",
+   "ess": false,
+   "note": "Fernbus-Suche und Tickets bei über 40 Anbietern",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/lithuania"
+  },
+  {
+   "name": "Smiltynės perkėla",
+   "cat": "rail",
+   "pkg": "lt.lexita.smiltynes_app",
+   "ess": false,
+   "note": "Fähre Klaipėda nach Smiltynė: Tickets und Zeiten",
+   "city": "Klaipeda",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/lithuania"
+  }
+ ]
+}

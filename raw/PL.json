@@ -1,0 +1,231 @@
+{
+ "src": "https://www.bento.travel/poland",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "An Terminals und Geldautomaten in PLN zahlen und die Umrechnung in die Heimatwährung ablehnen.",
+ "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen für LGBTQ+ Reisende und verweist auf die allgemeinen Hinweise.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/polen-node/polensicherheit/199124",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Fahrdienst mit breiter Abdeckung, auch ab Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Lizenzierte Fahrdienst-Alternative in Großstädten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "FREENOW",
+   "cat": "taxi",
+   "pkg": "taxi.android.client",
+   "ess": false,
+   "note": "Lizenzierte Taxis und Festpreise in 23 Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "Pyszne.pl",
+   "cat": "delivery",
+   "pkg": "com.yourdelivery.pyszne",
+   "ess": false,
+   "note": "Restaurant-Marktplatz, Zahlart je nach Lokal",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": false,
+   "note": "Essen und Einkäufe mit Live-Tracking liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "Jakdojade",
+   "cat": "transit",
+   "pkg": "com.citynav.jakdojade.pl.android",
+   "ess": true,
+   "note": "Routenplaner und Tickets für den Stadtverkehr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "Koleo",
+   "cat": "rail",
+   "pkg": "pl.koleo",
+   "ess": true,
+   "note": "Bahnplaner und Tickets vieler Betreiber, Karte aus EWR",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "PKP Intercity",
+   "cat": "rail",
+   "pkg": "pkp.ic.eicmobile",
+   "ess": false,
+   "note": "Offizielle App für EIP, EIC, IC und TLK Züge",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "e-podróżnik.pl",
+   "cat": "rail",
+   "pkg": "com.inno.epodroznik.android",
+   "ess": false,
+   "note": "Planer für Regionalbusse und kombinierte Routen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/poland"
+  },
+  {
+   "name": "zbiletem",
+   "cat": "transit",
+   "pkg": "zbiletem.zbiletem",
+   "ess": false,
+   "note": "Stadttickets für viele polnische Städte, auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://warszawa19115.pl/en/-/zakup-biletu-ztm-w-aplikacjach-mobilnych"
+  },
+  {
+   "name": "Traficar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing in polnischen Städten, Abrechnung per App",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein-Prüfung in der App nötig",
+   "src": "https://media.traficar.pl/447990-traficar-podsumowuje-2025-rok-bezpieczniej-bardziej-funkcjonalnie-blizej-miasta"
+  },
+  {
+   "name": "Bolt Drive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing in der Bolt App, Start in Warschau",
+   "city": "Warsaw",
+   "use": "limited",
+   "req": "Führerschein-Prüfung in der App nötig",
+   "src": "https://android.com.pl/moto/1068560-bolt-drive-polska-flota-carsharing/"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter zum Ausleihen per App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://warszawa19115.pl/en/-/elektryczne-hulajnogi"
+  },
+  {
+   "name": "Dott",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter zum Ausleihen per App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://warszawa19115.pl/en/-/elektryczne-hulajnogi"
+  },
+  {
+   "name": "Veturilo",
+   "cat": "micro",
+   "pkg": "com.nextbike.veturilo",
+   "ess": false,
+   "note": "Städtische Leihräder, Saison März bis November",
+   "city": "Warsaw",
+   "use": "ok",
+   "req": "",
+   "src": "https://warszawa19115.pl/en/-/veturilo"
+  },
+  {
+   "name": "mobiWAWA",
+   "cat": "transit",
+   "pkg": "pl.xentivo.ummobiwawa",
+   "ess": false,
+   "note": "Städtische App für ÖPNV-Tickets und Metro-Zugang",
+   "city": "Warsaw",
+   "use": "ok",
+   "req": "",
+   "src": "https://warszawa19115.pl/en/-/aplikacja-mobiwawa"
+  },
+  {
+   "name": "iMKA",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Tickets für Stadtverkehr und Bahn im Verbund MKA",
+   "city": "Krakow",
+   "use": "ok",
+   "req": "",
+   "src": "https://krakow.pl/komunikacja/14904,artykul,rodzaje-biletow.html"
+  },
+  {
+   "name": "System FALA",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Verkehrsverbund Dreistadt, Kontaktloskarte reicht",
+   "city": "Gdansk",
+   "use": "ok",
+   "req": "",
+   "src": "https://systemfala.pl/help/informacje-dla-turystow/system-fala-dla-turystow-pakiet-praktycznych-informacji"
+  },
+  {
+   "name": "URBANCARD",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Städtische Ticket-App für Bus und Tram der MPK",
+   "city": "Wroclaw",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.wroclaw.pl/dla-mieszkanca/nowy-operator-mobilny-mpk-wroclaw-z-biletem"
+  },
+  {
+   "name": "Poznań City Card",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtpass als App, Kauf auch online möglich",
+   "city": "Poznan",
+   "use": "ok",
+   "req": "",
+   "src": "https://visitpoznan.pl/en/poznan-city-card"
+  }
+ ]
+}

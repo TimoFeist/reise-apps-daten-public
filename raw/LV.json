@@ -1,0 +1,242 @@
+{
+ "src": "https://www.bento.travel/latvia",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Riga-Tickets vor Fahrtantritt kaufen und direkt nach dem Einsteigen registrieren, Bolt am Flughafen über Pickup P1.",
+ "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Handlungen sind nicht strafbar, auf dem Land ist die Akzeptanz geringer als in Städten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/lettland-node/lettlandsicherheit-200674",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe liefern lassen, landesweit verbreitet",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/latvia/food-delivery"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Alternative für Restaurants und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/latvia/food-delivery"
+  },
+  {
+   "name": "Revolut",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobiles Konto, praktisch zum Bezahlen in Euro",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit bestehendem Konto",
+   "src": "https://www.bento.travel/latvia/payments"
+  },
+  {
+   "name": "Wise",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mehrwährungskonto zum Bezahlen mit Karte",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit bestehendem Konto",
+   "src": "https://www.bento.travel/latvia/payments"
+  },
+  {
+   "name": "Forus",
+   "cat": "taxi",
+   "pkg": "com.taxigo.ee",
+   "ess": false,
+   "note": "Lizenzierte Taxis bestellen, zweite Option",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-latvia"
+  },
+  {
+   "name": "Bolt Drive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing mit Minutenpreis in Riga",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein in App prüfen, Mindestalter laut App",
+   "src": "https://bolt.eu/en-lv/legal/bolt-drive/tnc-bolt-drive/"
+  },
+  {
+   "name": "CityBee",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing in Riga und Liepaja",
+   "city": "",
+   "use": "limited",
+   "req": "Kartenführerschein per Foto in App prüfen",
+   "src": "https://citybee.lt/en/about-us/"
+  },
+  {
+   "name": "CarGuru",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing per App in Riga",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Führerschein nötig",
+   "src": "https://www.liveriga.com/en/11942-car-sharing-options"
+  },
+  {
+   "name": "Skok",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektromopeds in Riga mieten",
+   "city": "Riga",
+   "use": "limited",
+   "req": "Gültiger Führerschein nötig",
+   "src": "https://www.liveriga.com/en/11941-micromobility-transportation"
+  },
+  {
+   "name": "Rīgas satiksme",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App für Codetickets in Bus und Tram",
+   "city": "Riga",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rigassatiksme.lv/en/tickets-and-e-ticket/code-tickets"
+  },
+  {
+   "name": "EuroPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Einfahrtsgebühr für Jurmala mit dem Auto zahlen",
+   "city": "Jurmala",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitjurmala.lv/en/buy-an-entry-pass"
+  },
+  {
+   "name": "Citadele",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Bankapp, auch für den Jurmala Einfahrtspass",
+   "city": "Jurmala",
+   "use": "no",
+   "req": "Nur mit Konto bei der Citadele Bank",
+   "src": "https://www.visitjurmala.lv/en/buy-an-entry-pass"
+  },
+  {
+   "name": "Liepājas pilsēta",
+   "cat": "transit",
+   "pkg": "lv.mtx.liepaja",
+   "ess": false,
+   "note": "Stadtapp mit Tickets für Bus und Tram",
+   "city": "Liepaja",
+   "use": "ok",
+   "req": "",
+   "src": "https://liepaja.travel/en/useful/getting-around/by-transport"
+  },
+  {
+   "name": "airBaltic",
+   "cat": "flights",
+   "pkg": "com.redmadrobot.pins",
+   "ess": false,
+   "note": "Flüge buchen, einchecken, Bordkarte in der App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.airbaltic.com/en/fly-airbaltic/airbaltic-app"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Größter Fahrdienst, auch E-Scooter in Riga",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-latvia"
+  },
+  {
+   "name": "RIDE",
+   "cat": "taxi",
+   "pkg": "ride.app",
+   "ess": false,
+   "note": "Leihräder mit E-Antrieb in Riga",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/lv/app/id1522014903"
+  },
+  {
+   "name": "MOBI",
+   "cat": "taxi",
+   "pkg": "com.mobi.passenger",
+   "ess": false,
+   "note": "Günstige Fahrten in Riga, auch zum Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.mobi.passenger"
+  },
+  {
+   "name": "AuroraReach",
+   "cat": "tourism",
+   "pkg": "com.aurorareach.app",
+   "ess": false,
+   "note": "Polarlicht Vorhersage und Alarme weltweit",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1576251657"
+  },
+  {
+   "name": "Mobilly",
+   "cat": "transit",
+   "pkg": "lv.mobilly.android",
+   "ess": true,
+   "note": "Tickets für Riga, Parken und Jurmala Pass",
+   "city": "Riga",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/latvia/transit"
+  },
+  {
+   "name": "Vivi Latvija",
+   "cat": "rail",
+   "pkg": "com.pv.vivi",
+   "ess": true,
+   "note": "Offizielle Bahn-App mit Tickets und Live-Zugstatus",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/latvia"
+  },
+  {
+   "name": "112 Latvija",
+   "cat": "safety",
+   "pkg": "lv.latvija.p112",
+   "ess": true,
+   "note": "Offizielle Notrufe, Warnungen und Schutzhinweise",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/latvia"
+  }
+ ]
+}
