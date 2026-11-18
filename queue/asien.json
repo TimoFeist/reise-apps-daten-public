@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "MY",
-"en": "Malaysia",
-"slug": "malaysia"
-},
-{
-"code": "PH",
-"en": "Philippines",
-"slug": "philippines"
-},
-{
-"code": "CN",
-"en": "China",
-"slug": "china"
-},
-{
-"code": "HK",
-"en": "Hong Kong",
-"slug": "hong-kong"
-},
-{
 "code": "TW",
 "en": "Taiwan",
 "slug": "taiwan"
@@ -267,6 +247,26 @@
 "code": "ID",
 "en": "Indonesia",
 "slug": "indonesia"
+},
+{
+"code": "MY",
+"en": "Malaysia",
+"slug": "malaysia"
+},
+{
+"code": "PH",
+"en": "Philippines",
+"slug": "philippines"
+},
+{
+"code": "CN",
+"en": "China",
+"slug": "china"
+},
+{
+"code": "HK",
+"en": "Hong Kong",
+"slug": "hong-kong"
 }
 ]
 }
