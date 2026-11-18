@@ -1,0 +1,121 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreise nur mit Reisepass, der 6 Monate gültig ist; Online-Einreisekarte auf edcard.gov.gd bis 72 Stunden vor Ankunft ausfüllen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind formal strafbar, Fälle von Strafverfolgung sind aber nicht bekannt; Zurückhaltung ist ratsam.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Grenada Online ED Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Einreise- und Zollformular als Webformular vor Ankunft",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://expert.puregrenada.com/grenadas-online-ed-card-is-now-live/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316"
+  },
+  {
+   "name": "Haylup",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Fahrdienst der Insel mit Festpreis und Kartenzahlung",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Bestätigungscode per OTP nötig",
+   "src": "https://www.thetripverdict.com/getting-around-grenada"
+  },
+  {
+   "name": "Ryde Grenada",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrten inselweit buchen, Fahrer live verfolgen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto in der App nötig, Bedingungen nicht angegeben",
+   "src": "https://apps.apple.com/nl/app/ryde-grenada/id6553751747"
+  },
+  {
+   "name": "Dash GND",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst mit Preisschätzung vor der Buchung",
+   "city": "",
+   "use": "limited",
+   "req": "Konto in der App nötig, Bedingungen nicht angegeben",
+   "src": "https://apps.apple.com/us/app/id6756010815"
+  },
+  {
+   "name": "Kiwitaxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Flughafentransfer zum Festpreis vorab buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.thetripverdict.com/getting-around-grenada"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst, in Grenada nicht im Angebot",
+   "city": "",
+   "use": "no",
+   "req": "In Grenada nicht verfügbar",
+   "src": "https://www.thetripverdict.com/getting-around-grenada"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Maurice Bishop buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 21, Kreditkarte, lokale Fahrerlaubnis für ca. 26 USD",
+   "src": "https://www.enterprise.com/en/car-rental/locations/grenada/grenada-maurice-bishop-intl-airport-ze03.html"
+  },
+  {
+   "name": "DiscoverCars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagenpreise großer Anbieter vergleichen",
+   "city": "",
+   "use": "limited",
+   "req": "Lokale Besucherfahrerlaubnis vor Ort nötig",
+   "src": "https://www.thetripverdict.com/getting-around-grenada"
+  },
+  {
+   "name": "KariBites",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen liefern lassen oder zum Abholen bestellen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto nötig, Name auf Karte muss zum Konto passen",
+   "src": "https://apps.apple.com/us/app/karibites/id1577340566"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreise nur mit Reisepass, der Personalausweis reicht nicht; Touren außerhalb der Orte nur mit lokalem Anbieter planen.",
+ "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten, keine strafrechtlichen Einschränkungen, gute Akzeptanz vor allem in den Städten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Air Greenland",
+   "cat": "flights",
+   "pkg": "",
+   "ess": true,
+   "note": "Inlandsflüge buchen, einchecken und Bordkarte speichern",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1454000817"
+  },
+  {
+   "name": "Taxagut",
+   "cat": "taxi",
+   "pkg": "gl.taxagut.appb",
+   "ess": false,
+   "note": "Taxi in Nuuk per Standort bestellen, ohne Warteschleife",
+   "city": "Nuuk",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=gl.taxagut.appb&hl=en_NZ"
+  },
+  {
+   "name": "Pajussi",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von Restaurants und Cafés liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "Liefergebiet und Anmeldung laut Quelle unklar",
+   "src": "https://apps.apple.com/dk/app/pajussi/id1620340068"
+  },
+  {
+   "name": "maps.me",
+   "cat": "maps",
+   "pkg": "com.mapswithme.maps.pro",
+   "ess": false,
+   "note": "Offline-Karten mit Wanderwegen, vorab herunterladen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+  },
+  {
+   "name": "Yr",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Wettervorhersage für die größeren Orte Grönlands",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+  },
+  {
+   "name": "Windy.com",
+   "cat": "safety",
+   "pkg": "com.windyty.android",
+   "ess": false,
+   "note": "Wind, Wolken und Wellen, nützlich für Boot und Kajak",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+  },
+  {
+   "name": "Northern Light Aurora Forecast",
+   "cat": "tourism",
+   "pkg": "com.aurora_alerts.auroraalerts",
+   "ess": false,
+   "note": "Polarlicht-Vorhersage mit Kp-Wert und Wetter",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724"
+  },
+  {
+   "name": "MobilePay",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete Bezahl-App in Dänemark und Grönland",
+   "city": "",
+   "use": "no",
+   "req": "Dänische CPR-Nummer, MitID, dänische oder grönländische Nummer und Bankkarte nötig",
+   "src": "https://mobilepay.dk/app/legal/private-terms-en"
+  }
+ ]
+}

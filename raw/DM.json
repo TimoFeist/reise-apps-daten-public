@@ -1,0 +1,66 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/dominicasicherheit-220300",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Nur mit Reisepass einreisen und die ED Card online ausfüllen. Zum Autofahren ist eine lokale Fahrerlaubnis nötig.",
+ "lgbtq_note": "Seit einem Gerichtsurteil von 2024 sind einvernehmliche gleichgeschlechtliche Handlungen unter Erwachsenen nicht mehr strafbar.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/dominicasicherheit-220300",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "ED Card Dominica",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Einreise- und Zollkarte als Webformular vor dem Flug",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://edcard.dominica.gov.dm/"
+  },
+  {
+   "name": "Shaufa",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Taxi-App mit GPS-Verfolgung der Fahrt",
+   "city": "",
+   "use": "limited",
+   "req": "Neue lokale App, Verfügbarkeit vorab prüfen",
+   "src": "https://apps.apple.com/dm/app/shaufa/id1669455768"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Douglas-Charles buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Lokale Fahrerlaubnis nötig, Zuschlag für junge Fahrer",
+   "src": "https://www.expedia.com/Avis-at-Douglas-Charles-Airport-Dom-Marigot-DMA.v83354.Car-Rental-Guide-Location"
+  },
+  {
+   "name": "MLajan Wallet",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Erste mobile Geldbörse der Insel, Zahlen per QR-Code",
+   "city": "",
+   "use": "limited",
+   "req": "Vor allem für Einwohner mit lokalem Konto gedacht",
+   "src": "https://dom767.com/dompages/mlajan"
+  },
+  {
+   "name": "Explore Dominica",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reiseführer mit Karten zu Wanderwegen und Wasserfällen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1152864475"
+  }
+ ]
+}

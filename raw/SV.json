@@ -1,0 +1,105 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Einreise nur mit Reisepass, bei Ankunft per Flug mindestens sechs Monate gültig. Kleine Dollarscheine bis 20 USD mitnehmen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Diskriminierung kommt vor allem im ländlichen Raum vor.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
+ "discontinued": [
+  {
+   "name": "Hugo",
+   "pkg": "",
+   "src": "https://www.elsalvador.com/h-noticias/h-negocios/hugo-cierra-operaciones-en-el-salvador/1029511/2023/"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Fahrten in San Salvador, Santa Ana, San Miguel und La Paz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://diario.elmundo.sv/economia/uber-amplia-cobertura-a-los-departamentos-cuscatlan-y-la-paz"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrpreis mit dem Fahrer aushandeln, auch Fernfahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://diario.elmundo.sv/economia/la-plataforma-de-transporte-indrive-crece-50-en-el-salvador"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen in San Salvador liefern lassen oder abholen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.uber.com/global/es-es/cities/san-salvador"
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Größter Lieferdienst für Essen und Einkäufe im Land",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.elsalvador.com/dinero-y-negocios/vision-empresarial/uber-compra-pedidosya-centroamerica/1283841/2026/"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen San Salvador buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 21, Kreditkarte auf eigenen Namen und Reisepass",
+   "src": "https://www.enterprise.com/es/alquiler-de-autos/oficinas/el-salvador/s-salvador-apto-int-de-el-salvador-k5e1.html"
+  },
+  {
+   "name": "Chivo Wallet",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche Wallet für Bitcoin und US-Dollar",
+   "city": "",
+   "use": "limited",
+   "req": "Ausweisprüfung mit Selfie, Nummer aus wenigen Ländern nötig",
+   "src": "https://diario.elmundo.sv/economia/como-funciona-la-chivo-wallet"
+  },
+  {
+   "name": "Turs",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "KI-Reiseassistent mit Tipps und Routen für Besucher",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://elsalvadorinenglish.com/2026/07/23/el-salvador-launches-ai-powered-turs-app-to-transform-tourism-for-international-visitors/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reisehinweise des Auswärtigen Amts auf dem Handy",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864"
+  }
+ ]
+}

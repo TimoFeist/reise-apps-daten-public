@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "DM",
-   "en": "Dominica",
-   "slug": "dominica"
-  },
-  {
-   "code": "SV",
-   "en": "El Salvador",
-   "slug": "el-salvador"
-  },
-  {
-   "code": "GL",
-   "en": "Greenland",
-   "slug": "greenland"
-  },
-  {
-   "code": "GD",
-   "en": "Grenada",
-   "slug": "grenada"
-  },
-  {
    "code": "GP",
    "en": "Guadeloupe",
    "slug": "guadeloupe"
@@ -207,6 +187,26 @@
    "code": "CW",
    "en": "Curaçao",
    "slug": "cura-ao"
+  },
+  {
+   "code": "DM",
+   "en": "Dominica",
+   "slug": "dominica"
+  },
+  {
+   "code": "SV",
+   "en": "El Salvador",
+   "slug": "el-salvador"
+  },
+  {
+   "code": "GL",
+   "en": "Greenland",
+   "slug": "greenland"
+  },
+  {
+   "code": "GD",
+   "en": "Grenada",
+   "slug": "grenada"
   }
  ]
 }
