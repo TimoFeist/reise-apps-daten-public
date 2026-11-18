@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 10:26",
+ "version": "2026-11-18 10:29",
  "categories": [
   {
    "id": "entry",
@@ -2917,9 +2917,10 @@
     {
      "name": "SJ",
      "cat": "rail",
-     "note": "Schwedische Bahn",
+     "note": "Fernzüge buchen, deckt nicht alle Bahnbetreiber ab",
      "pkg": "se.sj.android",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/sweden"
     },
     {
      "name": "EasyPark",
@@ -4281,23 +4282,25 @@
     {
      "name": "112 Iceland",
      "cat": "safety",
-     "note": "Offizielle Notruf-App, sendet Standort an 112",
+     "note": "Offizielle Notruf-App, auch per Text mit Standort",
      "src": "https://www.bento.travel/iceland",
      "pkg": "com.neydarlinan"
     },
     {
      "name": "SafeTravel",
      "cat": "safety",
-     "note": "ICE-SAR: Warnungen, Straßenzustand, Reiseplan hinterlegen",
+     "note": "Warnungen, Straßenlage und Standort für Rettungsdienste",
      "pkg": "is.stokkur.safeTravel",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/iceland"
     },
     {
      "name": "Veður",
-     "cat": "misc",
-     "note": "Isländischer Wetterdienst mit Warnungen",
+     "cat": "safety",
+     "note": "Wetterprognosen und Warnungen des Wetterdienstes",
      "pkg": "is.stokkur.zidane.android",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/iceland"
     },
     {
      "name": "Hopp",
@@ -4363,8 +4366,9 @@
       {
        "name": "Klappið",
        "cat": "transit",
-       "note": "Strætó-Busse, digitale Tickets",
-       "pkg": "is.klappid"
+       "note": "Strætó Busse Linien 1 bis 36, digitale Tickets",
+       "pkg": "is.klappid",
+       "src": "https://straeto.is/en/user-information/ticketing-information"
       },
       {
        "name": "Hreyfill",
@@ -4439,7 +4443,7 @@
     {
      "name": "TFI Live",
      "cat": "transit",
-     "note": "Offizieller Planer für Bus, Luas, Irish Rail",
+     "note": "Offizielle Routenplanung und Live-Abfahrten landesweit",
      "src": "https://www.bento.travel/ireland/transit",
      "pkg": "com.trapezegroup.TFILive.nta",
      "ess": true
@@ -17308,6 +17312,830 @@
    "src": "https://pristineparadisepalau.com/travelers-tips/",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, werden laut Auswärtigem Amt gesellschaftlich aber nicht überall akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "IN",
+   "name": "Indien",
+   "flag": "🇮🇳",
+   "apps": [
+    {
+     "name": "Su-Swagatam",
+     "cat": "entry",
+     "pkg": "org.nic.ivfrt.visitindia",
+     "note": "Offizielle App für E-Visum und E-Arrival Card",
+     "ess": true,
+     "src": "https://nriinformation.com/visa-oci/su-swagatam-app"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Autos und Rikschas in vielen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/india/ride-hailing"
+    },
+    {
+     "name": "Rapido",
+     "cat": "taxi",
+     "pkg": "com.rapido.passenger",
+     "note": "Autos, Rikschas und Motorradtaxis",
+     "ess": true,
+     "use": "limited",
+     "req": "Indische Nummer oder Bargeld bzw. UPI hilfreich",
+     "src": "https://www.bento.travel/india/ride-hailing"
+    },
+    {
+     "name": "Ola",
+     "cat": "taxi",
+     "pkg": "com.olacabs.customer",
+     "note": "Indischer Fahrdienst, gut zum Preisvergleich",
+     "use": "limited",
+     "req": "Indische Nummer oder Bargeld bzw. UPI hilfreich",
+     "src": "https://www.bento.travel/india/ride-hailing"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrpreis in der App aushandeln",
+     "src": "https://www.bento.travel/india/ride-hailing"
+    },
+    {
+     "name": "Namma Yatri",
+     "cat": "taxi",
+     "pkg": "in.juspay.nammayatri",
+     "note": "Direkte Fahrerplattform, stark in Bengaluru",
+     "use": "limited",
+     "req": "Indische Nummer oder Bargeld bzw. UPI hilfreich",
+     "src": "https://www.bento.travel/india/ride-hailing"
+    },
+    {
+     "name": "Bharat Taxi",
+     "cat": "taxi",
+     "pkg": "in.mobility.bharatTaxi",
+     "note": "Fahrergenossenschaft in Delhi NCR und Gujarat",
+     "use": "limited",
+     "req": "Anmeldung mit ausländischer Nummer kann scheitern",
+     "src": "https://www.bento.travel/india/ride-hailing"
+    },
+    {
+     "name": "Zomato",
+     "cat": "delivery",
+     "pkg": "com.application.zomato",
+     "note": "Essen aus Restaurants liefern lassen",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Nummer oder Karte kann scheitern",
+     "src": "https://www.bento.travel/india/food-delivery"
+    },
+    {
+     "name": "Swiggy",
+     "cat": "delivery",
+     "pkg": "in.swiggy.android",
+     "note": "Essen, Lebensmittel über Instamart und Dineout",
+     "ess": true,
+     "use": "limited",
+     "req": "Internationaler Login möglich, Karte kann scheitern",
+     "src": "https://swiggy.com/corporate/?p=6532"
+    },
+    {
+     "name": "IRCTC Rail Connect",
+     "cat": "rail",
+     "pkg": "cris.org.in.prs.ima",
+     "note": "Offizielle Buchung reservierter Zugtickets",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländerkonto mit Gebühr und Code per SMS nötig",
+     "src": "https://www.bento.travel/apps/irctc-rail-connect"
+    },
+    {
+     "name": "Mony",
+     "cat": "payment",
+     "pkg": "com.mony.app",
+     "note": "UPI Wallet für Besucher, mit Auslandskarte laden",
+     "use": "limited",
+     "req": "Reisepass, Visum und Identitätsprüfung nötig",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-india"
+    },
+    {
+     "name": "Cheq",
+     "cat": "payment",
+     "pkg": "com.acecredit.android",
+     "note": "UPI Wallet für Besucher an Händler QR Codes",
+     "use": "limited",
+     "req": "Prüfung vor Ort, nur Händler QR Codes",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-india"
+    },
+    {
+     "name": "Google Pay India",
+     "cat": "payment",
+     "note": "UPI Zahlungen im Alltag",
+     "use": "no",
+     "req": "Indisches Bankkonto nötig",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-india"
+    },
+    {
+     "name": "Paytm",
+     "cat": "payment",
+     "note": "UPI Zahlungen und Wallet",
+     "use": "no",
+     "req": "Indisches Bankkonto nötig",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-india"
+    },
+    {
+     "name": "Zoomcar",
+     "cat": "carshare",
+     "note": "Selbstfahrer Mietwagen in rund 99 Städten",
+     "use": "limited",
+     "req": "Führerschein und Kaution, Regeln für Ausländer prüfen",
+     "src": "https://www.autocarpro.in/news/zoomcar-partners-with-wego-to-offer-self-drive-options-for-international-tourists-in-india-126396"
+    },
+    {
+     "name": "Myles",
+     "cat": "carshare",
+     "note": "Mietwagen zum Selberfahren",
+     "use": "limited",
+     "req": "Internationaler Führerschein, ab 21 Jahren, Kaution",
+     "src": "https://www.mylescars.com/self-drive-car-rental/faqs"
+    },
+    {
+     "name": "Yulu",
+     "cat": "micro",
+     "note": "Leih E Mopeds in mehreren Großstädten",
+     "use": "limited",
+     "req": "Registrierung für Ausländer unklar",
+     "src": "https://en.wikipedia.org/wiki/Yulu_(transportation_company)"
+    },
+    {
+     "name": "Highway Delite",
+     "cat": "tourism",
+     "note": "Tickets für ASI Denkmäler wie das Taj Mahal",
+     "src": "https://www.theweek.in/wire-updates/national/2026/01/06/tourists-visiting-asi-monuments-can-now-book-tickets-online-through-various-digital-platforms.html"
+    },
+    {
+     "name": "Mappls",
+     "cat": "maps",
+     "pkg": "com.mmi.maps",
+     "note": "Indische Karte mit detaillierten Adressen",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "Chalo",
+     "cat": "transit",
+     "pkg": "app.zophop",
+     "note": "Live-Bustracking und Tickets in Städten",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "Blinkit",
+     "cat": "delivery",
+     "pkg": "com.grofers.customerapp",
+     "note": "Schnelllieferung für Lebensmittel und Alltagsbedarf",
+     "ess": true,
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "Zepto",
+     "cat": "delivery",
+     "pkg": "com.zeptoconsumerapp",
+     "note": "Schnelllieferung von Lebensmitteln in Stadtteilen",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "Incredible India",
+     "cat": "tourism",
+     "pkg": "org.incredibleindia",
+     "note": "Offizielle Tourismus-App des Ministeriums",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "redBus",
+     "cat": "rail",
+     "pkg": "in.redbus.android",
+     "note": "Vergleich und Buchung privater Fernbusse",
+     "ess": true,
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "RailOne",
+     "cat": "rail",
+     "pkg": "org.cris.aikyam",
+     "note": "Neue Bahn-App für Tickets und Auskunft",
+     "use": "limited",
+     "req": "Gültiges IRCTC-Konto nötig",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "Where is My Train",
+     "cat": "rail",
+     "pkg": "com.whereismytrain.android",
+     "note": "Zugstatus und Fahrpläne, offline nutzbar",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "District",
+     "cat": "delivery",
+     "pkg": "com.application.zomato.district",
+     "note": "Restaurant-Reservierung, Events und Kino",
+     "use": "limited",
+     "req": "Lokale Bankangebote für ausländische Karten oft nicht",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "EazyDiner",
+     "cat": "delivery",
+     "pkg": "com.easydiner",
+     "note": "Tischreservierung und Rabatte in mehreren Städten",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "112 India",
+     "cat": "safety",
+     "pkg": "in.cdac.ners.psa.mobile.android.national",
+     "note": "Nationale Notruf-App der indischen Regierung",
+     "ess": true,
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "MAUSAM",
+     "cat": "safety",
+     "pkg": "com.imd.masuam",
+     "note": "Offizielle Wetter- und Unwetterwarnungen",
+     "src": "https://www.bento.travel/india"
+    },
+    {
+     "name": "Sameer",
+     "cat": "misc",
+     "pkg": "com.cpcb",
+     "note": "Offizielle Luftqualitätsdaten und Beschwerden",
+     "src": "https://www.bento.travel/india"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bengaluru",
+     "match": [
+      "Bengaluru"
+     ],
+     "apps": [
+      {
+       "name": "Namma Metro BMRCL",
+       "cat": "transit",
+       "pkg": "com.aum.nammametro",
+       "note": "Offizielle Metro App mit QR Tickets",
+       "src": "https://apps.apple.com/in/app/namma-metro-bmrcl-official-app/id6740857835"
+      }
+     ]
+    },
+    {
+     "name": "Chennai",
+     "match": [
+      "Chennai"
+     ],
+     "apps": [
+      {
+       "name": "Chennai One",
+       "cat": "transit",
+       "note": "Ein QR Ticket für Metro, MTC Busse und Autos",
+       "ess": true,
+       "src": "https://www.theweek.in/wire-updates/national/2025/09/22/mds20-tn-ld-integrated-ticketing.html"
+      }
+     ]
+    },
+    {
+     "name": "Delhi",
+     "match": [
+      "Delhi"
+     ],
+     "apps": [
+      {
+       "name": "Momentum 2.0 Delhi Sarthi",
+       "cat": "transit",
+       "pkg": "com.sraoss.dmrc",
+       "note": "Offizielle Metro App mit QR Tickets und Routen",
+       "src": "https://apps.apple.com/cd/app/momentum2-0-delhi-sarthi-%E0%A4%B8-%E0%A4%B0%E0%A4%A5/id691105308"
+      }
+     ]
+    },
+    {
+     "name": "Mumbai",
+     "match": [
+      "Mumbai"
+     ],
+     "apps": [
+      {
+       "name": "Mumbai One",
+       "cat": "transit",
+       "pkg": "com.mmrda",
+       "note": "Ein QR Ticket für Metro, Vorortzüge und Busse",
+       "src": "https://www.theweek.in/wire-updates/national/2025/10/08/bes22-mh-app-mumbai-one.html"
+      }
+     ]
+    }
+   ],
+   "note": "Paytm- und Google-Pay-Konten funktionieren für Besucher meist nicht; Bargeld und funktionierende physische Karten mitnehmen.",
+   "src": "https://www.bento.travel/india",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, wegen geringer gesellschaftlicher Akzeptanz wird Zurückhaltung in der Öffentlichkeit empfohlen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/indiensicherheit/205998",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "LK",
+   "name": "Sri Lanka",
+   "flag": "🇱🇰",
+   "apps": [
+    {
+     "name": "Sri Lanka ETA",
+     "cat": "entry",
+     "note": "Gebührenfreie Einreisegenehmigung vorab online beantragen",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/srilanka-node/srilankasicherheit-212254"
+    },
+    {
+     "name": "PickMe",
+     "cat": "taxi",
+     "pkg": "com.pickme.passenger",
+     "note": "Tuk-Tuks, Autos und Essenslieferung in einer App",
+     "ess": true,
+     "src": "https://www.bento.travel/blog/is-uber-available-in-sri-lanka"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrten in Colombo, Negombo und Beruwala",
+     "ess": true,
+     "src": "https://www.bento.travel/blog/is-uber-available-in-sri-lanka"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essen und Lebensmittel in Colombo und Umgebung",
+     "ess": true,
+     "src": "https://www.bento.travel/sri-lanka/food-delivery"
+    },
+    {
+     "name": "Pravesha",
+     "cat": "rail",
+     "pkg": "com.slrpassengerapp",
+     "note": "Offizielle Bahn-App für normale Zugtickets ohne Sitzplatz",
+     "ess": true,
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "Sri Lanka Railways Seat Reservation",
+     "cat": "rail",
+     "note": "Reservierte Sitzplätze bis 30 Tage vorher buchen",
+     "ess": true,
+     "src": "https://seatreservation.railway.gov.lk/"
+    },
+    {
+     "name": "NTC Bus Information",
+     "cat": "rail",
+     "note": "Fahrpläne und Preise für Überlandbusse",
+     "src": "https://bento.travel/sri-lanka/transit"
+    },
+    {
+     "name": "Sri Lanka Bus Tickets",
+     "cat": "rail",
+     "note": "Sitzplätze in Fernbussen auf ausgewählten Strecken",
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Kostenlose Offline-Karten ohne Konto",
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "The Pekoe Trail",
+     "cat": "tourism",
+     "pkg": "com.youlead.pekoetrail",
+     "note": "Offizielle Wander-App mit Etappen, GPS und Trail-Pass",
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "CCF Heritage eTickets",
+     "cat": "tourism",
+     "note": "Tickets für Kulturstätten vorab kaufen",
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "DWC National Park Permits",
+     "cat": "tourism",
+     "note": "Eintrittsgenehmigungen für Nationalparks online",
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "1990 Suwa Seriya",
+     "cat": "safety",
+     "pkg": "lk.gov.suwasariya.ambulance1990",
+     "note": "Kostenloser Rettungsdienst mit Standortübermittlung",
+     "ess": true,
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "Sri Lanka Tourism 1912",
+     "cat": "safety",
+     "note": "Touristeninfo und Hotline 1912 rund um die Uhr",
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "DMC Sri Lanka",
+     "cat": "safety",
+     "note": "Warnungen vor Überschwemmungen und Erdrutschen",
+     "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    }
+   ],
+   "cities": [],
+   "note": "Bargeld mitführen, denn Guesthouses, Tuk-Tuks und Busse nehmen oft nur Cash; ETA nur über eta.gov.lk beantragen.",
+   "src": "https://www.bento.travel/sri-lanka",
+   "lgbtq_note": "Homosexuelle Handlungen sind für Männer und Frauen strafbar, Strafverfahren gegen Erwachsene gibt es in der Praxis aber kaum.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/srilanka-node/srilankasicherheit-212254",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MV",
+   "name": "Malediven",
+   "flag": "🇲🇻",
+   "apps": [
+    {
+     "name": "IMUGA Traveller Declaration",
+     "cat": "entry",
+     "note": "Kostenlose Einreiseerklärung bis 96 Stunden vor Ankunft",
+     "ess": true,
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "RTL Travel App",
+     "cat": "transit",
+     "pkg": "com.scsoft.maldivesrtl",
+     "note": "Offizielle App für Busse und Schnellfähren",
+     "ess": true,
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "Odiapp",
+     "cat": "rail",
+     "pkg": "travel.odi",
+     "note": "Plätze auf Schnellbooten buchen und Boote chartern",
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "AVAS Food",
+     "cat": "delivery",
+     "pkg": "com.daitonn.avasfood",
+     "note": "Lokaler Lieferdienst für Malé und Hulhumalé",
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "Swipe by BML",
+     "cat": "payment",
+     "pkg": "mv.com.bml.swipe",
+     "note": "Wallet für MVR und USD, für Besucher optional",
+     "use": "limited",
+     "req": "Identitätsprüfung nötig, Rückerstattung auf Karte eingeschränkt",
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "Maldivian",
+     "cat": "flights",
+     "pkg": "aero.maldivian.app",
+     "note": "Buchung und Check-in der Inlandsfluglinie",
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "Udha Maldives",
+     "cat": "safety",
+     "pkg": "com.tecxal.udha",
+     "note": "Warnungen, Wetter und Gezeiten",
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Zweiter Messenger, nur bei Bedarf installieren",
+     "src": "https://www.bento.travel/maldives"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, Nutzung wird staatlich überwacht",
+     "use": "no",
+     "req": "Homosexualität ist strafbar, Online-Aktivität wird überwacht",
+     "src": "https://nomadicboys.com/gay-maldives/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Hulhumalé",
+     "match": [
+      "Hulhumalé"
+     ],
+     "apps": [
+      {
+       "name": "Urban Glide MV",
+       "cat": "micro",
+       "note": "E-Scooter an Stationen der Stadtentwicklung HDC",
+       "use": "limited",
+       "req": "Registrierung in der App, Zugang für Ausländer unklar",
+       "src": "https://apps.apple.com/us/app/urban-glide-mv/id6449532059"
+      }
+     ]
+    },
+    {
+     "name": "Malé",
+     "match": [
+      "Malé"
+     ],
+     "apps": [
+      {
+       "name": "Avas App",
+       "cat": "taxi",
+       "note": "Bekannteste lokale Taxi-App im Großraum Malé",
+       "ess": true,
+       "src": "https://www.bento.travel/maldives"
+      },
+      {
+       "name": "Malé Taxi Line",
+       "cat": "taxi",
+       "pkg": "mv.mtcc.TaxiApp",
+       "note": "Staatliches Taxi im Großraum Malé, Kartenzahlung",
+       "src": "https://www.bento.travel/maldives"
+      },
+      {
+       "name": "Foodies",
+       "cat": "delivery",
+       "pkg": "com.theloopcraft.foodies",
+       "note": "Lieferdienst mit über 100 Restaurants",
+       "ess": true,
+       "src": "https://www.bento.travel/maldives"
+      }
+     ]
+    }
+   ],
+   "note": "Resorts organisieren den Flughafentransfer selbst, daher Art, Preis, Gepäck und späteste Ankunftszeit vorab mit dem Resort klären.",
+   "src": "https://www.bento.travel/maldives",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden verfolgt, das Rechtssystem orientiert sich an der Scharia.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malediven-node/maledivensicherheit-220382",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "TW",
+   "name": "Taiwan, Chinesische Provinz",
+   "flag": "🇹🇼",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrdienst mit englischer Buchung in den Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "Tripool",
+     "cat": "taxi",
+     "pkg": "app.tripool.client",
+     "note": "Vorab gebuchte Transfers, etwa zum Flughafen",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Lizenzierte Taxis in Keelung, Taipeh und Taoyuan",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "55688 Taiwan Taxi",
+     "cat": "taxi",
+     "pkg": "dbx.taiwantaxi",
+     "note": "Großes lokales Taxinetz, Englisch und Barzahlung",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer kann scheitern",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "yoxi",
+     "cat": "taxi",
+     "pkg": "tw.com.yoxi.rider",
+     "note": "Lokale Taxi-App auf Englisch, bar oder per Karte",
+     "use": "limited",
+     "req": "Ausländische Karten werden nicht immer akzeptiert",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "Uber Eats",
+     "cat": "delivery",
+     "pkg": "com.ubercab.eats",
+     "note": "Essenslieferung mit englischer Oberfläche",
+     "ess": true,
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Zweiter großer Lieferdienst für Essen und Läden",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "EZTABLE",
+     "cat": "delivery",
+     "pkg": "com.eztable.shareshopping",
+     "note": "Tische reservieren, vor allem Hotelbuffets",
+     "use": "limited",
+     "req": "Registrierung mit ausländischen Daten kann scheitern",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "LINE",
+     "cat": "misc",
+     "pkg": "jp.naver.line.android",
+     "note": "Wichtigster Messenger, auch bei Hotels und Guides",
+     "use": "limited",
+     "req": "Manche Dienste brauchen taiwanische Telefonnummer",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "Bus+",
+     "cat": "transit",
+     "pkg": "hearsilent.busplus",
+     "note": "Busse landesweit in Echtzeit, auf Englisch",
+     "ess": true,
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "YouBike",
+     "cat": "micro",
+     "pkg": "tw.com.youbike.plus",
+     "note": "Leihräder, Einzelfahrt per Kreditkarte möglich",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "Taiwan Railway e-booking",
+     "cat": "rail",
+     "pkg": "tw.gov.tra.twtraffic",
+     "note": "Fahrpläne, Buchung und Handytickets der TRA",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto anlegen kann scheitern, Gastbuchung mit Reisepass",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "T Express",
+     "cat": "rail",
+     "pkg": "tw.com.thsrc.texpress",
+     "note": "Hochgeschwindigkeitszug buchen, QR-Ticket aufs Handy",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Kreditkarte wird teils abgelehnt",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "Taiwan Weather",
+     "cat": "safety",
+     "pkg": "org.cwb",
+     "note": "Amtliches Wetter mit Erdbeben- und Taifunwarnung",
+     "ess": true,
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "Readiness TW e-APP",
+     "cat": "safety",
+     "pkg": "com.nfa.report",
+     "note": "Warnungen der Feuerwehr, auch Offline-Karten",
+     "src": "https://www.bento.travel/es/taiwan"
+    },
+    {
+     "name": "iRent",
+     "cat": "carshare",
+     "note": "Carsharing per App mit Stationen und Rückgabe",
+     "use": "no",
+     "req": "Taiwanischer Führerschein nötig, für Touristen ungeeignet",
+     "src": "https://foreignersintaiwan.com/blog/scooter-and-car-rental-in-taiwan"
+    },
+    {
+     "name": "Go Smart",
+     "cat": "carshare",
+     "note": "Carsharing von CarPlus",
+     "use": "no",
+     "req": "Nur für taiwanische Staatsbürger mit lokalem Führerschein",
+     "src": "https://foreignersintaiwan.com/blog/scooter-and-car-rental-in-taiwan"
+    },
+    {
+     "name": "Zipcar",
+     "cat": "carshare",
+     "note": "Carsharing per App",
+     "use": "no",
+     "req": "Taiwanischer Führerschein und ARC nötig",
+     "src": "https://foreignersintaiwan.com/blog/scooter-and-car-rental-in-taiwan"
+    },
+    {
+     "name": "WeMo Scooter",
+     "cat": "micro",
+     "note": "Elektroroller zum Mieten per App",
+     "use": "no",
+     "req": "Taiwanischer Führerschein nötig, Anmeldung schwierig",
+     "src": "https://www.justaiwantour.com/riding-scooter-in-taiwan/"
+    },
+    {
+     "name": "GoShare",
+     "cat": "micro",
+     "note": "Gogoro Elektroroller per App mieten",
+     "use": "no",
+     "req": "Taiwanischer Führerschein nötig",
+     "src": "https://www.justaiwantour.com/riding-scooter-in-taiwan/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kaohsiung",
+     "match": [
+      "Kaohsiung"
+     ],
+     "apps": [
+      {
+       "name": "高雄捷運 通勤助理",
+       "cat": "transit",
+       "note": "Offizielle Metro-App mit Ankunft und Auslastung",
+       "src": "https://apps.apple.com/tw/app/%E9%AB%98%E9%9B%84%E6%8D%B7%E9%81%8B-%E9%80%9A%E5%8B%A4%E5%8A%A9%E7%90%86/id6446165140?l=en-GB"
+      }
+     ]
+    },
+    {
+     "name": "Taichung",
+     "match": [
+      "Taichung"
+     ],
+     "apps": [
+      {
+       "name": "Taichung MRT",
+       "cat": "transit",
+       "note": "Offizielle Metro-App, nur auf Chinesisch",
+       "src": "https://apps.apple.com/app/id1532866812"
+      }
+     ]
+    },
+    {
+     "name": "Tainan",
+     "match": [
+      "Tainan"
+     ],
+     "apps": [
+      {
+       "name": "Travel Tainan",
+       "cat": "tourism",
+       "pkg": "tw.com.sundance.app.tainan",
+       "note": "Offizieller Stadtführer mit Bus- und Radinfos",
+       "src": "https://twtainan.net/en/statics/app"
+      }
+     ]
+    },
+    {
+     "name": "Taipei",
+     "match": [
+      "Taipei"
+     ],
+     "apps": [
+      {
+       "name": "Taipei Metro Go",
+       "cat": "transit",
+       "pkg": "tw.com.trtc.is.android05",
+       "note": "Offizielle Metro-App mit Abfahrten und Störungen",
+       "src": "https://www.bento.travel/es/taiwan"
+      },
+      {
+       "name": "Fun Travel In Taipei",
+       "cat": "transit",
+       "pkg": "tms.tw.governmentcase.taipeitranwell",
+       "note": "Verkehrsamt: Bus in Echtzeit, Routen, Parken",
+       "src": "https://its.taipei.gov.tw/app_en.html"
+      },
+      {
+       "name": "Travel Taipei",
+       "cat": "tourism",
+       "note": "Offizieller Stadtführer mit Events und Tipps",
+       "src": "https://travel.taipei/en/app"
+      },
+      {
+       "name": "Taipei FunPASS",
+       "cat": "tourism",
+       "note": "Begleitapp zum Pass für ÖPNV und Attraktionen",
+       "src": "https://apps.apple.com/us/app/taipei-funpass-easy-taipei/id6479234920"
+      }
+     ]
+    }
+   ],
+   "note": "Bargeld in NT$ und eine EasyCard oder iPASS für Busse besorgen, eine lokale Bezahl-App braucht man für kurze Reisen nicht.",
+   "src": "https://www.bento.travel/es/taiwan",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar und die gleichgeschlechtliche Ehe ist möglich, gesellschaftliche Akzeptanz aber nicht überall.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/taiwan-node/taiwansicherheit/200896",
    "checked": "2026-11-18"
   }
  ]
