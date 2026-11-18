@@ -2,26 +2,6 @@
  "continent": "NA",
  "todo": [
   {
-   "code": "SX",
-   "en": "Sint Maarten (Dutch part)",
-   "slug": "sint-maarten-dutch-part"
-  },
-  {
-   "code": "TT",
-   "en": "Trinidad and Tobago",
-   "slug": "trinidad-and-tobago"
-  },
-  {
-   "code": "TC",
-   "en": "Turks and Caicos Islands",
-   "slug": "turks-and-caicos-islands"
-  },
-  {
-   "code": "VG",
-   "en": "Virgin Islands, British",
-   "slug": "virgin-islands-british"
-  },
-  {
    "code": "VI",
    "en": "Virgin Islands, U.S.",
    "slug": "virgin-islands-u-s"
@@ -207,6 +187,26 @@
    "code": "VC",
    "en": "Saint Vincent and the Grenadines",
    "slug": "saint-vincent-and-the-grenadines"
+  },
+  {
+   "code": "SX",
+   "en": "Sint Maarten (Dutch part)",
+   "slug": "sint-maarten-dutch-part"
+  },
+  {
+   "code": "TT",
+   "en": "Trinidad and Tobago",
+   "slug": "trinidad-and-tobago"
+  },
+  {
+   "code": "TC",
+   "en": "Turks and Caicos Islands",
+   "slug": "turks-and-caicos-islands"
+  },
+  {
+   "code": "VG",
+   "en": "Virgin Islands, British",
+   "slug": "virgin-islands-british"
   }
  ]
 }

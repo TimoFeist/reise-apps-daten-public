@@ -1,0 +1,132 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Nur mit Reisepass einreisen, kein Personalausweis. ED-Formular gratis auf entry.sx, Uber gibt es auf der Insel nicht.",
+ "lgbtq_note": "Das Auswärtige Amt nennt für das Königreich der Niederlande keine besonderen Schwierigkeiten für LGBTQ+-Reisende.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sint Maarten ED Form (entry.sx)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Kostenlose digitale Einreisekarte, bis 7 Tage vorher",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.businesswire.com/news/home/20260225415051/en"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084"
+  },
+  {
+   "name": "SXM Taxi",
+   "cat": "taxi",
+   "pkg": "com.rider.sxm",
+   "ess": false,
+   "note": "Lizenzierte Taxis rufen, bar oder digital zahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitstmaarten.com/?p=19264"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auf Sint Maarten nicht aktiv",
+   "city": "",
+   "use": "no",
+   "req": "In Sint Maarten nicht verfügbar",
+   "src": "https://www.visitstmaarten.com/st-maarten-taxis-taxi-prices/"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auf beiden Inselseiten nicht aktiv",
+   "city": "",
+   "use": "no",
+   "req": "In Sint Maarten nicht verfügbar",
+   "src": "https://www.visitstmaarten.com/st-maarten-taxis-taxi-prices/"
+  },
+  {
+   "name": "Orders.sx",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen liefern lassen oder abholen",
+   "city": "",
+   "use": "limited",
+   "req": "Liefergebiet nur niederländische Seite, oft Barzahlung",
+   "src": "https://apps.apple.com/us/app/orderssx/id1517887390"
+  },
+  {
+   "name": "SXM2GO",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von Restaurants der Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/sxm2go/id6443840313"
+  },
+  {
+   "name": "We Are SXM",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline Inselführer für beide Seiten der Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1493427807"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Princess Juliana",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig",
+   "src": "https://www.enterprise.com/en/car-rental-locations/sx/princess-juliana-international-airport-kt09.html"
+  },
+  {
+   "name": "Alamo",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Princess Juliana",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig",
+   "src": "https://www.alamo.com/en/car-rental-locations/sx/princess-juliana-international-airport-kt06.html"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Vor der Ankunft die Online ED Card unter bviedcard.gov.vg ausfüllen. Uber gibt es nicht, Taxis und Fähren direkt buchen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind auch in den Britischen Überseegebieten nicht strafbar, gesellschaftliche Akzeptanz und Schutzrechte sind aber geringer als in Großbritannien.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "BVI ED Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Digitale Ein und Ausreisekarte, Barcode per E-Mail",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gov.vg/news/embarkationdisembarkation-cards-are-now-digital-vi"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+  },
+  {
+   "name": "Visit BVI",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Inselführer mit Stränden, Restaurants und Aktivitäten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/pl/app/visit-bvi/id1501716900"
+  },
+  {
+   "name": "Ferryhopper",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fährtickets, etwa Road Town nach Anegada",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.ferryhopper.com/en/ferry-routes/direct/road-town-anegada"
+  },
+  {
+   "name": "Dash Me",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von lokalen Restaurants, Karte oder bar",
+   "city": "",
+   "use": "limited",
+   "req": "Startete Ende 2025 nur auf Virgin Gorda",
+   "src": "https://www.virginislandsnewsonline.com/en/news/dash-me-new-food-delivery-app-launched-in-vg"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Beef Island und in Road Town",
+   "city": "",
+   "use": "limited",
+   "req": "Befristete lokale Fahrerlaubnis für 10 USD beim Vermieter nötig",
+   "src": "https://avis.com/amp/en/locations/tl/roadtown/eis"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen auf Tortola",
+   "city": "",
+   "use": "limited",
+   "req": "Befristete lokale Fahrerlaubnis für 10 USD beim Vermieter nötig",
+   "src": "https://www.hertz.com/us/en/location/britishvirginislands/tortola"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auf den Inseln nicht aktiv, Taxis per Telefon",
+   "city": "",
+   "use": "no",
+   "req": "Auf den Britischen Jungferninseln nicht verfügbar",
+   "src": "https://cellesim.com/ja/faq/can-i-use-uber-or-taxi-apps-in-the-british-virgin-islands-with-this-esim"
+  }
+ ]
+}

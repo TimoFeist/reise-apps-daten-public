@@ -1,0 +1,132 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220466",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Seit März 2026 vor Ein- und Ausreise auf travel.gov.tt registrieren, nur Taxis mit H-Kennzeichen oder Taxi-Apps nutzen.",
+ "lgbtq_note": "Der Privy Council hat im November 2026 das Verbot gleichgeschlechtlicher Handlungen gekippt, das der Court of Appeal 2025 wieder eingesetzt hatte, Diskretion bleibt ratsam.",
+ "lgbtq_src": "https://www.ajc.com/news/2026/11/top-uk-appeals-court-rules-gay-sex-not-a-crime-in-the-caribbean-nation-of-trinidad-and-tobago/",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Online Arrival/Departure Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflichtformular für Ein- und Ausreise auf travel.gov.tt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://foreign.gov.tt/resources/news/launch-of-trinidad-and-tobago-online-arrivaldeparture-platform/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220466"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220466"
+  },
+  {
+   "name": "TT RideShare",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Lokaler Fahrdienst, vom Auswärtigen Amt als sicher genannt",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Telefonnummer und Verifizierung nötig",
+   "src": "https://apps.apple.com/us/app/tt-rideshare/id1524924554"
+  },
+  {
+   "name": "DROP Ride",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrten auf Abruf, Zahlung bar oder per Karte in der App",
+   "city": "",
+   "use": "limited",
+   "req": "Konto nötig, Zulassung ausländischer Nummern unklar",
+   "src": "https://apps.apple.com/us/app/drop-ride-request-a-ride/id1145690959"
+  },
+  {
+   "name": "DeliverMe TT",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi, Fahrdienst und Paketlieferung in Trinidad",
+   "city": "",
+   "use": "limited",
+   "req": "Konto nötig, nur auf Trinidad",
+   "src": "https://apps.apple.com/app/id1475645263"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "In Trinidad und Tobago nicht aktiv",
+   "city": "",
+   "use": "no",
+   "req": "In Trinidad und Tobago nicht verfügbar",
+   "src": "https://cellesim.com/sk/faq/do-ride-hailing-apps-like-bolt-or-other-local-services-work-in-trinidad-and-tobago-especia"
+  },
+  {
+   "name": "foodDROP",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von Restaurants in Trinidad",
+   "city": "",
+   "use": "limited",
+   "req": "Lieferadresse in Trinidad nötig",
+   "src": "https://apps.apple.com/app/id1478415342"
+  },
+  {
+   "name": "TTIT Ferry Booking",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fährtickets Trinidad und Tobago online buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Nur Kreditkarte, keine Visa Debit, Name wie im Ausweis",
+   "src": "https://book.ttitferry.com/en/"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Piarco mit Abholservice",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig",
+   "src": "https://www.avis.com/en/locations/tt/piarco/pos"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Piarco",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig",
+   "src": "https://www.enterprise.com/en/car-rental-locations/tt/trinidad-tobago-intl-airport-kh03.html"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Reisepass nötig, sechs Monate über den Aufenthalt gültig. Einreiseformular gibt es auf Papier im Flugzeug, kein Uber.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Rechte und Akzeptanz reichen laut Auswärtigem Amt aber nicht an das Vereinigte Königreich heran.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+  },
+  {
+   "name": "RideNow247",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lizenzierte Taxis auf Providenciales, Kartenzahlung in App",
+   "city": "Providenciales",
+   "use": "limited",
+   "req": "Neue App, Anmeldung mit deutscher Nummer unklar",
+   "src": "https://apps.apple.com/us/app/id6759492420"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auf den Inseln nicht aktiv, Taxi telefonisch rufen",
+   "city": "",
+   "use": "no",
+   "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+   "src": "https://www.visittci.com/providenciales/getting-around/ride-hailing"
+  },
+  {
+   "name": "Lyft",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Auf den Inseln nicht aktiv",
+   "city": "",
+   "use": "no",
+   "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+   "src": "https://www.visittci.com/providenciales/getting-around/ride-hailing"
+  },
+  {
+   "name": "Island Cart",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lebensmittel aus lokalen Läden nach Hause geliefert",
+   "city": "Providenciales",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6753957597"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Nicht aktiv, Essen besser telefonisch bestellen",
+   "city": "",
+   "use": "no",
+   "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+   "src": "https://visittci.com/providenciales/restaurants-and-dining/fast-food-take-out-delivery"
+  },
+  {
+   "name": "DoorDash",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Nicht aktiv auf den Inseln",
+   "city": "",
+   "use": "no",
+   "req": "Auf den Turks- und Caicosinseln nicht verfügbar",
+   "src": "https://visittci.com/providenciales/restaurants-and-dining/fast-food-take-out-delivery"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Providenciales, Linksverkehr",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig, meist ab 25 Jahren",
+   "src": "https://www.avis.com/en/locations/lat/tc/turks-caicos/p7l"
+  }
+ ]
+}
