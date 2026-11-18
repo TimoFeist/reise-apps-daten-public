@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 05:18",
+ "version": "2026-11-18 05:30",
  "categories": [
   {
    "id": "entry",
@@ -2663,16 +2663,18 @@
     {
      "name": "Entur",
      "cat": "transit",
-     "note": "Alle Busse, Züge, Fähren in Norwegen, Tickets",
+     "note": "Landesweite Reiseplanung und Tickets für Bahn, Bus, Boot",
      "pkg": "no.entur",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/de/norway/transit"
     },
     {
      "name": "Vy",
      "cat": "rail",
-     "note": "Züge und Busse",
+     "note": "Zugtickets und Fahrplan, dazu Partnerangebote",
      "pkg": "com.intele.nsbmob.app",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/de/norway/transit"
     },
     {
      "name": "EasyPark",
@@ -3212,21 +3214,24 @@
     {
      "name": "NS",
      "cat": "rail",
-     "note": "Offizielle App der niederländischen Bahn",
-     "pkg": "nl.ns.android.activity"
+     "note": "Offizielle Bahn-App mit Gleisen, Störungen und Tickets",
+     "pkg": "nl.ns.android.activity",
+     "src": "https://www.bento.travel/apps/ns"
     },
     {
      "name": "9292",
      "cat": "transit",
-     "note": "ÖPNV-Planer für alle Verkehrsbetriebe in den Niederlanden",
+     "note": "Landesweiter Routenplaner für Bahn, Bus, Tram, Metro und Fähre",
      "pkg": "nl.negentwee",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/netherlands/transit"
     },
     {
      "name": "OVpay",
      "cat": "transit",
-     "note": "Check-in/out mit Bankkarte oder Handy, ohne Registrierung",
-     "pkg": "nl.tls.ovpay"
+     "note": "Fahrten und Kosten beim Bezahlen mit Bankkarte im Blick",
+     "pkg": "nl.tls.ovpay",
+     "src": "https://www.bento.travel/netherlands/transit"
     },
     {
      "name": "Uber",
@@ -14606,6 +14611,921 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit Juni 2024 legal, die Ehe ist Mann und Frau vorbehalten, Schutz vor Diskriminierung gibt es nicht.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Niue",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "CN",
+   "name": "China",
+   "flag": "🇨🇳",
+   "apps": [
+    {
+     "name": "NIA 12367",
+     "cat": "entry",
+     "note": "Offizielle App für die Online-Einreisekarte",
+     "ess": true,
+     "src": "https://english.shanghai.gov.cn/en-OnlineApplication/20260805/698aae992e9b4232a58f00e9e49dd22b.html"
+    },
+    {
+     "name": "Alipay",
+     "cat": "payment",
+     "pkg": "com.eg.android.AlipayGphone",
+     "note": "Wichtigste Bezahl-App, Auslandskarte verknüpfbar",
+     "ess": true,
+     "use": "limited",
+     "req": "SMS-fähige Nummer und Passprüfung nötig, über 200 Yuan 3 % Gebühr",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-china"
+    },
+    {
+     "name": "WeChat",
+     "cat": "payment",
+     "pkg": "com.tencent.mm",
+     "note": "Messenger mit WeChat Pay und Mini-Programmen",
+     "ess": true,
+     "use": "limited",
+     "req": "Auslandskarte nach Passprüfung nur für Einkäufe, keine Überweisungen",
+     "src": "https://www.trip.com/blog/china-apps-guide"
+    },
+    {
+     "name": "DiDi China: Ride Hailing",
+     "cat": "taxi",
+     "pkg": "com.sdu.didi.psnger",
+     "note": "Größter Fahrdienst, auf Englisch, auch in Alipay",
+     "ess": true,
+     "src": "https://www.bento.travel/blog/is-uber-available-in-china"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Funktioniert in Festlandchina nicht",
+     "use": "no",
+     "req": "In Festlandchina nicht verfügbar, stattdessen DiDi nutzen",
+     "src": "https://www.bento.travel/blog/is-uber-available-in-china"
+    },
+    {
+     "name": "AMap Global",
+     "cat": "maps",
+     "pkg": "com.autonavi.minimap",
+     "note": "Beste Karten-App in China, mit englischer Oberfläche",
+     "ess": true,
+     "src": "https://www.bento.travel/china/navigation"
+    },
+    {
+     "name": "Baidu Maps",
+     "cat": "maps",
+     "note": "Chinesische Karten-App, fast nur auf Chinesisch",
+     "use": "limited",
+     "req": "Konto nicht mit ausländischer Nummer möglich",
+     "src": "https://www.trip.com/blog/china-apps-guide"
+    },
+    {
+     "name": "Railway 12306",
+     "cat": "rail",
+     "note": "Offizielle Bahn-App, Tickets mit Pass buchen",
+     "ess": true,
+     "src": "https://www.travelchina.org.cn/en/article/eYesHS7SmCni"
+    },
+    {
+     "name": "Trip.com",
+     "cat": "hotels",
+     "pkg": "ctrip.english",
+     "note": "Hotels, Züge und Tickets mit Auslandskarte buchen",
+     "ess": true,
+     "src": "https://www.trip.com/blog/china-apps-guide"
+    },
+    {
+     "name": "Meituan",
+     "cat": "delivery",
+     "note": "Größte App für Essenslieferung und lokale Deals",
+     "use": "limited",
+     "req": "Zahlung meist über Alipay oder WeChat Pay, Auslandskarten oft abgelehnt",
+     "src": "https://english.shanghai.gov.cn/en-UsefulApps/20240109/89844b5729d64b199463a156bc8ef43d.html"
+    },
+    {
+     "name": "Taobao Shangou",
+     "cat": "delivery",
+     "note": "Lieferdienst, früher Ele.me, eng mit Alipay verknüpft",
+     "use": "limited",
+     "req": "Taobao-Konto und Alipay nötig",
+     "src": "https://www.trip.com/blog/china-apps-guide"
+    },
+    {
+     "name": "Dianping",
+     "cat": "delivery",
+     "note": "Restaurantsuche mit Bewertungen und Adressen",
+     "src": "https://www.trip.com/blog/china-apps-guide"
+    },
+    {
+     "name": "CAR Inc. (Shenzhou Zuche)",
+     "cat": "carshare",
+     "note": "Großer Mietwagenanbieter, auch als Mini-Programm",
+     "use": "limited",
+     "req": "Chinesische Fahrerlaubnis auf Zeit nötig, App braucht chinesische Nummer",
+     "src": "https://english.cq.gov.cn/specials/getaround/TaxisandCarRentals/202608/t20260807_15903822.html"
+    },
+    {
+     "name": "eHi (Yihai Zuche)",
+     "cat": "carshare",
+     "note": "Mietwagen per App oder Mini-Programm",
+     "use": "limited",
+     "req": "Chinesische Fahrerlaubnis auf Zeit und Kreditkarte für Kaution nötig, IDP gilt nicht",
+     "src": "https://english.cq.gov.cn/specials/getaround/TaxisandCarRentals/202608/t20260807_15903930.html"
+    },
+    {
+     "name": "Meituan Bike",
+     "cat": "micro",
+     "note": "Gelbe Leihräder, per WeChat oder Meituan entsperren",
+     "use": "limited",
+     "req": "Passprüfung und hinterlegte Zahlungsart nötig",
+     "src": "https://www.chinaservicesinfo.com/s/202508/14/WS689d9750498edec913ce0bb0/how-to-use-shared-bikes-in-china.html"
+    },
+    {
+     "name": "HelloBike",
+     "cat": "micro",
+     "note": "Blaue Leihräder in vielen Städten",
+     "use": "limited",
+     "req": "Passprüfung und hinterlegte Zahlungsart nötig",
+     "src": "https://www.chinaservicesinfo.com/s/202508/14/WS689d9750498edec913ce0bb0/how-to-use-shared-bikes-in-china.html"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in China nicht erhältlich",
+     "use": "no",
+     "req": "Seit 2022 aus chinesischen App-Stores entfernt",
+     "src": "https://krdo.com/news/2025/11/11/two-of-chinas-most-popular-gay-dating-apps-have-disappeared-from-app-stores/"
+    },
+    {
+     "name": "Blued",
+     "cat": "lgbtq",
+     "note": "Chinesische Dating-App für schwule Männer",
+     "use": "no",
+     "req": "Seit November 2025 auf Anordnung aus App-Stores entfernt",
+     "src": "https://krdo.com/news/2025/11/11/two-of-chinas-most-popular-gay-dating-apps-have-disappeared-from-app-stores/"
+    },
+    {
+     "name": "Pleco",
+     "cat": "misc",
+     "pkg": "com.pleco.chinesesystem",
+     "note": "Offline-Wörterbuch Chinesisch-Englisch mit Schriftzeichen",
+     "src": "https://www.bento.travel/china"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Guangzhou",
+     "match": [
+      "Guangzhou"
+     ],
+     "apps": [
+      {
+       "name": "Guangzhou Metro",
+       "cat": "transit",
+       "note": "Offizielle Metro-App mit Fahrplan und Stationsinfos",
+       "use": "limited",
+       "req": "Englische Oberfläche laut Nutzern unzuverlässig",
+       "src": "https://apps.apple.com/us/app/%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81-%E5%AE%98%E6%96%B9app/id580097761"
+      }
+     ]
+    },
+    {
+     "name": "Peking",
+     "match": [
+      "Beijing",
+      "Peking"
+     ],
+     "apps": [
+      {
+       "name": "SilkPass",
+       "cat": "transit",
+       "note": "BEIJING PASS als NFC-Karte aktivieren und aufladen",
+       "use": "limited",
+       "req": "NFC-fähiges Handy nötig",
+       "src": "https://english.beijing.gov.cn/consuminginbeijing/news/202410/t20241016_3921355.html"
+      }
+     ]
+    },
+    {
+     "name": "Shanghai",
+     "match": [
+      "Shanghai"
+     ],
+     "apps": [
+      {
+       "name": "Metro Daduhui",
+       "cat": "transit",
+       "note": "Offizielle Metro-App mit QR-Code, Mastercard möglich",
+       "src": "https://english.shanghai.gov.cn/en-Transportation/20231214/c727f5e15eff4b8c9340651dd95f3f7c.html"
+      },
+      {
+       "name": "Suishenxing (SH MaaS)",
+       "cat": "transit",
+       "note": "Ein Code für Metro, Bus und Fähre, Visa verknüpfbar",
+       "src": "https://english.shanghai.gov.cn/en-Transportation/20231214/c727f5e15eff4b8c9340651dd95f3f7c.html"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche bis 30 Tage visafrei (Regel bis Ende 2026). Google und WhatsApp sind gesperrt, Alipay oder WeChat Pay vorab einrichten.",
+   "src": "https://www.bento.travel/china",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, ein rechtlicher Schutz fehlt aber und gleichgeschlechtliche Paare sollten sich in der Öffentlichkeit zurückhalten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/china-node/chinasicherheit-200466",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "HK",
+   "name": "Hongkong",
+   "flag": "🇭🇰",
+   "apps": [
+    {
+     "name": "Go Hong Kong",
+     "cat": "entry",
+     "pkg": "hk.gov.immd.gohk",
+     "note": "Offizielle Vorab-Registrierung für das e-Channel",
+     "use": "limited",
+     "req": "e-Channel für Deutsche erst nach Anmeldung vor Ort, ab 18",
+     "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+    },
+    {
+     "name": "Hong Kong Immigration Department",
+     "cat": "entry",
+     "pkg": "hk.gov.immd.mobileapps",
+     "note": "Offizielle Infos der Einwanderungsbehörde",
+     "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Englischsprachig, vermittelt auch lizenzierte Taxis",
+     "ess": true,
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "FlyTaxi",
+     "cat": "taxi",
+     "pkg": "com.flytaxi.hktaxi",
+     "note": "Lokale App für lizenzierte Taxis, Bargeld als Reserve",
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "Keeta",
+     "cat": "delivery",
+     "pkg": "com.sankuai.sailor.afooddelivery",
+     "note": "Große Lieferplattform mit englischer Oberfläche",
+     "ess": true,
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Zweiter großer Lieferdienst, Zahlung per Kreditkarte",
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "OpenRice",
+     "cat": "delivery",
+     "pkg": "com.openrice.android",
+     "note": "Restaurantführer mit Bewertungen und Reservierung",
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "Octopus for Tourists",
+     "cat": "payment",
+     "note": "Octopus auf iPhone oder Apple Watch, Aufladen per Karte",
+     "use": "limited",
+     "req": "Nur iPhone, Apple Watch oder Huawei, ausländische Visa oder Mastercard",
+     "src": "https://www.octopus.com.hk/en/consumer/tourist/apple-pay/index.html"
+    },
+    {
+     "name": "Octopus",
+     "cat": "payment",
+     "pkg": "com.octopuscards.nfc_reader",
+     "note": "Guthaben der Octopus-Karte prüfen und Mobile Octopus",
+     "use": "limited",
+     "req": "Mobile Octopus auf Android nur mit in Hongkong verkauftem Gerät",
+     "src": "https://www.octopus.com.hk/en/consumer/customer-service/faq/android-octopus/about.html"
+    },
+    {
+     "name": "AlipayHK",
+     "cat": "payment",
+     "note": "Verbreitete QR-Bezahl-App in Hongkong",
+     "use": "no",
+     "req": "Hongkonger Telefonnummer nötig",
+     "src": "https://blog.moneysmart.hk/en/digital-wallets/how-to-use-alipayhk-hong-kong-expat-guide/"
+    },
+    {
+     "name": "PayMe",
+     "cat": "payment",
+     "note": "Bezahl- und Überweisungs-App von HSBC",
+     "use": "no",
+     "req": "Hongkonger Ausweis für Kernfunktionen nötig",
+     "src": "https://www.timeout.com/hong-kong/news/payme-is-introducing-new-identity-verification-rules-starting-in-may-042026"
+    },
+    {
+     "name": "Citymapper",
+     "cat": "maps",
+     "pkg": "com.citymapper.app.release",
+     "note": "Bester Routenplaner für MTR, Bus, Tram und Fähre",
+     "ess": true,
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "MyMapHK",
+     "cat": "maps",
+     "pkg": "gis.android.map",
+     "note": "Amtliche Karte mit Wanderwegen und Behörden",
+     "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+    },
+    {
+     "name": "MTR Mobile",
+     "cat": "transit",
+     "pkg": "com.mtr.mtrmobile",
+     "note": "Offizielle MTR-App mit Fahrpreisen und Umstiegen",
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "HKeMobility",
+     "cat": "transit",
+     "pkg": "com.hketransport",
+     "note": "Offizieller Verkehrsplaner der Transportbehörde",
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "App1933",
+     "cat": "transit",
+     "pkg": "com.kmb.app1933",
+     "note": "KMB-Busse mit Ankunftszeiten und Tagespass",
+     "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+    },
+    {
+     "name": "Citybus",
+     "cat": "transit",
+     "pkg": "com.nwfb",
+     "note": "Offizielle App für Citybus-Linien und Ankunftszeiten",
+     "src": "https://play.google.com/store/apps/details?id=com.nwfb"
+    },
+    {
+     "name": "Hong Kong Tramways",
+     "cat": "transit",
+     "pkg": "com.hktramways.client",
+     "note": "Offizielle Tram-App mit Echtzeit-Ankünften",
+     "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+    },
+    {
+     "name": "HelloRide",
+     "cat": "micro",
+     "note": "Stationslose Leihräder",
+     "use": "limited",
+     "req": "Anmeldung per SMS, ausländische Nummer nicht bestätigt",
+     "src": "https://news.spill.org/en/article/2-bike-sharing-apps-vie-for-hong-kong-riders-amid-industrys-roller-coaster-development-381"
+    },
+    {
+     "name": "Locobike",
+     "cat": "micro",
+     "note": "Leihräder mit Karte und Ausflugstipps",
+     "use": "limited",
+     "req": "Anmeldung per SMS, ausländische Nummer nicht bestätigt",
+     "src": "https://news.spill.org/en/article/2-bike-sharing-apps-vie-for-hong-kong-riders-amid-industrys-roller-coaster-development-381"
+    },
+    {
+     "name": "HKeMeter",
+     "cat": "parking",
+     "note": "Parkzeit an Parkuhren aus der Ferne verlängern",
+     "use": "limited",
+     "req": "Erstzahlung vor Ort mit Octopus nötig",
+     "src": "https://www.octopus.com.hk/en/consumer/mobile-payment/driver/hkemeter/index.html"
+    },
+    {
+     "name": "My HKG",
+     "cat": "flights",
+     "pkg": "com.hongkongairport.app.myflight",
+     "note": "Flughafen-App mit Fluginfos und Innenkarten",
+     "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+    },
+    {
+     "name": "Hotels & Pensionen in Hongkong",
+     "cat": "hotels",
+     "pkg": "com.had.guesthouse",
+     "note": "Lizenzierte Hotels und Pensionen prüfen",
+     "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+    },
+    {
+     "name": "MyObservatory",
+     "cat": "safety",
+     "pkg": "hko.MyObservatory_v1_0",
+     "note": "Offizielle Wetter-App mit Taifun- und Regenwarnungen",
+     "ess": true,
+     "src": "https://www.bento.travel/hong-kong"
+    },
+    {
+     "name": "HKSOS",
+     "cat": "safety",
+     "pkg": "com.sosapp.user",
+     "note": "Notruf-App für Wanderungen, sendet den Standort",
+     "src": "https://www.bento.travel/hong-kong"
+    }
+   ],
+   "cities": [],
+   "note": "Deutsche brauchen bis 90 Tage kein Visum. Für Android-Nutzer ist eine physische Octopus-Karte für Bus und Bahn am einfachsten.",
+   "src": "https://www.bento.travel/hong-kong",
+   "lgbtq_note": "Gleichgeschlechtliche Partnerschaften werden nicht anerkannt, ein Gesetz zu ihrer Registrierung lehnte das Parlament im September 2025 ab.",
+   "lgbtq_src": "https://www.ilgaasia.org/publications/hksep2025",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MY",
+   "name": "Malaysia",
+   "flag": "🇲🇾",
+   "apps": [
+    {
+     "name": "MyNIISe",
+     "cat": "entry",
+     "note": "Offizielle Einwanderungs-App, u. a. mit MDAC-Funktion",
+     "use": "limited",
+     "req": "Nutzung durch Touristen nicht bestätigt, MDAC sonst per Webformular",
+     "src": "https://www.businesstoday.com.my/2025/12/24/top-features-of-the-new-immigration-application-from-the-home-ministry/"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Wichtigster Fahrdienst, Zahlung bar oder per Karte",
+     "ess": true,
+     "src": "https://www.bento.travel/malaysia/ride-hailing"
+    },
+    {
+     "name": "AirAsia MOVE",
+     "cat": "taxi",
+     "pkg": "com.airasia.mobile",
+     "note": "Zweites Angebot für Fahrten und Flughafentransfers",
+     "src": "https://www.bento.travel/malaysia/ride-hailing"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Zweite große Lieferplattform neben GrabFood",
+     "src": "https://www.bento.travel/malaysia/food-delivery"
+    },
+    {
+     "name": "Shopee",
+     "cat": "delivery",
+     "note": "Enthält ShopeeFood, für Kurzurlauber eher umständlich",
+     "use": "limited",
+     "req": "Einrichtung und lokale Zahlungswege aufwendig",
+     "src": "https://www.bento.travel/malaysia/food-delivery"
+    },
+    {
+     "name": "Touch 'n Go eWallet",
+     "cat": "payment",
+     "pkg": "my.com.tngdigital.ewallet",
+     "note": "Verbreitete QR-Wallet, ersetzt nicht die TnG-Karte",
+     "use": "no",
+     "req": "Malaysische oder singapurische Nummer nötig, Deutschland nicht freigeschaltet",
+     "src": "https://www.bento.travel/malaysia/payments"
+    },
+    {
+     "name": "Boost",
+     "cat": "payment",
+     "note": "Lokale E-Wallet für QR-Zahlungen und Parken",
+     "use": "no",
+     "req": "Malaysische Handynummer nötig",
+     "src": "https://ringgitplus.com/en/e-wallet/Boost-Wallet.html"
+    },
+    {
+     "name": "MAE by Maybank2u",
+     "cat": "payment",
+     "note": "Digitales Konto und Wallet der Maybank",
+     "use": "limited",
+     "req": "Laut FAQ auch für Ausländer, für Touristen nicht bestätigt",
+     "src": "https://www.maybank2u.com.my/iwov-resources/pdf/personal/digital_banking/MAE_FAQ.pdf"
+    },
+    {
+     "name": "MyRapid PULSE",
+     "cat": "transit",
+     "pkg": "com.prasarana.pulse.v4",
+     "note": "Offizielle Routenplanung für Rapid KL, Penang und Kuantan",
+     "ess": true,
+     "src": "https://myrapid.com.my/pulse/mobile-app"
+    },
+    {
+     "name": "KITS Style",
+     "cat": "rail",
+     "pkg": "mpay.apps.kits.superapp",
+     "note": "Offizielle KTMB-App für ETS, Intercity und Komuter",
+     "ess": true,
+     "src": "https://appgoblin.info/apps/mpay.apps.kits.superapp"
+    },
+    {
+     "name": "GoCar",
+     "cat": "carshare",
+     "note": "Carsharing, Nachfolger für ehemalige SOCAR-Kunden",
+     "use": "limited",
+     "req": "Reisepass, Führerschein oder IDP und Selfie-Prüfung nötig",
+     "src": "https://discover.gocar.my/2024/11/03/can-i-use-gocar-if-im-a-foreigner-absolutely/"
+    },
+    {
+     "name": "Beam",
+     "cat": "micro",
+     "pkg": "com.escooterapp",
+     "note": "Leih-E-Scooter, E-Bikes und E-Mopeds in vielen Städten",
+     "src": "https://ridebeam.com/my"
+    },
+    {
+     "name": "Flexi Parking",
+     "cat": "parking",
+     "note": "Parken bei vielen Kommunen, u. a. KL und Selangor",
+     "src": "https://www.motorist.my/article/2567/the-motorist-guide-to-useful-parking-apps-for-malaysia-travels"
+    },
+    {
+     "name": "SaveME999",
+     "cat": "safety",
+     "pkg": "my.gov.onegovappstore.saveme999",
+     "note": "Staatliche Notruf-App, Anruf unter 999 geht weiter",
+     "use": "no",
+     "req": "Registrierung verlangt Foto der malaysischen MyKad",
+     "src": "https://says.com/my/tech/how-set-up-saveme999-latest-app-report-emergencies-malaysia"
+    },
+    {
+     "name": "MyDIMS",
+     "cat": "safety",
+     "note": "Katastrophenwarnungen der NADMA mit Evakuierungskarte",
+     "src": "https://www.malaymail.com/amp/news/malaysia/2026/04/24/nadma-launches-mydims-app-for-realtime-disaster-alerts-and-reporting/217562"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Malaysia blockiert",
+     "use": "no",
+     "req": "Seit Februar 2026 von der MCMC gesperrt",
+     "src": "https://www.therakyatpost.com/news/malaysia/2026/02/26/malaysia-blocks-grindr-and-blued-dating-apps/"
+    },
+    {
+     "name": "Blued",
+     "cat": "lgbtq",
+     "note": "Dating-App für Männer, in Malaysia blockiert",
+     "use": "no",
+     "req": "Seit Februar 2026 von der MCMC gesperrt",
+     "src": "https://www.therakyatpost.com/news/malaysia/2026/02/26/malaysia-blocks-grindr-and-blued-dating-apps/"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Fahrer-App für Verkehr, Gefahren und Umleitungen",
+     "src": "https://www.bento.travel/malaysia"
+    },
+    {
+     "name": "redBus",
+     "cat": "rail",
+     "pkg": "in.redbus.android",
+     "note": "Vermittler für viele Fernbusse und ausgewählte Fähren",
+     "src": "https://www.bento.travel/malaysia"
+    }
+   ],
+   "cities": [
+    {
+     "name": "George Town",
+     "match": [
+      "George Town"
+     ],
+     "apps": [
+      {
+       "name": "Rapid On-Demand",
+       "cat": "transit",
+       "note": "Rufbus von Rapid Penang mit Live-Ortung",
+       "src": "https://www.malaymail.com/news/malaysia/2025/11/10/rapid-penang-introduces-rapid-on-demand-app-to-replace-kummute-from-nov-15/197842"
+      },
+      {
+       "name": "Penang Smart Parking",
+       "cat": "parking",
+       "note": "Offizielle Park-App der Stadträte MBPP und MBSP",
+       "src": "https://www.thestar.com.my/news/nation/2025/01/03/free-parking-in-penang-until-app-outage-is-fixed-says-state-govt"
+      },
+      {
+       "name": "Penang Hill Hiking Trails",
+       "cat": "tourism",
+       "note": "Wanderwege am Penang Hill mit Navigation und Wetter",
+       "src": "https://thestar.com.my/metro/metro-news/2025/01/16/app-offers-happy-trails-for-penang-hill-hikers"
+      }
+     ]
+    },
+    {
+     "name": "Johor Bahru",
+     "match": [
+      "Johor Bahru"
+     ],
+     "apps": [
+      {
+       "name": "MyJohor Transport",
+       "cat": "transit",
+       "pkg": "com.paj",
+       "note": "Offizielle App für Busse in Johor mit QR-Einstieg",
+       "use": "limited",
+       "req": "Registrierung laut Nutzerbewertungen oft fehlerhaft",
+       "src": "https://play.google.com/store/apps/details?id=com.paj"
+      }
+     ]
+    },
+    {
+     "name": "Kuala Lumpur",
+     "match": [
+      "Kuala Lumpur"
+     ],
+     "apps": [
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "pkg": "ee.mtakso.client",
+       "note": "Lizenzierter Fahrdienst zum Preisvergleich",
+       "src": "https://www.bento.travel/malaysia/ride-hailing"
+      },
+      {
+       "name": "GoKL",
+       "cat": "transit",
+       "note": "Echtzeit für die DBKL-Stadtbusse, Ausländer zahlen RM1",
+       "src": "https://klccc.dbkl.gov.my/gokl-2/"
+      },
+      {
+       "name": "EZ KL Smart Park",
+       "cat": "parking",
+       "note": "Straßenparken in KL zahlen, Kartenaufladung möglich",
+       "src": "https://paultan.org/2025/01/03/dbkl-no-longer-accepting-jomparking-for-payment-in-2025-six-other-apps-retained-for-public-parking/"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche bis 90 Tage visumfrei, MDAC bis 3 Tage vorher online ausfüllen. Für Bahn und Bus eine physische Touch 'n Go Karte nutzen.",
+   "src": "https://www.bento.travel/malaysia",
+   "lgbtq_note": "Einvernehmliche homosexuelle Handlungen können mit bis zu 20 Jahren Haft bestraft werden, seit 2023 sind auch LGBTIQ-Symbole wie Regenbogen-Accessoires verboten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malaysia-node/malaysiasicherheit-223616",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "PH",
+   "name": "Philippinen",
+   "flag": "🇵🇭",
+   "apps": [
+    {
+     "name": "Philippine eTravel",
+     "cat": "entry",
+     "note": "Kostenlose Pflichtregistrierung vor der Einreise",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/philippinen-node/philippinensicherheit/212492"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Wichtigster Fahrdienst, Essen liefern per GrabFood",
+     "ess": true,
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Angkas",
+     "cat": "taxi",
+     "pkg": "com.angkas.customer",
+     "note": "Motorradtaxi in Metro Manila und Cebu",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrten mit eigenem Preisvorschlag",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "JoyRide",
+     "cat": "taxi",
+     "pkg": "com.joyride.rider",
+     "note": "Autos, Motorradtaxis und Toyota-Mietwagen",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Move It",
+     "cat": "taxi",
+     "pkg": "com.moveit.app.customer",
+     "note": "Motorradtaxi für kurze Strecken in der Stadt",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Green GSM",
+     "cat": "taxi",
+     "pkg": "com.gsm.customer.gsm",
+     "note": "Elektrotaxis, vor allem in Metro Manila",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Maxim",
+     "cat": "taxi",
+     "pkg": "com.taxsee.taxsee",
+     "note": "Ausweich-App für Fahrten in vielen Städten",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Lieferdienst mit anderen Restaurants und Gutscheinen",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Pick.A.Roo",
+     "cat": "delivery",
+     "pkg": "com.pickaroo.android",
+     "note": "Kleinerer Lieferdienst, vor allem in Metro Manila",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "GCash",
+     "cat": "payment",
+     "pkg": "com.globe.gcash.android",
+     "note": "Verbreitete QR-Wallet, Touristenkonto GTourist",
+     "use": "no",
+     "req": "GTourist nur mit US-Nummer (+1), sonst philippinische Nummer und ID nötig",
+     "src": "https://help.gcash.com/hc/articles/53417886058521-How-to-create-a-GTourist-account-on-GCash"
+    },
+    {
+     "name": "Maya",
+     "cat": "payment",
+     "note": "E-Wallet für QR-Zahlungen im ganzen Land",
+     "use": "limited",
+     "req": "Basiskonto mit Reisepass, volle Funktionen nur mit philippinischer ID, lokale Nummer empfohlen",
+     "src": "https://www.belaroundtheworld.com/cashless-in-the-philippines/"
+    },
+    {
+     "name": "Messenger",
+     "cat": "misc",
+     "pkg": "com.facebook.orca",
+     "note": "Wichtigster Chat mit Hotels und Anbietern",
+     "ess": true,
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Zweiter verbreiteter Messenger",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Navigation mit Verkehrslage in den Städten",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karten ohne Konto als Reserve",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Agoda",
+     "cat": "hotels",
+     "pkg": "com.agoda.mobile.consumer",
+     "note": "Hotels, Resorts und Inselunterkünfte buchen",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Klook",
+     "cat": "tourism",
+     "pkg": "com.klook",
+     "note": "Touren, Ausflüge und Transfers buchen",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Cebu Pacific",
+     "cat": "flights",
+     "pkg": "com.inkglobal.cebu.android",
+     "note": "Inlandsflüge buchen, einchecken und Status sehen",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "Philippine Airlines",
+     "cat": "flights",
+     "pkg": "com.pal.dx",
+     "note": "Flüge buchen, Online-Check-in und Flugstatus",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "AirAsia MOVE",
+     "cat": "flights",
+     "pkg": "com.airasia.mobile",
+     "note": "Buchungen bei AirAsia Philippines verwalten",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "2GO",
+     "cat": "rail",
+     "pkg": "applabs.mobile2go.ph",
+     "note": "Lange Fährverbindungen zwischen großen Häfen",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "OceanJet",
+     "cat": "rail",
+     "note": "Schnellfähren in den Visayas, Buchung im Web",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "PANaHON",
+     "cat": "safety",
+     "pkg": "com.dostpagasa.panahon",
+     "note": "Offizielle PAGASA-App für Wetter und Taifunwarnungen",
+     "ess": true,
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "HazardHunterPH",
+     "cat": "safety",
+     "note": "Gefahrenkarte für Erdbeben, Fluten und Vulkane",
+     "src": "https://www.bento.travel/philippines"
+    },
+    {
+     "name": "OOPA",
+     "cat": "carshare",
+     "note": "Privatautos zum Selbstfahren mieten",
+     "use": "limited",
+     "req": "Identitätsprüfung in der App, Bedingungen für Ausländer unklar",
+     "src": "https://apps.apple.com/us/app/id6759645309"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Boracay",
+     "match": [
+      "Boracay"
+     ],
+     "apps": [
+      {
+       "name": "LezzGo Boracay",
+       "cat": "rail",
+       "note": "Hafengebühren und Boot nach Boracay vorab per QR",
+       "src": "https://www.wheninmanila.com/boracay-all-in-one-digital-ticketing-trip-smoother"
+      }
+     ]
+    },
+    {
+     "name": "Davao",
+     "match": [
+      "Davao"
+     ],
+     "apps": [
+      {
+       "name": "DC Bus Tracker",
+       "cat": "transit",
+       "note": "Städtisches Webportal mit Busstandorten in Echtzeit",
+       "src": "https://www.sunstar.com.ph/davao/dc-bus-tracker-app-goes-live"
+      },
+      {
+       "name": "Digital Davao Tourist Passport",
+       "cat": "tourism",
+       "note": "Digitaler Touristenpass mit Rabatten und Gutscheinen",
+       "src": "https://www.sunstar.com.ph/davao/davao-city-tourism-goes-digital-with-new-mobile-passport"
+      }
+     ]
+    },
+    {
+     "name": "Manila",
+     "match": [
+      "Manila"
+     ],
+     "apps": [
+      {
+       "name": "Sakay.ph",
+       "cat": "transit",
+       "pkg": "com.byimplication.sakay",
+       "note": "Routenplaner für Jeepneys, Busse und Bahnen",
+       "ess": true,
+       "src": "https://www.bento.travel/philippines"
+      },
+      {
+       "name": "beep",
+       "cat": "transit",
+       "pkg": "com.beeptopay.android",
+       "note": "Begleit-App zur beep-Karte für LRT, MRT und Busse",
+       "use": "limited",
+       "req": "Physische beep-Karte nötig",
+       "src": "https://www.bento.travel/philippines"
+      },
+      {
+       "name": "Moovr PH",
+       "cat": "micro",
+       "note": "Leihräder und E-Scooter in BGC, Makati und Alabang",
+       "src": "https://www.bworldonline.com/bw-launchpad/2025/02/05/651107/moovr-bullish-about-increased-e-scooter-use-in-philippines"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche bekommen bei Einreise 30 Tage Aufenthalt, vorher eTravel ausfüllen. Taifunwarnungen beachten, Bargeld für kleine Läden mitnehmen.",
+   "src": "https://www.bento.travel/philippines",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen und gute gesellschaftliche Akzeptanz, gleichgeschlechtliche Partnerschaften und Ehen werden aber nicht anerkannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/philippinen-node/philippinensicherheit/212492",
    "checked": "2026-11-18"
   }
  ]
