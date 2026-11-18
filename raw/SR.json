@@ -1,0 +1,132 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/suriname-node/surinamesicherheit/220450",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Vor der Reise die e-Tourist-Card beantragen und das Einreiseformular auf icf.sr frühestens sieben Tage vorher ausfüllen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1869 legal und Diskriminierung ist verboten, gleichgeschlechtliche Paare werden aber rechtlich kaum anerkannt.",
+ "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Suriname",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Suriname e-Tourist Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Touristenkarte online beantragen und ausgedruckt mitführen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/suriname-node/surinamesicherheit/220450"
+  },
+  {
+   "name": "ICF Einreiseformular",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Webformular icf.sr, frühestens 7 Tage vor Abflug",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/suriname-node/surinamesicherheit/220450"
+  },
+  {
+   "name": "Ulstrel Taxi 1680",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Taxi per App bestellen, bar oder anders zahlen",
+   "city": "Paramaribo",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6449247967"
+  },
+  {
+   "name": "Hertog Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Taxi-App mit Fahrpreisschätzung und Live-Ortung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/dk/app/hertog-taxi/id6502953376"
+  },
+  {
+   "name": "FoodDelivery.sr",
+   "cat": "delivery",
+   "pkg": "com.fooddeliverysr.orderingapp",
+   "ess": true,
+   "note": "Essen von vielen Restaurants, Karte an der Tür oder bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1384542498"
+  },
+  {
+   "name": "Ride Eats",
+   "cat": "delivery",
+   "pkg": "com.resvevo.rideeats",
+   "ess": false,
+   "note": "Restaurantführer und Essenslieferung für Suriname",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.resvevo.rideeats&hl=en_US"
+  },
+  {
+   "name": "Go Delivery",
+   "cat": "delivery",
+   "pkg": "sr.godelivery.app",
+   "ess": false,
+   "note": "Lebensmittel per App bestellen und liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=sr.godelivery.app"
+  },
+  {
+   "name": "Discover Cars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen in Paramaribo und am Flughafen PBM vergleichen",
+   "city": "Paramaribo",
+   "use": "limited",
+   "req": "Internationaler Führerschein zusammen mit dem deutschen nötig",
+   "src": "https://www.discovercars.com/suriname/paramaribo"
+  },
+  {
+   "name": "Maps.me",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline-Karten, zeigt oft auch Wanderwege im Regenwald",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/the-guianas/suriname/suriname-travel-resources-apps-maps-emergency-cont/"
+  },
+  {
+   "name": "Suriname App",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reiseführer mit Orten, Touren, Lokalen und Unterkünften",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6639612442"
+  },
+  {
+   "name": "Uni5Pay+",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokales Wallet für Zahlungen per QR-Code und Telefonnummer",
+   "city": "",
+   "use": "limited",
+   "req": "Für Einheimische gedacht, Bedingungen für Ausländer nicht belegt",
+   "src": "https://apps.apple.com/us/app/uni5pay/id1464144473"
+  }
+ ]
+}

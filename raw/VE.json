@@ -1,0 +1,121 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/venezuelasicherheit-224982",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Teilreisewarnung für Grenzgebiete, von Reisen in den Rest wird abgeraten; Geldautomaten geben kaum Geld aus, kleine US-Dollar-Scheine mitnehmen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe und eingetragene Partnerschaft gibt es nicht, Schutz vor Diskriminierung nur teilweise.",
+ "lgbtq_src": "https://www.equaldex.com/region/venezuela",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Ridery",
+   "cat": "taxi",
+   "pkg": "com.ridery",
+   "ess": true,
+   "note": "Größter lokaler Fahrdienst, auch Moto und Flughafen",
+   "city": "",
+   "use": "limited",
+   "req": "SMS-Bestätigung mit ausländischer Nummer teils schwierig",
+   "src": "https://play.google.com/store/apps/details?id=com.ridery&hl=en_US"
+  },
+  {
+   "name": "Yummy Rides",
+   "cat": "taxi",
+   "pkg": "com.yummyrides",
+   "ess": false,
+   "note": "Fahrdienst in über 20 Städten, Auto, Moto und Kurier",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlung mit ausländischer Karte nicht bestätigt",
+   "src": "https://play.google.com/store/apps/details?id=com.yummyrides"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst mit Economy, Comfort und Moto",
+   "city": "Caracas",
+   "use": "limited",
+   "req": "Zahlung per Pago Móvil oder Karte, ausländische Karte nicht bestätigt",
+   "src": "https://www.descubre.vc/noticia/yango-ride-integra-pagos-digitales-y-lanza-la-funci-n-mizona-en-venezuela-2026-05-27"
+  },
+  {
+   "name": "Wawa",
+   "cat": "transit",
+   "pkg": "com.wawainc.lawawa",
+   "ess": false,
+   "note": "Sammelfahrten auf festen Routen, auch zwischen Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung nötig, ausländische Zahlung nicht bestätigt",
+   "src": "https://www.enwawa.com/en/"
+  },
+  {
+   "name": "Yummy",
+   "cat": "delivery",
+   "pkg": "com.yummy.customer",
+   "ess": true,
+   "note": "Super-App für Essen, Einkauf und Apotheke",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlung mit ausländischer Karte nicht bestätigt",
+   "src": "https://www.yummysuperapp.com/en"
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": false,
+   "note": "Restaurants, Supermarkt und Apotheke nach Hause",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten werden teils abgelehnt, Barzahlung möglich",
+   "src": "https://play.google.com/store/apps/details?id=com.pedidosya&hl=en_US"
+  },
+  {
+   "name": "SUVE",
+   "cat": "transit",
+   "pkg": "com.suve.app_metro",
+   "ess": false,
+   "note": "Offizielle App zum Aufladen der Metro-Karte SUVE",
+   "city": "Caracas",
+   "use": "limited",
+   "req": "SUVE-Karte nötig, Zahlungswege in der Quelle nicht genannt",
+   "src": "https://finanzasdigital.com/app-suve-metro-caracas-digitalizacion/"
+  },
+  {
+   "name": "En La Parada",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Digitale Fahrkarte für die Bahn in die Valles del Tuy",
+   "city": "Caracas",
+   "use": "no",
+   "req": "Venezolanische Cédula und venezolanisches Bankkonto nötig",
+   "src": "https://eldiario.com/2026/09/08/aplicacion-ife-en-la-parada/"
+  },
+  {
+   "name": "Pago Móvil",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete Sofortzahlung über die Banking-App",
+   "city": "",
+   "use": "no",
+   "req": "Venezolanisches Bankkonto und registrierte Nummer nötig",
+   "src": "https://finanzasdigital.com/como-hacer-un-pago-movil-pasos-y-comisiones/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisewarnungen und Hinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/venezuelasicherheit-224982"
+  }
+ ]
+}
