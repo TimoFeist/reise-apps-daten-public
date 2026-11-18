@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 15:38",
+ "version": "2026-11-18 15:52",
  "categories": [
   {
    "id": "entry",
@@ -21520,6 +21520,271 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, Daten zur gesellschaftlichen Akzeptanz fehlen.",
    "lgbtq_src": "https://www.equaldex.com/region/mayotte",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "LC",
+   "name": "St. Lucia",
+   "flag": "🇱🇨",
+   "apps": [
+    {
+     "name": "Saint Lucia Online ED Form",
+     "cat": "entry",
+     "note": "Online Einreise und Zollformular, QR Code vorzeigen",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750"
+    },
+    {
+     "name": "Allez",
+     "cat": "taxi",
+     "pkg": "com.allez.rider",
+     "note": "Lokaler Fahrdienst mit Festpreis und Kartenzahlung",
+     "ess": true,
+     "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+    },
+    {
+     "name": "Tropicab",
+     "cat": "taxi",
+     "note": "Fahrdienst für St. Lucia, Fahrten vorab planbar",
+     "src": "https://apps.apple.com/app/id6737500741"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fährt seit 2026, Regierung hält Betrieb für illegal",
+     "use": "limited",
+     "req": "Ohne staatliche Genehmigung, Angebot kann enden",
+     "src": "https://www.caribbeannationalweekly.com/news/caribbean-news/st-lucia-warns-uber-operating-illegally-despite-cease-letters/"
+    },
+    {
+     "name": "SLU Eats",
+     "cat": "delivery",
+     "note": "Essen von Restaurants bestellen, Lieferung oder Abholung",
+     "src": "https://apps.apple.com/de/app/slu-eats/id6738348288"
+    },
+    {
+     "name": "TropX",
+     "cat": "delivery",
+     "note": "Essen, Lebensmittel und Pakete inselweit liefern",
+     "src": "https://apps.apple.com/us/app/tropx/id6745878332"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen in der Ankunftshalle am Flughafen Hewanorra",
+     "use": "limited",
+     "req": "Ab 21 Jahren, lokale Fahrerlaubnis nötig",
+     "src": "https://www.sixt.com/car-rental/st-lucia/vieux-fort/st-lucia-intl-airport/"
+    },
+    {
+     "name": "Hertz",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Hewanorra mit Shuttle",
+     "use": "limited",
+     "req": "Führerschein seit 3 Jahren, lokale Erlaubnis 22 USD",
+     "src": "https://www.hertz.com/pe/en/location/saintlucia/vieuxfort/uvfo50"
+    },
+    {
+     "name": "L'Express des Îles",
+     "cat": "rail",
+     "note": "Fähre nach Martinique, Dominica und Guadeloupe",
+     "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+    },
+    {
+     "name": "FunToSee Island Water Ferry",
+     "cat": "rail",
+     "note": "Wassertaxi vom Flughafen zu Resorts im Nordwesten",
+     "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+    }
+   ],
+   "cities": [],
+   "note": "Vor der Einreise ist ein Online Einreise- und Zollformular nötig, es öffnet 72 Stunden vor Reiseantritt.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MF",
+   "name": "Saint Martin (Französischer Teil)",
+   "flag": "🇲🇫",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+    },
+    {
+     "name": "FR-Alert",
+     "cat": "safety",
+     "note": "Französische Warnmeldungen aufs Handy im Gefahrengebiet",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+    },
+    {
+     "name": "We Are SXM",
+     "cat": "tourism",
+     "note": "Offline Inselführer für beide Seiten der Insel",
+     "src": "https://apps.apple.com/app/id1493427807"
+    },
+    {
+     "name": "RIDEZEE",
+     "cat": "taxi",
+     "note": "Lizenzierte Taxis von Sint Maarten, Tarife für beide Seiten",
+     "use": "limited",
+     "req": "Startet auf Sint Maarten, französische Seite unklar",
+     "src": "https://apps.apple.com/dz/app/sxm-cab/id6477154512"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Auf der Insel nicht aktiv, Taxis per Telefon",
+     "use": "no",
+     "req": "In Saint-Martin nicht verfügbar",
+     "src": "https://www.travelwithhello.com/blog/saint-martinfrench-part-transport-guide"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Grand Case",
+     "use": "limited",
+     "req": "Führerschein nötig, Fahreralter bei Buchung 25+",
+     "src": "https://www.avis.com/en/locations/zf/saint-martin/sfg"
+    }
+   ],
+   "cities": [],
+   "note": "Personalausweis reicht, bei Flug über Sint Maarten oder andere Inseln ist ein sechs Monate gültiger Reisepass nötig.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+   "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "PM",
+   "name": "St. Pierre und Miquelon",
+   "flag": "🇵🇲",
+   "apps": [
+    {
+     "name": "SPM Exceptions",
+     "cat": "tourism",
+     "note": "Offizielle Inselinfos, Touren, Events und Fährhinweise",
+     "ess": true,
+     "src": "https://apps.apple.com/lb/app/spm-exceptions/id1610708751"
+    },
+    {
+     "name": "Transit",
+     "cat": "rail",
+     "pkg": "com.thetransitapp.droid",
+     "note": "Fahrpläne der SPM Ferries zwischen den Inseln",
+     "src": "https://transitapp.com/fr/region/saint-pierre-et-miquelon"
+    },
+    {
+     "name": "Air Saint-Pierre",
+     "cat": "flights",
+     "note": "Einzige Fluglinie, Buchung über die Website",
+     "ess": true,
+     "src": "https://airsaintpierre.com/"
+    },
+    {
+     "name": "ArriveCAN",
+     "cat": "entry",
+     "note": "Zollerklärung vorab bei Einreise nach Kanada",
+     "src": "https://airsaintpierre.com/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+    }
+   ],
+   "cities": [],
+   "note": "Bei Anreise über Kanada ist eine eTA nötig, seit Juni 2026 auch für die Fähre nach Fortune.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+   "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "VC",
+   "name": "St. Vincent und die Grenadinen",
+   "flag": "🇻🇨",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268"
+    },
+    {
+     "name": "BeamX",
+     "cat": "taxi",
+     "note": "Lokaler Fahrdienst, nur auf St. Vincent verfügbar",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto mit Telefonnummer nötig, Bedingungen unklar",
+     "src": "https://apps.apple.com/us/app/id1512423838"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrdienst, auf St. Vincent nicht im Angebot",
+     "use": "no",
+     "req": "In St. Vincent und den Grenadinen nicht verfügbar",
+     "src": "https://www.travelwithhello.com/blog/saint-vincent-and-the-grenadines-transport-guide"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen in der Ankunftshalle am Flughafen Argyle",
+     "use": "limited",
+     "req": "Ab 25, Kreditkarte, lokale Fahrerlaubnis für 50 EC$",
+     "src": "https://www.avis.com/en/locations/vc/saint-vincent/svd"
+    },
+    {
+     "name": "KariBites",
+     "cat": "delivery",
+     "note": "Essen liefern lassen oder vorab bestellen",
+     "use": "limited",
+     "req": "Konto und Kartenzahlung nötig",
+     "src": "https://apps.apple.com/us/app/karibites/id1577340566"
+    }
+   ],
+   "cities": [],
+   "note": "Einreise visumfrei bis 6 Monate mit Reisepass, der 6 Monate gültig ist; Rück- oder Weiterflug nötig.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, der High Court hat die Gesetze 2024 bestätigt; Fälle von Strafverfolgung sind laut Auswärtigem Amt nicht bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
    "checked": "2026-11-18"
   }
  ]
