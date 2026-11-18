@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "GQ",
-"en": "Equatorial Guinea",
-"slug": "equatorial-guinea"
-},
-{
-"code": "ER",
-"en": "Eritrea",
-"slug": "eritrea"
-},
-{
-"code": "SZ",
-"en": "Eswatini",
-"slug": "eswatini"
-},
-{
-"code": "ET",
-"en": "Ethiopia",
-"slug": "ethiopia"
-},
-{
 "code": "TF",
 "en": "French Southern Territories",
 "slug": "french-southern-territories"
@@ -302,6 +282,26 @@
 "code": "DJ",
 "en": "Djibouti",
 "slug": "djibouti"
+},
+{
+"code": "GQ",
+"en": "Equatorial Guinea",
+"slug": "equatorial-guinea"
+},
+{
+"code": "ER",
+"en": "Eritrea",
+"slug": "eritrea"
+},
+{
+"code": "SZ",
+"en": "Eswatini",
+"slug": "eswatini"
+},
+{
+"code": "ET",
+"en": "Ethiopia",
+"slug": "ethiopia"
 }
 ]
 }
