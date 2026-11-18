@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "IL",
-"en": "Israel",
-"slug": "israel"
-},
-{
-"code": "JO",
-"en": "Jordan",
-"slug": "jordan"
-},
-{
-"code": "QA",
-"en": "Qatar",
-"slug": "qatar"
-},
-{
-"code": "SA",
-"en": "Saudi Arabia",
-"slug": "saudi-arabia"
-},
-{
 "code": "OM",
 "en": "Oman",
 "slug": "oman"
@@ -267,6 +247,26 @@
 "code": "MV",
 "en": "Maldives",
 "slug": "maldives"
+},
+{
+"code": "IL",
+"en": "Israel",
+"slug": "israel"
+},
+{
+"code": "JO",
+"en": "Jordan",
+"slug": "jordan"
+},
+{
+"code": "QA",
+"en": "Qatar",
+"slug": "qatar"
+},
+{
+"code": "SA",
+"en": "Saudi Arabia",
+"slug": "saudi-arabia"
 }
 ]
 }
