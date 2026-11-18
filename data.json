@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 15:21",
+ "version": "2026-11-18 15:28",
  "categories": [
   {
    "id": "entry",
@@ -4758,17 +4758,18 @@
     {
      "name": "Jakdojade",
      "cat": "transit",
-     "note": "ÖPNV und Tickets in über 130 polnischen Städten",
-     "src": "https://www.bento.travel/poland/transit",
+     "note": "Routenplaner und Tickets für den Stadtverkehr",
+     "src": "https://www.bento.travel/poland",
      "pkg": "com.citynav.jakdojade.pl.android",
      "ess": true
     },
     {
      "name": "Koleo",
      "cat": "rail",
-     "note": "Zugtickets in Polen",
+     "note": "Bahnplaner und Tickets vieler Betreiber, Karte aus EWR",
      "pkg": "pl.koleo",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/poland"
     },
     {
      "name": "FREENOW",
@@ -20300,6 +20301,878 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "IL",
+   "name": "Israel",
+   "flag": "🇮🇱",
+   "apps": [
+    {
+     "name": "Gett",
+     "cat": "taxi",
+     "pkg": "com.gettaxi.android",
+     "note": "Hauptapp für lizenzierte Taxis, auch am Flughafen Ben Gurion",
+     "ess": true,
+     "src": "https://www.bento.travel/israel"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Zweite lizenzierte Taxi-App in einigen Städten",
+     "use": "limited",
+     "req": "Verifizierung mit ausländischer Nummer kann scheitern",
+     "src": "https://www.bento.travel/israel/ride-hailing"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Einfache Lieferapp auf Englisch, auch Supermärkte",
+     "ess": true,
+     "src": "https://www.bento.travel/israel/food-delivery"
+    },
+    {
+     "name": "10bis",
+     "cat": "delivery",
+     "pkg": "com.tenbis.tbapp",
+     "note": "Große israelische Lieferapp, Firmenzuschüsse nicht für Gäste",
+     "src": "https://www.bento.travel/israel/food-delivery"
+    },
+    {
+     "name": "Mishloha",
+     "cat": "delivery",
+     "pkg": "com.mishloha.mishapp",
+     "note": "Lokaler Restaurantmarkt, eher hebräisch, zum Preisvergleich",
+     "use": "limited",
+     "req": "Englische Oberfläche und ausländische Karten nur eingeschränkt",
+     "src": "https://www.bento.travel/israel/food-delivery"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Live-Verkehr und Umleitungen beim Autofahren",
+     "src": "https://www.bento.travel/israel/navigation"
+    },
+    {
+     "name": "Rav-Pass",
+     "cat": "transit",
+     "pkg": "co.hopon.client",
+     "note": "QR-Ticket für Bus, Bahn und Stadtbahn landesweit",
+     "ess": true,
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer und Karte nicht bestätigt, Rav-Kav-Karte als Reserve",
+     "src": "https://www.bento.travel/israel/transit"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Routenplaner mit Echtzeit, auch Fahrten bezahlen, viel Werbung",
+     "src": "https://www.bento.travel/israel/transit"
+    },
+    {
+     "name": "egg",
+     "cat": "transit",
+     "pkg": "com.egged.egg",
+     "note": "Werbefreier Planer, Rav-Kav aufladen, Egged-Reservierungen",
+     "use": "limited",
+     "req": "Registrierung mit Telefon und Karte vorab testen",
+     "src": "https://www.bento.travel/israel/transit"
+    },
+    {
+     "name": "Rav-Kav Online",
+     "cat": "transit",
+     "note": "Guthaben auf die Rav-Kav-Karte per Handy laden",
+     "use": "limited",
+     "req": "Physische Rav-Kav-Karte nötig, vor Ort kaufen",
+     "src": "https://itraveljerusalem.com/article/public-transport-in-jerusalem"
+    },
+    {
+     "name": "HaTachana",
+     "cat": "transit",
+     "note": "Bezahl-App des Verkehrsministeriums für Bus und Bahn",
+     "use": "limited",
+     "req": "Registrierung für Ausländer laut Quelle nicht bestätigt, ausländische Kreditkarten werden belastet",
+     "src": "https://www.pti.org.il/docs/chargeApp/chargeAppEng_2.pdf"
+    },
+    {
+     "name": "ANY WAY",
+     "cat": "transit",
+     "note": "Vom Ministerium zugelassene App zum Bezahlen im ÖPNV",
+     "use": "limited",
+     "req": "Registrierung für Ausländer laut Quelle nicht bestätigt, ausländische Kreditkarten werden belastet",
+     "src": "https://www.pti.org.il/docs/chargeApp/chargeAppEng_2.pdf"
+    },
+    {
+     "name": "Israel Railways",
+     "cat": "rail",
+     "pkg": "com.moblin.israeltrain",
+     "note": "Offizielle Bahn-App mit Fahrplänen und Störungen",
+     "src": "https://www.bento.travel/israel"
+    },
+    {
+     "name": "Home Front Command",
+     "cat": "safety",
+     "pkg": "com.alert.meserhadash",
+     "note": "Offizielle Raketenwarnungen und Schutzanweisungen",
+     "ess": true,
+     "src": "https://www.bento.travel/israel"
+    },
+    {
+     "name": "Red Alert (Nofzam)",
+     "cat": "safety",
+     "note": "Warn-App für Luftalarm, vom Auswärtigen Amt empfohlen",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/israelsicherheit-203814"
+    },
+    {
+     "name": "Bit",
+     "cat": "payment",
+     "note": "Israelische App für Überweisungen unter Privatleuten",
+     "use": "no",
+     "req": "Israelische Identität, Telefonnummer oder Bankkonto nötig",
+     "src": "https://www.bento.travel/israel/payments"
+    },
+    {
+     "name": "PayBox",
+     "cat": "payment",
+     "note": "Israelische App für Gruppenzahlungen und Überweisungen",
+     "use": "no",
+     "req": "Israelische Identität, Telefonnummer oder Bankkonto nötig",
+     "src": "https://www.bento.travel/israel/payments"
+    },
+    {
+     "name": "Pango",
+     "cat": "parking",
+     "note": "Straßenparken zahlen, in Jerusalem auch ÖPNV-Tickets",
+     "use": "limited",
+     "req": "Ausländische Nummern und Karten nicht durchgängig unterstützt",
+     "src": "https://www.bento.travel/israel/payments"
+    },
+    {
+     "name": "Cello",
+     "cat": "parking",
+     "note": "Park-App für das Straßenparken",
+     "use": "limited",
+     "req": "Ausländische Nummern und Karten nicht durchgängig unterstützt",
+     "src": "https://www.bento.travel/israel/payments"
+    },
+    {
+     "name": "Share - Israel Car Sharing",
+     "cat": "carshare",
+     "note": "Carsharing der Shlomo-Gruppe, Abrechnung pro Kilometer",
+     "use": "limited",
+     "req": "Mindestens ein Jahr Führerschein, Annahme ausländischer Führerscheine nicht bestätigt",
+     "src": "https://apps.apple.com/us/app/share-israel-car-sharing/id1434638857"
+    },
+    {
+     "name": "GoTo (CAR2GO) Shared Mobility",
+     "cat": "carshare",
+     "note": "Carsharing stunden- oder tageweise in vielen Städten",
+     "use": "limited",
+     "req": "Führerscheinprüfung in der App, Annahme ausländischer Führerscheine nicht bestätigt",
+     "src": "https://apps.apple.com/IL/app/id1449036622?mt=8"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Jerusalem",
+     "match": [
+      "Jerusalem"
+     ],
+     "apps": [
+      {
+       "name": "Slupark",
+       "cat": "transit",
+       "note": "Zugelassene App zum Bezahlen der Stadtbahn per QR-Code",
+       "use": "limited",
+       "req": "Registrierung für Ausländer laut Quelle nicht bestätigt",
+       "src": "https://pti.org.il/datasites/lightrail/eng"
+      }
+     ]
+    },
+    {
+     "name": "Tel Aviv",
+     "match": [
+      "Tel Aviv"
+     ],
+     "apps": [
+      {
+       "name": "Metrofun",
+       "cat": "micro",
+       "note": "Leihräder und E-Bikes, früher Tel-O-Fun",
+       "src": "https://apps.apple.com/gb/app/metrofun/id1565948769"
+      },
+      {
+       "name": "Dott",
+       "cat": "micro",
+       "note": "Zugelassener E-Scooter-Verleih",
+       "src": "https://www.jpost.com/consumerism/article-886637"
+      },
+      {
+       "name": "Bird",
+       "cat": "micro",
+       "note": "Zugelassener E-Scooter-Verleih",
+       "src": "https://www.jpost.com/consumerism/article-886637"
+      },
+      {
+       "name": "Lime",
+       "cat": "micro",
+       "note": "Zugelassener E-Scooter-Verleih",
+       "src": "https://www.jpost.com/consumerism/article-886637"
+      },
+      {
+       "name": "Scotty",
+       "cat": "micro",
+       "note": "Neuer lokaler E-Scooter-Anbieter, Nachfolger von Wind",
+       "src": "https://www.jpost.com/consumerism/article-886637"
+      },
+      {
+       "name": "Tel Aviv City Card",
+       "cat": "tourism",
+       "note": "Digitaler Pass für Museen und Rabatte, online kaufbar",
+       "src": "https://america.imexevents.com/news/tel-aviv-global-launches-the-tel-aviv-city-card"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen bis drei Monate visumfrei mit Reisepass ein, vorab ist die elektronische Einreisegenehmigung ETA-IL Pflicht. Uber fährt nicht, Gett für lizenzierte Taxis nutzen.",
+   "src": "https://www.bento.travel/israel",
+   "lgbtq_note": "Das Auswärtige Amt nennt für Israel keine besonderen Strafbestimmungen, in den Palästinensischen Gebieten sind homosexuelle Handlungen zwischen Männern jedoch strafbar.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/israelsicherheit-203814",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "JO",
+   "name": "Jordanien",
+   "flag": "🇯🇴",
+   "apps": [
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Fahrdienst mit größter Abdeckung, auch Essenslieferung",
+     "ess": true,
+     "src": "https://www.bento.travel/de/jordan"
+    },
+    {
+     "name": "Jeeny",
+     "cat": "taxi",
+     "pkg": "me.com.easytaxi",
+     "note": "Regionaler Fahrdienst als günstige Alternative",
+     "use": "limited",
+     "req": "Manche Konten brauchen eine jordanische oder Golfstaaten-Nummer",
+     "src": "https://www.bento.travel/de/jordan"
+    },
+    {
+     "name": "Petra Ride",
+     "cat": "taxi",
+     "pkg": "com.PetraRide_User",
+     "note": "Jordanischer Fahrdienst in Amman, seit 2025 offiziell in Aqaba",
+     "src": "https://pt1.petra.gov.jo/en/news/aseza-petraride-sign-agreement-to-launch-smart-transportation-in-aqaba"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "pkg": "com.talabat",
+     "note": "Führende Liefer-App mit vielen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/de/jordan"
+    },
+    {
+     "name": "MyThings",
+     "cat": "delivery",
+     "pkg": "com.roxiit.mythings",
+     "note": "Lokaler Lieferdienst für Essen, Läden und Besorgungen",
+     "src": "https://www.bento.travel/de/jordan"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karte als Reserve, ohne Live-Verkehr",
+     "src": "https://www.bento.travel/de/jordan"
+    },
+    {
+     "name": "JETT",
+     "cat": "rail",
+     "pkg": "ac.transportation.jett",
+     "note": "Überland- und Touristenbusse, etwa nach Petra und Aqaba",
+     "use": "limited",
+     "req": "Ausländische Karte oder Ausweisfelder können die Buchung blockieren, dann im Büro kaufen",
+     "src": "https://www.bento.travel/jordan/intercity-transport"
+    },
+    {
+     "name": "Visit Jordan",
+     "cat": "tourism",
+     "pkg": "com.imagine.jordanpass.superapplication",
+     "note": "Offizielle Tourismus-App mit Attraktionen und Karten",
+     "src": "https://www.bento.travel/de/jordan"
+    },
+    {
+     "name": "Jordan Pass",
+     "cat": "tourism",
+     "note": "Pass für über 40 Sehenswürdigkeiten, erlässt Visumgebühr ab 2 Nächten",
+     "src": "https://jordanpass.jo/contents/FAQs.aspx"
+    },
+    {
+     "name": "Zain Cash",
+     "cat": "payment",
+     "pkg": "com.audiogram.zaincash",
+     "note": "Lokale Handy-Geldbörse",
+     "use": "no",
+     "req": "Jordanischer Mobilfunkanschluss und Identitätsprüfung nötig, teils Besuch beim Händler",
+     "src": "https://www.bento.travel/de/jordan/payments"
+    },
+    {
+     "name": "CliQ",
+     "cat": "payment",
+     "note": "Sofortüberweisung zwischen jordanischen Banken",
+     "use": "no",
+     "req": "Jordanisches Bankkonto nötig, keine eigene App für Touristen",
+     "src": "https://www.bento.travel/de/jordan/payments"
+    },
+    {
+     "name": "Thrifty-Jordan",
+     "cat": "carshare",
+     "note": "Mietwagen mit und ohne Fahrer in Jordanien",
+     "use": "limited",
+     "req": "Mietbedingungen wie Führerschein und Mindestalter beim Anbieter prüfen",
+     "src": "https://apps.apple.com/kw/app/thrifty-jordan/id1673443037"
+    },
+    {
+     "name": "Dollar-Jo",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Queen Alia, in Amman und Aqaba",
+     "use": "limited",
+     "req": "Mietbedingungen wie Führerschein und Mindestalter beim Anbieter prüfen",
+     "src": "https://apps.apple.com/mx/app/dollar-jo/id6566177509"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Jordanien gesperrt",
+     "use": "no",
+     "req": "Seit August 2023 von jordanischen Providern gesperrt",
+     "src": "https://ooni.org/post/2023-jordan-blocks-grindr/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Amman",
+     "match": [
+      "Amman"
+     ],
+     "apps": [
+      {
+       "name": "Uber",
+       "cat": "taxi",
+       "pkg": "com.ubercab",
+       "note": "Lizenzierte Taxis, auch am Flughafen Queen Alia",
+       "ess": true,
+       "src": "https://www.bento.travel/de/jordan"
+      },
+      {
+       "name": "Vision City Bus",
+       "cat": "transit",
+       "pkg": "com.kentkart.ammanbus",
+       "note": "Offizielle Bus-App mit Live-Daten, Tickets und QR-Code",
+       "src": "https://www.bento.travel/de/jordan/transit"
+      }
+     ]
+    },
+    {
+     "name": "Petra",
+     "match": [
+      "Petra"
+     ],
+     "apps": [
+      {
+       "name": "The Petra Museum",
+       "cat": "tourism",
+       "note": "Offizielle Museums-App zur Geschichte der Region Petra",
+       "src": "https://apps.apple.com/sa/app/id1645309066"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum, erhältlich bei Ankunft an den Flughäfen Amman und Aqaba für 40 JOD, Reisepass mindestens 6 Monate gültig. Für Petra und Wadi Rum Bargeld bereithalten.",
+   "src": "https://www.bento.travel/de/jordan",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, Homosexualität wird gesellschaftlich aber nicht toleriert und gleichgeschlechtliche Ehen werden nicht anerkannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit/218008",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "QA",
+   "name": "Katar",
+   "flag": "🇶🇦",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Lizenzierter Fahrdienst, auch Abholung am Flughafen",
+     "ess": true,
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Karwa",
+     "cat": "taxi",
+     "pkg": "com.karwatechnologies.karwataxi",
+     "note": "Offizielle Taxi- und Limousinen-App von Mowasalat mit Taxameter",
+     "src": "https://www.bento.travel/qatar/ride-hailing"
+    },
+    {
+     "name": "Ryde",
+     "cat": "taxi",
+     "note": "Vom Verkehrsministerium lizenzierter Fahrdienst",
+     "src": "https://www.bento.travel/qatar/ride-hailing"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "note": "Bekannter Fahrdienst der Region, in Katar unsicher",
+     "use": "no",
+     "req": "Nicht auf der aktuellen Lizenzliste des Verkehrsministeriums, nicht darauf verlassen",
+     "src": "https://www.bento.travel/qatar/ride-hailing"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "pkg": "com.talabat",
+     "note": "Restaurants, Lebensmittel und Einkäufe per Lieferung",
+     "ess": true,
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Snoonu",
+     "cat": "delivery",
+     "pkg": "com.snoonu.customerapp",
+     "note": "Essen, Einkauf, Apotheke und Geschenke per Lieferung",
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Keeta",
+     "cat": "delivery",
+     "pkg": "com.sankuai.sailor.afooddelivery",
+     "note": "Weitere Liefer-App für Essen mit häufigen Rabatten",
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "pkg": "com.waze",
+     "note": "Verkehrslage und Spurhinweise beim Autofahren",
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Karwa Journey Planner",
+     "cat": "transit",
+     "pkg": "com.mowasalat.karwabus",
+     "note": "Offizieller Planer für Busse, Metrolink und Überlandbusse",
+     "src": "https://www.bento.travel/qatar/transit"
+    },
+    {
+     "name": "Visit Qatar",
+     "cat": "tourism",
+     "pkg": "qa.visitqatar.app",
+     "note": "Offizielle Tourismus-App für Sehenswürdigkeiten und Events",
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Hayya to Qatar",
+     "cat": "entry",
+     "pkg": "com.pl.qatar",
+     "note": "Offizielle E-Visum-App, nur nötig wenn Hayya verlangt wird",
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Q Weather",
+     "cat": "safety",
+     "pkg": "qa.applab.qweather",
+     "note": "Offizielle Wetter-App, auch für Wüste, Strand und Boot",
+     "src": "https://www.bento.travel/qatar"
+    },
+    {
+     "name": "Apple Pay, Google Pay",
+     "cat": "payment",
+     "note": "Kontaktlos mit der eigenen Karte zahlen, Bargeld als Reserve",
+     "use": "limited",
+     "req": "Heimische Bank muss das Wallet unterstützen",
+     "src": "https://www.bento.travel/qatar/payments"
+    },
+    {
+     "name": "QNB Pay Wallet",
+     "cat": "payment",
+     "note": "Digitale Geldbörse der QNB",
+     "use": "limited",
+     "req": "Katarische Nummer von Ooredoo oder Vodafone, Reisepass und Besuchervisum nötig, Identitätsprüfung",
+     "src": "https://www.bento.travel/qatar/payments"
+    },
+    {
+     "name": "Ooredoo Money",
+     "cat": "payment",
+     "note": "Lokales Mobile Money für Rechnungen und Überweisungen",
+     "use": "no",
+     "req": "Registrierung meist mit Qatar ID, für Reisende nicht verlässlich",
+     "src": "https://www.bento.travel/qatar/payments"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "pkg": "com.grindrapp.android",
+     "note": "Weltweite Dating-App, in Katar gefährlich",
+     "use": "no",
+     "req": "Polizei überwacht Dating-Apps mit Fake-Profilen, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/katar-node/katarsicherheit-202280"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Doha",
+     "match": [
+      "Doha"
+     ],
+     "apps": [
+      {
+       "name": "Qatar Rail",
+       "cat": "transit",
+       "pkg": "com.qatarrail.QRailCustomerApp",
+       "note": "Offizielle App für Doha Metro und Lusail Tram mit Travel Pass",
+       "ess": true,
+       "src": "https://www.bento.travel/qatar/transit"
+      },
+      {
+       "name": "Mushwaar",
+       "cat": "carshare",
+       "note": "Carsharing pro Minute, Tank und Basisversicherung inklusive",
+       "use": "limited",
+       "req": "Reisepass, gültiger Führerschein und Bankkarte, Prüfung in der App, Mindestalter 18",
+       "src": "https://getmancar.com/blogs/carsharing-doxa-mushwaar"
+      },
+      {
+       "name": "Loop",
+       "cat": "micro",
+       "note": "E-Scooter und E-Bikes zum Ausleihen per App",
+       "use": "limited",
+       "req": "Gültiger Ausweis und Mindestalter 16 üblich, Angebot je nach Gebiet begrenzt",
+       "src": "https://apps.apple.com/qa/app/loop-dreams-on-wheels/id1504675606"
+      },
+      {
+       "name": "Mawaqif Qatar",
+       "cat": "parking",
+       "note": "Parken in angeschlossenen Parkhäusern zahlen",
+       "use": "limited",
+       "req": "Gilt nur in angeschlossenen Anlagen, Kennzeichen und Zahlungsdaten registrieren",
+       "src": "https://www.qatarliving.com/en/article/parking-in-doha-zones-fees-mwaqif-app"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche erhalten bei Einreise mit mindestens 6 Monate gültigem Reisepass eine Visumbefreiung für bis zu 90 Tage, der Personalausweis wird nicht akzeptiert. Anrufe über WhatsApp und FaceTime sind gesperrt.",
+   "src": "https://www.bento.travel/qatar",
+   "lgbtq_note": "Homosexuelle Handlungen sind verboten und können strafrechtlich verfolgt werden, die Polizei überwacht Dating-Apps auch mit Fake-Profilen und liest bei Kontrollen Handys aus.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/katar-node/katarsicherheit-202280",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "SA",
+   "name": "Saudi-Arabien",
+   "flag": "🇸🇦",
+   "apps": [
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Saudische Fahrdienst-App, Preis mit Uber vergleichen",
+     "ess": true,
+     "src": "https://www.bento.travel/saudi-arabia"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Einfachste Fahrdienst-App für Besucher, landesweit",
+     "ess": true,
+     "src": "https://www.bento.travel/saudi-arabia"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Zusätzlicher Preisvergleich, auch Abholung am Flughafen",
+     "src": "https://www.bento.travel/saudi-arabia/ride-hailing"
+    },
+    {
+     "name": "Jeeny",
+     "cat": "taxi",
+     "pkg": "me.com.easytaxi",
+     "note": "Oft günstiger als Uber oder Careem",
+     "use": "no",
+     "req": "Viele ausländische Nummern lassen sich nicht registrieren, saudische Telefonnummer nötig",
+     "src": "https://www.bento.travel/saudi-arabia/ride-hailing"
+    },
+    {
+     "name": "Kaiian",
+     "cat": "taxi",
+     "pkg": "com.multibrains.taxi.passenger.kayantaxi",
+     "note": "Regionale Taxi-App in über 60 Orten, nur als Notlösung",
+     "use": "limited",
+     "req": "Bestätigungscode an ausländische Nummer kann scheitern, Fahrer verlangen teils Bargeld",
+     "src": "https://www.bento.travel/saudi-arabia/ride-hailing"
+    },
+    {
+     "name": "HungerStation",
+     "cat": "delivery",
+     "pkg": "com.hungerstation.android.web",
+     "note": "Größtes Liefernetz für Essen, Einkäufe und Apotheken",
+     "ess": true,
+     "use": "limited",
+     "req": "Manche ausländische Nummern sind bei der Registrierung nicht wählbar",
+     "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+    },
+    {
+     "name": "Keeta",
+     "cat": "delivery",
+     "pkg": "com.sankuai.sailor.afooddelivery",
+     "note": "Beliebte Liefer-App auf Englisch mit vielen Rabatten",
+     "ess": true,
+     "use": "limited",
+     "req": "Nur manche ausländische Nummern lassen sich registrieren, vorher testen",
+     "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+    },
+    {
+     "name": "Jahez",
+     "cat": "delivery",
+     "pkg": "net.jahez",
+     "note": "Restaurants und Lebensmittel, Bestellabschluss prüfen",
+     "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+    },
+    {
+     "name": "Ninja",
+     "cat": "delivery",
+     "pkg": "com.ananinja.lava",
+     "note": "Essen und Einkäufe in einer Bestellung, Kartenzahlung",
+     "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+    },
+    {
+     "name": "Nusuk",
+     "cat": "tourism",
+     "pkg": "com.moh.nusukapp",
+     "note": "Offizielle Umrah-Genehmigungen und Rawdah-Termine",
+     "ess": true,
+     "src": "https://www.bento.travel/saudi-arabia"
+    },
+    {
+     "name": "webook.com",
+     "cat": "tourism",
+     "pkg": "com.webook.android",
+     "note": "Autorisierte Tickets für Konzerte und Attraktionen",
+     "src": "https://www.bento.travel/saudi-arabia"
+    },
+    {
+     "name": "Visit Saudi",
+     "cat": "tourism",
+     "note": "Offizielle App der Tourismusbehörde mit Karte und Events",
+     "src": "https://apps.apple.com/us/app/visit-saudi/id818179871"
+    },
+    {
+     "name": "Saudi Events",
+     "cat": "tourism",
+     "note": "Veranstaltungskalender des National Events Center",
+     "src": "https://apps.apple.com/sa/app/jeddah-season/id1481514428"
+    },
+    {
+     "name": "HHR Train",
+     "cat": "rail",
+     "pkg": "com.indra.haramain.pro",
+     "note": "Haramain-Schnellzug Medina, Dschidda und Mekka buchen",
+     "ess": true,
+     "src": "https://www.bento.travel/saudi-arabia"
+    },
+    {
+     "name": "SAR North East",
+     "cat": "rail",
+     "pkg": "com.sar.north.east.app",
+     "note": "Offizielle Bahn-App, etwa für Riad und Dammam",
+     "src": "https://www.bento.travel/saudi-arabia"
+    },
+    {
+     "name": "SAT Transportation",
+     "cat": "rail",
+     "pkg": "com.sat.passenger",
+     "note": "Fernbusse auf südlichen Strecken, Route vorher prüfen",
+     "src": "https://www.bento.travel/saudi-arabia"
+    },
+    {
+     "name": "HudHud",
+     "cat": "maps",
+     "pkg": "sa.hudhud.maps",
+     "note": "Saudische Karten-App, laut Quelle oft ungenau",
+     "src": "https://www.bento.travel/saudi-arabia/navigation"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "note": "Verkehrslage, Sperrungen werden teils nicht erkannt",
+     "src": "https://www.bento.travel/saudi-arabia/navigation"
+    },
+    {
+     "name": "Apple Pay, Google Pay, Samsung Wallet",
+     "cat": "payment",
+     "note": "Kontaktlos mit eigener Karte zahlen, Karte als Reserve",
+     "use": "limited",
+     "req": "Heimische Bank und Kartennetz müssen das Wallet unterstützen",
+     "src": "https://www.bento.travel/saudi-arabia/payments"
+    },
+    {
+     "name": "STC Bank",
+     "cat": "payment",
+     "note": "Lokale digitale Bank und Wallet",
+     "use": "no",
+     "req": "Saudische Identität oder Aufenthaltsstatus für die Anmeldung nötig",
+     "src": "https://www.bento.travel/saudi-arabia/payments"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298"
+    },
+    {
+     "name": "ekar Car Rental",
+     "cat": "carshare",
+     "note": "Carsharing und Mietwagen per App in Riad und Dschidda",
+     "use": "limited",
+     "req": "Registrierung und Prüfung des Führerscheins in der App nötig",
+     "src": "https://apps.apple.com/sa/app/id1068848847"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Saudi-Arabien gesperrt",
+     "use": "no",
+     "req": "Im Land seit Jahren gesperrt, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://techradar.com/vpn/grindr-is-the-second-most-banned-social-apphow-to-unblock-it"
+    }
+   ],
+   "cities": [
+    {
+     "name": "AlUla",
+     "match": [
+      "AlUla"
+     ],
+     "apps": [
+      {
+       "name": "Experience AlUla",
+       "cat": "tourism",
+       "note": "Offizielle App für Erlebnisse, Tickets und Karte in AlUla",
+       "src": "https://apps.apple.com/sa/app/id1487571928"
+      }
+     ]
+    },
+    {
+     "name": "Jeddah",
+     "match": [
+      "Jeddah"
+     ],
+     "apps": [
+      {
+       "name": "Jeddah Buses",
+       "cat": "transit",
+       "note": "Busnetz Dschidda per App, seit 2025",
+       "use": "limited",
+       "req": "Ausländer berichten von Sperren ohne saudische Telefonnummer",
+       "src": "https://www.bento.travel/saudi-arabia/transit"
+      }
+     ]
+    },
+    {
+     "name": "Madinah",
+     "match": [
+      "Madinah"
+     ],
+     "apps": [
+      {
+       "name": "Careem Bike",
+       "cat": "micro",
+       "note": "E-Bikes und E-Scooter zum Leihen in der Careem-App",
+       "src": "https://help.careem.com/hc/en-us/articles/23473499456787-What-is-e-Bike-e-Scooter-sharing-and-where-is-it-available"
+      },
+      {
+       "name": "Madinah Bus",
+       "cat": "transit",
+       "pkg": "com.saptco.android.afcm",
+       "note": "Elektronische Bustickets für Medina",
+       "use": "limited",
+       "req": "Registrierung nötig, Visa, Mastercard und Apple Pay gehen auch direkt im Bus",
+       "src": "https://appgoblin.info/apps/com.saptco.android.afcm"
+      }
+     ]
+    },
+    {
+     "name": "Makkah",
+     "match": [
+      "Makkah"
+     ],
+     "apps": [
+      {
+       "name": "Makkah Bus",
+       "cat": "transit",
+       "pkg": "sa.mbco.makkahbuses",
+       "note": "Offizielle Bus-App für Mekka mit Ankunftszeiten",
+       "use": "limited",
+       "req": "Login und Ticketanzeige oft fehlerhaft, besser Bankkarte im Bus nutzen",
+       "src": "https://www.bento.travel/saudi-arabia/transit"
+      }
+     ]
+    },
+    {
+     "name": "Riyadh",
+     "match": [
+      "Riyadh"
+     ],
+     "apps": [
+      {
+       "name": "Udrive",
+       "cat": "carshare",
+       "note": "Free-Floating-Carsharing in festen Zonen",
+       "use": "limited",
+       "req": "Touristen brauchen einen internationalen Führerschein, Mindestalter 21 und ein Jahr Fahrpraxis",
+       "src": "https://getmancar.com/blogs/carsharing-udrive-riyadh"
+      },
+      {
+       "name": "darb",
+       "cat": "transit",
+       "pkg": "com.rcrc.riyadhjourneyplanner",
+       "note": "Offizieller Planer für Metro und Bus in Riad",
+       "ess": true,
+       "use": "limited",
+       "req": "Ticketkauf in der App oft fehlerhaft, kontaktlose Bankkarte als Reserve",
+       "src": "https://www.bento.travel/saudi-arabia/transit"
+      },
+      {
+       "name": "Riyadh Parking",
+       "cat": "parking",
+       "pkg": "com.remat.riyadhparking",
+       "note": "Offizielle App für öffentliche Parkplätze in Riad",
+       "src": "https://rmp.alriyadh.gov.sa/en/initiatives/riyadh-parking"
+      },
+      {
+       "name": "Riyadh Season",
+       "cat": "tourism",
+       "note": "Offizielle App der Riyadh Season mit Tickets und Zonen",
+       "src": "https://apps.apple.com/app/id6467569767"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum, am besten vorab als eVisum, der Reisepass muss 6 Monate gültig sein. Das Auswärtige Amt warnt derzeit vor Reisen wegen Huthi-Angriffen.",
+   "src": "https://www.bento.travel/saudi-arabia",
+   "lgbtq_note": "Homosexuelle Handlungen werden strafrechtlich verfolgt und mit Geld- oder Freiheitsstrafe geahndet, im Einzelfall droht die Todesstrafe, gesellschaftlich sind sie nicht akzeptiert.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298",
    "checked": "2026-11-18"
   }
  ]
