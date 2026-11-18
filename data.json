@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 09:42",
+ "version": "2026-11-18 10:08",
  "categories": [
   {
    "id": "entry",
@@ -16464,6 +16464,247 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
    "lgbtq_note": "Laut Auswärtigem Amt herrscht latente Homophobie, gegen Ausländer gerichtete Diskriminierung im Alltag ist aber nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "MP",
+   "name": "Nördliche Marianen",
+   "flag": "🇲🇵",
+   "apps": [
+    {
+     "name": "ESTA Mobile",
+     "cat": "entry",
+     "pkg": "gov.dhs.cbp.esta",
+     "note": "Offizielle CBP-App für den ESTA-Antrag zur US-Einreise",
+     "ess": true,
+     "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"
+    },
+    {
+     "name": "Star Marianas Air",
+     "cat": "flights",
+     "note": "Inselflüge nach Tinian und Rota, nur Webseite und Telefon",
+     "src": "https://www.starmarianasair.com/frequently-asked-questions"
+    },
+    {
+     "name": "MAPS.ME",
+     "cat": "maps",
+     "note": "Offline-Karten mit GPS-Navigation für Mietwagenfahrten",
+     "src": "https://www.milehacker.com/travel/northern-mariana-islands/saipan/getting-around-saipan-public-transport-taxis-car-r/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Saipan",
+     "match": [
+      "Saipan"
+     ],
+     "apps": [
+      {
+       "name": "Hertz",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Saipan, Station rund um die Uhr offen",
+       "use": "limited",
+       "req": "Gültiger Führerschein nötig, Mindestalter beim Anbieter prüfen",
+       "src": "https://www.hertz.com/us/en/location/northernmarianaislands/dan-dan/spnt50"
+      },
+      {
+       "name": "National Car Rental",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Saipan per App buchen und verwalten",
+       "use": "limited",
+       "req": "Mindestalter 18, unter 21 Pflicht zur Vollkasko (LDW)",
+       "src": "https://nationalcar.com/en/car-rental-locations/mp/garapan-grandvrio-resort-j9m2.html"
+      },
+      {
+       "name": "Walt's DiscoverSaipan Tour App",
+       "cat": "tourism",
+       "pkg": "com.discoversaipan.saipanwaysidestour",
+       "note": "Selbstgeführte GPS-Tour zu historischen Stätten auf Saipan",
+       "src": "https://www.mvariety.com/?p=51311"
+      },
+      {
+       "name": "Saipan Travels",
+       "cat": "tourism",
+       "pkg": "com.ldi.saipan",
+       "note": "Reiseführer zu Kultur, Geschichte und Natur auf Saipan",
+       "src": "https://play.google.com/store/apps/details?id=com.ldi.saipan&hl=en_US"
+      }
+     ]
+    },
+    {
+     "name": "Tinian",
+     "match": [
+      "Tinian"
+     ],
+     "apps": [
+      {
+       "name": "DiscoverTinian Waysides Tour",
+       "cat": "tourism",
+       "pkg": "com.discoversaipan.tinianwaysidestour",
+       "note": "Infotafeln und GPS-Punkte der Sehenswürdigkeiten auf Tinian",
+       "src": "https://www.discoversaipan.com/tourapps/"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen eine ESTA, da sie nicht zum Guam-CNMI Visa Waiver Program gehören. Zollerklärung vorab online ausfüllen.",
+   "src": "https://www.mymarianas.com/?p=1528",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1983 legal, die Ehe ist seit 2015 geöffnet, ein allgemeiner Diskriminierungsschutz fehlt.",
+   "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_Northern_Mariana_Islands",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "PG",
+   "name": "Papua-Neuguinea",
+   "flag": "🇵🇬",
+   "apps": [
+    {
+     "name": "PNG eVisa",
+     "cat": "entry",
+     "note": "Visum vor der Reise online beantragen, nur Webseite",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698"
+    },
+    {
+     "name": "PNG Digital Arrival Card",
+     "cat": "entry",
+     "note": "Pflicht-Einreisekarte bis 72 Stunden vor Ankunft, Webseite",
+     "ess": true,
+     "src": "https://pngdac.ica.gov.pg/sbs-external-manual-doc/en/FAQ.html"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698"
+    },
+    {
+     "name": "Air Niugini",
+     "cat": "flights",
+     "note": "Nationale Airline: Buchung, Check-in und Flugstatus",
+     "src": "https://apps.apple.com/us/app/air-niugini/id6444407081"
+    },
+    {
+     "name": "GoFood (PNG) Customer",
+     "cat": "delivery",
+     "note": "Essen und Lebensmittel liefern lassen, Bar oder Karte",
+     "src": "https://apps.apple.com/us/app/id1613894170"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen an Flughafen Port Moresby, auch Lae und Hagen",
+     "use": "limited",
+     "req": "Mindestalter je nach Anbieter 21 bis 25 Jahre, Fahrten bei Nacht meiden",
+     "src": "https://www.avis.com/en/locations/pac/nu/port-moresby"
+    },
+    {
+     "name": "CellMoni",
+     "cat": "payment",
+     "note": "Mobile Geldbörse von Digicel PNG für Zahlungen",
+     "use": "no",
+     "req": "Registrierte Digicel-PNG-SIM nötig",
+     "src": "https://support-pg.digicelpacific.com/hc/en-us/articles/8656278907535-How-can-I-activate-my-CellMoni-Wallet"
+    },
+    {
+     "name": "BSP PNG",
+     "cat": "payment",
+     "note": "Mobile-Banking der größten Bank des Landes",
+     "use": "no",
+     "req": "Nur mit BSP-Konto und Internetbanking-Zugang",
+     "src": "https://apps.apple.com/gr/app/bsp-png/id6445806515"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Port Moresby",
+     "match": [
+      "Port Moresby"
+     ],
+     "apps": [
+      {
+       "name": "Pik Up PNG",
+       "cat": "taxi",
+       "note": "Lokale Fahrdienst-App mit Festpreis und Live-Ortung",
+       "src": "https://apps.apple.com/app/id6759558559"
+      },
+      {
+       "name": "ODESH",
+       "cat": "taxi",
+       "note": "Taxi per App, auch Premium-Taxis am Flughafen Jackson's",
+       "src": "https://www.nbc.com.pg/post/38383/nac-and-odesh-defend-new-jacksons-airport-taxi-system-amid-operator-pushback"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum, die Digital Arrival Card ist bis 72 Std. vor Ankunft Pflicht. Hoteltransfers statt Taxis nutzen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698",
+   "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt illegal und können mit Gefängnis bestraft werden, daher große Zurückhaltung geboten.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "PW",
+   "name": "Palau",
+   "flag": "🇵🇼",
+   "apps": [
+    {
+     "name": "Palau Entry Form",
+     "cat": "entry",
+     "note": "Pflicht-Einreiseformular online, QR-Code mitbringen",
+     "ess": true,
+     "src": "https://pristineparadisepalau.com/travelers-tips/"
+    },
+    {
+     "name": "AliiPass",
+     "cat": "tourism",
+     "note": "Offizielle PVA-App: Touren, Aktivitäten und Hotels buchen",
+     "src": "https://apps.apple.com/us/app/aliipass/id1476941794"
+    },
+    {
+     "name": "AliiRide",
+     "cat": "taxi",
+     "note": "Lokale Fahrdienst-App mit geprüften Fahrern, bargeldlos",
+     "use": "limited",
+     "req": "Nur iOS-Eintrag gefunden, Zahlungsarten nicht angegeben",
+     "src": "https://apps.apple.com/us/app/aliiride/id6476977244"
+    },
+    {
+     "name": "Palau Taxi Guide",
+     "cat": "taxi",
+     "note": "Verzeichnis lizenzierter Taxifahrer, nur Webseite",
+     "src": "https://pristineparadisepalau.com/palau-taxi-guide/"
+    },
+    {
+     "name": "Palau Bus Trip Planner",
+     "cat": "transit",
+     "note": "Web-Fahrtplaner der Nationalbusse Koror und Babeldaob",
+     "src": "https://pristineparadisepalau.com/happenings/palau-launches-phase-2-of-public-bus-service-expanding-connectivity-and-accessibility/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Koror",
+     "match": [
+      "Koror"
+     ],
+     "apps": [
+      {
+       "name": "Enterprise",
+       "cat": "carshare",
+       "pkg": "com.ehi.enterprise.android",
+       "note": "Mietwagen der Filiale in Koror per App reservieren",
+       "use": "limited",
+       "req": "Ab 18, Kreditkarte auf eigenen Namen, Pass und Führerschein",
+       "src": "https://www.enterprise.com/en/car-rental-locations/pw/koror-j6n1.html"
+      }
+     ]
+    }
+   ],
+   "note": "Kein Visum bis 90 Tage, Pass 6 Monate gültig. Einreiseformular 72 Std. vorher online ausfüllen, Busse nur bar mit passendem Betrag.",
+   "src": "https://pristineparadisepalau.com/travelers-tips/",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, werden laut Auswärtigem Amt gesellschaftlich aber nicht überall akzeptiert.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958",
    "checked": "2026-11-18"
   }
  ]
