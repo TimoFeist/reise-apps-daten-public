@@ -1,0 +1,143 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Kein Visum bis 90 Tage, Reisepass muss 6 Monate über den Aufenthalt gültig sein. Mietwagen nur mit temporärer Fahrerlaubnis.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758"
+  },
+  {
+   "name": "Va'aitau o Samoa",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Wetter, Zyklon- und Tsunamiwarnungen für Samoa",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://mwm.ai/apps/vaaitau-o-samoa/6746432784"
+  },
+  {
+   "name": "Maua Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi per App bestellen, Preis nach Strecke, Fahrerin wählbar",
+   "city": "",
+   "use": "limited",
+   "req": "Nur Taxis registrierter Taxistände angebunden",
+   "src": "https://samoaobserver.ws/category/samoa/111502"
+  },
+  {
+   "name": "Uilo",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Neue samoanische Taxi-App, seit 2026 im Testbetrieb",
+   "city": "",
+   "use": "limited",
+   "req": "Erst im Testbetrieb, Abdeckung und Bezahlung unklar",
+   "src": "https://samoanewshub.com/2026/08/06/samoan-software-engineering-graduate-launches-cab-hailing-app/"
+  },
+  {
+   "name": "SekiEats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von lokalen Restaurants liefern lassen, Karte oder bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1574322393"
+  },
+  {
+   "name": "My Samoa",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Supermärkte und Restaurants, Abholung oder Lieferung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/au/app/my-samoa/id6476515326"
+  },
+  {
+   "name": "Maua",
+   "cat": "shopping",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Marktplatz für Obst, Fisch, Handwerk mit Lieferung",
+   "city": "",
+   "use": "limited",
+   "req": "Bezahlung vor allem per lokalem Mobile Money, Karte möglich",
+   "src": "https://apps.apple.com/us/app/maua/id1468726583"
+  },
+  {
+   "name": "Discover Samoa",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reiseführer mit Stränden, Restaurants und Events, offline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/ph/app/id6752038091"
+  },
+  {
+   "name": "Samoa Airways",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge nach Savai'i und Pago Pago buchen, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://samoaairways.com/"
+  },
+  {
+   "name": "MyCash Digicel",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse von Digicel Samoa für Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Digicel-Samoa-Nummer und Registrierung mit Foto und Adresse nötig",
+   "src": "https://www.digicelpacific.com/mobile/ws/promotions/samoa-imt"
+  },
+  {
+   "name": "M-Tala",
+   "cat": "payment",
+   "pkg": "com.samoawalletapp",
+   "ess": false,
+   "note": "Mobile Geldbörse von Vodafone Samoa für Zahlungen",
+   "city": "",
+   "use": "no",
+   "req": "Vodafone-Samoa-Nummer und Registrierung nötig",
+   "src": "https://mwm.ai/apps/m-tala/6717590005"
+  },
+  {
+   "name": "MyDigicel",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben und Datenpakete von Digicel Samoa verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit Digicel-Samoa-SIM",
+   "src": "https://www.digicelpacific.com/mobile/ws/prepaid-roaming-plans"
+  }
+ ]
+}

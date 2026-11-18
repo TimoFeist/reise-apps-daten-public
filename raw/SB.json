@@ -1,0 +1,77 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Kein Visum bis 90 Tage, Pass 6 Monate gültig. Karten nur in Honiara und Gizo, sonst genug SBD bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt strafbar und können mit Gefängnis bestraft werden, daher ist große Zurückhaltung ratsam.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650"
+  },
+  {
+   "name": "MAPS.ME",
+   "cat": "maps",
+   "pkg": "",
+   "ess": true,
+   "note": "Offline Karten laden, da das Netz oft schwach ist",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/solomon-islands/honiara/honiara-travel-resources-apps-maps-emergency-conta/"
+  },
+  {
+   "name": "Booking.com",
+   "cat": "hotels",
+   "pkg": "",
+   "ess": false,
+   "note": "Unterkünfte in Honiara und auf den Inseln buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/solomon-islands/honiara/honiara-travel-resources-apps-maps-emergency-conta/"
+  },
+  {
+   "name": "Solomon Airlines",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Inlandsflüge zu 20 Zielen buchen, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.flysolomons.com/about-us/news/general/solomon-airlines-launches-new-booking-system"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Honiara online buchen",
+   "city": "Honiara",
+   "use": "limited",
+   "req": "Führerschein, Vollkasko (CDW) Pflicht, Kreditkarte für Kaution üblich",
+   "src": "https://www.avis.com/en/locations/pac/si/honiara/hir"
+  },
+  {
+   "name": "M-Selen",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse von Our Telekom für Zahlungen",
+   "city": "",
+   "use": "no",
+   "req": "Our-Telekom-SIM und Anmeldung mit Ausweis bei Agent oder Shop nötig",
+   "src": "https://www.ourtelekom.com.sb/m-selen/"
+  }
+ ]
+}

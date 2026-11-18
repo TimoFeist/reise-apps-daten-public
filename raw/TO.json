@@ -1,0 +1,77 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Deutsche brauchen bis 90 Tage kein Visum, Pass 6 Monate über den Aufenthalt gültig. Kein Uber, Taxis und Fähren bar zahlen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste der deutschen Auslandsvertretungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790"
+  },
+  {
+   "name": "Tonga Pocket Guide",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reiseführer, Touren und Mietwagen buchen, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://tongapocketguide.com"
+  },
+  {
+   "name": "Lulutai Airlines",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Einzige Inlandsairline, Buchung per Webseite oder Telefon",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://tongapocketguide.com/the-guide-to-flights-in-tonga"
+  },
+  {
+   "name": "Tofa Ramsay Shipping",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Inselfähren nach Ha'apai, Vava'u und 'Eua, online buchbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://tongapocketguide.com/the-guide-to-travelling-in-tonga-by-ferry"
+  },
+  {
+   "name": "MyCash Digicel",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Digicel-Geldbörse für QR-Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Digicel-Tonga-Nummer und Registrierung mit Name, Adresse und Foto nötig",
+   "src": "https://www.digicelpacific.com/news/digicel-tonga-pioneers-financial-inclusion-with-innovative-two-tier-kyc-for-mycas"
+  }
+ ]
+}

@@ -2,26 +2,6 @@
 "continent": "OC",
 "todo": [
 {
-"code": "WS",
-"en": "Samoa",
-"slug": "samoa"
-},
-{
-"code": "SB",
-"en": "Solomon Islands",
-"slug": "solomon-islands"
-},
-{
-"code": "TK",
-"en": "Tokelau",
-"slug": "tokelau"
-},
-{
-"code": "TO",
-"en": "Tonga",
-"slug": "tonga"
-},
-{
 "code": "TV",
 "en": "Tuvalu",
 "slug": "tuvalu"
@@ -142,6 +122,26 @@
 "code": "PN",
 "en": "Pitcairn",
 "slug": "pitcairn"
+},
+{
+"code": "WS",
+"en": "Samoa",
+"slug": "samoa"
+},
+{
+"code": "SB",
+"en": "Solomon Islands",
+"slug": "solomon-islands"
+},
+{
+"code": "TK",
+"en": "Tokelau",
+"slug": "tokelau"
+},
+{
+"code": "TO",
+"en": "Tonga",
+"slug": "tonga"
 }
 ]
 }
