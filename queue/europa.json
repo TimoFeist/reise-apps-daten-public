@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "MT",
-"en": "Malta",
-"slug": "malta"
-},
-{
-"code": "SI",
-"en": "Slovenia",
-"slug": "slovenia"
-},
-{
-"code": "SK",
-"en": "Slovakia",
-"slug": "slovakia"
-},
-{
-"code": "RO",
-"en": "Romania",
-"slug": "romania"
-},
-{
 "code": "BG",
 "en": "Bulgaria",
 "slug": "bulgaria"
@@ -262,6 +242,26 @@
 "code": "LT",
 "en": "Lithuania",
 "slug": "lithuania"
+},
+{
+"code": "MT",
+"en": "Malta",
+"slug": "malta"
+},
+{
+"code": "SI",
+"en": "Slovenia",
+"slug": "slovenia"
+},
+{
+"code": "SK",
+"en": "Slovakia",
+"slug": "slovakia"
+},
+{
+"code": "RO",
+"en": "Romania",
+"slug": "romania"
 }
 ]
 }
