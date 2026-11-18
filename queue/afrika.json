@@ -2,26 +2,6 @@
 "continent": "AF",
 "todo": [
 {
-"code": "CM",
-"en": "Cameroon",
-"slug": "cameroon"
-},
-{
-"code": "CF",
-"en": "Central African Republic",
-"slug": "central-african-republic"
-},
-{
-"code": "TD",
-"en": "Chad",
-"slug": "chad"
-},
-{
-"code": "KM",
-"en": "Comoros",
-"slug": "comoros"
-},
-{
 "code": "CG",
 "en": "Congo",
 "slug": "republic-of-the-congo"
@@ -302,6 +282,26 @@
 "code": "CV",
 "en": "Cabo Verde",
 "slug": "cape-verde"
+},
+{
+"code": "CM",
+"en": "Cameroon",
+"slug": "cameroon"
+},
+{
+"code": "CF",
+"en": "Central African Republic",
+"slug": "central-african-republic"
+},
+{
+"code": "TD",
+"en": "Chad",
+"slug": "chad"
+},
+{
+"code": "KM",
+"en": "Comoros",
+"slug": "comoros"
 }
 ]
 }
