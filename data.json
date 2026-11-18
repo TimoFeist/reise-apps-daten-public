@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 10:29",
+ "version": "2026-11-18 10:31",
  "categories": [
   {
    "id": "entry",
@@ -18136,6 +18136,228 @@
    "src": "https://www.bento.travel/es/taiwan",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar und die gleichgeschlechtliche Ehe ist möglich, gesellschaftliche Akzeptanz aber nicht überall.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/taiwan-node/taiwansicherheit/200896",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GN",
+   "name": "Guinea",
+   "flag": "🇬🇳",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, dazu ELEFAND nutzen",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098"
+    },
+    {
+     "name": "Dineroo",
+     "cat": "delivery",
+     "note": "Essen von Restaurants bestellen und liefern lassen",
+     "use": "limited",
+     "req": "Bezahlwege laut Quelle unklar, vorab prüfen",
+     "src": "https://www.wearetech.africa/fr/fils/solutions/guinee-avec-son-application-mobile-dineroo-numerise-la-livraison-de-repas"
+    },
+    {
+     "name": "Orange Max it - Guinée",
+     "cat": "payment",
+     "pkg": "com.orange.myorange.ogn",
+     "note": "Orange Money, Guthaben und Datenpakete in einer App",
+     "use": "no",
+     "req": "Guineische Orange-SIM mit Orange-Money-Konto nötig",
+     "src": "https://appgoblin.info/apps/com.orange.myorange.ogn"
+    },
+    {
+     "name": "GetRentacar",
+     "cat": "carshare",
+     "pkg": "getrentacar.app",
+     "note": "Mietwagen von lokalen Anbietern in Guinea",
+     "use": "limited",
+     "req": "Ab 18, Führerschein, Reisepass und Visa- oder Mastercard-Debitkarte",
+     "src": "https://getrentacar.com/en-US/guinea"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Guinea riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Conakry",
+     "match": [
+      "Conakry"
+     ],
+     "apps": [
+      {
+       "name": "Wonsiga",
+       "cat": "taxi",
+       "note": "Lokaler Fahrdienst mit Festpreis, auch E-Autos",
+       "src": "https://guineenews.org/2025/08/02/taxi-ville-wonsiga-introduit-sa-premiere-flotte-de-vtc-electriques-a-conakry/"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab online über paf.gov.gn/visa beantragen; USD oder EUR bar mitnehmen, es herrscht akute Bargeldknappheit.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar (sechs Monate bis drei Jahre Haft und Geldstrafe).",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GW",
+   "name": "Guinea-Bissau",
+   "flag": "🇬🇼",
+   "apps": [
+    {
+     "name": "Orange Max it - Guinée-Bissau",
+     "cat": "payment",
+     "note": "Orange Money, QR-Zahlung und Guthaben von Orange Bissau",
+     "use": "limited",
+     "req": "Für Orange Money lokale Orange-SIM mit Konto nötig",
+     "src": "https://apps.apple.com/fr/app/id1574668652"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/guineabissau-node/guineabissausicherheit-220332"
+    },
+    {
+     "name": "Krisenvorsorgeliste ELEFAND",
+     "cat": "safety",
+     "note": "Registrierung für Deutsche im Ausland für Krisenfälle",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/guineabissau-node/guineabissausicherheit-220332"
+    }
+   ],
+   "cities": [],
+   "note": "Visum vorab in Brüssel oder am Flughafen Bissau (80 EUR), Gelbfieberimpfung Pflicht, Euro bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/guineabissau-node/guineabissausicherheit-220332",
+   "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht verboten, Übergriffe wegen sexueller Orientierung sind nicht bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guineabissau-node/guineabissausicherheit-220332",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "LR",
+   "name": "Liberia",
+   "flag": "🇱🇷",
+   "apps": [
+    {
+     "name": "Ormuta",
+     "cat": "taxi",
+     "note": "Fahrdienst mit Auto in mehreren Städten Liberias",
+     "use": "limited",
+     "req": "Zahlungsweg in der Quelle nicht genannt, US-Dollar bar bereithalten",
+     "src": "https://apps.apple.com/lr/app/ormuta/id6740851035"
+    },
+    {
+     "name": "Quickpick Delivery",
+     "cat": "delivery",
+     "note": "Essen, Einkäufe und Pakete liefern lassen",
+     "use": "limited",
+     "req": "Zahlungsweg in der Quelle nicht genannt",
+     "src": "https://apps.apple.com/app/id6743645138"
+    },
+    {
+     "name": "MoMo (Lonestar Cell MTN)",
+     "cat": "payment",
+     "pkg": "com.mtn.mtnlir3",
+     "note": "Mobile Money von MTN, Zahlen per QR-Code",
+     "use": "no",
+     "req": "Lokale MTN-SIM mit MoMo-Konto nötig, SIM-Registrierung mit liberianischem Ausweis",
+     "src": "https://lonestarcell.com/momo-app/"
+    },
+    {
+     "name": "Orange Max it Liberia",
+     "cat": "payment",
+     "note": "Orange Money und Guthaben in einer App",
+     "use": "no",
+     "req": "Orange-Liberia-Nummer mit Orange-Money-Konto nötig",
+     "src": "https://apps.apple.com/lr/app/orange-max-it-liberia/id6746187327"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Liberia riskant",
+     "use": "no",
+     "req": "Gleichgeschlechtliche Beziehungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    }
+   ],
+   "cities": [],
+   "note": "Visum vorab bei der Botschaft Liberias in Berlin beantragen, kein Visum bei Ankunft; US-Dollar bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/liberia-node/liberiasicherheit-222378",
+   "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Beziehungen sind strafbar und gesellschaftlich nicht akzeptiert, Zurückhaltung wird empfohlen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/liberia-node/liberiasicherheit-222378",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "LS",
+   "name": "Lesotho",
+   "flag": "🇱🇸",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisewarnungen und Hinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node/lesothosicherheit-226974"
+    },
+    {
+     "name": "My M-Pesa Lesotho",
+     "cat": "payment",
+     "note": "Mobile Money von Vodacom für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Lesothische Telefonnummer und Ausweisnummer nötig",
+     "src": "https://publiceyenews.com/2025/04/01/vodacom-lesotho-expands-m-pesa-access-to-all-mobile-users/"
+    },
+    {
+     "name": "EcoCash App Lesotho",
+     "cat": "payment",
+     "note": "Mobile Money von Econet für Händler und Rechnungen",
+     "use": "no",
+     "req": "Aktive Econet-Lesotho-SIM und Ausweis nötig",
+     "src": "https://apps.apple.com/us/app/id6476985469"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Maseru",
+     "match": [
+      "Maseru"
+     ],
+     "apps": [
+      {
+       "name": "PickMeUp Cab Lesotho",
+       "cat": "taxi",
+       "note": "Fahrdienst in Maseru, Zahlung per Karte oder Wallet",
+       "src": "https://apps.apple.com/us/app/id1662870204"
+      },
+      {
+       "name": "LocalBites",
+       "cat": "delivery",
+       "note": "Essen von Restaurants in Maseru und Umgebung",
+       "src": "https://apps.apple.com/za/app/localbites/id6760565813"
+      },
+      {
+       "name": "Europcar",
+       "cat": "carshare",
+       "pkg": "com.clanmo.europcar",
+       "note": "Mietwagen am Flughafen Maseru buchen",
+       "use": "limited",
+       "req": "Kreditkarte auf den Fahrer, Führerschein, ggf. internationaler Führerschein",
+       "src": "https://www.europcar.co.uk/en-gb/stations/lesotho/maseru-moshoeshoe-airport"
+      }
+     ]
+    }
+   ],
+   "note": "Bis 14 Tage visumfrei mit Reisepass (6 Monate gültig, 2 freie Seiten); Rückflugticket und genug Geld nachweisen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node/lesothosicherheit-226974",
+   "lgbtq_note": "Ob gleichgeschlechtliche Handlungen noch strafbar sind, ist umstritten; Strafverfolgung ist nicht bekannt, das Thema gilt aber als Tabu.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node/lesothosicherheit-226974",
    "checked": "2026-11-18"
   }
  ]
