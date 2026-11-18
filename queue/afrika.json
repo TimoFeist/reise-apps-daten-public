@@ -2,26 +2,6 @@
   "continent": "AF",
   "todo": [
     {
-      "code": "MR",
-      "en": "Mauritania",
-      "slug": "mauritania"
-    },
-    {
-      "code": "YT",
-      "en": "Mayotte",
-      "slug": "mayotte"
-    },
-    {
-      "code": "MZ",
-      "en": "Mozambique",
-      "slug": "mozambique"
-    },
-    {
-      "code": "NA",
-      "en": "Namibia",
-      "slug": "namibia"
-    },
-    {
       "code": "NE",
       "en": "Niger",
       "slug": "niger"
@@ -302,6 +282,26 @@
       "code": "ML",
       "en": "Mali",
       "slug": "mali"
+    },
+    {
+      "code": "MR",
+      "en": "Mauritania",
+      "slug": "mauritania"
+    },
+    {
+      "code": "YT",
+      "en": "Mayotte",
+      "slug": "mayotte"
+    },
+    {
+      "code": "MZ",
+      "en": "Mozambique",
+      "slug": "mozambique"
+    },
+    {
+      "code": "NA",
+      "en": "Namibia",
+      "slug": "namibia"
     }
   ]
 }
