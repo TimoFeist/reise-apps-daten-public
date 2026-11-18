@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 20:18",
+ "version": "2026-11-18 20:28",
  "categories": [
   {
    "id": "entry",
@@ -5511,15 +5511,17 @@
     {
      "name": "eCabs",
      "cat": "taxi",
-     "note": "Fahrdienst in Malta (nicht auf Gozo)",
-     "pkg": "com.ecabsmobileapplication"
+     "note": "Lizenzierter lokaler Fahrdienst, gut am Flughafen",
+     "pkg": "com.ecabsmobileapplication",
+     "src": "https://www.bento.travel/malta"
     },
     {
      "name": "Gozo Channel",
      "cat": "rail",
-     "note": "Fähre Malta–Gozo",
+     "note": "Offizielle App der Fähre zwischen Malta und Gozo",
      "pkg": "com.gozochannel.app",
-     "ess": true
+     "ess": true,
+     "src": "https://www.bento.travel/malta"
     },
     {
      "name": "Uber",
@@ -23436,6 +23438,566 @@
    "src": "https://www.bento.travel/ja/slovakia",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind legal, aber rechtlich nicht anerkannt, seit 2025 kennt die Verfassung nur zwei Geschlechter.",
    "lgbtq_src": "https://www.ilga-europe.org/files/uploads/2026/02/Annual-Review-2026-Slovakia.pdf",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "BH",
+   "name": "Bahrain",
+   "flag": "🇧🇭",
+   "apps": [
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Bekannter Fahrdienst mit Abholpunkt am Flughafen",
+     "ess": true,
+     "src": "https://www.bento.travel/bahrain"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Lizenzierter Fahrdienst zum Preisvergleich, auch ab Flughafen",
+     "src": "https://www.bento.travel/bahrain/ride-hailing"
+    },
+    {
+     "name": "Bahrain Taxi",
+     "cat": "taxi",
+     "pkg": "com.multibrains.taxi.passenger.bto",
+     "note": "Lokale Vermittlung lizenzierter Taxis, für frühe Flüge vorbestellen",
+     "src": "https://www.bento.travel/bahrain/ride-hailing"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "pkg": "com.talabat",
+     "note": "Restaurants, Lebensmittel und Alltagsartikel per Lieferung",
+     "ess": true,
+     "src": "https://www.bento.travel/bahrain"
+    },
+    {
+     "name": "Keeta",
+     "cat": "delivery",
+     "pkg": "com.sankuai.sailor.afooddelivery",
+     "note": "Zweite Liefer-App mit anderen Restaurants und Rabatten",
+     "use": "limited",
+     "req": "Ausländische Karte wird teils abgelehnt, Ersatzkarte bereithalten",
+     "src": "https://www.bento.travel/bahrain/food-delivery"
+    },
+    {
+     "name": "Bahrain Bus",
+     "cat": "transit",
+     "pkg": "com.bahbusv2.app",
+     "note": "Offizielle Bus-App mit Fahrplan, Live-Zeiten und GO-Card-Aufladung",
+     "ess": true,
+     "src": "https://www.bento.travel/bahrain"
+    },
+    {
+     "name": "JESR",
+     "cat": "rail",
+     "pkg": "com.kfca.sa.jesr",
+     "note": "Offizielle App des King Fahd Causeway für Wartezeiten und Maut",
+     "use": "limited",
+     "req": "Einreiseerlaubnis für Saudi-Arabien, Fahrzeugfreigabe und Versicherung vorher klären",
+     "src": "https://www.bento.travel/bahrain"
+    },
+    {
+     "name": "Visit Bahrain",
+     "cat": "tourism",
+     "pkg": "com.btea.tg",
+     "note": "Offizielle Tourismus-App für Sehenswürdigkeiten und Planung",
+     "src": "https://www.bento.travel/bahrain"
+    },
+    {
+     "name": "BenefitPay",
+     "cat": "payment",
+     "note": "Nationale Geldbörse für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Identitätsprüfung und Freigabe durch eine teilnehmende bahrainische Bank nötig",
+     "src": "https://www.bento.travel/apps/benefitpay"
+    },
+    {
+     "name": "MyGOV",
+     "cat": "safety",
+     "note": "Staatliche App mit Sirenen- und Warnmeldungen des Zivilschutzes",
+     "use": "limited",
+     "req": "Richtet sich an Bürger und Einwohner, Warnfunktion in den Einstellungen aktivieren",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node/bahrainsicherheit-204112"
+    },
+    {
+     "name": "Selfdrive",
+     "cat": "carshare",
+     "note": "Mietwagen per App, Website oder Telefon buchen",
+     "use": "limited",
+     "req": "Internationaler Führerschein, Reisepass mit Visum, Karte auf eigenen Namen, Mindestalter 23",
+     "src": "https://www.selfdrive.bh/faqs.php"
+    }
+   ],
+   "cities": [],
+   "note": "Deutsche brauchen ein Visum (bei Ankunft, vorab als eVisa online oder bei der Botschaft), der Reisepass muss noch 6 Monate gültig sein, der Personalausweis wird nicht akzeptiert. Das Auswärtige Amt rät derzeit dringend von Reisen ab. Physische Karten und etwas Bargeld in Dinar mitnehmen.",
+   "src": "https://www.bento.travel/bahrain",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, aber Unzucht und Cross-Dressing können bestraft werden, es gibt keinen Diskriminierungsschutz und Zurückhaltung in der Öffentlichkeit ist ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node/bahrainsicherheit-204112",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "GE",
+   "name": "Georgien",
+   "flag": "🇬🇪",
+   "apps": [
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Wichtigster Fahrdienst in den Städten und an den Flughäfen",
+     "ess": true,
+     "src": "https://www.bento.travel/georgia/ride-hailing"
+    },
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "pkg": "ru.yandex.taxi",
+     "note": "Zweiter Fahrdienst zum Vergleichen von Preis und Wartezeit",
+     "src": "https://www.bento.travel/georgia/ride-hailing"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in neun Städten, auf Englisch nutzbar",
+     "ess": true,
+     "src": "https://www.bento.travel/georgia/food-delivery"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Alternative für Essen, Supermarkt und Apotheke",
+     "src": "https://www.bento.travel/georgia/food-delivery"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "note": "Essenslieferung in mehreren Städten und Urlaubsorten",
+     "src": "https://www.bento.travel/georgia/food-delivery"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline Karte mit Wanderwegen und Details auf dem Land",
+     "src": "https://www.bento.travel/georgia/navigation"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Zweiter Routenplaner zum Gegenprüfen, verkauft keine Tickets",
+     "src": "https://www.bento.travel/georgia/transit"
+    },
+    {
+     "name": "TRE.GE",
+     "cat": "rail",
+     "pkg": "com.lemondo.tre",
+     "note": "Zugtickets der Georgischen Bahn, Passdaten genau eintragen",
+     "ess": true,
+     "src": "https://www.bento.travel/georgia"
+    },
+    {
+     "name": "112 Georgia",
+     "cat": "safety",
+     "pkg": "mia.emergency_georgia_112",
+     "note": "Offizielle Notruf App, vor der Reise einrichten und testen",
+     "use": "limited",
+     "req": "Registrierung nötig, ausländische SIM wird eventuell nicht akzeptiert",
+     "src": "https://www.bento.travel/georgia"
+    },
+    {
+     "name": "meteo.gov.ge",
+     "cat": "safety",
+     "pkg": "ge.gov.nea.mobileweather",
+     "note": "Offizielle Wetterwarnungen, sagt nichts zu Bergstraßen",
+     "src": "https://www.bento.travel/georgia"
+    },
+    {
+     "name": "Apple Pay, Google Pay",
+     "cat": "payment",
+     "note": "Handy Wallet klappt oft, ersetzt aber nicht Karte und Bargeld",
+     "use": "limited",
+     "req": "Heimische Bank muss das Wallet unterstützen, Lari als Reserve mitnehmen",
+     "src": "https://www.bento.travel/georgia/payments"
+    },
+    {
+     "name": "Bank of Georgia",
+     "cat": "payment",
+     "note": "Banking App einer großen georgischen Bank",
+     "use": "no",
+     "req": "Nur mit Konto bei einer georgischen Bank",
+     "src": "https://www.bento.travel/georgia/payments"
+    },
+    {
+     "name": "TBC",
+     "cat": "payment",
+     "note": "Banking App der TBC Bank",
+     "use": "no",
+     "req": "Nur mit Konto bei einer georgischen Bank",
+     "src": "https://www.bento.travel/georgia/payments"
+    },
+    {
+     "name": "Getmancar",
+     "cat": "carshare",
+     "note": "Carsharing und Mietwagen per App, Abrechnung pro Minute bis Tag",
+     "use": "limited",
+     "req": "Führerschein Klasse B, Reisepass, Selfie mit Führerschein, Mindestalter 21, im Ausland nutzbare Bankkarte",
+     "src": "https://madloba.info/en/blog/transport-in-georgia/car-sharing-and-e-scooters-in-tbilisi/"
+    },
+    {
+     "name": "Jet",
+     "cat": "micro",
+     "note": "E-Scooter zum Ausleihen in Tiflis und Batumi",
+     "use": "limited",
+     "req": "Im Ausland nutzbare Bankkarte muss hinterlegt werden",
+     "src": "https://madloba.info/en/blog/transport-in-georgia/guide-to-scooter-and-e-scooter-rentals-in-tbilisi-and-batumi-prices-tips-and-more"
+    },
+    {
+     "name": "Scroll",
+     "cat": "micro",
+     "note": "E-Scooter in Partnerschaft mit Bird",
+     "use": "limited",
+     "req": "Registrierung mit Telefonnummer oder E-Mail, Bankkarte und mindestens 20 GEL Guthaben",
+     "src": "https://madloba.info/en/blog/transport-in-georgia/guide-to-scooter-and-e-scooter-rentals-in-tbilisi-and-batumi-prices-tips-and-more"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Batumi",
+     "match": [
+      "Batumi"
+     ],
+     "apps": [
+      {
+       "name": "toGO GE",
+       "cat": "micro",
+       "note": "E-Scooter Verleih am Meer in Batumi",
+       "use": "limited",
+       "req": "Bankkarte nötig, während der Fahrt werden 5 GEL reserviert",
+       "src": "https://madloba.info/en/blog/transport-in-georgia/guide-to-scooter-and-e-scooter-rentals-in-tbilisi-and-batumi-prices-tips-and-more"
+      }
+     ]
+    },
+    {
+     "name": "Tbilisi",
+     "match": [
+      "Tbilisi"
+     ],
+     "apps": [
+      {
+       "name": "Tbilisi Transport",
+       "cat": "transit",
+       "pkg": "com.azry.wandio.ttc.android",
+       "note": "Offizieller Planer für Metro und Bus mit Live Positionen",
+       "ess": true,
+       "src": "https://www.bento.travel/georgia/transit"
+      },
+      {
+       "name": "Parking Tbilisi",
+       "cat": "parking",
+       "note": "Städtische App zum Finden und Bezahlen von Parkplätzen",
+       "use": "limited",
+       "req": "Registrierung nötig, für ausländische Kennzeichen Bezahlung per Terminal oder Banking App belegt",
+       "src": "https://apps.apple.com/us/app/id1472868535"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen bis zu 360 Tage ohne Visum mit Reisepass oder Personalausweis ein. Seit 1. Januar 2026 ist eine Auslandskrankenversicherung über mindestens 30.000 GEL für den ganzen Aufenthalt Pflicht, Nachweis auf Englisch oder Georgisch dabeihaben.",
+   "src": "https://www.bento.travel/georgia",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, seit 2024 stellt ein Gesetz zum Schutz von Familienwerten aber die Förderung gleichgeschlechtlicher Beziehungen unter Strafe, die Akzeptanz ist in Teilen des Landes sehr gering und Übergriffe sind möglich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/georgiensicherheit-201918",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "KW",
+   "name": "Kuwait",
+   "flag": "🇰🇼",
+   "apps": [
+    {
+     "name": "Visit Kuwait",
+     "cat": "tourism",
+     "note": "Offizielle Tourismus-App mit Events, Karte und Visumantrag",
+     "ess": true,
+     "src": "https://apps.apple.com/us/app/-/id6753739605"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Seit September 2026 in Kuwait, Taxi bis Limousine, nur bargeldlos",
+     "src": "https://curlytales.com/now-you-can-book-a-ride-via-uber-in-kuwait-heres-how-you-can-enjoy-off-on-rides/"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Beliebtester Fahrdienst, Abholung am Flughafen oft nicht möglich",
+     "ess": true,
+     "src": "https://www.airtraveler.club/intel/kuwait-airport-taxi-scam-careem-save-200-percent/"
+    },
+    {
+     "name": "WIYAK",
+     "cat": "taxi",
+     "note": "Lokaler Fahrdienst, auch Fahrer für bis zu 24 Stunden",
+     "use": "limited",
+     "req": "Ob die Anmeldung mit ausländischer Nummer klappt, ist nicht belegt",
+     "src": "https://meobserver.news/transport/2026/09/21/uber-enters-kuwait-as-new-rules-reshape-ride-hailing-market/"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "pkg": "com.talabat",
+     "note": "Marktführer für Essen, Lebensmittel und Einkäufe",
+     "ess": true,
+     "src": "https://blog.menuviel.com/popular-food-delivery-apps-in-kuwait/"
+    },
+    {
+     "name": "Deliveroo",
+     "cat": "delivery",
+     "note": "Lieferdienst mit Fokus auf hochwertigere Restaurants",
+     "src": "https://248am.com/?p=588708"
+    },
+    {
+     "name": "Keeta",
+     "cat": "delivery",
+     "note": "Liefer-App von Meituan mit lokalen und internationalen Marken",
+     "src": "https://www.verdictfoodservice.com/newsletters/keeta-expands-into-kuwait"
+    },
+    {
+     "name": "Jahez",
+     "cat": "delivery",
+     "note": "Lieferdienst aus Saudi-Arabien mit vielen lokalen Restaurants",
+     "src": "https://blog.menuviel.com/popular-food-delivery-apps-in-kuwait/"
+    },
+    {
+     "name": "Citybuskw",
+     "cat": "transit",
+     "note": "Busnetz von CityBus mit Planer, Ankunftszeiten und QR-Tickets",
+     "use": "limited",
+     "req": "Für Tickets Registrierung mit Telefonnummer nötig, Live-Daten oft ungenau",
+     "src": "https://apps.apple.com/app/id6448910217"
+    },
+    {
+     "name": "Kuwait Finder",
+     "cat": "maps",
+     "note": "Staatliche Karten-App zum Finden von Adressen, auch offline",
+     "src": "https://e.gov.kw/sites/kgoenglish/Pages/ApplicationPages/Application-KuwaitFinder.aspx"
+    },
+    {
+     "name": "KuwaitMet",
+     "cat": "safety",
+     "pkg": "kw.gov.dgca.met.kuwaitmet",
+     "note": "Offizielle Wetter-App mit Warnungen bis vier Tage im Voraus",
+     "src": "https://www.kuwaitairport.gov.kw/en/news/2018/01/kuwaits-dgca-launches-new-weather-app-on-smart-phones"
+    },
+    {
+     "name": "Apple Pay",
+     "cat": "payment",
+     "note": "Kontaktlos mit der eigenen Karte zahlen, etwas Bargeld als Reserve",
+     "use": "limited",
+     "req": "Heimische Bank muss Apple Pay unterstützen",
+     "src": "https://www.remitly.com/blog/travel/what-is-used-most-in-kuwait-cash-or-card/"
+    },
+    {
+     "name": "OneClickDrive",
+     "cat": "carshare",
+     "pkg": "com.ocd.oneclickdrive",
+     "note": "Mietwagen verschiedener Anbieter per App vergleichen und buchen",
+     "use": "limited",
+     "req": "Reisepass mit Visum, Führerschein, meist ab 21 Jahren, Kreditkarte für Kaution",
+     "src": "https://www.oneclickdrive.com/kuwait"
+    },
+    {
+     "name": "Mawqif",
+     "cat": "parking",
+     "note": "Parken ohne Ticket per Kennzeichenerkennung und Wallet zahlen",
+     "use": "limited",
+     "req": "Nur an angeschlossenen Parkplätzen, Guthaben in der App nötig",
+     "src": "https://apps.apple.com/us/app/mawqif/id1489829383"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Kuwait riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kuwaitsicherheit-204130"
+    }
+   ],
+   "cities": [],
+   "note": "Deutsche brauchen ein Visum, online oder bei Ankunft, nur mit mindestens 6 Monate gültigem Reisepass. Das Auswärtige Amt rät derzeit dringend von Reisen nach Kuwait ab.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kuwaitsicherheit-204130",
+   "lgbtq_note": "Homosexuelle Handlungen und nichtehelicher Geschlechtsverkehr sind verboten und können strafrechtlich verfolgt werden, es gelten strenge islamische Moralvorstellungen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kuwaitsicherheit-204130",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "OM",
+   "name": "Oman",
+   "flag": "🇴🇲",
+   "apps": [
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Wichtigste Taxi-App, auch für OTaxi, Festpreis mit Karte oder bar",
+     "ess": true,
+     "src": "https://www.bento.travel/oman/ride-hailing"
+    },
+    {
+     "name": "Oman Taxi: OTaxi",
+     "cat": "taxi",
+     "pkg": "com.otaxi.rider",
+     "note": "Ältere OTaxi-App, leitet für den vollen Service zu Yango",
+     "use": "limited",
+     "req": "Voller Funktionsumfang nur noch über Yango",
+     "src": "https://www.bento.travel/oman/ride-hailing"
+    },
+    {
+     "name": "Oman Taxi: Tasleem Taxi",
+     "cat": "taxi",
+     "pkg": "com.tasleem.taxi",
+     "note": "Lizenziertes Taxi als Reserve, Festpreis und Fahrtverfolgung",
+     "src": "https://www.bento.travel/oman/ride-hailing"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "pkg": "com.talabat",
+     "note": "Größte Liefer-App für Restaurants, in vielen Städten",
+     "ess": true,
+     "src": "https://www.bento.travel/oman/food-delivery"
+    },
+    {
+     "name": "TM DONE",
+     "cat": "delivery",
+     "note": "Omanische App für Essen, Lebensmittel und Einkäufe",
+     "use": "limited",
+     "req": "Nur in Muscat und einigen Städten, Abdeckung der Adresse vorher prüfen",
+     "src": "https://www.bento.travel/oman/food-delivery"
+    },
+    {
+     "name": "Khedmah Delivery",
+     "cat": "delivery",
+     "pkg": "com.springtech.orderApp",
+     "note": "Kleinere Liefer-App mit Abholung und Aktionen",
+     "use": "limited",
+     "req": "Oft lange Wartezeiten, für eilige Bestellungen talabat nutzen",
+     "src": "https://www.bento.travel/oman/food-delivery"
+    },
+    {
+     "name": "Snoonu",
+     "cat": "delivery",
+     "pkg": "com.snoonu.customerapp",
+     "note": "Neuer Lieferdienst, gestartet in Nizwa, Ausbau nach und nach",
+     "use": "limited",
+     "req": "Nur in einzelnen Orten verfügbar, Adresse vorab prüfen",
+     "src": "https://www.bento.travel/oman/food-delivery"
+    },
+    {
+     "name": "Mwasalat",
+     "cat": "transit",
+     "pkg": "om.mwasalat.app",
+     "note": "Offizielle Bus-App für Stadt- und Überlandlinien mit Tickets",
+     "use": "limited",
+     "req": "Buchung klappt nicht immer, bei Problemen Schalter oder Hotline 1551",
+     "src": "https://bento.travel/oman/transit"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karte ohne Konto, Oman vorher herunterladen",
+     "src": "https://www.bento.travel/oman/navigation"
+    },
+    {
+     "name": "Thawani Pay",
+     "cat": "payment",
+     "note": "Lokale App für Rechnungen, Überweisungen und QR-Zahlung",
+     "use": "limited",
+     "req": "Zugang für Besucher nicht belegt, eigene Visa oder Mastercard mitnehmen",
+     "src": "https://www.bento.travel/oman/payments"
+    },
+    {
+     "name": "KhedmahPay",
+     "cat": "payment",
+     "note": "Omanische Finanz-App für lokale Zahlungen und Dienste",
+     "use": "limited",
+     "req": "Inländisches Angebot, Zugang für Besucher nicht belegt",
+     "src": "https://www.bento.travel/oman/payments"
+    },
+    {
+     "name": "Friendi Pay",
+     "cat": "payment",
+     "note": "Bezahl-App für Einwohner",
+     "use": "no",
+     "req": "Omanischer Ausweis und aktive omanische Telefonnummer nötig",
+     "src": "https://www.bento.travel/oman/payments"
+    },
+    {
+     "name": "Maal card",
+     "cat": "payment",
+     "note": "Neue omanische Karte, für Besucher wenig erprobt",
+     "use": "limited",
+     "req": "Inländisches Angebot, Zugang für Besucher nicht belegt",
+     "src": "https://www.bento.travel/oman/payments"
+    },
+    {
+     "name": "Ajarlee",
+     "cat": "carshare",
+     "note": "Omanische App, die direkt mit Mietwagenbüros verbindet",
+     "use": "limited",
+     "req": "Bedingungen für Touristen laut Quelle unklar, Führerschein und Karte bereithalten",
+     "src": "https://meatechwatch.com/?p=37801"
+    },
+    {
+     "name": "Safarjala",
+     "cat": "tourism",
+     "note": "Reiseführer mit Buchung von Touren, Camping, Tauchen und Mietwagen",
+     "src": "https://www.omanobserver.om/article/1175547/oman/tourism/safarjala-app-for-tourists-to-be-launched-on-tuesday"
+    },
+    {
+     "name": "ROP - Royal Oman Police",
+     "cat": "safety",
+     "note": "Polizei-App mit Notruf 9999, Visumstatus und Verkehrsstrafen",
+     "use": "limited",
+     "req": "Anmeldebedingungen für Besucher laut Quelle unklar",
+     "src": "https://apps.apple.com/app/id603143280"
+    },
+    {
+     "name": "Oman Ministry of Foreign Affairs",
+     "cat": "misc",
+     "note": "Offizielle App des Außenministeriums mit Reisetipps für Besucher",
+     "src": "https://gov.om/en/w/ministry-of-foreign-affairs-launches-official-app-for-omanis-visitors"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Salalah",
+     "match": [
+      "Salalah"
+     ],
+     "apps": [
+      {
+       "name": "Dhofar Seasons",
+       "cat": "tourism",
+       "note": "Offizielle App zur Khareef-Saison mit Events, Tickets und Infos",
+       "src": "https://www.omanobserver.om/article/1173805/oman/app-enhances-khareef-dhofar-experience-for-visitors"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum, das am besten vorab über evisa.rop.gov.om beantragt wird; bei Einreise sind bis zu 14 Tage kostenlos mit Hotelbuchung und Rückflug möglich. Reisepass mindestens 6 Monate gültig, Personalausweis wird nicht akzeptiert. Uber und Careem fahren nicht, Yango vorab installieren.",
+   "src": "https://www.bento.travel/oman",
+   "lgbtq_note": "Homosexuelle Handlungen sind mit bis zu drei Jahren Haft strafbar, Cross-Dressing ist verboten, gleichgeschlechtliche Ehen werden nicht anerkannt und nach einer Verurteilung droht die Ausweisung.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/oman-node/omansicherheit-204160",
    "checked": "2026-11-18"
   }
  ]
