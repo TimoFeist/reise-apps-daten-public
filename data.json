@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 20:37",
+ "version": "2026-11-18 20:46",
  "categories": [
   {
    "id": "entry",
@@ -24251,6 +24251,77 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "VI",
+   "name": "Amerikanische Jungferninseln",
+   "flag": "🇻🇮",
+   "apps": [
+    {
+     "name": "ESTA Mobile",
+     "cat": "entry",
+     "note": "Offizielle CBP App für den ESTA Antrag vor dem Flug",
+     "ess": true,
+     "src": "https://www.cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/usa-node/usavereinigtestaatensicherheit-201382"
+    },
+    {
+     "name": "VI Hail",
+     "cat": "taxi",
+     "note": "Fahrdienst App auf St. Croix, bargeldlos per Karte",
+     "ess": true,
+     "src": "https://www.gotostcroix.com/st-croix-blog/vi-hail-st-croix-uber-style-rideshare-app/"
+    },
+    {
+     "name": "Isleat",
+     "cat": "delivery",
+     "note": "Essen und Einkäufe von lokalen Partnern liefern lassen",
+     "use": "limited",
+     "req": "Konto mit E-Mail nötig, Android Version in der Quelle nicht belegt",
+     "src": "https://apps.apple.com/us/app/isleat/id6755629800"
+    },
+    {
+     "name": "Boomerang Express",
+     "cat": "delivery",
+     "note": "Lieferung und Abholung bei lokalen Restaurants",
+     "use": "no",
+     "req": "Nur für iPhone, Bezahlung per Karte",
+     "src": "https://apps.apple.com/us/app/boomerang-express/id1540618861"
+    },
+    {
+     "name": "My Virgin Islands",
+     "cat": "tourism",
+     "note": "Inselguide mit Events, Karten und Verzeichnis aller drei Inseln",
+     "src": "https://apps.apple.com/us/app/my-virgin-islands/id345832106"
+    },
+    {
+     "name": "Hertz",
+     "cat": "carshare",
+     "note": "Mietwagen auf St. Croix",
+     "use": "limited",
+     "req": "Mindestalter meist 25 Jahre",
+     "src": "https://www.gotostcroix.com/getting-around/car-rentals/"
+    },
+    {
+     "name": "Budget",
+     "cat": "carshare",
+     "note": "Mietwagen auf St. Croix",
+     "use": "limited",
+     "req": "Mindestalter meist 25 Jahre",
+     "src": "https://www.gotostcroix.com/getting-around/car-rentals/"
+    }
+   ],
+   "cities": [],
+   "note": "Uber und Lyft fahren hier praktisch nicht, auf St. John gibt es Sammeltaxis am Fähranleger, viele Fahrer wollen Bargeld.",
+   "src": "https://www.citizendailypost.com/faq/is-there-uber-on-st-john/",
+   "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2015 legal und seit 2022 gilt ein Diskriminierungsschutz.",
+   "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_United_States_Virgin_Islands",
    "checked": "2026-11-18"
   }
  ]
