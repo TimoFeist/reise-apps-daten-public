@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 00:36",
+ "version": "2026-11-18 00:47",
  "categories": [
   {
    "id": "entry",
@@ -12369,6 +12369,409 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden mit drei Monaten bis zwei Jahren Haft sowie Geldstrafe geahndet.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "BM",
+   "name": "Bermuda",
+   "flag": "🇧🇲",
+   "apps": [
+    {
+     "name": "Bermuda Arrival Card",
+     "cat": "entry",
+     "note": "Einreiseformular vorab online ausfüllen, Webformular",
+     "ess": true,
+     "src": "https://www.gotobermuda.com/bta/press-release/bermuda-visitors-win-perks-by-completing-online-arrival-card"
+    },
+    {
+     "name": "Shorelink",
+     "cat": "transit",
+     "note": "Bus- und Fährtickets, Pässe und Live-Karte der Regierung",
+     "ess": true,
+     "src": "https://www.gov.bm/services/shorelink-app"
+    },
+    {
+     "name": "Hitch Bermuda",
+     "cat": "taxi",
+     "note": "Taxis und Fahrdienste buchen, Zahlung per Karte in der App",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto mit E-Mail und Telefonnummer, Kreditkarte nötig",
+     "src": "https://apps.apple.com/us/app/id1053092489"
+    },
+    {
+     "name": "BTOA Connect",
+     "cat": "taxi",
+     "pkg": "com.BTOA_Connect",
+     "note": "Taxi-App des Taxiverbands, Zahlung per App oder bar",
+     "src": "https://bernews.com/2025/08/btoa-launches-connect-customer-app"
+    },
+    {
+     "name": "Ride.bm",
+     "cat": "taxi",
+     "note": "Taxis und Fahrdienste per App, Web oder WhatsApp buchen",
+     "src": "https://www.gotobermuda.com/plan/inspiration/article/bermuda-ride-share-guide-apps-rules-new-legislation"
+    },
+    {
+     "name": "Journi",
+     "cat": "taxi",
+     "note": "Taxi- und Fahrtenbuchung mit Fahrerverfolgung",
+     "src": "https://www.gotobermuda.com/plan/inspiration/article/bermuda-ride-share-guide-apps-rules-new-legislation"
+    },
+    {
+     "name": "Island Go",
+     "cat": "taxi",
+     "note": "Weitere Fahrdienst-App laut Tourismusbehörde",
+     "src": "https://www.gotobermuda.com/transportation"
+    },
+    {
+     "name": "Current Bermuda",
+     "cat": "carshare",
+     "pkg": "com.vulog.carshare.ff.currentvehicles.prod",
+     "note": "Elektro-Kleinwagen wie Twizy und Ami per App mieten",
+     "use": "limited",
+     "req": "Gültiger Führerschein und Zahlungskarte nötig",
+     "src": "https://www.gotobermuda.com/index%2ephp/plan/inspiration/article/bermudas-eco-friendly-microcar-rentals"
+    },
+    {
+     "name": "Oleander E-Bikes",
+     "cat": "micro",
+     "note": "Leih-E-Bikes für Besucher und Einheimische",
+     "use": "limited",
+     "req": "Registrierung in der App nötig",
+     "src": "https://apps.apple.com/us/app/id6443602549"
+    },
+    {
+     "name": "Whip Rideshare",
+     "cat": "micro",
+     "note": "E-Tretroller per App entsperren, auch Pässe",
+     "use": "limited",
+     "req": "Registrierung und Zahlungskarte nötig",
+     "src": "https://apps.apple.com/app/id1615587375"
+    },
+    {
+     "name": "Sargasso Sea",
+     "cat": "delivery",
+     "note": "Essen, Lebensmittel und mehr liefern lassen",
+     "use": "limited",
+     "req": "Konto mit Zahlungsdaten und Lieferadresse nötig",
+     "src": "https://www.gotobermuda.com/article/bermuda-food-delivery-local-restaurants-delivered-straight-to-your-door"
+    },
+    {
+     "name": "Hook Island",
+     "cat": "delivery",
+     "note": "Restaurants und Geschäfte der Insel liefern lassen",
+     "use": "limited",
+     "req": "Konto mit Zahlungsdaten und Lieferadresse nötig",
+     "src": "https://www.gotobermuda.com/article/bermuda-food-delivery-local-restaurants-delivered-straight-to-your-door"
+    },
+    {
+     "name": "Five Star Home Delivery",
+     "cat": "delivery",
+     "note": "Restaurant- und Lebensmittellieferung auf Bermuda",
+     "src": "https://apps.apple.com/app/id6451444129"
+    },
+    {
+     "name": "Lindo's DropIt",
+     "cat": "delivery",
+     "note": "Online-Supermarkt mit Lieferung, auch für Urlauber",
+     "src": "https://bernews.com/2025/04/dropit-unveils-new-platform-mobile-app"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Hamilton",
+     "match": [
+      "Hamilton"
+     ],
+     "apps": [
+      {
+       "name": "Pango Parking",
+       "cat": "parking",
+       "note": "Ticketlos im Parkhaus City Hall per QR oder Kennzeichen",
+       "use": "limited",
+       "req": "Kreditkarte oder Pango-Guthaben mit Kennzeichen verknüpfen",
+       "src": "https://www.royalgazette.com/?p=515305"
+      }
+     ]
+    }
+   ],
+   "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; Mietwagen gibt es nicht, nur Elektro-Kleinwagen, Roller und Busse.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Rechtsschutz und gesellschaftliche Akzeptanz sind aber geringer als im Vereinigten Königreich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "BQ",
+   "name": "Bonaire, Sint Eustatius und Saba",
+   "flag": "🇧🇶",
+   "apps": [
+    {
+     "name": "Bonaire Visitor Entry Tax",
+     "cat": "entry",
+     "note": "Einreisesteuer Bonaire online zahlen, QR-Code per Mail",
+     "ess": true,
+     "src": "https://bonaire.com/en/travel-info/tourist-tax/"
+    },
+    {
+     "name": "STINAPA Nature Fee",
+     "cat": "entry",
+     "note": "Naturgebühr für Tauchen und Nationalparks online kaufen",
+     "ess": true,
+     "src": "https://www.bes-reporter.com/news/nature/83585/stinapa-launches-2026-nature-fee-to-support-conservation-efforts-on-bonaire"
+    },
+    {
+     "name": "Zeli",
+     "cat": "taxi",
+     "note": "Taxi buchen und Essen liefern lassen auf Bonaire",
+     "ess": true,
+     "use": "limited",
+     "req": "Android nur als APK von der Website, nicht bei Google Play",
+     "src": "https://zeli-bonaire.com/apps"
+    },
+    {
+     "name": "Bonaire Map",
+     "cat": "maps",
+     "note": "Kostenpflichtige Offline-Karte mit Tauchplätzen und Stränden",
+     "src": "https://zeli-bonaire.com/apps"
+    },
+    {
+     "name": "Enterprise",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Bonaire per App buchen",
+     "use": "limited",
+     "req": "Ab 23 Jahren, Kreditkarte auf eigenen Namen und Reisepass nötig",
+     "src": "https://www.enterprise.com/en/car-rental/locations/bonaire/bonaire-flamingo-international-airport-zf03.html"
+    },
+    {
+     "name": "Bonaire Cruisers",
+     "cat": "tourism",
+     "note": "Audio-Inseltour mit Offline-Karte, nur für iPhone",
+     "src": "https://apps.apple.com/nl/app/id6745404102"
+    }
+   ],
+   "cities": [],
+   "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; auf Bonaire die Visitor Entry Tax von 75 USD vorab online zahlen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+   "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende und keine strafrechtlichen Einschränkungen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "CW",
+   "name": "Curaçao",
+   "flag": "🇨🇼",
+   "apps": [
+    {
+     "name": "Digital Immigration Card",
+     "cat": "entry",
+     "note": "Pflicht-Einreisekarte als Webformular vor der Ankunft",
+     "ess": true,
+     "src": "https://www.curacao.com/en/questions/digital-immigration-card/what-is-the-digital-immigration-card"
+    },
+    {
+     "name": "ABC Curaçao",
+     "cat": "transit",
+     "note": "Fahrpläne, Haltestellen und Echtzeit-Ankünfte der Busse",
+     "src": "https://apps.apple.com/app/id1570156545"
+    },
+    {
+     "name": "Click Curaçao",
+     "cat": "taxi",
+     "note": "Taxi auf der ganzen Insel rund um die Uhr buchen",
+     "use": "limited",
+     "req": "Bestätigung per SMS, nicht jede ausländische Nummer klappt",
+     "src": "https://apps.apple.com/us/app/id1478417699"
+    },
+    {
+     "name": "24-7 Taxi Curaçao",
+     "cat": "taxi",
+     "note": "Taxi mit Festpreis buchen, Fahrer live verfolgen",
+     "use": "limited",
+     "req": "Registrierung mit Telefonnummer nötig",
+     "src": "https://apps.apple.com/us/app/id1571466170"
+    },
+    {
+     "name": "Bob Delivery",
+     "cat": "delivery",
+     "note": "Essen von über 50 Restaurants liefern lassen",
+     "src": "https://sentoo.io/blog/making-food-delivery-easier-in-curacao-how-bob-delivery-and-sentoo-work-together"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Hato buchen",
+     "use": "limited",
+     "req": "Führerschein seit mindestens 1 Jahr, evtl. internationaler Führerschein",
+     "src": "https://www.sixt.ca/car-rental/curacao/willemstad/curacao-intl-airport-hato"
+    },
+    {
+     "name": "Smart Wheels Curacao",
+     "cat": "micro",
+     "note": "Autos, E-Bikes und Roller an festen Stationen mieten",
+     "src": "https://apps.apple.com/us/app/id6543149559"
+    },
+    {
+     "name": "maps.me",
+     "cat": "maps",
+     "pkg": "com.mapswithme.maps.pro",
+     "note": "Offline-Karten zur Navigation auf der Insel",
+     "src": "https://www.curacao.com/en/questions/internet-connection-and-cell-service/are-there-any-useful-apps-to-download-for-my-visit"
+    },
+    {
+     "name": "Curaçao Travel Guide",
+     "cat": "tourism",
+     "pkg": "com.futurecuracao.curacaotb",
+     "note": "Offizieller Reiseführer mit Unterkünften und Routen",
+     "src": "https://www.curacao.com/en/travel-guide-app"
+    },
+    {
+     "name": "Curaçao Dive Map",
+     "cat": "tourism",
+     "pkg": "nl.curdivemap",
+     "note": "Karte der Tauchplätze rund um die Insel",
+     "src": "https://www.curacao.com/en/travel-guide-app"
+    },
+    {
+     "name": "Cura-app",
+     "cat": "tourism",
+     "note": "Partys, Happy Hours, Strände und Lokale der Insel",
+     "src": "https://apps.apple.com/app/id6480454210"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Willemstad",
+     "match": [
+      "Willemstad"
+     ],
+     "apps": [
+      {
+       "name": "Flowbird",
+       "cat": "parking",
+       "note": "Parken in Punda und Otrobanda per Kennzeichen bezahlen",
+       "ess": true,
+       "src": "https://www.mycuracaoguide.com/about-curacao/transportation"
+      }
+     ]
+    }
+   ],
+   "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; vorher die digitale Einreisekarte auf dicardcuracao.com ausfüllen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+   "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
+   "checked": "2026-11-18"
+  },
+  {
+   "code": "KY",
+   "name": "Cayman-Inseln",
+   "flag": "🇰🇾",
+   "apps": [
+    {
+     "name": "CI:GO",
+     "cat": "taxi",
+     "pkg": "ky.cigo",
+     "note": "Offizielle Taxi-App der Regierung, auf allen drei Inseln",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto mit Telefonnummer oder E-Mail nötig",
+     "src": "https://play.google.com/store/apps/details?id=ky.cigo"
+    },
+    {
+     "name": "Cabbie.today",
+     "cat": "taxi",
+     "note": "Fahrten mit lokalen Fahrern auf den Inseln buchen",
+     "use": "limited",
+     "req": "Konto mit Name, E-Mail und Telefonnummer nötig",
+     "src": "https://apps.apple.com/app/id6498719765"
+    },
+    {
+     "name": "Island: GO!",
+     "cat": "taxi",
+     "note": "Fahrdienst auf Grand Cayman per App, rund um die Uhr",
+     "use": "limited",
+     "req": "Registrierung in der App nötig",
+     "src": "https://www.explorecayman.com/island-go"
+    },
+    {
+     "name": "Let's Eat",
+     "cat": "delivery",
+     "note": "Essen, Einkäufe von Foster's und Kurierdienst liefern",
+     "use": "limited",
+     "req": "Anmeldung erst beim Bezahlen, Karte und Adresse nötig",
+     "src": "https://apps.apple.com/us/app/id1503188422"
+    },
+    {
+     "name": "Bento",
+     "cat": "delivery",
+     "note": "Restaurants, Lebensmittel und Apotheke liefern lassen",
+     "use": "limited",
+     "req": "Konto mit Telefonnummer und Zahlungsdaten nötig",
+     "src": "https://apps.apple.com/us/app/id1502809014"
+    },
+    {
+     "name": "Cayman Good Taste",
+     "cat": "delivery",
+     "note": "Restaurantführer mit Menüs, Angeboten und Tischbuchung",
+     "src": "https://caymanresident.com/live/services/local-media/the-best-cayman-apps"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "note": "Mietwagen am Flughafen Owen Roberts per App buchen",
+     "use": "limited",
+     "req": "Ab 23 Jahren, Führerschein und Kreditkarte auf eigenen Namen",
+     "src": "https://www.sixt.com/car-rental/cayman/cayman-islands/grand-cayman-airport/"
+    },
+    {
+     "name": "Explore Cayman",
+     "cat": "tourism",
+     "pkg": "com.acorn.explorecayman",
+     "note": "Inselführer mit Stränden, Touren und Restaurants",
+     "src": "https://appgoblin.info/apps/com.acorn.explorecayman"
+    },
+    {
+     "name": "What's On Cayman",
+     "cat": "tourism",
+     "note": "Täglich aktualisierter Veranstaltungskalender der Inseln",
+     "src": "https://caymanresident.com/live/services/local-media/the-best-cayman-apps"
+    },
+    {
+     "name": "Cayman DoE",
+     "cat": "misc",
+     "note": "Karte der Meeresschutzzonen mit Regeln zu Fang und Schonzeit",
+     "src": "https://caymanresident.com/live/services/local-media/the-best-cayman-apps"
+    },
+    {
+     "name": "Cayman Airways",
+     "cat": "flights",
+     "note": "Flüge der nationalen Airline buchen, einchecken, Status",
+     "src": "https://www.caymaniantimes.ky/news/cayman-airways-introduces-new-mobile-app"
+    }
+   ],
+   "cities": [
+    {
+     "name": "George Town",
+     "match": [
+      "George Town"
+     ],
+     "apps": [
+      {
+       "name": "Movatic",
+       "cat": "micro",
+       "note": "Leihräder von Cycle Cayman an festen Stationen entsperren",
+       "use": "limited",
+       "req": "Konto und Zahlungskarte in der App nötig",
+       "src": "https://caymanresident.com/profile/cycle-cayman"
+      }
+     ]
+    }
+   ],
+   "note": "Visumfrei bis 180 Tage, keine britische ETA nötig außer bei Transit über UK; Linksverkehr, Mietwagen ab 21 Jahren.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/grossbritannien-node/grossbritanniensicherheit-206408",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Schutz vor Diskriminierung und gesellschaftliche Akzeptanz sind aber geringer als im Vereinigten Königreich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/grossbritannien-node/grossbritanniensicherheit-206408",
    "checked": "2026-11-18"
   }
  ]
