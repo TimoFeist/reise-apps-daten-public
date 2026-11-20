@@ -1,0 +1,16 @@
+{
+ "src": "https://www.visitgibraltar.gi/driving-and-park",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Uber fährt nicht nach Gibraltar, Taxis über die Taxi Association buchen. Parken ist knapp, Gebühren am Automaten oder online zahlen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2000 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
+ "lgbtq_src": "https://www.equaldex.com/region/gibraltar",
+ "discontinued": [],
+ "apps": [
+  {"name": "Gibraltar Taxi Association App", "cat": "taxi", "pkg": "", "ess": true, "note": "Taxi bestellen, Preis schätzen, Wagen mit Kartenleser", "city": "Gibraltar", "use": "ok", "req": "", "src": "https://www.chronicle.gi/?p=142834"},
+  {"name": "Hoppy", "cat": "micro", "pkg": "", "ess": false, "note": "E-Bikes und E-Scooter, Abgabe nur an festen Stationen", "city": "Gibraltar", "use": "ok", "req": "", "src": "https://www.gibraltar.gov.gi/press-releases/government-welcomes-major-expansion-of-shared-micromobility-as-120-e-bikes-join-hoppy-network-6342026-12286"},
+  {"name": "Hungry Monkey Gibraltar", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen von über 75 Lokalen in Gibraltar liefern lassen", "city": "Gibraltar", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id1461733862"},
+  {"name": "NomNoms", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung, Abholung und Tischreservierung in Gibraltar", "city": "Gibraltar", "use": "ok", "req": "", "src": "https://apps.apple.com/gb/app/nomnoms/id1458498775"},
+  {"name": "Gibraltar Upper Rock Paths", "cat": "maps", "pkg": "", "ess": false, "note": "Wanderwege am Upper Rock mit Karte, seit 2018 ohne Update", "city": "Gibraltar", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id902352662"}
+ ]
+}

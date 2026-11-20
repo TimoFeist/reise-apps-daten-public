@@ -1,0 +1,66 @@
+{
+ "src": "https://visitfaroeislands.com/en/plan-your-stay/getting-around",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Tunnelmaut nur online auf tunnil.fo binnen drei Tagen zahlen. In vielen Orten parkt man mit Parkscheibe, nicht per App.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
+ "lgbtq_src": "https://www.equaldex.com/region/Faroe-Islands",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Atlantic Airways",
+   "cat": "flights",
+   "pkg": "com.amadeus.merci.rc",
+   "ess": false,
+   "note": "Flüge der färöischen Airline buchen und einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.amadeus.merci.rc"
+  },
+  {
+   "name": "Explore Føroyar",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": true,
+   "note": "Audioguides zu vielen Orten, offline nutzbar, auch Deutsch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://visitfaroeislands.com/en/whatson/places/place/explore-foroyar-app00"
+  },
+  {
+   "name": "Bil Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi in Tórshavn bestellen, auch zum Flughafen",
+   "city": "Tórshavn",
+   "use": "ok",
+   "req": "",
+   "src": "https://visitfaroeislands.com/en/whatson/places/place/taxi-bil0"
+  },
+  {
+   "name": "Auto Taxa",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi der Zentrale Auto in Tórshavn bestellen",
+   "city": "Tórshavn",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/dk/app/auto-taxa/id1603252091"
+  },
+  {
+   "name": "Skaffa",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen bei färöischen Restaurants vorbestellen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/at/app/skaffa/id6444051786?l=en-GB"
+  }
+ ]
+}

@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "AD",
-"en": "Andorra",
-"slug": "andorra"
-},
-{
-"code": "BY",
-"en": "Belarus",
-"slug": "belarus"
-},
-{
-"code": "FO",
-"en": "Faroe Islands",
-"slug": "faroe-islands"
-},
-{
-"code": "GI",
-"en": "Gibraltar",
-"slug": "gibraltar"
-},
-{
 "code": "GG",
 "en": "Guernsey",
 "slug": "guernsey"
@@ -262,6 +242,26 @@
 "code": "MD",
 "en": "Moldova",
 "slug": "moldova"
+},
+{
+"code": "AD",
+"en": "Andorra",
+"slug": "andorra"
+},
+{
+"code": "BY",
+"en": "Belarus",
+"slug": "belarus"
+},
+{
+"code": "FO",
+"en": "Faroe Islands",
+"slug": "faroe-islands"
+},
+{
+"code": "GI",
+"en": "Gibraltar",
+"slug": "gibraltar"
 }
 ]
 }

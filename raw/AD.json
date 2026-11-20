@@ -1,0 +1,24 @@
+{
+ "src": "https://www.alto.ad/transport/2026/06/andorra-launches-updated-mou-te-app-with-real-ti",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Gratis Busfahren gilt nur für Einwohner, Besucher zahlen. Ab November 2026 geht das kontaktlos mit Bankkarte in allen Bussen.",
+ "lgbtq_note": "Keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2023 erlaubt, Diskriminierung wegen Orientierung und Identität ist verboten.",
+ "lgbtq_src": "https://equaldex.com/region/andorra",
+ "discontinued": [],
+ "apps": [
+  {"name": "FEDA Mou-te", "cat": "transit", "pkg": "", "ess": true, "note": "Offizielle Bus-App mit Live-Karte, Tickets und Parken", "city": "", "use": "ok", "req": "", "src": "https://www.alto.ad/transport/2026/06/andorra-launches-updated-mou-te-app-with-real-ti"},
+  {"name": "Taxi Andorra", "cat": "taxi", "pkg": "", "ess": true, "note": "Offizielle Taxizentrale, Zahlung bar oder Karte im Auto", "city": "", "use": "ok", "req": "", "src": "https://www.alto.ad/transport/andorra-taxi-booking-apps-real-time-trackin-260506"},
+  {"name": "Uber", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrdienst laut Uber rund um die Uhr verfügbar", "city": "Andorra la Vella", "use": "ok", "req": "", "src": "https://www.uber.com/global/en/cities/andorra-la-vella"},
+  {"name": "CityXerpa", "cat": "delivery", "pkg": "", "ess": true, "note": "Essen von über 160 Lokalen, Einkäufe und Fahrten", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id1175500027"},
+  {"name": "Mobilitat Andorra", "cat": "maps", "pkg": "", "ess": false, "note": "Straßenlage, Sperrungen und Webcams der Regierung", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/es/app/id1448483075"},
+  {"name": "Andbus", "cat": "rail", "pkg": "", "ess": false, "note": "Fernbus-Tickets buchen, Bus live verfolgen", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/andbus/id1446469200"},
+  {"name": "DirectBus", "cat": "rail", "pkg": "", "ess": false, "note": "Grenzbusse, etwa zum Flughafen Barcelona El Prat", "city": "", "use": "ok", "req": "", "src": "https://andorrainsiders.com/en/?p=9202"},
+  {"name": "Cicland", "cat": "micro", "pkg": "", "ess": false, "note": "E-Leihräder in Andorra la Vella, Escaldes, Sant Julià", "city": "", "use": "ok", "req": "", "src": "https://visitandorra.com/en/nature--sports/cicland/"},
+  {"name": "Grandvalira Resorts", "cat": "tourism", "pkg": "com.grandvalira.Grandvalira", "ess": false, "note": "Skipass, Pistenplan und Wetter für drei Skigebiete", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/grandvalira-resorts/id777328587"},
+  {"name": "Andorra Museus", "cat": "tourism", "pkg": "", "ess": false, "note": "Museen und Denkmäler mit Öffnungszeiten und Preisen", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/gb/app/andorra-museus/id1544789074"},
+  {"name": "Parl'App", "cat": "tourism", "pkg": "", "ess": false, "note": "QR-Infos an 105 Orten, auch in Gebärdensprache", "city": "", "use": "ok", "req": "", "src": "https://visitandorra.com/en/nature/parl-app/"},
+  {"name": "Apparcand Clic&Aparca", "cat": "parking", "pkg": "", "ess": false, "note": "Blaue Parkzonen per App bezahlen", "city": "La Massana", "use": "ok", "req": "", "src": "https://apps.apple.com/cg/app/apparcand-clic-aparca/id6738283256"},
+  {"name": "Telpark", "cat": "parking", "pkg": "", "ess": false, "note": "Parkhäuser in der Hauptstadt finden", "city": "Andorra la Vella", "use": "ok", "req": "", "src": "https://www.telpark.com/en/cities/andorra/"}
+ ]
+}
