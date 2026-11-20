@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 20:10",
+ "version": "2026-11-20 20:28",
  "categories": [
   {
    "id": "entry",
@@ -29344,6 +29344,477 @@
    "src": "https://visitaland.com/?p=17161",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/aland",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "KG",
+   "name": "Kirgisistan",
+   "flag": "🇰🇬",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kirgisistansicherheit/206738"
+    },
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "pkg": "ru.yandex.taxi",
+     "note": "Taxi mit Preisvorschau, auch Essenslieferung",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Karte kann scheitern, Bargeld bereithalten",
+     "src": "https://www.bento.travel/kyrgyzstan"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Preis per Gebot, vor Fahrtantritt festlegen",
+     "src": "https://www.bento.travel/kyrgyzstan"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Lieferung in Bischkek, Osch, Dschalal-Abad, Karakol",
+     "src": "https://www.bento.travel/kyrgyzstan"
+    },
+    {
+     "name": "2GIS",
+     "cat": "maps",
+     "pkg": "ru.dublgis.dgismobile",
+     "note": "Genaue Stadtkarte mit Eingängen und Buslinien",
+     "ess": true,
+     "src": "https://www.bento.travel/kyrgyzstan"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karte für Straßen und Wanderwege",
+     "ess": true,
+     "src": "https://www.bento.travel/kyrgyzstan"
+    },
+    {
+     "name": "Yandex Maps",
+     "cat": "maps",
+     "pkg": "ru.yandex.yandexmaps",
+     "note": "Alternative mit Verkehrslage und ÖPNV-Routen",
+     "src": "https://www.bento.travel/kyrgyzstan"
+    },
+    {
+     "name": "toGO KGZ",
+     "cat": "micro",
+     "note": "E-Scooter-Sharing in Kirgisistan",
+     "use": "limited",
+     "req": "Telefonnummer und Bankkarte nötig, Karte kann scheitern",
+     "src": "https://apps.apple.com/us/app/togo-kgz/id6449596526"
+    },
+    {
+     "name": "Railway.kg",
+     "cat": "rail",
+     "note": "Bahntickets der Kyrgyz Temir Zholu kaufen",
+     "use": "limited",
+     "req": "Zahlungsarten laut Quelle unklar, Karte vorab testen",
+     "src": "https://apps.apple.com/af/app/railway-kg/id6502640387"
+    },
+    {
+     "name": "MBANK",
+     "cat": "payment",
+     "note": "Verbreitete Banking- und QR-Bezahlapp",
+     "use": "no",
+     "req": "Kirgisisches Bankkonto nötig, Eröffnung mit Pass vor Ort",
+     "src": "https://mbank.kg/en/mbank"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bishkek",
+     "match": [
+      "Bishkek"
+     ],
+     "apps": [
+      {
+       "name": "Navi Taxi",
+       "cat": "taxi",
+       "note": "Taxi in Bischkek mit Festpreisen",
+       "use": "limited",
+       "req": "Anmeldung laut Quelle nicht beschrieben",
+       "src": "https://weproject.media/en/articles/detail/a-guide-to-public-transport-in-bishkek-prices-and-useful-apps/?amp=y"
+      },
+      {
+       "name": "Tulpar",
+       "cat": "transit",
+       "note": "Offizielle App zur Tulpar-Fahrkarte in Bischkek",
+       "use": "limited",
+       "req": "Anmeldung per SMS-Code, Busse seit Juli 2026 nur bargeldlos",
+       "src": "https://apps.apple.com/us/app/tulpar/id1500758348"
+      },
+      {
+       "name": "Мой город Бишкек",
+       "cat": "parking",
+       "note": "Städtische App, Parken zahlen und Busse verfolgen",
+       "use": "limited",
+       "req": "Zahlungsarten und Anmeldung laut Quelle unklar",
+       "src": "https://economist.kg/transport/2026/06/22/kak-oplatit-parkovku-v-bishkeke-onlain-meriia-zapustila-novuiu-funktsiiu-v-moi-gorod/"
+      },
+      {
+       "name": "SunRent",
+       "cat": "micro",
+       "pkg": "tech.bumerang.sunrent",
+       "note": "E-Scooter per QR-Code entsperren",
+       "use": "limited",
+       "req": "Ab 18 Jahren, Zahlung in der App nötig",
+       "src": "https://kaktus.media/doc/528000_elektrosamokaty_v_bishkeke._kak_mikromobilnost_delaet_gorod_ydobnee_i_ekologichnee.html"
+      }
+     ]
+    }
+   ],
+   "note": "Bis 30 Tage visumfrei; ausländische Karten klappen nicht immer, daher Som als Bargeld mitnehmen.",
+   "src": "https://www.bento.travel/kyrgyzstan",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, aber gesellschaftlich abgelehnt; seit 2023 drohen Geldstrafen für LGBTIQ-Informationen an Minderjährige.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kirgisistansicherheit/206738",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "LB",
+   "name": "Libanon",
+   "flag": "🇱🇧",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Lage ändert sich schnell",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Bekannteste Fahrdienst-App, auch ab Flughafen Beirut",
+     "ess": true,
+     "src": "https://www.uber.com/global/en/r/airports/bey/taxi/"
+    },
+    {
+     "name": "Toters",
+     "cat": "delivery",
+     "pkg": "com.toters.customer",
+     "note": "Größter lokaler Lieferdienst für Essen und Einkäufe",
+     "src": "https://appgoblin.info/apps/com.toters.customer"
+    },
+    {
+     "name": "noknok",
+     "cat": "delivery",
+     "note": "Schnelle Lieferung von Lebensmitteln",
+     "src": "https://sensortower.com/blog/2025-q2-ios-top-5-food%20delivery%20services-units-lb-63da96fbe1714cfff1c1e5a1"
+    },
+    {
+     "name": "ACTC PT",
+     "cat": "transit",
+     "note": "Linien, Haltestellen und Live-Ortung der öffentlichen Busse",
+     "src": "https://today.lorientlejour.com/article/1479048/french-donated-buses-finally-have-their-own-mobile-app.html"
+    },
+    {
+     "name": "Ministry of Tourism Lebanon",
+     "cat": "tourism",
+     "note": "Offizielle App mit Sehenswürdigkeiten und KI-Assistent",
+     "src": "https://today.lorientlejour.com/article/1473346/ministry-of-tourism-launches-its-smart-tourism-app.html"
+    },
+    {
+     "name": "Whish Money",
+     "cat": "payment",
+     "note": "Verbreitete E-Wallet mit QR-Zahlung und Überweisungen",
+     "use": "limited",
+     "req": "Identitätsprüfung mit Pass oder Ausweis nötig, Bargeld bleibt üblich",
+     "src": "https://whish.money/termsconditions"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, vom Telekomministerium teilweise gesperrt",
+     "use": "no",
+     "req": "Auf Mobilfunknetzen teils blockiert, Nutzung riskant",
+     "src": "https://www.amnesty.org/en/latest/news/2019/05/lebanon-ban-on-gay-dating-app-grindr-a-blow-for-sexual-rights-and-freedom-2/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Beirut",
+     "match": [
+      "Beirut"
+     ],
+     "apps": [
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "note": "Fahrdienst in Beirut, Preise in Pfund angezeigt",
+       "src": "https://bolt.eu/en-ae/cities/beirut/route/zaitunay-bay-to-abc-dbayeh/"
+      }
+     ]
+    }
+   ],
+   "note": "Teilreisewarnung beachten; Visum bis einen Monat gratis am Flughafen, Reisepass nötig, US-Dollar oder Euro in bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, als homosexuell wahrgenommenes Verhalten kann zur Festnahme führen, große Zurückhaltung ist ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "MN",
+   "name": "Mongolei",
+   "flag": "🇲🇳",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842"
+    },
+    {
+     "name": "UBCab",
+     "cat": "taxi",
+     "pkg": "com.mezorn.ubcab.ubcab_passanger_v2",
+     "note": "Wichtigste Taxi-App, vom Auswärtigen Amt empfohlen",
+     "ess": true,
+     "use": "no",
+     "req": "Mongolische Telefonnummer nötig, Zahlung nur bar",
+     "src": "https://meanwhileinmongolia.com/how-to-get-a-taxi-ulaanbaatar/"
+    },
+    {
+     "name": "Toki",
+     "cat": "payment",
+     "note": "Superapp für Bezahlen, Taxi, Essen und U-Money-Aufladung",
+     "use": "limited",
+     "req": "QR-Zahlungen sind für Ausländer meist nur eingeschränkt nutzbar",
+     "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+    },
+    {
+     "name": "MAPS.ME",
+     "cat": "maps",
+     "note": "Offline-Karten für Stadt und Steppe",
+     "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+    },
+    {
+     "name": "TAPA (Tapatrip)",
+     "cat": "flights",
+     "note": "Flüge, Hotels und Transport buchen",
+     "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Ulaanbaatar",
+     "match": [
+      "Ulaanbaatar"
+     ],
+     "apps": [
+      {
+       "name": "UBCab Eats",
+       "cat": "delivery",
+       "note": "Essenslieferung von Restaurants in Ulaanbaatar",
+       "use": "limited",
+       "req": "Bestätigungs-SMS vorab testen",
+       "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+      },
+      {
+       "name": "TokTok Delivery",
+       "cat": "delivery",
+       "note": "Lieferung von Essen und Einkäufen in Ulaanbaatar",
+       "use": "limited",
+       "req": "Zahlung über Bank oder E-Payment, ausländische Karte unsicher",
+       "src": "https://apps.apple.com/us/app/id1450600616"
+      },
+      {
+       "name": "UB Smart Bus",
+       "cat": "transit",
+       "note": "Buslinien und Ankunftszeiten live, auf Englisch",
+       "ess": true,
+       "src": "https://apps.apple.com/us/app/ub-smart-bus/id1076088335"
+      },
+      {
+       "name": "U money",
+       "cat": "transit",
+       "note": "Guthaben und Fahrten der Buskarte prüfen",
+       "use": "limited",
+       "req": "U-Money-Karte am Kiosk kaufen, im Bus geht auch Visa oder Mastercard",
+       "src": "https://www.jarniascyril.com/expatriation/moving-to-mongolia-as-an-expat-complete-guide/public-transport-mongolia-practical-guide/"
+      },
+      {
+       "name": "JET",
+       "cat": "micro",
+       "note": "E-Scooter ohne feste Stationen mieten",
+       "use": "limited",
+       "req": "Telefonnummer und Zahlungsmittel nötig",
+       "src": "https://apps.apple.com/app/jet-%d1%88%d0%b5%d1%80%d0%b8%d0%bd%d0%b3-%d1%81%d0%b0%d0%bc%d0%be%d0%ba%d0%b0%d1%82%d0%be%d0%b2/id1546127285"
+      },
+      {
+       "name": "U-GO",
+       "cat": "micro",
+       "note": "Leih-E-Bikes in Ulaanbaatar",
+       "use": "limited",
+       "req": "Registrierung und Zahlung laut Quelle nicht beschrieben",
+       "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+      },
+      {
+       "name": "SIXT",
+       "cat": "carshare",
+       "note": "Mietwagen an zwei Stationen in Ulaanbaatar",
+       "use": "limited",
+       "req": "Internationaler und deutscher Führerschein nötig",
+       "src": "https://www.sixt.com/car-rental/mongolia/"
+      }
+     ]
+    }
+   ],
+   "note": "Bis 30 Tage visumfrei mit Reisepass; Taxis nur über offizielle Firmen wie UBCab rufen und Bargeld in Tugrik mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842",
+   "lgbtq_note": "Homosexuelle Handlungen sind legal und Diskriminierung ist gesetzlich verboten, die Ehe für alle gibt es aber nicht und Übergriffe kommen vor.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "MO",
+   "name": "Macao",
+   "flag": "🇲🇴",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/macausicherheit/200872"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Vermittelt lizenzierte Taxis, Preis nach Taxameter",
+     "ess": true,
+     "src": "https://www.bento.travel/blog/is-uber-available-in-macau"
+    },
+    {
+     "name": "MAAS PLUS",
+     "cat": "taxi",
+     "pkg": "macao.taxi.passager",
+     "note": "Lokaler Funktaxi-Dienst als Ersatz",
+     "use": "limited",
+     "req": "SMS-Anmeldung und Zahlung für Ausländer teils schwierig",
+     "src": "https://www.bento.travel/blog/is-uber-available-in-macau"
+    },
+    {
+     "name": "mFood",
+     "cat": "delivery",
+     "pkg": "com.m.mfood",
+     "note": "Lokale Essenslieferung, Adresse genau angeben",
+     "ess": true,
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "Aomi",
+     "cat": "delivery",
+     "note": "Zweiter Lieferdienst, Angebot meist auf Chinesisch",
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "OpenRice",
+     "cat": "delivery",
+     "pkg": "com.openrice.android",
+     "note": "Restaurantführer mit Speisekarten und Bewertungen",
+     "ess": true,
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "WeChat",
+     "cat": "misc",
+     "pkg": "com.tencent.mm",
+     "note": "Chat, nur nötig wenn Kontakte ihn nutzen",
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "AMap Global",
+     "cat": "maps",
+     "pkg": "com.autonavi.minimap",
+     "note": "Genaue Karte mit Navigation, auch auf Englisch",
+     "ess": true,
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "Macao Maritime Info",
+     "cat": "rail",
+     "pkg": "mo.gov.marine.MacaoSailings",
+     "note": "Offizielle Fährzeiten und Seewetter",
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "Macao Civil Protection Info",
+     "cat": "safety",
+     "pkg": "mo.gov.fsm.ecpapp",
+     "note": "Offizielle Warnungen und Notunterkünfte",
+     "ess": true,
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "Macao Weather",
+     "cat": "safety",
+     "pkg": "mo.gov.dsmg.weather",
+     "note": "Amtliches Wetter und Taifunwarnungen",
+     "src": "https://www.bento.travel/macau"
+    },
+    {
+     "name": "MPay",
+     "cat": "payment",
+     "note": "Verbreitete Wallet der Einwohner Macaus",
+     "use": "limited",
+     "req": "Für Einwohner gedacht, für Kurzbesuch nicht empfohlen",
+     "src": "https://www.bento.travel/macau/payments"
+    },
+    {
+     "name": "Alipay",
+     "cat": "payment",
+     "note": "QR-Zahlung, im Bus nur Festland- und HK-Version",
+     "use": "limited",
+     "req": "Internationales Konto funktioniert nicht überall",
+     "src": "https://www.bento.travel/macau/payments"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Macau",
+     "match": [
+      "Macau"
+     ],
+     "apps": [
+      {
+       "name": "Experience Macao",
+       "cat": "tourism",
+       "pkg": "mo.gov.macaotourism.expmacao",
+       "note": "Offizielle App des Tourismusamts, offline nutzbar",
+       "src": "https://www.bento.travel/macau"
+      },
+      {
+       "name": "Bus Traveling System",
+       "cat": "transit",
+       "pkg": "mo.gov.dsat.bis",
+       "note": "Offizielle Bus-App mit Haltestellen und Ankunftszeiten",
+       "ess": true,
+       "src": "https://www.bento.travel/macau"
+      },
+      {
+       "name": "Macao Smart Go",
+       "cat": "transit",
+       "pkg": "mo.gov.dsat.dis.travel",
+       "note": "Verkehrsplaner der Verkehrsbehörde DSAT",
+       "src": "https://www.bento.travel/macau"
+      }
+     ]
+    }
+   ],
+   "note": "Mit Reisepass 90 Tage visumfrei; Bus mit genau MOP 6 in bar oder mit physischem Macau Pass zahlen.",
+   "src": "https://www.bento.travel/macau",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1995 legal, eine Ehe oder Partnerschaft gibt es nicht, im Beruf besteht Schutz vor Diskriminierung.",
+   "lgbtq_src": "https://www.equaldex.com/region/macau",
    "checked": "2026-11-20"
   }
  ]
