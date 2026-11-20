@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 21:29",
+ "version": "2026-11-20 23:28",
  "categories": [
   {
    "id": "entry",
@@ -30314,6 +30314,542 @@
    "lgbtq_note": "Homosexuelle Beziehungen sind verboten und können mit Gefängnis bestraft werden, seit Dezember 2024 häufen sich Angriffe auf LGBTIQ-Personen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
    "checked": "2026-11-20"
+  },
+  {
+   "code": "TJ",
+   "name": "Tadschikistan",
+   "flag": "🇹🇯",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Warnung für Afghanistan-Grenze",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/tadschikistansicherheit-206756"
+    },
+    {
+     "name": "Tajikistan e-Visa",
+     "cat": "entry",
+     "note": "Offizielles E-Visum für bis zu 60 Tage, nicht verlängerbar",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/tadschikistansicherheit-206756"
+    },
+    {
+     "name": "Rakhsh Taxi",
+     "cat": "taxi",
+     "pkg": "ru.taximaster.tmtaxicaller.id2371",
+     "note": "Taxi-App mit vielen Orten, auch Khujand und Panjakent",
+     "use": "limited",
+     "req": "Anmeldung mit ausländischer Nummer unsicher, Bargeld bereithalten",
+     "src": "https://www.bento.travel/tajikistan/ride-hailing"
+    },
+    {
+     "name": "Alif",
+     "cat": "payment",
+     "note": "Lokale Geldbörse und Bankkarten für Zahlungen im Land",
+     "use": "no",
+     "req": "Lokaler Ausweis und tadschikische Bankkarte nötig",
+     "src": "https://www.bento.travel/tajikistan/payments"
+    },
+    {
+     "name": "OsmAnd",
+     "cat": "maps",
+     "pkg": "net.osmand",
+     "note": "Offline-Karten mit GPX, ideal für Pamir und Berge",
+     "ess": true,
+     "src": "https://www.bento.travel/tajikistan/navigation"
+    },
+    {
+     "name": "Telegram",
+     "cat": "misc",
+     "pkg": "org.telegram.messenger",
+     "note": "Messenger, verbreitet und gut als Ersatz für WhatsApp",
+     "src": "https://www.bento.travel/tajikistan/messaging"
+    },
+    {
+     "name": "Tourism Map TJK",
+     "cat": "tourism",
+     "note": "Offline-Karte des Tourismuskomitees mit Routen und Hotels",
+     "src": "https://asiaplus.news/?p=380752"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Dushanbe",
+     "match": [
+      "Dushanbe"
+     ],
+     "apps": [
+      {
+       "name": "Jura Taxi",
+       "cat": "taxi",
+       "pkg": "com.taxi.jura",
+       "note": "Taxi mit Festpreis vorab und Chat mit dem Fahrer",
+       "use": "limited",
+       "req": "Tadschikische Nummer womöglich nötig, ausländische Karte unsicher",
+       "src": "https://www.bento.travel/tajikistan/ride-hailing"
+      },
+      {
+       "name": "Oson24",
+       "cat": "delivery",
+       "pkg": "tj.oson24.app",
+       "note": "Essen aus Restaurants bestellen, Status live verfolgen",
+       "use": "limited",
+       "req": "Anmeldung mit ausländischer Nummer und Karte nicht belegt",
+       "src": "https://www.bento.travel/tajikistan/food-delivery"
+      },
+      {
+       "name": "EDA24",
+       "cat": "delivery",
+       "note": "Lieferdienst für Essen per Telefon und Webseite",
+       "use": "no",
+       "req": "Anmeldung nur mit tadschikischer Nummer (+992)",
+       "src": "https://www.bento.travel/tajikistan/food-delivery"
+      }
+     ]
+    }
+   ],
+   "note": "Bis 30 Tage visumfrei mit Registrierung binnen zehn Arbeitstagen, Bargeld ist üblich, also Somoni in größeren Städten abheben.",
+   "src": "https://www.bento.travel/tajikistan",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht gesetzlich verboten, die gesellschaftliche Akzeptanz ist aber gering, besonders auf dem Land.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/tadschikistansicherheit-206756",
+   "checked": "2026-11-21"
+  },
+  {
+   "code": "TL",
+   "name": "Timor-Leste",
+   "flag": "🇹🇱",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Botschaft in Jakarta",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388"
+    },
+    {
+     "name": "Customs e-Declaration",
+     "cat": "entry",
+     "note": "Pflicht: Zollerklärung bis 5 Tage vor Ankunft, QR-Code",
+     "ess": true,
+     "src": "https://timorleste.tl/plan-your-trip/arrival-card"
+    },
+    {
+     "name": "GoTimor",
+     "cat": "tourism",
+     "note": "Reiseinfos mit Unterkünften und Aktivitäten im Land",
+     "src": "https://apps.apple.com/au/app/gotimor/id1581703288"
+    },
+    {
+     "name": "MyFoti",
+     "cat": "taxi",
+     "pkg": "com.fotiunipessoal.myfoti",
+     "note": "Auto und Motorrad bestellen, auch Lieferungen",
+     "use": "limited",
+     "req": "Anmeldung mit ausländischer Nummer unklar, Bargeld bereithalten",
+     "src": "https://play.google.com/store/apps/details?id=com.fotiunipessoal.myfoti"
+    },
+    {
+     "name": "TRON TIMOR",
+     "cat": "taxi",
+     "pkg": "com.timor.tron",
+     "note": "Motorradtaxi, Taxi, Essen und Einkäufe bestellen",
+     "use": "limited",
+     "req": "Registrierung und Zahlungsarten laut Quelle unklar",
+     "src": "https://play.google.com/store/apps/details?id=com.timor.tron&hl=en"
+    },
+    {
+     "name": "GOTIMOR RIDE",
+     "cat": "taxi",
+     "note": "Neue Fahrdienst-App seit Mai 2026, bar oder digital",
+     "use": "limited",
+     "req": "Anmeldung per Handynummer, Vorwahl Timor-Leste voreingestellt",
+     "src": "https://mwm.ai/apps/gotimor-ride/6762457401"
+    },
+    {
+     "name": "Mosan Telemor",
+     "cat": "payment",
+     "note": "Mobile Geldbörse von Telemor für Überweisungen",
+     "use": "no",
+     "req": "Telemor-Anschluss und Anmeldung mit Ausweis bei einem Agenten nötig",
+     "src": "https://mosan.telemor.tl/en.html"
+    },
+    {
+     "name": "TPAY Timor Pay",
+     "cat": "payment",
+     "note": "Mobile Bezahl-App von Telkomcel",
+     "use": "no",
+     "req": "Registrierung mit Telkomcel-Nummer nötig",
+     "src": "https://apps.apple.com/us/app/tpay-timor-pay/id1514336290"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Dili",
+     "match": [
+      "Dili"
+     ],
+     "apps": [
+      {
+       "name": "Halodili",
+       "cat": "delivery",
+       "note": "Lebensmittel und Einkäufe bis an die Haustür",
+       "use": "limited",
+       "req": "Liefergebiet unklar, Zahlung per Karte, PayPal oder bar",
+       "src": "https://apps.apple.com/us/app/id1559235166"
+      },
+      {
+       "name": "Dili Microlet Routes",
+       "cat": "transit",
+       "note": "Webkarte der 13 Minibuslinien, Stand 2024",
+       "src": "https://dilimicroletroutes.github.io"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen bis 90 Tage kein Visum. Zollerklärung vorab online ausfüllen und genug US-Dollar in bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388",
+   "lgbtq_note": "Keine besonderen Strafbestimmungen bekannt und keine generelle Gefährdung, die Akzeptanz ist aber begrenzt, Zärtlichkeiten in der Öffentlichkeit besser meiden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388",
+   "checked": "2026-11-21"
+  },
+  {
+   "code": "TM",
+   "name": "Turkmenistan",
+   "flag": "🇹🇲",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts mit Lageänderungen",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/turkmenistansicherheit-206774"
+    },
+    {
+     "name": "Turkmenistan e-Visa",
+     "cat": "entry",
+     "note": "Seit Oktober 2026 Visum online beantragen, QR-Code per Mail",
+     "ess": true,
+     "use": "limited",
+     "req": "System neu, laut Berichten ist ein Einladungsschreiben evtl. weiter nötig",
+     "src": "https://timesca.com/turkmenistan-launches-e-visa-system-but-questions-remain/"
+    },
+    {
+     "name": "State Customs Service of Turkmenistan",
+     "cat": "entry",
+     "note": "Zollregeln nachlesen und Reisendenerklärung ausfüllen",
+     "src": "https://turkmenistan.gov.tm/en/post/92256/mobile-application-state-customs-service-turkmenistan-has-been-launched"
+    },
+    {
+     "name": "Ynamly taksi",
+     "cat": "taxi",
+     "note": "Fahrer in der Nähe bestellen und live verfolgen",
+     "use": "limited",
+     "req": "Telefonnummer wird erfasst, Zahlung bar oder per Karte",
+     "src": "https://apps.apple.com/kz/app/ynamly-taksi/id6456042670"
+    },
+    {
+     "name": "Turkmenistan Railway",
+     "cat": "rail",
+     "note": "Offizielle Zugtickets der Demirýollary online kaufen",
+     "use": "no",
+     "req": "Zahlung nur mit turkmenischer Altyn-Asyr-Karte, Passdaten nötig",
+     "src": "https://railway.gov.tm/en/passengers"
+    },
+    {
+     "name": "Turkmen Tourist",
+     "cat": "flights",
+     "note": "Inlands- und Auslandsflüge buchen und verwalten",
+     "use": "no",
+     "req": "Zahlung nur mit Karten turkmenischer Banken",
+     "src": "https://apps.apple.com/us/app/id6757800932"
+    },
+    {
+     "name": "Telegram",
+     "cat": "misc",
+     "note": "Messenger, im Land gesperrt",
+     "use": "no",
+     "req": "Im Land gesperrt, Umgehung per VPN ist verboten",
+     "src": "https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business"
+    },
+    {
+     "name": "Signal",
+     "cat": "misc",
+     "note": "Messenger, im Land gesperrt",
+     "use": "no",
+     "req": "Im Land gesperrt, Umgehung per VPN ist verboten",
+     "src": "https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App für schwule Männer",
+     "use": "no",
+     "req": "Polizei spürt Männer über Dating-Apps auf, Nutzung gefährlich",
+     "src": "https://www.ecoi.net/en/file/local/2127059/laenderkurzinfo-turkmenistan-07-25-sogi.pdf"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Ashgabat",
+     "match": [
+      "Ashgabat"
+     ],
+     "apps": [
+      {
+       "name": "Duralga",
+       "cat": "transit",
+       "note": "Stadtbusse live, Haltestellen und Routen, auch offline",
+       "ess": true,
+       "src": "https://apps.apple.com/gd/app/duralga/id1607990462"
+      },
+      {
+       "name": "Ýolagçy",
+       "cat": "transit",
+       "note": "Neue Bus-App der Duralga-Macher mit Live-Ortung",
+       "use": "limited",
+       "req": "Noch Betaversion, Download nur über die Website des Anbieters",
+       "src": "https://t.turkmenportal.com/en/news/92477-turkmenistan-launched-new-app-for-tracking-public-transport"
+      },
+      {
+       "name": "Onlaýn taksi",
+       "cat": "taxi",
+       "note": "Taxi per App oder Kurzwahl 0655, Preis vorab sichtbar",
+       "ess": true,
+       "use": "limited",
+       "req": "Telefonnummer für SMS nötig, Zahlung bar oder per Karte beim Fahrer",
+       "src": "https://turkmenportal.com/en/blog/45793/servis-onlayn-taksi-v-ashhabade-nachal-pokazyvat-stoimost-poezdki-v-prilozhenii-pered-zakazom"
+      },
+      {
+       "name": "Ashgabat (Hypermarkt)",
+       "cat": "delivery",
+       "note": "Lebensmittel, Waren und Restaurantessen nach Hause liefern",
+       "use": "limited",
+       "req": "Anmeldung und Zahlungsarten laut Quelle unklar",
+       "src": "https://turkmenportal.com/en/blog/73168/gipermarket-ashhabad-zapustil-svoe-mobilnoe-prilozhenie"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab beantragen und reichlich US-Dollar bar mitnehmen, VPN ist verboten und viele Messenger sind gesperrt.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/turkmenistansicherheit-206774",
+   "lgbtq_note": "Sexuelle Handlungen zwischen Männern sind strafbar und werden mit Haft bestraft, die Polizei nutzt Dating-Apps, um Betroffene aufzuspüren und zu erpressen.",
+   "lgbtq_src": "https://ilga-europe.org/files/uploads/2025/02/Annual-Review-2025-Turkmenistan.pdf",
+   "checked": "2026-11-21"
+  },
+  {
+   "code": "UZ",
+   "name": "Usbekistan",
+   "flag": "🇺🇿",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Anmeldepflicht beachten",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/usbekistansicherheit-206790"
+    },
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "pkg": "ru.yandex.taxi",
+     "note": "Wichtigste Taxi-App, auch in vielen Regionalstädten",
+     "ess": true,
+     "use": "limited",
+     "req": "SMS-Code an ausländische Nummer scheitert teils, Barzahlung möglich",
+     "src": "https://www.bento.travel/uzbekistan/ride-hailing"
+    },
+    {
+     "name": "MyTaxi",
+     "cat": "taxi",
+     "pkg": "com.uznewmax.mytaxi",
+     "note": "Taxi und Lieferungen in den Städten, gute Ausweichlösung",
+     "use": "limited",
+     "req": "Ausländische Visa oder Mastercard nicht immer akzeptiert",
+     "src": "https://www.bento.travel/uzbekistan/ride-hailing"
+    },
+    {
+     "name": "Fasten UZ",
+     "cat": "taxi",
+     "pkg": "com.fasten.rider",
+     "note": "Fahrten mit Festpreis, englisch, bar oder per Karte",
+     "src": "https://www.bento.travel/uzbekistan/ride-hailing"
+    },
+    {
+     "name": "Maxim",
+     "cat": "taxi",
+     "pkg": "com.taxsee.taxsee",
+     "note": "Mehrsprachig, Stadt, Fernfahrten und Vorbestellung",
+     "src": "https://www.bento.travel/uzbekistan/ride-hailing"
+    },
+    {
+     "name": "WB Taxi",
+     "cat": "taxi",
+     "pkg": "uz.wildberries.taxi.client",
+     "note": "Neuer Fahrdienst in Taschkent, Samarkand und Buchara",
+     "use": "limited",
+     "req": "Nur Zahlung per hinterlegter Karte, ausländische Karten unklar",
+     "src": "https://www.bento.travel/uzbekistan/ride-hailing"
+    },
+    {
+     "name": "Uzum Tezkor",
+     "cat": "delivery",
+     "pkg": "uz.uzum.tezkor",
+     "note": "Essen und Lebensmittel, beste Abdeckung außerhalb Taschkents",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Karte wird teils abgelehnt, dann bar zahlen",
+     "src": "https://www.bento.travel/uzbekistan/food-delivery"
+    },
+    {
+     "name": "Yandex Eats",
+     "cat": "delivery",
+     "pkg": "ru.foodfox.client",
+     "note": "Essen und Einkäufe liefern lassen, englische Oberfläche",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Karten funktionieren nur wechselhaft",
+     "src": "https://www.bento.travel/uzbekistan/food-delivery"
+    },
+    {
+     "name": "Express24",
+     "cat": "delivery",
+     "pkg": "com.uznewmax.theflash",
+     "note": "Restaurants, Läden und Basare, vor allem in Taschkent",
+     "use": "limited",
+     "req": "Setzt vor allem auf lokale Karten, sonst Barzahlung wählen",
+     "src": "https://www.bento.travel/uzbekistan/food-delivery"
+    },
+    {
+     "name": "Payme",
+     "cat": "payment",
+     "note": "Verbreitete Bezahl-App für Überweisungen und QR-Zahlung",
+     "use": "no",
+     "req": "UZCARD oder HUMO mit SMS nötig, Visa nicht hinterlegbar",
+     "src": "https://www.bento.travel/uzbekistan/payments"
+    },
+    {
+     "name": "Click",
+     "cat": "payment",
+     "note": "Bezahl-App und digitale Geldbörse im Land",
+     "use": "no",
+     "req": "Volle Identifizierung nur mit usbekischer Staatsbürgerschaft",
+     "src": "https://www.bento.travel/uzbekistan/payments"
+    },
+    {
+     "name": "Uzum Bank",
+     "cat": "payment",
+     "note": "Onlinebank mit virtueller Karte, QR-Zahlung und Umtausch",
+     "use": "limited",
+     "req": "Karte erst nach Identitätsprüfung, Eignung für Ausländer offen",
+     "src": "https://apps.apple.com/us/app/uzum-bank-online/id1492307726"
+    },
+    {
+     "name": "Telegram",
+     "cat": "misc",
+     "pkg": "org.telegram.messenger",
+     "note": "Wichtigster Messenger für Gastgeber, Fahrer und Infos",
+     "ess": true,
+     "src": "https://www.bento.travel/uzbekistan"
+    },
+    {
+     "name": "Yandex Maps",
+     "cat": "maps",
+     "pkg": "ru.yandex.yandexmaps",
+     "note": "Beste Karte für Adressen, Eingänge und Nahverkehr",
+     "ess": true,
+     "src": "https://www.bento.travel/uzbekistan/navigation"
+    },
+    {
+     "name": "2GIS",
+     "cat": "maps",
+     "pkg": "ru.dublgis.dgismobile",
+     "note": "Offline nutzbares Verzeichnis für Taschkent und Samarkand",
+     "src": "https://www.bento.travel/uzbekistan/navigation"
+    },
+    {
+     "name": "ATTO",
+     "cat": "transit",
+     "pkg": "uz.genesis.asop",
+     "note": "Offizielle Fahrkarten-App für Metro und Bus, Guthaben laden",
+     "ess": true,
+     "use": "limited",
+     "req": "Anmeldung per Telefonnummer, virtuelle Karte nur mit Android NFC",
+     "src": "https://www.bento.travel/uzbekistan/transit"
+    },
+    {
+     "name": "Uzrailways tickets",
+     "cat": "rail",
+     "pkg": "com.axonlogic.uzrailway",
+     "note": "Offizielle App der Staatsbahn für Zugtickets, früh buchen",
+     "ess": true,
+     "use": "limited",
+     "req": "Zahlung laut Beschreibung über UZCARD, Bestätigungsmail kommt teils nicht",
+     "src": "https://apps.apple.com/app/id1497456207"
+    },
+    {
+     "name": "Uzbekistan Airways",
+     "cat": "flights",
+     "pkg": "uz.uzairways",
+     "note": "Offizielle App der Fluglinie für Inland und Ausland",
+     "src": "https://www.bento.travel/uzbekistan"
+    },
+    {
+     "name": "Yandex Go Scooter",
+     "cat": "micro",
+     "note": "E-Scooter in Samarkand und Buchara über die Yandex-Go-App",
+     "use": "limited",
+     "req": "Ab 18 Jahren, Konto in Yandex Go nötig",
+     "src": "https://www.uzdaily.uz/en/yandex-uzbekistan-launches-e-scooter-rental-service-in-samarkand-and-bukhara/"
+    },
+    {
+     "name": "JET",
+     "cat": "micro",
+     "note": "E-Scooter per QR-Code leihen, Abstellen frei wählbar",
+     "use": "limited",
+     "req": "Telefonnummer zur Anmeldung nötig",
+     "src": "https://apps.apple.com/mn/app/id1546127285?l=en-gb"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Tashkent",
+     "match": [
+      "Tashkent"
+     ],
+     "apps": [
+      {
+       "name": "Uklon",
+       "cat": "taxi",
+       "pkg": "ua.com.uklontaxi",
+       "note": "Fahrdienst mit englischer Oberfläche und Live-Ortung",
+       "use": "limited",
+       "req": "Ausländische Karte nicht garantiert, Bargeld möglich",
+       "src": "https://www.bento.travel/uzbekistan/ride-hailing"
+      },
+      {
+       "name": "IZZY (in ATTO)",
+       "cat": "micro",
+       "note": "E-Scooter für den Weg zur Haltestelle, im ATTO-Menü",
+       "use": "limited",
+       "req": "Über ATTO-Konto mit Telefonnummer, Zahlungsarten nicht angegeben",
+       "src": "https://www.atto.uz/en/news/atto-izzy"
+      },
+      {
+       "name": "Sixt",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen, in der Stadt und am Hauptbahnhof",
+       "use": "limited",
+       "req": "Ab 25 Jahren, Führerschein seit zwei Jahren, Kreditkarte oder Bargeld",
+       "src": "https://www.sixt.com/car-rental/uzbekistan/tashkent"
+      }
+     ]
+    }
+   ],
+   "note": "Bis 30 Tage visumfrei mit Reisepass, genug Som in bar mitnehmen, da Karten außerhalb der Großstädte oft nicht gehen.",
+   "src": "https://www.bento.travel/uzbekistan",
+   "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar, LGBTIQ-Beziehungen sind gesellschaftlich nicht akzeptiert.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/usbekistansicherheit-206790",
+   "checked": "2026-11-21"
   }
  ]
 }
