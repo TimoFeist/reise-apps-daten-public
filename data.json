@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 18:22",
+ "version": "2026-11-20 19:20",
  "categories": [
   {
    "id": "entry",
@@ -28335,6 +28335,514 @@
    "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
    "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/christmas-island",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "MC",
+   "name": "Monaco",
+   "flag": "🇲🇨",
+   "apps": [
+    {
+     "name": "Monapass",
+     "cat": "transit",
+     "pkg": "group.flowbird.monaco",
+     "note": "Bustickets, MonaBike, Straßenparken und Museen",
+     "ess": true,
+     "src": "https://monservicepublic.gouv.mc/en/themes/free-time/culture/monapass/monapass"
+    },
+    {
+     "name": "Monaco Bus",
+     "cat": "transit",
+     "note": "Offizielle Busfahrpläne und Abfahrten in Echtzeit",
+     "ess": true,
+     "src": "https://www.cam.mc/en/partner-applications/monacobus"
+    },
+    {
+     "name": "Taxi Monaco",
+     "cat": "taxi",
+     "note": "Offizielle Taxi-App: buchen, verfolgen, bezahlen",
+     "ess": true,
+     "src": "https://www.monaco-tribune.com/en/2025/04/taxi-monaco-catch-a-cab-in-a-couple-of-clicks/"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "note": "Fahrdienst nur für Fahrten von außen nach Monaco",
+     "use": "no",
+     "req": "Abholung in Monaco verboten, nur Ankunft von außen",
+     "src": "https://en.gouv.mc/A-la-Une-du-Portail/Measures-Prohibiting-UBER-Type-Vehicles-in-the-Principality"
+    },
+    {
+     "name": "MonaBike",
+     "cat": "micro",
+     "note": "Leih-E-Bikes an 49 Stationen, ab 1 Euro",
+     "use": "limited",
+     "req": "Registrierung über Monapass-App nötig",
+     "src": "https://cvb.visitmonaco.com/en/practical-information/getting-around/getting-around-on-a-monabike"
+    },
+    {
+     "name": "Mobee",
+     "cat": "carshare",
+     "note": "Elektro-Carsharing mit Twizy, Smart und Tesla",
+     "use": "limited",
+     "req": "Konto mit Führerschein und Ausweis nötig",
+     "src": "https://monservicepublic.gouv.mc/en/themes/transport-and-mobility/access-traffic-and-parking/traffic/mobee-carsharing-service"
+    },
+    {
+     "name": "EatIn Monaco",
+     "cat": "delivery",
+     "note": "Essen, Einkäufe und Blumen nach Monaco liefern",
+     "use": "limited",
+     "req": "Konto nötig, App nur auf Französisch",
+     "src": "https://apps.apple.com/app/id1454440520"
+    },
+    {
+     "name": "Your Monaco",
+     "cat": "tourism",
+     "note": "Regierungs-App mit Events, Strandwetter, Orten",
+     "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+    },
+    {
+     "name": "Citymapper",
+     "cat": "maps",
+     "note": "Routenplaner mit Bus, Zug, MonaBike und Mobee",
+     "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+    },
+    {
+     "name": "StreetNav",
+     "cat": "maps",
+     "note": "Barrierearme Routen für eingeschränkte Mobilität",
+     "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+    },
+    {
+     "name": "MaPlacePMR",
+     "cat": "parking",
+     "note": "Freie Behindertenparkplätze nahezu live finden",
+     "use": "limited",
+     "req": "Nur mit spezieller Behindertenparkkarte",
+     "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+    }
+   ],
+   "cities": [],
+   "note": "Uber darf in Monaco niemanden abholen. Bus, MonaBike und Parken laufen über Monapass, im Bus geht auch kontaktlose Bankkarte.",
+   "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications",
+   "lgbtq_note": "Laut Auswärtigem Amt keine besonderen Schwierigkeiten bekannt, die Akzeptanz gilt als gut.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/monaco-node/monacosicherheit-226868",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "RU",
+   "name": "Russische Föderation",
+   "flag": "🇷🇺",
+   "apps": [
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "pkg": "ru.yandex.taxi",
+     "note": "Taxi, Lieferung und Roller in einer App, auf Englisch",
+     "ess": true,
+     "use": "limited",
+     "req": "Konto vor der Reise anlegen, nur bar zahlen",
+     "src": "https://russiable.com/yandex-guide-russia/"
+    },
+    {
+     "name": "Citymobil",
+     "cat": "taxi",
+     "note": "Zweitgrößter Taxidienst neben Yandex",
+     "use": "limited",
+     "req": "Nur bar, deutsche karten funktionieren nicht",
+     "src": "https://www.mos.ru/en/answer/transport/how-to-use-taxi-in-moscow/"
+    },
+    {
+     "name": "Yandex Maps",
+     "cat": "maps",
+     "pkg": "ru.yandex.yandexmaps",
+     "note": "Karten mit ÖPNV, Verkehr und Offline Karten",
+     "ess": true,
+     "src": "https://russiable.com/apps-travel-russia/"
+    },
+    {
+     "name": "2GIS",
+     "cat": "maps",
+     "pkg": "ru.dublgis.dgismobile",
+     "note": "Detaillierte Stadtpläne offline, mit Geschäften",
+     "use": "limited",
+     "req": "In EU App Stores nur für Android",
+     "src": "https://russiable.com/apps-travel-russia/"
+    },
+    {
+     "name": "Yandex Metro",
+     "cat": "transit",
+     "pkg": "ru.yandex.metro",
+     "note": "Metropläne mit Umstiegen, auch offline",
+     "ess": true,
+     "src": "https://russiable.com/apps-travel-russia/"
+    },
+    {
+     "name": "Yandex Translate",
+     "cat": "misc",
+     "pkg": "ru.yandex.translate",
+     "note": "Übersetzt Text, Sprache und Fotos",
+     "src": "https://russiable.com/yandex-guide-russia/"
+    },
+    {
+     "name": "Russian Railways (RZD)",
+     "cat": "rail",
+     "pkg": "ru.rzd.pass",
+     "note": "Fahrpläne und Zugtickets der Staatsbahn",
+     "ess": true,
+     "use": "limited",
+     "req": "Tickets nur mit russischer Karte, sonst bar am Bahnhof",
+     "src": "https://russiable.com/apps-travel-russia/"
+    },
+    {
+     "name": "Yandex Travel",
+     "cat": "rail",
+     "note": "Zugtickets und Hotels buchen",
+     "use": "no",
+     "req": "Russische Karte oder SBP nötig",
+     "src": "https://russiable.com/yandex-guide-russia/"
+    },
+    {
+     "name": "Aviasales",
+     "cat": "flights",
+     "pkg": "ru.aviasales",
+     "note": "Flugsuche mit Preisalarm",
+     "use": "limited",
+     "req": "Deutsche Karten funktionieren nicht bei russischen Anbietern",
+     "src": "https://russiable.com/apps-travel-russia/"
+    },
+    {
+     "name": "Ostrovok",
+     "cat": "hotels",
+     "note": "Hotels und Wohnungen, oft Barzahlung vor Ort",
+     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025"
+    },
+    {
+     "name": "ZenHotels",
+     "cat": "hotels",
+     "note": "Hotelbuchung, nimmt ausländische Visa und Mastercard",
+     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025"
+    },
+    {
+     "name": "Sutochno",
+     "cat": "hotels",
+     "note": "Ferienwohnungen ähnlich wie Airbnb",
+     "use": "limited",
+     "req": "Meist nur russische Karten, bar nach Absprache",
+     "src": "https://russiable.com/apps-travel-russia/"
+    },
+    {
+     "name": "Russpass",
+     "cat": "tourism",
+     "note": "Offizieller Reiseplaner mit Touren und Tickets",
+     "use": "limited",
+     "req": "Käufe mit deutscher Karte nicht möglich",
+     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025"
+    },
+    {
+     "name": "Yandex Afisha",
+     "cat": "tourism",
+     "note": "Tickets für Konzerte, Theater und Museen",
+     "use": "no",
+     "req": "Russische Karte oder SBP nötig",
+     "src": "https://russiable.com/yandex-guide-russia/"
+    },
+    {
+     "name": "Yandex Eats",
+     "cat": "delivery",
+     "note": "Essenslieferung aus Restaurants",
+     "use": "limited",
+     "req": "Nur Barzahlung an Kurier, wo angeboten",
+     "src": "https://russiable.com/yandex-guide-russia/"
+    },
+    {
+     "name": "Yandex Lavka",
+     "cat": "delivery",
+     "note": "Schnelle Lebensmittellieferung",
+     "use": "no",
+     "req": "Ausländische Karten werden nicht akzeptiert",
+     "src": "https://russiable.com/yandex-guide-russia/"
+    },
+    {
+     "name": "Samokat",
+     "cat": "delivery",
+     "note": "Lebensmittellieferung, App nur auf Russisch",
+     "use": "no",
+     "req": "Russische Mir Karte nötig",
+     "src": "https://hse.ru/recommends/online-shopping"
+    },
+    {
+     "name": "VkusVill",
+     "cat": "delivery",
+     "note": "Supermarkt mit Lieferung, App nur auf Russisch",
+     "use": "no",
+     "req": "Russische Mir Karte nötig",
+     "src": "https://hse.ru/recommends/online-shopping"
+    },
+    {
+     "name": "Ozon",
+     "cat": "shopping",
+     "note": "Großer Onlinemarktplatz",
+     "use": "no",
+     "req": "Russische Mir Karte nötig",
+     "src": "https://hse.ru/recommends/online-shopping"
+    },
+    {
+     "name": "Wildberries",
+     "cat": "shopping",
+     "note": "Großer Onlinemarktplatz",
+     "use": "no",
+     "req": "Russische Mir Karte nötig",
+     "src": "https://hse.ru/recommends/online-shopping"
+    },
+    {
+     "name": "YooMoney",
+     "cat": "payment",
+     "note": "Virtuelle Mir Karte für Reisende",
+     "use": "limited",
+     "req": "Registrierung mit Pass, Aufladen per Auslandskarte laut Anbieter",
+     "src": "https://promo.yoomoney.ru/travelcard_virtual"
+    },
+    {
+     "name": "T-Bank",
+     "cat": "payment",
+     "note": "Banking App zur Mir Karte",
+     "use": "no",
+     "req": "Russisches Konto mit Mir Karte nötig",
+     "src": "https://russiable.com/apps-travel-russia/"
+    },
+    {
+     "name": "Mir Pay",
+     "cat": "payment",
+     "note": "Kontaktlos zahlen mit dem Handy",
+     "use": "no",
+     "req": "Russische Mir Karte nötig",
+     "src": "https://www.gw2ru.com/plan-your-trip/245835-payments-in-russia-2026"
+    },
+    {
+     "name": "Yandex Drive",
+     "cat": "carshare",
+     "note": "Carsharing von Yandex",
+     "use": "no",
+     "req": "Pass, russische Meldeadresse, in Moskau Gosuslugi",
+     "src": "https://russiable.com/yandex-guide-russia/"
+    },
+    {
+     "name": "Delimobil",
+     "cat": "carshare",
+     "note": "Carsharing in 18 Städten",
+     "use": "no",
+     "req": "Russische Bankkarte und Führerscheinprüfung nötig",
+     "src": "https://apps.apple.com/app/id1038254296"
+    },
+    {
+     "name": "Whoosh",
+     "cat": "micro",
+     "note": "E-Scooter Verleih",
+     "use": "no",
+     "req": "Russische Nummer und Verifizierung über mos.ru",
+     "src": "https://www.hse.ru/recommends/bikesandscooters"
+    },
+    {
+     "name": "Urent",
+     "cat": "micro",
+     "note": "E-Scooter und E-Bikes leihen",
+     "use": "no",
+     "req": "Russische Nummer und Verifizierung über mos.ru",
+     "src": "https://www.hse.ru/recommends/bikesandscooters"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Queere Dating App, Nutzung gilt als unsicher",
+     "use": "no",
+     "req": "Fallen und Erpressung über Dating Apps, Festnahmen möglich",
+     "src": "https://novayagazeta.eu/articles/2024/07/23/poznakomimsia"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kazan",
+     "match": [
+      "Kazan"
+     ],
+     "apps": [
+      {
+       "name": "Транспортная карта Казани и РТ",
+       "cat": "transit",
+       "note": "Busfahrt per QR bezahlen, Fahrkarte aufladen",
+       "use": "limited",
+       "req": "Bezahlen mit deutscher Karte nicht möglich",
+       "src": "https://apps.apple.com/ru/app/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%B0-%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8-%D0%B8-%D1%80%D1%82/id1585152384?l=en-GB"
+      }
+     ]
+    },
+    {
+     "name": "Moskau",
+     "match": [
+      "Moscow",
+      "Moskau"
+     ],
+     "apps": [
+      {
+       "name": "Velobike",
+       "cat": "micro",
+       "note": "Leihräder, auch mit Troika Karte zahlbar",
+       "use": "no",
+       "req": "Russische Telefonnummer nötig",
+       "src": "https://www.hse.ru/recommends/bikesandscooters"
+      },
+      {
+       "name": "Moscow Transport",
+       "cat": "transit",
+       "note": "Offizielle App mit Routen, Tickets und Taxi",
+       "ess": true,
+       "use": "limited",
+       "req": "Bezahlen mit deutscher Karte nicht möglich",
+       "src": "https://apps.apple.com/app/id1227002793"
+      },
+      {
+       "name": "Метро Москвы",
+       "cat": "transit",
+       "note": "Offizielle Metro App, Troika aufladen",
+       "use": "limited",
+       "req": "Bezahlen mit deutscher Karte nicht möglich",
+       "src": "https://apps.apple.com/fi/app/mosmetro/id1093391186"
+      },
+      {
+       "name": "Wheely",
+       "cat": "taxi",
+       "note": "Premium Fahrdienst, in Moskau gerichtlich gesperrt",
+       "use": "no",
+       "req": "In Moskau seit 2025 gesperrt",
+       "src": "https://www.themoscowtimes.com/2026/08/05/russias-taxi-industry-hits-a-breaking-point-as-prices-soar-migrants-shut-out-and-options-shrink"
+      }
+     ]
+    },
+    {
+     "name": "Sankt Petersburg",
+     "match": [
+      "Saint Petersburg",
+      "Sankt Petersburg"
+     ],
+     "apps": [
+      {
+       "name": "Подорожник",
+       "cat": "transit",
+       "note": "Virtuelle Fahrkarte und Tickets der Stadt",
+       "use": "limited",
+       "req": "Bezahlen mit deutscher Karte nicht möglich",
+       "src": "https://www.dp.ru/a/2025/03/07/v-peterburge-zarabotala-oplata"
+      },
+      {
+       "name": "Visit Petersburg",
+       "cat": "tourism",
+       "note": "Offizieller Stadtführer mit Audioguides",
+       "src": "https://apps.apple.com/app/id828951361"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung. Deutsche Karten und Bezahlapps gehen nicht, auch nicht am Automaten. Genug Bargeld mitnehmen und vor Ort in Rubel tauschen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/russischefoederationsicherheit-201536",
+   "lgbtq_note": "Homosexualität ist nicht strafbar, aber die LGBT Bewegung gilt als extremistisch, Propaganda wird mit Geldbuße, Haft und Ausweisung bestraft.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/russischefoederationsicherheit-201536",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "SJ",
+   "name": "Svalbard und Jan Mayen",
+   "flag": "🇸🇯",
+   "apps": [
+    {
+     "name": "Varsom",
+     "cat": "safety",
+     "note": "Lawinenwarnung und Hangneigungskarten der NVE",
+     "ess": true,
+     "src": "https://www.unis.no/facilities/operations-and-field/trip-planning-and-hazard-resources/"
+    },
+    {
+     "name": "Norgeskart outdoors",
+     "cat": "maps",
+     "note": "Offline Karten für Touren, iOS und Android",
+     "src": "https://www.unis.no/facilities/operations-and-field/trip-planning-and-hazard-resources/"
+    },
+    {
+     "name": "Here and there Svalbard",
+     "cat": "maps",
+     "note": "Offline Karte von Svalbard im Maßstab 1:70000",
+     "use": "limited",
+     "req": "Nur für iPhone erhältlich",
+     "src": "https://www.unis.no/facilities/operations-and-field/trip-planning-and-hazard-resources/"
+    },
+    {
+     "name": "Avinor",
+     "cat": "flights",
+     "pkg": "no.avinor.avinorflights",
+     "note": "Abflug, Gate, Sicherheitskontrolle und Gepäckband",
+     "src": "https://www.avinor.no/en/practical-info/app"
+    }
+   ],
+   "cities": [],
+   "note": "Private Touren außerhalb des freien Reisegebiets mindestens vier Wochen vorher beim Sysselmesteren beantragen.",
+   "src": "https://www.sysselmesteren.no/en/travel-in-svalbard/application-and-registration-requirement-for-trips-to-svalbard/",
+   "lgbtq_note": "Es gilt norwegisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2009, Schutz vor Diskriminierung.",
+   "lgbtq_src": "https://www.equaldex.com/region/svalbard",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "SM",
+   "name": "San Marino",
+   "flag": "🇸🇲",
+   "apps": [
+    {
+     "name": "SMUVI Servizio Bus a chiamata",
+     "cat": "transit",
+     "pkg": "com.shotl.smuvi",
+     "note": "Staatlicher Rufbus der AASS im ganzen Land",
+     "ess": true,
+     "src": "https://appgoblin.info/apps/com.shotl.smuvi"
+    },
+    {
+     "name": "Livein.SM",
+     "cat": "tourism",
+     "note": "Stadtführer mit Karte, Wetter und freien Parkplätzen",
+     "ess": true,
+     "src": "https://apps.apple.com/us/app/liveinsm/id1002024149?l=en"
+    },
+    {
+     "name": "VoiceMap",
+     "cat": "tourism",
+     "note": "Audiotour zu den drei Türmen, offline nutzbar",
+     "src": "https://voicemap.me/tour/city-of-san-marino/san-marino-s-three-towers-a-walking-tour-of-the-ancient-republic"
+    },
+    {
+     "name": "Trenitalia",
+     "cat": "rail",
+     "note": "Zugtickets bis Rimini, dort weiter mit dem Bus",
+     "src": "https://www.milehacker.com/travel/san-marino/san-marino-travel-resources-apps-maps-emergency-co/"
+    },
+    {
+     "name": "Trainline",
+     "cat": "rail",
+     "note": "Italienische Zugverbindungen suchen und buchen",
+     "src": "https://www.milehacker.com/travel/san-marino/san-marino-travel-resources-apps-maps-emergency-co/"
+    },
+    {
+     "name": "BSM Mobile",
+     "cat": "payment",
+     "note": "Banking der Banca di San Marino",
+     "use": "no",
+     "req": "Girokonto bei Banca di San Marino nötig",
+     "src": "https://apps.apple.com/app/id977161425"
+    }
+   ],
+   "cities": [],
+   "note": "Kein Bahnhof: Anreise per Bus ab Rimini, Tickets beim Fahrer. Parkplätze P1 bis P13 kosten ab 1,50 Euro pro Stunde.",
+   "src": "https://www.unirsm.sm/en/segreteria-studenti/studiare-unirsm/raggiungere-san-marino/",
+   "lgbtq_note": "Keine Strafbarkeit, eingetragene Partnerschaft seit 2018, Schutz vor Diskriminierung wegen Orientierung in der Verfassung.",
+   "lgbtq_src": "https://www.equaldex.com/region/san-marino",
    "checked": "2026-11-20"
   }
  ]
