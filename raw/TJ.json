@@ -1,0 +1,121 @@
+{
+ "src": "https://www.bento.travel/tajikistan",
+ "fetched": "2026-11-21",
+ "updated": "August 2026",
+ "note": "Bis 30 Tage visumfrei mit Registrierung binnen zehn Arbeitstagen, Bargeld ist üblich, also Somoni in größeren Städten abheben.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht gesetzlich verboten, die gesellschaftliche Akzeptanz ist aber gering, besonders auf dem Land.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/tadschikistansicherheit-206756",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Warnung für Afghanistan-Grenze",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/tadschikistansicherheit-206756"
+  },
+  {
+   "name": "Tajikistan e-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielles E-Visum für bis zu 60 Tage, nicht verlängerbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/tadschikistansicherheit-206756"
+  },
+  {
+   "name": "Rakhsh Taxi",
+   "cat": "taxi",
+   "pkg": "ru.taximaster.tmtaxicaller.id2371",
+   "ess": false,
+   "note": "Taxi-App mit vielen Orten, auch Khujand und Panjakent",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung mit ausländischer Nummer unsicher, Bargeld bereithalten",
+   "src": "https://www.bento.travel/tajikistan/ride-hailing"
+  },
+  {
+   "name": "Jura Taxi",
+   "cat": "taxi",
+   "pkg": "com.taxi.jura",
+   "ess": false,
+   "note": "Taxi mit Festpreis vorab und Chat mit dem Fahrer",
+   "city": "Dushanbe",
+   "use": "limited",
+   "req": "Tadschikische Nummer womöglich nötig, ausländische Karte unsicher",
+   "src": "https://www.bento.travel/tajikistan/ride-hailing"
+  },
+  {
+   "name": "Oson24",
+   "cat": "delivery",
+   "pkg": "tj.oson24.app",
+   "ess": false,
+   "note": "Essen aus Restaurants bestellen, Status live verfolgen",
+   "city": "Dushanbe",
+   "use": "limited",
+   "req": "Anmeldung mit ausländischer Nummer und Karte nicht belegt",
+   "src": "https://www.bento.travel/tajikistan/food-delivery"
+  },
+  {
+   "name": "EDA24",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst für Essen per Telefon und Webseite",
+   "city": "Dushanbe",
+   "use": "no",
+   "req": "Anmeldung nur mit tadschikischer Nummer (+992)",
+   "src": "https://www.bento.travel/tajikistan/food-delivery"
+  },
+  {
+   "name": "Alif",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Geldbörse und Bankkarten für Zahlungen im Land",
+   "city": "",
+   "use": "no",
+   "req": "Lokaler Ausweis und tadschikische Bankkarte nötig",
+   "src": "https://www.bento.travel/tajikistan/payments"
+  },
+  {
+   "name": "OsmAnd",
+   "cat": "maps",
+   "pkg": "net.osmand",
+   "ess": true,
+   "note": "Offline-Karten mit GPX, ideal für Pamir und Berge",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/tajikistan/navigation"
+  },
+  {
+   "name": "Telegram",
+   "cat": "misc",
+   "pkg": "org.telegram.messenger",
+   "ess": false,
+   "note": "Messenger, verbreitet und gut als Ersatz für WhatsApp",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/tajikistan/messaging"
+  },
+  {
+   "name": "Tourism Map TJK",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline-Karte des Tourismuskomitees mit Routen und Hotels",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://asiaplus.news/?p=380752"
+  }
+ ]
+}

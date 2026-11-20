@@ -1,0 +1,36 @@
+{
+ "src": "https://www.bento.travel/uzbekistan",
+ "fetched": "2026-11-21",
+ "updated": "August 2026",
+ "note": "Bis 30 Tage visumfrei mit Reisepass, genug Som in bar mitnehmen, da Karten außerhalb der Großstädte oft nicht gehen.",
+ "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar, LGBTIQ-Beziehungen sind gesellschaftlich nicht akzeptiert.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/usbekistansicherheit-206790",
+ "discontinued": [
+  {"name": "Wolt", "pkg": "", "src": "https://www.bento.travel/uzbekistan/food-delivery"}
+ ],
+ "apps": [
+  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reisehinweise des Auswärtigen Amts, Anmeldepflicht beachten", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/usbekistansicherheit-206790"},
+  {"name": "Yandex Go", "cat": "taxi", "pkg": "ru.yandex.taxi", "ess": true, "note": "Wichtigste Taxi-App, auch in vielen Regionalstädten", "city": "", "use": "limited", "req": "SMS-Code an ausländische Nummer scheitert teils, Barzahlung möglich", "src": "https://www.bento.travel/uzbekistan/ride-hailing"},
+  {"name": "MyTaxi", "cat": "taxi", "pkg": "com.uznewmax.mytaxi", "ess": false, "note": "Taxi und Lieferungen in den Städten, gute Ausweichlösung", "city": "", "use": "limited", "req": "Ausländische Visa oder Mastercard nicht immer akzeptiert", "src": "https://www.bento.travel/uzbekistan/ride-hailing"},
+  {"name": "Uklon", "cat": "taxi", "pkg": "ua.com.uklontaxi", "ess": false, "note": "Fahrdienst mit englischer Oberfläche und Live-Ortung", "city": "Tashkent", "use": "limited", "req": "Ausländische Karte nicht garantiert, Bargeld möglich", "src": "https://www.bento.travel/uzbekistan/ride-hailing"},
+  {"name": "Fasten UZ", "cat": "taxi", "pkg": "com.fasten.rider", "ess": false, "note": "Fahrten mit Festpreis, englisch, bar oder per Karte", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uzbekistan/ride-hailing"},
+  {"name": "Maxim", "cat": "taxi", "pkg": "com.taxsee.taxsee", "ess": false, "note": "Mehrsprachig, Stadt, Fernfahrten und Vorbestellung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uzbekistan/ride-hailing"},
+  {"name": "WB Taxi", "cat": "taxi", "pkg": "uz.wildberries.taxi.client", "ess": false, "note": "Neuer Fahrdienst in Taschkent, Samarkand und Buchara", "city": "", "use": "limited", "req": "Nur Zahlung per hinterlegter Karte, ausländische Karten unklar", "src": "https://www.bento.travel/uzbekistan/ride-hailing"},
+  {"name": "Uzum Tezkor", "cat": "delivery", "pkg": "uz.uzum.tezkor", "ess": true, "note": "Essen und Lebensmittel, beste Abdeckung außerhalb Taschkents", "city": "", "use": "limited", "req": "Ausländische Karte wird teils abgelehnt, dann bar zahlen", "src": "https://www.bento.travel/uzbekistan/food-delivery"},
+  {"name": "Yandex Eats", "cat": "delivery", "pkg": "ru.foodfox.client", "ess": true, "note": "Essen und Einkäufe liefern lassen, englische Oberfläche", "city": "", "use": "limited", "req": "Ausländische Karten funktionieren nur wechselhaft", "src": "https://www.bento.travel/uzbekistan/food-delivery"},
+  {"name": "Express24", "cat": "delivery", "pkg": "com.uznewmax.theflash", "ess": false, "note": "Restaurants, Läden und Basare, vor allem in Taschkent", "city": "", "use": "limited", "req": "Setzt vor allem auf lokale Karten, sonst Barzahlung wählen", "src": "https://www.bento.travel/uzbekistan/food-delivery"},
+  {"name": "Payme", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitete Bezahl-App für Überweisungen und QR-Zahlung", "city": "", "use": "no", "req": "UZCARD oder HUMO mit SMS nötig, Visa nicht hinterlegbar", "src": "https://www.bento.travel/uzbekistan/payments"},
+  {"name": "Click", "cat": "payment", "pkg": "", "ess": false, "note": "Bezahl-App und digitale Geldbörse im Land", "city": "", "use": "no", "req": "Volle Identifizierung nur mit usbekischer Staatsbürgerschaft", "src": "https://www.bento.travel/uzbekistan/payments"},
+  {"name": "Uzum Bank", "cat": "payment", "pkg": "", "ess": false, "note": "Onlinebank mit virtueller Karte, QR-Zahlung und Umtausch", "city": "", "use": "limited", "req": "Karte erst nach Identitätsprüfung, Eignung für Ausländer offen", "src": "https://apps.apple.com/us/app/uzum-bank-online/id1492307726"},
+  {"name": "Telegram", "cat": "misc", "pkg": "org.telegram.messenger", "ess": true, "note": "Wichtigster Messenger für Gastgeber, Fahrer und Infos", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uzbekistan"},
+  {"name": "Yandex Maps", "cat": "maps", "pkg": "ru.yandex.yandexmaps", "ess": true, "note": "Beste Karte für Adressen, Eingänge und Nahverkehr", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uzbekistan/navigation"},
+  {"name": "2GIS", "cat": "maps", "pkg": "ru.dublgis.dgismobile", "ess": false, "note": "Offline nutzbares Verzeichnis für Taschkent und Samarkand", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uzbekistan/navigation"},
+  {"name": "ATTO", "cat": "transit", "pkg": "uz.genesis.asop", "ess": true, "note": "Offizielle Fahrkarten-App für Metro und Bus, Guthaben laden", "city": "", "use": "limited", "req": "Anmeldung per Telefonnummer, virtuelle Karte nur mit Android NFC", "src": "https://www.bento.travel/uzbekistan/transit"},
+  {"name": "Uzrailways tickets", "cat": "rail", "pkg": "com.axonlogic.uzrailway", "ess": true, "note": "Offizielle App der Staatsbahn für Zugtickets, früh buchen", "city": "", "use": "limited", "req": "Zahlung laut Beschreibung über UZCARD, Bestätigungsmail kommt teils nicht", "src": "https://apps.apple.com/app/id1497456207"},
+  {"name": "Uzbekistan Airways", "cat": "flights", "pkg": "uz.uzairways", "ess": false, "note": "Offizielle App der Fluglinie für Inland und Ausland", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uzbekistan"},
+  {"name": "IZZY (in ATTO)", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter für den Weg zur Haltestelle, im ATTO-Menü", "city": "Tashkent", "use": "limited", "req": "Über ATTO-Konto mit Telefonnummer, Zahlungsarten nicht angegeben", "src": "https://www.atto.uz/en/news/atto-izzy"},
+  {"name": "Yandex Go Scooter", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter in Samarkand und Buchara über die Yandex-Go-App", "city": "", "use": "limited", "req": "Ab 18 Jahren, Konto in Yandex Go nötig", "src": "https://www.uzdaily.uz/en/yandex-uzbekistan-launches-e-scooter-rental-service-in-samarkand-and-bukhara/"},
+  {"name": "JET", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter per QR-Code leihen, Abstellen frei wählbar", "city": "", "use": "limited", "req": "Telefonnummer zur Anmeldung nötig", "src": "https://apps.apple.com/mn/app/id1546127285?l=en-gb"},
+  {"name": "Sixt", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen, in der Stadt und am Hauptbahnhof", "city": "Tashkent", "use": "limited", "req": "Ab 25 Jahren, Führerschein seit zwei Jahren, Kreditkarte oder Bargeld", "src": "https://www.sixt.com/car-rental/uzbekistan/tashkent"}
+ ]
+}

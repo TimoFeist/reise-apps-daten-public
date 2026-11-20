@@ -1,0 +1,121 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388",
+ "fetched": "2026-11-21",
+ "updated": "",
+ "note": "Deutsche brauchen bis 90 Tage kein Visum. Zollerklärung vorab online ausfüllen und genug US-Dollar in bar mitnehmen.",
+ "lgbtq_note": "Keine besonderen Strafbestimmungen bekannt und keine generelle Gefährdung, die Akzeptanz ist aber begrenzt, Zärtlichkeiten in der Öffentlichkeit besser meiden.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Botschaft in Jakarta",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388"
+  },
+  {
+   "name": "Customs e-Declaration",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht: Zollerklärung bis 5 Tage vor Ankunft, QR-Code",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://timorleste.tl/plan-your-trip/arrival-card"
+  },
+  {
+   "name": "GoTimor",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reiseinfos mit Unterkünften und Aktivitäten im Land",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/au/app/gotimor/id1581703288"
+  },
+  {
+   "name": "MyFoti",
+   "cat": "taxi",
+   "pkg": "com.fotiunipessoal.myfoti",
+   "ess": false,
+   "note": "Auto und Motorrad bestellen, auch Lieferungen",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung mit ausländischer Nummer unklar, Bargeld bereithalten",
+   "src": "https://play.google.com/store/apps/details?id=com.fotiunipessoal.myfoti"
+  },
+  {
+   "name": "TRON TIMOR",
+   "cat": "taxi",
+   "pkg": "com.timor.tron",
+   "ess": false,
+   "note": "Motorradtaxi, Taxi, Essen und Einkäufe bestellen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung und Zahlungsarten laut Quelle unklar",
+   "src": "https://play.google.com/store/apps/details?id=com.timor.tron&hl=en"
+  },
+  {
+   "name": "GOTIMOR RIDE",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Neue Fahrdienst-App seit Mai 2026, bar oder digital",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung per Handynummer, Vorwahl Timor-Leste voreingestellt",
+   "src": "https://mwm.ai/apps/gotimor-ride/6762457401"
+  },
+  {
+   "name": "Halodili",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lebensmittel und Einkäufe bis an die Haustür",
+   "city": "Dili",
+   "use": "limited",
+   "req": "Liefergebiet unklar, Zahlung per Karte, PayPal oder bar",
+   "src": "https://apps.apple.com/us/app/id1559235166"
+  },
+  {
+   "name": "Dili Microlet Routes",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Webkarte der 13 Minibuslinien, Stand 2024",
+   "city": "Dili",
+   "use": "ok",
+   "req": "",
+   "src": "https://dilimicroletroutes.github.io"
+  },
+  {
+   "name": "Mosan Telemor",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse von Telemor für Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Telemor-Anschluss und Anmeldung mit Ausweis bei einem Agenten nötig",
+   "src": "https://mosan.telemor.tl/en.html"
+  },
+  {
+   "name": "TPAY Timor Pay",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Bezahl-App von Telkomcel",
+   "city": "",
+   "use": "no",
+   "req": "Registrierung mit Telkomcel-Nummer nötig",
+   "src": "https://apps.apple.com/us/app/tpay-timor-pay/id1514336290"
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/turkmenistansicherheit-206774",
+ "fetched": "2026-11-21",
+ "updated": "",
+ "note": "Visum vorab beantragen und reichlich US-Dollar bar mitnehmen, VPN ist verboten und viele Messenger sind gesperrt.",
+ "lgbtq_note": "Sexuelle Handlungen zwischen Männern sind strafbar und werden mit Haft bestraft, die Polizei nutzt Dating-Apps, um Betroffene aufzuspüren und zu erpressen.",
+ "lgbtq_src": "https://ilga-europe.org/files/uploads/2025/02/Annual-Review-2025-Turkmenistan.pdf",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts mit Lageänderungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/turkmenistansicherheit-206774"
+  },
+  {
+   "name": "Turkmenistan e-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Seit Oktober 2026 Visum online beantragen, QR-Code per Mail",
+   "city": "",
+   "use": "limited",
+   "req": "System neu, laut Berichten ist ein Einladungsschreiben evtl. weiter nötig",
+   "src": "https://timesca.com/turkmenistan-launches-e-visa-system-but-questions-remain/"
+  },
+  {
+   "name": "State Customs Service of Turkmenistan",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Zollregeln nachlesen und Reisendenerklärung ausfüllen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://turkmenistan.gov.tm/en/post/92256/mobile-application-state-customs-service-turkmenistan-has-been-launched"
+  },
+  {
+   "name": "Duralga",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Stadtbusse live, Haltestellen und Routen, auch offline",
+   "city": "Ashgabat",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/gd/app/duralga/id1607990462"
+  },
+  {
+   "name": "Ýolagçy",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Neue Bus-App der Duralga-Macher mit Live-Ortung",
+   "city": "Ashgabat",
+   "use": "limited",
+   "req": "Noch Betaversion, Download nur über die Website des Anbieters",
+   "src": "https://t.turkmenportal.com/en/news/92477-turkmenistan-launched-new-app-for-tracking-public-transport"
+  },
+  {
+   "name": "Onlaýn taksi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Taxi per App oder Kurzwahl 0655, Preis vorab sichtbar",
+   "city": "Ashgabat",
+   "use": "limited",
+   "req": "Telefonnummer für SMS nötig, Zahlung bar oder per Karte beim Fahrer",
+   "src": "https://turkmenportal.com/en/blog/45793/servis-onlayn-taksi-v-ashhabade-nachal-pokazyvat-stoimost-poezdki-v-prilozhenii-pered-zakazom"
+  },
+  {
+   "name": "Ynamly taksi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrer in der Nähe bestellen und live verfolgen",
+   "city": "",
+   "use": "limited",
+   "req": "Telefonnummer wird erfasst, Zahlung bar oder per Karte",
+   "src": "https://apps.apple.com/kz/app/ynamly-taksi/id6456042670"
+  },
+  {
+   "name": "Ashgabat (Hypermarkt)",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lebensmittel, Waren und Restaurantessen nach Hause liefern",
+   "city": "Ashgabat",
+   "use": "limited",
+   "req": "Anmeldung und Zahlungsarten laut Quelle unklar",
+   "src": "https://turkmenportal.com/en/blog/73168/gipermarket-ashhabad-zapustil-svoe-mobilnoe-prilozhenie"
+  },
+  {
+   "name": "Turkmenistan Railway",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Zugtickets der Demirýollary online kaufen",
+   "city": "",
+   "use": "no",
+   "req": "Zahlung nur mit turkmenischer Altyn-Asyr-Karte, Passdaten nötig",
+   "src": "https://railway.gov.tm/en/passengers"
+  },
+  {
+   "name": "Turkmen Tourist",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Inlands- und Auslandsflüge buchen und verwalten",
+   "city": "",
+   "use": "no",
+   "req": "Zahlung nur mit Karten turkmenischer Banken",
+   "src": "https://apps.apple.com/us/app/id6757800932"
+  },
+  {
+   "name": "Telegram",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Messenger, im Land gesperrt",
+   "city": "",
+   "use": "no",
+   "req": "Im Land gesperrt, Umgehung per VPN ist verboten",
+   "src": "https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business"
+  },
+  {
+   "name": "Signal",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Messenger, im Land gesperrt",
+   "city": "",
+   "use": "no",
+   "req": "Im Land gesperrt, Umgehung per VPN ist verboten",
+   "src": "https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App für schwule Männer",
+   "city": "",
+   "use": "no",
+   "req": "Polizei spürt Männer über Dating-Apps auf, Nutzung gefährlich",
+   "src": "https://www.ecoi.net/en/file/local/2127059/laenderkurzinfo-turkmenistan-07-25-sogi.pdf"
+  }
+ ]
+}

@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "TJ",
-"en": "Tajikistan",
-"slug": "tajikistan"
-},
-{
-"code": "TL",
-"en": "Timor-Leste",
-"slug": "timor-leste"
-},
-{
-"code": "TM",
-"en": "Turkmenistan",
-"slug": "turkmenistan"
-},
-{
-"code": "UZ",
-"en": "Uzbekistan",
-"slug": "uzbekistan"
-},
-{
 "code": "YE",
 "en": "Yemen",
 "slug": "yemen"
@@ -267,6 +247,26 @@
 "code": "SY",
 "en": "Syria",
 "slug": "syria"
+},
+{
+"code": "TJ",
+"en": "Tajikistan",
+"slug": "tajikistan"
+},
+{
+"code": "TL",
+"en": "Timor-Leste",
+"slug": "timor-leste"
+},
+{
+"code": "TM",
+"en": "Turkmenistan",
+"slug": "turkmenistan"
+},
+{
+"code": "UZ",
+"en": "Uzbekistan",
+"slug": "uzbekistan"
 }
 ]
 }
