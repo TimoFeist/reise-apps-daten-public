@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 19:20",
+ "version": "2026-11-20 19:27",
  "categories": [
   {
    "id": "entry",
@@ -28843,6 +28843,465 @@
    "src": "https://www.unirsm.sm/en/segreteria-studenti/studiare-unirsm/raggiungere-san-marino/",
    "lgbtq_note": "Keine Strafbarkeit, eingetragene Partnerschaft seit 2018, Schutz vor Diskriminierung wegen Orientierung in der Verfassung.",
    "lgbtq_src": "https://www.equaldex.com/region/san-marino",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "CC",
+   "name": "Kokos-(Keeling-)Inseln",
+   "flag": "🇨🇨",
+   "apps": [
+    {
+     "name": "Virgin Australia",
+     "cat": "flights",
+     "pkg": "com.virginaustralia.vaapp",
+     "note": "Flüge buchen, Sitzplatz wählen und Bordkarte abrufen",
+     "ess": true,
+     "src": "https://www.virginaustralia.com/eu/en/travel-info/on-the-move/virgin-australia-app/"
+    }
+   ],
+   "cities": [],
+   "note": "Es gibt keine Geldautomaten, also genug Bargeld mitnehmen. Deutsche brauchen wie für Australien ein eVisitor-Visum.",
+   "src": "https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information",
+   "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Recht mit Ehe für alle und Schutz vor Diskriminierung.",
+   "lgbtq_src": "https://www.equaldex.com/region/cocos-keeling-islands",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "IQ",
+   "name": "Irak",
+   "flag": "🇮🇶",
+   "apps": [
+    {
+     "name": "Irak E-Visum (evisa.iq)",
+     "cat": "entry",
+     "note": "Pflicht für Zentralirak, Aufenthalt bis 30 Tage",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738"
+    },
+    {
+     "name": "Kurdistan E-Visum (visit.gov.krd)",
+     "cat": "entry",
+     "note": "Visum der Region Kurdistan, gilt nicht für Zentralirak",
+     "ess": true,
+     "src": "https://www.fragomen.com/insights/iraqi-kurdistan-electronic-visa-portal-launched.html"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Fahrdienst in Bagdad, Flughafentransfer in vier Städten",
+     "ess": true,
+     "use": "limited",
+     "req": "Anmeldung laut Quelle nicht beschrieben",
+     "src": "https://www.careem.com/en-AE/iraq-rides/"
+    },
+    {
+     "name": "Baly",
+     "cat": "taxi",
+     "note": "Taxi oder Privatwagen buchen, dazu Essenslieferung",
+     "use": "limited",
+     "req": "Anmeldung laut Quelle nicht beschrieben",
+     "src": "https://apps.apple.com/us/app/baly-bly/id1590560595?l=en"
+    },
+    {
+     "name": "Amin",
+     "cat": "taxi",
+     "note": "Taxi und Lieferung in Bagdad, Nadschaf, Babil, Kerbela",
+     "use": "limited",
+     "req": "Anmeldung per Telefonnummer, ausländische Nummer unklar",
+     "src": "https://apps.apple.com/app/id1447501346"
+    },
+    {
+     "name": "Lezzoo",
+     "cat": "delivery",
+     "pkg": "com.fastwares.lezzoo.eats",
+     "note": "Essen, Einkauf und Taxi, vor allem in Kurdistan",
+     "use": "limited",
+     "req": "Anmeldung laut Quelle nicht beschrieben",
+     "src": "https://lezzoo.com/"
+    },
+    {
+     "name": "talabat",
+     "cat": "delivery",
+     "note": "Essen und Lebensmittel liefern, Barzahlung möglich",
+     "use": "limited",
+     "req": "Telefonnummer für Lieferung nötig, ausländische unklar",
+     "src": "https://www.talabat.com/ar/iraq/terms"
+    },
+    {
+     "name": "Sixt",
+     "cat": "carshare",
+     "note": "Mietwagen im Irak, Buchung in der App verwalten",
+     "use": "limited",
+     "req": "Ab 20 Jahren, Führerschein und Reisepass nötig",
+     "src": "https://www.sixt.com/car-rental/iraq"
+    },
+    {
+     "name": "Iraqi Airways",
+     "cat": "flights",
+     "note": "Flüge der Nationalairline buchen, Zahlung per Karte",
+     "src": "https://apps.apple.com/lt/app/iraqi-airways/id1455860304"
+    },
+    {
+     "name": "First Iraqi Bank (FIB)",
+     "cat": "payment",
+     "note": "Digitalbank mit QR-Zahlung im ganzen Land",
+     "use": "limited",
+     "req": "Ausweis nötig, ob ausländischer Pass reicht ist offen",
+     "src": "https://fib.iq/en"
+    },
+    {
+     "name": "ZainCash",
+     "cat": "payment",
+     "note": "Mobile Geldbörse für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Irakischer Ausweis oder Aufenthaltstitel nötig",
+     "src": "https://zaincash.iq/help/accounts-faq"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Sicherheitskräfte locken Nutzer über Dating-Apps in Fallen",
+     "use": "no",
+     "req": "Gefährlich, Haftstrafe bis 15 Jahre droht",
+     "src": "https://www.gov.uk/government/publications/iraq-country-policy-and-information-notes/country-policy-and-information-note-sexual-orientation-and-gender-identity-and-expression-iraq-july-2025-accessible"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Baghdad",
+     "match": [
+      "Baghdad"
+     ],
+     "apps": [
+      {
+       "name": "Alo TukTuk",
+       "cat": "taxi",
+       "note": "Tuk-Tuk per App rufen, Fahrer sind verifiziert",
+       "use": "limited",
+       "req": "Anmeldung laut Quelle nicht beschrieben",
+       "src": "https://en.964media.com/36398"
+      }
+     ]
+    },
+    {
+     "name": "Erbil",
+     "match": [
+      "Erbil"
+     ],
+     "apps": [
+      {
+       "name": "Erbil International Airport",
+       "cat": "flights",
+       "note": "Abflüge und Ankünfte am Flughafen Erbil in Echtzeit",
+       "src": "https://apps.apple.com/us/app/id6444721399"
+      }
+     ]
+    },
+    {
+     "name": "Karbala",
+     "match": [
+      "Karbala"
+     ],
+     "apps": [
+      {
+       "name": "Visitor of Imam Hussain",
+       "cat": "tourism",
+       "note": "Pilgerhilfe mit Karte, Servicepunkten und Livestream",
+       "use": "limited",
+       "req": "Anmeldung laut Quelle nicht beschrieben",
+       "src": "https://business.uokerbala.edu.iq/wp/en/?p=11519"
+      }
+     ]
+    }
+   ],
+   "note": "E-Visum vor der Reise nötig: Zentralirak über evisa.iq, Kurdistan über visit.gov.krd. Es gilt eine Reisewarnung.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2024 mit bis zu 15 Jahren Haft strafbar, in Kurdistan gilt das Gesetz formal noch nicht.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "IR",
+   "name": "Iran, Islamische Republik",
+   "flag": "🇮🇷",
+   "apps": [
+    {
+     "name": "Snapp!",
+     "cat": "taxi",
+     "pkg": "cab.snapp.passenger.play",
+     "note": "Größter Fahrdienst, englisches Menü, Zahlung auch bar",
+     "ess": true,
+     "use": "no",
+     "req": "Iranische Telefonnummer zur Bestätigung nötig",
+     "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+    },
+    {
+     "name": "Tapsi",
+     "cat": "taxi",
+     "pkg": "taxi.tap30.passenger.play",
+     "note": "Fahrdienst mit englischer Oberfläche",
+     "use": "no",
+     "req": "Iranische Telefonnummer für SMS-Code nötig",
+     "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+    },
+    {
+     "name": "Maxim",
+     "cat": "taxi",
+     "note": "Weiterer Fahrdienst, Zahlung bar oder per Touristenkarte",
+     "use": "limited",
+     "req": "Anmeldung laut Quelle nicht beschrieben",
+     "src": "https://www.visitouriran.com/blog/guide-to-ride-hailing-apps-in-iran-for-tourists-2024/"
+    },
+    {
+     "name": "SnappFood",
+     "cat": "delivery",
+     "pkg": "com.zoodfood.android",
+     "note": "Essen aus vielen Läden bestellen, Bezahlung auch bar",
+     "use": "limited",
+     "req": "Onlinezahlung nur mit iranischer Bankkarte",
+     "src": "https://cafebazaar.ir/app/com.zoodfood.android?l=en"
+    },
+    {
+     "name": "Alibaba",
+     "cat": "rail",
+     "pkg": "ir.alibaba",
+     "note": "Zug, Bus, Inlandsflüge und Hotels in Iran buchen",
+     "use": "no",
+     "req": "Zahlung nur online in Rial mit iranischer Karte",
+     "src": "https://cafebazaar.ir/app/ir.alibaba?l=en"
+    },
+    {
+     "name": "Neshan Map",
+     "cat": "maps",
+     "note": "Navigation zu Fuß, Auto, Bus und Metro, auf Englisch",
+     "src": "https://apps.apple.com/gb/app/neshan-map/id1548188093"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Iran seit Jahren gesperrt",
+     "use": "no",
+     "req": "Gesperrt, Homosexualität strafbar, Überwachung möglich",
+     "src": "https://techradar.com/vpn/grindr-is-the-second-most-banned-social-apphow-to-unblock-it"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Tehran",
+     "match": [
+      "Tehran"
+     ],
+     "apps": [
+      {
+       "name": "MyTehran",
+       "cat": "transit",
+       "pkg": "com.mytehran",
+       "note": "App der Stadt: Metrotickets, Fahrkarte aufladen, Parken",
+       "use": "limited",
+       "req": "Zahlungen nur mit iranischer Bankkarte",
+       "src": "https://cafebazaar.ir/app/com.mytehran?l=en"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung des Auswärtigen Amts, ausländische Karten funktionieren wegen Sanktionen nicht, genug Bargeld mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/iran-node/iransicherheit/202396",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar und teils mit der Todesstrafe bedroht, Nutzer von Apps werden überwacht.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/iran-node/iransicherheit/202396",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "KZ",
+   "name": "Kasachstan",
+   "flag": "🇰🇿",
+   "apps": [
+    {
+     "name": "QazETA",
+     "cat": "entry",
+     "note": "Elektronische Einreisegenehmigung, ab Juli 2027 Pflicht",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342"
+    },
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "pkg": "ru.yandex.taxi",
+     "note": "Wichtigste Taxi-App, auch Lieferung, Englisch",
+     "ess": true,
+     "use": "limited",
+     "req": "SMS-Bestätigung nötig, mit reiner Daten-eSIM schwierig",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Taxi mit eigenem Preisvorschlag",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "Uber KZ",
+     "cat": "taxi",
+     "pkg": "ru.yandex.uber_kz",
+     "note": "Eigene Uber-App für Kasachstan",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen und Einkäufe in größeren Städten",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Lieferdienst mit englischer Oberfläche",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "Chocofood",
+     "cat": "delivery",
+     "pkg": "kz.chocofood.chocofoodapp",
+     "note": "Lokaler Restaurantlieferdienst, meist Russisch",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "2GIS",
+     "cat": "maps",
+     "pkg": "ru.dublgis.dgismobile",
+     "note": "Genaue Stadtkarte mit Eingängen und ÖPNV",
+     "ess": true,
+     "use": "limited",
+     "req": "Verfügbarkeit im Store hängt vom Kontoland ab",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "Yandex Maps",
+     "cat": "maps",
+     "pkg": "ru.yandex.yandexmaps",
+     "note": "Navigation und Verkehrslage",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "Avtobys",
+     "cat": "transit",
+     "pkg": "kz.avtobys.userapp",
+     "note": "Busse in Astana, Shymkent und weiteren Städten",
+     "use": "limited",
+     "req": "Ausländische Nummer oder Karte kann scheitern",
+     "src": "https://www.bento.travel/kazakhstan/transit"
+    },
+    {
+     "name": "Yandex Translate",
+     "cat": "misc",
+     "pkg": "ru.yandex.translate",
+     "note": "Übersetzer für Russisch und Kasachisch",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "KTZ Tickets",
+     "cat": "rail",
+     "pkg": "kz.railways.bilet.ktjbilets",
+     "note": "Offizielle Bahntickets, nur Android",
+     "use": "limited",
+     "req": "Lokale Nummer oder ausländische Karte oft problematisch",
+     "src": "https://www.bento.travel/kazakhstan"
+    },
+    {
+     "name": "Kaspi.kz",
+     "cat": "payment",
+     "note": "Bank, Bezahlung per QR und Marktplatz",
+     "use": "no",
+     "req": "Kasachische IIN und Telefonnummer nötig",
+     "src": "https://astanatimes.com/2025/04/how-foreign-citizens-can-get-bank-cards-in-kazakhstan/"
+    },
+    {
+     "name": "Homebank",
+     "cat": "payment",
+     "pkg": "kz.kkb.homebank",
+     "note": "App der Halyk Bank",
+     "use": "no",
+     "req": "IIN, kasachische Nummer und Besuch in Filiale nötig",
+     "src": "https://halykbank.kz/en/card/card-nerezident"
+    },
+    {
+     "name": "Jet",
+     "cat": "micro",
+     "note": "E-Scooter mieten, Bankkarte hinterlegen",
+     "use": "limited",
+     "req": "Ab 18 Jahren, Bankkarte nötig",
+     "src": "https://sxodim.com/astana/article/jet-whoosh-i-yandeks-go-vse-ob-arende-elektrosamokatov/amp"
+    },
+    {
+     "name": "Whoosh",
+     "cat": "micro",
+     "note": "E-Scooter mieten mit Registrierung",
+     "use": "limited",
+     "req": "Ab 18 Jahren, Bankkarte nötig",
+     "src": "https://sxodim.com/astana/article/jet-whoosh-i-yandeks-go-vse-ob-arende-elektrosamokatov/amp"
+    },
+    {
+     "name": "Kazakhstan.travel Guides",
+     "cat": "tourism",
+     "note": "Register offizieller Guides und Routen",
+     "src": "https://apps.apple.com/us/app/id1610058507"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Almaty",
+     "match": [
+      "Almaty"
+     ],
+     "apps": [
+      {
+       "name": "ONAY!",
+       "cat": "transit",
+       "pkg": "kz.onay",
+       "note": "ÖPNV in Almaty und weiteren Städten",
+       "use": "limited",
+       "req": "Ausländische Karten oft abgelehnt, sonst Onay-Karte kaufen",
+       "src": "https://www.bento.travel/kazakhstan"
+      },
+      {
+       "name": "Anytime",
+       "cat": "carshare",
+       "pkg": "kz.anytime.mobile.android",
+       "note": "Carsharing nur in Almaty, ab 48 Tenge pro Minute",
+       "use": "limited",
+       "req": "Ab 18 Jahren, ausländischer Führerschein möglich",
+       "src": "https://getmancar.com/blogs/carsharing-in-kazakhstan"
+      },
+      {
+       "name": "Almaty Parking",
+       "cat": "parking",
+       "note": "Offizielle städtische Parkapp, Minutentarif",
+       "use": "limited",
+       "req": "Anmeldung laut Quelle nicht beschrieben",
+       "src": "https://apps.apple.com/us/app/%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B0%D0%BB%D0%BC%D0%B0%D1%82%D1%8B/id6451193990?uo=4"
+      },
+      {
+       "name": "Almaty Region Travel",
+       "cat": "tourism",
+       "note": "Reiseführer für das Gebiet Almaty, auf Englisch",
+       "src": "https://apps.apple.com/us/app/id6461822030"
+      }
+     ]
+    }
+   ],
+   "note": "Bis 30 Tage visumfrei; Yandex Go vorab installieren, SMS-Empfang prüfen und Bargeld in Tenge mitnehmen.",
+   "src": "https://www.bento.travel/kazakhstan",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, seit März 2026 ist aber LGBTQ+ Propaganda strafbar, Zurückhaltung auch online ratsam.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342",
    "checked": "2026-11-20"
   }
  ]
