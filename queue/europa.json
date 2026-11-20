@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "MC",
-"en": "Monaco",
-"slug": "monaco"
-},
-{
-"code": "RU",
-"en": "Russian Federation",
-"slug": "russia"
-},
-{
-"code": "SM",
-"en": "San Marino",
-"slug": "san-marino"
-},
-{
-"code": "SJ",
-"en": "Svalbard and Jan Mayen",
-"slug": "svalbard-and-jan-mayen"
-},
-{
 "code": "AX",
 "en": "Åland Islands",
 "slug": "land-islands"
@@ -262,6 +242,26 @@
 "code": "LI",
 "en": "Liechtenstein",
 "slug": "liechtenstein"
+},
+{
+"code": "MC",
+"en": "Monaco",
+"slug": "monaco"
+},
+{
+"code": "RU",
+"en": "Russian Federation",
+"slug": "russia"
+},
+{
+"code": "SM",
+"en": "San Marino",
+"slug": "san-marino"
+},
+{
+"code": "SJ",
+"en": "Svalbard and Jan Mayen",
+"slug": "svalbard-and-jan-mayen"
 }
 ]
 }

@@ -1,0 +1,132 @@
+{
+ "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Uber darf in Monaco niemanden abholen. Bus, MonaBike und Parken laufen über Monapass, im Bus geht auch kontaktlose Bankkarte.",
+ "lgbtq_note": "Laut Auswärtigem Amt keine besonderen Schwierigkeiten bekannt, die Akzeptanz gilt als gut.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/monaco-node/monacosicherheit-226868",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Monapass",
+   "cat": "transit",
+   "pkg": "group.flowbird.monaco",
+   "ess": true,
+   "note": "Bustickets, MonaBike, Straßenparken und Museen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://monservicepublic.gouv.mc/en/themes/free-time/culture/monapass/monapass"
+  },
+  {
+   "name": "Monaco Bus",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle Busfahrpläne und Abfahrten in Echtzeit",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cam.mc/en/partner-applications/monacobus"
+  },
+  {
+   "name": "Taxi Monaco",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle Taxi-App: buchen, verfolgen, bezahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.monaco-tribune.com/en/2025/04/taxi-monaco-catch-a-cab-in-a-couple-of-clicks/"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst nur für Fahrten von außen nach Monaco",
+   "city": "",
+   "use": "no",
+   "req": "Abholung in Monaco verboten, nur Ankunft von außen",
+   "src": "https://en.gouv.mc/A-la-Une-du-Portail/Measures-Prohibiting-UBER-Type-Vehicles-in-the-Principality"
+  },
+  {
+   "name": "MonaBike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Bikes an 49 Stationen, ab 1 Euro",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung über Monapass-App nötig",
+   "src": "https://cvb.visitmonaco.com/en/practical-information/getting-around/getting-around-on-a-monabike"
+  },
+  {
+   "name": "Mobee",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektro-Carsharing mit Twizy, Smart und Tesla",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Führerschein und Ausweis nötig",
+   "src": "https://monservicepublic.gouv.mc/en/themes/transport-and-mobility/access-traffic-and-parking/traffic/mobee-carsharing-service"
+  },
+  {
+   "name": "EatIn Monaco",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen, Einkäufe und Blumen nach Monaco liefern",
+   "city": "",
+   "use": "limited",
+   "req": "Konto nötig, App nur auf Französisch",
+   "src": "https://apps.apple.com/app/id1454440520"
+  },
+  {
+   "name": "Your Monaco",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Regierungs-App mit Events, Strandwetter, Orten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+  },
+  {
+   "name": "Citymapper",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Routenplaner mit Bus, Zug, MonaBike und Mobee",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+  },
+  {
+   "name": "StreetNav",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Barrierearme Routen für eingeschränkte Mobilität",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+  },
+  {
+   "name": "MaPlacePMR",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Freie Behindertenparkplätze nahezu live finden",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit spezieller Behindertenparkkarte",
+   "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+  }
+ ]
+}

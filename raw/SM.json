@@ -1,0 +1,77 @@
+{
+ "src": "https://www.unirsm.sm/en/segreteria-studenti/studiare-unirsm/raggiungere-san-marino/",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Kein Bahnhof: Anreise per Bus ab Rimini, Tickets beim Fahrer. Parkplätze P1 bis P13 kosten ab 1,50 Euro pro Stunde.",
+ "lgbtq_note": "Keine Strafbarkeit, eingetragene Partnerschaft seit 2018, Schutz vor Diskriminierung wegen Orientierung in der Verfassung.",
+ "lgbtq_src": "https://www.equaldex.com/region/san-marino",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "SMUVI Servizio Bus a chiamata",
+   "cat": "transit",
+   "pkg": "com.shotl.smuvi",
+   "ess": true,
+   "note": "Staatlicher Rufbus der AASS im ganzen Land",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.shotl.smuvi"
+  },
+  {
+   "name": "Livein.SM",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": true,
+   "note": "Stadtführer mit Karte, Wetter und freien Parkplätzen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/liveinsm/id1002024149?l=en"
+  },
+  {
+   "name": "VoiceMap",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Audiotour zu den drei Türmen, offline nutzbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://voicemap.me/tour/city-of-san-marino/san-marino-s-three-towers-a-walking-tour-of-the-ancient-republic"
+  },
+  {
+   "name": "Trenitalia",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Zugtickets bis Rimini, dort weiter mit dem Bus",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/san-marino/san-marino-travel-resources-apps-maps-emergency-co/"
+  },
+  {
+   "name": "Trainline",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Italienische Zugverbindungen suchen und buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/san-marino/san-marino-travel-resources-apps-maps-emergency-co/"
+  },
+  {
+   "name": "BSM Mobile",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Banking der Banca di San Marino",
+   "city": "",
+   "use": "no",
+   "req": "Girokonto bei Banca di San Marino nötig",
+   "src": "https://apps.apple.com/app/id977161425"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "src": "https://www.sysselmesteren.no/en/travel-in-svalbard/application-and-registration-requirement-for-trips-to-svalbard/",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Private Touren außerhalb des freien Reisegebiets mindestens vier Wochen vorher beim Sysselmesteren beantragen.",
+ "lgbtq_note": "Es gilt norwegisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2009, Schutz vor Diskriminierung.",
+ "lgbtq_src": "https://www.equaldex.com/region/svalbard",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Varsom",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Lawinenwarnung und Hangneigungskarten der NVE",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.unis.no/facilities/operations-and-field/trip-planning-and-hazard-resources/"
+  },
+  {
+   "name": "Norgeskart outdoors",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline Karten für Touren, iOS und Android",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.unis.no/facilities/operations-and-field/trip-planning-and-hazard-resources/"
+  },
+  {
+   "name": "Here and there Svalbard",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline Karte von Svalbard im Maßstab 1:70000",
+   "city": "",
+   "use": "limited",
+   "req": "Nur für iPhone erhältlich",
+   "src": "https://www.unis.no/facilities/operations-and-field/trip-planning-and-hazard-resources/"
+  },
+  {
+   "name": "Avinor",
+   "cat": "flights",
+   "pkg": "no.avinor.avinorflights",
+   "ess": false,
+   "note": "Abflug, Gate, Sicherheitskontrolle und Gepäckband",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.avinor.no/en/practical-info/app"
+  }
+ ]
+}
