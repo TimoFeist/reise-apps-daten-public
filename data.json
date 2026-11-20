@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 13:32",
+ "version": "2026-11-20 13:33",
  "categories": [
   {
    "id": "entry",
@@ -26268,6 +26268,367 @@
    "src": "https://www.bento.travel/cambodia",
    "lgbtq_note": "Homosexuelle Handlungen sind weder verboten noch strafbar, die Akzeptanz wächst besonders in Phnom Penh und bei Jüngeren, bleibt aber oft verdeckt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kambodschasicherheit-220008",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "SD",
+   "name": "Sudan",
+   "flag": "🇸🇩",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"
+    },
+    {
+     "name": "ELEFAND",
+     "cat": "safety",
+     "note": "Eintrag in die Krisenvorsorgeliste des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"
+    },
+    {
+     "name": "Tirhal",
+     "cat": "taxi",
+     "pkg": "com.multibrains.taxi.passenger.tirhal",
+     "note": "Taxi per App in Khartum, Wad Madani, El Obeid und Port Sudan",
+     "use": "limited",
+     "req": "Konto mit Telefonnummer nötig, Betrieb wegen Krieg unsicher",
+     "src": "https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.tirhal&hl=en_US&gl=US"
+    },
+    {
+     "name": "Lemon",
+     "cat": "taxi",
+     "pkg": "sd.lemon",
+     "note": "Fahrten und Essenslieferung, Zahlung bar oder per Guthaben",
+     "use": "limited",
+     "req": "Bediengebiete nicht genannt, vorab in der App prüfen",
+     "src": "https://play.google.com/store/apps/details?id=sd.lemon&hl=en_US"
+    },
+    {
+     "name": "Talabak",
+     "cat": "delivery",
+     "note": "Lieferung von Essen, Einkäufen und Apothekenartikeln",
+     "use": "limited",
+     "req": "Liefergebiete nicht genannt, vorab in der App prüfen",
+     "src": "https://apps.apple.com/app/id6757619047"
+    },
+    {
+     "name": "Bankak",
+     "cat": "payment",
+     "pkg": "com.mode.bok.ui",
+     "note": "Banking und QR-Zahlung der Bank of Khartoum",
+     "use": "no",
+     "req": "Konto bei der Bank of Khartoum oder sudanesische Mobilnummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.mode.bok.ui&hl=en_US"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, im Sudan gefährlich",
+     "use": "no",
+     "req": "Homosexuelle Handlungen werden mit Haft bestraft",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"
+    }
+   ],
+   "cities": [],
+   "note": "Reisewarnung und Aufruf zur Ausreise; Visum vorab in Berlin, ausländische Karten gehen nicht, Bargeld in USD oder EUR mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, bei Wiederholung droht lebenslange Haft, das Recht ist stark von der Scharia geprägt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "SO",
+   "name": "Somalia",
+   "flag": "🇸🇴",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+    },
+    {
+     "name": "ELEFAND",
+     "cat": "safety",
+     "note": "Eintrag in die Krisenvorsorgeliste der Botschaft",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+    },
+    {
+     "name": "Somalia eTAS",
+     "cat": "entry",
+     "note": "Elektronischer Visumantrag vor der Reise über etas.gov.so",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+    },
+    {
+     "name": "Somaliland Einreisegenehmigung (Web)",
+     "cat": "entry",
+     "note": "Eigenes Visum und Einreisegenehmigung über slimmigration.com",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+    },
+    {
+     "name": "Geeye",
+     "cat": "taxi",
+     "note": "Taxi, Motorrad und Lieferung, bar oder per Wallet",
+     "use": "limited",
+     "req": "Konto in der App nötig, Bargeld bereithalten",
+     "src": "https://apps.apple.com/us/app/geeye/id1527455871?l=es"
+    },
+    {
+     "name": "Bajaaj Macmiil",
+     "cat": "taxi",
+     "note": "Fahrten bestellen mit Preisschätzung und Live-Ortung",
+     "use": "limited",
+     "req": "Registrierung und Zahlungswege nicht angegeben, vorab prüfen",
+     "src": "https://apps.apple.com/us/app/bajaaj-macmiil/id6450129365"
+    },
+    {
+     "name": "Waafi",
+     "cat": "payment",
+     "note": "App für EVC Plus von Hormuud, verbreitetstes Zahlmittel",
+     "use": "no",
+     "req": "EVC-Plus-Konto bei Hormuud mit Identitätsprüfung nötig",
+     "src": "https://garoweonline.com/en/news/somalia/waafi-somalia-s-first-advanced-mobile-money-tech-app"
+    },
+    {
+     "name": "ZAAD",
+     "cat": "payment",
+     "note": "Mobiles Geld von Telesom in Somaliland, auch für Händler",
+     "use": "no",
+     "req": "Registrierung im Telesom-Büro mit Ausweis nötig",
+     "src": "https://telesom.com/personal/zaad"
+    },
+    {
+     "name": "DahabPlus",
+     "cat": "payment",
+     "note": "Dahabshiil-Konten und eDahab-Wallet verwalten",
+     "use": "limited",
+     "req": "Konto bei Dahabshiil bzw. eDahab nötig",
+     "src": "https://apps.apple.com/td/app/dahabplus/id1498782612"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, in Somalia gefährlich",
+     "use": "no",
+     "req": "Homosexuelle Handlungen strafbar, bis zur Todesstrafe",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Mogadishu",
+     "match": [
+      "Mogadishu"
+     ],
+     "apps": [
+      {
+       "name": "Adeegfood Buyer",
+       "cat": "delivery",
+       "note": "Essen von Restaurants und Cafés, auch Barzahlung",
+       "use": "limited",
+       "req": "Letztes Update 2024, Betrieb vorab prüfen",
+       "src": "https://apps.apple.com/ae/app/adeegfood-buyer/id6670474509"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung des Auswärtigen Amts; Visum vorab über etas.gov.so, für Somaliland eigenes Visum, US-Dollar bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
+   "lgbtq_note": "Homosexuelle Handlungen sind verboten und werden streng bestraft, bis hin zur Todesstrafe.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "SS",
+   "name": "Südsudan",
+   "flag": "🇸🇸",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node/suedsudansicherheit/244250"
+    },
+    {
+     "name": "ELEFAND",
+     "cat": "safety",
+     "note": "Eintrag in die Krisenvorsorgeliste der Botschaft",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node/suedsudansicherheit/244250"
+    },
+    {
+     "name": "South Sudan eVisa",
+     "cat": "entry",
+     "note": "Offizielles Portal evisa.gov.ss für das Visum vor der Reise",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node/suedsudansicherheit/244250"
+    },
+    {
+     "name": "mGurush",
+     "cat": "payment",
+     "note": "Mobile Money für Zahlungen, Guthaben und Überweisungen",
+     "use": "no",
+     "req": "Lokale SIM und mGurush-Konto nötig",
+     "src": "https://apps.apple.com/us/app/mgurush/id1527052808"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App, im Südsudan riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen sind strafbar",
+     "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Juba",
+     "match": [
+      "Juba"
+     ],
+     "apps": [
+      {
+       "name": "Tolo SuperApp",
+       "cat": "taxi",
+       "note": "Taxi, Vorbuchung ab Ankunft, Lieferungen und Pakete",
+       "use": "limited",
+       "req": "Konto mit Telefonnummer nötig",
+       "src": "https://apps.apple.com/us/app/id6738090021"
+      },
+      {
+       "name": "Shilu ANA",
+       "cat": "taxi",
+       "note": "Heimische Fahrdienst-App, auch Flughafentransfers",
+       "use": "limited",
+       "req": "Konto mit Telefonnummer nötig",
+       "src": "https://techcabal.com/?p=171329"
+      },
+      {
+       "name": "Karibu App",
+       "cat": "delivery",
+       "note": "Essen aus Restaurants in vielen Vierteln von Juba",
+       "use": "limited",
+       "req": "Konto mit Telefonnummer nötig",
+       "src": "https://apps.apple.com/us/app/id1529546231"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung des Auswärtigen Amts. Visum vorab nötig, Gelbfieberimpfung Pflicht, neue US-Dollar bar mitnehmen, Fotografieren verboten.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node/suedsudansicherheit/244250",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar, gleichgeschlechtliche Zuneigung in der Öffentlichkeit wird gesellschaftlich nicht toleriert.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node/suedsudansicherheit/244250",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "TG",
+   "name": "Togo",
+   "flag": "🇹🇬",
+   "apps": [
+    {
+     "name": "Voyage Togo e-Visa",
+     "cat": "entry",
+     "note": "Offizielles Portal voyage.gouv.tg für Registrierung und e-Visum",
+     "ess": true,
+     "req": "Antrag mindestens fünf Tage vor Einreise, Gelbfieberimpfung Pflicht",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"
+    },
+    {
+     "name": "Mixx Togo",
+     "cat": "payment",
+     "note": "Mobile Money von Yas (früher T-Money) für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Togoische Mobilnummer mit registrierter SIM nötig",
+     "src": "https://apps.apple.com/us/app/mixx-togo/id6443914936"
+    },
+    {
+     "name": "Moov Money TG",
+     "cat": "payment",
+     "note": "App für Flooz, das Mobile Money von Moov Africa Togo",
+     "use": "no",
+     "req": "Moov-Togo-SIM mit Flooz-Konto nötig",
+     "src": "https://apps.apple.com/us/app/-/id6747830756"
+    },
+    {
+     "name": "Gozem Money",
+     "cat": "payment",
+     "note": "Wallet in der Gozem-App, mit allen Mobile-Money-Anbietern verknüpft",
+     "use": "no",
+     "req": "Togoische Nummer und lokales Mobile Money zum Aufladen nötig",
+     "src": "https://techcabal.com/?p=170498"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Dating-App, in Togo riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen strafbar, bis zu drei Jahre Haft möglich",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Lomé",
+     "match": [
+      "Lomé"
+     ],
+     "apps": [
+      {
+       "name": "Gozem",
+       "cat": "taxi",
+       "pkg": "com.gozem",
+       "note": "Super-App für Zem, Taxi, Tricycle, Essen und Kurier",
+       "ess": true,
+       "use": "limited",
+       "req": "Lokale SIM für Anmeldung und Fahrerkontakt ratsam, Bargeld bereithalten",
+       "src": "https://gozem.co/tg/en/"
+      },
+      {
+       "name": "KABA",
+       "cat": "delivery",
+       "note": "Lieferung von Restaurantessen, Supermarkt und Waren",
+       "use": "limited",
+       "req": "Am einfachsten mit Barzahlung bei Lieferung, erreichbare Nummer nötig",
+       "src": "https://apps.apple.com/to/app/kaba/id1513025430"
+      },
+      {
+       "name": "e-SOTRAL",
+       "cat": "transit",
+       "pkg": "com.bhkkonsulting.e_sotral",
+       "note": "Fahrscheine für die Stadtbusse der SOTRAL vorab zahlen",
+       "use": "limited",
+       "req": "Chip vom SOTRAL-Kiosk nötig, Zahlungswege laut Quelle unklar",
+       "src": "https://appgoblin.info/apps/com.bhkkonsulting.e_sotral"
+      },
+      {
+       "name": "Europcar",
+       "cat": "carshare",
+       "note": "Mietwagen mit Station am Flughafen Lomé",
+       "use": "limited",
+       "req": "Führerschein und Kreditkarte nötig, Bedingungen vorab prüfen",
+       "src": "https://www.europcar.com/en-cy/places/car-rental-togo/lome/lome-international-airport"
+      }
+     ]
+    }
+   ],
+   "note": "Das e-Visum spätestens fünf Tage vor der Reise über voyage.gouv.tg beantragen, ein Visum bei Ankunft gibt es nicht.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu drei Jahren Haft und Geldstrafe geahndet werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
    "checked": "2026-11-20"
   }
  ]
