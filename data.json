@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 20:28",
+ "version": "2026-11-20 21:29",
  "categories": [
   {
    "id": "entry",
@@ -29815,6 +29815,504 @@
    "src": "https://www.bento.travel/macau",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1995 legal, eine Ehe oder Partnerschaft gibt es nicht, im Beruf besteht Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/macau",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "MM",
+   "name": "Myanmar",
+   "flag": "🇲🇲",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Reisewarnung gilt",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/myanmar-node/myanmarsicherheit-212100"
+    },
+    {
+     "name": "Myanmar eVisa",
+     "cat": "entry",
+     "note": "Offizielles Portal für das Touristen-E-Visum",
+     "ess": true,
+     "src": "https://evisa.moip.gov.mm"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Wichtigste Fahrdienst-App in Yangon und Mandalay",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Karte unzuverlässig, bar in Kyat zahlen",
+     "src": "https://bento.travel/myanmar/ride-hailing"
+    },
+    {
+     "name": "KBZPay",
+     "cat": "payment",
+     "pkg": "com.kbzbank.kpaycustomer",
+     "note": "Verbreitete Wallet für QR-Zahlungen in Geschäften",
+     "use": "limited",
+     "req": "Lokale SIM, Reisepass und Adresse in Myanmar nötig",
+     "src": "https://www.bento.travel/myanmar/payments"
+    },
+    {
+     "name": "WavePay",
+     "cat": "payment",
+     "note": "Mobile Wallet für Zahlungen und Guthaben",
+     "use": "limited",
+     "req": "Lokale Telefonnummer und Registrierung als Ausländer nötig",
+     "src": "https://www.bento.travel/myanmar/payments"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Essenslieferung in vielen Städten",
+     "use": "limited",
+     "req": "Lokale SIM für SMS-Bestätigung empfohlen",
+     "src": "https://careers.foodpanda.com/myanmar"
+    },
+    {
+     "name": "Oway Travel",
+     "cat": "flights",
+     "pkg": "com.mobile.oway.myapplication",
+     "note": "Inlandsflüge, Fernbusse und Hotels buchen",
+     "ess": true,
+     "src": "https://apps.apple.com/app/id1314252839"
+    },
+    {
+     "name": "ORTP Myanma Railways",
+     "cat": "rail",
+     "note": "Offizieller Online-Ticketkauf für Züge Yangon nach Mandalay",
+     "use": "no",
+     "req": "Nur lokale Zahlung per MPU oder MMQR",
+     "src": "https://elevenmyanmar.com/node/309528"
+    },
+    {
+     "name": "Myanmar Be Enchanted",
+     "cat": "tourism",
+     "note": "Offizielle Reise-App des Tourismusministeriums",
+     "src": "https://apple.co/2RrWZcT"
+    },
+    {
+     "name": "Yoma Car Share",
+     "cat": "carshare",
+     "note": "Mietwagen zum Selbstfahren per App",
+     "use": "no",
+     "req": "Deutscher und internationaler Führerschein nicht anerkannt",
+     "src": "https://apps.apple.com/app/id1607268398"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Messenger für Hotels, Fahrer und Kontakte",
+     "ess": true,
+     "src": "https://www.bento.travel/myanmar"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Kostenlose Offline-Karten auf OpenStreetMap-Basis",
+     "src": "https://www.bento.travel/myanmar"
+    },
+    {
+     "name": "Moezala",
+     "cat": "safety",
+     "pkg": "com.shwedigit.moezala",
+     "note": "Offizielle Wetter- und Warn-App mit Flusspegeln",
+     "ess": true,
+     "src": "https://www.bento.travel/myanmar"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Yangon",
+     "match": [
+      "Yangon"
+     ],
+     "apps": [
+      {
+       "name": "CaCa Taxi",
+       "cat": "taxi",
+       "pkg": "com.myan.caca",
+       "note": "Lokale Taxi-App als Ersatz in Yangon",
+       "use": "limited",
+       "req": "Registrierung laut Quelle unklar, Zahlung bar in Kyat",
+       "src": "https://bento.travel/myanmar/ride-hailing"
+      },
+      {
+       "name": "GrabFood",
+       "cat": "delivery",
+       "note": "Essenslieferung in zentralen Stadtteilen",
+       "use": "limited",
+       "req": "Nur Barzahlung, nur einige Stadtteile",
+       "src": "https://www.grab.com/mm/en/food/"
+      },
+      {
+       "name": "Yangon Bus: Easy YBS",
+       "cat": "transit",
+       "pkg": "com.linndev.easyybs",
+       "note": "Busrouten und Haltestellen in Yangon",
+       "src": "https://www.bento.travel/myanmar"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung beachten, E-Visum vorab; saubere US-Dollar und Kyat bar mitnehmen, Karten und Automaten versagen oft.",
+   "src": "https://www.bento.travel/myanmar",
+   "lgbtq_note": "Homosexualität wird im Strafrecht nicht ausdrücklich genannt, als widernatürliche Handlung drohen aber bis zu lebenslange Haft, ein offener Umgang ist kaum möglich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/myanmar-node/myanmarsicherheit-212100",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "PK",
+   "name": "Pakistan",
+   "flag": "🇵🇰",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Teilreisewarnung",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/pakistansicherheit-204974"
+    },
+    {
+     "name": "Pakistan Online Visa (NADRA)",
+     "cat": "entry",
+     "note": "Visum vorab online beantragen, für Deutsche gebührenfrei",
+     "ess": true,
+     "src": "https://mofa.gov.pk/frankfurt-visa-prior-to-arrival"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrten mit Preisvorschlag, in vielen Städten",
+     "ess": true,
+     "use": "limited",
+     "req": "Telefonnummer mit SMS-Empfang zur Anmeldung nötig",
+     "src": "https://www.bento.travel/pakistan/ride-hailing"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrten mit Festpreis, Auto oder Motorrad",
+     "ess": true,
+     "use": "limited",
+     "req": "Kartenzahlung nicht immer angeboten, Rupien bar mitnehmen",
+     "src": "https://www.bento.travel/pakistan/ride-hailing"
+    },
+    {
+     "name": "Bykea",
+     "cat": "taxi",
+     "pkg": "com.bykea.pk",
+     "note": "Motorrad, Rikscha und Auto in drei Großstädten",
+     "use": "limited",
+     "req": "Telefonnummer mit SMS-Empfang zur Anmeldung nötig",
+     "src": "https://www.bento.travel/pakistan/ride-hailing"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Essen, Lebensmittel und Kleinkram liefern lassen",
+     "ess": true,
+     "use": "limited",
+     "req": "SMS-Code an Telefonnummer nötig, ausländische Karte kann scheitern",
+     "src": "https://www.bento.travel/pakistan/food-delivery"
+    },
+    {
+     "name": "JazzCash",
+     "cat": "payment",
+     "note": "Mobile Geldbörse für Zahlungen im Land",
+     "use": "no",
+     "req": "Pakistanischer Ausweis (CNIC) und lokale SIM nötig",
+     "src": "https://www.bento.travel/pakistan/payments"
+    },
+    {
+     "name": "easypaisa",
+     "cat": "payment",
+     "note": "Mobile Geldbörse für Zahlungen im Land",
+     "use": "no",
+     "req": "Pakistanischer Ausweis (CNIC) und lokale SIM nötig",
+     "src": "https://www.bento.travel/pakistan/payments"
+    },
+    {
+     "name": "RABTA",
+     "cat": "rail",
+     "note": "Offizielle Buchungs-App der Pakistan Railways",
+     "use": "no",
+     "req": "Laut Nutzerbewertung CNIC je Fahrgast nötig",
+     "src": "https://apps.apple.com/pk/app/rabta/id6446243993"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating-App für schwule Männer",
+     "use": "no",
+     "req": "Seit 2020 von der Behörde PTA gesperrt, Nutzung riskant",
+     "src": "https://www.dawn.com/news/1577727"
+    },
+    {
+     "name": "Bookme Pakistan",
+     "cat": "rail",
+     "pkg": "com.macropaks.bookme",
+     "note": "Busse, Flüge und Züge vergleichen und buchen",
+     "src": "https://www.bento.travel/pakistan"
+    },
+    {
+     "name": "PAK NDMA-Disaster Alert",
+     "cat": "safety",
+     "pkg": "com.mobileapp.ndmaalert",
+     "note": "Offizielle Katastrophenwarnungen und Notrufnummern",
+     "src": "https://www.bento.travel/pakistan"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Islamabad",
+     "match": [
+      "Islamabad"
+     ],
+     "apps": [
+      {
+       "name": "City Islamabad",
+       "cat": "tourism",
+       "note": "Offizielle Stadt-App mit Busrouten und Sehenswürdigkeiten",
+       "src": "https://ictadministration.gov.pk/official-mobile-phone-app/"
+      }
+     ]
+    },
+    {
+     "name": "Karachi",
+     "match": [
+      "Karachi"
+     ],
+     "apps": [
+      {
+       "name": "inDrive.Groceries",
+       "cat": "delivery",
+       "note": "Lebensmittel in 20 bis 30 Minuten über inDrive",
+       "use": "limited",
+       "req": "Bestellung in der inDrive-App, Zahlungsarten nicht angegeben",
+       "src": "https://www.intelligentcio.com/apac/2026/01/14/indrive-launches-grocery-delivery-with-krave-mart-in-pakistan/"
+      },
+      {
+       "name": "Peoples Bus Service",
+       "cat": "transit",
+       "note": "Routen, Fahrpreise und Busse live verfolgen",
+       "use": "limited",
+       "req": "Registrierung laut Quelle unklar, Zahlung per QR oder Karte",
+       "src": "https://arynews.tv/peoples-bus-service-mobile-app-all-you-need-to-know"
+      }
+     ]
+    },
+    {
+     "name": "Lahore",
+     "match": [
+      "Lahore"
+     ],
+     "apps": [
+      {
+       "name": "eTransit Punjab",
+       "cat": "transit",
+       "note": "Orange Line und Metrobus: Fahrplan live, T-Cash",
+       "use": "limited",
+       "req": "Kontofunktionen mit Identitätsprüfung, Fahrt auch mit T-Cash-Karte",
+       "src": "https://apps.apple.com/us/app/id1638285980"
+      },
+      {
+       "name": "Avis",
+       "cat": "carshare",
+       "note": "Mietwagen, Filiale in Lahore Gulberg",
+       "use": "limited",
+       "req": "Führerschein und Kreditkarte, Bedingungen bei Filiale erfragen",
+       "src": "https://www.avis.com/en/locations/pk/lahore/wq4"
+      }
+     ]
+    },
+    {
+     "name": "Peshawar",
+     "match": [
+      "Peshawar"
+     ],
+     "apps": [
+      {
+       "name": "Zu",
+       "cat": "transit",
+       "note": "Busrouten, Live-Busse und Zu-Karte des BRT",
+       "src": "https://www.bento.travel/pakistan/transit"
+      }
+     ]
+    }
+   ],
+   "note": "Visum vorab über das NADRA-Portal beantragen und Rupien bar mitnehmen, lokale Bezahl-Apps sind für Ausländer kaum nutzbar.",
+   "src": "https://www.bento.travel/pakistan",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar mit zwei bis zehn Jahren Haft, in schweren Fällen lebenslang, und gesellschaftlich nicht akzeptiert.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/pakistansicherheit-204974",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "PS",
+   "name": "Palästina, Staat",
+   "flag": "🇵🇸",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Lage ändert sich schnell",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674"
+    },
+    {
+     "name": "Red Alert",
+     "cat": "safety",
+     "note": "Warnt vor Raketenalarm, vom Auswärtigen Amt genannt",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "note": "Fahrdienst-App, u. a. in Nablus, Ramallah und Hebron",
+     "use": "limited",
+     "req": "Aktuelle Verfügbarkeit vor Ort vorab prüfen",
+     "src": "https://drive.careem.com/en-ps/nablus"
+    },
+    {
+     "name": "Yummy",
+     "cat": "delivery",
+     "note": "Lieferdienst für Essen und Einkäufe im Westjordanland",
+     "src": "https://apps.apple.com/us/app/id1448247070"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Bethlehem",
+     "match": [
+      "Bethlehem"
+     ],
+     "apps": [
+      {
+       "name": "Bethlehem Gate",
+       "cat": "tourism",
+       "note": "Sehenswürdigkeiten, Öffnungszeiten und Hotels in Bethlehem",
+       "src": "https://apps.apple.com/us/app/bethlehem-gate/id1644048648"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung fürs Westjordanland; Einreise mit CoGAT-Genehmigung über Jordanien, israelische Mietwagen dort nicht versichert.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
+   "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar und gesellschaftlich ein Tabu, Fälle gegen Ausländer sind bisher nicht bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "SY",
+   "name": "Syrien, Arabische Republik",
+   "flag": "🇸🇾",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reisehinweise des Auswärtigen Amts, Lage ändert sich schnell",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278"
+    },
+    {
+     "name": "Elefand",
+     "cat": "safety",
+     "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278"
+    },
+    {
+     "name": "YallaGo!",
+     "cat": "taxi",
+     "pkg": "ae.com.yalla.go.dubai.client",
+     "note": "Verbreitetster Fahrdienst, auch Kurier und Lieferung",
+     "ess": true,
+     "use": "no",
+     "req": "Syrische Telefonnummer nötig, Zahlung bar in Pfund",
+     "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+    },
+    {
+     "name": "YallaGo Pro",
+     "cat": "taxi",
+     "pkg": "com.yallagopro.app",
+     "note": "Fahrdienst-Variante für Aleppo, Homs, Latakia u. a.",
+     "use": "no",
+     "req": "Syrische Telefonnummer nötig, Zahlung bar",
+     "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+    },
+    {
+     "name": "Shahm Taxi",
+     "cat": "taxi",
+     "pkg": "com.turnpoint.shahmuser",
+     "note": "Taxi-App für mehrere große Städte",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer unklar, meist Barzahlung",
+     "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+    },
+    {
+     "name": "Tfadal",
+     "cat": "taxi",
+     "pkg": "com.bis.taxi",
+     "note": "Lokale App für Fahrten und Lieferungen",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer unklar",
+     "src": "https://tfadal.sy/?lang=ar"
+    },
+    {
+     "name": "BeeOrder",
+     "cat": "delivery",
+     "pkg": "com.beeorder.customer",
+     "note": "Lieferung von Restaurants und Supermärkten",
+     "use": "limited",
+     "req": "Registrierung mit ausländischer Nummer unklar, Bargeld üblich",
+     "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+    },
+    {
+     "name": "Movo",
+     "cat": "delivery",
+     "pkg": "com.movo.movouser",
+     "note": "Lieferdienst für Essen und Lebensmittel",
+     "use": "limited",
+     "req": "Kartenzahlung nur laut Anbieter, nicht unabhängig bestätigt",
+     "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Damascus",
+     "match": [
+      "Damascus"
+     ],
+     "apps": [
+      {
+       "name": "Electro Taxi",
+       "cat": "taxi",
+       "pkg": "com.vega.electro",
+       "note": "Elektrotaxis in Damaskus, auch Überlandfahrten",
+       "use": "no",
+       "req": "Syrische Telefonnummer nötig, Zahlung bar",
+       "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+      },
+      {
+       "name": "My Syria",
+       "cat": "tourism",
+       "note": "Hotels, Mietwagen und Erlebnisse buchen, Karten möglich",
+       "src": "https://www.khaleejtimes.com/uae/dubai-damascus-my-syria-app-supports-tourism"
+      }
+     ]
+    }
+   ],
+   "note": "Reisewarnung des Auswärtigen Amts; Visum meist bei Einreise mit Reisepass, Kreditkarten gehen nicht, US-Dollar bar mitnehmen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
+   "lgbtq_note": "Homosexuelle Beziehungen sind verboten und können mit Gefängnis bestraft werden, seit Dezember 2024 häufen sich Angriffe auf LGBTIQ-Personen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
    "checked": "2026-11-20"
   }
  ]
