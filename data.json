@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 19:27",
+ "version": "2026-11-20 20:10",
  "categories": [
   {
    "id": "entry",
@@ -29302,6 +29302,48 @@
    "src": "https://www.bento.travel/kazakhstan",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, seit März 2026 ist aber LGBTQ+ Propaganda strafbar, Zurückhaltung auch online ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "AX",
+   "name": "Åland-Inseln",
+   "flag": "🇦🇽",
+   "apps": [
+    {
+     "name": "Viking Line",
+     "cat": "rail",
+     "note": "Fährbuchung und digitale Bordkarte, Fähren halten in Mariehamn",
+     "src": "https://sourceforge.net/app/viking-line/android/"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Mariehamn",
+     "match": [
+      "Mariehamn"
+     ],
+     "apps": [
+      {
+       "name": "Mariehamn Taxi",
+       "cat": "taxi",
+       "note": "Taxi in Mariehamn sofort oder vorab bestellen",
+       "src": "https://apps.apple.com/fi/app/mariehamn-taxi/id1600054379"
+      },
+      {
+       "name": "Wolt",
+       "cat": "delivery",
+       "pkg": "com.wolt.android",
+       "note": "Essen von Lokalen in Mariehamn liefern lassen",
+       "ess": true,
+       "src": "https://wolt.com/en/fin/maarianhamina"
+      }
+     ]
+    }
+   ],
+   "note": "Parken in Mariehamn ist mit Parkscheibe kostenlos. Schärenfähren für Fahrzeuge vorab bei Ålandstrafiken online buchen.",
+   "src": "https://visitaland.com/?p=17161",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
+   "lgbtq_src": "https://www.equaldex.com/region/aland",
    "checked": "2026-11-20"
   }
  ]
