@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 14:20",
+ "version": "2026-11-20 14:23",
  "categories": [
   {
    "id": "entry",
@@ -26962,6 +26962,552 @@
    "src": "https://www.visitgibraltar.gi/driving-and-park",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2000 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/gibraltar",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "AF",
+   "name": "Afghanistan",
+   "flag": "🇦🇫",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692"
+    },
+    {
+     "name": "Krisenvorsorgeliste ELEFAND",
+     "cat": "safety",
+     "note": "Registrierung bei der Krisenvorsorgeliste des AA",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692"
+    },
+    {
+     "name": "Doride",
+     "cat": "taxi",
+     "note": "Lokale App für Taxifahrten und Paketversand",
+     "use": "limited",
+     "req": "Registrierung und Zahlung in der Quelle nicht beschrieben",
+     "src": "https://apps.apple.com/bb/app/doride/id6738889957"
+    },
+    {
+     "name": "MZ: Food Online",
+     "cat": "delivery",
+     "note": "Essen von lokalen Restaurants bestellen, auch bar",
+     "use": "limited",
+     "req": "Registrierung in der Quelle nicht beschrieben, Kartenzahlung im Land kaum verbreitet",
+     "src": "https://apps.apple.com/app/id6741681717"
+    },
+    {
+     "name": "Ariana Afghan Airlines",
+     "cat": "flights",
+     "pkg": "com.ariana.ariana",
+     "note": "Flüge der staatlichen Airline suchen, buchen, Status",
+     "src": "https://appgoblin.info/apps/com.ariana.ariana"
+    },
+    {
+     "name": "Kam Air",
+     "cat": "flights",
+     "pkg": "com.kamair.ticketing",
+     "note": "Flüge buchen, ändern und online einchecken",
+     "src": "https://mwm.ai/apps/kam-air-trustable-wings/1451184763"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kabul",
+     "match": [
+      "Kabul"
+     ],
+     "apps": [
+      {
+       "name": "Raftar",
+       "cat": "taxi",
+       "note": "Lokaler Fahrdienst, Fahrpreis wird ausgehandelt, Barzahlung",
+       "use": "limited",
+       "req": "Registrierung nicht beschrieben, nur Barzahlung, Sicherheit lokaler Fahrdienste schwankt",
+       "src": "https://raftar.app/about"
+      }
+     ]
+    }
+   ],
+   "note": "Das Auswärtige Amt warnt vor Reisen nach Afghanistan und fordert Deutsche zur Ausreise auf. Die Botschaft Kabul ist geschlossen, Hilfe vor Ort ist nicht möglich. Deutsche brauchen vorab ein Visum, einen Reisepass mit 6 Monaten Restgültigkeit und eine Polio-Impfung. Bezahlt wird fast nur bar, Internet und Mobilfunk können jederzeit abgeschaltet werden.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692",
+   "lgbtq_note": "Homosexualität und Transsexualität sind verboten und strafbar, Betroffenen droht Gewalt in Haft, Handys und soziale Medien werden bei Kontrollen durchsucht.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "BD",
+   "name": "Bangladesch",
+   "flag": "🇧🇩",
+   "apps": [
+    {
+     "name": "Visa on Arrival und E-Arrival Card (Special Branch)",
+     "cat": "entry",
+     "note": "Visum bei Ankunft und Einreisekarte vorab online, keine App",
+     "ess": true,
+     "src": "https://bangladeshmonitor.com.bd/en/bangladesh-introduces-online-system-for-visa-on-arrival-applications"
+    },
+    {
+     "name": "Pathao",
+     "cat": "carshare",
+     "pkg": "com.pathao.user",
+     "note": "Auto mit Fahrer für Langstrecken und Tagestouren",
+     "ess": true,
+     "src": "https://www.tbsnews.net/economy/corporates/pathao-car-rental-effortless-journeys-919331"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Fahrten mit Autos, CNG-Rikschas und Motorrädern",
+     "ess": true,
+     "src": "https://www.bento.travel/bangladesh"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Preis wird mit dem Fahrer ausgehandelt, Zahlung bar",
+     "src": "https://www.bento.travel/bangladesh"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Zuverlässigster Lieferdienst für Essen und Einkäufe",
+     "ess": true,
+     "src": "https://www.bento.travel/bangladesh"
+    },
+    {
+     "name": "Foodi",
+     "cat": "delivery",
+     "pkg": "com.foodiBd",
+     "note": "Lokaler Lieferdienst für Essen und Alltagsbedarf",
+     "src": "https://www.bento.travel/bangladesh"
+    },
+    {
+     "name": "bKash",
+     "cat": "payment",
+     "note": "Verbreitetste mobile Geldbörse des Landes",
+     "use": "no",
+     "req": "Bangladeschischer Personalausweis (NID) nötig, Reisepass allein reicht nicht",
+     "src": "https://www.bento.travel/bangladesh/payments"
+    },
+    {
+     "name": "Messenger",
+     "cat": "misc",
+     "pkg": "com.facebook.orca",
+     "note": "Viele Anbieter sind nur über Facebook erreichbar",
+     "src": "https://www.bento.travel/bangladesh"
+    },
+    {
+     "name": "Rail Sheba",
+     "cat": "rail",
+     "pkg": "com.shohoz.dtrainpwa",
+     "note": "Offizielle App für Zugtickets der Bangladesh Railway",
+     "ess": true,
+     "use": "limited",
+     "req": "Registrierung mit Passnummer und Foto, Ausweis und registriertes Handy bei der Fahrt mitführen",
+     "src": "https://www.tbsnews.net/node/585458"
+    },
+    {
+     "name": "Shohoz",
+     "cat": "rail",
+     "pkg": "com.shohoz.rides",
+     "note": "Fernbusse und Schiffe buchen, Website als Ausweichweg",
+     "src": "https://www.bento.travel/bangladesh"
+    },
+    {
+     "name": "Hello Tourists",
+     "cat": "safety",
+     "note": "App der Touristenpolizei mit Kontakten in allen 64 Bezirken",
+     "src": "https://apps.apple.com/us/app/id1563627967"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Weltweite Dating App für schwule und bisexuelle Männer",
+     "use": "no",
+     "req": "Gefährlich, über Dating Apps verabredete Treffen führten zu Überfällen und Erpressung",
+     "src": "https://www.gov.uk/government/publications/bangladesh-country-policy-and-information-notes/country-policy-and-information-note-sexual-orientation-and-gender-identity-bangladesh-september-2023-accessible"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Cox's Bazar",
+     "match": [
+      "Cox's Bazar"
+     ],
+     "apps": [
+      {
+       "name": "JoBike",
+       "cat": "micro",
+       "note": "E-Bikes per QR Code ausleihen, etwa 3 Taka pro Minute",
+       "use": "limited",
+       "req": "Guthaben wird laut Quelle über bKash oder Nagad aufgeladen, die eine lokale Registrierung brauchen",
+       "src": "https://www.tbsnews.net/bangladesh/get-e-bike-only-tk3-min-jobike-launches-coxs-bazar-841566"
+      }
+     ]
+    },
+    {
+     "name": "Dhaka",
+     "match": [
+      "Dhaka"
+     ],
+     "apps": [
+      {
+       "name": "Rapid Pass",
+       "cat": "transit",
+       "pkg": "com.bd.rapidpass.app",
+       "note": "Metrokarte per App aufladen, danach am Automaten bestätigen",
+       "use": "limited",
+       "req": "Physische Rapid Pass oder MRT Karte und NFC fähiges Android nötig",
+       "src": "https://thefinancialexpress.com.bd/national/users-can-now-recharge-rapid-pass-cards-via-mobile-app"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen einen 6 Monate gültigen Reisepass und ein Visum, am Flughafen Dhaka gibt es ein Visum bei Ankunft für bis zu 30 Tage gegen etwa 51 USD in bar. Bei Fahrdiensten Kennzeichen und Fahrer prüfen und nur den Preis in der App zahlen.",
+   "src": "https://www.bento.travel/bangladesh",
+   "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind illegal, Paragraf 377 sieht für Männer bis zu lebenslange Haft vor und wird zu Festnahmen und Erpressung genutzt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bangladesch-node/bangladeschsicherheit-206292",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "LA",
+   "name": "Laos, Demokratische Volksrepublik",
+   "flag": "🇱🇦",
+   "apps": [
+    {
+     "name": "Lao eVisa",
+     "cat": "entry",
+     "note": "Offizielles E-Visum für 30 Tage, Antrag online, keine App",
+     "ess": true,
+     "src": "https://laoevisa.gov.la/faq"
+    },
+    {
+     "name": "Lao Digital Immigration Form (LDIF)",
+     "cat": "entry",
+     "note": "Pflicht-Onlineregistrierung bis 3 Tage vor Ein- und Ausreise",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/laossicherheit-201048"
+    },
+    {
+     "name": "LOCA",
+     "cat": "payment",
+     "pkg": "com.loca.passenger",
+     "note": "Lao-QR mit Auslandskarte zahlen, 3 % plus 5.000 Kip",
+     "ess": true,
+     "src": "https://www.bento.travel/laos/payments",
+     "use": "limited",
+     "req": "Nur bei Händlern mit Lao QR, Gebühr pro Zahlung"
+    },
+    {
+     "name": "Green SM",
+     "cat": "taxi",
+     "pkg": "com.gsm.customer",
+     "note": "Elektro-Taxis, früher Xanh SM, nicht überall verfügbar",
+     "src": "https://www.bento.travel/laos"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Essenslieferung, in Vientiane gut abgedeckt",
+     "src": "https://www.bento.travel/laos"
+    },
+    {
+     "name": "EZyKip",
+     "cat": "payment",
+     "note": "Touristen-Wallet der BCEL für Zahlungen per Lao QR",
+     "use": "limited",
+     "req": "Passchip-Scan nötig, Aufladen per Karte, laut Bewertungen unzuverlässig",
+     "src": "https://apps.apple.com/app/ezykip/id6473516286"
+    },
+    {
+     "name": "BCEL One",
+     "cat": "payment",
+     "note": "Banking-App der BCEL mit QR-Zahlung",
+     "use": "no",
+     "req": "Laotisches Bankkonto nötig",
+     "src": "https://www.bento.travel/laos/payments"
+    },
+    {
+     "name": "Maps.me",
+     "cat": "maps",
+     "pkg": "com.mapswithme.maps.pro",
+     "note": "Offline-Karten auch für abgelegene Wege",
+     "ess": true,
+     "src": "https://www.bento.travel/laos"
+    },
+    {
+     "name": "LCR Ticket",
+     "cat": "rail",
+     "pkg": "com.cars.laosticket",
+     "note": "Offizielle App der Laos-China-Bahn, Ausfälle möglich",
+     "ess": true,
+     "use": "limited",
+     "req": "Registrierung und Kartenzahlung scheitern teils, Ersatz am Schalter einplanen",
+     "src": "https://www.bento.travel/laos"
+    },
+    {
+     "name": "12Go Asia",
+     "cat": "rail",
+     "pkg": "co.go12.ticketapp",
+     "note": "Busse, Minivans, Boote und Grenzstrecken buchen",
+     "src": "https://www.bento.travel/laos"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Vientiane",
+     "match": [
+      "Vientiane"
+     ],
+     "apps": [
+      {
+       "name": "KOKKOK Move",
+       "cat": "taxi",
+       "pkg": "com.coconutsilo.kokkokexpress.shipper",
+       "note": "E-Tuk-Tuks und Autos, Preis selbst vorschlagen",
+       "use": "limited",
+       "req": "Telefonverifizierung kann scheitern, Fahrer nehmen nicht immer an",
+       "src": "https://www.bento.travel/laos"
+      },
+      {
+       "name": "Chompa Delivery",
+       "cat": "delivery",
+       "pkg": "com.chompadelivery.app",
+       "note": "Kleiner Lieferdienst für lokale und internationale Küche",
+       "src": "https://www.bento.travel/laos"
+      },
+      {
+       "name": "LaoBus",
+       "cat": "transit",
+       "pkg": "com.goldmirubada.laobus",
+       "note": "Busplaner, Linie an der Haltestelle nochmal prüfen",
+       "src": "https://www.bento.travel/laos"
+      },
+      {
+       "name": "ViaBus",
+       "cat": "transit",
+       "note": "Live-Busortung mit dem städtischen Busbetrieb, 2025 angekündigt",
+       "src": "https://www.tourismlaos.org/2025/04/20/vientiane-to-get-real-time-bus-tracking-with-viabus/"
+      },
+      {
+       "name": "SIXT",
+       "cat": "carshare",
+       "note": "Mietwagen am Flughafen Vientiane, Buchung per App",
+       "use": "limited",
+       "req": "Ab 23 Jahren, gültiger Führerschein und Pass bei Abholung",
+       "src": "https://www.sixt.com/car-rental/laos/vientiane/"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum (E-Visum oder bei Ankunft, 30 Tage) und die Online-Registrierung LDIF. Kip-Bargeld für Land und Kleinbetriebe mitnehmen.",
+   "src": "https://www.bento.travel/laos",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, Beziehungen unter Ausländern werden zurückhaltend akzeptiert, solange man sie nicht offen zeigt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/laossicherheit-201048",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "NP",
+   "name": "Nepal",
+   "flag": "🇳🇵",
+   "apps": [
+    {
+     "name": "Nepal Immigration Online Visa",
+     "cat": "entry",
+     "note": "Offizielles Portal für E-Visum und Antrag vor Ankunft, keine App",
+     "ess": true,
+     "src": "https://discover.passportindex.org/policy-and-regulations/nepal-prepares-to-fully-launch-its-e-visa-system-on-august-17-2026/"
+    },
+    {
+     "name": "FNMIS (Foreign Nationals Management Information System)",
+     "cat": "entry",
+     "note": "Freiwillige Vorab-Registrierung, QR-Code bei Hotels und Flügen zeigen",
+     "src": "https://kathmandupost.com/money/2025/12/24/why-nepal-is-launching-a-system-to-track-foreign-nationals"
+    },
+    {
+     "name": "Nepal Tourism Board TIMS Card",
+     "cat": "tourism",
+     "note": "Pflichtregistrierung für Trekker, Guide in Nationalparks nötig",
+     "src": "https://www.bento.travel/nepal"
+    },
+    {
+     "name": "Pathao",
+     "cat": "carshare",
+     "pkg": "com.pathao.user",
+     "note": "Auto oder Bus mit Fahrer mieten, Buchung bis 7 Tage vorab",
+     "ess": true,
+     "use": "no",
+     "req": "Läuft im Pathao-Konto, dafür Telefonnummer aus Nepal oder Bangladesch nötig",
+     "src": "https://kathmandupost.com/money/2025/04/14/rental-service-added-in-pathao-ride-sharing-app"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Preis selbst vorschlagen und Fahrer auswählen",
+     "ess": true,
+     "src": "https://www.bento.travel/nepal/ride-hailing"
+    },
+    {
+     "name": "Foodmandu",
+     "cat": "delivery",
+     "pkg": "com.app.foodmandu",
+     "note": "Lieferdienst in Kathmandu, Pokhara, Chitwan und Butwal",
+     "ess": true,
+     "use": "limited",
+     "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt, Barzahlung als Ausweg",
+     "src": "https://www.bento.travel/nepal/food-delivery"
+    },
+    {
+     "name": "BHOJ",
+     "cat": "delivery",
+     "pkg": "com.app.bhojdeals",
+     "note": "Früher Bhojdeals, auch spät abends, aber Stornos gemeldet",
+     "use": "limited",
+     "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt",
+     "src": "https://www.bento.travel/nepal/food-delivery"
+    },
+    {
+     "name": "Nepal Now",
+     "cat": "payment",
+     "pkg": "com.fonepay.international",
+     "note": "Prepaidkarte für Besucher, Zahlen an Fonepay-QR-Codes",
+     "use": "limited",
+     "req": "Ab 18 Jahren, Reisepass und Visum werden geprüft, nur in Nepal, Aufladen per Visa oder Mastercard",
+     "src": "https://fonepay.com/content/Nepal-Now-tnc"
+    },
+    {
+     "name": "eSewa",
+     "cat": "payment",
+     "note": "Verbreitete Wallet der Einheimischen für QR-Zahlungen",
+     "use": "no",
+     "req": "Registrierung mit nepalesischer National ID nötig",
+     "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/"
+    },
+    {
+     "name": "Khalti",
+     "cat": "payment",
+     "note": "Verbreitete Wallet der Einheimischen für QR-Zahlungen",
+     "use": "no",
+     "req": "Registrierung mit nepalesischer National ID nötig",
+     "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Zweiter Messenger, den viele Kontakte nutzen",
+     "src": "https://www.bento.travel/nepal"
+    },
+    {
+     "name": "Mapy.com",
+     "cat": "maps",
+     "pkg": "cz.seznam.mapy",
+     "note": "Wanderkarte mit Offline-Daten für Trekkingrouten",
+     "ess": true,
+     "src": "https://www.bento.travel/nepal"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Kostenlose Offline-Karte ohne Konto",
+     "src": "https://www.bento.travel/nepal"
+    },
+    {
+     "name": "BusSewa",
+     "cat": "rail",
+     "pkg": "com.diyalo.bussewa",
+     "note": "Fernbusse mit Sitzplatzwahl, dazu Flüge buchen",
+     "ess": true,
+     "src": "https://www.bento.travel/nepal"
+    },
+    {
+     "name": "Buddha Air",
+     "cat": "flights",
+     "pkg": "com.shirantech.buddhaair",
+     "note": "App der Airline für Inlandsflüge",
+     "src": "https://www.bento.travel/nepal"
+    },
+    {
+     "name": "Tourist Police Nepal",
+     "cat": "safety",
+     "note": "Kontakte und Notrufnummern der Touristenpolizei",
+     "ess": true,
+     "src": "https://www.bento.travel/nepal"
+    },
+    {
+     "name": "BIPAD Portal",
+     "cat": "safety",
+     "note": "Staatliches Portal zu Naturgefahren und Warnungen",
+     "src": "https://www.bento.travel/nepal"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kathmandu",
+     "match": [
+      "Kathmandu"
+     ],
+     "apps": [
+      {
+       "name": "Uber",
+       "cat": "taxi",
+       "pkg": "com.ubercab",
+       "note": "Seit Juni 2026 im Kathmandutal, Angebot noch dünn",
+       "src": "https://www.bento.travel/nepal/ride-hailing"
+      },
+      {
+       "name": "Yango",
+       "cat": "taxi",
+       "pkg": "com.yandex.yango",
+       "note": "Fahrten zum Festpreis, oft günstig",
+       "src": "https://www.bento.travel/nepal/ride-hailing"
+      },
+      {
+       "name": "Pathao Food",
+       "cat": "delivery",
+       "pkg": "com.pathao.user",
+       "note": "Restaurantlieferung im selben Konto wie die Fahrten",
+       "ess": true,
+       "use": "no",
+       "req": "Lokale Telefonnummer nötig",
+       "src": "https://www.bento.travel/nepal/food-delivery"
+      },
+      {
+       "name": "Sajha Plus",
+       "cat": "transit",
+       "pkg": "com.slashplus.sajhaplus.sajha_plus",
+       "note": "Nur für Busse von Sajha Yatayat, Daten lückenhaft",
+       "src": "https://www.bento.travel/nepal"
+      },
+      {
+       "name": "KTM Public Transport",
+       "cat": "transit",
+       "note": "Busse im Kathmandutal live verfolgen, mit Ankunftszeit",
+       "src": "https://english.onlinekhabar.com/mobile-app-launched-to-track-public-transport-in-kathmandu-valley.html"
+      },
+      {
+       "name": "YenDe KMC Walking App",
+       "cat": "tourism",
+       "note": "Altstadtrundgang von Kasthamandap bis Swayambhu",
+       "src": "https://apps.apple.com/us/app/id1623154511"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum: seit 17.8.2026 als E-Visum online oder weiter bei Ankunft (15 Tage 30 USD, 30 Tage 50 USD, 90 Tage 125 USD). Reisepass muss noch 6 Monate gültig sein, außerhalb der Städte Bargeld in Rupien mitnehmen.",
+   "src": "https://www.bento.travel/nepal",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, in der eher konservativen Öffentlichkeit wird aber Zurückhaltung empfohlen.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nepal-node/nepalsicherheit-221216",
    "checked": "2026-11-20"
   }
  ]
