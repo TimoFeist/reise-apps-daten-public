@@ -1,0 +1,19 @@
+{
+ "src": "https://liemobil.li/en/passes-tickets/",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Im LIEmobil Bus kontaktlos mit Debit- oder Kreditkarte zahlen, Tickets gibt es auch in SBB Mobile und FAIRTIQ.",
+ "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTIQ Reisende.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtensteinsicherheit-222960",
+ "discontinued": [],
+ "apps": [
+  {"name": "SBB Mobile", "cat": "rail", "pkg": "ch.sbb.mobile.android.b2c", "ess": true, "note": "Tickets für Fahrten in, von und nach Liechtenstein", "city": "", "use": "ok", "req": "", "src": "https://liemobil.li/en/passes-tickets/"},
+  {"name": "FAIRTIQ", "cat": "transit", "pkg": "com.fairtiq.android", "ess": true, "note": "Ein- und auschecken im Bus, gilt auch in CH und Vorarlberg", "city": "", "use": "ok", "req": "", "src": "https://liemobil.li/en/passes-tickets/"},
+  {"name": "öV Plus", "cat": "transit", "pkg": "", "ess": false, "note": "Fahrplan und Tickets, von LIEmobil empfohlen", "city": "", "use": "ok", "req": "", "src": "https://liemobil.li/en/passes-tickets/"},
+  {"name": "LIEbike", "cat": "micro", "pkg": "", "ess": false, "note": "E-Bike-Verleih von LIEmobil an 34 Stationen im Land", "city": "", "use": "limited", "req": "Ausweis scannen, Kreditkarte hinterlegen, ab 16 Jahren", "src": "https://liemobil.li/en/liebike"},
+  {"name": "WELCOME", "cat": "tourism", "pkg": "", "ess": true, "note": "Digitale Gästekarte mit QR-Code für Rabatte und Bus", "city": "", "use": "ok", "req": "", "src": "https://en.tourismus.li/angebote/freizeit/welcome-erlebnispass.html"},
+  {"name": "LIstory", "cat": "tourism", "pkg": "", "ess": false, "note": "Gratis Begleiter für den Liechtenstein-Weg mit Infostationen", "city": "", "use": "ok", "req": "", "src": "https://tourismus.li/en/the-liechtenstein-trail/the-listory-app/"},
+  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtensteinsicherheit-222960"},
+  {"name": "Sponti-Car", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektroauto im Städtle rund um die Uhr per App mieten", "city": "Vaduz", "use": "limited", "req": "Registrierung und Führerscheinprüfung nötig", "src": "https://www.vaduz.li/en/news/new-car-sharing-service-in-vaduz"}
+ ]
+}

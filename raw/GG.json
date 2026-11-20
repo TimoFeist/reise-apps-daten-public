@@ -1,0 +1,20 @@
+{
+ "src": "https://www.visitguernsey.com/planning/getting-around/buses-and-coaches/",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Busse nehmen nur kontaktlose Kartenzahlung, kein Bargeld. Parken ist meist gratis, in Disc-Zonen braucht man aber eine Parkscheibe.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung bei Arbeit und Wohnen ist verboten.",
+ "lgbtq_src": "https://www.equaldex.com/region/guernsey",
+ "discontinued": [],
+ "apps": [
+  {"name": "buses.gg", "cat": "transit", "pkg": "travel.ticketless.app.busesgg", "ess": true, "note": "Busplaner mit Live-Positionen und Haltestelleninfos", "city": "", "use": "ok", "req": "", "src": "https://www.visitguernsey.com/planning/getting-around/buses-and-coaches/"},
+  {"name": "Guernsey Taxi App", "cat": "taxi", "pkg": "com.taxicaller.GuernseyTaxiApp.app", "ess": true, "note": "Lizenzierte Taxis rufen, Fahrpreis zahlt man beim Fahrer", "city": "", "use": "ok", "req": "", "src": "https://www.gov.gg/taxi"},
+  {"name": "VisitGuernsey", "cat": "tourism", "pkg": "com.tpagency.visitguernsey", "ess": true, "note": "Offizielle Routen zum Wandern, Radeln und Baden", "city": "", "use": "ok", "req": "", "src": "https://trade.visitguernsey.com/marketing/campaign/visitguernsey-app/"},
+  {"name": "EVie", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektro-Mietwagen direkt am Hafenterminal", "city": "", "use": "limited", "req": "Konto mit gültigem Führerschein, Freigabe dauert bis 24 Std.", "src": "https://evieondemand.com/evie--islands-unlimited"},
+  {"name": "Condor Ferries", "cat": "rail", "pkg": "", "ess": false, "note": "Fähren buchen, Bordkarte und Live-Status der Abfahrten", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/md/app/id1451504867?l=en-gb"},
+  {"name": "Aurigny", "cat": "flights", "pkg": "", "ess": false, "note": "Flüge der Inselairline buchen und verwalten", "city": "", "use": "ok", "req": "", "src": "https://www.bailiwickexpress.com/news-ge/aurignys-new-app-aims-to-make-your-life-easier/"},
+  {"name": "Takeout.gg", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen von Lokalen, Cafés und Metzgern liefern lassen", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1519386182"},
+  {"name": "Food.gg", "cat": "delivery", "pkg": "", "ess": false, "note": "Takeaway von über 30 Lokalen, seit 2022 ohne Update", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1501608248"},
+  {"name": "Snappy Shopper", "cat": "delivery", "pkg": "", "ess": false, "note": "Lebensmittel am selben oder nächsten Tag geliefert", "city": "", "use": "ok", "req": "", "src": "https://retailtechinnovationhub.com/category/grocery-delivery/snappy-shopper-and-alliance-supermarket-team-up-to-launch-same-day-delivery-service-in-guernsey"}
+ ]
+}

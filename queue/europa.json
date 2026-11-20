@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "GG",
-"en": "Guernsey",
-"slug": "guernsey"
-},
-{
-"code": "IM",
-"en": "Isle of Man",
-"slug": "isle-of-man"
-},
-{
-"code": "JE",
-"en": "Jersey",
-"slug": "jersey"
-},
-{
-"code": "LI",
-"en": "Liechtenstein",
-"slug": "liechtenstein"
-},
-{
 "code": "MC",
 "en": "Monaco",
 "slug": "monaco"
@@ -262,6 +242,26 @@
 "code": "GI",
 "en": "Gibraltar",
 "slug": "gibraltar"
+},
+{
+"code": "GG",
+"en": "Guernsey",
+"slug": "guernsey"
+},
+{
+"code": "IM",
+"en": "Isle of Man",
+"slug": "isle-of-man"
+},
+{
+"code": "JE",
+"en": "Jersey",
+"slug": "jersey"
+},
+{
+"code": "LI",
+"en": "Liechtenstein",
+"slug": "liechtenstein"
 }
 ]
 }
