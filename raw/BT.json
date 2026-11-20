@@ -1,0 +1,88 @@
+{
+ "src": "https://bhutan.travel/visa",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Visum online über immi.gov.bt beantragen, die Tourismusgebühr SDF beträgt 100 US-Dollar pro Tag und Erwachsenem.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2021 nicht mehr strafbar, eine offene Szene gibt es kaum, Zurückhaltung in der Öffentlichkeit ist ratsam.",
+ "lgbtq_src": "https://www.humandignitytrust.org/news/kings-assent-leads-himalayan-nation-of-bhutan-to-become-latest-country-to-decriminalise-same-sex-activity/",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "DrukRide",
+   "cat": "taxi",
+   "pkg": "com.drukride.customer",
+   "ess": true,
+   "note": "Taxi und Busfahrkarten buchen, Zahlung per Kreditkarte",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://play.google.com/store/apps/details?id=com.drukride.customer&hl=en_US"
+  },
+  {
+   "name": "Dish8Door",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen aus Restaurants bestellen und liefern lassen",
+   "city": "Thimphu",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://thebhutanese.bt/oie-dish8door-bhutans-food-ordering-mobile-app-doing-well-two-years-into-operations/"
+  },
+  {
+   "name": "MyChharo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst für Essen in Bhutan",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://apps.apple.com/us/app/id1539387866"
+  },
+  {
+   "name": "Zhabtog",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Waren und Dienstleistungen bis an die Haustür",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://businessbhutan.bt/zhabtog-app-provides-goods-and-services-at-doorsteps/"
+  },
+  {
+   "name": "goBoB",
+   "cat": "payment",
+   "pkg": "",
+   "ess": true,
+   "note": "Wallet der Bank of Bhutan, Anmeldung per E-Mail ohne SIM",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bhutanhimalaya.com/news/in-bhutan-a-bank-app-widens-the-door-to-cashless-travel"
+  },
+  {
+   "name": "Drukair",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge der Nationalairline buchen und einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/drukair/id1345535182?uo=4"
+  },
+  {
+   "name": "City Bus Information System",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtbusse in Thimphu mit Fahrplan und Standort",
+   "city": "Thimphu",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bbs.bt/news/?p=145665"
+  }
+ ]
+}

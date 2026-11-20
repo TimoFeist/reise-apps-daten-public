@@ -1,0 +1,99 @@
+{
+ "src": "https://travelydata.com/news/brunei-no-grab-airport-taxi-guide/",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Dart darf am Flughafen nicht abholen, dafür zum Parkplatz P2 gehen oder ein Flughafentaxi bar bezahlen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind auch privat strafbar, nach Scharia-Strafrecht droht unabhängig von der Nationalität sehr harte Strafe.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Brunei e-Arrival Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht, online auf imm.gov.bn, frühestens 72 Std. vorher",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.trip.com/guide/arrival/brunei-arrival-card.html"
+  },
+  {
+   "name": "BruHealth",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Gesundheitserklärung vor der Einreise abgeben",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526"
+  },
+  {
+   "name": "customs.bn",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Mitgebrachten Alkohol beim Zoll anmelden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526"
+  },
+  {
+   "name": "Dart",
+   "cat": "taxi",
+   "pkg": "com.dartbrunei.darttaxi.rider",
+   "ess": true,
+   "note": "Lokaler Fahrdienst, Zahlung bar oder per App-Guthaben",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider&hl=en"
+  },
+  {
+   "name": "TransportBN",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busverbindungen und Fahrzeiten im Land",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/transportbn/id1483564880"
+  },
+  {
+   "name": "GoMamam",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung, Gäste zahlen per Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/gomamam/id1497417124"
+  },
+  {
+   "name": "heydomo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Liefer-App in Brunei",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/bn/app/domo/id1475611783"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit Station in Brunei buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.avis.com/en/locations/bn/brunei-darussalam/i8y"
+  }
+ ]
+}

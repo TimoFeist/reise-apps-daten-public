@@ -1,0 +1,22 @@
+{
+ "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Die Nationalpark-App vor der Reise laden, ihre Karten funktionieren offline auch ohne Netz.",
+ "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
+ "lgbtq_src": "https://www.equaldex.com/region/christmas-island",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Christmas Island National Park",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": true,
+   "note": "Offline-Karten, Wanderwege, Tierwelt und Besucherinfos",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/"
+  }
+ ]
+}

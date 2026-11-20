@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "BT",
-"en": "Bhutan",
-"slug": "bhutan"
-},
-{
-"code": "IO",
-"en": "British Indian Ocean Territory",
-"slug": "british-indian-ocean-territory"
-},
-{
-"code": "BN",
-"en": "Brunei Darussalam",
-"slug": "brunei"
-},
-{
-"code": "CX",
-"en": "Christmas Island",
-"slug": "christmas-island"
-},
-{
 "code": "CC",
 "en": "Cocos (Keeling) Islands",
 "slug": "cocos-keeling-islands"
@@ -267,6 +247,26 @@
 "code": "BD",
 "en": "Bangladesh",
 "slug": "bangladesh"
+},
+{
+"code": "BT",
+"en": "Bhutan",
+"slug": "bhutan"
+},
+{
+"code": "IO",
+"en": "British Indian Ocean Territory",
+"slug": "british-indian-ocean-territory"
+},
+{
+"code": "BN",
+"en": "Brunei Darussalam",
+"slug": "brunei"
+},
+{
+"code": "CX",
+"en": "Christmas Island",
+"slug": "christmas-island"
 }
 ]
 }
