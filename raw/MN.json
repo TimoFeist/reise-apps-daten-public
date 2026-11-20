@@ -1,0 +1,143 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Bis 30 Tage visumfrei mit Reisepass; Taxis nur über offizielle Firmen wie UBCab rufen und Bargeld in Tugrik mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind legal und Diskriminierung ist gesetzlich verboten, die Ehe für alle gibt es aber nicht und Übergriffe kommen vor.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reisehinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842"
+  },
+  {
+   "name": "UBCab",
+   "cat": "taxi",
+   "pkg": "com.mezorn.ubcab.ubcab_passanger_v2",
+   "ess": true,
+   "note": "Wichtigste Taxi-App, vom Auswärtigen Amt empfohlen",
+   "city": "",
+   "use": "no",
+   "req": "Mongolische Telefonnummer nötig, Zahlung nur bar",
+   "src": "https://meanwhileinmongolia.com/how-to-get-a-taxi-ulaanbaatar/"
+  },
+  {
+   "name": "UBCab Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von Restaurants in Ulaanbaatar",
+   "city": "Ulaanbaatar",
+   "use": "limited",
+   "req": "Bestätigungs-SMS vorab testen",
+   "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+  },
+  {
+   "name": "TokTok Delivery",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von Essen und Einkäufen in Ulaanbaatar",
+   "city": "Ulaanbaatar",
+   "use": "limited",
+   "req": "Zahlung über Bank oder E-Payment, ausländische Karte unsicher",
+   "src": "https://apps.apple.com/us/app/id1450600616"
+  },
+  {
+   "name": "Toki",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Superapp für Bezahlen, Taxi, Essen und U-Money-Aufladung",
+   "city": "",
+   "use": "limited",
+   "req": "QR-Zahlungen sind für Ausländer meist nur eingeschränkt nutzbar",
+   "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+  },
+  {
+   "name": "UB Smart Bus",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Buslinien und Ankunftszeiten live, auf Englisch",
+   "city": "Ulaanbaatar",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/ub-smart-bus/id1076088335"
+  },
+  {
+   "name": "U money",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben und Fahrten der Buskarte prüfen",
+   "city": "Ulaanbaatar",
+   "use": "limited",
+   "req": "U-Money-Karte am Kiosk kaufen, im Bus geht auch Visa oder Mastercard",
+   "src": "https://www.jarniascyril.com/expatriation/moving-to-mongolia-as-an-expat-complete-guide/public-transport-mongolia-practical-guide/"
+  },
+  {
+   "name": "MAPS.ME",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline-Karten für Stadt und Steppe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+  },
+  {
+   "name": "TAPA (Tapatrip)",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge, Hotels und Transport buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+  },
+  {
+   "name": "JET",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter ohne feste Stationen mieten",
+   "city": "Ulaanbaatar",
+   "use": "limited",
+   "req": "Telefonnummer und Zahlungsmittel nötig",
+   "src": "https://apps.apple.com/app/jet-%d1%88%d0%b5%d1%80%d0%b8%d0%bd%d0%b3-%d1%81%d0%b0%d0%bc%d0%be%d0%ba%d0%b0%d1%82%d0%be%d0%b2/id1546127285"
+  },
+  {
+   "name": "U-GO",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Bikes in Ulaanbaatar",
+   "city": "Ulaanbaatar",
+   "use": "limited",
+   "req": "Registrierung und Zahlung laut Quelle nicht beschrieben",
+   "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen an zwei Stationen in Ulaanbaatar",
+   "city": "Ulaanbaatar",
+   "use": "limited",
+   "req": "Internationaler und deutscher Führerschein nötig",
+   "src": "https://www.sixt.com/car-rental/mongolia/"
+  }
+ ]
+}

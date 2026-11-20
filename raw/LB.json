@@ -1,0 +1,110 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Teilreisewarnung beachten; Visum bis einen Monat gratis am Flughafen, Reisepass nötig, US-Dollar oder Euro in bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, als homosexuell wahrgenommenes Verhalten kann zur Festnahme führen, große Zurückhaltung ist ratsam.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Lage ändert sich schnell",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Bekannteste Fahrdienst-App, auch ab Flughafen Beirut",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.uber.com/global/en/r/airports/bey/taxi/"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst in Beirut, Preise in Pfund angezeigt",
+   "city": "Beirut",
+   "use": "ok",
+   "req": "",
+   "src": "https://bolt.eu/en-ae/cities/beirut/route/zaitunay-bay-to-abc-dbayeh/"
+  },
+  {
+   "name": "Toters",
+   "cat": "delivery",
+   "pkg": "com.toters.customer",
+   "ess": false,
+   "note": "Größter lokaler Lieferdienst für Essen und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.toters.customer"
+  },
+  {
+   "name": "noknok",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Schnelle Lieferung von Lebensmitteln",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://sensortower.com/blog/2025-q2-ios-top-5-food%20delivery%20services-units-lb-63da96fbe1714cfff1c1e5a1"
+  },
+  {
+   "name": "ACTC PT",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Linien, Haltestellen und Live-Ortung der öffentlichen Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://today.lorientlejour.com/article/1479048/french-donated-buses-finally-have-their-own-mobile-app.html"
+  },
+  {
+   "name": "Ministry of Tourism Lebanon",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App mit Sehenswürdigkeiten und KI-Assistent",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://today.lorientlejour.com/article/1473346/ministry-of-tourism-launches-its-smart-tourism-app.html"
+  },
+  {
+   "name": "Whish Money",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete E-Wallet mit QR-Zahlung und Überweisungen",
+   "city": "",
+   "use": "limited",
+   "req": "Identitätsprüfung mit Pass oder Ausweis nötig, Bargeld bleibt üblich",
+   "src": "https://whish.money/termsconditions"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, vom Telekomministerium teilweise gesperrt",
+   "city": "",
+   "use": "no",
+   "req": "Auf Mobilfunknetzen teils blockiert, Nutzung riskant",
+   "src": "https://www.amnesty.org/en/latest/news/2019/05/lebanon-ban-on-gay-dating-app-grindr-a-blow-for-sexual-rights-and-freedom-2/"
+  }
+ ]
+}

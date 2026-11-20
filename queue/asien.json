@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "KG",
-"en": "Kyrgyzstan",
-"slug": "kyrgyzstan"
-},
-{
-"code": "LB",
-"en": "Lebanon",
-"slug": "lebanon"
-},
-{
-"code": "MO",
-"en": "Macao",
-"slug": "macao"
-},
-{
-"code": "MN",
-"en": "Mongolia",
-"slug": "mongolia"
-},
-{
 "code": "MM",
 "en": "Myanmar",
 "slug": "myanmar"
@@ -267,6 +247,26 @@
 "code": "KZ",
 "en": "Kazakhstan",
 "slug": "kazakhstan"
+},
+{
+"code": "KG",
+"en": "Kyrgyzstan",
+"slug": "kyrgyzstan"
+},
+{
+"code": "LB",
+"en": "Lebanon",
+"slug": "lebanon"
+},
+{
+"code": "MO",
+"en": "Macao",
+"slug": "macao"
+},
+{
+"code": "MN",
+"en": "Mongolia",
+"slug": "mongolia"
 }
 ]
 }

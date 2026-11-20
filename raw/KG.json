@@ -1,0 +1,25 @@
+{
+ "src": "https://www.bento.travel/kyrgyzstan",
+ "fetched": "2026-11-20",
+ "updated": "Last updated: August 2026",
+ "note": "Bis 30 Tage visumfrei; ausländische Karten klappen nicht immer, daher Som als Bargeld mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, aber gesellschaftlich abgelehnt; seit 2023 drohen Geldstrafen für LGBTIQ-Informationen an Minderjährige.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kirgisistansicherheit/206738",
+ "discontinued": [],
+ "apps": [
+  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reisehinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kirgisistansicherheit/206738"},
+  {"name": "Yandex Go", "cat": "taxi", "pkg": "ru.yandex.taxi", "ess": true, "note": "Taxi mit Preisvorschau, auch Essenslieferung", "city": "", "use": "limited", "req": "Ausländische Karte kann scheitern, Bargeld bereithalten", "src": "https://www.bento.travel/kyrgyzstan"},
+  {"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": false, "note": "Preis per Gebot, vor Fahrtantritt festlegen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/kyrgyzstan"},
+  {"name": "Navi Taxi", "cat": "taxi", "pkg": "", "ess": false, "note": "Taxi in Bischkek mit Festpreisen", "city": "Bishkek", "use": "limited", "req": "Anmeldung laut Quelle nicht beschrieben", "src": "https://weproject.media/en/articles/detail/a-guide-to-public-transport-in-bishkek-prices-and-useful-apps/?amp=y"},
+  {"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": false, "note": "Lieferung in Bischkek, Osch, Dschalal-Abad, Karakol", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/kyrgyzstan"},
+  {"name": "2GIS", "cat": "maps", "pkg": "ru.dublgis.dgismobile", "ess": true, "note": "Genaue Stadtkarte mit Eingängen und Buslinien", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/kyrgyzstan"},
+  {"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": true, "note": "Offline-Karte für Straßen und Wanderwege", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/kyrgyzstan"},
+  {"name": "Yandex Maps", "cat": "maps", "pkg": "ru.yandex.yandexmaps", "ess": false, "note": "Alternative mit Verkehrslage und ÖPNV-Routen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/kyrgyzstan"},
+  {"name": "Tulpar", "cat": "transit", "pkg": "", "ess": false, "note": "Offizielle App zur Tulpar-Fahrkarte in Bischkek", "city": "Bishkek", "use": "limited", "req": "Anmeldung per SMS-Code, Busse seit Juli 2026 nur bargeldlos", "src": "https://apps.apple.com/us/app/tulpar/id1500758348"},
+  {"name": "Мой город Бишкек", "cat": "parking", "pkg": "", "ess": false, "note": "Städtische App, Parken zahlen und Busse verfolgen", "city": "Bishkek", "use": "limited", "req": "Zahlungsarten und Anmeldung laut Quelle unklar", "src": "https://economist.kg/transport/2026/06/22/kak-oplatit-parkovku-v-bishkeke-onlain-meriia-zapustila-novuiu-funktsiiu-v-moi-gorod/"},
+  {"name": "SunRent", "cat": "micro", "pkg": "tech.bumerang.sunrent", "ess": false, "note": "E-Scooter per QR-Code entsperren", "city": "Bishkek", "use": "limited", "req": "Ab 18 Jahren, Zahlung in der App nötig", "src": "https://kaktus.media/doc/528000_elektrosamokaty_v_bishkeke._kak_mikromobilnost_delaet_gorod_ydobnee_i_ekologichnee.html"},
+  {"name": "toGO KGZ", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter-Sharing in Kirgisistan", "city": "", "use": "limited", "req": "Telefonnummer und Bankkarte nötig, Karte kann scheitern", "src": "https://apps.apple.com/us/app/togo-kgz/id6449596526"},
+  {"name": "Railway.kg", "cat": "rail", "pkg": "", "ess": false, "note": "Bahntickets der Kyrgyz Temir Zholu kaufen", "city": "", "use": "limited", "req": "Zahlungsarten laut Quelle unklar, Karte vorab testen", "src": "https://apps.apple.com/af/app/railway-kg/id6502640387"},
+  {"name": "MBANK", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitete Banking- und QR-Bezahlapp", "city": "", "use": "no", "req": "Kirgisisches Bankkonto nötig, Eröffnung mit Pass vor Ort", "src": "https://mbank.kg/en/mbank"}
+ ]
+}
