@@ -2,26 +2,6 @@
 "continent": "EU",
 "todo": [
 {
-"code": "BA",
-"en": "Bosnia and Herzegovina",
-"slug": "bosnia-and-herzegovina"
-},
-{
-"code": "MK",
-"en": "North Macedonia",
-"slug": "north-macedonia"
-},
-{
-"code": "UA",
-"en": "Ukraine",
-"slug": "ukraine"
-},
-{
-"code": "MD",
-"en": "Moldova",
-"slug": "moldova"
-},
-{
 "code": "AD",
 "en": "Andorra",
 "slug": "andorra"
@@ -262,6 +242,26 @@
 "code": "AL",
 "en": "Albania",
 "slug": "albania"
+},
+{
+"code": "BA",
+"en": "Bosnia and Herzegovina",
+"slug": "bosnia-and-herzegovina"
+},
+{
+"code": "MK",
+"en": "North Macedonia",
+"slug": "north-macedonia"
+},
+{
+"code": "UA",
+"en": "Ukraine",
+"slug": "ukraine"
+},
+{
+"code": "MD",
+"en": "Moldova",
+"slug": "moldova"
 }
 ]
 }
