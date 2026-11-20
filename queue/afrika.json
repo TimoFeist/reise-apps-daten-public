@@ -1,27 +1,6 @@
 {
  "continent": "AF",
- "todo": [
-  {
-   "code": "UG",
-   "en": "Uganda",
-   "slug": "uganda"
-  },
-  {
-   "code": "EH",
-   "en": "Western Sahara",
-   "slug": "western-sahara"
-  },
-  {
-   "code": "ZM",
-   "en": "Zambia",
-   "slug": "zambia"
-  },
-  {
-   "code": "ZW",
-   "en": "Zimbabwe",
-   "slug": "zimbabwe"
-  }
- ],
+ "todo": [],
  "done": [
   {
    "code": "ZA",
@@ -302,6 +281,26 @@
    "code": "TG",
    "en": "Togo",
    "slug": "togo"
+  },
+  {
+   "code": "UG",
+   "en": "Uganda",
+   "slug": "uganda"
+  },
+  {
+   "code": "EH",
+   "en": "Western Sahara",
+   "slug": "western-sahara"
+  },
+  {
+   "code": "ZM",
+   "en": "Zambia",
+   "slug": "zambia"
+  },
+  {
+   "code": "ZW",
+   "en": "Zimbabwe",
+   "slug": "zimbabwe"
   }
  ]
 }
