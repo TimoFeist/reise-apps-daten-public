@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 13:23",
+ "version": "2026-11-20 13:32",
  "categories": [
   {
    "id": "entry",
@@ -25532,6 +25532,742 @@
    "src": "https://www.bento.travel/ukraine",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, in den russisch besetzten Gebieten hat sich die Lage aber drastisch verschlechtert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ukraine-node/ukrainesicherheit-201946",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "AM",
+   "name": "Armenien",
+   "flag": "🇦🇲",
+   "apps": [
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "pkg": "ru.yandex.taxi",
+     "note": "Fahrdienst mit den meisten Autos, fast überall im Land",
+     "ess": true,
+     "use": "limited",
+     "req": "Ausländische Karten lassen sich oft nicht hinterlegen, Bargeld in kleinen Scheinen mitnehmen; manche ausländische Nummern lassen sich nicht registrieren",
+     "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"
+    },
+    {
+     "name": "GG Taxi",
+     "cat": "taxi",
+     "pkg": "am.ggtaxi.main",
+     "note": "Armenischer Fahrdienst, bei Einheimischen beliebt",
+     "use": "limited",
+     "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; bei Problemen mit der eigenen Nummer ist eine armenische SIM nötig",
+     "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"
+    },
+    {
+     "name": "UVO",
+     "cat": "taxi",
+     "pkg": "taxi.u.client",
+     "note": "Armenischer Fahrdienst mit Lieferservice, früher UTaxi",
+     "use": "limited",
+     "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; eventuell armenische Nummer nötig",
+     "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"
+    },
+    {
+     "name": "Menu.am",
+     "cat": "delivery",
+     "pkg": "am.menu.app",
+     "note": "Essenslieferung und Abholung, auch auf Englisch",
+     "ess": true,
+     "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen, Lebensmittel, Blumen und Apotheke nach Hause",
+     "src": "https://glovoapp.com/ru/am/glovo-delivery"
+    },
+    {
+     "name": "Yandex Eats",
+     "cat": "delivery",
+     "note": "Lieferung von fertigen Gerichten aus Restaurants",
+     "src": "https://onewaytour.com/best-delivery-services-yerevan/"
+    },
+    {
+     "name": "HIKE Armenia",
+     "cat": "tourism",
+     "pkg": "com.hikearmenia",
+     "note": "Wanderwege mit Karten und Schwierigkeitsgrad, Dorfunterkünfte",
+     "src": "https://absolutearmenia.com/?p=2891"
+    },
+    {
+     "name": "Maps.me",
+     "cat": "maps",
+     "pkg": "com.mapswithme.maps.pro",
+     "note": "Offline Karten, vorher im WLAN herunterladen",
+     "src": "https://absolutearmenia.com/?p=2891"
+    },
+    {
+     "name": "Rate.am",
+     "cat": "payment",
+     "pkg": "com.sflpro.rateam",
+     "note": "Aktuelle Wechselkurse der armenischen Banken vergleichen",
+     "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+    },
+    {
+     "name": "Spyur",
+     "cat": "misc",
+     "pkg": "com.vavianlabs.spyur",
+     "note": "Branchenbuch mit Kontakten offline, auch auf Englisch",
+     "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+    },
+    {
+     "name": "AYOlingo",
+     "cat": "misc",
+     "pkg": "org.birthrightarmenia.ayolingo",
+     "note": "Grundlegende armenische Sätze lernen",
+     "src": "https://absolutearmenia.com/?p=2891"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Yerevan",
+     "match": [
+      "Yerevan"
+     ],
+     "apps": [
+      {
+       "name": "Dinebook",
+       "cat": "delivery",
+       "pkg": "com.braind.dinebook",
+       "note": "Restaurants und Cafés finden und Tische reservieren",
+       "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+      },
+      {
+       "name": "Telcell Wallet",
+       "cat": "transit",
+       "note": "Digitale QR Tickets für Bus und Metro in Jerewan",
+       "ess": true,
+       "use": "limited",
+       "req": "Registrierung mit SMS Code an die Telefonnummer, ob ausländische Nummern gehen ist nicht belegt; Tickets mit verknüpfter Bankkarte auch ohne Ausweisprüfung",
+       "src": "https://telcell.am/en/blog/unified-ticket-system"
+      },
+      {
+       "name": "Apple Pay, Google Pay",
+       "cat": "payment",
+       "note": "Seit Juli 2026 an Bus und Metro in Jerewan kontaktlos nutzbar",
+       "use": "limited",
+       "req": "Belegt sind nur Karten armenischer Banken, ob ausländische Karten funktionieren ist offen; Bargeld oder QR Ticket als Reserve",
+       "src": "https://arkatelecom.am/en/news/telecom/payments-for-yerevan-public-transportation-are-now-available-via-apple-pay-and-google-pay/"
+      },
+      {
+       "name": "Yes Parking",
+       "cat": "parking",
+       "note": "Parken bezahlen mit Karte statt SMS, Karte freier Plätze",
+       "use": "limited",
+       "req": "Im April 2026 nur für iOS verfügbar, Android noch im Test; Zahlung per SMS geht nur über Guthaben einer armenischen SIM",
+       "src": "https://arkatelecom.am/en/news/telecom/yes-parking-mobile-app-will-be-launched-in-yerevan-deputy-mayor"
+      },
+      {
+       "name": "Visit Yerevan",
+       "cat": "tourism",
+       "note": "Offizielle Tourismus App der Stadt mit Orten und Aktivitäten",
+       "src": "https://apps.apple.com/sk/app/visit-yerevan/id1599576201"
+      },
+      {
+       "name": "Yerevan Card",
+       "cat": "tourism",
+       "note": "Stadtpass mit Museen, Rabatten und Flughafentaxi",
+       "src": "https://absolutearmenia.com/?p=2891"
+      },
+      {
+       "name": "YerevanRide",
+       "cat": "micro",
+       "pkg": "app.com.velvioo",
+       "note": "Leihräder, E-Bikes und E-Scooter in Jerewan",
+       "use": "limited",
+       "req": "Anmeldung mit Google Konto oder Apple ID, Visa oder Mastercard hinterlegen",
+       "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+      },
+      {
+       "name": "Jet",
+       "cat": "micro",
+       "pkg": "com.jetscooters",
+       "note": "Größter E-Scooter Verleih in Jerewan",
+       "use": "limited",
+       "req": "Bankkarte hinterlegen oder Guthaben aufladen, Mindestalter 18",
+       "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+      },
+      {
+       "name": "Mimo",
+       "cat": "micro",
+       "note": "Leihräder und E-Scooter in Jerewan",
+       "use": "limited",
+       "req": "Visa, Mastercard oder Amex hinterlegen, Aufladung mindestens 5.000 AMD, Registrierung teils fehlerhaft",
+       "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+      },
+      {
+       "name": "Busy Fly",
+       "cat": "micro",
+       "note": "Saisonaler E-Scooter Verleih ab dem Frühjahr",
+       "use": "limited",
+       "req": "Visa oder Mastercard hinterlegen oder Guthaben in der App aufladen",
+       "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+      },
+      {
+       "name": "EcoDrive",
+       "cat": "carshare",
+       "note": "Carsharing nur mit Elektroautos in Jerewan",
+       "use": "no",
+       "req": "Anmeldung nur per SMS, viele ausländische Nummern erhalten sie nicht; Wohnsitznachweis, Mindestalter 21 und 2 Jahre Fahrpraxis nötig",
+       "src": "https://getmancar.com/blogs/eco-drive-carsharing-erevan"
+      },
+      {
+       "name": "Zvartnots Airport",
+       "cat": "flights",
+       "pkg": "com.aero.zvartnots",
+       "note": "Ankünfte und Abflüge am Flughafen Jerewan in Echtzeit",
+       "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen bis zu 180 Tage pro Kalenderjahr ohne Visum ein, nötig ist ein Reisepass, der Personalausweis reicht nicht. Die Landgrenzen zur Türkei und nach Aserbaidschan sind geschlossen.",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872",
+   "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind nicht strafbar, LGBTIQ Personen stehen aber unter starkem gesellschaftlichem Druck und es gibt vereinzelt Übergriffe, Angriffe auf Reisende sind nicht bekannt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "AZ",
+   "name": "Aserbaidschan",
+   "flag": "🇦🇿",
+   "apps": [
+    {
+     "name": "evisa.gov.az",
+     "cat": "entry",
+     "note": "Offizielles Portal für das e-Visum bis 30 Tage, Fake Seiten meiden",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888"
+    },
+    {
+     "name": "Bolt",
+     "cat": "micro",
+     "pkg": "ee.mtakso.client",
+     "note": "E-Scooter über die Bolt App, Minutenpreis oder Pass",
+     "ess": true,
+     "src": "https://bolt.eu/en-az/scooters/",
+     "use": "limited",
+     "req": "Bankkarte in der Bolt App hinterlegen"
+    },
+    {
+     "name": "Uber AZ",
+     "cat": "taxi",
+     "pkg": "com.mlubv.uber.az",
+     "note": "Eigene Uber App für Aserbaidschan, die normale Uber App geht nicht",
+     "ess": true,
+     "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrdienst mit guter Navigation, meist etwas teurer",
+     "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Supermarkt mit Live Verfolgung, in Baku sehr beliebt",
+     "ess": true,
+     "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Essen und Einkäufe, Zahlung online oder bar",
+     "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"
+    },
+    {
+     "name": "Araz Market Online",
+     "cat": "delivery",
+     "pkg": "com.araz",
+     "note": "Online Supermarkt der Kette Araz mit Lieferung",
+     "use": "limited",
+     "req": "Lieferadresse nötig, Registrierung mit ausländischer Nummer nicht belegt",
+     "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"
+    },
+    {
+     "name": "ADY Mobile",
+     "cat": "rail",
+     "pkg": "com.ady",
+     "note": "Zugtickets der Staatsbahn für Inland und Vorortstrecken",
+     "ess": true,
+     "use": "limited",
+     "req": "Zahlung per Bankkarte, Annahme ausländischer Karten nicht belegt; Zug nach Tiflis nur für visumfreie Staatsangehörige",
+     "src": "https://ticket.ady.az/en/i-have-a-question/ady-mobile-en"
+    },
+    {
+     "name": "Biletim",
+     "cat": "rail",
+     "note": "Staatliches Portal für Fernbustickets von Baku in die Regionen",
+     "use": "limited",
+     "req": "Registrierung auf biletim.az vor dem Kauf nötig",
+     "src": "https://mincom.gov.az/en/projects/biletimaz-portal"
+    },
+    {
+     "name": "Waze",
+     "cat": "maps",
+     "note": "Beliebteste Navi App, warnt vor Blitzern und Polizeiposten",
+     "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"
+    },
+    {
+     "name": "112 AZ",
+     "cat": "safety",
+     "note": "Notruf App des Katastrophenschutzministeriums",
+     "use": "limited",
+     "req": "Telefonnummer und Standort werden verlangt, Registrierung für Ausländer nicht belegt",
+     "src": "https://apps.apple.com/dk/app/112-az/id6737355694"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "note": "Polizei legt laut Berichten Fake Profile zur Erpressung an",
+     "use": "no",
+     "req": "Von Nutzung wird abgeraten, Polizei nutzt die App zur Verfolgung und Erpressung",
+     "src": "https://theworld.org/segments/2025/02/13/in-azerbaijan-police-use-lgbtq-dating-apps-to-extort-money"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Baku",
+     "match": [
+      "Baku"
+     ],
+     "apps": [
+      {
+       "name": "BakıKart",
+       "cat": "transit",
+       "note": "Offizielle App für Bus und Metro, Routen, Live Busse, QR Tickets",
+       "ess": true,
+       "use": "limited",
+       "req": "Konto mit Handynummer und Passwort, ob ausländische Nummern gehen, ist nicht belegt; physische BakıKart als Reserve",
+       "src": "https://mincom.gov.az/en/media-en/news/new-mobile-app-for-cashless-payments-on-buses-launched1853"
+      },
+      {
+       "name": "AYNA MaaS",
+       "cat": "transit",
+       "note": "Staatlicher Routenplaner für Bus, Metro, Bahn, Scooter und Rad",
+       "use": "limited",
+       "req": "Registrierung mit Handynummer und SMS Code nötig",
+       "src": "https://tech.az/en/posts/ayna-maas-mobility-app-launched-6262"
+      },
+      {
+       "name": "BeFree",
+       "cat": "carshare",
+       "note": "Carsharing per App, Abrechnung pro Minute oder Tag",
+       "use": "limited",
+       "req": "Führerschein und Bankkarte nötig, genaue Bedingungen für Ausländer nicht genannt",
+       "src": "https://apps.apple.com/us/app/befree-carsharing-in-baku/id6748035214"
+      },
+      {
+       "name": "Rentbutik",
+       "cat": "carshare",
+       "note": "Elektroautos von BYD pro Minute, Stunde oder Monat mieten",
+       "use": "limited",
+       "req": "Führerschein nötig, Bedingungen für Ausländer in der Quelle nicht genannt",
+       "src": "https://1news.az/en/news/20260331122024478-Car-sharing-with-electric-vehicles-is-coming-to-Baku-a-new-service-from-Rentbutik"
+      },
+      {
+       "name": "JET (in Yango)",
+       "cat": "micro",
+       "pkg": "com.yandex.yango",
+       "note": "Über 2000 JET Scooter direkt in der Yango App ausleihen",
+       "use": "limited",
+       "req": "Bargeldlose Zahlung über Yango, Karte hinterlegen",
+       "src": "https://yango.com/career/en_int/news/jet-scooter-rentals-are-now-available-in-yango-app-in-baku"
+      },
+      {
+       "name": "AzParking",
+       "cat": "parking",
+       "note": "App zum Bezahlen von Straßenparkplätzen",
+       "use": "no",
+       "req": "Lokale Telefonnummer nötig, sonst Parkhäuser mit Schranke und Kartenzahlung nutzen",
+       "src": "https://www.localrent.com/en/journal/azerbaijan/articles/parking-azerbaijan"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum, für bis zu 30 Tage online über das offizielle Portal evisa.gov.az, nur mit Reisepass. Einreise derzeit nur per Flug, Landgrenzen sind für den regulären Personenverkehr zu. Ab 15 Tagen Aufenthalt Registrierung beim Migrationsdienst, meist über das Hotel.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888",
+   "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gesellschaftlich aber stark tabuisiert; die Polizei nutzt nach Berichten gefälschte Profile auf Dating Apps zur Erpressung und nahm im Dezember 2025 bei einer Razzia in einem queerfreundlichen Lokal in Baku über 100 Menschen fest.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "CY",
+   "name": "Zypern",
+   "flag": "🇨🇾",
+   "apps": [
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst in Nikosia, Limassol, Larnaka und Paphos",
+     "ess": true,
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+    },
+    {
+     "name": "Alfa Taxi",
+     "cat": "taxi",
+     "pkg": "com.alfataxi.client",
+     "note": "Taxi per App in den vier großen Städten, Karte oder bar",
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+    },
+    {
+     "name": "CabCY",
+     "cat": "taxi",
+     "note": "Taxi bestellen in Limassol, Nikosia und Larnaka",
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+    },
+    {
+     "name": "Viva Cy",
+     "cat": "taxi",
+     "pkg": "vivacy.taxi",
+     "note": "Lokaler Taxidienst mit Büro in Limassol",
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "note": "Fahrdienst, bei dem man den Preis vorschlägt",
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+    },
+    {
+     "name": "Taxi One",
+     "cat": "taxi",
+     "note": "Taxi App, laut Quelle nur für iPhone",
+     "use": "limited",
+     "req": "Nur für iPhone verfügbar",
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+    },
+    {
+     "name": "VIPS Taxi",
+     "cat": "taxi",
+     "note": "Verbreitet in Limassol und Larnaka, nur für iPhone",
+     "use": "limited",
+     "req": "Nur für iPhone verfügbar",
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "note": "Essen und Wolt Market in den vier großen Städten",
+     "ess": true,
+     "src": "https://dom.com.cy/en/live/blogs/top-food-delivery-apps-in-cyprus/"
+    },
+    {
+     "name": "Foody",
+     "cat": "delivery",
+     "note": "Lokaler Lieferdienst, stark bei Tavernen und Bäckereien",
+     "src": "https://dom.com.cy/en/live/blogs/top-food-delivery-apps-in-cyprus/"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "note": "Essenslieferung mit häufigen Rabattcodes",
+     "src": "https://dom.com.cy/en/live/blogs/top-food-delivery-apps-in-cyprus/"
+    },
+    {
+     "name": "Pame App",
+     "cat": "transit",
+     "pkg": "app.meep.cyprus.pame",
+     "note": "Busse in Nikosia und Larnaka live, Motion Karte aufladen",
+     "ess": true,
+     "src": "https://publictransport.com.cy/cms/page/mobile-app-information"
+    },
+    {
+     "name": "Cyprus Bus",
+     "cat": "transit",
+     "note": "Offizielle App des Verkehrsministeriums mit Fahrplänen",
+     "src": "https://intercity-buses.com/en/motion-app/"
+    },
+    {
+     "name": "RideNow",
+     "cat": "carshare",
+     "note": "Einziges Carsharing der Insel, auch an beiden Flughäfen",
+     "use": "limited",
+     "req": "Führerschein, Ausweis und Bankkarte, ab 18 Jahren, Freigabe dauert bis zu 24 Stunden, unter 21 eventuell 100 Euro Kaution",
+     "src": "https://getmancar.com/blogs/carsharing-in-cyprus-ridenow"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "note": "Leihräder in Nikosia, Limassol, Larnaka und mehr",
+     "src": "https://cyprus.nextbike.com.cy/about"
+    },
+    {
+     "name": "Take A Ride",
+     "cat": "micro",
+     "pkg": "com.hemed.takeride",
+     "note": "E-Scooter zum Ausleihen innerhalb einer Zone",
+     "use": "limited",
+     "req": "Mindestalter 17, Helm ist Pflicht",
+     "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+    },
+    {
+     "name": "Samokat",
+     "cat": "micro",
+     "note": "E-Scooter mit festen Stationen in Limassol und Nikosia",
+     "use": "limited",
+     "req": "Mindestalter 17, Helm ist Pflicht",
+     "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+    },
+    {
+     "name": "E-run Cyprus",
+     "cat": "micro",
+     "note": "E-Scooter tageweise mit Lieferung, ähnlich Mietwagen",
+     "use": "limited",
+     "req": "Mindestalter 17, Helm ist Pflicht",
+     "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+    },
+    {
+     "name": "SafeCY",
+     "cat": "safety",
+     "note": "Staatliche App mit Schutzräumen und Warnungen des Zivilschutzes",
+     "ess": true,
+     "src": "https://cyprus-mail.com/2026/03/11/safecy-app-upgraded-to-send-urgent-alerts-170000-downloads-so-far"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Larnaca",
+     "match": [
+      "Larnaca"
+     ],
+     "apps": [
+      {
+       "name": "Pick'n Click",
+       "cat": "micro",
+       "note": "Scooter und Fahrräder tageweise mieten",
+       "use": "limited",
+       "req": "Mindestalter 17 für E-Scooter, Helm ist Pflicht",
+       "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+      }
+     ]
+    },
+    {
+     "name": "Limassol",
+     "match": [
+      "Limassol"
+     ],
+     "apps": [
+      {
+       "name": "ScooBee",
+       "cat": "micro",
+       "pkg": "com.myscoobee",
+       "note": "E-Scooter Verleih nur in Limassol",
+       "use": "limited",
+       "req": "Mindestalter 17, Helm ist Pflicht",
+       "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+      }
+     ]
+    },
+    {
+     "name": "Paphos",
+     "match": [
+      "Paphos"
+     ],
+     "apps": [
+      {
+       "name": "Pafos Smart Parking",
+       "cat": "parking",
+       "note": "Freie Parkplätze in Echtzeit, Bezahlen und Monatskarten",
+       "use": "limited",
+       "req": "Bezahlen per SMS nur mit Vertrag bei Cyta, Epic oder Primetel",
+       "src": "https://cyprus-mail.com/2022/07/01/paphos-gets-smarter-with-launch-of-parking-app"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen mit Reisepass oder Personalausweis ein. Zypern gehört nicht zum Schengen-Raum, daher wird an der Grenze kontrolliert. Die Einreise über Häfen und Flughäfen im Norden gilt in der Republik als illegale Einreise.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/zypern-node/zypernsicherheit-210258",
+   "lgbtq_note": "Homosexuelle Handlungen sind auf der ganzen Insel nicht strafbar, die gesellschaftliche Akzeptanz offen gelebter Homosexualität ist aber gering.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zypern-node/zypernsicherheit-210258",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "KH",
+   "name": "Kambodscha",
+   "flag": "🇰🇭",
+   "apps": [
+    {
+     "name": "Cambodia e-Arrival",
+     "cat": "entry",
+     "pkg": "cambodiaarrivalform.immigration.gov.kh",
+     "note": "Kostenlose Einreiseerklärung, ersetzt die Papierkarte",
+     "ess": true,
+     "src": "https://www.bento.travel/cambodia"
+    },
+    {
+     "name": "Cambodia eVisa",
+     "cat": "entry",
+     "note": "Offizielle Website für das E-Visum, mindestens zwei Wochen vorher beantragen",
+     "ess": true,
+     "src": "https://www.bento.travel/cambodia"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Autos und Tuk-Tuks mit Festpreis, auch Essenslieferung",
+     "ess": true,
+     "src": "https://www.bento.travel/cambodia/ride-hailing"
+    },
+    {
+     "name": "PassApp",
+     "cat": "taxi",
+     "pkg": "kh.com.passapp.passenger",
+     "note": "Lokaler Fahrdienst für Tuk-Tuks, Rikschas und Autos",
+     "ess": true,
+     "use": "limited",
+     "req": "Aktive Mobilnummer nötig, SMS Codes an ausländische Nummern kommen teils nicht an, Bargeld in Riel bereithalten",
+     "src": "https://www.bento.travel/cambodia/ride-hailing"
+    },
+    {
+     "name": "WowNow",
+     "cat": "taxi",
+     "note": "Weitere App für Fahrten, vom Flughafen Techo empfohlen",
+     "src": "https://www.techoairport.com.kh/transportation/car-rental-taxi"
+    },
+    {
+     "name": "Foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Essen und Einkäufe in Phnom Penh und Touristenorten",
+     "ess": true,
+     "src": "https://www.bento.travel/cambodia/food-delivery"
+    },
+    {
+     "name": "Bakong Tourists",
+     "cat": "payment",
+     "pkg": "kh.gov.nbc.bakong.tourist",
+     "note": "Wallet der Nationalbank zum Zahlen per KHQR Code",
+     "use": "limited",
+     "req": "Identitätsprüfung und Guthaben nötig, Aufladen per Visa oder Mastercard klappt nicht immer, Restguthaben evtl. nicht erstattbar",
+     "src": "https://www.bento.travel/blog/how-to-pay-in-cambodia"
+    },
+    {
+     "name": "ABA Mobile",
+     "cat": "payment",
+     "note": "Banking App der größten kambodschanischen Bank",
+     "use": "no",
+     "req": "Kontoeröffnung in der App nur für kambodschanische Staatsangehörige, sonst Konto bei ABA nötig",
+     "src": "https://www.ababank.com/instant-account/"
+    },
+    {
+     "name": "Telegram",
+     "cat": "misc",
+     "pkg": "org.telegram.messenger",
+     "note": "Viele Läden, Gruppen und Ämter kommunizieren hierüber",
+     "src": "https://www.bento.travel/cambodia"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline Karte als Reserve bei schwachem Netz",
+     "src": "https://www.bento.travel/cambodia/navigation"
+    },
+    {
+     "name": "BookMeBus",
+     "cat": "rail",
+     "pkg": "com.bookmebus.bookmebus",
+     "note": "Busse, Minivans und Fähren vergleichen und buchen",
+     "ess": true,
+     "src": "https://www.bento.travel/cambodia"
+    },
+    {
+     "name": "redBus",
+     "cat": "rail",
+     "pkg": "in.redbus.android",
+     "note": "Zweite Buchungsplattform für Bus und Fähre, Kartenzahlung",
+     "src": "https://www.bento.travel/cambodia"
+    },
+    {
+     "name": "Cambodia Tourist Police",
+     "cat": "safety",
+     "note": "Website der Touristenpolizei mit Notrufnummern und Kontakten",
+     "src": "https://www.bento.travel/cambodia"
+    },
+    {
+     "name": "CamPark",
+     "cat": "parking",
+     "note": "Staatliche App zeigt freie Parkplätze in Echtzeit",
+     "src": "https://apps.apple.com/app/id6756403958"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Phnom Penh",
+     "match": [
+      "Phnom Penh"
+     ],
+     "apps": [
+      {
+       "name": "City Bus Official App",
+       "cat": "transit",
+       "pkg": "kh.gov.ppcba.citybus",
+       "note": "Offizielle Stadtbus App mit Linien, Haltestellen und Live Ortung",
+       "src": "https://www.bento.travel/cambodia"
+      },
+      {
+       "name": "Techo Airport",
+       "cat": "misc",
+       "pkg": "kh.com.techoairport",
+       "note": "Offizielle App des neuen Flughafens von Phnom Penh",
+       "src": "https://www.techoairport.com.kh/transportation/car-rental-taxi"
+      }
+     ]
+    },
+    {
+     "name": "Siem Reap",
+     "match": [
+      "Siem Reap"
+     ],
+     "apps": [
+      {
+       "name": "Angkor-Pass",
+       "cat": "tourism",
+       "pkg": "com.angkor_pass.app",
+       "note": "Offizielle Eintrittskarten für den Archäologiepark Angkor",
+       "src": "https://www.bento.travel/cambodia"
+      },
+      {
+       "name": "Visit Angkor",
+       "cat": "tourism",
+       "note": "App der APSARA Behörde mit Tempelkarten, Routen und Verhaltensregeln",
+       "src": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/10/visit-angkor-app-launched-as-just-one-third-of-international-tourists-visit-temples"
+      }
+     ]
+    },
+    {
+     "name": "Sihanoukville",
+     "match": [
+      "Sihanoukville"
+     ],
+     "apps": [
+      {
+       "name": "Visit Sihanoukville",
+       "cat": "tourism",
+       "note": "Reiseführer und News des Tourismusamts der Provinz",
+       "src": "https://apps.apple.com/us/app/id6751818603"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum, entweder vorab als E-Visum über evisa.gov.kh oder gegen Gebühr bei Ankunft. Der Reisepass muss noch sechs Monate gültig sein, der Personalausweis reicht nicht. Bei Ankunft per Flug ist die kostenlose e-Arrival Erklärung bis sieben Tage vorher Pflicht. Alle Landgrenzen zu Thailand sind derzeit geschlossen.",
+   "src": "https://www.bento.travel/cambodia",
+   "lgbtq_note": "Homosexuelle Handlungen sind weder verboten noch strafbar, die Akzeptanz wächst besonders in Phnom Penh und bei Jüngeren, bleibt aber oft verdeckt.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kambodschasicherheit-220008",
    "checked": "2026-11-20"
   }
  ]
