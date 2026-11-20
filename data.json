@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 14:23",
+ "version": "2026-11-20 14:38",
  "categories": [
   {
    "id": "entry",
@@ -27508,6 +27508,376 @@
    "src": "https://www.bento.travel/nepal",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, in der eher konservativen Öffentlichkeit wird aber Zurückhaltung empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nepal-node/nepalsicherheit-221216",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "EH",
+   "name": "Westsahara",
+   "flag": "🇪🇭",
+   "apps": [
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen und Einkäufe liefern lassen in Laayoune und Dakhla",
+     "ess": true,
+     "src": "https://glovoapp.com/en/ma/laayoune"
+    },
+    {
+     "name": "Omio",
+     "cat": "rail",
+     "note": "Fernbusse von CTM zwischen Laayoune und Dakhla",
+     "use": "limited",
+     "req": "Buchbarkeit der Strecke in der App vorab prüfen",
+     "src": "https://www.omio.co.uk/coaches/laayoune/dakhla-bzvu1"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/marokko-node/marokkosicherheit-224080"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "pkg": "com.grindrapp.android",
+     "note": "Dating App, Nutzung wegen Strafbarkeit riskant",
+     "use": "no",
+     "req": "Gleichgeschlechtliche Handlungen strafbar, Nutzung nicht empfohlen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/marokko-node/marokkosicherheit-224080"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Dakhla",
+     "match": [
+      "Dakhla"
+     ],
+     "apps": [
+      {
+       "name": "DiscoverCars",
+       "cat": "carshare",
+       "note": "Mietwagenangebote in Dakhla vergleichen und buchen",
+       "use": "limited",
+       "req": "Führerschein nötig, Mietbedingungen je Vermieter prüfen",
+       "src": "https://www.discovercars.com/morocco/dakhla"
+      }
+     ]
+    }
+   ],
+   "note": "Laut Auswärtigem Amt wird von Reisen dringend abgeraten; nur die Hauptstrecke Laayoune, Dakhla, mauretanische Grenze nutzen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/marokko-node/marokkosicherheit-224080",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nach marokkanischem Recht strafbar, auch Ausländer können verfolgt werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/marokko-node/marokkosicherheit-224080",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "UG",
+   "name": "Uganda",
+   "flag": "🇺🇬",
+   "apps": [
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst in Kampala, auch ab Flughafen Entebbe",
+     "ess": true,
+     "src": "https://bolt.eu/en-hu/cities/kampala/"
+    },
+    {
+     "name": "SafeBoda",
+     "cat": "taxi",
+     "pkg": "com.safeboda.passenger",
+     "note": "Motorradtaxi und SafeCar, Bodas in der City begrenzt",
+     "ess": true,
+     "use": "limited",
+     "req": "Bezahlung über App-Guthaben, Aufladen per Karte oder Mobile Money",
+     "src": "https://play.google.com/store/apps/details?id=com.safeboda.passenger"
+    },
+    {
+     "name": "Faras",
+     "cat": "taxi",
+     "pkg": "com.faras.rider",
+     "note": "Weiterer Fahrdienst als Uber-Ersatz",
+     "src": "https://www.pulse.ug/story/uber-quits-uganda-after-10-years-2026090214403568949"
+    },
+    {
+     "name": "Little",
+     "cat": "taxi",
+     "note": "Neuer Mobilitätsdienst aus Kenia",
+     "src": "https://www.monitor.co.ug/uganda/news/national/uber-exit-opens-new-chapter-for-uganda-s-ride-hailing-market-5585420"
+    },
+    {
+     "name": "MyMTN (MoMo)",
+     "cat": "payment",
+     "pkg": "com.mtn1app",
+     "note": "MTN Guthaben, Datenpakete und Mobile Money",
+     "use": "limited",
+     "req": "MTN-Touristen-SIM mit Pass und Visum im Shop, MoMo extra registrieren",
+     "src": "https://www.mtn.co.ug/personal/tourist-sim-registration/"
+    },
+    {
+     "name": "Explore Uganda",
+     "cat": "tourism",
+     "pkg": "com.utb.explore_uganda",
+     "note": "Offizieller Reiseführer des Uganda Tourism Board",
+     "src": "https://play.google.com/store/apps/details?id=com.utb.explore_uganda"
+    },
+    {
+     "name": "Uganda Airlines",
+     "cat": "flights",
+     "pkg": "com.ugandaairlines.ur.reservations",
+     "note": "Buchung und Check-in der Nationalairline",
+     "src": "https://play.google.com/store/apps/details?id=com.ugandaairlines.ur.reservations&hl=en"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "pkg": "com.grindrapp.android",
+     "note": "Dating-App, in Uganda riskant",
+     "use": "no",
+     "req": "Nicht empfohlen, gleichgeschlechtliche Handlungen sind hart strafbar",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kampala",
+     "match": [
+      "Kampala"
+     ],
+     "apps": [
+      {
+       "name": "Glovo",
+       "cat": "delivery",
+       "pkg": "com.glovo",
+       "note": "Essen, Supermarkt und Apotheke per Lieferung",
+       "ess": true,
+       "src": "https://www.independent.co.ug/beyond-food-what-ugandans-are-really-ordering-on-glovo"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche brauchen ein Visum, nur online über visas.immigration.go.ug beantragen (50 USD); Uber hat Uganda im September 2026 verlassen.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, das Gesetz von 2023 sieht in schweren Fällen sogar die Todesstrafe vor.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "ZM",
+   "name": "Sambia",
+   "flag": "🇿🇲",
+   "apps": [
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Meistgenutzter Fahrdienst, auch Essenslieferung",
+     "ess": true,
+     "src": "https://yango.com/en_zm/city/lusaka/"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Fahrdienst in Lusaka, Ndola und Kitwe, Barzahlung",
+     "ess": true,
+     "src": "https://www.techtrends.co.zm/?p=93439"
+    },
+    {
+     "name": "GO (ehemals Ulendo)",
+     "cat": "taxi",
+     "note": "Lokaler Fahrdienst in Lusaka, Kitwe und Ndola",
+     "use": "limited",
+     "req": "Anmeldung per Telefonnummer, Zahlung laut Store per Mobile Money",
+     "src": "https://apps.apple.com/zm/app/id1205909659?l=en-gb"
+    },
+    {
+     "name": "MTN MoMo",
+     "cat": "payment",
+     "pkg": "com.consumerug",
+     "note": "Mobile Money von MTN für Zahlungen und Überweisungen",
+     "use": "limited",
+     "req": "MTN-SIM mit Reisepass und gültigem Visum registrieren, MoMo im Shop aktivieren",
+     "src": "https://www.mtn.zm/momo/"
+    },
+    {
+     "name": "My Airtel (Airtel Money)",
+     "cat": "payment",
+     "pkg": "com.airtel.africa.selfcare",
+     "note": "Airtel-Konto und Airtel Money verwalten",
+     "use": "limited",
+     "req": "Sambische Airtel-SIM und registriertes Airtel-Money-Konto nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.airtel.africa.selfcare&hl=en_ZA"
+    },
+    {
+     "name": "Zamtel Money Customer",
+     "cat": "payment",
+     "note": "Mobile Money des staatlichen Anbieters Zamtel",
+     "use": "no",
+     "req": "Zamtel-SIM und lokales Mobile-Money-Konto nötig",
+     "src": "https://apps.apple.com/us/app/-/id6670601906"
+    },
+    {
+     "name": "DiscoverCars",
+     "cat": "carshare",
+     "note": "Mietwagen an Flughäfen Lusaka, Ndola, Livingstone",
+     "use": "limited",
+     "req": "Bedingungen je Vermieter prüfen (Alter, Karte, Führerschein)",
+     "src": "https://www.discovercars.com/zambia"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "pkg": "com.grindrapp.android",
+     "note": "Dating-App, in Sambia riskant",
+     "use": "no",
+     "req": "Homosexuelle Handlungen mit langer Haft bedroht, Nutzung riskant",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Lusaka",
+     "match": [
+      "Lusaka"
+     ],
+     "apps": [
+      {
+       "name": "inDrive",
+       "cat": "taxi",
+       "pkg": "sinet.startup.inDriver",
+       "note": "Fahrpreis mit dem Fahrer selbst aushandeln",
+       "src": "https://innovation-village.com/indrive-launches-in-lusaka-challenging-bolt-and-yango-with-new-ride-hailing-option"
+      },
+      {
+       "name": "Kwik Rides",
+       "cat": "taxi",
+       "note": "Lokaler Taxi-Fahrdienst in Lusaka",
+       "use": "limited",
+       "req": "SMS-Bestätigung der Telefonnummer nötig, ausländische Nummer ungeprüft",
+       "src": "https://apps.apple.com/us/app/id6670430513"
+      },
+      {
+       "name": "Foodify Zambia",
+       "cat": "delivery",
+       "note": "Essen aus Restaurants, Zahlung bar oder per Karte",
+       "src": "https://apps.apple.com/us/app/foodify-zambia/id1634826134"
+      }
+     ]
+    }
+   ],
+   "note": "Deutsche reisen visumfrei ein (30 Tage Stempel); für Abstecher nach Simbabwe lohnt das KAZA-Visum für 50 USD.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar (15 Jahre bis lebenslang Haft), die Gesellschaft reagiert oft offen feindselig.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "ZW",
+   "name": "Simbabwe",
+   "flag": "🇿🇼",
+   "apps": [
+    {
+     "name": "Zimbabwe eVisa",
+     "cat": "entry",
+     "note": "Offizielles Visumportal im Web, auch KAZA Univisa",
+     "ess": true,
+     "src": "https://www.evisa.gov.zw/faq.html"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrten mit Preisvorschlag, vier Städte inkl. Harare",
+     "ess": true,
+     "src": "https://allafrica.com/stories/202410030263.html"
+    },
+    {
+     "name": "Fresh in a Box",
+     "cat": "delivery",
+     "note": "Lieferung von Lebensmitteln, in Harare binnen 2 Stunden",
+     "use": "limited",
+     "req": "Zahlungsarten vorab prüfen",
+     "src": "https://apps.apple.com/mr/app/fresh-in-a-box/id6636522062"
+    },
+    {
+     "name": "EcoCash",
+     "cat": "payment",
+     "note": "Verbreitetes Mobile Money von Econet",
+     "use": "limited",
+     "req": "Econet-SIM nötig, Registrierung mit Originalpass im Shop",
+     "src": "https://ecocash.co.zw/?p=2416"
+    },
+    {
+     "name": "InnBucks",
+     "cat": "payment",
+     "note": "Mobile-Money-Wallet für Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Simbabwische SIM nötig, Anmeldung per USSD *569#",
+     "src": "https://pindula.co.zw/Innbucks"
+    },
+    {
+     "name": "fastjet",
+     "cat": "flights",
+     "pkg": "com.fastjet.reservations",
+     "note": "Buchung und Verwaltung von fastjet-Flügen",
+     "src": "https://appgoblin.info/apps/com.fastjet.reservations/keywords/discovery"
+    },
+    {
+     "name": "Discover Cars",
+     "cat": "carshare",
+     "note": "Mietwagenvergleich für Harare, Bulawayo, Victoria Falls",
+     "use": "limited",
+     "req": "Führerschein und Kaution beim Vermieter nötig",
+     "src": "https://www.discovercars.com/zimbabwe"
+    },
+    {
+     "name": "Grindr",
+     "cat": "lgbtq",
+     "pkg": "com.grindrapp.android",
+     "note": "Dating-App, im Land riskant",
+     "use": "no",
+     "req": "Gleichgeschlechtliche Handlungen zwischen Männern sind strafbar",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Harare",
+     "match": [
+      "Harare"
+     ],
+     "apps": [
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "pkg": "ee.mtakso.client",
+       "note": "Fahrdienst in Harare",
+       "src": "https://bolt.eu/en-cz/cities/harare/"
+      },
+      {
+       "name": "Vaya Africa",
+       "cat": "taxi",
+       "note": "Fahrdienst von Econet, Zahlung bar oder per Karte",
+       "src": "https://apps.apple.com/mu/app/vaya-africa/id1421754998"
+      },
+      {
+       "name": "Park Assist",
+       "cat": "parking",
+       "note": "Parkgebühren in den Selbstzahlerzonen der City zahlen",
+       "use": "limited",
+       "req": "Zahlungsarten laut Quelle unklar, vorab prüfen",
+       "src": "https://www.heraldonline.co.zw/city-parking-launches-self-service-zones-in-harare-cbd/"
+      }
+     ]
+    }
+   ],
+   "note": "Genug Bargeld in US-Dollar mitnehmen, Karten werden selten akzeptiert; Visum vorab auf evisa.gov.zw oder bei Ankunft.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
+   "lgbtq_note": "Homosexuelle Handlungen sind strafbar (Geldstrafe oder bis zu einem Jahr Haft), die Regierung verurteilt sie öffentlich.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
    "checked": "2026-11-20"
   }
  ]
