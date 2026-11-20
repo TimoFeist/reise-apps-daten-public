@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 15:18",
+ "version": "2026-11-20 18:22",
  "categories": [
   {
    "id": "entry",
@@ -28176,6 +28176,165 @@
    "src": "https://liemobil.li/en/passes-tickets/",
    "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTIQ Reisende.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtensteinsicherheit-222960",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "BN",
+   "name": "Brunei Darussalam",
+   "flag": "🇧🇳",
+   "apps": [
+    {
+     "name": "Brunei e-Arrival Card",
+     "cat": "entry",
+     "note": "Pflicht, online auf imm.gov.bn, frühestens 72 Std. vorher",
+     "ess": true,
+     "src": "https://www.trip.com/guide/arrival/brunei-arrival-card.html"
+    },
+    {
+     "name": "BruHealth",
+     "cat": "entry",
+     "note": "Gesundheitserklärung vor der Einreise abgeben",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526"
+    },
+    {
+     "name": "customs.bn",
+     "cat": "entry",
+     "note": "Mitgebrachten Alkohol beim Zoll anmelden",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526"
+    },
+    {
+     "name": "Dart",
+     "cat": "taxi",
+     "pkg": "com.dartbrunei.darttaxi.rider",
+     "note": "Lokaler Fahrdienst, Zahlung bar oder per App-Guthaben",
+     "ess": true,
+     "src": "https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider&hl=en"
+    },
+    {
+     "name": "TransportBN",
+     "cat": "transit",
+     "note": "Busverbindungen und Fahrzeiten im Land",
+     "src": "https://apps.apple.com/us/app/transportbn/id1483564880"
+    },
+    {
+     "name": "GoMamam",
+     "cat": "delivery",
+     "note": "Essenslieferung, Gäste zahlen per Karte",
+     "src": "https://apps.apple.com/us/app/gomamam/id1497417124"
+    },
+    {
+     "name": "heydomo",
+     "cat": "delivery",
+     "note": "Lokale Liefer-App in Brunei",
+     "src": "https://apps.apple.com/bn/app/domo/id1475611783"
+    },
+    {
+     "name": "Avis",
+     "cat": "carshare",
+     "note": "Mietwagen mit Station in Brunei buchen",
+     "src": "https://www.avis.com/en/locations/bn/brunei-darussalam/i8y"
+    }
+   ],
+   "cities": [],
+   "note": "Dart darf am Flughafen nicht abholen, dafür zum Parkplatz P2 gehen oder ein Flughafentaxi bar bezahlen.",
+   "src": "https://travelydata.com/news/brunei-no-grab-airport-taxi-guide/",
+   "lgbtq_note": "Homosexuelle Handlungen sind auch privat strafbar, nach Scharia-Strafrecht droht unabhängig von der Nationalität sehr harte Strafe.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "BT",
+   "name": "Bhutan",
+   "flag": "🇧🇹",
+   "apps": [
+    {
+     "name": "DrukRide",
+     "cat": "taxi",
+     "pkg": "com.drukride.customer",
+     "note": "Taxi und Busfahrkarten buchen, Zahlung per Kreditkarte",
+     "ess": true,
+     "use": "limited",
+     "req": "Anmeldung laut Quelle nicht beschrieben",
+     "src": "https://play.google.com/store/apps/details?id=com.drukride.customer&hl=en_US"
+    },
+    {
+     "name": "MyChharo",
+     "cat": "delivery",
+     "note": "Lieferdienst für Essen in Bhutan",
+     "use": "limited",
+     "req": "Anmeldung laut Quelle nicht beschrieben",
+     "src": "https://apps.apple.com/us/app/id1539387866"
+    },
+    {
+     "name": "Zhabtog",
+     "cat": "delivery",
+     "note": "Waren und Dienstleistungen bis an die Haustür",
+     "use": "limited",
+     "req": "Anmeldung laut Quelle nicht beschrieben",
+     "src": "https://businessbhutan.bt/zhabtog-app-provides-goods-and-services-at-doorsteps/"
+    },
+    {
+     "name": "goBoB",
+     "cat": "payment",
+     "note": "Wallet der Bank of Bhutan, Anmeldung per E-Mail ohne SIM",
+     "ess": true,
+     "src": "https://www.bhutanhimalaya.com/news/in-bhutan-a-bank-app-widens-the-door-to-cashless-travel"
+    },
+    {
+     "name": "Drukair",
+     "cat": "flights",
+     "note": "Flüge der Nationalairline buchen und einchecken",
+     "src": "https://apps.apple.com/us/app/drukair/id1345535182?uo=4"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Thimphu",
+     "match": [
+      "Thimphu"
+     ],
+     "apps": [
+      {
+       "name": "Dish8Door",
+       "cat": "delivery",
+       "note": "Essen aus Restaurants bestellen und liefern lassen",
+       "use": "limited",
+       "req": "Anmeldung laut Quelle nicht beschrieben",
+       "src": "https://thebhutanese.bt/oie-dish8door-bhutans-food-ordering-mobile-app-doing-well-two-years-into-operations/"
+      },
+      {
+       "name": "City Bus Information System",
+       "cat": "transit",
+       "note": "Stadtbusse in Thimphu mit Fahrplan und Standort",
+       "src": "https://www.bbs.bt/news/?p=145665"
+      }
+     ]
+    }
+   ],
+   "note": "Visum online über immi.gov.bt beantragen, die Tourismusgebühr SDF beträgt 100 US-Dollar pro Tag und Erwachsenem.",
+   "src": "https://bhutan.travel/visa",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2021 nicht mehr strafbar, eine offene Szene gibt es kaum, Zurückhaltung in der Öffentlichkeit ist ratsam.",
+   "lgbtq_src": "https://www.humandignitytrust.org/news/kings-assent-leads-himalayan-nation-of-bhutan-to-become-latest-country-to-decriminalise-same-sex-activity/",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "CX",
+   "name": "Weihnachtsinseln",
+   "flag": "🇨🇽",
+   "apps": [
+    {
+     "name": "Christmas Island National Park",
+     "cat": "tourism",
+     "note": "Offline-Karten, Wanderwege, Tierwelt und Besucherinfos",
+     "ess": true,
+     "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/"
+    }
+   ],
+   "cities": [],
+   "note": "Die Nationalpark-App vor der Reise laden, ihre Karten funktionieren offline auch ohne Netz.",
+   "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
+   "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
+   "lgbtq_src": "https://www.equaldex.com/region/christmas-island",
    "checked": "2026-11-20"
   }
  ]
