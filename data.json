@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-18 21:18",
+ "version": "2026-11-20 13:23",
  "categories": [
   {
    "id": "entry",
@@ -24928,6 +24928,611 @@
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/serbien-node/serbiensicherheit-207502",
    "checked": "2026-11-18"
+  },
+  {
+   "code": "BA",
+   "name": "Bosnien und Herzegowina",
+   "flag": "🇧🇦",
+   "apps": [
+    {
+     "name": "mojTaxi",
+     "cat": "taxi",
+     "pkg": "moj.taxi.touchngo",
+     "note": "Lizenzierte Taxis bestellen, Fahrt live verfolgen",
+     "ess": true,
+     "src": "https://www.bento.travel/bosnia-and-herzegovina"
+    },
+    {
+     "name": "Korpa",
+     "cat": "delivery",
+     "pkg": "ba.korpa.user",
+     "note": "Essen und Einkäufe in den größeren Städten liefern lassen",
+     "ess": true,
+     "src": "https://www.bento.travel/bosnia-and-herzegovina"
+    },
+    {
+     "name": "Zapp",
+     "cat": "delivery",
+     "pkg": "com.goteso.gpg",
+     "note": "Lieferdienst als Alternative, vor allem in der Herzegowina",
+     "src": "https://www.bento.travel/bosnia-and-herzegovina"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Verbreiteter Messenger, auch für Taxis und Geschäfte",
+     "src": "https://www.bento.travel/bosnia-and-herzegovina"
+    },
+    {
+     "name": "Centrotrans",
+     "cat": "rail",
+     "pkg": "ba.promotim.centrotrans",
+     "note": "Fernbustickets dieses Busunternehmens online kaufen",
+     "src": "https://www.bento.travel/bosnia-and-herzegovina"
+    },
+    {
+     "name": "BH Mine Suspected Areas",
+     "cat": "safety",
+     "pkg": "com.bhminesuspectedareas",
+     "note": "Offizielle Karte minenverdächtiger Gebiete, nur zur Orientierung",
+     "ess": true,
+     "src": "https://www.bento.travel/bosnia-and-herzegovina"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Banja Luka",
+     "match": [
+      "Banja Luka"
+     ],
+     "apps": [
+      {
+       "name": "GoParking by Lanaco",
+       "cat": "parking",
+       "note": "Parken in Banja Luka per hinterlegter Bankkarte zahlen",
+       "src": "https://en.banjaluka.rs.ba/banja-luka-introduces-payment-of-parking-service-with-bank-card-through-go-parking-application/"
+      }
+     ]
+    },
+    {
+     "name": "Mostar",
+     "match": [
+      "Mostar"
+     ],
+     "apps": [
+      {
+       "name": "Mostar Bus",
+       "cat": "transit",
+       "pkg": "com.firio_solutions.mostar_bus",
+       "note": "Stadtbusse in Mostar mit Handy-Tickets per QR-Code",
+       "src": "https://www.bento.travel/bosnia-and-herzegovina"
+      }
+     ]
+    },
+    {
+     "name": "Sarajevo",
+     "match": [
+      "Sarajevo"
+     ],
+     "apps": [
+      {
+       "name": "Holand",
+       "cat": "taxi",
+       "pkg": "ba.holand",
+       "note": "Weitere Taxi-App in Sarajevo, vorab ausprobieren",
+       "src": "https://www.bento.travel/bosnia-and-herzegovina"
+      },
+      {
+       "name": "Arrivo Sarajevo",
+       "cat": "transit",
+       "pkg": "com.omchiii.arrivo",
+       "note": "Linien, Fahrpläne und Live-Standorte in Sarajevo",
+       "ess": true,
+       "src": "https://www.bento.travel/bosnia-and-herzegovina"
+      },
+      {
+       "name": "Javni Prevoz KS",
+       "cat": "transit",
+       "pkg": "org.msks.ticketsMobileApp",
+       "note": "Offizielle QR-Tickets für Bus und Tram im Kanton Sarajevo",
+       "src": "https://www.bento.travel/bosnia-and-herzegovina"
+      },
+      {
+       "name": "Beebee",
+       "cat": "micro",
+       "note": "E-Scooter per QR-Code entsperren, Guthaben in der App",
+       "use": "limited",
+       "req": "Registrierung mit Handynummer und Bankkarte, Guthaben vorab kaufen",
+       "src": "https://www.visitsarajevo.ba/moving-around-town/"
+      },
+      {
+       "name": "nextbike",
+       "cat": "micro",
+       "note": "Leihräder in Sarajevo, täglich 30 Minuten gratis",
+       "src": "https://www.visitsarajevo.ba/moving-around-town/"
+      },
+      {
+       "name": "e-GO Pure motion Carsharing",
+       "cat": "carshare",
+       "note": "Elektroautos in Sarajevo teilen, Öffnen per App",
+       "use": "limited",
+       "req": "Bedingungen für ausländische Führerscheine nicht angegeben, vorab prüfen",
+       "src": "https://apps.apple.com/us/app/e-go-pure-motion-carsharing/id6448946295"
+      }
+     ]
+    }
+   ],
+   "note": "Bargeld in Konvertibler Mark (BAM) mitnehmen, Taxis und kleine Läden wollen oft bar, Uber und Bolt gibt es nicht.",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, große Teile der Gesellschaft sind aber ablehnend und es gab vereinzelt Angriffe.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bosnienundherzegowina-node/bosnienundherzegowinasicherheit-207694",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "MD",
+   "name": "Moldau, Republik",
+   "flag": "🇲🇩",
+   "apps": [
+    {
+     "name": "Yandex Go",
+     "cat": "taxi",
+     "note": "Verbreitete Taxi-App, russischer Dienst unter Behördenprüfung",
+     "src": "https://turism.gov.md/en/?p=875"
+    },
+    {
+     "name": "Hip.car",
+     "cat": "taxi",
+     "note": "Lokale Fahrdienst-App (früher iTaxi), bar oder Karte",
+     "use": "limited",
+     "req": "SMS-Bestätigung, laut Nutzern teils nur mit moldauischer Nummer",
+     "src": "https://turism.gov.md/en/?p=875"
+    },
+    {
+     "name": "Letz",
+     "cat": "taxi",
+     "note": "Lokale Fahrdienst-App mit mehreren Wagenklassen",
+     "use": "limited",
+     "req": "SMS-Bestätigung, laut Nutzern teils nur mit moldauischer Nummer",
+     "src": "https://turism.gov.md/en/?p=875"
+    },
+    {
+     "name": "Teleport",
+     "cat": "taxi",
+     "note": "Lokaler Taxidienst, auch per App bestellbar",
+     "use": "limited",
+     "req": "Registrierung mit Telefonnummer, ausländische Nummer nicht bestätigt",
+     "src": "https://turism.gov.md/en/?p=875"
+    },
+    {
+     "name": "amiGO carsharing",
+     "cat": "carshare",
+     "note": "Elektroautos im Carsharing, Abrechnung pro Minute",
+     "use": "limited",
+     "req": "Dokumente hochladen, Gesichtsscan und Guthaben aufladen nötig",
+     "src": "https://apps.apple.com/md/app/amigo-car/id1573478882"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen, Lebensmittel und Apothekenartikel liefern lassen",
+     "ess": true,
+     "src": "https://glovoapp.com/ru/md/glovo-delivery"
+    },
+    {
+     "name": "FlixBus",
+     "cat": "rail",
+     "note": "Fernbusse ab Chișinău nach Rumänien, Ukraine und EU",
+     "src": "https://global.flixbus.com/bus/chisinau"
+    },
+    {
+     "name": "Infobus",
+     "cat": "rail",
+     "pkg": "eu.infobus.app",
+     "note": "Internationale Bustickets ab Moldau buchen",
+     "src": "https://www.infobus.eu/en/bus/moldova"
+    },
+    {
+     "name": "EkoApp",
+     "cat": "tourism",
+     "pkg": "com.ekoappmoldovafrontendmobile",
+     "note": "Offizielle App zu Kulturstätten und Naturgebieten",
+     "src": "https://moldovalive.md/?p=35648"
+    },
+    {
+     "name": "SmartGuide",
+     "cat": "tourism",
+     "note": "Über 400 Sehenswürdigkeiten und zwei Kulturrouten",
+     "src": "https://www.undp.org/node/428321"
+    },
+    {
+     "name": "112MD",
+     "cat": "safety",
+     "note": "Offizielle Notruf-App mit Standort und Chat",
+     "use": "limited",
+     "req": "Registrierung mit Telefonnummer, Notruf 112 geht auch ohne App",
+     "src": "https://www.undp.org/moldova/press-releases/moldovan-national-emergency-line-112-has-launched-their-official-mobile-app"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Chisinau",
+     "match": [
+      "Chisinau"
+     ],
+     "apps": [
+      {
+       "name": "Bolt",
+       "cat": "taxi",
+       "note": "Fahrdienst seit 2025 in Chișinău, Zahlung in der App",
+       "ess": true,
+       "src": "https://invest.gov.md/en/bolt-enters-the-moldovan-market-100-digital-cashless-taxi-service/"
+      },
+      {
+       "name": "Bolt Scooters",
+       "cat": "micro",
+       "note": "E-Scooter über die Bolt-App, in Chișinău seit 2021",
+       "src": "https://invest.gov.md/en/bolt-enters-the-moldovan-market-100-digital-cashless-taxi-service/"
+      },
+      {
+       "name": "Getmancar",
+       "cat": "carshare",
+       "note": "Carsharing in Chișinău, Auto per Handy öffnen",
+       "use": "limited",
+       "req": "Identitätsprüfung in der App und Zahlungskarte nötig, nicht nach Transnistrien",
+       "src": "https://getmancar.com/moldova"
+      },
+      {
+       "name": "Straus",
+       "cat": "delivery",
+       "note": "Lokaler Lieferdienst für Restaurantessen",
+       "use": "limited",
+       "req": "Telefonnummer für Bestellungen nötig, ausländische Nummer nicht bestätigt",
+       "src": "https://apps.apple.com/us/app/straus/id1438722558"
+      },
+      {
+       "name": "Transit",
+       "cat": "transit",
+       "pkg": "com.thetransitapp.droid",
+       "note": "Linien von RTEC und PUA mit Abfahrtszeiten",
+       "src": "https://transitapp.com/en/region/chi%C8%99in%C4%83u"
+      },
+      {
+       "name": "Tranzy",
+       "cat": "transit",
+       "note": "Echtzeit-Ankunft von Bussen und Trolleybussen",
+       "src": "https://www.old.ipn.md/en/print/last-adjustments-to-application-showing-when-trolleybuses-and-buses-get-to-stati--7967_1095603.html"
+      }
+     ]
+    }
+   ],
+   "note": "Taxis in Chișinău am besten per App (Bolt, Yandex Go, Hip), für Transnistrien Bargeld in Lei mitnehmen, dort gehen europäische Karten nicht.",
+   "src": "https://turism.gov.md/en/?p=875",
+   "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar und rechtlich nicht benachteiligt, die gesellschaftliche Toleranz ist aber gering und Anfeindungen kommen auch in Chișinău vor.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/moldausicherheit-201932",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "MK",
+   "name": "Nordmazedonien",
+   "flag": "🇲🇰",
+   "apps": [
+    {
+     "name": "Wizi",
+     "cat": "taxi",
+     "pkg": "com.binom.cammeo",
+     "note": "Taxi-App für Skopje mit Support auf Englisch",
+     "ess": true,
+     "use": "limited",
+     "req": "Registrierung per SMS, ausländische Nummer oder eSIM kann scheitern",
+     "src": "https://www.bento.travel/north-macedonia/ride-hailing"
+    },
+    {
+     "name": "Wolt",
+     "cat": "delivery",
+     "pkg": "com.wolt.android",
+     "note": "Essen und Einkäufe in Skopje, Bitola, Ohrid und Tetovo",
+     "ess": true,
+     "src": "https://www.bento.travel/north-macedonia"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "Üblicher Kontaktweg zu Taxis, Unterkünften und Touren",
+     "src": "https://www.bento.travel/north-macedonia"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karte als Reserve für Landstraßen",
+     "src": "https://www.bento.travel/north-macedonia"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Skopje",
+     "match": [
+      "Skopje"
+     ],
+     "apps": [
+      {
+       "name": "BeeRide",
+       "cat": "taxi",
+       "pkg": "com.beeride.app",
+       "note": "Taxi in Skopje mit Preisangabe vorab",
+       "use": "limited",
+       "req": "Anmeldung mit ausländischer Nummer und Kartenzahlung klappen oft nicht, bar zahlen",
+       "src": "https://www.bento.travel/north-macedonia/ride-hailing"
+      },
+      {
+       "name": "Global Taxi Skopje",
+       "cat": "taxi",
+       "pkg": "com.netinformatika.globaltaxiskopje",
+       "note": "Lizenzierte Taxizentrale mit Live-Ortung und Vorbuchung",
+       "src": "https://www.bento.travel/north-macedonia/ride-hailing"
+      },
+      {
+       "name": "Korpa",
+       "cat": "delivery",
+       "pkg": "ba.korpa.user",
+       "note": "Lokaler Lieferdienst, bar oder mit Karte zahlen",
+       "src": "https://www.bento.travel/north-macedonia"
+      },
+      {
+       "name": "SkopjeBus",
+       "cat": "transit",
+       "pkg": "com.modeshift.jsp",
+       "note": "Offizielle Stadtbus-App von JSP, Tickets per QR-Code",
+       "ess": true,
+       "src": "https://www.bento.travel/north-macedonia/transit"
+      },
+      {
+       "name": "Avant2Go",
+       "cat": "carshare",
+       "note": "Elektro-Carsharing mit rund 100 Autos in Skopje",
+       "use": "limited",
+       "req": "Registrierung in der App, gültiger Führerschein und Kauf eines Pakets nötig",
+       "src": "https://www.skopje.in/post/first-electric-car-sharing-service-launches-in-skopje"
+      },
+      {
+       "name": "BinBin",
+       "cat": "micro",
+       "note": "Leih-E-Scooter in Skopje, Abrechnung pro Minute",
+       "use": "limited",
+       "req": "Aufladen per Bankkarte, Gutscheine per SMS nur mit A1-SIM",
+       "src": "https://skopje.in/post/rental-price-of-binbin-scooters-raised-once-again-now-they-cost-11-denars-per-minute"
+      },
+      {
+       "name": "Parking.MK",
+       "cat": "parking",
+       "note": "Zonenparken der städtischen Parkgesellschaft per Karte zahlen",
+       "src": "https://www.skopje.in/post/the-city-parking-public-enterprise-has-launched-a-mobile-application-that-can-be-used-to-pay-online"
+      }
+     ]
+    }
+   ],
+   "note": "Bargeld in Denar mitnehmen, Karten klappen vor allem in größeren Städten, und Uber oder Bolt gibt es nicht.",
+   "src": "https://www.bento.travel/north-macedonia",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar und Diskriminierung ist gesetzlich verboten, die gesellschaftliche Akzeptanz ist aber gering und rund um die Pride in Skopje kam es 2025 zu Angriffen.",
+   "lgbtq_src": "https://www.ecoi.net/en/file/local/2115135/laenderkurzinfo-nordmazedonien-08-24-sogi.pdf",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "UA",
+   "name": "Ukraine",
+   "flag": "🇺🇦",
+   "apps": [
+    {
+     "name": "Uklon",
+     "cat": "taxi",
+     "pkg": "ua.com.uklontaxi",
+     "note": "Größter ukrainischer Fahrdienst, bar oder mit Karte",
+     "ess": true,
+     "src": "https://www.bento.travel/ukraine/ride-hailing"
+    },
+    {
+     "name": "Bolt",
+     "cat": "taxi",
+     "pkg": "ee.mtakso.client",
+     "note": "Weit verbreitet, englische Oberfläche, Festpreis vorab",
+     "ess": true,
+     "src": "https://www.bento.travel/ukraine/ride-hailing"
+    },
+    {
+     "name": "Uber",
+     "cat": "taxi",
+     "pkg": "com.ubercab",
+     "note": "Internationale Alternative in Kyjiw und weiteren Städten",
+     "src": "https://www.bento.travel/ukraine/ride-hailing"
+    },
+    {
+     "name": "Bolt Food",
+     "cat": "delivery",
+     "pkg": "com.bolt.deliveryclient",
+     "note": "Essen und Einkäufe liefern lassen, auch Barzahlung",
+     "ess": true,
+     "src": "https://www.bento.travel/ukraine/food-delivery"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Große Auswahl an Restaurants und Läden",
+     "ess": true,
+     "src": "https://www.bento.travel/ukraine/food-delivery"
+    },
+    {
+     "name": "LOKO",
+     "cat": "delivery",
+     "pkg": "ua.com.loko.app",
+     "note": "Restaurantessen und Silpo-Lebensmittel in einer App",
+     "src": "https://www.bento.travel/ukraine/food-delivery"
+    },
+    {
+     "name": "Organic Maps",
+     "cat": "maps",
+     "pkg": "app.organicmaps",
+     "note": "Offline-Karten, nützlich bei Netz- oder Stromausfall",
+     "src": "https://www.bento.travel/ukraine/navigation"
+    },
+    {
+     "name": "Viber",
+     "cat": "misc",
+     "pkg": "com.viber.voip",
+     "note": "In der Ukraine verbreiteter Messenger",
+     "src": "https://www.bento.travel/ukraine/messaging"
+    },
+    {
+     "name": "Telegram",
+     "cat": "misc",
+     "pkg": "org.telegram.messenger",
+     "note": "Lokale Nachrichtenkanäle, ersetzt keine Warnungen",
+     "src": "https://www.bento.travel/ukraine/messaging"
+    },
+    {
+     "name": "Monobank",
+     "cat": "payment",
+     "note": "Ukrainische Banking-App für Einwohner",
+     "use": "no",
+     "req": "Ukrainisches Konto und Identitätsprüfung nötig",
+     "src": "https://www.bento.travel/ukraine/payments"
+    },
+    {
+     "name": "Privat24",
+     "cat": "payment",
+     "note": "Banking-App der PrivatBank für Einwohner",
+     "use": "no",
+     "req": "Ukrainisches Konto und Identitätsprüfung nötig",
+     "src": "https://www.bento.travel/ukraine/payments"
+    },
+    {
+     "name": "Revolut",
+     "cat": "payment",
+     "note": "Vor der Reise einrichten, kein lokales Zahlsystem",
+     "use": "limited",
+     "req": "Nur mit bereits bestehendem Konto",
+     "src": "https://www.bento.travel/ukraine/payments"
+    },
+    {
+     "name": "Wise",
+     "cat": "payment",
+     "note": "Vor der Reise einrichten, kein lokales Zahlsystem",
+     "use": "limited",
+     "req": "Nur mit bereits bestehendem Konto",
+     "src": "https://www.bento.travel/ukraine/payments"
+    },
+    {
+     "name": "Air Alert (Povitryana Tryvoga)",
+     "cat": "safety",
+     "pkg": "com.ukrainealarm",
+     "note": "Luftalarm für die gewählte Region, auch im Lautlosmodus",
+     "ess": true,
+     "src": "https://ajax.systems/de/blog/zastosunok-povitryana-trivoga/"
+    },
+    {
+     "name": "Ukrzaliznytsia",
+     "cat": "rail",
+     "pkg": "ua.gov.uz",
+     "note": "Offizielle Bahn-App für Zugtickets, auch auf Englisch",
+     "ess": true,
+     "use": "limited",
+     "req": "Für einige stark gefragte Züge Verifizierung per Diia nötig, sonst Kauf am Schalter",
+     "src": "https://unn.ua/en/news/verification-via-diiasignature-for-ticket-purchases-will-be-introduced-only-for-three-trains-uz-revealed-details"
+    },
+    {
+     "name": "Diia",
+     "cat": "misc",
+     "note": "Staatliche App für digitale Dokumente und Behördendienste",
+     "use": "no",
+     "req": "Ukrainischer Aufenthaltstitel, Steuernummer und BankID nötig",
+     "src": "https://visitukraine.today/blog/2186/diia-for-foreigners-how-to-get-an-e-permit-e-residency-and-other-services"
+    },
+    {
+     "name": "Getmancar",
+     "cat": "carshare",
+     "note": "Carsharing und Mietwagen in Kyjiw, Lwiw und Dnipro",
+     "use": "limited",
+     "req": "Ab 18 mit Führerschein Klasse B, Ausländer brauchen internationalen Führerschein",
+     "src": "https://getmancar.com/blogs/car-rental-in-ukraine"
+    },
+    {
+     "name": "EasyWay",
+     "cat": "transit",
+     "pkg": "com.eway",
+     "note": "Routen und Fahrzeugpositionen im Nahverkehr vieler Städte",
+     "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"
+    },
+    {
+     "name": "INFOBUS",
+     "cat": "rail",
+     "pkg": "eu.infobus.app",
+     "note": "Mehrsprachige Bus- und Zugsuche, Buchungsportal",
+     "src": "https://www.bento.travel/ukraine"
+    },
+    {
+     "name": "FlixBus",
+     "cat": "rail",
+     "pkg": "de.flixbus.app",
+     "note": "Großes Fernbusnetz, Grenzzeit einplanen",
+     "src": "https://www.bento.travel/ukraine"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Kiew",
+     "match": [
+      "Kiew",
+      "Kyiv"
+     ],
+     "apps": [
+      {
+       "name": "Kyiv Digital",
+       "cat": "transit",
+       "pkg": "com.kyivdigital",
+       "note": "QR-Tickets, Parken, Luftalarm und Schutzräume in Kyjiw",
+       "ess": true,
+       "src": "https://guide.kyivcity.gov.ua/en/public-transport"
+      }
+     ]
+    },
+    {
+     "name": "Lviv",
+     "match": [
+      "Lviv"
+     ],
+     "apps": [
+      {
+       "name": "LeoCard",
+       "cat": "transit",
+       "pkg": "org.lvivavtodor.eticket",
+       "note": "Fahrscheine für Busse und Trams in Lwiw kaufen",
+       "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"
+      },
+      {
+       "name": "CityBus Lviv",
+       "cat": "transit",
+       "pkg": "ua.in.citybus.lviv",
+       "note": "Echtzeitpositionen der Busse in Lwiw",
+       "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"
+      },
+      {
+       "name": "Lviv City Card",
+       "cat": "tourism",
+       "pkg": "info.incard.lviv",
+       "note": "Stadtpass mit freiem Museumseintritt und Rabatten",
+       "src": "https://lviv.travel/en/city-card"
+      }
+     ]
+    }
+   ],
+   "note": "Vor der Reise Air Alert installieren, jede Sirene befolgen und die Ausgangssperre täglich prüfen.",
+   "src": "https://www.bento.travel/ukraine",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, in den russisch besetzten Gebieten hat sich die Lage aber drastisch verschlechtert.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ukraine-node/ukrainesicherheit-201946",
+   "checked": "2026-11-20"
   }
  ]
 }
