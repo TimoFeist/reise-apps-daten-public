@@ -1,0 +1,132 @@
+{
+"src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
+"fetched": "2026-11-20",
+"updated": "11.11.2026",
+"note": "Reisewarnung des Auswärtigen Amts; Visum vorab über etas.gov.so, für Somaliland eigenes Visum, US-Dollar bar mitnehmen.",
+"lgbtq_note": "Homosexuelle Handlungen sind verboten und werden streng bestraft, bis hin zur Todesstrafe.",
+"lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
+"discontinued": [],
+"apps": [
+{
+"name": "Sicher Reisen",
+"cat": "safety",
+"pkg": "",
+"ess": true,
+"note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+"city": "",
+"use": "ok",
+"req": "",
+"src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+},
+{
+"name": "ELEFAND",
+"cat": "safety",
+"pkg": "",
+"ess": true,
+"note": "Eintrag in die Krisenvorsorgeliste der Botschaft",
+"city": "",
+"use": "ok",
+"req": "",
+"src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+},
+{
+"name": "Somalia eTAS",
+"cat": "entry",
+"pkg": "",
+"ess": true,
+"note": "Elektronischer Visumantrag vor der Reise über etas.gov.so",
+"city": "",
+"use": "ok",
+"req": "",
+"src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+},
+{
+"name": "Somaliland Einreisegenehmigung (Web)",
+"cat": "entry",
+"pkg": "",
+"ess": false,
+"note": "Eigenes Visum und Einreisegenehmigung über slimmigration.com",
+"city": "",
+"use": "ok",
+"req": "",
+"src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+},
+{
+"name": "Geeye",
+"cat": "taxi",
+"pkg": "",
+"ess": false,
+"note": "Taxi, Motorrad und Lieferung, bar oder per Wallet",
+"city": "",
+"use": "limited",
+"req": "Konto in der App nötig, Bargeld bereithalten",
+"src": "https://apps.apple.com/us/app/geeye/id1527455871?l=es"
+},
+{
+"name": "Bajaaj Macmiil",
+"cat": "taxi",
+"pkg": "",
+"ess": false,
+"note": "Fahrten bestellen mit Preisschätzung und Live-Ortung",
+"city": "",
+"use": "limited",
+"req": "Registrierung und Zahlungswege nicht angegeben, vorab prüfen",
+"src": "https://apps.apple.com/us/app/bajaaj-macmiil/id6450129365"
+},
+{
+"name": "Adeegfood Buyer",
+"cat": "delivery",
+"pkg": "",
+"ess": false,
+"note": "Essen von Restaurants und Cafés, auch Barzahlung",
+"city": "Mogadishu",
+"use": "limited",
+"req": "Letztes Update 2024, Betrieb vorab prüfen",
+"src": "https://apps.apple.com/ae/app/adeegfood-buyer/id6670474509"
+},
+{
+"name": "Waafi",
+"cat": "payment",
+"pkg": "",
+"ess": false,
+"note": "App für EVC Plus von Hormuud, verbreitetstes Zahlmittel",
+"city": "",
+"use": "no",
+"req": "EVC-Plus-Konto bei Hormuud mit Identitätsprüfung nötig",
+"src": "https://garoweonline.com/en/news/somalia/waafi-somalia-s-first-advanced-mobile-money-tech-app"
+},
+{
+"name": "ZAAD",
+"cat": "payment",
+"pkg": "",
+"ess": false,
+"note": "Mobiles Geld von Telesom in Somaliland, auch für Händler",
+"city": "",
+"use": "no",
+"req": "Registrierung im Telesom-Büro mit Ausweis nötig",
+"src": "https://telesom.com/personal/zaad"
+},
+{
+"name": "DahabPlus",
+"cat": "payment",
+"pkg": "",
+"ess": false,
+"note": "Dahabshiil-Konten und eDahab-Wallet verwalten",
+"city": "",
+"use": "limited",
+"req": "Konto bei Dahabshiil bzw. eDahab nötig",
+"src": "https://apps.apple.com/td/app/dahabplus/id1498782612"
+},
+{
+"name": "Grindr",
+"cat": "lgbtq",
+"pkg": "",
+"ess": false,
+"note": "Weltweite Dating-App, in Somalia gefährlich",
+"city": "",
+"use": "no",
+"req": "Homosexuelle Handlungen strafbar, bis zur Todesstrafe",
+"src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132"
+}
+]
+}

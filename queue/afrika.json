@@ -1,307 +1,307 @@
 {
-  "continent": "AF",
-  "todo": [
-    {
-      "code": "SO",
-      "en": "Somalia",
-      "slug": "somalia"
-    },
-    {
-      "code": "SS",
-      "en": "South Sudan",
-      "slug": "south-sudan"
-    },
-    {
-      "code": "SD",
-      "en": "Sudan",
-      "slug": "sudan"
-    },
-    {
-      "code": "TG",
-      "en": "Togo",
-      "slug": "togo"
-    },
-    {
-      "code": "UG",
-      "en": "Uganda",
-      "slug": "uganda"
-    },
-    {
-      "code": "EH",
-      "en": "Western Sahara",
-      "slug": "western-sahara"
-    },
-    {
-      "code": "ZM",
-      "en": "Zambia",
-      "slug": "zambia"
-    },
-    {
-      "code": "ZW",
-      "en": "Zimbabwe",
-      "slug": "zimbabwe"
-    }
-  ],
-  "done": [
-    {
-      "code": "ZA",
-      "en": "South Africa",
-      "slug": "south-africa"
-    },
-    {
-      "code": "KE",
-      "en": "Kenya",
-      "slug": "kenya"
-    },
-    {
-      "code": "EG",
-      "en": "Egypt",
-      "slug": "egypt"
-    },
-    {
-      "code": "MA",
-      "en": "Morocco",
-      "slug": "morocco"
-    },
-    {
-      "code": "TN",
-      "en": "Tunisia",
-      "slug": "tunisia"
-    },
-    {
-      "code": "TZ",
-      "en": "Tanzania",
-      "slug": "tanzania"
-    },
-    {
-      "code": "MU",
-      "en": "Mauritius",
-      "slug": "mauritius"
-    },
-    {
-      "code": "SC",
-      "en": "Seychelles",
-      "slug": "seychelles"
-    },
-    {
-      "code": "DZ",
-      "en": "Algeria",
-      "slug": "algeria"
-    },
-    {
-      "code": "AO",
-      "en": "Angola",
-      "slug": "angola"
-    },
-    {
-      "code": "BJ",
-      "en": "Benin",
-      "slug": "benin"
-    },
-    {
-      "code": "BW",
-      "en": "Botswana",
-      "slug": "botswana"
-    },
-    {
-      "code": "BV",
-      "en": "Bouvet Island",
-      "slug": "bouvet-island"
-    },
-    {
-      "code": "BF",
-      "en": "Burkina Faso",
-      "slug": "burkina-faso"
-    },
-    {
-      "code": "BI",
-      "en": "Burundi",
-      "slug": "burundi"
-    },
-    {
-      "code": "CV",
-      "en": "Cabo Verde",
-      "slug": "cape-verde"
-    },
-    {
-      "code": "CM",
-      "en": "Cameroon",
-      "slug": "cameroon"
-    },
-    {
-      "code": "CF",
-      "en": "Central African Republic",
-      "slug": "central-african-republic"
-    },
-    {
-      "code": "TD",
-      "en": "Chad",
-      "slug": "chad"
-    },
-    {
-      "code": "KM",
-      "en": "Comoros",
-      "slug": "comoros"
-    },
-    {
-      "code": "CG",
-      "en": "Congo",
-      "slug": "republic-of-the-congo"
-    },
-    {
-      "code": "CD",
-      "en": "Congo, The Democratic Republic of the",
-      "slug": "dr-congo"
-    },
-    {
-      "code": "CI",
-      "en": "Côte d'Ivoire",
-      "slug": "ivory-coast"
-    },
-    {
-      "code": "DJ",
-      "en": "Djibouti",
-      "slug": "djibouti"
-    },
-    {
-      "code": "GQ",
-      "en": "Equatorial Guinea",
-      "slug": "equatorial-guinea"
-    },
-    {
-      "code": "ER",
-      "en": "Eritrea",
-      "slug": "eritrea"
-    },
-    {
-      "code": "SZ",
-      "en": "Eswatini",
-      "slug": "eswatini"
-    },
-    {
-      "code": "ET",
-      "en": "Ethiopia",
-      "slug": "ethiopia"
-    },
-    {
-      "code": "TF",
-      "en": "French Southern Territories",
-      "slug": "french-southern-territories"
-    },
-    {
-      "code": "GA",
-      "en": "Gabon",
-      "slug": "gabon"
-    },
-    {
-      "code": "GM",
-      "en": "Gambia",
-      "slug": "gambia"
-    },
-    {
-      "code": "GH",
-      "en": "Ghana",
-      "slug": "ghana"
-    },
-    {
-      "code": "GN",
-      "en": "Guinea",
-      "slug": "guinea"
-    },
-    {
-      "code": "GW",
-      "en": "Guinea-Bissau",
-      "slug": "guinea-bissau"
-    },
-    {
-      "code": "LS",
-      "en": "Lesotho",
-      "slug": "lesotho"
-    },
-    {
-      "code": "LR",
-      "en": "Liberia",
-      "slug": "liberia"
-    },
-    {
-      "code": "LY",
-      "en": "Libya",
-      "slug": "libya"
-    },
-    {
-      "code": "MG",
-      "en": "Madagascar",
-      "slug": "madagascar"
-    },
-    {
-      "code": "MW",
-      "en": "Malawi",
-      "slug": "malawi"
-    },
-    {
-      "code": "ML",
-      "en": "Mali",
-      "slug": "mali"
-    },
-    {
-      "code": "MR",
-      "en": "Mauritania",
-      "slug": "mauritania"
-    },
-    {
-      "code": "YT",
-      "en": "Mayotte",
-      "slug": "mayotte"
-    },
-    {
-      "code": "MZ",
-      "en": "Mozambique",
-      "slug": "mozambique"
-    },
-    {
-      "code": "NA",
-      "en": "Namibia",
-      "slug": "namibia"
-    },
-    {
-      "code": "NE",
-      "en": "Niger",
-      "slug": "niger"
-    },
-    {
-      "code": "NG",
-      "en": "Nigeria",
-      "slug": "nigeria"
-    },
-    {
-      "code": "RW",
-      "en": "Rwanda",
-      "slug": "rwanda"
-    },
-    {
-      "code": "RE",
-      "en": "Réunion",
-      "slug": "r-union"
-    },
-    {
-      "code": "SH",
-      "en": "Saint Helena, Ascension and Tristan da Cunha",
-      "slug": "saint-helena-ascension-and-tristan-da-cunha"
-    },
-    {
-      "code": "ST",
-      "en": "Sao Tome and Principe",
-      "slug": "sao-tome-and-principe"
-    },
-    {
-      "code": "SN",
-      "en": "Senegal",
-      "slug": "senegal"
-    },
-    {
-      "code": "SL",
-      "en": "Sierra Leone",
-      "slug": "sierra-leone"
-    }
-  ]
+ "continent": "AF",
+ "todo": [
+  {
+   "code": "UG",
+   "en": "Uganda",
+   "slug": "uganda"
+  },
+  {
+   "code": "EH",
+   "en": "Western Sahara",
+   "slug": "western-sahara"
+  },
+  {
+   "code": "ZM",
+   "en": "Zambia",
+   "slug": "zambia"
+  },
+  {
+   "code": "ZW",
+   "en": "Zimbabwe",
+   "slug": "zimbabwe"
+  }
+ ],
+ "done": [
+  {
+   "code": "ZA",
+   "en": "South Africa",
+   "slug": "south-africa"
+  },
+  {
+   "code": "KE",
+   "en": "Kenya",
+   "slug": "kenya"
+  },
+  {
+   "code": "EG",
+   "en": "Egypt",
+   "slug": "egypt"
+  },
+  {
+   "code": "MA",
+   "en": "Morocco",
+   "slug": "morocco"
+  },
+  {
+   "code": "TN",
+   "en": "Tunisia",
+   "slug": "tunisia"
+  },
+  {
+   "code": "TZ",
+   "en": "Tanzania",
+   "slug": "tanzania"
+  },
+  {
+   "code": "MU",
+   "en": "Mauritius",
+   "slug": "mauritius"
+  },
+  {
+   "code": "SC",
+   "en": "Seychelles",
+   "slug": "seychelles"
+  },
+  {
+   "code": "DZ",
+   "en": "Algeria",
+   "slug": "algeria"
+  },
+  {
+   "code": "AO",
+   "en": "Angola",
+   "slug": "angola"
+  },
+  {
+   "code": "BJ",
+   "en": "Benin",
+   "slug": "benin"
+  },
+  {
+   "code": "BW",
+   "en": "Botswana",
+   "slug": "botswana"
+  },
+  {
+   "code": "BV",
+   "en": "Bouvet Island",
+   "slug": "bouvet-island"
+  },
+  {
+   "code": "BF",
+   "en": "Burkina Faso",
+   "slug": "burkina-faso"
+  },
+  {
+   "code": "BI",
+   "en": "Burundi",
+   "slug": "burundi"
+  },
+  {
+   "code": "CV",
+   "en": "Cabo Verde",
+   "slug": "cape-verde"
+  },
+  {
+   "code": "CM",
+   "en": "Cameroon",
+   "slug": "cameroon"
+  },
+  {
+   "code": "CF",
+   "en": "Central African Republic",
+   "slug": "central-african-republic"
+  },
+  {
+   "code": "TD",
+   "en": "Chad",
+   "slug": "chad"
+  },
+  {
+   "code": "KM",
+   "en": "Comoros",
+   "slug": "comoros"
+  },
+  {
+   "code": "CG",
+   "en": "Congo",
+   "slug": "republic-of-the-congo"
+  },
+  {
+   "code": "CD",
+   "en": "Congo, The Democratic Republic of the",
+   "slug": "dr-congo"
+  },
+  {
+   "code": "CI",
+   "en": "Côte d'Ivoire",
+   "slug": "ivory-coast"
+  },
+  {
+   "code": "DJ",
+   "en": "Djibouti",
+   "slug": "djibouti"
+  },
+  {
+   "code": "GQ",
+   "en": "Equatorial Guinea",
+   "slug": "equatorial-guinea"
+  },
+  {
+   "code": "ER",
+   "en": "Eritrea",
+   "slug": "eritrea"
+  },
+  {
+   "code": "SZ",
+   "en": "Eswatini",
+   "slug": "eswatini"
+  },
+  {
+   "code": "ET",
+   "en": "Ethiopia",
+   "slug": "ethiopia"
+  },
+  {
+   "code": "TF",
+   "en": "French Southern Territories",
+   "slug": "french-southern-territories"
+  },
+  {
+   "code": "GA",
+   "en": "Gabon",
+   "slug": "gabon"
+  },
+  {
+   "code": "GM",
+   "en": "Gambia",
+   "slug": "gambia"
+  },
+  {
+   "code": "GH",
+   "en": "Ghana",
+   "slug": "ghana"
+  },
+  {
+   "code": "GN",
+   "en": "Guinea",
+   "slug": "guinea"
+  },
+  {
+   "code": "GW",
+   "en": "Guinea-Bissau",
+   "slug": "guinea-bissau"
+  },
+  {
+   "code": "LS",
+   "en": "Lesotho",
+   "slug": "lesotho"
+  },
+  {
+   "code": "LR",
+   "en": "Liberia",
+   "slug": "liberia"
+  },
+  {
+   "code": "LY",
+   "en": "Libya",
+   "slug": "libya"
+  },
+  {
+   "code": "MG",
+   "en": "Madagascar",
+   "slug": "madagascar"
+  },
+  {
+   "code": "MW",
+   "en": "Malawi",
+   "slug": "malawi"
+  },
+  {
+   "code": "ML",
+   "en": "Mali",
+   "slug": "mali"
+  },
+  {
+   "code": "MR",
+   "en": "Mauritania",
+   "slug": "mauritania"
+  },
+  {
+   "code": "YT",
+   "en": "Mayotte",
+   "slug": "mayotte"
+  },
+  {
+   "code": "MZ",
+   "en": "Mozambique",
+   "slug": "mozambique"
+  },
+  {
+   "code": "NA",
+   "en": "Namibia",
+   "slug": "namibia"
+  },
+  {
+   "code": "NE",
+   "en": "Niger",
+   "slug": "niger"
+  },
+  {
+   "code": "NG",
+   "en": "Nigeria",
+   "slug": "nigeria"
+  },
+  {
+   "code": "RW",
+   "en": "Rwanda",
+   "slug": "rwanda"
+  },
+  {
+   "code": "RE",
+   "en": "Réunion",
+   "slug": "r-union"
+  },
+  {
+   "code": "SH",
+   "en": "Saint Helena, Ascension and Tristan da Cunha",
+   "slug": "saint-helena-ascension-and-tristan-da-cunha"
+  },
+  {
+   "code": "ST",
+   "en": "Sao Tome and Principe",
+   "slug": "sao-tome-and-principe"
+  },
+  {
+   "code": "SN",
+   "en": "Senegal",
+   "slug": "senegal"
+  },
+  {
+   "code": "SL",
+   "en": "Sierra Leone",
+   "slug": "sierra-leone"
+  },
+  {
+   "code": "SO",
+   "en": "Somalia",
+   "slug": "somalia"
+  },
+  {
+   "code": "SS",
+   "en": "South Sudan",
+   "slug": "south-sudan"
+  },
+  {
+   "code": "SD",
+   "en": "Sudan",
+   "slug": "sudan"
+  },
+  {
+   "code": "TG",
+   "en": "Togo",
+   "slug": "togo"
+  }
+ ]
 }
