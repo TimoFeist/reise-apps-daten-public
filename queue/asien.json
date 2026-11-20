@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "AM",
-"en": "Armenia",
-"slug": "armenia"
-},
-{
-"code": "AZ",
-"en": "Azerbaijan",
-"slug": "azerbaijan"
-},
-{
-"code": "CY",
-"en": "Cyprus",
-"slug": "cyprus"
-},
-{
-"code": "KH",
-"en": "Cambodia",
-"slug": "cambodia"
-},
-{
 "code": "LA",
 "en": "Laos",
 "slug": "laos"
@@ -267,6 +247,26 @@
 "code": "GE",
 "en": "Georgia",
 "slug": "georgia"
+},
+{
+"code": "AM",
+"en": "Armenia",
+"slug": "armenia"
+},
+{
+"code": "AZ",
+"en": "Azerbaijan",
+"slug": "azerbaijan"
+},
+{
+"code": "CY",
+"en": "Cyprus",
+"slug": "cyprus"
+},
+{
+"code": "KH",
+"en": "Cambodia",
+"slug": "cambodia"
 }
 ]
 }
