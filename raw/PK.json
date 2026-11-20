@@ -1,0 +1,220 @@
+{
+ "src": "https://www.bento.travel/pakistan",
+ "fetched": "2026-11-20",
+ "updated": "August 2026",
+ "note": "Visum vorab über das NADRA-Portal beantragen und Rupien bar mitnehmen, lokale Bezahl-Apps sind für Ausländer kaum nutzbar.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar mit zwei bis zehn Jahren Haft, in schweren Fällen lebenslang, und gesellschaftlich nicht akzeptiert.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/pakistansicherheit-204974",
+ "discontinued": [
+  {
+   "name": "Uber",
+   "pkg": "",
+   "src": "https://www.bento.travel/pakistan/ride-hailing"
+  },
+  {
+   "name": "Careem",
+   "pkg": "",
+   "src": "https://www.bento.travel/pakistan/ride-hailing"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Teilreisewarnung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/pakistansicherheit-204974"
+  },
+  {
+   "name": "Pakistan Online Visa (NADRA)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Visum vorab online beantragen, für Deutsche gebührenfrei",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://mofa.gov.pk/frankfurt-visa-prior-to-arrival"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": true,
+   "note": "Fahrten mit Preisvorschlag, in vielen Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Telefonnummer mit SMS-Empfang zur Anmeldung nötig",
+   "src": "https://www.bento.travel/pakistan/ride-hailing"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": true,
+   "note": "Fahrten mit Festpreis, Auto oder Motorrad",
+   "city": "",
+   "use": "limited",
+   "req": "Kartenzahlung nicht immer angeboten, Rupien bar mitnehmen",
+   "src": "https://www.bento.travel/pakistan/ride-hailing"
+  },
+  {
+   "name": "Bykea",
+   "cat": "taxi",
+   "pkg": "com.bykea.pk",
+   "ess": false,
+   "note": "Motorrad, Rikscha und Auto in drei Großstädten",
+   "city": "",
+   "use": "limited",
+   "req": "Telefonnummer mit SMS-Empfang zur Anmeldung nötig",
+   "src": "https://www.bento.travel/pakistan/ride-hailing"
+  },
+  {
+   "name": "foodpanda",
+   "cat": "delivery",
+   "pkg": "com.global.foodpanda.android",
+   "ess": true,
+   "note": "Essen, Lebensmittel und Kleinkram liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "SMS-Code an Telefonnummer nötig, ausländische Karte kann scheitern",
+   "src": "https://www.bento.travel/pakistan/food-delivery"
+  },
+  {
+   "name": "inDrive.Groceries",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lebensmittel in 20 bis 30 Minuten über inDrive",
+   "city": "Karachi",
+   "use": "limited",
+   "req": "Bestellung in der inDrive-App, Zahlungsarten nicht angegeben",
+   "src": "https://www.intelligentcio.com/apac/2026/01/14/indrive-launches-grocery-delivery-with-krave-mart-in-pakistan/"
+  },
+  {
+   "name": "JazzCash",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse für Zahlungen im Land",
+   "city": "",
+   "use": "no",
+   "req": "Pakistanischer Ausweis (CNIC) und lokale SIM nötig",
+   "src": "https://www.bento.travel/pakistan/payments"
+  },
+  {
+   "name": "easypaisa",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse für Zahlungen im Land",
+   "city": "",
+   "use": "no",
+   "req": "Pakistanischer Ausweis (CNIC) und lokale SIM nötig",
+   "src": "https://www.bento.travel/pakistan/payments"
+  },
+  {
+   "name": "RABTA",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Buchungs-App der Pakistan Railways",
+   "city": "",
+   "use": "no",
+   "req": "Laut Nutzerbewertung CNIC je Fahrgast nötig",
+   "src": "https://apps.apple.com/pk/app/rabta/id6446243993"
+  },
+  {
+   "name": "eTransit Punjab",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Orange Line und Metrobus: Fahrplan live, T-Cash",
+   "city": "Lahore",
+   "use": "limited",
+   "req": "Kontofunktionen mit Identitätsprüfung, Fahrt auch mit T-Cash-Karte",
+   "src": "https://apps.apple.com/us/app/id1638285980"
+  },
+  {
+   "name": "Peoples Bus Service",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Routen, Fahrpreise und Busse live verfolgen",
+   "city": "Karachi",
+   "use": "limited",
+   "req": "Registrierung laut Quelle unklar, Zahlung per QR oder Karte",
+   "src": "https://arynews.tv/peoples-bus-service-mobile-app-all-you-need-to-know"
+  },
+  {
+   "name": "City Islamabad",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Stadt-App mit Busrouten und Sehenswürdigkeiten",
+   "city": "Islamabad",
+   "use": "ok",
+   "req": "",
+   "src": "https://ictadministration.gov.pk/official-mobile-phone-app/"
+  },
+  {
+   "name": "Zu",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busrouten, Live-Busse und Zu-Karte des BRT",
+   "city": "Peshawar",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/pakistan/transit"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen, Filiale in Lahore Gulberg",
+   "city": "Lahore",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte, Bedingungen bei Filiale erfragen",
+   "src": "https://www.avis.com/en/locations/pk/lahore/wq4"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App für schwule Männer",
+   "city": "",
+   "use": "no",
+   "req": "Seit 2020 von der Behörde PTA gesperrt, Nutzung riskant",
+   "src": "https://www.dawn.com/news/1577727"
+  },
+  {
+   "name": "Bookme Pakistan",
+   "cat": "rail",
+   "pkg": "com.macropaks.bookme",
+   "ess": false,
+   "note": "Busse, Flüge und Züge vergleichen und buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/pakistan"
+  },
+  {
+   "name": "PAK NDMA-Disaster Alert",
+   "cat": "safety",
+   "pkg": "com.mobileapp.ndmaalert",
+   "ess": false,
+   "note": "Offizielle Katastrophenwarnungen und Notrufnummern",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/pakistan"
+  }
+ ]
+}

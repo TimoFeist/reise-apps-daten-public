@@ -1,0 +1,66 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Reisewarnung fürs Westjordanland; Einreise mit CoGAT-Genehmigung über Jordanien, israelische Mietwagen dort nicht versichert.",
+ "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar und gesellschaftlich ein Tabu, Fälle gegen Ausländer sind bisher nicht bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Lage ändert sich schnell",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674"
+  },
+  {
+   "name": "Red Alert",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Warnt vor Raketenalarm, vom Auswärtigen Amt genannt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674"
+  },
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst-App, u. a. in Nablus, Ramallah und Hebron",
+   "city": "",
+   "use": "limited",
+   "req": "Aktuelle Verfügbarkeit vor Ort vorab prüfen",
+   "src": "https://drive.careem.com/en-ps/nablus"
+  },
+  {
+   "name": "Yummy",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst für Essen und Einkäufe im Westjordanland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1448247070"
+  },
+  {
+   "name": "Bethlehem Gate",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Sehenswürdigkeiten, Öffnungszeiten und Hotels in Bethlehem",
+   "city": "Bethlehem",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/bethlehem-gate/id1644048648"
+  }
+ ]
+}

@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "MM",
-"en": "Myanmar",
-"slug": "myanmar"
-},
-{
-"code": "PK",
-"en": "Pakistan",
-"slug": "pakistan"
-},
-{
-"code": "PS",
-"en": "Palestine, State of",
-"slug": "palestine"
-},
-{
-"code": "SY",
-"en": "Syria",
-"slug": "syria"
-},
-{
 "code": "TJ",
 "en": "Tajikistan",
 "slug": "tajikistan"
@@ -267,6 +247,26 @@
 "code": "MN",
 "en": "Mongolia",
 "slug": "mongolia"
+},
+{
+"code": "MM",
+"en": "Myanmar",
+"slug": "myanmar"
+},
+{
+"code": "PK",
+"en": "Pakistan",
+"slug": "pakistan"
+},
+{
+"code": "PS",
+"en": "Palestine, State of",
+"slug": "palestine"
+},
+{
+"code": "SY",
+"en": "Syria",
+"slug": "syria"
 }
 ]
 }

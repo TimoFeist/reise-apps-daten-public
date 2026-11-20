@@ -1,0 +1,187 @@
+{
+ "src": "https://www.bento.travel/myanmar",
+ "fetched": "2026-11-20",
+ "updated": "August 2026",
+ "note": "Reisewarnung beachten, E-Visum vorab; saubere US-Dollar und Kyat bar mitnehmen, Karten und Automaten versagen oft.",
+ "lgbtq_note": "Homosexualität wird im Strafrecht nicht ausdrücklich genannt, als widernatürliche Handlung drohen aber bis zu lebenslange Haft, ein offener Umgang ist kaum möglich.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/myanmar-node/myanmarsicherheit-212100",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Reisewarnung gilt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/myanmar-node/myanmarsicherheit-212100"
+  },
+  {
+   "name": "Myanmar eVisa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielles Portal für das Touristen-E-Visum",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://evisa.moip.gov.mm"
+  },
+  {
+   "name": "Grab",
+   "cat": "taxi",
+   "pkg": "com.grabtaxi.passenger",
+   "ess": true,
+   "note": "Wichtigste Fahrdienst-App in Yangon und Mandalay",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karte unzuverlässig, bar in Kyat zahlen",
+   "src": "https://bento.travel/myanmar/ride-hailing"
+  },
+  {
+   "name": "CaCa Taxi",
+   "cat": "taxi",
+   "pkg": "com.myan.caca",
+   "ess": false,
+   "note": "Lokale Taxi-App als Ersatz in Yangon",
+   "city": "Yangon",
+   "use": "limited",
+   "req": "Registrierung laut Quelle unklar, Zahlung bar in Kyat",
+   "src": "https://bento.travel/myanmar/ride-hailing"
+  },
+  {
+   "name": "KBZPay",
+   "cat": "payment",
+   "pkg": "com.kbzbank.kpaycustomer",
+   "ess": false,
+   "note": "Verbreitete Wallet für QR-Zahlungen in Geschäften",
+   "city": "",
+   "use": "limited",
+   "req": "Lokale SIM, Reisepass und Adresse in Myanmar nötig",
+   "src": "https://www.bento.travel/myanmar/payments"
+  },
+  {
+   "name": "WavePay",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Wallet für Zahlungen und Guthaben",
+   "city": "",
+   "use": "limited",
+   "req": "Lokale Telefonnummer und Registrierung als Ausländer nötig",
+   "src": "https://www.bento.travel/myanmar/payments"
+  },
+  {
+   "name": "foodpanda",
+   "cat": "delivery",
+   "pkg": "com.global.foodpanda.android",
+   "ess": false,
+   "note": "Essenslieferung in vielen Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Lokale SIM für SMS-Bestätigung empfohlen",
+   "src": "https://careers.foodpanda.com/myanmar"
+  },
+  {
+   "name": "GrabFood",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung in zentralen Stadtteilen",
+   "city": "Yangon",
+   "use": "limited",
+   "req": "Nur Barzahlung, nur einige Stadtteile",
+   "src": "https://www.grab.com/mm/en/food/"
+  },
+  {
+   "name": "Oway Travel",
+   "cat": "flights",
+   "pkg": "com.mobile.oway.myapplication",
+   "ess": true,
+   "note": "Inlandsflüge, Fernbusse und Hotels buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1314252839"
+  },
+  {
+   "name": "ORTP Myanma Railways",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizieller Online-Ticketkauf für Züge Yangon nach Mandalay",
+   "city": "",
+   "use": "no",
+   "req": "Nur lokale Zahlung per MPU oder MMQR",
+   "src": "https://elevenmyanmar.com/node/309528"
+  },
+  {
+   "name": "Myanmar Be Enchanted",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Reise-App des Tourismusministeriums",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apple.co/2RrWZcT"
+  },
+  {
+   "name": "Yoma Car Share",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen zum Selbstfahren per App",
+   "city": "",
+   "use": "no",
+   "req": "Deutscher und internationaler Führerschein nicht anerkannt",
+   "src": "https://apps.apple.com/app/id1607268398"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": true,
+   "note": "Messenger für Hotels, Fahrer und Kontakte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/myanmar"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Kostenlose Offline-Karten auf OpenStreetMap-Basis",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/myanmar"
+  },
+  {
+   "name": "Yangon Bus: Easy YBS",
+   "cat": "transit",
+   "pkg": "com.linndev.easyybs",
+   "ess": false,
+   "note": "Busrouten und Haltestellen in Yangon",
+   "city": "Yangon",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/myanmar"
+  },
+  {
+   "name": "Moezala",
+   "cat": "safety",
+   "pkg": "com.shwedigit.moezala",
+   "ess": true,
+   "note": "Offizielle Wetter- und Warn-App mit Flusspegeln",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/myanmar"
+  }
+ ]
+}

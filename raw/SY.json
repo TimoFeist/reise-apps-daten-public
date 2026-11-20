@@ -1,0 +1,121 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Reisewarnung des Auswärtigen Amts; Visum meist bei Einreise mit Reisepass, Kreditkarten gehen nicht, US-Dollar bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Beziehungen sind verboten und können mit Gefängnis bestraft werden, seit Dezember 2024 häufen sich Angriffe auf LGBTIQ-Personen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Lage ändert sich schnell",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278"
+  },
+  {
+   "name": "YallaGo!",
+   "cat": "taxi",
+   "pkg": "ae.com.yalla.go.dubai.client",
+   "ess": true,
+   "note": "Verbreitetster Fahrdienst, auch Kurier und Lieferung",
+   "city": "",
+   "use": "no",
+   "req": "Syrische Telefonnummer nötig, Zahlung bar in Pfund",
+   "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+  },
+  {
+   "name": "YallaGo Pro",
+   "cat": "taxi",
+   "pkg": "com.yallagopro.app",
+   "ess": false,
+   "note": "Fahrdienst-Variante für Aleppo, Homs, Latakia u. a.",
+   "city": "",
+   "use": "no",
+   "req": "Syrische Telefonnummer nötig, Zahlung bar",
+   "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+  },
+  {
+   "name": "Electro Taxi",
+   "cat": "taxi",
+   "pkg": "com.vega.electro",
+   "ess": false,
+   "note": "Elektrotaxis in Damaskus, auch Überlandfahrten",
+   "city": "Damascus",
+   "use": "no",
+   "req": "Syrische Telefonnummer nötig, Zahlung bar",
+   "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+  },
+  {
+   "name": "Shahm Taxi",
+   "cat": "taxi",
+   "pkg": "com.turnpoint.shahmuser",
+   "ess": false,
+   "note": "Taxi-App für mehrere große Städte",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit ausländischer Nummer unklar, meist Barzahlung",
+   "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+  },
+  {
+   "name": "Tfadal",
+   "cat": "taxi",
+   "pkg": "com.bis.taxi",
+   "ess": false,
+   "note": "Lokale App für Fahrten und Lieferungen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit ausländischer Nummer unklar",
+   "src": "https://tfadal.sy/?lang=ar"
+  },
+  {
+   "name": "BeeOrder",
+   "cat": "delivery",
+   "pkg": "com.beeorder.customer",
+   "ess": false,
+   "note": "Lieferung von Restaurants und Supermärkten",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit ausländischer Nummer unklar, Bargeld üblich",
+   "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+  },
+  {
+   "name": "Movo",
+   "cat": "delivery",
+   "pkg": "com.movo.movouser",
+   "ess": false,
+   "note": "Lieferdienst für Essen und Lebensmittel",
+   "city": "",
+   "use": "limited",
+   "req": "Kartenzahlung nur laut Anbieter, nicht unabhängig bestätigt",
+   "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride"
+  },
+  {
+   "name": "My Syria",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Hotels, Mietwagen und Erlebnisse buchen, Karten möglich",
+   "city": "Damascus",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.khaleejtimes.com/uae/dubai-damascus-my-syria-app-supports-tourism"
+  }
+ ]
+}
