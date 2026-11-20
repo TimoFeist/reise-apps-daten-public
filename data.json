@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 14:38",
+ "version": "2026-11-20 15:18",
  "categories": [
   {
    "id": "entry",
@@ -27878,6 +27878,304 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar (Geldstrafe oder bis zu einem Jahr Haft), die Regierung verurteilt sie öffentlich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "GG",
+   "name": "Guernsey",
+   "flag": "🇬🇬",
+   "apps": [
+    {
+     "name": "buses.gg",
+     "cat": "transit",
+     "pkg": "travel.ticketless.app.busesgg",
+     "note": "Busplaner mit Live-Positionen und Haltestelleninfos",
+     "ess": true,
+     "src": "https://www.visitguernsey.com/planning/getting-around/buses-and-coaches/"
+    },
+    {
+     "name": "Guernsey Taxi App",
+     "cat": "taxi",
+     "pkg": "com.taxicaller.GuernseyTaxiApp.app",
+     "note": "Lizenzierte Taxis rufen, Fahrpreis zahlt man beim Fahrer",
+     "ess": true,
+     "src": "https://www.gov.gg/taxi"
+    },
+    {
+     "name": "VisitGuernsey",
+     "cat": "tourism",
+     "pkg": "com.tpagency.visitguernsey",
+     "note": "Offizielle Routen zum Wandern, Radeln und Baden",
+     "ess": true,
+     "src": "https://trade.visitguernsey.com/marketing/campaign/visitguernsey-app/"
+    },
+    {
+     "name": "EVie",
+     "cat": "carshare",
+     "note": "Elektro-Mietwagen direkt am Hafenterminal",
+     "use": "limited",
+     "req": "Konto mit gültigem Führerschein, Freigabe dauert bis 24 Std.",
+     "src": "https://evieondemand.com/evie--islands-unlimited"
+    },
+    {
+     "name": "Condor Ferries",
+     "cat": "rail",
+     "note": "Fähren buchen, Bordkarte und Live-Status der Abfahrten",
+     "src": "https://apps.apple.com/md/app/id1451504867?l=en-gb"
+    },
+    {
+     "name": "Aurigny",
+     "cat": "flights",
+     "note": "Flüge der Inselairline buchen und verwalten",
+     "src": "https://www.bailiwickexpress.com/news-ge/aurignys-new-app-aims-to-make-your-life-easier/"
+    },
+    {
+     "name": "Takeout.gg",
+     "cat": "delivery",
+     "note": "Essen von Lokalen, Cafés und Metzgern liefern lassen",
+     "src": "https://apps.apple.com/us/app/id1519386182"
+    },
+    {
+     "name": "Food.gg",
+     "cat": "delivery",
+     "note": "Takeaway von über 30 Lokalen, seit 2022 ohne Update",
+     "src": "https://apps.apple.com/us/app/id1501608248"
+    },
+    {
+     "name": "Snappy Shopper",
+     "cat": "delivery",
+     "note": "Lebensmittel am selben oder nächsten Tag geliefert",
+     "src": "https://retailtechinnovationhub.com/category/grocery-delivery/snappy-shopper-and-alliance-supermarket-team-up-to-launch-same-day-delivery-service-in-guernsey"
+    }
+   ],
+   "cities": [],
+   "note": "Busse nehmen nur kontaktlose Kartenzahlung, kein Bargeld. Parken ist meist gratis, in Disc-Zonen braucht man aber eine Parkscheibe.",
+   "src": "https://www.visitguernsey.com/planning/getting-around/buses-and-coaches/",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung bei Arbeit und Wohnen ist verboten.",
+   "lgbtq_src": "https://www.equaldex.com/region/guernsey",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "IM",
+   "name": "Insel Man",
+   "flag": "🇮🇲",
+   "apps": [
+    {
+     "name": "MANNgo Isle of Man Transport",
+     "cat": "transit",
+     "note": "Rufbus connectVILLAGES im Norden um Ramsey buchen",
+     "ess": true,
+     "src": "https://apps.apple.com/us/app/id1572640935"
+    },
+    {
+     "name": "Kivoon: Isle of Man Bus Times",
+     "cat": "transit",
+     "note": "Inoffiziell: Live-Abfahrten für Bus und historische Bahnen",
+     "src": "https://apps.apple.com/app/id6760610031"
+    },
+    {
+     "name": "One Island",
+     "cat": "taxi",
+     "note": "Taxi buchen, verfolgen und zahlen, dazu Bus- und Fährinfos",
+     "ess": true,
+     "src": "https://www.manxradio.com/news/isle-of-man-news/one-island-app-brings-uber-style-taxis-to-island/"
+    },
+    {
+     "name": "Just Eat",
+     "cat": "delivery",
+     "note": "Bestellen bei einzelnen Lieferdiensten wie Domino's",
+     "src": "https://www.just-eat.co.uk/restaurants-dominos-douglas-isle-of-man/menu"
+    },
+    {
+     "name": "RingGo",
+     "cat": "parking",
+     "note": "Parken am Flughafen Ronaldsway per App bezahlen",
+     "src": "https://www.gov.im/news/2022/may/20/cashless-parking-system-to-launch-at-isle-of-man-airport-on-tuesday-24-may/"
+    },
+    {
+     "name": "TT+",
+     "cat": "tourism",
+     "pkg": "ott.ttplus",
+     "note": "Offizielle TT-Rennen als Livestream und Archiv",
+     "src": "https://play.google.com/store/apps/details?id=ott.ttplus"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Douglas",
+     "match": [
+      "Douglas"
+     ],
+     "apps": [
+      {
+       "name": "Dazzler: Food, Venues & Events",
+       "cat": "delivery",
+       "note": "Lokale Essenslieferung, Abholung und Tischreservierung",
+       "src": "https://apps.apple.com/app/id6771701530"
+      }
+     ]
+    }
+   ],
+   "note": "Bustickets beim Fahrer kontaktlos zahlen, ausländische Karten gehen außer Maestro und Amex. Go Explore gilt auch für die Bahnen.",
+   "src": "https://www.iombusandrail.im/explore-our-island/visitor-guide/",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1992 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
+   "lgbtq_src": "https://equaldex.com/region/isle-of-man",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "JE",
+   "name": "Jersey",
+   "flag": "🇯🇪",
+   "apps": [
+    {
+     "name": "LibertyBus",
+     "cat": "transit",
+     "pkg": "travel.ticketless.app.liberty",
+     "note": "Bustickets und Pässe kaufen, Abfahrten live, Routenplaner",
+     "ess": true,
+     "src": "https://www.jersey.com/plan-your-break/getting-around-jersey/bus-travel/"
+    },
+    {
+     "name": "Jersey Bus Tracker",
+     "cat": "transit",
+     "note": "Zeigt live, wo sich der Bus gerade befindet",
+     "src": "https://www.jersey.com/plan-your-break/getting-around-jersey/bus-travel/"
+    },
+    {
+     "name": "Jersey Taxiapp",
+     "cat": "taxi",
+     "note": "Taxis vom öffentlichen Stand buchen, mit Preisschätzung",
+     "ess": true,
+     "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis"
+    },
+    {
+     "name": "Ryde",
+     "cat": "taxi",
+     "note": "Elektrotaxi buchen, Fahrer live verfolgen, in App zahlen",
+     "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis"
+    },
+    {
+     "name": "EVie",
+     "cat": "carshare",
+     "pkg": "com.vulog.carshare.oa.evie.prod",
+     "note": "E-Autos, Transporter und E-Bikes inselweit leihen",
+     "use": "limited",
+     "req": "Gültiger Führerschein nötig, Freischaltung dauert bis 24 Stunden",
+     "src": "https://evieondemand.com/how-to-use-evie"
+    },
+    {
+     "name": "PayByPhone",
+     "cat": "parking",
+     "pkg": "com.paybyphone",
+     "note": "Parkgebühren auf öffentlichen Plätzen per Handy zahlen",
+     "ess": true,
+     "use": "limited",
+     "req": "Registrierung mit Kennzeichen und Bankkarte nötig",
+     "src": "https://www.gov.je/Travel/Motoring/Parking/PayForParking/Pages/PayByPhoneApp.aspx"
+    },
+    {
+     "name": "Food.je",
+     "cat": "delivery",
+     "note": "Essen von über 100 Lokalen bestellen, seit 2022 kein Update",
+     "src": "https://apps.apple.com/us/app/-/id1295380780"
+    },
+    {
+     "name": "Snappy Shopper",
+     "cat": "delivery",
+     "note": "Schnelle Lieferung von Einkäufen, unter anderem von Iceland",
+     "src": "https://retailtechinnovationhub.com/home/2026/6/8/on-demand-delivery-firm-snappy-shopper-expands-into-jersey-with-alliance-retail-and-iceland-foods"
+    },
+    {
+     "name": "Jersey Zoo",
+     "cat": "tourism",
+     "note": "Offizielle Zoo-App mit Karte, Pflegerzeiten und Rallyes",
+     "src": "https://apps.apple.com/us/app/id6478955756"
+    }
+   ],
+   "cities": [],
+   "note": "Bustickets vorab in der LibertyBus App kaufen, Parken auf öffentlichen Plätzen mit Paycard oder PayByPhone bezahlen.",
+   "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis",
+   "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1990 legal, die Ehe für alle gilt seit 2018, Diskriminierung ist gesetzlich verboten.",
+   "lgbtq_src": "https://www.equaldex.com/region/Jersey",
+   "checked": "2026-11-20"
+  },
+  {
+   "code": "LI",
+   "name": "Liechtenstein",
+   "flag": "🇱🇮",
+   "apps": [
+    {
+     "name": "SBB Mobile",
+     "cat": "rail",
+     "pkg": "ch.sbb.mobile.android.b2c",
+     "note": "Tickets für Fahrten in, von und nach Liechtenstein",
+     "ess": true,
+     "src": "https://liemobil.li/en/passes-tickets/"
+    },
+    {
+     "name": "FAIRTIQ",
+     "cat": "transit",
+     "pkg": "com.fairtiq.android",
+     "note": "Ein- und auschecken im Bus, gilt auch in CH und Vorarlberg",
+     "ess": true,
+     "src": "https://liemobil.li/en/passes-tickets/"
+    },
+    {
+     "name": "öV Plus",
+     "cat": "transit",
+     "note": "Fahrplan und Tickets, von LIEmobil empfohlen",
+     "src": "https://liemobil.li/en/passes-tickets/"
+    },
+    {
+     "name": "LIEbike",
+     "cat": "micro",
+     "note": "E-Bike-Verleih von LIEmobil an 34 Stationen im Land",
+     "use": "limited",
+     "req": "Ausweis scannen, Kreditkarte hinterlegen, ab 16 Jahren",
+     "src": "https://liemobil.li/en/liebike"
+    },
+    {
+     "name": "WELCOME",
+     "cat": "tourism",
+     "note": "Digitale Gästekarte mit QR-Code für Rabatte und Bus",
+     "ess": true,
+     "src": "https://en.tourismus.li/angebote/freizeit/welcome-erlebnispass.html"
+    },
+    {
+     "name": "LIstory",
+     "cat": "tourism",
+     "note": "Gratis Begleiter für den Liechtenstein-Weg mit Infostationen",
+     "src": "https://tourismus.li/en/the-liechtenstein-trail/the-listory-app/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtensteinsicherheit-222960"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Vaduz",
+     "match": [
+      "Vaduz"
+     ],
+     "apps": [
+      {
+       "name": "Sponti-Car",
+       "cat": "carshare",
+       "note": "Elektroauto im Städtle rund um die Uhr per App mieten",
+       "use": "limited",
+       "req": "Registrierung und Führerscheinprüfung nötig",
+       "src": "https://www.vaduz.li/en/news/new-car-sharing-service-in-vaduz"
+      }
+     ]
+    }
+   ],
+   "note": "Im LIEmobil Bus kontaktlos mit Debit- oder Kreditkarte zahlen, Tickets gibt es auch in SBB Mobile und FAIRTIQ.",
+   "src": "https://liemobil.li/en/passes-tickets/",
+   "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTIQ Reisende.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtensteinsicherheit-222960",
    "checked": "2026-11-20"
   }
  ]
