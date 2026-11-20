@@ -1,0 +1,253 @@
+{
+ "src": "https://www.bento.travel/kazakhstan",
+ "fetched": "2026-11-20",
+ "updated": "Last updated: August 2026",
+ "note": "Bis 30 Tage visumfrei; Yandex Go vorab installieren, SMS-Empfang prüfen und Bargeld in Tenge mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, seit März 2026 ist aber LGBTQ+ Propaganda strafbar, Zurückhaltung auch online ratsam.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "QazETA",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Elektronische Einreisegenehmigung, ab Juli 2027 Pflicht",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reisehinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342"
+  },
+  {
+   "name": "Yandex Go",
+   "cat": "taxi",
+   "pkg": "ru.yandex.taxi",
+   "ess": true,
+   "note": "Wichtigste Taxi-App, auch Lieferung, Englisch",
+   "city": "",
+   "use": "limited",
+   "req": "SMS-Bestätigung nötig, mit reiner Daten-eSIM schwierig",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": false,
+   "note": "Taxi mit eigenem Preisvorschlag",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "Uber KZ",
+   "cat": "taxi",
+   "pkg": "ru.yandex.uber_kz",
+   "ess": false,
+   "note": "Eigene Uber-App für Kasachstan",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": false,
+   "note": "Essen und Einkäufe in größeren Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": false,
+   "note": "Lieferdienst mit englischer Oberfläche",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "Chocofood",
+   "cat": "delivery",
+   "pkg": "kz.chocofood.chocofoodapp",
+   "ess": false,
+   "note": "Lokaler Restaurantlieferdienst, meist Russisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "2GIS",
+   "cat": "maps",
+   "pkg": "ru.dublgis.dgismobile",
+   "ess": true,
+   "note": "Genaue Stadtkarte mit Eingängen und ÖPNV",
+   "city": "",
+   "use": "limited",
+   "req": "Verfügbarkeit im Store hängt vom Kontoland ab",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "Yandex Maps",
+   "cat": "maps",
+   "pkg": "ru.yandex.yandexmaps",
+   "ess": false,
+   "note": "Navigation und Verkehrslage",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "ONAY!",
+   "cat": "transit",
+   "pkg": "kz.onay",
+   "ess": false,
+   "note": "ÖPNV in Almaty und weiteren Städten",
+   "city": "Almaty",
+   "use": "limited",
+   "req": "Ausländische Karten oft abgelehnt, sonst Onay-Karte kaufen",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "Avtobys",
+   "cat": "transit",
+   "pkg": "kz.avtobys.userapp",
+   "ess": false,
+   "note": "Busse in Astana, Shymkent und weiteren Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Nummer oder Karte kann scheitern",
+   "src": "https://www.bento.travel/kazakhstan/transit"
+  },
+  {
+   "name": "Yandex Translate",
+   "cat": "misc",
+   "pkg": "ru.yandex.translate",
+   "ess": false,
+   "note": "Übersetzer für Russisch und Kasachisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "KTZ Tickets",
+   "cat": "rail",
+   "pkg": "kz.railways.bilet.ktjbilets",
+   "ess": false,
+   "note": "Offizielle Bahntickets, nur Android",
+   "city": "",
+   "use": "limited",
+   "req": "Lokale Nummer oder ausländische Karte oft problematisch",
+   "src": "https://www.bento.travel/kazakhstan"
+  },
+  {
+   "name": "Kaspi.kz",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Bank, Bezahlung per QR und Marktplatz",
+   "city": "",
+   "use": "no",
+   "req": "Kasachische IIN und Telefonnummer nötig",
+   "src": "https://astanatimes.com/2025/04/how-foreign-citizens-can-get-bank-cards-in-kazakhstan/"
+  },
+  {
+   "name": "Homebank",
+   "cat": "payment",
+   "pkg": "kz.kkb.homebank",
+   "ess": false,
+   "note": "App der Halyk Bank",
+   "city": "",
+   "use": "no",
+   "req": "IIN, kasachische Nummer und Besuch in Filiale nötig",
+   "src": "https://halykbank.kz/en/card/card-nerezident"
+  },
+  {
+   "name": "Anytime",
+   "cat": "carshare",
+   "pkg": "kz.anytime.mobile.android",
+   "ess": false,
+   "note": "Carsharing nur in Almaty, ab 48 Tenge pro Minute",
+   "city": "Almaty",
+   "use": "limited",
+   "req": "Ab 18 Jahren, ausländischer Führerschein möglich",
+   "src": "https://getmancar.com/blogs/carsharing-in-kazakhstan"
+  },
+  {
+   "name": "Jet",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter mieten, Bankkarte hinterlegen",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 Jahren, Bankkarte nötig",
+   "src": "https://sxodim.com/astana/article/jet-whoosh-i-yandeks-go-vse-ob-arende-elektrosamokatov/amp"
+  },
+  {
+   "name": "Whoosh",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter mieten mit Registrierung",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 Jahren, Bankkarte nötig",
+   "src": "https://sxodim.com/astana/article/jet-whoosh-i-yandeks-go-vse-ob-arende-elektrosamokatov/amp"
+  },
+  {
+   "name": "Almaty Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle städtische Parkapp, Minutentarif",
+   "city": "Almaty",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://apps.apple.com/us/app/%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B0%D0%BB%D0%BC%D0%B0%D1%82%D1%8B/id6451193990?uo=4"
+  },
+  {
+   "name": "Kazakhstan.travel Guides",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Register offizieller Guides und Routen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1610058507"
+  },
+  {
+   "name": "Almaty Region Travel",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reiseführer für das Gebiet Almaty, auf Englisch",
+   "city": "Almaty",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id6461822030"
+  }
+ ]
+}

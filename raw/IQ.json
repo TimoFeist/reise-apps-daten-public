@@ -1,0 +1,176 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "E-Visum vor der Reise nötig: Zentralirak über evisa.iq, Kurdistan über visit.gov.krd. Es gilt eine Reisewarnung.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2024 mit bis zu 15 Jahren Haft strafbar, in Kurdistan gilt das Gesetz formal noch nicht.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Irak E-Visum (evisa.iq)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht für Zentralirak, Aufenthalt bis 30 Tage",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738"
+  },
+  {
+   "name": "Kurdistan E-Visum (visit.gov.krd)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Visum der Region Kurdistan, gilt nicht für Zentralirak",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.fragomen.com/insights/iraqi-kurdistan-electronic-visa-portal-launched.html"
+  },
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "com.careem.acma",
+   "ess": true,
+   "note": "Fahrdienst in Bagdad, Flughafentransfer in vier Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://www.careem.com/en-AE/iraq-rides/"
+  },
+  {
+   "name": "Baly",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi oder Privatwagen buchen, dazu Essenslieferung",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://apps.apple.com/us/app/baly-bly/id1590560595?l=en"
+  },
+  {
+   "name": "Amin",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi und Lieferung in Bagdad, Nadschaf, Babil, Kerbela",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung per Telefonnummer, ausländische Nummer unklar",
+   "src": "https://apps.apple.com/app/id1447501346"
+  },
+  {
+   "name": "Alo TukTuk",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Tuk-Tuk per App rufen, Fahrer sind verifiziert",
+   "city": "Baghdad",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://en.964media.com/36398"
+  },
+  {
+   "name": "Lezzoo",
+   "cat": "delivery",
+   "pkg": "com.fastwares.lezzoo.eats",
+   "ess": false,
+   "note": "Essen, Einkauf und Taxi, vor allem in Kurdistan",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://lezzoo.com/"
+  },
+  {
+   "name": "talabat",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen und Lebensmittel liefern, Barzahlung möglich",
+   "city": "",
+   "use": "limited",
+   "req": "Telefonnummer für Lieferung nötig, ausländische unklar",
+   "src": "https://www.talabat.com/ar/iraq/terms"
+  },
+  {
+   "name": "Sixt",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen im Irak, Buchung in der App verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 20 Jahren, Führerschein und Reisepass nötig",
+   "src": "https://www.sixt.com/car-rental/iraq"
+  },
+  {
+   "name": "Iraqi Airways",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge der Nationalairline buchen, Zahlung per Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/lt/app/iraqi-airways/id1455860304"
+  },
+  {
+   "name": "Erbil International Airport",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Abflüge und Ankünfte am Flughafen Erbil in Echtzeit",
+   "city": "Erbil",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id6444721399"
+  },
+  {
+   "name": "Visitor of Imam Hussain",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Pilgerhilfe mit Karte, Servicepunkten und Livestream",
+   "city": "Karbala",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://business.uokerbala.edu.iq/wp/en/?p=11519"
+  },
+  {
+   "name": "First Iraqi Bank (FIB)",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Digitalbank mit QR-Zahlung im ganzen Land",
+   "city": "",
+   "use": "limited",
+   "req": "Ausweis nötig, ob ausländischer Pass reicht ist offen",
+   "src": "https://fib.iq/en"
+  },
+  {
+   "name": "ZainCash",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Irakischer Ausweis oder Aufenthaltstitel nötig",
+   "src": "https://zaincash.iq/help/accounts-faq"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Sicherheitskräfte locken Nutzer über Dating-Apps in Fallen",
+   "city": "",
+   "use": "no",
+   "req": "Gefährlich, Haftstrafe bis 15 Jahre droht",
+   "src": "https://www.gov.uk/government/publications/iraq-country-policy-and-information-notes/country-policy-and-information-note-sexual-orientation-and-gender-identity-and-expression-iraq-july-2025-accessible"
+  }
+ ]
+}

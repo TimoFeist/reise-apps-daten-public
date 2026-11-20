@@ -1,0 +1,99 @@
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/iran-node/iransicherheit/202396",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Reisewarnung des Auswärtigen Amts, ausländische Karten funktionieren wegen Sanktionen nicht, genug Bargeld mitnehmen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar und teils mit der Todesstrafe bedroht, Nutzer von Apps werden überwacht.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/iran-node/iransicherheit/202396",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Snapp!",
+   "cat": "taxi",
+   "pkg": "cab.snapp.passenger.play",
+   "ess": true,
+   "note": "Größter Fahrdienst, englisches Menü, Zahlung auch bar",
+   "city": "",
+   "use": "no",
+   "req": "Iranische Telefonnummer zur Bestätigung nötig",
+   "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+  },
+  {
+   "name": "Tapsi",
+   "cat": "taxi",
+   "pkg": "taxi.tap30.passenger.play",
+   "ess": false,
+   "note": "Fahrdienst mit englischer Oberfläche",
+   "city": "",
+   "use": "no",
+   "req": "Iranische Telefonnummer für SMS-Code nötig",
+   "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+  },
+  {
+   "name": "Maxim",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Weiterer Fahrdienst, Zahlung bar oder per Touristenkarte",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung laut Quelle nicht beschrieben",
+   "src": "https://www.visitouriran.com/blog/guide-to-ride-hailing-apps-in-iran-for-tourists-2024/"
+  },
+  {
+   "name": "SnappFood",
+   "cat": "delivery",
+   "pkg": "com.zoodfood.android",
+   "ess": false,
+   "note": "Essen aus vielen Läden bestellen, Bezahlung auch bar",
+   "city": "",
+   "use": "limited",
+   "req": "Onlinezahlung nur mit iranischer Bankkarte",
+   "src": "https://cafebazaar.ir/app/com.zoodfood.android?l=en"
+  },
+  {
+   "name": "Alibaba",
+   "cat": "rail",
+   "pkg": "ir.alibaba",
+   "ess": false,
+   "note": "Zug, Bus, Inlandsflüge und Hotels in Iran buchen",
+   "city": "",
+   "use": "no",
+   "req": "Zahlung nur online in Rial mit iranischer Karte",
+   "src": "https://cafebazaar.ir/app/ir.alibaba?l=en"
+  },
+  {
+   "name": "Neshan Map",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Navigation zu Fuß, Auto, Bus und Metro, auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/gb/app/neshan-map/id1548188093"
+  },
+  {
+   "name": "MyTehran",
+   "cat": "transit",
+   "pkg": "com.mytehran",
+   "ess": false,
+   "note": "App der Stadt: Metrotickets, Fahrkarte aufladen, Parken",
+   "city": "Tehran",
+   "use": "limited",
+   "req": "Zahlungen nur mit iranischer Bankkarte",
+   "src": "https://cafebazaar.ir/app/com.mytehran?l=en"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, in Iran seit Jahren gesperrt",
+   "city": "",
+   "use": "no",
+   "req": "Gesperrt, Homosexualität strafbar, Überwachung möglich",
+   "src": "https://techradar.com/vpn/grindr-is-the-second-most-banned-social-apphow-to-unblock-it"
+  }
+ ]
+}

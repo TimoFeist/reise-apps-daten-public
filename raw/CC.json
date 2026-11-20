@@ -1,0 +1,22 @@
+{
+ "src": "https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Es gibt keine Geldautomaten, also genug Bargeld mitnehmen. Deutsche brauchen wie für Australien ein eVisitor-Visum.",
+ "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Recht mit Ehe für alle und Schutz vor Diskriminierung.",
+ "lgbtq_src": "https://www.equaldex.com/region/cocos-keeling-islands",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Virgin Australia",
+   "cat": "flights",
+   "pkg": "com.virginaustralia.vaapp",
+   "ess": true,
+   "note": "Flüge buchen, Sitzplatz wählen und Bordkarte abrufen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.virginaustralia.com/eu/en/travel-info/on-the-move/virgin-australia-app/"
+  }
+ ]
+}

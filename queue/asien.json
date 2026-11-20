@@ -2,26 +2,6 @@
 "continent": "AS",
 "todo": [
 {
-"code": "CC",
-"en": "Cocos (Keeling) Islands",
-"slug": "cocos-keeling-islands"
-},
-{
-"code": "IR",
-"en": "Iran",
-"slug": "iran"
-},
-{
-"code": "IQ",
-"en": "Iraq",
-"slug": "iraq"
-},
-{
-"code": "KZ",
-"en": "Kazakhstan",
-"slug": "kazakhstan"
-},
-{
 "code": "KG",
 "en": "Kyrgyzstan",
 "slug": "kyrgyzstan"
@@ -267,6 +247,26 @@
 "code": "CX",
 "en": "Christmas Island",
 "slug": "christmas-island"
+},
+{
+"code": "CC",
+"en": "Cocos (Keeling) Islands",
+"slug": "cocos-keeling-islands"
+},
+{
+"code": "IR",
+"en": "Iran",
+"slug": "iran"
+},
+{
+"code": "IQ",
+"en": "Iraq",
+"slug": "iraq"
+},
+{
+"code": "KZ",
+"en": "Kazakhstan",
+"slug": "kazakhstan"
 }
 ]
 }
