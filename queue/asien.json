@@ -1,12 +1,6 @@
 {
 "continent": "AS",
-"todo": [
-{
-"code": "YE",
-"en": "Yemen",
-"slug": "yemen"
-}
-],
+"todo": [],
 "done": [
 {
 "code": "SG",
@@ -267,6 +261,11 @@
 "code": "UZ",
 "en": "Uzbekistan",
 "slug": "uzbekistan"
+},
+{
+"code": "YE",
+"en": "Yemen",
+"slug": "yemen"
 }
 ]
 }
