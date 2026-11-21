@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-20 23:28",
+ "version": "2026-11-21 00:24",
  "categories": [
   {
    "id": "entry",
@@ -30849,6 +30849,84 @@
    "src": "https://www.bento.travel/uzbekistan",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar, LGBTIQ-Beziehungen sind gesellschaftlich nicht akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/usbekistansicherheit-206790",
+   "checked": "2026-11-21"
+  },
+  {
+   "code": "YE",
+   "name": "Jemen",
+   "flag": "🇾🇪",
+   "apps": [
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260"
+    },
+    {
+     "name": "Krisenvorsorgeliste ELEFAND",
+     "cat": "safety",
+     "note": "Registrierung bei der Krisenvorsorgeliste des AA",
+     "ess": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260"
+    },
+    {
+     "name": "Tawseel One",
+     "cat": "delivery",
+     "pkg": "com.smartapps.tawseel",
+     "note": "Essen, Supermarkt und Läden liefern lassen, Barzahlung",
+     "use": "limited",
+     "req": "Registrierung in der Quelle nicht beschrieben, Zahlung meist bar bei Lieferung",
+     "src": "https://mwm.ai/apps/twsyl-wn-tlbt-lt-m-wkl-shy/1523170839"
+    },
+    {
+     "name": "Karm",
+     "cat": "delivery",
+     "pkg": "net.karm.food",
+     "note": "Essenslieferung in Seiyun und Mukalla",
+     "use": "limited",
+     "req": "Registrierung in der Quelle nicht beschrieben, Barzahlung möglich",
+     "src": "https://mwm.ai/apps/krm-twsyl-t-m-f-lymn/6736373743"
+    }
+   ],
+   "cities": [
+    {
+     "name": "Sanaa",
+     "match": [
+      "Sanaa"
+     ],
+     "apps": [
+      {
+       "name": "Sahl Taxi",
+       "cat": "taxi",
+       "note": "Taxi bestellen mit Preisanzeige, auch per Hotline",
+       "use": "limited",
+       "req": "Registrierung und Zahlung in der Quelle nicht beschrieben",
+       "src": "https://apps.apple.com/de/app/sahl-taxi/id1455325390"
+      },
+      {
+       "name": "Smart Rahal: Sana'a Cab",
+       "cat": "taxi",
+       "note": "Taxi, Economy oder Familienbus in Sanaa bestellen",
+       "use": "limited",
+       "req": "Zahlung bar oder per Überweisung mit lokaler Banking-App",
+       "src": "https://apps.apple.com/app/id1616629462"
+      },
+      {
+       "name": "Wagbat",
+       "cat": "delivery",
+       "note": "Essen von Restaurants in Sanaa bestellen",
+       "use": "limited",
+       "req": "Telefonnummer nötig, Zahlung bar bei Lieferung oder lokal",
+       "src": "https://apps.apple.com/us/app/wagbat-%D9%88%D8%AC%D8%A8%D8%A7%D8%AA-food-delivery/id1437142224"
+      }
+     ]
+    }
+   ],
+   "note": "Das Auswärtige Amt warnt vor Reisen nach Jemen einschließlich Sokotra und fordert Deutsche zur Ausreise auf. Die Botschaft in Sanaa ist geschlossen. Deutsche brauchen ein Visum der jemenitischen Botschaft in Berlin und einen Reisepass mit mindestens 6 Monaten Restgültigkeit.",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260",
+   "lgbtq_note": "Homosexuelle Handlungen sind nach islamischem Recht verboten und können mit dem Tod bestraft werden.",
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260",
    "checked": "2026-11-21"
   }
  ]
