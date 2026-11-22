@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-22 17:19",
+ "version": "2026-11-22 18:59",
  "categories": [
   {
    "id": "entry",
@@ -418,7 +418,7 @@
      "where": "all",
      "note": "Deine eigene App: Leute in der Nähe kennenlernen, ohne Werbung, auch im Browser. Nicht im Play Store, APK direkt von range.contact",
      "url": "https://range.contact",
-     "dl": "https://range.contact/download/rangr.apk",
+     "dl": "https://apps.feist.uk/download/rangr.apk",
      "nostore": true
     },
     {
@@ -428,7 +428,7 @@
      "mine": true,
      "where": "all",
      "note": "Deine eigene App: Währungsrechner. Nicht im Play Store, APK direkt herunterladen",
-     "dl": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/PinRate.apk",
+     "dl": "https://apps.feist.uk/download/pinrate.apk",
      "nostore": true
     }
    ],
