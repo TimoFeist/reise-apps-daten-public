@@ -1,6 +1,6 @@
 {
- "vc": 30,
- "vn": "1.0.30",
+ "vc": 31,
+ "vn": "1.0.31",
  "changes": [
   "Zurück-Taste auf der Startseite fragt jetzt nach, bevor die App geschlossen wird",
   "Neues Design in Schwarz-Weiß mit Regenbogen-Akzenten, ohne graue Titelleiste",
@@ -8,7 +8,7 @@
   "Favoriten und Teilen von Ländern und Städten",
   "Reise-Checkliste mit eigener Packliste und Reisepaket als Datei"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=fc876cf3fd0be9db",
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=337dcfa10cc0962d",
  "size": 2637495,
- "sha256": "fc876cf3fd0be9db8a9dee5aefbf3db995401e01a057c45d3775e6a3685ab887"
+ "sha256": "337dcfa10cc0962d913d834fbc00e32e852ca761d2fe5bd35be0cefca45d3a3a"
 }
