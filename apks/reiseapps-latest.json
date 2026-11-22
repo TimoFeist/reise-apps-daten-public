@@ -1,12 +1,15 @@
 {
- "vc": 28,
- "vn": "1.0.28",
+ "vc": 29,
+ "vn": "1.0.29",
  "changes": [
-  "Neues Symbol: Trolley unterwegs mit App-Kacheln und Regenbogen-Gepäckband",
-  "Dezenter Regenbogen im Kopfbereich",
-  "Mehr Städte, z. B. Sevilla, Málaga, Dresden, Leipzig, Miami, Seattle, Phuket und Sapporo"
+  "Neues Design in Schwarz-Weiß mit Regenbogen-Akzenten, ohne graue Titelleiste",
+  "Alle Länder: bei jeder App steht jetzt, in welchem Land und welcher Stadt sie gilt",
+  "Favoriten: Länder und Städte mit ☆ merken, sie stehen oben auf der Startseite",
+  "Teilen: Apps eines Orts als Liste mit Links verschicken",
+  "Reise-Checkliste: Hinweise zu Roaming, Steckdose, Währung und Notruf plus eigene Packliste",
+  "Reisepaket: alles zur Reise als Datei speichern, auch ohne Internet lesbar"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=1c8e18b534e82409",
- "size": 2602979,
- "sha256": "1c8e18b534e82409af26ce80115460d1d98053d334613b30ac642f17f3bce587"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=b11effa02fe7f6c6",
+ "size": 2636911,
+ "sha256": "b11effa02fe7f6c62e78144349e3b91da12f736fd4569589ebb903ad12297afa"
 }
