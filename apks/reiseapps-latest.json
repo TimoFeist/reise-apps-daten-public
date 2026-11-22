@@ -1,0 +1,15 @@
+{
+ "vc": 22,
+ "vn": "1.0.22",
+ "changes": [
+  "Neu: Die App meldet sich, wenn es ein Update gibt, und zeigt, was neu ist",
+  "Deine Stadt wird angezeigt, auch wenn es für sie keine eigene Liste gibt, dazu die Apps des Landes",
+  "Ein von Hand gewählter Ort bleibt stehen, der Standort wird nur noch angeboten",
+  "Übersichtlicher: Kategorien und Städte sind eingeklappt",
+  "LGBTQ+-Orte: nur echte queere Orte, Filter Schwul/Lesbisch und nach Art (Bars, Clubs, Saunas …)",
+  "Hell/Dunkel wechselt sofort, Liste springt beim Filtern nicht mehr nach oben"
+ ],
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=6ca71347e0202d90",
+ "size": 2465099,
+ "sha256": "6ca71347e0202d906272c38b244d187a6419a87146123ce221d14eda633b0242"
+}
