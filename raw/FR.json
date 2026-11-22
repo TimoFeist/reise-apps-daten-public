@@ -310,6 +310,28 @@
    "use": "limited",
    "req": "In Paris seit 4. Juli 2026 keine Parkzahlung mehr möglich, dort EasyPark nutzen",
    "src": "https://www.paris.fr/pages/payer-son-stationnement-2129"
+  },
+  {
+   "name": "RTM",
+   "cat": "transit",
+   "pkg": "com.c4mprod.rtm",
+   "ess": false,
+   "note": "Echtzeit für Metro, Tram und Bus in Marseille",
+   "city": "Marseille",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rtm.fr/"
+  },
+  {
+   "name": "CTS Transports Strasbourg",
+   "cat": "transit",
+   "pkg": "fr.cts.strasbourg.ugo",
+   "ess": false,
+   "note": "QR Tickets auch ohne Konto, Routen und Störungen",
+   "city": "Strasbourg",
+   "use": "ok",
+   "req": "",
+   "src": "https://cts-strasbourg.eu/en/faq/mobile-application/"
   }
  ]
 }

@@ -349,6 +349,50 @@
    "use": "limited",
    "req": "Betrieb in Spanien unklar, die europäische Gesellschaft wurde 2025 aufgelöst",
    "src": "https://zagdaily.com/trends/superpedestrian-europe-bv-closes-down-but-brand-lives-on/"
+  },
+  {
+   "name": "AppTUSSAM",
+   "cat": "transit",
+   "pkg": "com.geoactio.tussam",
+   "ess": false,
+   "note": "Busankunft, Linien und Routenplaner für Sevilla",
+   "city": "Seville",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tussam.es/en/descarga-app"
+  },
+  {
+   "name": "EMT Málaga",
+   "cat": "transit",
+   "pkg": "es.ingenia.emt",
+   "ess": false,
+   "note": "Busfahrplan, Ankunftszeiten und Kartenaufladung",
+   "city": "Malaga",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.emtmalaga.es/descargaapp"
+  },
+  {
+   "name": "EMT Palma",
+   "cat": "transit",
+   "pkg": "es.emtpalma.app",
+   "ess": false,
+   "note": "Linien, Fahrpläne und Echtzeit für Busse in Palma",
+   "city": "Palma",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.emtpalma.cat/en/emt?pageId=nueva_app"
+  },
+  {
+   "name": "TIB Mallorca",
+   "cat": "transit",
+   "pkg": "com.tibmallorca.android",
+   "ess": false,
+   "note": "Busse auf Mallorca live, virtuelle Tarjeta Única",
+   "city": "Palma",
+   "use": "limited",
+   "req": "Virtuelle Karte nur mit physischer Tarjeta Única",
+   "src": "https://www.tib.org/es/nuevaapp-tarjetavirtual"
   }
  ]
 }

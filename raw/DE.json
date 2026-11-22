@@ -325,6 +325,61 @@
    "use": "limited",
    "req": "Gastkauf nur für Einzel- und Tagestickets per PayPal, sonst meinRMV Konto nötig",
    "src": "https://www.rmv.de/s/en/rmvgo"
+  },
+  {
+   "name": "VVS Mobil",
+   "cat": "transit",
+   "pkg": "com.mentz.vvsmobile",
+   "ess": false,
+   "note": "VVS Fahrplan und Handytickets, Kauf auch ohne Konto",
+   "city": "Stuttgart",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.vvs.de/en/service/apps-services/vvs-mobil"
+  },
+  {
+   "name": "Rheinbahn App & eezy.nrw",
+   "cat": "transit",
+   "pkg": "mentz.net.rheinbahn_journey_planner",
+   "ess": false,
+   "note": "Rheinbahn Handytickets und Fahrplan für Düsseldorf",
+   "city": "Düsseldorf",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rheinbahn.com/faq_app"
+  },
+  {
+   "name": "DVB mobil",
+   "cat": "transit",
+   "pkg": "de.dvb.dvbmobil",
+   "ess": false,
+   "note": "DVB Fahrplan, Echtzeit und Ticketkauf in Dresden",
+   "city": "Dresden",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.dvb.de/de-de/apps"
+  },
+  {
+   "name": "Dresden App",
+   "cat": "tourism",
+   "pkg": "dig.dresden.apps",
+   "ess": false,
+   "note": "Offizielle Stadtapp mit Touren, Welcome Cards, Parken",
+   "city": "Dresden",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.dresden.de/en/tourism/information/dresden-app.php"
+  },
+  {
+   "name": "LeipzigMOVE",
+   "cat": "transit",
+   "pkg": "de.tafmobile.mobility.leipzigmove",
+   "ess": false,
+   "note": "LVB Tickets und Fahrplan, dazu Räder und Carsharing",
+   "city": "Leipzig",
+   "use": "limited",
+   "req": "Konto nötig, Zahlung per PayPal oder Lastschrift",
+   "src": "https://www.l.de/verkehrsbetriebe/produkte/leipzigmove/"
   }
  ]
 }

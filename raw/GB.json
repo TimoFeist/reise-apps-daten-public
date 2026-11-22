@@ -312,6 +312,39 @@
    "use": "ok",
    "req": "",
    "src": "https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app"
+  },
+  {
+   "name": "TfWM",
+   "cat": "transit",
+   "pkg": "com.wmca.tfwmapp",
+   "ess": false,
+   "note": "Abfahrten, Routen und Tickets in den West Midlands",
+   "city": "Birmingham",
+   "use": "limited",
+   "req": "Swift Konto nötig, Tickets kommen auf die Swift Karte",
+   "src": "https://www.tfwm.org.uk/who-we-are/our-apps"
+  },
+  {
+   "name": "Merseyrail",
+   "cat": "transit",
+   "pkg": "glow.merseyrail",
+   "ess": false,
+   "note": "Live Zugzeiten und Störungen im Merseyrail Netz",
+   "city": "Liverpool",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.merseyrail.org/journey-planning/plan-your-journey/service-updates/"
+  },
+  {
+   "name": "First Bus",
+   "cat": "transit",
+   "pkg": "com.firstgroup.first.bus",
+   "ess": false,
+   "note": "Bustickets per QR Code für First Glasgow",
+   "city": "Glasgow",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.firstbus.co.uk/greater-glasgow/tickets/where-buy/mtickets-faqs"
   }
  ]
 }

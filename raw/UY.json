@@ -6,21 +6,166 @@
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist anerkannt und die Toleranz gilt als hoch.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/201138",
  "discontinued": [
-  {"name": "Uber Eats", "pkg": "", "src": "https://www.bento.travel/uruguay/food-delivery"}
+  {
+   "name": "Uber Eats",
+   "pkg": "",
+   "src": "https://www.bento.travel/uruguay/food-delivery"
+  }
  ],
  "apps": [
-  {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Erste Wahl für Fahrten in Montevideo und Punta del Este", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uruguay/ride-hailing"},
-  {"name": "Cabify", "cat": "taxi", "pkg": "com.cabify.rider", "ess": false, "note": "Zweiter Fahrdienst zum Preisvergleich, Montevideo und Maldonado", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uruguay/ride-hailing"},
-  {"name": "PedidosYa", "cat": "delivery", "pkg": "com.pedidosya", "ess": true, "note": "Größter Lieferdienst für Essen und Einkäufe", "city": "", "use": "limited", "req": "Ausländische Karten werden teils abgelehnt", "src": "https://www.bento.travel/uruguay/food-delivery"},
-  {"name": "Rappi", "cat": "delivery", "pkg": "com.grability.rappi", "ess": false, "note": "Zweiter Lieferdienst, Liefergebiet vorher prüfen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uruguay/food-delivery"},
-  {"name": "Cómo ir", "cat": "transit", "pkg": "uy.gub.imm.stm.mobile.comoir", "ess": true, "note": "Offizieller Busplaner der Stadt mit Haltestellen und Live-Bussen", "city": "Montevideo", "use": "ok", "req": "", "src": "https://www.bento.travel/uruguay/transit"},
-  {"name": "STM Montevideo", "cat": "transit", "pkg": "", "ess": false, "note": "Private Bus-App mit städtischen Daten, nicht offiziell", "city": "Montevideo", "use": "ok", "req": "", "src": "https://www.bento.travel/uruguay/transit"},
-  {"name": "URUBUS", "cat": "rail", "pkg": "uy.urubus", "ess": true, "note": "Fernbus-Fahrpläne und Tickets ohne Pflicht-Registrierung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uruguay"},
-  {"name": "Emergencia 9-1-1", "cat": "safety", "pkg": "com.minterior.emergencia911", "ess": false, "note": "Amtliche Notruf-App mit Standortübermittlung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/uruguay"},
-  {"name": "Mercado Pago", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitete Wallet für QR-Zahlungen im Land", "city": "", "use": "no", "req": "Uruguayischer Personalausweis nötig", "src": "https://www.bento.travel/blog/how-to-pay-in-uruguay"},
-  {"name": "Prex", "cat": "payment", "pkg": "", "ess": false, "note": "Prepaid-Karte und Konto für Einheimische", "city": "", "use": "no", "req": "Gültiges Ausweisdokument nötig, für Ansässige gedacht", "src": "https://www.bento.travel/blog/how-to-pay-in-uruguay"},
-  {"name": "Kinto Share", "cat": "carshare", "pkg": "com.goodtravelsoftware.sharecar.toyotaargentina", "ess": false, "note": "Toyota-Mietwagen stunden- oder tageweise per App", "city": "", "use": "limited", "req": "Registrierung und internationale Kreditkarte in der App nötig", "src": "https://noticias.autocosmos.cl/2024/11/04/kinto-share-la-forma-mas-facil-de-arrendar-autos-de-toyota-en-america-latina"},
-  {"name": "T2Parking", "cat": "parking", "pkg": "", "ess": false, "note": "Parkzeit in der gebührenpflichtigen Zone per App kaufen", "city": "Montevideo", "use": "no", "req": "Abrechnung nur über uruguayische Mobilfunkanbieter (Antel, Movistar, Claro)", "src": "https://montevideo.gub.uy/areas-tematicas/movilidad/estacionamiento-tarifado/precio-del-ticket-y-como-pagarlo-0"},
-  {"name": "Descubrí Montevideo Plus", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle Web-App mit Stadtinfos, Rundgängen und Events", "city": "Montevideo", "use": "ok", "req": "", "src": "https://montevideo.gub.uy/noticias/turismo/lanzamos-descubri-montevideo-plus"}
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Erste Wahl für Fahrten in Montevideo und Punta del Este",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/uruguay/ride-hailing"
+  },
+  {
+   "name": "Cabify",
+   "cat": "taxi",
+   "pkg": "com.cabify.rider",
+   "ess": false,
+   "note": "Zweiter Fahrdienst zum Preisvergleich, Montevideo und Maldonado",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/uruguay/ride-hailing"
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Größter Lieferdienst für Essen und Einkäufe",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten werden teils abgelehnt",
+   "src": "https://www.bento.travel/uruguay/food-delivery"
+  },
+  {
+   "name": "Rappi",
+   "cat": "delivery",
+   "pkg": "com.grability.rappi",
+   "ess": false,
+   "note": "Zweiter Lieferdienst, Liefergebiet vorher prüfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/uruguay/food-delivery"
+  },
+  {
+   "name": "Cómo ir",
+   "cat": "transit",
+   "pkg": "uy.gub.imm.stm.mobile.comoir",
+   "ess": true,
+   "note": "Offizieller Busplaner der Stadt mit Haltestellen und Live-Bussen",
+   "city": "Montevideo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/uruguay/transit"
+  },
+  {
+   "name": "STM Montevideo",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Private Bus-App mit städtischen Daten, nicht offiziell",
+   "city": "Montevideo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/uruguay/transit"
+  },
+  {
+   "name": "URUBUS",
+   "cat": "rail",
+   "pkg": "uy.urubus",
+   "ess": true,
+   "note": "Fernbus-Fahrpläne und Tickets ohne Pflicht-Registrierung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/uruguay"
+  },
+  {
+   "name": "Emergencia 9-1-1",
+   "cat": "safety",
+   "pkg": "com.minterior.emergencia911",
+   "ess": false,
+   "note": "Amtliche Notruf-App mit Standortübermittlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/uruguay"
+  },
+  {
+   "name": "Mercado Pago",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete Wallet für QR-Zahlungen im Land",
+   "city": "",
+   "use": "no",
+   "req": "Uruguayischer Personalausweis nötig",
+   "src": "https://www.bento.travel/blog/how-to-pay-in-uruguay"
+  },
+  {
+   "name": "Prex",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Prepaid-Karte und Konto für Einheimische",
+   "city": "",
+   "use": "no",
+   "req": "Gültiges Ausweisdokument nötig, für Ansässige gedacht",
+   "src": "https://www.bento.travel/blog/how-to-pay-in-uruguay"
+  },
+  {
+   "name": "Kinto Share",
+   "cat": "carshare",
+   "pkg": "com.goodtravelsoftware.sharecar.toyotaargentina",
+   "ess": false,
+   "note": "Toyota-Mietwagen stunden- oder tageweise per App",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung und internationale Kreditkarte in der App nötig",
+   "src": "https://noticias.autocosmos.cl/2024/11/04/kinto-share-la-forma-mas-facil-de-arrendar-autos-de-toyota-en-america-latina"
+  },
+  {
+   "name": "T2Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkzeit in der gebührenpflichtigen Zone per App kaufen",
+   "city": "Montevideo",
+   "use": "no",
+   "req": "Abrechnung nur über uruguayische Mobilfunkanbieter (Antel, Movistar, Claro)",
+   "src": "https://montevideo.gub.uy/areas-tematicas/movilidad/estacionamiento-tarifado/precio-del-ticket-y-como-pagarlo-0"
+  },
+  {
+   "name": "Descubrí Montevideo Plus",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Web-App mit Stadtinfos, Rundgängen und Events",
+   "city": "Montevideo",
+   "use": "ok",
+   "req": "",
+   "src": "https://montevideo.gub.uy/noticias/turismo/lanzamos-descubri-montevideo-plus"
+  },
+  {
+   "name": "Info Playas",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Strandflaggen, Rettungsschwimmer und Andrang",
+   "city": "Punta del Este",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gub.uy/ministerio-turismo/comunicacion/noticias/cuatro-destinos-nacionales-crean-aplicaciones-permiten-conocer"
+  }
  ]
 }

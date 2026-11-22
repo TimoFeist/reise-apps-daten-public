@@ -356,6 +356,61 @@
    "use": "ok",
    "req": "",
    "src": "https://seaworld.com/orlando/mobile-app/"
+  },
+  {
+   "name": "GO Miami-Dade Transit",
+   "cat": "transit",
+   "pkg": "gov.miamidade.MDTTracker",
+   "ess": false,
+   "note": "Echtzeit für Bus und Metrorail, Handy-Tickets",
+   "city": "Miami",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.miamidade.gov/transit/mobile/app/"
+  },
+  {
+   "name": "Transit GO Ticket",
+   "cat": "transit",
+   "pkg": "co.bytemark.tgt",
+   "ess": false,
+   "note": "Handytickets für Bus, Link, Sounder und Wassertaxi",
+   "city": "Seattle",
+   "use": "ok",
+   "req": "",
+   "src": "https://kingcounty.gov/en/dept/metro/fares-and-payment/ways-to-pay/transit-go-ticket"
+  },
+  {
+   "name": "RTA Le Pass",
+   "cat": "transit",
+   "pkg": "com.norta.lepass",
+   "ess": false,
+   "note": "Tickets und Echtzeit für Bus, Streetcar und Fähre",
+   "city": "New Orleans",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.norta.com/ride-with-us/how-to-pay/lepass"
+  },
+  {
+   "name": "DaBus2",
+   "cat": "transit",
+   "pkg": "gov.honolulu.dabus2",
+   "ess": false,
+   "note": "Ankunftszeiten von TheBus auf Oahu",
+   "city": "Honolulu",
+   "use": "ok",
+   "req": "",
+   "src": "https://manoa.hawaii.edu/commuter/thebus/"
+  },
+  {
+   "name": "PRONTO",
+   "cat": "transit",
+   "pkg": "org.sdmts.pronto",
+   "ess": false,
+   "note": "Fahrkarte für Bus und Trolley, Tagesdeckel",
+   "city": "San Diego",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.sdmts.com/PRONTO"
   }
  ]
 }

@@ -391,6 +391,39 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/india"
+  },
+  {
+   "name": "Aamar Kolkata Metro",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Metro-App mit QR-Tickets und 5 Prozent Rabatt",
+   "city": "Kolkata",
+   "use": "limited",
+   "req": "Ob eine ausländische Nummer und Karte gehen, ist unklar",
+   "src": "https://www.theweek.in/wire-updates/national/2025/08/30/ces21-wb-metro-app-response.html"
+  },
+  {
+   "name": "GoaMiles",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi zu Regierungstarifen unter Aufsicht der GTDC",
+   "city": "Goa",
+   "use": "limited",
+   "req": "Zahlung mit ausländischer Karte laut Nutzern unsicher",
+   "src": "https://www.storyboard18.com/brand-marketing/govt-of-goa-urges-taxi-operators-to-join-app-based-platforms-to-enhance-tourist-mobility-and-livelihood-opportunities-68686.htm"
+  },
+  {
+   "name": "Goa Taxi App",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche Taxi-App, am Flughafen Mopa und Bahnhof Margao",
+   "city": "Goa",
+   "use": "limited",
+   "req": "Ob eine ausländische Nummer und Karte gehen, ist unklar",
+   "src": "https://www.storyboard18.com/brand-marketing/govt-of-goa-urges-taxi-operators-to-join-app-based-platforms-to-enhance-tourist-mobility-and-livelihood-opportunities-68686.htm"
   }
  ]
 }

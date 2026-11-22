@@ -1,1 +1,241 @@
-{"src": "https://www.bento.travel/brazil", "updated": "August 2026", "note": "Ausländische Karten und kontaktloses Zahlen scheitern öfter, daher zwei Karten und etwas Reais mitnehmen. Viele Apps fragen nach CPF.", "apps": [{"name": "99", "cat": "taxi", "pkg": "com.taxis99", "ess": true, "note": "Heimische Fahrdienst-App, Preise mit Uber vergleichen", "city": "", "use": "limited", "req": "Ausländische Karte wird teils abgelehnt"}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Größter Fahrdienst, am Flughafen im Terminal bestellen", "city": "", "use": "ok", "req": ""}, {"name": "Rappi", "cat": "delivery", "pkg": "com.grability.rappi", "ess": true, "note": "Lieferdienst, Anmeldung meist ohne CPF möglich", "city": "", "use": "ok", "req": ""}, {"name": "iFood", "cat": "delivery", "pkg": "br.com.brainweb.ifood", "ess": false, "note": "Größter Lieferdienst des Landes mit riesiger Auswahl", "city": "", "use": "limited", "req": "Für Ausländer oft unzuverlässig, Karte teils abgelehnt"}, {"name": "Cittamobi", "cat": "transit", "pkg": "br.com.cittabus", "ess": false, "note": "Busankünfte live in vielen Städten, Ticket extra kaufen", "city": "", "use": "ok", "req": ""}, {"name": "Busbud", "cat": "rail", "pkg": "com.busbud.android", "ess": true, "note": "Fernbusse im ganzen Land suchen und buchen", "city": "", "use": "ok", "req": ""}, {"name": "ClickBus", "cat": "rail", "pkg": "com.clickbus.mobile", "ess": false, "note": "Busportal, Buchung auch mit Reisepass statt CPF", "city": "", "use": "ok", "req": ""}, {"name": "Get In", "cat": "delivery", "pkg": "com.tyll.getin", "ess": false, "note": "Tische reservieren und Warteliste in Restaurants", "city": "", "use": "ok", "req": ""}, {"name": "Tucu", "cat": "payment", "pkg": "", "ess": false, "note": "Reise-Wallet zum Bezahlen von Pix-Codes in Reais", "city": "", "use": "limited", "req": "Noch im Early Access, vor der Reise einrichten"}, {"name": "Localiza", "cat": "carshare", "pkg": "", "ess": false, "note": "Großer Autovermieter, Abholung per App möglich", "city": "", "use": "limited", "req": "Kreditkarte, Einreisenachweis und Bonitätsprüfung nötig", "src": "https://cliente.localiza.com/faq/what-do-i-need-to-rent-a-car-from-localiza"}, {"name": "Bike Itaú", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder von Tembici, etwa in Rio und São Paulo", "city": "", "use": "limited", "req": "Anmeldung mit Reisepass, ausländische Karte nicht immer ok", "src": "https://caminhoslanguages.com/blog/rent-bike-rio-de-janeiro"}, {"name": "Whoosh", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter in São Paulo, Rio und weiteren Städten", "city": "", "use": "limited", "req": "Ab 18 Jahren, Anmeldung ohne CPF nicht belegt", "src": "https://prefeitura.sp.gov.br/web/mobilidade/w/faqregrascompartilhamentopatinetes"}, {"name": "JET", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter in São Paulo, Porto Alegre und im Süden", "city": "", "use": "limited", "req": "Ab 18 Jahren, Anmeldung ohne CPF nicht belegt", "src": "https://motorshow.com.br/jet-x-whoosh-veja-comparativo-de-patinetes-frotas-cidades-com-operacao-e-precos"}, {"name": "Moovit", "cat": "transit", "pkg": "", "ess": false, "note": "Von Riotur empfohlene App für Routen im Nahverkehr", "city": "Rio de Janeiro", "use": "ok", "req": "", "src": "https://riotur.rio/en/mobility/"}, {"name": "Jaé", "cat": "transit", "pkg": "br.com.billingpay.app.pf", "ess": false, "note": "Offizielles Ticket per QR-Code für Bus und BRT", "city": "Rio de Janeiro", "use": "no", "req": "CPF und brasilianische Handynummer nötig", "src": "https://jae.com.br/faq/app-jae-2/"}, {"name": "MetrôRio", "cat": "transit", "pkg": "com.thera.metrofacil", "ess": false, "note": "Giro-Karte der Metro online aufladen", "city": "Rio de Janeiro", "use": "limited", "req": "Giro-Karte vom Bahnhof nötig, sonst Bankkarte tippen", "src": "https://www.metrorio.com.br/como-pagar/meios-e-tarifas"}, {"name": "visit.rio", "cat": "tourism", "pkg": "com.ionicframework.visitrioapp832818", "ess": false, "note": "Offizielle Tourismus-App der Stadt Rio", "city": "Rio de Janeiro", "use": "ok", "req": "", "src": "https://riotur.rio/app/"}, {"name": "Passeio Carioca", "cat": "tourism", "pkg": "", "ess": false, "note": "Karte mit Kultur und Geschichte, von Riotur empfohlen", "city": "Rio de Janeiro", "use": "ok", "req": "", "src": "https://riotur.rio/editorial/aplicativo-passeio-carioca-transforma-o-rio-em-uma-experiencia-interativa-de-cultura-e-historia/"}, {"name": "TOP", "cat": "transit", "pkg": "", "ess": false, "note": "QR-Tickets und Guthaben für Metro und CPTM", "city": "Sao Paulo", "use": "limited", "req": "Konto an CPF gebunden, Aufladen per Pix", "src": "https://www.agenciasp.sp.gov.br/transporte-e-transito/transportes-metropolitanos-de-sp-aceitam-pagamento-por-aproximacao-nas-estacoes/"}, {"name": "DF no Ponto", "cat": "transit", "pkg": "", "ess": false, "note": "Offizielle Bus-App mit Echtzeit und Routen", "city": "Brasilia", "use": "ok", "req": "", "src": "https://dfnoponto.semob.df.gov.br/"}], "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/brazil",
+ "updated": "August 2026",
+ "note": "Ausländische Karten und kontaktloses Zahlen scheitern öfter, daher zwei Karten und etwas Reais mitnehmen. Viele Apps fragen nach CPF.",
+ "apps": [
+  {
+   "name": "99",
+   "cat": "taxi",
+   "pkg": "com.taxis99",
+   "ess": true,
+   "note": "Heimische Fahrdienst-App, Preise mit Uber vergleichen",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karte wird teils abgelehnt"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Größter Fahrdienst, am Flughafen im Terminal bestellen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Rappi",
+   "cat": "delivery",
+   "pkg": "com.grability.rappi",
+   "ess": true,
+   "note": "Lieferdienst, Anmeldung meist ohne CPF möglich",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "iFood",
+   "cat": "delivery",
+   "pkg": "br.com.brainweb.ifood",
+   "ess": false,
+   "note": "Größter Lieferdienst des Landes mit riesiger Auswahl",
+   "city": "",
+   "use": "limited",
+   "req": "Für Ausländer oft unzuverlässig, Karte teils abgelehnt"
+  },
+  {
+   "name": "Cittamobi",
+   "cat": "transit",
+   "pkg": "br.com.cittabus",
+   "ess": false,
+   "note": "Busankünfte live in vielen Städten, Ticket extra kaufen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Busbud",
+   "cat": "rail",
+   "pkg": "com.busbud.android",
+   "ess": true,
+   "note": "Fernbusse im ganzen Land suchen und buchen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "ClickBus",
+   "cat": "rail",
+   "pkg": "com.clickbus.mobile",
+   "ess": false,
+   "note": "Busportal, Buchung auch mit Reisepass statt CPF",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Get In",
+   "cat": "delivery",
+   "pkg": "com.tyll.getin",
+   "ess": false,
+   "note": "Tische reservieren und Warteliste in Restaurants",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Tucu",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise-Wallet zum Bezahlen von Pix-Codes in Reais",
+   "city": "",
+   "use": "limited",
+   "req": "Noch im Early Access, vor der Reise einrichten"
+  },
+  {
+   "name": "Localiza",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Großer Autovermieter, Abholung per App möglich",
+   "city": "",
+   "use": "limited",
+   "req": "Kreditkarte, Einreisenachweis und Bonitätsprüfung nötig",
+   "src": "https://cliente.localiza.com/faq/what-do-i-need-to-rent-a-car-from-localiza"
+  },
+  {
+   "name": "Bike Itaú",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder von Tembici, etwa in Rio und São Paulo",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung mit Reisepass, ausländische Karte nicht immer ok",
+   "src": "https://caminhoslanguages.com/blog/rent-bike-rio-de-janeiro"
+  },
+  {
+   "name": "Whoosh",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter in São Paulo, Rio und weiteren Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 Jahren, Anmeldung ohne CPF nicht belegt",
+   "src": "https://prefeitura.sp.gov.br/web/mobilidade/w/faqregrascompartilhamentopatinetes"
+  },
+  {
+   "name": "JET",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter in São Paulo, Porto Alegre und im Süden",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 Jahren, Anmeldung ohne CPF nicht belegt",
+   "src": "https://motorshow.com.br/jet-x-whoosh-veja-comparativo-de-patinetes-frotas-cidades-com-operacao-e-precos"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Von Riotur empfohlene App für Routen im Nahverkehr",
+   "city": "Rio de Janeiro",
+   "use": "ok",
+   "req": "",
+   "src": "https://riotur.rio/en/mobility/"
+  },
+  {
+   "name": "Jaé",
+   "cat": "transit",
+   "pkg": "br.com.billingpay.app.pf",
+   "ess": false,
+   "note": "Offizielles Ticket per QR-Code für Bus und BRT",
+   "city": "Rio de Janeiro",
+   "use": "no",
+   "req": "CPF und brasilianische Handynummer nötig",
+   "src": "https://jae.com.br/faq/app-jae-2/"
+  },
+  {
+   "name": "MetrôRio",
+   "cat": "transit",
+   "pkg": "com.thera.metrofacil",
+   "ess": false,
+   "note": "Giro-Karte der Metro online aufladen",
+   "city": "Rio de Janeiro",
+   "use": "limited",
+   "req": "Giro-Karte vom Bahnhof nötig, sonst Bankkarte tippen",
+   "src": "https://www.metrorio.com.br/como-pagar/meios-e-tarifas"
+  },
+  {
+   "name": "visit.rio",
+   "cat": "tourism",
+   "pkg": "com.ionicframework.visitrioapp832818",
+   "ess": false,
+   "note": "Offizielle Tourismus-App der Stadt Rio",
+   "city": "Rio de Janeiro",
+   "use": "ok",
+   "req": "",
+   "src": "https://riotur.rio/app/"
+  },
+  {
+   "name": "Passeio Carioca",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Karte mit Kultur und Geschichte, von Riotur empfohlen",
+   "city": "Rio de Janeiro",
+   "use": "ok",
+   "req": "",
+   "src": "https://riotur.rio/editorial/aplicativo-passeio-carioca-transforma-o-rio-em-uma-experiencia-interativa-de-cultura-e-historia/"
+  },
+  {
+   "name": "TOP",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "QR-Tickets und Guthaben für Metro und CPTM",
+   "city": "Sao Paulo",
+   "use": "limited",
+   "req": "Konto an CPF gebunden, Aufladen per Pix",
+   "src": "https://www.agenciasp.sp.gov.br/transporte-e-transito/transportes-metropolitanos-de-sp-aceitam-pagamento-por-aproximacao-nas-estacoes/"
+  },
+  {
+   "name": "DF no Ponto",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Bus-App mit Echtzeit und Routen",
+   "city": "Brasilia",
+   "use": "ok",
+   "req": "",
+   "src": "https://dfnoponto.semob.df.gov.br/"
+  },
+  {
+   "name": "Motiva Trilhos",
+   "cat": "transit",
+   "pkg": "br.com.grupoccr.viamobilidade",
+   "ess": false,
+   "note": "Echtzeit der Metrô und Aufladen der Karte",
+   "city": "Salvador",
+   "use": "ok",
+   "req": "",
+   "src": "https://diariodotransporte.com.br/2026/03/06/motiva-renova-aplicativo-e-lanca-app-motiva-trilhos-buscando-facilitar-acesso-de-informacoes-sobre-o-transporte-ferroviario/"
+  },
+  {
+   "name": "Floripa no Ponto",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Buslinien, Ankunftszeiten und Kartenaufladung",
+   "city": "Florianopolis",
+   "use": "limited",
+   "req": "Aufladen nur per Pix mit brasilianischem Konto",
+   "src": "https://www.pmf.sc.gov.br/noticias/index.php?pagina=notpagina&noti=25747"
+  }
+ ],
+ "fetched": "2026-11-17"
+}
