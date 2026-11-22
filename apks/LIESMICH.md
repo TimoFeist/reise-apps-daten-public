@@ -6,7 +6,7 @@ APKs von Timos eigenen Apps, die nicht im Play Store sind. Die Reise-Apps verlin
 
 | Datei | App | Version | Paket |
 |---|---|---|---|
-| PinRate.apk | PinRate (Währungsrechner, früher RoamRate) | 1.4 (versionCode 5) | app.roamrate |
+| PinRate.apk | PinRate (Währungsrechner, früher RoamRate) | 1.5 (versionCode 6) | app.roamrate |
 
 Neue Version: Datei gleich benannt ersetzen, Tabelle anpassen. Der Dateiname bleibt gleich, damit der Link in der App stimmt.
 
