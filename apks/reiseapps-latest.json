@@ -1,15 +1,14 @@
 {
- "vc": 29,
- "vn": "1.0.29",
+ "vc": 30,
+ "vn": "1.0.30",
  "changes": [
+  "Zurück-Taste auf der Startseite fragt jetzt nach, bevor die App geschlossen wird",
   "Neues Design in Schwarz-Weiß mit Regenbogen-Akzenten, ohne graue Titelleiste",
   "Alle Länder: bei jeder App steht jetzt, in welchem Land und welcher Stadt sie gilt",
-  "Favoriten: Länder und Städte mit ☆ merken, sie stehen oben auf der Startseite",
-  "Teilen: Apps eines Orts als Liste mit Links verschicken",
-  "Reise-Checkliste: Hinweise zu Roaming, Steckdose, Währung und Notruf plus eigene Packliste",
-  "Reisepaket: alles zur Reise als Datei speichern, auch ohne Internet lesbar"
+  "Favoriten und Teilen von Ländern und Städten",
+  "Reise-Checkliste mit eigener Packliste und Reisepaket als Datei"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=b11effa02fe7f6c6",
- "size": 2636911,
- "sha256": "b11effa02fe7f6c62e78144349e3b91da12f736fd4569589ebb903ad12297afa"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=fc876cf3fd0be9db",
+ "size": 2637495,
+ "sha256": "fc876cf3fd0be9db8a9dee5aefbf3db995401e01a057c45d3775e6a3685ab887"
 }
