@@ -1,13 +1,11 @@
 {
- "vc": 26,
- "vn": "1.0.26",
+ "vc": 27,
+ "vn": "1.0.27",
  "changes": [
-  "Neuer Name: LocalAppFinder",
-  "Neues Symbol: Standort-Pin mit App-Kacheln",
-  "Eigene Webseite localappfinder.uk mit Web-Version zum Stöbern im Browser",
-  "Updates und Daten kommen jetzt über localappfinder.uk"
+  "Dezenter Regenbogen im Symbol und im Kopfbereich",
+  "Mehr Städte mit eigenen Apps (Daten werden laufend ergänzt)"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=41325d73d91ca1bc",
- "size": 2598271,
- "sha256": "41325d73d91ca1bc209949ee79e24dc776ee9832141dd02559f8f0761c6855d4"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=fe539a003c77756e",
+ "size": 2598827,
+ "sha256": "fe539a003c77756eb326900a57f1b4069821d18caa136f069ec1e0b1df7a3d5e"
 }
