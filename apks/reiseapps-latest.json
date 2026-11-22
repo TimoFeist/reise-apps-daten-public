@@ -1,16 +1,13 @@
 {
- "vc": 25,
- "vn": "1.0.25",
+ "vc": 26,
+ "vn": "1.0.26",
  "changes": [
-  "Neue Startseite: Länder nach Kontinenten, der Standort öffnet sich erst über „📍 Standort“",
-  "Kontinente, Länder und Städte lassen sich ausblenden (lange drücken oder 👁)",
-  "Neuer Bereich „Reisen“: Ziel und Datum vormerken, fehlende Apps der Reihe nach abhaken",
-  "Hinweis beim Ankommen in einem neuen Land und Erinnerung vor der Reise (abschaltbar, stromsparend)",
-  "„Gut zu wissen“ je Land: Notruf, Steckdose, Währung, Straßenseite, Vorwahl und Trinkgeld",
-  "Frischeres Aussehen mit farbigem Kopfbereich und Fortschrittsbalken",
-  "Reisen sind im Backup enthalten"
+  "Neuer Name: LocalAppFinder",
+  "Neues Symbol: Standort-Pin mit App-Kacheln",
+  "Eigene Webseite localappfinder.uk mit Web-Version zum Stöbern im Browser",
+  "Updates und Daten kommen jetzt über localappfinder.uk"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=ab98af53a82ec306",
- "size": 2598327,
- "sha256": "ab98af53a82ec3066088fa3f1c68de1407fc2f723e06352eab18a3b320cfd7f8"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=41325d73d91ca1bc",
+ "size": 2598271,
+ "sha256": "41325d73d91ca1bc209949ee79e24dc776ee9832141dd02559f8f0761c6855d4"
 }
