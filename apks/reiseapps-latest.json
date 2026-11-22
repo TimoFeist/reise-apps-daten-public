@@ -1,10 +1,11 @@
 {
- "vc": 23,
- "vn": "1.0.23",
+ "vc": 24,
+ "vn": "1.0.24",
  "changes": [
-  "Updates kommen jetzt von der eigenen App-Seite apps.feist.uk"
+  "Updates und Daten kommen jetzt von der eigenen App-Seite apps.feist.uk",
+  "Unter „Mehr“ führt ein Eintrag zur App-Seite"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=9116fec7266266df",
- "size": 2464955,
- "sha256": "9116fec7266266df0fe7e3bfbee5ccd64a4e5359ac8cbd8b4e00cf6ff3437965"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=29dcc604b7bfc5e2",
+ "size": 2464811,
+ "sha256": "29dcc604b7bfc5e253255a20dcbdc84bec1bf3840e52790eb098de661c931839"
 }
