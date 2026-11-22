@@ -5,7 +5,7 @@ name: Daten zusammenführen
 on:
   push:
     branches: [main]
-    paths: ["raw/**", "merge_raw.py"]
+    paths: ["raw/**", "merge_raw.py", "info/*.json", "queue/**"]
   workflow_dispatch:
 
 permissions:

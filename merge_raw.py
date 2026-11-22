@@ -162,6 +162,36 @@ def merge(data, code, raw):
     return added
 
 
+def add_continents_and_info(data):
+    """Setzt "cont" (Kontinent aus queue/*.json) und "info" (info/wikidata.json + info/trinkgeld.json)."""
+    cont = {}
+    for f in glob.glob(os.path.join(HERE, "queue", "*.json")):
+        q = json.load(open(f, encoding="utf-8"))
+        for k in ("todo", "done"):
+            for e in q.get(k, []):
+                cont[e["code"].upper()] = q["continent"]
+
+    def load(name):
+        p = os.path.join(HERE, "info", name)
+        return json.load(open(p, encoding="utf-8")).get("countries", {}) if os.path.exists(p) else {}
+
+    wd = load("wikidata.json")
+    tips = load("trinkgeld.json")
+    for c in data["countries"]:
+        code = c["code"]
+        if code in cont:
+            c["cont"] = cont[code]
+        info = dict(wd.get(code, {}))
+        t = tips.get(code)
+        if t and t.get("tip"):
+            info["tip"] = t["tip"]
+            info["tip_src"] = t.get("src", "")
+        if info:
+            c["info"] = info
+        else:
+            c.pop("info", None)
+
+
 def main():
     global VALID_CATS
     import datetime
@@ -178,6 +208,7 @@ def main():
         n = merge(data, code, raw)
         total += n
         print(f"{code}: +{n}")
+    add_continents_and_info(data)
     if version:
         data["version"] = version
     # Grundprüfung
@@ -188,7 +219,8 @@ def main():
     if check_only:
         print("Prüfung ok, nichts geschrieben.")
     else:
-        json.dump(data, open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        with open(path, "w", encoding="utf-8", newline="\n") as f:
+            json.dump(data, f, ensure_ascii=False, indent=1)
     n_apps = sum(len(c["apps"]) + sum(len(ci["apps"]) for ci in c.get("cities", [])) for c in data["countries"])
     print(f"neu: {total} · {len(data['countries'])} Länder · {n_apps} Einträge · Stand {data['version']}")
 

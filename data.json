@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-22 18:59",
+ "version": "2026-11-22 21:04",
  "categories": [
   {
    "id": "entry",
@@ -773,7 +773,32 @@
    ],
    "note": "Deutsche brauchen vor der Reise eine UK ETA, am einfachsten über die offizielle App beantragen.",
    "src": "https://www.bento.travel/united-kingdom",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "GBP",
+      "name": "Pfund Sterling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+44"
+    ],
+    "tip": "Trinkgeld wird nicht wie anderswo erwartet, ist aber in manchen Fällen üblich. In London oder teuren Restaurants ist oft eine Servicegebühr (meist 12,5 %) enthalten oder wird extra ausgewiesen.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#United_Kingdom"
+   }
   },
   {
    "code": "DE",
@@ -1046,7 +1071,34 @@
    "src": "https://www.bento.travel/germany",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen; seit November 2024 lassen sich Name und Geschlechtseintrag per Selbstauskunft ändern.",
    "lgbtq_src": "https://rainbowmap.ilga-europe.org/countries/germany/",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "110",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220,
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+49"
+    ],
+    "tip": "Aufrunden ist üblich, oft mit dem Hinweis „stimmt so“. Manchmal steht statt persönlichem Trinkgeld eine Trinkgeldbox bereit.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Germany"
+   }
   },
   {
    "code": "AT",
@@ -1291,7 +1343,38 @@
    "src": "https://www.bento.travel/austria",
    "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen für LGBTQ+ Reisende.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/oesterreich-node/oesterreichsicherheit-210962",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "120",
+     "122",
+     "123",
+     "133",
+     "140",
+     "144"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+43"
+    ],
+    "tip": "Nicht Pflicht, aber oft erwartet: im Restaurant etwa 5 bis 10 %, im Standardlokal reicht Aufrunden auf den nächsten Euro. Auch bei Taxis wird aufgerundet.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Austria"
+   }
   },
   {
    "code": "CH",
@@ -1562,7 +1645,36 @@
    "src": "https://www.bento.travel/switzerland",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, laut Auswärtigem Amt keine besonderen Schwierigkeiten und gute Akzeptanz vor allem in Städten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/schweiz-node/schweizsicherheit-206208",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "117",
+     "118",
+     "140",
+     "144",
+     "145",
+     "1414"
+    ],
+    "plugs": [
+     "C",
+     "J"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "CHF",
+      "name": "Schweizer Franken"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+41"
+    ]
+   }
   },
   {
    "code": "ES",
@@ -1886,7 +1998,34 @@
    ],
    "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht nötig, also nichts dafür zahlen.",
    "src": "https://www.bento.travel/spain",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "061",
+     "091",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+34"
+    ],
+    "tip": "Trinkgeld ist nicht Pflicht und hängt vom Service ab. In Bars und kleinen Lokalen lässt man oft nur das Kleingeld liegen, in gehobenen Restaurants wird mehr erwartet.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Spain"
+   }
   },
   {
    "code": "IT",
@@ -2224,7 +2363,36 @@
    "src": "https://www.bento.travel/italy",
    "checked": "2026-11-17",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
-   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/italiensicherheit-211322"
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/italiensicherheit-211322",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "113",
+     "115",
+     "118"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "L"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+39"
+    ],
+    "tip": "Trinkgeld ist nicht üblich und kommt nur bei besonderem Service oder als Dank vor, aber sehr selten.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Italy"
+   }
   },
   {
    "code": "PT",
@@ -2408,7 +2576,30 @@
    "src": "https://www.bento.travel/portugal",
    "checked": "2026-11-18",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, laut Auswärtigem Amt gute Akzeptanz vor allem in den Großstädten.",
-   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/portugal-node/portugalsicherheit-210900"
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/portugal-node/portugalsicherheit-210900",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+351"
+    ]
+   }
   },
   {
    "code": "FR",
@@ -2673,7 +2864,40 @@
    ],
    "note": "In Paris Fahrkarten per App Île-de-France Mobilités oder Navigo Easy Karte kaufen, die Bankkarte gilt nicht als Ticket.",
    "src": "https://www.bento.travel/france",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "15",
+     "17",
+     "18",
+     "112",
+     "114"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     },
+     {
+      "code": "XPF",
+      "name": "CFP-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+33"
+    ],
+    "tip": "Trinkgeld ist weder Pflicht noch erwartet, der Service (meist 15 %) ist im Preis enthalten. Bei gutem Service aufrunden, bei größeren Rechnungen bis 5 %. In gehobenen Lokalen 10 % oder mehr.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#France"
+   }
   },
   {
    "code": "NO",
@@ -2892,7 +3116,34 @@
    "src": "https://www.bento.travel/norway",
    "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTQ+ Reisende, die Akzeptanz ist vor allem in Städten gut.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/norwegensicherheit-205878",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "110",
+     "112",
+     "113"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "NOK",
+      "name": "norwegische Krone"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+47"
+    ],
+    "tip": "Bei Taxifahrern und Hotelreinigung unüblich, in Restaurants und Bars eher üblich, aber nicht erwartet. Meist Aufrunden oder 5 bis 15 %. Gewerkschaften raten außer bei Außergewöhnlichem ab.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Norway"
+   }
   },
   {
    "code": "SE",
@@ -3177,7 +3428,32 @@
    "src": "https://www.bento.travel/sweden",
    "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Schwierigkeiten für LGBTQ+ Reisende, die Akzeptanz ist vor allem in Großstädten hoch.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/schweden-node/schwedensicherheit-210708",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "SEK",
+      "name": "schwedische Krone"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+46"
+    ],
+    "tip": "Trinkgeld wird meist nicht erwartet, aber bei gutem Service gegeben: Kleingeld liegen lassen oder aufrunden, vor allem im Restaurant und im Taxi. Friseure seltener.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Sweden"
+   }
   },
   {
    "code": "FI",
@@ -3393,7 +3669,30 @@
    "src": "https://www.bento.travel/finland",
    "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten, die Akzeptanz ist vor allem in Großstädten gut.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/finnland-node/finnlandsicherheit-211624",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+358"
+    ]
+   }
   },
   {
    "code": "EE",
@@ -3601,7 +3900,30 @@
    "src": "https://bento.travel/estonia",
    "lgbtq_note": "Keine besonderen Strafrechtsbestimmungen, Diskriminierung wegen sexueller Orientierung ist gesetzlich verboten, Akzeptanz schwankt örtlich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/estland-node/estlandsicherheit-200754",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+372"
+    ]
+   }
   },
   {
    "code": "LV",
@@ -3796,7 +4118,32 @@
    "src": "https://www.bento.travel/latvia",
    "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Handlungen sind nicht strafbar, auf dem Land ist die Akzeptanz geringer als in Städten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/lettland-node/lettlandsicherheit-200674",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "110",
+     "112",
+     "113"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+371"
+    ]
+   }
   },
   {
    "code": "LT",
@@ -4045,7 +4392,35 @@
    "src": "https://www.bento.travel/lithuania",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, ein Gesetz beschränkt aber öffentliche Informationen über andere Familienmodelle.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/litauen-node/litauensicherheit-200620",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "02",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     },
+     {
+      "code": "LTT",
+      "name": "Talonas"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+370"
+    ]
+   }
   },
   {
    "code": "NL",
@@ -4302,7 +4677,43 @@
    "src": "https://www.bento.travel/netherlands/transit",
    "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTIQ Reisende, die Akzeptanz ist vor allem in Großstädten hoch.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "911"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "AWG",
+      "name": "Aruba-Florin"
+     },
+     {
+      "code": "EUR",
+      "name": "Euro"
+     },
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     },
+     {
+      "code": "XCG",
+      "name": "Karibischer Gulden"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+31"
+    ]
+   }
   },
   {
    "code": "BE",
@@ -4588,7 +4999,33 @@
    "src": "https://www.bento.travel/belgium",
    "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTIQ Reisende, die Akzeptanz ist vor allem in den Großstädten hoch.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/belgien-node/belgiensicherheit-200382",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "100",
+     "101",
+     "102",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+32"
+    ]
+   }
   },
   {
    "code": "LU",
@@ -4744,7 +5181,31 @@
    "src": "https://www.mobiliteit.lu/en/profiles/tourists/",
    "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTQ+ Reisende, die gesellschaftliche Akzeptanz ist gut.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/luxemburg-node/luxemburgsicherheit-211256",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "113"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+352"
+    ]
+   }
   },
   {
    "code": "PL",
@@ -4942,7 +5403,39 @@
    "src": "https://www.bento.travel/poland",
    "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen für LGBTQ+ Reisende und verweist auf die allgemeinen Hinweise.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/polen-node/polensicherheit/199124",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "986",
+     "997",
+     "998",
+     "999"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220,
+     230
+    ],
+    "currency": [
+     {
+      "code": "PLN",
+      "name": "Złoty"
+     },
+     {
+      "code": "PLZ",
+      "name": "Złoty"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+48"
+    ]
+   }
   },
   {
    "code": "IS",
@@ -5103,7 +5596,32 @@
    "src": "https://www.bento.travel/iceland",
    "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen und sieht keine besonderen Schwierigkeiten für LGBTIQ Reisende.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/island-node/islandsicherheit/223400",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "ISK",
+      "name": "isländische Krone"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+354"
+    ],
+    "tip": "Trinkgeld ist nicht üblich und wird nie erwartet. Auch Reiseführer dürfen darum bitten, eine Pflicht gibt es aber nicht.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Iceland"
+   }
   },
   {
    "code": "IE",
@@ -5320,7 +5838,31 @@
    "src": "https://www.bento.travel/ireland/transit",
    "lgbtq_note": "Das Auswärtige Amt nennt keine besonderen Strafrechtsbestimmungen für LGBTQ+ Reisende.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/irland-node/irlandsicherheit-211460",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+353"
+    ],
+    "tip": "Im Restaurant und bei Lieferungen geben manche Trinkgeld, oft indem sie das Wechselgeld behalten lassen. Friseure bekommen bei guter Arbeit meist bis zu 5 Euro.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Ireland"
+   }
   },
   {
    "code": "GR",
@@ -5502,7 +6044,33 @@
    "src": "https://www.bento.travel/greece",
    "checked": "2026-11-17",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
-   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/greece-node/greecesicherheit-211534"
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/greece-node/greecesicherheit-211534",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "100",
+     "112",
+     "166",
+     "199"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+30"
+    ]
+   }
   },
   {
    "code": "MT",
@@ -5599,7 +6167,29 @@
    "src": "https://www.bento.travel/malta",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die gesellschaftliche Akzeptanz ist überwiegend hoch und es gibt offen LGBTQ+-freundliche Lokale.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malta-node/maltasicherheit-211188",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+356"
+    ]
+   }
   },
   {
    "code": "US",
@@ -5901,7 +6491,32 @@
    ],
    "note": "Deutsche brauchen vor der Reise eine ESTA-Genehmigung, am besten über die offizielle CBP-App oder Website beantragen.",
    "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1"
+    ],
+    "tip": "Trinkgeld ist üblich. Im Restaurant mit Bedienung 15 bis 20 % vor Steuern, beim Buffet mit Getränkeservice 10 bis 15 %. Auch Taxi, Hotel, Friseur und Lieferdienste erwarten Trinkgeld.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#United_States"
+   }
   },
   {
    "code": "MX",
@@ -6094,7 +6709,32 @@
    ],
    "note": "Uber und DiDi dürfen an Flughäfen oft nicht abholen, dort offizielle Taxis nutzen und Pesos bar dabeihaben.",
    "src": "https://www.bento.travel/mexico",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     127
+    ],
+    "currency": [
+     {
+      "code": "MXN",
+      "name": "Mexikanischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+52"
+    ],
+    "tip": "In einfachen Restaurants meist nicht erwartet, in mittleren und gehobenen üblich: 10 bis 15 % vom Preis vor Mehrwertsteuer. Taxifahrer werden normalerweise nur für Zusatzhilfe wie Gepäck bedacht.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Mexico"
+   }
   },
   {
    "code": "AU",
@@ -6501,7 +7141,32 @@
    "src": "https://www.bento.travel/australia",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Ehe für alle ist eingeführt, Rechte für trans Personen variieren je Bundesstaat.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/australien-sicherheit/213920",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "000"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     230,
+     240
+    ],
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+61"
+    ],
+    "tip": "Trinkgeld wird nicht erwartet, auch nicht im Restaurant oder Taxi. Viele runden auf und lassen das Wechselgeld da. In Casinos ist es oft verboten.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Australia"
+   }
   },
   {
    "code": "SG",
@@ -6719,7 +7384,30 @@
    "src": "https://www.bento.travel/singapore",
    "lgbtq_note": "Homosexuelle Handlungen sind seit November 2022 nicht mehr strafbar, gleichgeschlechtliche Ehen und Partnerschaften werden aber weiterhin nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/singapur-node/singapursicherheit-225412",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "995",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "SGD",
+      "name": "Singapur-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+65"
+    ]
+   }
   },
   {
    "code": "AE",
@@ -7052,7 +7740,35 @@
    "src": "https://www.bento.travel/united-arab-emirates",
    "lgbtq_note": "Homosexuelle Handlungen sind verboten und werden bei Anzeige strafrechtlich verfolgt, auch Cross-Dressing und Zärtlichkeiten in der Öffentlichkeit sind untersagt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/vae-node/vaesicherheit-202332",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "997",
+     "998",
+     "999"
+    ],
+    "plugs": [
+     "C",
+     "G"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "AED",
+      "name": "VAE-Dirham"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+971"
+    ],
+    "tip": "Trinkgeld ist freiwillig, aber in Restaurants, Hotels und touristischen Diensten üblich. Bei Taxis wird manchmal aufgerundet.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#United_Arab_Emirates"
+   }
   },
   {
    "code": "ZA",
@@ -7182,7 +7898,31 @@
    ],
    "note": "Nur per App gebuchte Fahrten nutzen und Hauptstraßen bevorzugen, da Kriminalität die Routenwahl stark beeinflusst.",
    "src": "https://www.bento.travel/south-africa",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "D",
+     "N"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "ZAR",
+      "name": "südafrikanischer Rand"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+27"
+    ]
+   }
   },
   {
    "code": "KE",
@@ -7334,7 +8074,30 @@
    ],
    "note": "Deutsche brauchen vor der Reise eine eTA (etakenya.go.ke, etwa 3 Werktage Bearbeitung); Safari-Anbieter bei der Tourism Regulatory Authority prüfen.",
    "src": "https://www.bento.travel/kenya",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "KES",
+      "name": "Kenia-Schilling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+254"
+    ]
+   }
   },
   {
    "code": "CZ",
@@ -7541,7 +8304,36 @@
    ],
    "note": "PID-Tickets vor dem Einsteigen aktivieren und warten, bis sie gültig sind; der Airport Express ist nicht enthalten.",
    "src": "https://www.bento.travel/de/czech-republic",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "150",
+     "155",
+     "156",
+     "158"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "CZK",
+      "name": "tschechische Krone"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+420"
+    ],
+    "tip": "Freiwillig, aber höflich: im Restaurant auf eine runde Summe aufrunden (meist rund 10 %) und den Betrag ansagen. Auf dem Tisch liegen lassen ist nicht üblich.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Czech_Republic"
+   }
   },
   {
    "code": "DK",
@@ -7709,7 +8501,34 @@
    ],
    "src": "https://www.bento.travel/denmark",
    "checked": "2026-11-17",
-   "note": "Routenplanung ist kein Ticket: Fahrschein vor der Fahrt kaufen oder per Check-in starten, dazu zwei Karten mitnehmen."
+   "note": "Routenplanung ist kein Ticket: Fahrschein vor der Fahrt kaufen oder per Check-in starten, dazu zwei Karten mitnehmen.",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F",
+     "K"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "DKK",
+      "name": "dänische Krone"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+45"
+    ],
+    "tip": "Trinkgeld ist nicht nötig, da die Servicegebühr gesetzlich immer im Preis enthalten ist.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Denmark"
+   }
   },
   {
    "code": "HR",
@@ -7916,7 +8735,33 @@
    "src": "https://www.bento.travel/croatia",
    "checked": "2026-11-17",
    "lgbtq_note": "Homosexualität ist gesetzlich respektiert und eingetragene Partnerschaften sind möglich; abseits der Städte und Urlaubsorte ist die Akzeptanz teils gering.",
-   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kroatien-node/kroatiensicherheit/210072"
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kroatien-node/kroatiensicherheit/210072",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "93",
+     "94",
+     "112",
+     "192"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+385"
+    ]
+   }
   },
   {
    "code": "HU",
@@ -8120,7 +8965,35 @@
    "src": "https://www.bento.travel/hungary",
    "checked": "2026-11-17",
    "lgbtq_note": "Gleichgeschlechtliche Partnerschaften sind legal und eintragbar, die Ehe nicht; Pride-Veranstaltungen können seit 2025 verboten und Teilnehmende bestraft werden.",
-   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ungarn-node/ungarnsicherheit/210332"
+   "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ungarn-node/ungarnsicherheit/210332",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "104",
+     "105",
+     "107",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "HUF",
+      "name": "Forint"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+36"
+    ],
+    "tip": "Trinkgeld ist in Ungarn weit verbreitet. Die erwartete Höhe hängt von Preis, Art des Lokals und Servicequalität ab.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Hungary"
+   }
   },
   {
    "code": "EG",
@@ -8305,7 +9178,32 @@
    ],
    "note": "Fahrten immer in der App halten, Kennzeichen prüfen und kleine EGP-Scheine bereithalten.",
    "src": "https://www.bento.travel/egypt",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "122",
+     "123",
+     "180"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "EGP",
+      "name": "ägyptisches Pfund"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+20"
+    ]
+   }
   },
   {
    "code": "MA",
@@ -8452,7 +9350,34 @@
    ],
    "note": "Dirham in bar mitnehmen, da Souks, Cafés und Taxis oft nur Bargeld nehmen.",
    "src": "https://www.bento.travel/morocco",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "15",
+     "19",
+     "112",
+     "177"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     127,
+     220
+    ],
+    "currency": [
+     {
+      "code": "MAD",
+      "name": "Marokkanischer Dirham"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+212"
+    ]
+   }
   },
   {
    "code": "CA",
@@ -8736,7 +9661,32 @@
    ],
    "note": "Deutsche brauchen für Flüge eine eTA für 7 CAD, nur über canada.ca, eine offizielle App gibt es nicht. Bezahlt wird meist per Kreditkarte.",
    "src": "https://www.bento.travel/canada",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "CAD",
+      "name": "kanadischer Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1"
+    ],
+    "tip": "Ähnlich wie in den USA, aber etwas zurückhaltender. Wo Essen serviert wird, sind 15 bis 18 % üblich. In anderen Bereichen ist Trinkgeld weniger verbreitet.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Canada"
+   }
   },
   {
    "code": "CR",
@@ -8888,7 +9838,31 @@
    ],
    "note": "Uber und DiDi sind nicht reguliert, lizenzierte rote Taxis oder genehmigte Shuttles sind die offizielle Alternative.",
    "src": "https://www.bento.travel/costa-rica",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "112",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "CRC",
+      "name": "Costa-Rica-Colón"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+506"
+    ]
+   }
   },
   {
    "code": "AR",
@@ -9110,7 +10084,33 @@
    ],
    "note": "Wenig Bargeld mitnehmen, am Kartenterminal immer in Pesos zahlen und den Endkurs statt alter Kursangaben prüfen.",
    "src": "https://www.bento.travel/fr/argentina",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "100",
+     "101",
+     "117",
+     "911"
+    ],
+    "plugs": [
+     "C",
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "ARS",
+      "name": "argentinischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+54"
+    ]
+   }
   },
   {
    "code": "BR",
@@ -9301,7 +10301,36 @@
    ],
    "note": "Ausländische Karten und kontaktloses Zahlen scheitern öfter, daher zwei Karten und etwas Reais mitnehmen. Viele Apps fragen nach CPF.",
    "src": "https://www.bento.travel/brazil",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "188",
+     "190",
+     "192",
+     "193"
+    ],
+    "plugs": [
+     "C",
+     "N"
+    ],
+    "voltage": [
+     127,
+     220
+    ],
+    "currency": [
+     {
+      "code": "BRL",
+      "name": "brasilianischer Real"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+55"
+    ],
+    "tip": "Taxifahrer erwarten meist nichts. Für Parkwächter, Gepäckträger oder Tankwarte sind 1 bis 5 Real üblich, in Luxushäusern mehr. In Saftläden wirft man Kleingeld in die „Caixinha“.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Brazil"
+   }
   },
   {
    "code": "CL",
@@ -9441,7 +10470,38 @@
    ],
    "note": "Karten gehen in Städten meist, für Märkte, Regionalbusse und kleine Läden aber Pesos bereithalten.",
    "src": "https://www.bento.travel/chile",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "130",
+     "131",
+     "132",
+     "133",
+     "134"
+    ],
+    "plugs": [
+     "C",
+     "L"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "CLF",
+      "name": "Unidad de Fomento"
+     },
+     {
+      "code": "CLP",
+      "name": "chilenischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+56"
+    ]
+   }
   },
   {
    "code": "PE",
@@ -9563,7 +10623,36 @@
    ],
    "note": "Machu-Picchu-Tickets nur über TuBoleto kaufen und Zugtickets separat bei autorisierten Anbietern buchen.",
    "src": "https://www.bento.travel/peru",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "105",
+     "106",
+     "111",
+     "116",
+     "117",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "PEN",
+      "name": "Nuevo Sol"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+51"
+    ]
+   }
   },
   {
    "code": "AQ",
@@ -9616,7 +10705,13 @@
    "cities": [],
    "note": "Bei Pauschalreisen holt der Veranstalter die Genehmigung ein, Individualreisende beantragen sie selbst beim Umweltbundesamt.",
    "src": "https://www.umweltbundesamt.de/themen/nachhaltigkeit-strategien-internationales/antarktis/antarktisreisende",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "calling": [
+     "+672"
+    ]
+   }
   },
   {
    "code": "AS",
@@ -9650,7 +10745,32 @@
    "src": "https://www.legalaffairs.as.gov/copy-of-entry-permit-waiver-program",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1980 legal, Ehen werden vor Ort nicht geschlossen, die Gesellschaft ist religiös und eher konservativ.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_American_Samoa",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "F",
+     "I"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1684"
+    ]
+   }
   },
   {
    "code": "NZ",
@@ -10015,7 +11135,31 @@
    "src": "https://www.bento.travel/new-zealand",
    "lgbtq_note": "Das Auswärtige Amt nennt für Neuseeland keine besonderen Strafrechtsbestimmungen für LGBTIQ-Reisende.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/neuseeland-node/neuseelandsicherheit/220146",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "111"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "NZD",
+      "name": "Neuseeland-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+64"
+    ],
+    "tip": "Trinkgeld ist nicht üblich und bei Einheimischen sehr selten, nur in gehobenen Lokalen etwas häufiger. Es ist nicht verpflichtend, auch nicht im Restaurant.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#New_Zealand"
+   }
   },
   {
    "code": "MU",
@@ -10152,7 +11296,34 @@
    "src": "https://www.expat.com/en/expat-mag/11858-useful-apps-for-everyday-life-in-mauritius.html",
    "lgbtq_note": "Paragraph 250 wurde 2023 vom Obersten Gericht für verfassungswidrig erklärt, gilt aber formal weiter; Zurückhaltung in der Öffentlichkeit wird empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mauritiussicherheit/206994",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "114",
+     "115",
+     "995",
+     "999"
+    ],
+    "plugs": [
+     "C",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "MUR",
+      "name": "Mauritius-Rupie"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+230"
+    ]
+   }
   },
   {
    "code": "SC",
@@ -10223,7 +11394,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/seychellen-node/seychellensicherheit-226912",
    "lgbtq_note": "Homosexuelle Handlungen sind auf den Seychellen nicht strafbar.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/seychellen-node/seychellensicherheit-226912",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "133",
+     "151",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "SCR",
+      "name": "Seychellen-Rupie"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+248"
+    ]
+   }
   },
   {
    "code": "TN",
@@ -10302,7 +11498,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nach Artikel 230 mit bis zu drei Jahren Haft strafbar, die Polizei nutzt Dating-Apps für Festnahmen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "190",
+     "193",
+     "197",
+     "198"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "TND",
+      "name": "tunesischer Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+216"
+    ]
+   }
   },
   {
    "code": "TZ",
@@ -10401,7 +11623,31 @@
    "src": "https://www.bento.travel/tanzania",
    "lgbtq_note": "Homosexuelle Handlungen werden mit sehr hohen Gefängnisstrafen bestraft, das gilt auch für Ausländer.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tansaniasicherheit/208662",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "114",
+     "115"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "TZS",
+      "name": "Tansania-Schilling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+255"
+    ]
+   }
   },
   {
    "code": "AG",
@@ -10449,7 +11695,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042",
    "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Handlungen sind nicht mehr strafbar, offene Zärtlichkeiten in der Öffentlichkeit können aber negative Aufmerksamkeit erregen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911",
+     "999"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1268"
+    ]
+   }
   },
   {
    "code": "AI",
@@ -10475,7 +11745,29 @@
    "src": "https://www.travelwithhello.com/blog/anguilla-transport-guide",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen unter Erwachsenen sind seit 2001 legal, die Ehe bleibt Mann und Frau vorbehalten.",
    "lgbtq_src": "https://equaldex.com/region/anguilla",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1264"
+    ]
+   }
   },
   {
    "code": "CU",
@@ -10551,7 +11843,36 @@
    "src": "https://www.bento.travel/cuba",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Toleranz in der Bevölkerung ist vor allem auf dem Land aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/212208",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "104",
+     "105",
+     "106"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "CUC",
+      "name": "Peso convertible"
+     },
+     {
+      "code": "CUP",
+      "name": "kubanischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+53"
+    ]
+   }
   },
   {
    "code": "DO",
@@ -10635,7 +11956,34 @@
    "src": "https://www.bento.travel/dominican-republic",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die Akzeptanz in der Bevölkerung ist vor allem auf dem Land aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node/dominikanischerepubliksicherheit/206146",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "DOP",
+      "name": "dominikanischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1809",
+     "+1829",
+     "+1849"
+    ],
+    "tip": "Auf den Karibikinseln unterschiedlich. In der Dominikanischen Republik schlagen Restaurants 10 % auf, üblich ist zusätzlich etwa 10 % Trinkgeld.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Caribbean"
+   }
   },
   {
    "code": "BO",
@@ -10780,7 +12128,39 @@
    "src": "https://www.bento.travel/bolivia",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Verfassung verbietet Diskriminierung; im Hochland ist die Gesellschaft konservativer als in Santa Cruz, eine gleichgeschlechtliche Ehe ist nicht möglich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bolivien-node/boliviensicherheit/213428",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "110",
+     "119",
+     "160",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "C"
+    ],
+    "voltage": [
+     115,
+     230
+    ],
+    "currency": [
+     {
+      "code": "BOB",
+      "name": "Boliviano"
+     },
+     {
+      "code": "BOP"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+591"
+    ],
+    "tip": "Die Servicegebühr ist in der Rechnung enthalten. Etwa 5 % Trinkgeld werden manchmal gegeben und gelten als höflich.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Bolivia"
+   }
   },
   {
    "code": "CO",
@@ -10966,7 +12346,30 @@
    "src": "https://www.bento.travel/colombia",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Akzeptanz ist vor allem auf dem Land gering; das Auswärtige Amt warnt vor Raubüberfällen nach Treffen über Dating-Apps.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/DE/Laenderinformationen/00-SiHi/KolumbienSicherheit.html",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "123"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "COP",
+      "name": "kolumbianischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+57"
+    ]
+   }
   },
   {
    "code": "EC",
@@ -11101,7 +12504,33 @@
    "src": "https://www.bento.travel/from/usa/to/ecuador",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist erlaubt und Diskriminierung im Arbeitsrecht verboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "131",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+593"
+    ]
+   }
   },
   {
    "code": "FK",
@@ -11122,7 +12551,26 @@
    "src": "https://www.falklandislands.com/plan-your-trip/getting-around/travel-by-road",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.",
    "lgbtq_src": "https://thepinknews.com/2017/04/12/falkland-islands-introduces-full-marriage-equality",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "FKP",
+      "name": "Falkland-Pfund"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+500"
+    ]
+   }
   },
   {
    "code": "CK",
@@ -11191,7 +12639,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/cookinseln-node/cookinselnsicherheit/226552",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit Juni 2023 legal, Ehe und Partnerschaft gibt es nicht, die Gesellschaft ist stark kirchlich geprägt, Zärtlichkeiten in der Öffentlichkeit besser meiden.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Cook_Islands",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "996",
+     "998",
+     "999"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "NZD",
+      "name": "Neuseeland-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+682"
+    ]
+   }
   },
   {
    "code": "FJ",
@@ -11313,7 +12785,31 @@
    "src": "https://www.bento.travel/fiji",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind entkriminalisiert, die Akzeptanz in der ländlichen Bevölkerung ist laut Auswärtigem Amt aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/fidschi-node/fidschisicherheit-226626",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "000",
+     "911",
+     "919"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "FJD",
+      "name": "Fidschi-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+679"
+    ]
+   }
   },
   {
    "code": "GU",
@@ -11394,7 +12890,30 @@
    "src": "https://www.visitguam.com/about-guam/entry-and-exit-formalities/",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1978 legal, die Ehe ist seit 2015 geöffnet, es gibt Diskriminierungsschutz und eine jährliche Pride.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Guam",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1671"
+    ]
+   }
   },
   {
    "code": "PF",
@@ -11529,7 +13048,23 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2013 möglich, Schutz vor Diskriminierung, Rae-rae sind traditionell Teil der Gesellschaft.",
    "lgbtq_src": "https://equaldex.com/region/french-polynesia",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "currency": [
+     {
+      "code": "XPF",
+      "name": "CFP-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+689"
+    ]
+   }
   },
   {
    "code": "JP",
@@ -11769,7 +13304,34 @@
    "src": "https://www.bento.travel/japan",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe oder eingetragene Partnerschaft gibt es aber nicht, die Tokyo Rainbow Pride läuft seit Jahren ohne Zwischenfälle.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/japan-node/japansicherheit/213032",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "110",
+     "118",
+     "119"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     100
+    ],
+    "currency": [
+     {
+      "code": "JPY",
+      "name": "Yen"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+81"
+    ],
+    "tip": "Trinkgeld ist nicht üblich, da in Hotels und Restaurants meist eine Servicegebühr enthalten ist. Geld ohne Umschlag zu geben kann sogar unhöflich wirken.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Japan"
+   }
   },
   {
    "code": "TR",
@@ -11988,7 +13550,34 @@
    "src": "https://www.bento.travel/turkey",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Pride-Veranstaltungen werden aber regelmäßig verboten und 2026 gab es Razzien sowie Sperren von Webseiten und Konten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit/201962",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "177"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "TRY",
+      "name": "türkische Lira"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+36",
+     "+90"
+    ],
+    "tip": "Meist optional. Im Restaurant werden 5 bis 10 % geschätzt, oft durch Wechselgeld behalten. Taxifahrer erwarten nichts, Aufrunden ist möglich. Hotelportiers bekommen Kleingeld.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Turkey"
+   }
   },
   {
    "code": "AO",
@@ -12095,7 +13684,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/angola-node/angolasicherheit-208118",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, offen gezeigte Zärtlichkeiten unter gleichgeschlechtlichen Paaren sind aber unüblich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/angola-node/angolasicherheit-208118",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "113",
+     "115",
+     "116"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "AOA",
+      "name": "Kwanza"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+244"
+    ]
+   }
   },
   {
    "code": "BJ",
@@ -12149,7 +13762,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar, werden in der Gesellschaft aber eher toleriert als wertgeschätzt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "117",
+     "118"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+229"
+    ]
+   }
   },
   {
    "code": "BW",
@@ -12243,7 +13881,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/botsuana-node/botsuanasicherheit-219522",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht mehr strafbar, die Gesetzesänderung gilt seit April 2026; in der Gesellschaft gibt es weiterhin Vorbehalte.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/botsuana-node/botsuanasicherheit-219522",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "911",
+     "997",
+     "998",
+     "999"
+    ],
+    "plugs": [
+     "D",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "BWP",
+      "name": "botswanischer Pula"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+267"
+    ]
+   }
   },
   {
    "code": "DZ",
@@ -12358,7 +14022,34 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
    "lgbtq_note": "Homosexuelle Handlungen sind in Algerien gesetzlich verboten und stehen unter Strafe.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "14",
+     "17",
+     "1055",
+     "1548"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "DZD",
+      "name": "algerischer Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+213"
+    ]
+   }
   },
   {
    "code": "BF",
@@ -12444,7 +14135,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336",
    "lgbtq_note": "Homosexuelle Handlungen sind seit Oktober 2025 strafbar und mit mehrjähriger Haft bedroht, Ausländer werden ausgewiesen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "17",
+     "18",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+226"
+    ]
+   }
   },
   {
    "code": "BI",
@@ -12507,7 +14223,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar (bis zu zwei Jahre Haft oder Geldstrafe), der Präsident hetzt offen gegen LGBTQ+-Personen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "113",
+     "117"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "BIF",
+      "name": "Burundi-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+257"
+    ]
+   }
   },
   {
    "code": "CV",
@@ -12578,7 +14319,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind legal und Diskriminierung ist verboten, gleichgeschlechtliche Partnerschaften werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "130",
+     "131",
+     "132"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "CVE",
+      "name": "Kap-Verde-Escudo"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+238"
+    ]
+   }
   },
   {
    "code": "AW",
@@ -12643,7 +14409,31 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
    "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "F"
+    ],
+    "voltage": [
+     127
+    ],
+    "currency": [
+     {
+      "code": "AWG",
+      "name": "Aruba-Florin"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+297"
+    ]
+   }
   },
   {
    "code": "BB",
@@ -12728,7 +14518,33 @@
    "src": "https://www.bento.travel/es/barbados",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen stehen noch im Gesetz, der Oberste Gerichtshof erklärte die Strafnormen 2022 aber für verfassungswidrig; in der Öffentlichkeit ist Zurückhaltung geboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/barbados-node/barbadossicherheit-226424",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "211",
+     "311",
+     "511",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     115
+    ],
+    "currency": [
+     {
+      "code": "BBD",
+      "name": "Barbados-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1246"
+    ]
+   }
   },
   {
    "code": "BS",
@@ -12809,7 +14625,30 @@
    "src": "https://www.bento.travel/bahamas",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1991 legal, es gibt aber keinen Diskriminierungsschutz und keine Anerkennung von Partnerschaften, gesellschaftlich bestehen deutliche Vorbehalte.",
    "lgbtq_src": "https://outrightinternational.org/our-work/americas/bahamas",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "919"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "BSD",
+      "name": "Bahama-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1242"
+    ]
+   }
   },
   {
    "code": "BZ",
@@ -12880,7 +14719,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/belize-node/belizesicherheit/220284",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht verboten, die Akzeptanz in der Bevölkerung ist aber sehr gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/belize-node/belizesicherheit/220284",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "90",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "G"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "BZD",
+      "name": "Belize-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+501"
+    ]
+   }
   },
   {
    "code": "GF",
@@ -12948,7 +14812,27 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524",
    "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, laut Auswärtigem Amt keine besonderen Schwierigkeiten bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+594"
+    ]
+   }
   },
   {
    "code": "GY",
@@ -13036,7 +14920,34 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/guyana-node/guyanasicherheit/220348",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, Fälle von Strafverfolgung sind laut Auswärtigem Amt aber nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guyana-node/guyanasicherheit/220348",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "911",
+     "912",
+     "913",
+     "999"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "GYD",
+      "name": "Guyana-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+592"
+    ]
+   }
   },
   {
    "code": "PY",
@@ -13141,7 +15052,31 @@
    "src": "https://www.bento.travel/paraguay",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1990 legal, die Ehe ist Mann und Frau vorbehalten und es gibt kaum Diskriminierungsschutz.",
    "lgbtq_src": "https://www.equaldex.com/region/asunción",
-   "checked": "2026-11-17"
+   "checked": "2026-11-17",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "PYG",
+      "name": "Paraguayischer Guaraní"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+595"
+    ],
+    "tip": "Die Servicegebühr ist in der Rechnung enthalten, Trinkgeld ist unüblich.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Paraguay"
+   }
   },
   {
    "code": "FM",
@@ -13186,7 +15121,31 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen unter Erwachsenen sind straffrei und Diskriminierung ist verboten, die gesellschaftliche Akzeptanz ist aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "111",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+691"
+    ]
+   }
   },
   {
    "code": "KI",
@@ -13237,7 +15196,33 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle von Strafverfolgung bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kiribatisicherheit/220364",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "192",
+     "193",
+     "194",
+     "195",
+     "999"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+686"
+    ]
+   }
   },
   {
    "code": "MH",
@@ -13283,7 +15268,23 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht verboten, Ehe und Lebenspartnerschaft werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+692"
+    ]
+   }
   },
   {
    "code": "ID",
@@ -13564,7 +15565,31 @@
    "src": "https://www.bento.travel/fr/indonesia",
    "lgbtq_note": "Außer in Aceh, wo nach Scharia Prügelstrafen auch für Nichtmuslime drohen, sind homosexuelle Handlungen nicht strafbar, werden aber kaum toleriert, und seit Januar 2026 ist außerehelicher Sex nach dem neuen Strafrecht auf Anzeige strafbar.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/indonesien-node/indonesiensicherheit/212396",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     127,
+     230
+    ],
+    "currency": [
+     {
+      "code": "IDR",
+      "name": "indonesische Rupiah"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+62"
+    ]
+   }
   },
   {
    "code": "KR",
@@ -13839,7 +15864,34 @@
    "src": "https://www.bento.travel/south-korea",
    "lgbtq_note": "Homosexuelle Handlungen sind legal, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die gesellschaftliche Akzeptanz ist eher gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korea-node/koreasicherheit-216132",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "113",
+     "119"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "KRW",
+      "name": "südkoreanischer Won"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+82"
+    ],
+    "tip": "Trinkgeld ist in Korea nicht üblich und wird im allgemeinen Servicebereich nicht erwartet.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#South_Korea"
+   }
   },
   {
    "code": "TH",
@@ -14033,7 +16085,34 @@
    "src": "https://www.bento.travel/thailand",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen sind möglich und rechtlich voll gleichgestellt, vor allem die Großstädte gelten als sehr tolerant.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/thailand-node/thailandsicherheit-201558",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "191",
+     "199",
+     "1669"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "THB",
+      "name": "Baht"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+66"
+    ]
+   }
   },
   {
    "code": "VN",
@@ -14217,7 +16296,34 @@
    "src": "https://www.bento.travel/vietnam/ride-hailing",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die Gesellschaft gilt als eher konservativ.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "113",
+     "114",
+     "115"
+    ],
+    "plugs": [
+     "A",
+     "C",
+     "F",
+     "G"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "VND",
+      "name": "vietnamesischer Đồng"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+84"
+    ]
+   }
   },
   {
    "code": "CF",
@@ -14261,7 +16367,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
    "lgbtq_note": "Homosexuelle Handlungen sind mit bis zu zwei Jahren Haft und Geldstrafe bedroht, verfolgt wird meist nach Anzeigen von Einheimischen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "117",
+     "118",
+     "1220"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XAF",
+      "name": "CFA-Franc BEAC"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+236"
+    ]
+   }
   },
   {
    "code": "CM",
@@ -14322,7 +16453,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kamerunsicherheit-208874",
    "lgbtq_note": "Homosexuelle Handlungen sind nach Artikel 347 strafbar (sechs Monate bis fünf Jahre Haft), auch Ausländer werden verfolgt und Übergriffe sind häufig.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kamerunsicherheit-208874",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XAF",
+      "name": "CFA-Franc BEAC"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+237"
+    ]
+   }
   },
   {
    "code": "KM",
@@ -14368,7 +16522,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/komoren-node/komorensicherheit-226660",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, es drohen bis zu fünf Jahre Haft oder hohe Geldstrafen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/komoren-node/komorensicherheit-226660",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "17",
+     "18"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "KMF",
+      "name": "Komoren-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+269"
+    ]
+   }
   },
   {
    "code": "TD",
@@ -14411,7 +16589,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden mit drei Monaten bis zwei Jahren Haft sowie Geldstrafe geahndet.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "17",
+     "18"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XAF",
+      "name": "CFA-Franc BEAC"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+235"
+    ]
+   }
   },
   {
    "code": "BM",
@@ -14542,7 +16745,34 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Rechtsschutz und gesellschaftliche Akzeptanz sind aber geringer als im Vereinigten Königreich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "BMD",
+      "name": "Bermuda-Dollar"
+     },
+     {
+      "code": "GBP",
+      "name": "Pfund Sterling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1441"
+    ]
+   }
   },
   {
    "code": "BQ",
@@ -14598,7 +16828,20 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
    "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende und keine strafrechtlichen Einschränkungen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+599"
+    ]
+   }
   },
   {
    "code": "CW",
@@ -14703,7 +16946,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
    "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "XCG",
+      "name": "Karibischer Gulden"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+5999"
+    ]
+   }
   },
   {
    "code": "KY",
@@ -14814,7 +17080,30 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/grossbritannien-node/grossbritanniensicherheit-206408",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Schutz vor Diskriminierung und gesellschaftliche Akzeptanz sind aber geringer als im Vereinigten Königreich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/grossbritannien-node/grossbritanniensicherheit-206408",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "KYD",
+      "name": "Kaiman-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1345"
+    ]
+   }
   },
   {
    "code": "SR",
@@ -14913,7 +17202,34 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/suriname-node/surinamesicherheit/220450",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1869 legal und Diskriminierung ist verboten, gleichgeschlechtliche Paare werden aber rechtlich kaum anerkannt.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Suriname",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "110",
+     "111",
+     "112",
+     "113",
+     "115"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     127
+    ],
+    "currency": [
+     {
+      "code": "SRD",
+      "name": "Suriname-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+597"
+    ]
+   }
   },
   {
    "code": "UY",
@@ -15035,7 +17351,32 @@
    "src": "https://www.bento.travel/uruguay",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist anerkannt und die Toleranz gilt als hoch.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/201138",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "I",
+     "L"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "UYU",
+      "name": "uruguayischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+598"
+    ]
+   }
   },
   {
    "code": "VE",
@@ -15144,7 +17485,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/venezuelasicherheit-224982",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe und eingetragene Partnerschaft gibt es nicht, Schutz vor Diskriminierung nur teilweise.",
    "lgbtq_src": "https://www.equaldex.com/region/venezuela",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "SA",
+   "info": {
+    "emergency": [
+     "171",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "VES"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+58"
+    ]
+   }
   },
   {
    "code": "CD",
@@ -15219,7 +17583,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht ausdrücklich strafbar, werden aber als Verstoß gegen die Sittlichkeit mit Haft geahndet; ein Verbotsgesetz wird debattiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "113",
+     "114",
+     "118"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "CDF",
+      "name": "Kongo-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+243"
+    ]
+   }
   },
   {
    "code": "CG",
@@ -15295,7 +17684,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542",
    "lgbtq_note": "Kein ausdrückliches Verbot genannt, offen gezeigte homosexuelle Handlungen können aber zu willkürlichen Verhaftungen wegen Sittenwidrigkeit führen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "117",
+     "118"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XAF",
+      "name": "CFA-Franc BEAC"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+242"
+    ]
+   }
   },
   {
    "code": "CI",
@@ -15386,7 +17799,34 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, werden gesellschaftlich aber häufig nicht akzeptiert; Schutz vor Diskriminierung fehlt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "110",
+     "111",
+     "170",
+     "180",
+     "185"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+225"
+    ]
+   }
   },
   {
    "code": "DJ",
@@ -15455,7 +17895,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
    "lgbtq_note": "Keine Fälle strafrechtlicher Verfolgung bekannt, gleichgeschlechtliche Partnerschaften werden gesellschaftlich aber nicht toleriert; Zurückhaltung ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "17",
+     "18",
+     "19"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "DJF",
+      "name": "Dschibuti-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+253"
+    ]
+   }
   },
   {
    "code": "DM",
@@ -15505,7 +17970,29 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/dominicasicherheit-220300",
    "lgbtq_note": "Seit einem Gerichtsurteil von 2024 sind einvernehmliche gleichgeschlechtliche Handlungen unter Erwachsenen nicht mehr strafbar.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/dominicasicherheit-220300",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1767"
+    ]
+   }
   },
   {
    "code": "GD",
@@ -15594,7 +18081,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316",
    "lgbtq_note": "Homosexuelle Handlungen sind formal strafbar, Fälle von Strafverfolgung sind aber nicht bekannt; Zurückhaltung ist ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grenadasicherheit-220316",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "434",
+     "724",
+     "774",
+     "911"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1473"
+    ]
+   }
   },
   {
    "code": "GL",
@@ -15679,7 +18191,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724",
    "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten, keine strafrechtlichen Einschränkungen, gute Akzeptanz vor allem in den Städten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/daenemarksicherheit-211724",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F",
+     "K"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "DKK",
+      "name": "dänische Krone"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+299"
+    ]
+   }
   },
   {
    "code": "SV",
@@ -15745,7 +18282,31 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Diskriminierung kommt vor allem im ländlichen Raum vor.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/elsalvadorsicherheit-221864",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911",
+     "913"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     115
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+503"
+    ]
+   }
   },
   {
    "code": "NC",
@@ -15822,7 +18383,30 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, laut Auswärtigem Amt keine Hinweise auf besondere Schwierigkeiten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XPF",
+      "name": "CFP-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+687"
+    ]
+   }
   },
   {
    "code": "NF",
@@ -15879,7 +18463,20 @@
    "src": "https://www.norfolkisland.com.au/travel-essentials/faqs/",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/norfolk-island",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+6723"
+    ]
+   }
   },
   {
    "code": "NR",
@@ -15920,7 +18517,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
    "lgbtq_note": "Homosexuelle Handlungen sind entkriminalisiert, Partnerschaften werden aber nicht anerkannt und es gibt keinen Diskriminierungsschutz.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "110",
+     "111",
+     "112"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+674"
+    ]
+   }
   },
   {
    "code": "NU",
@@ -15968,7 +18589,29 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit Juni 2024 legal, die Ehe ist Mann und Frau vorbehalten, Schutz vor Diskriminierung gibt es nicht.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Niue",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "NZD",
+      "name": "Neuseeland-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+683"
+    ]
+   }
   },
   {
    "code": "CN",
@@ -16186,7 +18829,35 @@
    "src": "https://www.bento.travel/china",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, ein rechtlicher Schutz fehlt aber und gleichgeschlechtliche Paare sollten sich in der Öffentlichkeit zurückhalten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/china-node/chinasicherheit-200466",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "110",
+     "119",
+     "120"
+    ],
+    "plugs": [
+     "A",
+     "C",
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "CNY",
+      "name": "Renminbi"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+86"
+    ],
+    "tip": "Traditionell kein Trinkgeld. In Hotels mit ausländischen Gästen sowie bei Reiseleitern und deren Fahrern ist es aber erlaubt.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#China"
+   }
   },
   {
    "code": "HK",
@@ -16388,7 +19059,29 @@
    "src": "https://www.bento.travel/hong-kong",
    "lgbtq_note": "Gleichgeschlechtliche Partnerschaften werden nicht anerkannt, ein Gesetz zu ihrer Registrierung lehnte das Parlament im September 2025 ab.",
    "lgbtq_src": "https://www.ilgaasia.org/publications/hksep2025",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "HKD",
+      "name": "Hongkong-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+852"
+    ]
+   }
   },
   {
    "code": "MY",
@@ -16617,7 +19310,31 @@
    "src": "https://www.bento.travel/malaysia",
    "lgbtq_note": "Einvernehmliche homosexuelle Handlungen können mit bis zu 20 Jahren Haft bestraft werden, seit 2023 sind auch LGBTIQ-Symbole wie Regenbogen-Accessoires verboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malaysia-node/malaysiasicherheit-223616",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "MYR",
+      "name": "Ringgit"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+60"
+    ],
+    "tip": "Trinkgeld ist nicht üblich und wird für keinen Service erwartet. Restaurants schlagen oft 10 % Servicegebühr auf die Rechnung.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Malaysia"
+   }
   },
   {
    "code": "PH",
@@ -16883,7 +19600,31 @@
    "src": "https://www.bento.travel/philippines",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen und gute gesellschaftliche Akzeptanz, gleichgeschlechtliche Partnerschaften und Ehen werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/philippinen-node/philippinensicherheit/212492",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "PHP",
+      "name": "philippinischer Peso"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+63"
+    ]
+   }
   },
   {
    "code": "ER",
@@ -16905,7 +19646,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/eritrea-node/eritreasicherheit/226176",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können zu Haft oder Geldstrafe führen; Zurückhaltung dringend geraten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eritrea-node/eritreasicherheit/226176",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "113",
+     "114",
+     "116"
+    ],
+    "plugs": [
+     "C",
+     "L"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "ERN",
+      "name": "eritreischer Nakfa"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+291"
+    ]
+   }
   },
   {
    "code": "ET",
@@ -17043,7 +19809,36 @@
    "src": "https://www.bento.travel/ethiopia/ride-hailing",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und mit bis zu 15 Jahren Haft bedroht; bei Dating-Apps ist große Vorsicht geboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aethiopien-node/aethiopiensicherheit-209504",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "907",
+     "911",
+     "939",
+     "991"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F",
+     "J",
+     "L"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "ETB",
+      "name": "Äthiopischer Birr"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+251"
+    ]
+   }
   },
   {
    "code": "GQ",
@@ -17088,7 +19883,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node/aequatorialguineasicherheit-226768",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, LGBTQ+ Personen werden gesellschaftlich aber stigmatisiert und sind nicht gesetzlich geschützt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node/aequatorialguineasicherheit-226768",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "113",
+     "114",
+     "115"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XAF",
+      "name": "CFA-Franc BEAC"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+240"
+    ]
+   }
   },
   {
    "code": "SZ",
@@ -17145,7 +19966,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, aktuelle Verfolgungen sind nicht bekannt; Zärtlichkeiten in der Öffentlichkeit können geahndet werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "933",
+     "977",
+     "999"
+    ],
+    "plugs": [
+     "D"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "SZL",
+      "name": "Lilangeni"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+268"
+    ]
+   }
   },
   {
    "code": "GA",
@@ -17236,7 +20081,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/gabun-node/gabunsicherheit-226324",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, offen gelebte Homosexualität wird von großen Teilen der Bevölkerung aber abgelehnt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/gabun-node/gabunsicherheit-226324",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "18",
+     "1300",
+     "1722"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XAF",
+      "name": "CFA-Franc BEAC"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+241"
+    ]
+   }
   },
   {
    "code": "GH",
@@ -17413,7 +20282,32 @@
    "src": "https://www.bento.travel/fr/ghana",
    "lgbtq_note": "Homosexuelle Handlungen sind mit mehrjähriger Haft bedroht, ein schärferes Gesetz wurde im Mai 2026 beschlossen; Zurückhaltung in der Öffentlichkeit ist dringend geraten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ghana-node/ghanasicherheit-203372",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "191",
+     "192",
+     "193",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "GHS",
+      "name": "Cedi"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+233"
+    ]
+   }
   },
   {
    "code": "GM",
@@ -17490,7 +20384,31 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit mehrjähriger Haft bestraft werden; große Zurückhaltung ist geboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "116",
+     "118"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "GMD",
+      "name": "Dalasi"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+220"
+    ]
+   }
   },
   {
    "code": "GP",
@@ -17583,7 +20501,30 @@
    "src": "https://www.aircaraibes.com/destinations/guadeloupe/transports",
    "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, die gesellschaftliche Akzeptanz ist aber begrenzt.",
    "lgbtq_src": "https://www.equaldex.com/region/guadeloupe",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+590"
+    ]
+   }
   },
   {
    "code": "GT",
@@ -17700,7 +20641,33 @@
    "src": "https://www.bento.travel/guatemala",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, es fehlt aber ein Diskriminierungsschutz, auf dem Land ist die Toleranz gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guatemala-node/guatemalasicherheit-221882",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "110",
+     "120",
+     "123",
+     "128"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "GTQ",
+      "name": "guatemaltekischer Quetzal"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+502"
+    ]
+   }
   },
   {
    "code": "HN",
@@ -17764,7 +20731,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/honduras-node/hondurassicherheit-221078",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1899 legal, die Verfassung verbietet aber die gleichgeschlechtliche Ehe und Gewalt gegen LGBTQ+ Menschen ist häufig.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Honduras",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "198",
+     "199"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "HNL",
+      "name": "Lempira"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+504"
+    ]
+   }
   },
   {
    "code": "HT",
@@ -17821,7 +20812,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
    "lgbtq_note": "Laut Auswärtigem Amt herrscht latente Homophobie, gegen Ausländer gerichtete Diskriminierung im Alltag ist aber nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "114",
+     "115",
+     "116",
+     "122"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "HTG",
+      "name": "Gourde"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+509"
+    ]
+   }
   },
   {
    "code": "MP",
@@ -17908,7 +20925,20 @@
    "src": "https://www.mymarianas.com/?p=1528",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1983 legal, die Ehe ist seit 2015 geöffnet, ein allgemeiner Diskriminierungsschutz fehlt.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_Northern_Mariana_Islands",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1670"
+    ]
+   }
   },
   {
    "code": "PG",
@@ -17998,7 +21028,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698",
    "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt illegal und können mit Gefängnis bestraft werden, daher große Zurückhaltung geboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "110",
+     "111",
+     "112"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "PGK",
+      "name": "Kina"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+675"
+    ]
+   }
   },
   {
    "code": "PW",
@@ -18062,7 +21116,30 @@
    "src": "https://pristineparadisepalau.com/travelers-tips/",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, werden laut Auswärtigem Amt gesellschaftlich aber nicht überall akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+680"
+    ]
+   }
   },
   {
    "code": "IN",
@@ -18388,7 +21465,36 @@
    "src": "https://www.bento.travel/india",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, wegen geringer gesellschaftlicher Akzeptanz wird Zurückhaltung in der Öffentlichkeit empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/indiensicherheit/205998",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "100",
+     "101",
+     "102",
+     "108",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "D"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "INR",
+      "name": "Indische Rupie"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+91"
+    ],
+    "tip": "In Hotels und Restaurants nicht üblich, wird aber geschätzt. Aufrunden oder 5 bis 10 % der Rechnung. Bei Lieferdiensten wird zunehmend gefragt.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#India"
+   }
   },
   {
    "code": "LK",
@@ -18505,7 +21611,31 @@
    "src": "https://www.bento.travel/sri-lanka",
    "lgbtq_note": "Homosexuelle Handlungen sind für Männer und Frauen strafbar, Strafverfahren gegen Erwachsene gibt es in der Praxis aber kaum.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/aussenpolitik/laender/srilanka-node/srilankasicherheit-212254",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "110",
+     "119"
+    ],
+    "plugs": [
+     "D",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "LKR",
+      "name": "Sri-Lanka-Rupie"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+94"
+    ]
+   }
   },
   {
    "code": "MV",
@@ -18632,7 +21762,36 @@
    "src": "https://www.bento.travel/maldives",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden verfolgt, das Rechtssystem orientiert sich an der Scharia.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malediven-node/maledivensicherheit-220382",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "102",
+     "118",
+     "119"
+    ],
+    "plugs": [
+     "A",
+     "C",
+     "G",
+     "J",
+     "K",
+     "L"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "MVR",
+      "name": "Rufiyaa"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+960"
+    ]
+   }
   },
   {
    "code": "TW",
@@ -18886,7 +22045,32 @@
    "src": "https://www.bento.travel/es/taiwan",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar und die gleichgeschlechtliche Ehe ist möglich, gesellschaftliche Akzeptanz aber nicht überall.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/taiwan-node/taiwansicherheit/200896",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "110",
+     "112",
+     "119"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "TWD",
+      "name": "Neuer Taiwan-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+886"
+    ]
+   }
   },
   {
    "code": "GN",
@@ -18955,7 +22139,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar (sechs Monate bis drei Jahre Haft und Geldstrafe).",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "18",
+     "117"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "K"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "GNF",
+      "name": "Franc Guinéen"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+224"
+    ]
+   }
   },
   {
    "code": "GW",
@@ -18988,7 +22197,35 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/guineabissau-node/guineabissausicherheit-220332",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht verboten, Übergriffe wegen sexueller Orientierung sind nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guineabissau-node/guineabissausicherheit-220332",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "119",
+     "121",
+     "180"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "GWP"
+     },
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+245"
+    ]
+   }
   },
   {
    "code": "LR",
@@ -19042,7 +22279,39 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/liberia-node/liberiasicherheit-222378",
    "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Beziehungen sind strafbar und gesellschaftlich nicht akzeptiert, Zurückhaltung wird empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/liberia-node/liberiasicherheit-222378",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "114",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "C",
+     "E",
+     "F"
+    ],
+    "voltage": [
+     120,
+     220
+    ],
+    "currency": [
+     {
+      "code": "LRD",
+      "name": "Liberianischer Dollar"
+     },
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+231"
+    ]
+   }
   },
   {
    "code": "LS",
@@ -19108,7 +22377,35 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node/lesothosicherheit-226974",
    "lgbtq_note": "Ob gleichgeschlechtliche Handlungen noch strafbar sind, ist umstritten; Strafverfolgung ist nicht bekannt, das Thema gilt aber als Tabu.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/lesotho-node/lesothosicherheit-226974",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "114",
+     "115"
+    ],
+    "plugs": [
+     "D"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "LSL",
+      "name": "Lesothischer Loti"
+     },
+     {
+      "code": "ZAR",
+      "name": "südafrikanischer Rand"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+266"
+    ]
+   }
   },
   {
    "code": "JM",
@@ -19235,7 +22532,33 @@
    "src": "https://www.bento.travel/jamaica/transit",
    "lgbtq_note": "Homosexuelle Handlungen sind in Jamaika strafbar, ein großer Teil der Bevölkerung ist feindlich eingestellt und gewalttätige Übergriffe sind nicht selten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/jamaikasicherheit-226490",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "110",
+     "112",
+     "119",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     116
+    ],
+    "currency": [
+     {
+      "code": "JMD",
+      "name": "Jamaika-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1876"
+    ]
+   }
   },
   {
    "code": "MQ",
@@ -19331,7 +22654,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
    "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+596"
+    ]
+   }
   },
   {
    "code": "MS",
@@ -19373,7 +22719,27 @@
    "src": "https://visitmontserrat.com/sea",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, gleichgeschlechtliche Ehen werden nicht anerkannt und die Gesellschaft gilt als sehr konservativ.",
    "lgbtq_src": "https://www.gov.uk/foreign-travel-advice/montserrat/safety-and-security",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1664"
+    ]
+   }
   },
   {
    "code": "NI",
@@ -19466,7 +22832,33 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
    "lgbtq_note": "Es gibt keine strafrechtlichen Bestimmungen gegen Homosexualität, die Verfassung verbietet Diskriminierung wegen der sexuellen Orientierung.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/nicaraguasicherheit-223316",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "115",
+     "118",
+     "120",
+     "128"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "NIO",
+      "name": "Córdoba Oro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+505"
+    ]
+   }
   },
   {
    "code": "LY",
@@ -19563,7 +22955,34 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/219624",
    "lgbtq_note": "Sex außerhalb der Ehe und sogenanntes unsittliches Verhalten sind verboten und mit Haft bedroht, gleichgeschlechtliche Partnerschaften sind nicht vorgesehen, Zurückhaltung wird empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/219624",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "190",
+     "191",
+     "193"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "L"
+    ],
+    "voltage": [
+     127,
+     230
+    ],
+    "currency": [
+     {
+      "code": "LYD",
+      "name": "libyscher Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+218"
+    ]
+   }
   },
   {
    "code": "MG",
@@ -19638,7 +23057,35 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/madagaskar-node/madagaskarsicherheit-207960",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, das Schutzalter ist aber ungleich, gleichgeschlechtliche Ehen sind verboten und es gibt kaum Schutz vor Diskriminierung.",
    "lgbtq_src": "https://equaldex.com/region/madagascar",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "117",
+     "118",
+     "124"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "J",
+     "K"
+    ],
+    "voltage": [
+     127,
+     220
+    ],
+    "currency": [
+     {
+      "code": "MGA",
+      "name": "Ariary"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+261"
+    ]
+   }
   },
   {
    "code": "ML",
@@ -19712,7 +23159,37 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258",
    "lgbtq_note": "Homosexuelle Handlungen sind in Mali ausdrücklich mit Geld- oder Haftstrafen bedroht und sollten in der Öffentlichkeit unbedingt vermieden werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "15",
+     "17",
+     "18",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "MLF",
+      "name": "Mali-Franc"
+     },
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+223"
+    ]
+   }
   },
   {
    "code": "MW",
@@ -19796,7 +23273,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu 14 Jahren Haft bestraft werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "990",
+     "997",
+     "998",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "MWK",
+      "name": "Malawi-Kwacha"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+265"
+    ]
+   }
   },
   {
    "code": "BL",
@@ -19864,7 +23366,22 @@
    "src": "https://www.saintbarth-tourisme.com/travel",
    "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+590"
+    ],
+    "tip": "Auf St. Barths werden 10 bis 15 % Trinkgeld erwartet, falls keine Servicegebühr enthalten ist.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Caribbean"
+   }
   },
   {
    "code": "KN",
@@ -19924,7 +23441,31 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stkittsundnevissicherheit-226596",
    "lgbtq_note": "Das gesetzliche Verbot homosexueller Handlungen wurde 2022 vom Eastern Caribbean Supreme Court für einvernehmliche Handlungen Erwachsener im privaten Raum für verfassungswidrig erklärt, Strafverfolgungen sind seit Jahren nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stkittsundnevissicherheit-226596",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1869"
+    ]
+   }
   },
   {
    "code": "PA",
@@ -20040,7 +23581,36 @@
    "src": "https://bento.travel/panama",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die gesellschaftliche Akzeptanz ist aber gering, besonders auf dem Land.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/panama-node/panamasicherheit-206378",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "103",
+     "104",
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "PAB",
+      "name": "Panamaischer Balboa"
+     },
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+507"
+    ]
+   }
   },
   {
    "code": "PR",
@@ -20167,7 +23737,31 @@
    "src": "https://www.bento.travel/blog/is-uber-available-in-puerto-rico",
    "lgbtq_note": "Die gleichgeschlechtliche Ehe ist wie im übrigen US-Gebiet legal, gleichgeschlechtliche Paare dürfen adoptieren.",
    "lgbtq_src": "https://equallywed.com/?p=44767",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1787",
+     "+1939"
+    ]
+   }
   },
   {
    "code": "SB",
@@ -20231,7 +23825,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
    "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt strafbar und können mit Gefängnis bestraft werden, daher ist große Zurückhaltung ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "911",
+     "988",
+     "999"
+    ],
+    "plugs": [
+     "G",
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "SBD",
+      "name": "Salomonen-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+677"
+    ]
+   }
   },
   {
    "code": "TO",
@@ -20283,7 +23902,34 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "911",
+     "922",
+     "927",
+     "928",
+     "933",
+     "999"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "TOP",
+      "name": "Paʻanga"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+676"
+    ]
+   }
   },
   {
    "code": "WS",
@@ -20383,7 +24029,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/samoa-node/samoasicherheit-213758",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "994",
+     "995",
+     "996",
+     "999"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "WST",
+      "name": "samoanischer Tala"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+685"
+    ]
+   }
   },
   {
    "code": "IL",
@@ -20624,7 +24295,33 @@
    "src": "https://www.bento.travel/israel",
    "lgbtq_note": "Das Auswärtige Amt nennt für Israel keine besonderen Strafbestimmungen, in den Palästinensischen Gebieten sind homosexuelle Handlungen zwischen Männern jedoch strafbar.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/israelsicherheit-203814",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "100",
+     "101",
+     "102"
+    ],
+    "plugs": [
+     "C",
+     "D",
+     "H"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "ILS",
+      "name": "Schekel"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+972"
+    ]
+   }
   },
   {
    "code": "JO",
@@ -20784,7 +24481,33 @@
    "src": "https://www.bento.travel/de/jordan",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, Homosexualität wird gesellschaftlich aber nicht toleriert und gleichgeschlechtliche Ehen werden nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit/218008",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "B",
+     "C",
+     "F",
+     "G",
+     "J"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "JOD",
+      "name": "jordanischer Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+962"
+    ]
+   }
   },
   {
    "code": "QA",
@@ -20957,7 +24680,30 @@
    "src": "https://www.bento.travel/qatar",
    "lgbtq_note": "Homosexuelle Handlungen sind verboten und können strafrechtlich verfolgt werden, die Polizei überwacht Dating-Apps auch mit Fake-Profilen und liest bei Kontrollen Handys aus.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/katar-node/katarsicherheit-202280",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "QAR",
+      "name": "Katar-Riyal"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+974"
+    ]
+   }
   },
   {
    "code": "SA",
@@ -21255,7 +25001,32 @@
    "src": "https://www.bento.travel/saudi-arabia",
    "lgbtq_note": "Homosexuelle Handlungen werden strafrechtlich verfolgt und mit Geld- oder Freiheitsstrafe geahndet, im Einzelfall droht die Todesstrafe, gesellschaftlich sind sie nicht akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "911",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     220,
+     230
+    ],
+    "currency": [
+     {
+      "code": "SAR",
+      "name": "Saudi-Rial"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+966"
+    ]
+   }
   },
   {
    "code": "MR",
@@ -21373,7 +25144,31 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190",
    "lgbtq_note": "Homosexuelle Handlungen gelten im Strafrecht als schweres Vergehen und sind mit der Todesstrafe bedroht; Diskretion ist dringend geboten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "101",
+     "117",
+     "118"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "MRU",
+      "name": "Ouguiya"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+222"
+    ]
+   }
   },
   {
    "code": "MZ",
@@ -21449,7 +25244,33 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mosambiksicherheit-221782",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die liberale Rechtslage ist in der Gesellschaft aber wenig verankert, daher Zurückhaltung ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mosambiksicherheit-221782",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "117",
+     "119",
+     "198"
+    ],
+    "plugs": [
+     "C",
+     "D",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "MZN",
+      "name": "Metical"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+258"
+    ]
+   }
   },
   {
    "code": "NA",
@@ -21545,7 +25366,34 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314",
    "lgbtq_note": "Das Verbot gleichgeschlechtlicher Handlungen unter Männern wurde 2024 vom Obersten Gericht gekippt, die Regierung hat Berufung eingelegt; offen gelebte Homosexualität ist gesellschaftlich unerwünscht.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/namibia-node/namibiasicherheit-208314",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "10111"
+    ],
+    "plugs": [
+     "D"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "NAD",
+      "name": "Namibia-Dollar"
+     },
+     {
+      "code": "ZAR",
+      "name": "südafrikanischer Rand"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+264"
+    ]
+   }
   },
   {
    "code": "YT",
@@ -21602,7 +25450,23 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, Daten zur gesellschaftlichen Akzeptanz fehlen.",
    "lgbtq_src": "https://www.equaldex.com/region/mayotte",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+262"
+    ]
+   }
   },
   {
    "code": "LC",
@@ -21696,7 +25560,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stluciasicherheit-226750",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1758"
+    ]
+   }
   },
   {
    "code": "MF",
@@ -21757,7 +25644,28 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     120,
+     220
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+590"
+    ]
+   }
   },
   {
    "code": "PM",
@@ -21809,7 +25717,23 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
    "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+508"
+    ]
+   }
   },
   {
    "code": "VC",
@@ -21867,7 +25791,35 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, der High Court hat die Gesetze 2024 bestätigt; Fälle von Strafverfolgung sind laut Auswärtigem Amt nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911",
+     "999"
+    ],
+    "plugs": [
+     "A",
+     "C",
+     "E",
+     "G",
+     "I",
+     "K"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XCD",
+      "name": "Ostkaribischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1784"
+    ]
+   }
   },
   {
    "code": "NE",
@@ -21933,7 +25885,34 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/226384",
    "lgbtq_note": "Seit Juni 2026 sind gleichgeschlechtliche Handlungen mit fünf bis zehn Jahren Haft strafbar, LGBTQ+ Vereinigungen ebenfalls.",
    "lgbtq_src": "https://76crimes.com/2026/06/12/niger-adopts-anti-lgbtq-law-threatens-up-to-20-years-in-prison/",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "17",
+     "18"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "C",
+     "E",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+227"
+    ]
+   }
   },
   {
    "code": "NG",
@@ -22089,7 +26068,31 @@
    "src": "https://www.bento.travel/nigeria",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, landesweit drohen bis zu 14 Jahre Haft und in nördlichen Bundesstaaten nach islamischem Recht noch härtere Strafen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nigeria-node/nigeriasicherheit/205788",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "199"
+    ],
+    "plugs": [
+     "D",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "NGN",
+      "name": "Naira"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+234"
+    ]
+   }
   },
   {
    "code": "RE",
@@ -22204,7 +26207,33 @@
    "src": "https://en.reunion.fr/organize/holiday-tips/questions-answers/transport-on-the-island/",
    "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     },
+     {
+      "code": "FRF",
+      "name": "französischer Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+262"
+    ]
+   }
   },
   {
    "code": "RW",
@@ -22307,7 +26336,32 @@
    "src": "https://www.bento.travel/rwanda",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Beziehungen sind gesellschaftlich aber nicht akzeptiert; Zurückhaltung in der Öffentlichkeit ist ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ruanda-node/ruandasicherheit-212026",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "912"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "RWF",
+      "name": "Ruanda-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+250"
+    ]
+   }
   },
   {
    "code": "SX",
@@ -22398,7 +26452,20 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
    "lgbtq_note": "Das Auswärtige Amt nennt für das Königreich der Niederlande keine besonderen Schwierigkeiten für LGBTQ+-Reisende.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/niederlande-node/niederlandesicherheit-211084",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "currency": [
+     {
+      "code": "XCG",
+      "name": "Karibischer Gulden"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+1721"
+    ]
+   }
   },
   {
    "code": "TC",
@@ -22486,7 +26553,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Rechte und Akzeptanz reichen laut Auswärtigem Amt aber nicht an das Vereinigte Königreich heran.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     120
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1649"
+    ]
+   }
   },
   {
    "code": "TT",
@@ -22583,7 +26673,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/trinidadundtobago-node/trinidadundtobagosicherheit-220466",
    "lgbtq_note": "Der Privy Council hat im November 2026 das Verbot gleichgeschlechtlicher Handlungen gekippt, das der Court of Appeal 2025 wieder eingesetzt hatte, Diskretion bleibt ratsam.",
    "lgbtq_src": "https://www.ajc.com/news/2026/11/top-uk-appeals-court-rules-gay-sex-not-a-crime-in-the-caribbean-nation-of-trinidad-and-tobago/",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "811",
+     "911",
+     "990",
+     "999"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     115
+    ],
+    "currency": [
+     {
+      "code": "TTD",
+      "name": "Trinidad-und-Tobago-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1868"
+    ]
+   }
   },
   {
    "code": "VG",
@@ -22659,7 +26775,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind auch in den Britischen Überseegebieten nicht strafbar, gesellschaftliche Akzeptanz und Schutzrechte sind aber geringer als in Großbritannien.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "A",
+     "B"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1284"
+    ]
+   }
   },
   {
    "code": "TV",
@@ -22705,7 +26844,29 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind laut Auswärtigem Amt verboten und können mit Haftstrafen belegt werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "plugs": [
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+688"
+    ]
+   }
   },
   {
    "code": "VU",
@@ -22816,7 +26977,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498",
    "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt nicht strafbar, Partnerschaften werden aber nicht anerkannt und es gibt keinen Diskriminierungsschutz.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/vanuatu-node/vanuatusicherheit/220498",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "emergency": [
+     "11",
+     "112",
+     "113"
+    ],
+    "plugs": [
+     "C",
+     "G",
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "VUV",
+      "name": "Vatu"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+678"
+    ]
+   }
   },
   {
    "code": "WF",
@@ -22871,7 +27058,20 @@
    "src": "https://www.wallis-futuna.travel/en/what-to-see-do/useful-information",
    "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, eigene Hinweise für Wallis und Futuna nennt das Auswärtige Amt nicht.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "OC",
+   "info": {
+    "currency": [
+     {
+      "code": "XPF",
+      "name": "CFP-Franc"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+681"
+    ]
+   }
   },
   {
    "code": "RO",
@@ -23064,7 +27264,32 @@
    "src": "https://www.bento.travel/fr/romania",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, Diskriminierung ist gesetzlich verboten, gesellschaftliche Vorbehalte gibt es aber.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/rumaenien-node/rumaeniensicherheit-210822",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "RON",
+      "name": "rumänischer Leu"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+40"
+    ],
+    "tip": "Weit verbreitet ist das Aufrunden von Zahlungen, weil man Kleingeld meidet. Das gilt eigentlich nicht als Trinkgeld und geht eher an das Geschäft als an die Person.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Romania"
+   }
   },
   {
    "code": "SI",
@@ -23228,7 +27453,33 @@
    "src": "https://www.bento.travel/slovenia",
    "lgbtq_note": "Gleichgeschlechtliche Paare sind rechtlich gleichgestellt, die Gesellschaft ist vor allem in Ljubljana offen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/slowenien-node/sloweniensicherheit-210644",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "113"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+386"
+    ],
+    "tip": "Trinkgeld ist üblich, die meisten Einheimischen runden aber nur auf den nächsten Euro auf. Kein Trinkgeld wird oft als Unzufriedenheit gedeutet. In Touristengebieten sind 10 bis 20 % möglich.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Slovenia"
+   }
   },
   {
    "code": "SK",
@@ -23459,7 +27710,33 @@
    "src": "https://www.bento.travel/ja/slovakia",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind legal, aber rechtlich nicht anerkannt, seit 2025 kennt die Verfassung nur zwei Geschlechter.",
    "lgbtq_src": "https://www.ilga-europe.org/files/uploads/2026/02/Annual-Review-2026-Slovakia.pdf",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "150",
+     "155",
+     "158"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+421"
+    ]
+   }
   },
   {
    "code": "BH",
@@ -23559,7 +27836,30 @@
    "src": "https://www.bento.travel/bahrain",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, aber Unzucht und Cross-Dressing können bestraft werden, es gibt keinen Diskriminierungsschutz und Zurückhaltung in der Öffentlichkeit ist ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node/bahrainsicherheit-204112",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "BHD",
+      "name": "Bahrain-Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+973"
+    ]
+   }
   },
   {
    "code": "GE",
@@ -23735,7 +28035,33 @@
    "src": "https://www.bento.travel/georgia",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, seit 2024 stellt ein Gesetz zum Schutz von Familienwerten aber die Förderung gleichgeschlechtlicher Beziehungen unter Strafe, die Akzeptanz ist in Teilen des Landes sehr gering und Übergriffe sind möglich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/georgiensicherheit-201918",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "111",
+     "112",
+     "113",
+     "122"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "GEL",
+      "name": "georgischer Lari"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+995"
+    ]
+   }
   },
   {
    "code": "KW",
@@ -23857,7 +28183,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kuwaitsicherheit-204130",
    "lgbtq_note": "Homosexuelle Handlungen und nichtehelicher Geschlechtsverkehr sind verboten und können strafrechtlich verfolgt werden, es gelten strenge islamische Moralvorstellungen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kuwaitsicherheit-204130",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "KWD",
+      "name": "Kuwait-Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+965"
+    ]
+   }
   },
   {
    "code": "OM",
@@ -24019,7 +28368,31 @@
    "src": "https://www.bento.travel/oman",
    "lgbtq_note": "Homosexuelle Handlungen sind mit bis zu drei Jahren Haft strafbar, Cross-Dressing ist verboten, gleichgeschlechtliche Ehen werden nicht anerkannt und nach einer Verurteilung droht die Ausweisung.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/oman-node/omansicherheit-204160",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "968"
+    ],
+    "plugs": [
+     "C",
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "OMR",
+      "name": "Omanischer Rial"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+968"
+    ]
+   }
   },
   {
    "code": "SH",
@@ -24046,7 +28419,29 @@
    "src": "https://sthelenaairport.com/at-the-airport/directions-and-transport/",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.",
    "lgbtq_src": "https://thepinknews.com/2017/12/20/this-tiny-island-just-passed-same-sex-marriage/",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "currency": [
+     {
+      "code": "GBP",
+      "name": "Pfund Sterling"
+     },
+     {
+      "code": "SHP",
+      "name": "St.-Helena-Pfund"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+27",
+     "+247",
+     "+290"
+    ]
+   }
   },
   {
    "code": "SL",
@@ -24117,7 +28512,30 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
    "lgbtq_note": "Männliche homosexuelle Handlungen sind formal strafbar, das Gesetz wird kaum angewendet; Homosexualität stößt aber auf breite Ablehnung.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "019",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "SLE",
+      "name": "Sierra-leonischer Leone"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+232"
+    ]
+   }
   },
   {
    "code": "SN",
@@ -24233,7 +28651,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190",
    "lgbtq_note": "Homosexuelle Handlungen sind seit März 2026 mit 5 bis 10 Jahren Haft strafbar, auch Ausländer wurden schon festgenommen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "17",
+     "18"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "K"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+221"
+    ]
+   }
   },
   {
    "code": "ST",
@@ -24272,7 +28715,30 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "STN",
+      "name": "São-toméischer Dobra"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+239"
+    ]
+   }
   },
   {
    "code": "VI",
@@ -24343,7 +28809,26 @@
    "src": "https://www.citizendailypost.com/faq/is-there-uber-on-st-john/",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2015 legal und seit 2022 gilt ein Diskriminierungsschutz.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_United_States_Virgin_Islands",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "NA",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "voltage": [
+     110
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+1340"
+    ]
+   }
   },
   {
    "code": "AL",
@@ -24436,7 +28921,35 @@
    "src": "https://www.bento.travel/albania",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die gesellschaftliche Toleranz ist aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/albanien-node/albaniensicherheit-216248",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "127",
+     "128",
+     "129"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "ALL",
+      "name": "Albanischer Lek"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+355"
+    ],
+    "tip": "Trinkgeld wird fast überall erwartet. Im Restaurant sind etwa 10 % üblich, auch Gepäckträger, Guides und Fahrer erwarten welches.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Albania"
+   }
   },
   {
    "code": "BG",
@@ -24652,7 +29165,30 @@
    "src": "https://www.bento.travel/bulgaria/intercity-transport",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen und Diskriminierung ist verboten, Ehe oder Partnerschaft für gleichgeschlechtliche Paare gibt es nicht.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bulgarien-node/bulgariensicherheit-211834",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+359"
+    ]
+   }
   },
   {
    "code": "ME",
@@ -24790,7 +29326,33 @@
    "src": "https://www.bento.travel/montenegro",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, außerhalb touristischer Orte ist die Akzeptanz aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/montenegro-node/montenegrosicherheit-216330",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "122",
+     "123",
+     "124"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+382"
+    ]
+   }
   },
   {
    "code": "RS",
@@ -24948,7 +29510,35 @@
    "src": "https://www.bento.travel/serbia/payments",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/serbien-node/serbiensicherheit-207502",
-   "checked": "2026-11-18"
+   "checked": "2026-11-18",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "92",
+     "93",
+     "94",
+     "192",
+     "193",
+     "194"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "RSD",
+      "name": "serbischer Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+381"
+    ]
+   }
   },
   {
    "code": "BA",
@@ -25088,7 +29678,33 @@
    "src": "https://www.bento.travel/bosnia-and-herzegovina",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, große Teile der Gesellschaft sind aber ablehnend und es gab vereinzelt Angriffe.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bosnienundherzegowina-node/bosnienundherzegowinasicherheit-207694",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "122",
+     "123",
+     "124"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "BAM",
+      "name": "konvertible Mark"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+387"
+    ]
+   }
   },
   {
    "code": "MD",
@@ -25232,7 +29848,30 @@
    "src": "https://turism.gov.md/en/?p=875",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar und rechtlich nicht benachteiligt, die gesellschaftliche Toleranz ist aber gering und Anfeindungen kommen auch in Chișinău vor.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/moldausicherheit-201932",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "MDL",
+      "name": "moldauischer Leu"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+373"
+    ]
+   }
   },
   {
    "code": "MK",
@@ -25339,7 +29978,33 @@
    "src": "https://www.bento.travel/north-macedonia",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar und Diskriminierung ist gesetzlich verboten, die gesellschaftliche Akzeptanz ist aber gering und rund um die Pride in Skopje kam es 2025 zu Angriffen.",
    "lgbtq_src": "https://www.ecoi.net/en/file/local/2115135/laenderkurzinfo-nordmazedonien-08-24-sogi.pdf",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "192",
+     "193",
+     "194"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "MKD",
+      "name": "mazedonischer Denar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+389"
+    ]
+   }
   },
   {
    "code": "UA",
@@ -25553,7 +30218,35 @@
    "src": "https://www.bento.travel/ukraine",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, in den russisch besetzten Gebieten hat sich die Lage aber drastisch verschlechtert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ukraine-node/ukrainesicherheit-201946",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "103",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "UAH",
+      "name": "Hrywnja"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+380"
+    ],
+    "tip": "Trinkgeld beträgt meist 5 bis 15 %, am häufigsten 10 %.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Ukraine"
+   }
   },
   {
    "code": "AM",
@@ -25752,7 +30445,33 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind nicht strafbar, LGBTIQ Personen stehen aber unter starkem gesellschaftlichem Druck und es gibt vereinzelt Übergriffe, Angriffe auf Reisende sind nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "103",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "AMD",
+      "name": "Dram"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+374"
+    ]
+   }
   },
   {
    "code": "AZ",
@@ -25920,7 +30639,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gesellschaftlich aber stark tabuisiert; die Polizei nutzt nach Berichten gefälschte Profile auf Dating Apps zur Erpressung und nahm im Dezember 2025 bei einer Razzia in einem queerfreundlichen Lokal in Baku über 100 Menschen fest.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "103",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "AZN",
+      "name": "Aserbaidschan-Manat"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+994"
+    ]
+   }
   },
   {
    "code": "CY",
@@ -26113,7 +30858,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/zypern-node/zypernsicherheit-210258",
    "lgbtq_note": "Homosexuelle Handlungen sind auf der ganzen Insel nicht strafbar, die gesellschaftliche Akzeptanz offen gelebter Homosexualität ist aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zypern-node/zypernsicherheit-210258",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "199",
+     "1400"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+357"
+    ]
+   }
   },
   {
    "code": "KH",
@@ -26289,7 +31058,33 @@
    "src": "https://www.bento.travel/cambodia",
    "lgbtq_note": "Homosexuelle Handlungen sind weder verboten noch strafbar, die Akzeptanz wächst besonders in Phnom Penh und bei Jüngeren, bleibt aber oft verdeckt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kambodschasicherheit-220008",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "117",
+     "118",
+     "119"
+    ],
+    "plugs": [
+     "A",
+     "C",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "KHR",
+      "name": "Kambodschanischer Riel"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+855"
+    ]
+   }
   },
   {
    "code": "SD",
@@ -26359,7 +31154,29 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, bei Wiederholung droht lebenslange Haft, das Recht ist stark von der Scharia geprägt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "SDG",
+      "name": "sudanesisches Pfund"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+249"
+    ]
+   }
   },
   {
    "code": "SO",
@@ -26464,7 +31281,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
    "lgbtq_note": "Homosexuelle Handlungen sind verboten und werden streng bestraft, bis hin zur Todesstrafe.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "555",
+     "888",
+     "999"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "SOS",
+      "name": "Somalia-Schilling"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+252"
+    ]
+   }
   },
   {
    "code": "SS",
@@ -26547,7 +31388,23 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node/suedsudansicherheit/244250",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, gleichgeschlechtliche Zuneigung in der Öffentlichkeit wird gesellschaftlich nicht toleriert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/suedsudan-node/suedsudansicherheit/244250",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "911"
+    ],
+    "currency": [
+     {
+      "code": "SSP",
+      "name": "südsudanesisches Pfund"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+211"
+    ]
+   }
   },
   {
    "code": "TG",
@@ -26650,7 +31507,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu drei Jahren Haft und Geldstrafe geahndet werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "117",
+     "118",
+     "171",
+     "172"
+    ],
+    "plugs": [
+     "C"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "XOF",
+      "name": "CFA-Franc BCEAO"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+228"
+    ]
+   }
   },
   {
    "code": "AD",
@@ -26762,7 +31644,33 @@
    "src": "https://www.alto.ad/transport/2026/06/andorra-launches-updated-mou-te-app-with-real-ti",
    "lgbtq_note": "Keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2023 erlaubt, Diskriminierung wegen Orientierung und Identität ist verboten.",
    "lgbtq_src": "https://equaldex.com/region/andorra",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "110",
+     "112",
+     "116",
+     "118"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+376"
+    ]
+   }
   },
   {
    "code": "BY",
@@ -26877,7 +31785,32 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/201904",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, sogenannte Propaganda für gleichgeschlechtliche Beziehungen wird aber mit Bußgeld, Haft und Ausweisung geahndet.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/201904",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "103"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "BYN",
+      "name": "Belarussischer Rubel"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+375"
+    ]
+   }
   },
   {
    "code": "FO",
@@ -26931,7 +31864,26 @@
    "src": "https://visitfaroeislands.com/en/plan-your-stay/getting-around",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/Faroe-Islands",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F",
+     "K"
+    ],
+    "voltage": [
+     230
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+298"
+    ]
+   }
   },
   {
    "code": "GI",
@@ -26983,7 +31935,29 @@
    "src": "https://www.visitgibraltar.gi/driving-and-park",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2000 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/gibraltar",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "GIP",
+      "name": "Gibraltar-Pfund"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+350"
+    ]
+   }
   },
   {
    "code": "AF",
@@ -27057,7 +32031,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692",
    "lgbtq_note": "Homosexualität und Transsexualität sind verboten und strafbar, Betroffenen droht Gewalt in Haft, Handys und soziale Medien werden bei Kontrollen durchsucht.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "100",
+     "101",
+     "102",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "AFN",
+      "name": "Afghani"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+93"
+    ]
+   }
   },
   {
    "code": "BD",
@@ -27195,7 +32195,32 @@
    "src": "https://www.bento.travel/bangladesh",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind illegal, Paragraf 377 sieht für Männer bis zu lebenslange Haft vor und wird zu Festnahmen und Erpressung genutzt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bangladesch-node/bangladeschsicherheit-206292",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "A",
+     "C",
+     "G",
+     "K"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "BDT",
+      "name": "Taka"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+880"
+    ]
+   }
   },
   {
    "code": "LA",
@@ -27333,7 +32358,35 @@
    "src": "https://www.bento.travel/laos",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, Beziehungen unter Ausländern werden zurückhaltend akzeptiert, solange man sie nicht offen zeigt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/laossicherheit-201048",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "190",
+     "191",
+     "195"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "C",
+     "E",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "LAK",
+      "name": "Kip"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+856"
+    ]
+   }
   },
   {
    "code": "NP",
@@ -27529,7 +32582,32 @@
    "src": "https://www.bento.travel/nepal",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, in der eher konservativen Öffentlichkeit wird aber Zurückhaltung empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nepal-node/nepalsicherheit-221216",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "100",
+     "101",
+     "102"
+    ],
+    "plugs": [
+     "C",
+     "D"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "NPR",
+      "name": "Nepalesische Rupie"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+977"
+    ]
+   }
   },
   {
    "code": "EH",
@@ -27590,7 +32668,20 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/marokko-node/marokkosicherheit-224080",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nach marokkanischem Recht strafbar, auch Ausländer können verfolgt werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/marokko-node/marokkosicherheit-224080",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "currency": [
+     {
+      "code": "MAD",
+      "name": "Marokkanischer Dirham"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+212"
+    ]
+   }
   },
   {
    "code": "UG",
@@ -27683,7 +32774,31 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, das Gesetz von 2023 sieht in schweren Fällen sogar die Todesstrafe vor.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "911",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "UGX",
+      "name": "Uganda-Schilling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+256"
+    ]
+   }
   },
   {
    "code": "ZM",
@@ -27793,7 +32908,35 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar (15 Jahre bis lebenslang Haft), die Gesellschaft reagiert oft offen feindselig.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "112",
+     "911",
+     "991",
+     "992",
+     "993",
+     "999"
+    ],
+    "plugs": [
+     "C",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "ZMW",
+      "name": "sambischer Kwacha"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+260"
+    ]
+   }
   },
   {
    "code": "ZW",
@@ -27899,7 +33042,80 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar (Geldstrafe oder bis zu einem Jahr Haft), die Regierung verurteilt sie öffentlich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AF",
+   "info": {
+    "emergency": [
+     "993",
+     "994",
+     "995",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     },
+     {
+      "code": "CNY",
+      "name": "Renminbi"
+     },
+     {
+      "code": "EUR",
+      "name": "Euro"
+     },
+     {
+      "code": "GBP",
+      "name": "Pfund Sterling"
+     },
+     {
+      "code": "INR",
+      "name": "Indische Rupie"
+     },
+     {
+      "code": "JPY",
+      "name": "Yen"
+     },
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     },
+     {
+      "code": "ZAR",
+      "name": "südafrikanischer Rand"
+     },
+     {
+      "code": "ZWD",
+      "name": "Simbabwe-Dollar"
+     },
+     {
+      "code": "ZWG",
+      "name": "Simbabwe-Gold"
+     },
+     {
+      "code": "ZWL",
+      "name": "Simbabwe-Dollar"
+     },
+     {
+      "code": "ZWN",
+      "name": "Simbabwe-Dollar"
+     },
+     {
+      "code": "ZWR",
+      "name": "Simbabwe-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+263"
+    ]
+   }
   },
   {
    "code": "GG",
@@ -27974,7 +33190,31 @@
    "src": "https://www.visitguernsey.com/planning/getting-around/buses-and-coaches/",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung bei Arbeit und Wohnen ist verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/guernsey",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "999"
+    ],
+    "plugs": [
+     "C",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "GBP",
+      "name": "Pfund Sterling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+44"
+    ]
+   }
   },
   {
    "code": "IM",
@@ -28041,7 +33281,30 @@
    "src": "https://www.iombusandrail.im/explore-our-island/visitor-guide/",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1992 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://equaldex.com/region/isle-of-man",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "999"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "GBP",
+      "name": "Pfund Sterling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+44"
+    ]
+   }
   },
   {
    "code": "JE",
@@ -28118,7 +33381,26 @@
    "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1990 legal, die Ehe für alle gilt seit 2018, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/Jersey",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "currency": [
+     {
+      "code": "GBP",
+      "name": "Pfund Sterling"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+44"
+    ]
+   }
   },
   {
    "code": "LI",
@@ -28197,7 +33479,33 @@
    "src": "https://liemobil.li/en/passes-tickets/",
    "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTIQ Reisende.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/liechtenstein-node/liechtensteinsicherheit-222960",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "117",
+     "118",
+     "144"
+    ],
+    "plugs": [
+     "C",
+     "J"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "CHF",
+      "name": "Schweizer Franken"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+423"
+    ]
+   }
   },
   {
    "code": "BN",
@@ -28261,7 +33569,31 @@
    "src": "https://travelydata.com/news/brunei-no-grab-airport-taxi-guide/",
    "lgbtq_note": "Homosexuelle Handlungen sind auch privat strafbar, nach Scharia-Strafrecht droht unabhängig von der Nationalität sehr harte Strafe.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "991",
+     "993",
+     "995"
+    ],
+    "plugs": [
+     "G"
+    ],
+    "voltage": [
+     240
+    ],
+    "currency": [
+     {
+      "code": "BND",
+      "name": "Brunei-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+673"
+    ]
+   }
   },
   {
    "code": "BT",
@@ -28336,7 +33668,34 @@
    "src": "https://bhutan.travel/visa",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2021 nicht mehr strafbar, eine offene Szene gibt es kaum, Zurückhaltung in der Öffentlichkeit ist ratsam.",
    "lgbtq_src": "https://www.humandignitytrust.org/news/kings-assent-leads-himalayan-nation-of-bhutan-to-become-latest-country-to-decriminalise-same-sex-activity/",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "110",
+     "112",
+     "113"
+    ],
+    "plugs": [
+     "C",
+     "D",
+     "F",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "BTN",
+      "name": "Ngultrum"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+975"
+    ]
+   }
   },
   {
    "code": "CX",
@@ -28356,7 +33715,17 @@
    "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
    "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/christmas-island",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     }
+    ],
+    "drive": "links"
+   }
   },
   {
    "code": "MC",
@@ -28449,7 +33818,33 @@
    "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications",
    "lgbtq_note": "Laut Auswärtigem Amt keine besonderen Schwierigkeiten bekannt, die Akzeptanz gilt als gut.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/monaco-node/monacosicherheit-226868",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "17",
+     "18",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+377"
+    ]
+   }
   },
   {
    "code": "RU",
@@ -28769,7 +34164,38 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/russischefoederationsicherheit-201536",
    "lgbtq_note": "Homosexualität ist nicht strafbar, aber die LGBT Bewegung gilt als extremistisch, Propaganda wird mit Geldbuße, Haft und Ausweisung bestraft.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/russischefoederationsicherheit-201536",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "01",
+     "02",
+     "03",
+     "101",
+     "102",
+     "103",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "RUB",
+      "name": "russischer Rubel"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+7"
+    ],
+    "tip": "Trinkgeld ist freiwillig und besonders in einfachen Cafés meist nicht erwartet. Üblich sind etwa 10 % der Rechnung bei gutem Service.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Russia"
+   }
   },
   {
    "code": "SJ",
@@ -28810,7 +34236,17 @@
    "src": "https://www.sysselmesteren.no/en/travel-in-svalbard/application-and-registration-requirement-for-trips-to-svalbard/",
    "lgbtq_note": "Es gilt norwegisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2009, Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/svalbard",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "currency": [
+     {
+      "code": "NOK",
+      "name": "norwegische Krone"
+     }
+    ],
+    "drive": "rechts"
+   }
   },
   {
    "code": "SM",
@@ -28864,7 +34300,34 @@
    "src": "https://www.unirsm.sm/en/segreteria-studenti/studiare-unirsm/raggiungere-san-marino/",
    "lgbtq_note": "Keine Strafbarkeit, eingetragene Partnerschaft seit 2018, Schutz vor Diskriminierung wegen Orientierung in der Verfassung.",
    "lgbtq_src": "https://www.equaldex.com/region/san-marino",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112",
+     "113",
+     "115",
+     "118"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "L"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+378"
+    ]
+   }
   },
   {
    "code": "CC",
@@ -28885,7 +34348,20 @@
    "src": "https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information",
    "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Recht mit Ehe für alle und Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/cocos-keeling-islands",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "currency": [
+     {
+      "code": "AUD",
+      "name": "Australischer Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+61891"
+    ]
+   }
   },
   {
    "code": "IQ",
@@ -29040,7 +34516,33 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2024 mit bis zu 15 Jahren Haft strafbar, in Kurdistan gilt das Gesetz formal noch nicht.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/irak-node/iraksicherheit/202738",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "104",
+     "115",
+     "122",
+     "911"
+    ],
+    "plugs": [
+     "C",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "IQD",
+      "name": "irakischer Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+964"
+    ]
+   }
   },
   {
    "code": "IR",
@@ -29130,7 +34632,34 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/iran-node/iransicherheit/202396",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar und teils mit der Todesstrafe bedroht, Nutzer von Apps werden überwacht.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/iran-node/iransicherheit/202396",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "110",
+     "115",
+     "125"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "IRR",
+      "name": "iranischer Rial"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+98"
+    ],
+    "tip": "Trinkgeld wird in den meisten Berufen nicht erwartet.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Iran"
+   }
   },
   {
    "code": "KZ",
@@ -29323,7 +34852,33 @@
    "src": "https://www.bento.travel/kazakhstan",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, seit März 2026 ist aber LGBTQ+ Propaganda strafbar, Zurückhaltung auch online ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "103",
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "KZT",
+      "name": "Tenge"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+7"
+    ]
+   }
   },
   {
    "code": "AX",
@@ -29365,7 +34920,20 @@
    "src": "https://visitaland.com/?p=17161",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/aland",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "EU",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "currency": [
+     {
+      "code": "EUR",
+      "name": "Euro"
+     }
+    ],
+    "drive": "rechts"
+   }
   },
   {
    "code": "KG",
@@ -29497,7 +35065,33 @@
    "src": "https://www.bento.travel/kyrgyzstan",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, aber gesellschaftlich abgelehnt; seit 2023 drohen Geldstrafen für LGBTIQ-Informationen an Minderjährige.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kirgisistansicherheit/206738",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "103",
+     "161"
+    ],
+    "plugs": [
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "KGS",
+      "name": "Som"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+996"
+    ]
+   }
   },
   {
    "code": "LB",
@@ -29581,7 +35175,35 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, als homosexuell wahrgenommenes Verhalten kann zur Festnahme führen, große Zurückhaltung ist ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/libanon-node/libanonsicherheit-204048",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112",
+     "140",
+     "160",
+     "175"
+    ],
+    "plugs": [
+     "A",
+     "B",
+     "C",
+     "G"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "LBP",
+      "name": "libanesisches Pfund"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+961"
+    ]
+   }
   },
   {
    "code": "MN",
@@ -29694,7 +35316,33 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842",
    "lgbtq_note": "Homosexuelle Handlungen sind legal und Diskriminierung ist gesetzlich verboten, die Ehe für alle gibt es aber nicht und Übergriffe kommen vor.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mongoleisicherheit-222842",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "101",
+     "102",
+     "103",
+     "105"
+    ],
+    "plugs": [
+     "C",
+     "E"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "MNT",
+      "name": "Tögrög"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+976"
+    ]
+   }
   },
   {
    "code": "MO",
@@ -29836,7 +35484,35 @@
    "src": "https://www.bento.travel/macau",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1995 legal, eine Ehe oder Partnerschaft gibt es nicht, im Beruf besteht Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/macau",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "999"
+    ],
+    "plugs": [
+     "D",
+     "F",
+     "G"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "HKD",
+      "name": "Hongkong-Dollar"
+     },
+     {
+      "code": "MOP",
+      "name": "Macao-Pataca"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+853"
+    ]
+   }
   },
   {
    "code": "MM",
@@ -29985,7 +35661,33 @@
    "src": "https://www.bento.travel/myanmar",
    "lgbtq_note": "Homosexualität wird im Strafrecht nicht ausdrücklich genannt, als widernatürliche Handlung drohen aber bis zu lebenslange Haft, ein offener Umgang ist kaum möglich.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/myanmar-node/myanmarsicherheit-212100",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "191",
+     "192",
+     "199"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "MMK",
+      "name": "Kyat"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+95"
+    ]
+   }
   },
   {
    "code": "PK",
@@ -30174,7 +35876,35 @@
    "src": "https://www.bento.travel/pakistan",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar mit zwei bis zehn Jahren Haft, in schweren Fällen lebenslang, und gesellschaftlich nicht akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/pakistansicherheit-204974",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "15",
+     "16",
+     "1122"
+    ],
+    "plugs": [
+     "C",
+     "D",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "PKR",
+      "name": "pakistanische Rupie"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+92"
+    ],
+    "tip": "Trinkgeld ist keine Pflicht und Weglassen nicht unhöflich. In einfachen Restaurants wird oft auf volle 100 oder 1000 Rupien aufgerundet. In gehobenen Häusern sind 10 % Service enthalten.",
+    "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Pakistan"
+   }
   },
   {
    "code": "PS",
@@ -30229,7 +35959,36 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar und gesellschaftlich ein Tabu, Fälle gegen Ausländer sind bisher nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "plugs": [
+     "C",
+     "D",
+     "H"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "EGP",
+      "name": "ägyptisches Pfund"
+     },
+     {
+      "code": "ILS",
+      "name": "Schekel"
+     },
+     {
+      "code": "JOD",
+      "name": "jordanischer Dinar"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+970"
+    ]
+   }
   },
   {
    "code": "SY",
@@ -30334,7 +36093,33 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
    "lgbtq_note": "Homosexuelle Beziehungen sind verboten und können mit Gefängnis bestraft werden, seit Dezember 2024 häufen sich Angriffe auf LGBTIQ-Personen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/syriensicherheit-204278",
-   "checked": "2026-11-20"
+   "checked": "2026-11-20",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "110",
+     "112",
+     "113"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "L"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "SYP",
+      "name": "syrische Lira"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+963"
+    ]
+   }
   },
   {
    "code": "TJ",
@@ -30433,7 +36218,31 @@
    "src": "https://www.bento.travel/tajikistan",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht gesetzlich verboten, die gesellschaftliche Akzeptanz ist aber gering, besonders auf dem Land.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tadschikistan-node/tadschikistansicherheit-206756",
-   "checked": "2026-11-21"
+   "checked": "2026-11-21",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "TJS",
+      "name": "Somoni"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+992"
+    ]
+   }
   },
   {
    "code": "TL",
@@ -30531,7 +36340,32 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388",
    "lgbtq_note": "Keine besonderen Strafbestimmungen bekannt und keine generelle Gefährdung, die Akzeptanz ist aber begrenzt, Zärtlichkeiten in der Öffentlichkeit besser meiden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/timorlestesicherheit-221388",
-   "checked": "2026-11-21"
+   "checked": "2026-11-21",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "E",
+     "F",
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "USD",
+      "name": "US-Dollar"
+     }
+    ],
+    "drive": "links",
+    "calling": [
+     "+670"
+    ]
+   }
   },
   {
    "code": "TM",
@@ -30655,7 +36489,31 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/turkmenistansicherheit-206774",
    "lgbtq_note": "Sexuelle Handlungen zwischen Männern sind strafbar und werden mit Haft bestraft, die Polizei nutzt Dating-Apps, um Betroffene aufzuspüren und zu erpressen.",
    "lgbtq_src": "https://ilga-europe.org/files/uploads/2025/02/Annual-Review-2025-Turkmenistan.pdf",
-   "checked": "2026-11-21"
+   "checked": "2026-11-21",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "B",
+     "C",
+     "F"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "TMT",
+      "name": "Turkmenistan-Manat"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+993"
+    ]
+   }
   },
   {
    "code": "UZ",
@@ -30870,7 +36728,31 @@
    "src": "https://www.bento.travel/uzbekistan",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar, LGBTIQ-Beziehungen sind gesellschaftlich nicht akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/usbekistansicherheit-206790",
-   "checked": "2026-11-21"
+   "checked": "2026-11-21",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "112"
+    ],
+    "plugs": [
+     "C",
+     "F",
+     "I"
+    ],
+    "voltage": [
+     220
+    ],
+    "currency": [
+     {
+      "code": "UZS",
+      "name": "Soʻm"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+998"
+    ]
+   }
   },
   {
    "code": "YE",
@@ -30948,7 +36830,30 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260",
    "lgbtq_note": "Homosexuelle Handlungen sind nach islamischem Recht verboten und können mit dem Tod bestraft werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260",
-   "checked": "2026-11-21"
+   "checked": "2026-11-21",
+   "cont": "AS",
+   "info": {
+    "emergency": [
+     "199"
+    ],
+    "plugs": [
+     "A",
+     "G"
+    ],
+    "voltage": [
+     230
+    ],
+    "currency": [
+     {
+      "code": "YER",
+      "name": "Jemen-Rial"
+     }
+    ],
+    "drive": "rechts",
+    "calling": [
+     "+967"
+    ]
+   }
   }
  ]
 }
