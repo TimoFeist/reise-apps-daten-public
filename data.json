@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 09:49",
+ "version": "2026-11-23 10:13",
  "categories": [
   {
    "id": "entry",
@@ -388,7 +388,7 @@
      "cat": "lgbtq",
      "mine": true,
      "where": "all",
-     "note": "Gay Travel Guide mit Bars, Hotels, Saunas und Events. Android-App nicht mehr im Play Store, die Webseite läuft weiter. Einträge teils im Abo",
+     "note": "Gay Travel Guide, App eingestellt, Webseite läuft weiter",
      "url": "https://spartacus.gayguide.travel",
      "nostore": true,
      "src": "https://apps.apple.com/app/id455453658"
@@ -398,7 +398,7 @@
      "pkg": "com.everywhereisqueer.app",
      "cat": "lgbtq",
      "where": "all",
-     "note": "Weltweite Karte mit LGBTQ+-geführten und queerfreundlichen Orten, kostenlos",
+     "note": "Weltweite Karte queerfreundlicher Orte, kostenlos",
      "src": "https://everywhereisqueer.com/about",
      "url": "https://everywhereisqueer.com"
     },
@@ -416,7 +416,7 @@
      "cat": "lgbtq",
      "mine": true,
      "where": "all",
-     "note": "Deine eigene App: Leute in der Nähe kennenlernen, ohne Werbung, auch im Browser. Nicht im Play Store, APK direkt von range.contact",
+     "note": "Eigene App zum Kennenlernen, APK direkt laden",
      "url": "https://range.contact",
      "dl": "https://apps.feist.uk/download/rangr.apk",
      "nostore": true
@@ -427,7 +427,7 @@
      "cat": "payment",
      "mine": true,
      "where": "all",
-     "note": "Deine eigene App: Währungsrechner. Nicht im Play Store, APK direkt herunterladen",
+     "note": "Eigene App: Währungsrechner, APK direkt laden",
      "dl": "https://apps.feist.uk/download/pinrate.apk",
      "nostore": true
     }
@@ -484,9 +484,10 @@
     },
     {
      "name": "Dojo",
-     "cat": "payment",
+     "cat": "delivery",
      "pkg": "uk.co.walkinapp.prod",
-     "mine": true
+     "mine": true,
+     "note": "Restaurants finden, Tisch buchen und in der App zahlen"
     },
     {
      "name": "TicketSwap",
@@ -514,9 +515,10 @@
     },
     {
      "name": "JOOS",
-     "cat": "delivery",
+     "cat": "misc",
      "pkg": "com.slics.joos",
-     "mine": true
+     "mine": true,
+     "note": "Powerbanks unterwegs ausleihen"
     },
     {
      "name": "Taco Bell UK",
@@ -694,6 +696,23 @@
    ],
    "cities": [
     {
+     "name": "Belfast",
+     "match": [
+      "Belfast"
+     ],
+     "apps": [
+      {
+       "name": "Translink mLink",
+       "cat": "transit",
+       "pkg": "uk.core.translink.mlink",
+       "note": "Tickets für Metro, Glider, Ulsterbus und Züge in NI",
+       "use": "limited",
+       "req": "Konto zum Ticketkauf nötig",
+       "src": "https://www.4ni.co.uk/northern-ireland-news/318907/mlink-surpasses-11m-passenger-journeys"
+      }
+     ]
+    },
+    {
      "name": "Birmingham",
      "match": [
       "Birmingham"
@@ -824,7 +843,7 @@
    ],
    "note": "Deutsche brauchen vor der Reise eine UK ETA, am einfachsten über die offizielle App beantragen.",
    "src": "https://www.bento.travel/united-kingdom",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -1095,6 +1114,21 @@
      ]
     },
     {
+     "name": "Hanover",
+     "match": [
+      "Hanover"
+     ],
+     "apps": [
+      {
+       "name": "ÜSTRA",
+       "cat": "transit",
+       "pkg": "de.hafas.android.gvh",
+       "note": "Fahrplan und Tickets für Hannover, früher GVH-App",
+       "src": "https://uestra.de/en/tickets-prices/where-to-get-tickets"
+      }
+     ]
+    },
+    {
      "name": "Köln",
      "match": [
       "Köln",
@@ -1157,6 +1191,22 @@
      ]
     },
     {
+     "name": "Nürnberg",
+     "match": [
+      "Nuremberg",
+      "Nürnberg"
+     ],
+     "apps": [
+      {
+       "name": "NürnbergMOBIL",
+       "cat": "transit",
+       "pkg": "de.nuernbergmobil",
+       "note": "VAG-Tickets, VAG_Rad und E-Scooter in einer App",
+       "src": "https://nuernbergmobil.de/?lang=en"
+      }
+     ]
+    },
+    {
      "name": "Rust (Europa-Park)",
      "match": [
       "Rust",
@@ -1191,7 +1241,7 @@
    "src": "https://www.bento.travel/germany",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen; seit November 2024 lassen sich Name und Geschlechtseintrag per Selbstauskunft ändern.",
    "lgbtq_src": "https://rainbowmap.ilga-europe.org/countries/germany/",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -1245,9 +1295,9 @@
     },
     {
      "name": "bmove",
-     "cat": "micro",
+     "cat": "parking",
      "pkg": "hr.infoart.epk",
-     "note": "bmove",
+     "note": "Parken und Garagen per App bezahlen",
      "mine": true,
      "use": "limited",
      "req": "Registrierung mit Kennzeichen und Kreditkarte nötig"
@@ -1998,6 +2048,28 @@
    ],
    "cities": [
     {
+     "name": "Alicante",
+     "match": [
+      "Alicante"
+     ],
+     "apps": [
+      {
+       "name": "Alicante Bus",
+       "cat": "transit",
+       "pkg": "com.cuatroochenta.subusalicante",
+       "note": "Stadtbusse mit Live-Zeiten, QR-Ticket und Aufladen",
+       "src": "https://www.alicante.es/es/noticias/alicante-lanza-nueva-plataforma-digital-del-transporte-urbano-facilitar-recarga"
+      },
+      {
+       "name": "TRAM d'Alacant",
+       "cat": "transit",
+       "pkg": "com.fgv.tram",
+       "note": "Offizielle App der Straßenbahn Alicante",
+       "src": "https://alicanteturismo.com/en/?p=175278"
+      }
+     ]
+    },
+    {
      "name": "Barcelona",
      "match": [
       "Barcelona"
@@ -2033,21 +2105,87 @@
      ]
     },
     {
+     "name": "Bilbao",
+     "match": [
+      "Bilbao"
+     ],
+     "apps": [
+      {
+       "name": "Bilbobus",
+       "cat": "transit",
+       "pkg": "net.bilbao.bilbobusapp",
+       "note": "Offizielle Stadtbus-App mit Linien und Ankunftszeiten",
+       "src": "https://datos.gob.es/en/aplicaciones/bilbobus"
+      },
+      {
+       "name": "Barik",
+       "cat": "transit",
+       "pkg": "eus.ctb.barikmobile",
+       "note": "Barik-Karte aufs Handy, Fahrten per NFC entwerten",
+       "use": "limited",
+       "req": "Personalisierte Karte und NFC-Handy nötig",
+       "src": "https://www.emta.com/news/the-barik-contactless-topping-up-your-card-by-an-app-on-your-smartphone/"
+      }
+     ]
+    },
+    {
+     "name": "Granada",
+     "match": [
+      "Granada"
+     ],
+     "apps": [
+      {
+       "name": "Transporte Urbano de Granada",
+       "cat": "transit",
+       "pkg": "com.alsa.app.granada",
+       "note": "Stadtbusse von Alsa mit Fahrplänen und Haltestellen",
+       "src": "https://www.alsa.com/ca-ES-VALENCIA/urbanos/granada"
+      }
+     ]
+    },
+    {
+     "name": "Ibiza",
+     "match": [
+      "Ibiza"
+     ],
+     "apps": [
+      {
+       "name": "Alsa Mobi4U",
+       "cat": "transit",
+       "pkg": "com.alsa.app.maas",
+       "note": "Inselbusse auf Ibiza mit Tickets und Live-Karte",
+       "src": "https://www.alsa.com/en/passes/ibiza-pass"
+      }
+     ]
+    },
+    {
+     "name": "Las Palmas de Gran Canaria",
+     "match": [
+      "Las Palmas de Gran Canaria"
+     ],
+     "apps": [
+      {
+       "name": "GuaguasLPA",
+       "cat": "transit",
+       "pkg": "com.desicsl.milinea",
+       "note": "Offizielle App der Stadtbusse mit Live-Zeiten",
+       "src": "https://www.guaguas.com/genera_pdf_prensa/genera_noticia_pdf.php?id=3385"
+      },
+      {
+       "name": "LPA Park",
+       "cat": "parking",
+       "pkg": "com.inventiaplus.lpapark",
+       "note": "Blaue Zone per App zahlen, freie Parkhausplätze",
+       "src": "https://sagulpa.com/portal-transparencia-documentos/245-pdf-condiciones-de-uso-de-lpa-park"
+      }
+     ]
+    },
+    {
      "name": "Madrid",
      "match": [
       "Madrid"
      ],
      "apps": [
-      {
-       "name": "Mi Tarjeta Transporte",
-       "cat": "transit",
-       "pkg": "com.crtm.integrated",
-       "note": "Neue CRTM-App für die Tarjeta Transporte",
-       "mine": true,
-       "use": "no",
-       "req": "Laut Quelle eingestellt",
-       "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/"
-      },
       {
        "name": "Metro de Madrid",
        "cat": "transit",
@@ -2090,7 +2228,8 @@
        "note": "Verkehrskarte aufladen und im Handy nutzen",
        "use": "limited",
        "req": "Nur Android, braucht eine persönliche Tarjeta Transporte (TTP Personal)",
-       "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/?lang=en"
+       "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/?lang=en",
+       "pkg": "com.crtm.integrated"
       }
      ]
     },
@@ -2150,6 +2289,28 @@
      ]
     },
     {
+     "name": "Tenerife",
+     "match": [
+      "Tenerife"
+     ],
+     "apps": [
+      {
+       "name": "ten+móvil",
+       "cat": "transit",
+       "pkg": "com.metrotenerife.viamovil",
+       "note": "Tickets für Busse und Tram auf Teneriffa per Handy",
+       "src": "https://metrotenerife.com/en/tenmovil-is-the-new-app-for-the-public-transport/"
+      },
+      {
+       "name": "TITSA",
+       "cat": "transit",
+       "pkg": "com.titsa.app.android",
+       "note": "Inselbusse mit Wartezeiten an der Haltestelle",
+       "src": "https://www.titsa.com/en/your-buses/fares-and-discounts"
+      }
+     ]
+    },
+    {
      "name": "Valencia",
      "match": [
       "Valencia"
@@ -2174,7 +2335,7 @@
    ],
    "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht nötig, also nichts dafür zahlen.",
    "src": "https://www.bento.travel/spain",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -2210,9 +2371,9 @@
    "apps": [
     {
      "name": "OnePass",
-     "cat": "tourism",
+     "cat": "misc",
      "pkg": "it.prometheus.onepass",
-     "note": "OnePass",
+     "note": "Mitgliedskarte für One Pass, I Club und ARCO Partner",
      "mine": true,
      "use": "limited",
      "req": "Konto mit Login für Mitgliedskarte nötig, Gäste nur Reiseziele"
@@ -2226,11 +2387,12 @@
     },
     {
      "name": "coffee cApp",
-     "cat": "delivery",
+     "cat": "payment",
      "pkg": "com.yourvoice.ccApp",
      "mine": true,
      "use": "limited",
-     "req": "Bestätigung der Handynummer per SMS nötig"
+     "req": "Bestätigung der Handynummer per SMS nötig",
+     "note": "An Kaffee- und Snackautomaten per Handy bezahlen"
     },
     {
      "name": "BurgerKingIT",
@@ -2389,6 +2551,21 @@
    ],
    "cities": [
     {
+     "name": "Bari",
+     "match": [
+      "Bari"
+     ],
+     "apps": [
+      {
+       "name": "MUVT",
+       "cat": "transit",
+       "pkg": "net.pluservice.muvt",
+       "note": "App von Stadt und AMTAB mit Bustickets für Bari",
+       "src": "https://apps.apple.com/app/id1456106022"
+      }
+     ]
+    },
+    {
      "name": "Bologna",
      "match": [
       "Bologna"
@@ -2400,6 +2577,21 @@
        "pkg": "net.pluservice.roger",
        "note": "TPER Bustickets, Bahn und Parken in Emilia Romagna",
        "src": "https://www.tper.it/app"
+      }
+     ]
+    },
+    {
+     "name": "Catania",
+     "match": [
+      "Catania"
+     ],
+     "apps": [
+      {
+       "name": "AMTS Smart Ticketing",
+       "cat": "transit",
+       "pkg": "it.amts.mobile.customer",
+       "note": "Bustickets für Catania als QR-Code",
+       "src": "https://catania.liveuniversity.it/2024/09/16/amts-titoli-di-viaggio-ora-acquistabili-anche-tramite-app/"
       }
      ]
     },
@@ -2429,6 +2621,22 @@
        "cat": "tourism",
        "note": "Digitale Museumskarte für über 60 Museen",
        "src": "https://apps.apple.com/us/app/firenzecard/id1276107302"
+      }
+     ]
+    },
+    {
+     "name": "Genua",
+     "match": [
+      "Genoa",
+      "Genua"
+     ],
+     "apps": [
+      {
+       "name": "AMT Genova",
+       "cat": "transit",
+       "pkg": "it.genova.amt.app",
+       "note": "Offizielle App von AMT mit Tickets für Bus und Metro",
+       "src": "https://www.amt.genova.it/amt/wp-content/uploads/2024/01/12-2023-70X25-REGOLAMENTO-BUS.pdf"
       }
      ]
     },
@@ -2475,6 +2683,21 @@
        "pkg": "net.pluservice.unicoc",
        "note": "Tickets für ANM und weitere Betriebe",
        "src": "https://dmo-napoli-ese.inera.it/en/getting-around/"
+      }
+     ]
+    },
+    {
+     "name": "Palermo",
+     "match": [
+      "Palermo"
+     ],
+     "apps": [
+      {
+       "name": "MyAMAT",
+       "cat": "transit",
+       "pkg": "net.pluservice.amatpalermo",
+       "note": "Bus- und Tramtickets der AMAT Palermo",
+       "src": "https://www.balarm.it/news/dall-aeroporto-al-mare-col-bus-e-il-treno-come-funziona-la-nuova-app-a-palermo-164895"
       }
      ]
     },
@@ -2567,11 +2790,26 @@
        "src": "https://tripplanner.veneziaunica.it/en/node/766"
       }
      ]
+    },
+    {
+     "name": "Verona",
+     "match": [
+      "Verona"
+     ],
+     "apps": [
+      {
+       "name": "Ticket Bus Verona",
+       "cat": "transit",
+       "pkg": "net.pluservice.ticketbv",
+       "note": "ATV-Tickets für Stadtbus und Flughafenbus",
+       "src": "https://www.atv.verona.it/App_Ticketbus"
+      }
+     ]
     }
    ],
    "note": "Nie ohne sichere Erlaubnis in eine ZTL fahren, auch wenn die Karten-App dorthin führt.",
    "src": "https://www.bento.travel/italy",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/italiensicherheit-211322",
    "cont": "EU",
@@ -2987,6 +3225,21 @@
      ]
     },
     {
+     "name": "Lille",
+     "match": [
+      "Lille"
+     ],
+     "apps": [
+      {
+       "name": "ilévia",
+       "cat": "transit",
+       "pkg": "com.transpole.mobi",
+       "note": "M-Ticket für Metro, Tram und Bus in Lille",
+       "src": "https://apps.apple.com/app/id429143032"
+      }
+     ]
+    },
+    {
      "name": "Lyon",
      "match": [
       "Lyon"
@@ -3020,6 +3273,36 @@
        "pkg": "com.c4mprod.rtm",
        "note": "Echtzeit für Metro, Tram und Bus in Marseille",
        "src": "https://www.rtm.fr/"
+      }
+     ]
+    },
+    {
+     "name": "Montpellier",
+     "match": [
+      "Montpellier"
+     ],
+     "apps": [
+      {
+       "name": "M'Ticket TaM",
+       "cat": "transit",
+       "pkg": "com.tam_way.mobiletickets",
+       "note": "Tram- und Bustickets als QR-Code auf dem Handy",
+       "src": "https://apps.apple.com/FR/app/id1454637089"
+      }
+     ]
+    },
+    {
+     "name": "Nantes",
+     "match": [
+      "Nantes"
+     ],
+     "apps": [
+      {
+       "name": "Naolib",
+       "cat": "transit",
+       "pkg": "com.semitan.tan",
+       "note": "Tram- und Bustickets kaufen und entwerten",
+       "src": "https://naolib.fr/en/application-naolib-tram-bus"
       }
      ]
     },
@@ -3115,11 +3398,26 @@
        "src": "https://cts-strasbourg.eu/en/faq/mobile-application/"
       }
      ]
+    },
+    {
+     "name": "Toulouse",
+     "match": [
+      "Toulouse"
+     ],
+     "apps": [
+      {
+       "name": "Tisséo",
+       "cat": "transit",
+       "pkg": "fr.tisseo.android",
+       "note": "Offizielle ÖPNV-App mit Tickets und Echtzeit",
+       "src": "https://www.toulouse-tourisme.com/?p=4086"
+      }
+     ]
     }
    ],
    "note": "In Paris Fahrkarten per App Île-de-France Mobilités oder Navigo Easy Karte kaufen, die Bankkarte gilt nicht als Ticket.",
    "src": "https://www.bento.travel/france",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -3723,9 +4021,9 @@
     },
     {
      "name": "Cluby",
-     "cat": "tourism",
+     "cat": "misc",
      "pkg": "com.solinor.loyaltybeacon",
-     "note": "Cluby",
+     "note": "Mitgliedskarte für Bars und Restaurants",
      "mine": true
     },
     {
@@ -3958,7 +4256,7 @@
      "name": "airBaltic",
      "cat": "flights",
      "pkg": "com.redmadrobot.pins",
-     "note": "airBaltic (aus deinem Baltikum-Ordner)",
+     "note": "Lettische Airline, Buchung und Check-in",
      "mine": true
     },
     {
@@ -3966,15 +4264,15 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)",
+     "note": "Estnischer Fahrdienst, in vielen Städten",
      "ess": true
     },
     {
      "name": "RIDE",
-     "cat": "taxi",
+     "cat": "micro",
      "pkg": "ride.app",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)",
+     "note": "E-Scooter und E-Bikes per App leihen",
      "use": "no",
      "req": "In Estland nicht verfügbar, nur in Riga"
     },
@@ -3983,14 +4281,14 @@
      "cat": "transit",
      "pkg": "lv.mobilly.android",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "Parken und Nahverkehrstickets per App bezahlen"
     },
     {
      "name": "MOBI",
      "cat": "taxi",
      "pkg": "com.mobi.passenger",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)",
+     "note": "Fahrdienst mit Fahrer, vor allem in Riga",
      "use": "no",
      "req": "In Estland laut Store nicht angeboten, nur Lettland"
     },
@@ -3999,7 +4297,7 @@
      "cat": "tourism",
      "pkg": "com.aurorareach.app",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "Polarlicht-Vorhersage mit Benachrichtigungen"
     },
     {
      "name": "Forus",
@@ -4189,7 +4487,7 @@
      "name": "airBaltic",
      "cat": "flights",
      "pkg": "com.redmadrobot.pins",
-     "note": "airBaltic (aus deinem Baltikum-Ordner)",
+     "note": "Lettische Airline, Buchung und Check-in",
      "mine": true
     },
     {
@@ -4197,29 +4495,29 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)",
+     "note": "Fahrdienst in Riga und weiteren Städten",
      "ess": true
     },
     {
      "name": "RIDE",
-     "cat": "taxi",
+     "cat": "micro",
      "pkg": "ride.app",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "E-Scooter und E-Bikes per App leihen"
     },
     {
      "name": "MOBI",
      "cat": "taxi",
      "pkg": "com.mobi.passenger",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "Fahrdienst mit Fahrer in Riga"
     },
     {
      "name": "AuroraReach",
      "cat": "tourism",
      "pkg": "com.aurorareach.app",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "Polarlicht-Vorhersage mit Benachrichtigungen"
     },
     {
      "name": "Wolt",
@@ -4409,7 +4707,7 @@
      "name": "airBaltic",
      "cat": "flights",
      "pkg": "com.redmadrobot.pins",
-     "note": "airBaltic (aus deinem Baltikum-Ordner)",
+     "note": "Lettische Airline, Buchung und Check-in",
      "mine": true
     },
     {
@@ -4417,22 +4715,22 @@
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)",
+     "note": "Fahrdienst in den größeren Städten",
      "ess": true
     },
     {
      "name": "RIDE",
-     "cat": "taxi",
+     "cat": "micro",
      "pkg": "ride.app",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "E-Scooter und E-Bikes per App leihen"
     },
     {
      "name": "Mobilly",
      "cat": "transit",
      "pkg": "lv.mobilly.android",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)",
+     "note": "Parken und Nahverkehrstickets per App bezahlen",
      "use": "limited",
      "req": "In Litauen bisher nur Zahlungen rund ums Auto"
     },
@@ -4441,7 +4739,7 @@
      "cat": "taxi",
      "pkg": "com.mobi.passenger",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)",
+     "note": "Fahrdienst mit Fahrer, vor allem in Riga",
      "use": "no",
      "req": "Nur in Riga (Lettland) verfügbar, nicht in Litauen"
     },
@@ -4450,7 +4748,7 @@
      "cat": "tourism",
      "pkg": "com.aurorareach.app",
      "mine": true,
-     "note": "(aus deinem Baltikum-Ordner)"
+     "note": "Polarlicht-Vorhersage mit Benachrichtigungen"
     },
     {
      "name": "Uber",
@@ -4635,9 +4933,9 @@
       },
       {
        "name": "RIDE",
-       "cat": "taxi",
+       "cat": "micro",
        "pkg": "ride.app",
-       "note": "E-Scooter und E-Bikes in Vilnius leihen",
+       "note": "E-Scooter und E-Bikes per App leihen",
        "src": "https://judu.lt/en/?p=71127"
       }
      ]
@@ -4997,7 +5295,7 @@
      "name": "Tomorrowland",
      "cat": "tourism",
      "pkg": "com.tomorrowland.oneworldradio",
-     "note": "Tomorrowland",
+     "note": "Offizielle Festival-App mit Programm, Karte und Radio",
      "mine": true
     },
     {
@@ -5324,16 +5622,6 @@
      "req": "Buchung und Fahrzeugzugang nur über die App"
     },
     {
-     "name": "CFL go",
-     "cat": "rail",
-     "pkg": "lu.cfl.cflgo",
-     "mine": true,
-     "use": "no",
-     "req": "Laut Quelle eingestellt",
-     "note": "Neue App der Luxemburger Bahn CFL",
-     "src": "https://chronicle.lu/category/rail/61157-cfl-launches-redesigned-cfl-go-mobile-app"
-    },
-    {
      "name": "LetzRide",
      "cat": "taxi",
      "pkg": "com.letzride",
@@ -5343,7 +5631,8 @@
      "name": "CFL go",
      "cat": "rail",
      "note": "Neue CFL-App mit Echtzeit, Tickets für 1. Klasse und Ausland",
-     "src": "https://blogcfl.lu/?p=24594"
+     "src": "https://blogcfl.lu/?p=24594",
+     "pkg": "lu.cfl.cflgo"
     },
     {
      "name": "CFL International",
@@ -6598,6 +6887,36 @@
    ],
    "cities": [
     {
+     "name": "Atlanta",
+     "match": [
+      "Atlanta"
+     ],
+     "apps": [
+      {
+       "name": "MARTA",
+       "cat": "transit",
+       "pkg": "com.itsmarta.martaapp",
+       "note": "Offizielle MARTA-App: Echtzeit, Routen, Störungen",
+       "src": "https://itsmarta.com/marta-on-the-go.aspx"
+      }
+     ]
+    },
+    {
+     "name": "Austin",
+     "match": [
+      "Austin"
+     ],
+     "apps": [
+      {
+       "name": "Umo Mobility",
+       "cat": "transit",
+       "pkg": "com.cubic.ctp.app",
+       "note": "Digitale CapMetro-Tickets, in der App CapMetro wählen",
+       "src": "https://www.capmetro.org/fares-passes/app"
+      }
+     ]
+    },
+    {
      "name": "Boston",
      "match": [
       "Boston"
@@ -6627,6 +6946,36 @@
      ]
     },
     {
+     "name": "Dallas",
+     "match": [
+      "Dallas"
+     ],
+     "apps": [
+      {
+       "name": "GoPass",
+       "cat": "transit",
+       "pkg": "dk.unwire.projects.dart",
+       "note": "DART-Tickets und Routenplaner für Dallas",
+       "src": "https://pass.dart.org/gopass-app"
+      }
+     ]
+    },
+    {
+     "name": "Denver",
+     "match": [
+      "Denver"
+     ],
+     "apps": [
+      {
+       "name": "RTD NextRide",
+       "cat": "transit",
+       "pkg": "com.rtddenver.nextride",
+       "note": "Neue RTD-App: Tickets, Echtzeit, Routenplaner",
+       "src": "https://www.rtd-denver.com/community/news/2026/rtd-launches-single-app-for-trip-planning-fares-and-security-tools"
+      }
+     ]
+    },
+    {
      "name": "Honolulu",
      "match": [
       "Honolulu"
@@ -6638,6 +6987,21 @@
        "pkg": "org.thebus.hea.nteves",
        "note": "Offizielle TheBus-App mit Live-Ankunftszeiten",
        "src": "https://www.thebus.org/"
+      }
+     ]
+    },
+    {
+     "name": "Houston",
+     "match": [
+      "Houston"
+     ],
+     "apps": [
+      {
+       "name": "RideMETRO",
+       "cat": "transit",
+       "pkg": "com.ridemetro.houstontrip",
+       "note": "Routen und virtuelle Fahrkarte für METRO Houston",
+       "src": "https://www.ridemetro.org/riding-metro/apps/ridemetro-app"
       }
      ]
     },
@@ -6683,6 +7047,36 @@
        "pkg": "gov.miamidade.MDTTracker",
        "note": "Echtzeit für Bus und Metrorail, Handy-Tickets",
        "src": "https://www.miamidade.gov/transit/mobile/app/"
+      }
+     ]
+    },
+    {
+     "name": "Minneapolis",
+     "match": [
+      "Minneapolis"
+     ],
+     "apps": [
+      {
+       "name": "Metro Transit",
+       "cat": "transit",
+       "pkg": "org.metrotransit.mt.mobiletickets",
+       "note": "Handytickets und Abfahrten für Bus und Stadtbahn",
+       "src": "https://www.metrotransit.org/app"
+      }
+     ]
+    },
+    {
+     "name": "Nashville",
+     "match": [
+      "Nashville"
+     ],
+     "apps": [
+      {
+       "name": "QuickTicket by WeGo",
+       "cat": "transit",
+       "pkg": "co.bytemark.nash",
+       "note": "Fahrkarte und Pässe für WeGo-Busse und Züge",
+       "src": "https://www.wegotransit.com/wego-now-accepts-credit-card-mobile-wallet-contactless-payment/"
       }
      ]
     },
@@ -6749,6 +7143,102 @@
        "cat": "tourism",
        "pkg": "com.seaworld.mobile",
        "mine": true
+      }
+     ]
+    },
+    {
+     "name": "Philadelphia",
+     "match": [
+      "Philadelphia"
+     ],
+     "apps": [
+      {
+       "name": "SEPTA",
+       "cat": "transit",
+       "pkg": "org.septa.android.app",
+       "note": "Offizielle App: Fahrpläne, Echtzeit, SEPTA Key",
+       "src": "https://www.septa.org/app/"
+      },
+      {
+       "name": "SEPTA Park",
+       "cat": "parking",
+       "pkg": "com.flowbird.septapark",
+       "note": "Parken an SEPTA-Parkplätzen per Kennzeichen zahlen",
+       "src": "https://www.septa.org/parking/"
+      }
+     ]
+    },
+    {
+     "name": "Phoenix",
+     "match": [
+      "Phoenix"
+     ],
+     "apps": [
+      {
+       "name": "Valley Metro",
+       "cat": "transit",
+       "pkg": "org.valleymetro.app",
+       "note": "Tickets, Echtzeit und Routen für Bus und Stadtbahn",
+       "src": "https://www.valleymetro.org/how-to-ride/online-tools/app"
+      }
+     ]
+    },
+    {
+     "name": "Pittsburgh",
+     "match": [
+      "Pittsburgh"
+     ],
+     "apps": [
+      {
+       "name": "PRT Ready2Ride",
+       "cat": "transit",
+       "pkg": "com.justride.pgh",
+       "note": "Handytickets für Bus, Stadtbahn und Inclines",
+       "src": "https://www.rideprt.org/fares-and-payment/ready2ride/"
+      }
+     ]
+    },
+    {
+     "name": "Portland",
+     "match": [
+      "Portland"
+     ],
+     "apps": [
+      {
+       "name": "Hop Fastpass",
+       "cat": "transit",
+       "pkg": "org.trimet.mt.accounts",
+       "note": "Hop-Karte verwalten, Bankkarte antippen geht auch",
+       "src": "https://trimet.org/app/index.htm"
+      }
+     ]
+    },
+    {
+     "name": "Salt Lake City",
+     "match": [
+      "Salt Lake City"
+     ],
+     "apps": [
+      {
+       "name": "Transit",
+       "cat": "transit",
+       "pkg": "com.thetransitapp.droid",
+       "note": "Offizielle Tickets für UTA Bus, TRAX und FrontRunner",
+       "src": "https://www.rideuta.com/fares-and-passes/individual-fares/transit-mobile-ticketing"
+      }
+     ]
+    },
+    {
+     "name": "San Antonio",
+     "match": [
+      "San Antonio"
+     ],
+     "apps": [
+      {
+       "name": "VIA goMobile+",
+       "cat": "transit",
+       "note": "Handytickets und Tagespässe für VIA-Busse",
+       "src": "https://www.viainfo.net/goMobileplus/"
       }
      ]
     },
@@ -6824,7 +7314,7 @@
    ],
    "note": "Deutsche brauchen vor der Reise eine ESTA-Genehmigung, am besten über die offizielle CBP-App oder Website beantragen.",
    "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "NA",
    "info": {
     "emergency": [
@@ -6963,6 +7453,15 @@
      "use": "limited",
      "req": "Prüfung von Ausweis, Führerschein und Einkommen in der App",
      "src": "https://apps.apple.com/mx/app/drivana/id6502799127"
+    },
+    {
+     "name": "Tren Maya Tickets",
+     "cat": "rail",
+     "pkg": "com.indra.trenmaya.pro",
+     "note": "Offizielle App für Tickets und Fahrpläne des Tren Maya",
+     "use": "limited",
+     "req": "Laut Nutzern Zahlung teils nur mit mexikanischer Nummer",
+     "src": "https://trenmaya.gob.mx/pdf/Dossier_Tianguis_Turistico_2026.pdf"
     }
    ],
    "cities": [
@@ -6997,6 +7496,21 @@
        "use": "limited",
        "req": "Nur Kreditkarte, 2.500 MXN Kaution werden geblockt",
        "src": "https://mibici.net/en/about-mibici"
+      }
+     ]
+    },
+    {
+     "name": "Merida",
+     "match": [
+      "Merida"
+     ],
+     "apps": [
+      {
+       "name": "Va-y-Ven",
+       "cat": "transit",
+       "pkg": "gob.yucatan.vayven",
+       "note": "Busse in Mérida: Echtzeit, virtuelle Karte, Aufladen",
+       "src": "https://www.yucatan.com.mx/merida/2026/10/25/se-actualiza-la-app-del-va-y-ven-estas-son-las-nuevas-herramientas-para-los-usuarios.html"
       }
      ]
     },
@@ -7042,7 +7556,7 @@
    ],
    "note": "Uber und DiDi dürfen an Flughäfen oft nicht abholen, dort offizielle Taxis nutzen und Pesos bar dabeihaben.",
    "src": "https://www.bento.travel/mexico",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "NA",
    "info": {
     "emergency": [
@@ -7145,7 +7659,7 @@
      "name": "eVisitor (ImmiAccount, Web)",
      "cat": "entry",
      "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
-     "note": "Deutsche Pässe: eVisitor 651 kostenlos über ImmiAccount, nicht über die ETA-App",
+     "note": "eVisitor 651 kostenlos über ImmiAccount, nicht ETA-App",
      "src": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651"
     },
     {
@@ -7411,6 +7925,21 @@
      ]
     },
     {
+     "name": "Gold Coast",
+     "match": [
+      "Gold Coast"
+     ],
+     "apps": [
+      {
+       "name": "My G:",
+       "cat": "transit",
+       "pkg": "com.kdr.glink",
+       "note": "Straßenbahn G:link mit Live-Abfahrten und Störungen",
+       "src": "https://ridetheg.com.au/"
+      }
+     ]
+    },
+    {
      "name": "Melbourne",
      "match": [
       "Melbourne"
@@ -7478,7 +8007,7 @@
    "src": "https://www.bento.travel/australia",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Ehe für alle ist eingeführt, Rechte für trans Personen variieren je Bundesstaat.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/australien-sicherheit/213920",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -8118,7 +8647,7 @@
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Fahrdienst in den großen Städten",
      "mine": true,
      "ess": true
     },
@@ -8126,7 +8655,7 @@
      "name": "Bolt Food",
      "cat": "delivery",
      "pkg": "com.bolt.deliveryclient",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Essen und Einkäufe liefern lassen",
      "mine": true,
      "use": "no",
      "req": "In Südafrika nicht verfügbar"
@@ -8135,7 +8664,7 @@
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Fahrdienst in den großen Städten",
      "mine": true,
      "ess": true
     },
@@ -8143,7 +8672,7 @@
      "name": "Piki",
      "cat": "delivery",
      "pkg": "com.food.ordering",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Lieferdienst für Essen, Einkäufe und Getränke",
      "mine": true,
      "use": "no",
      "req": "In Südafrika nicht verfügbar"
@@ -8287,7 +8816,7 @@
      "name": "Bolt",
      "cat": "taxi",
      "pkg": "ee.mtakso.client",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Fahrdienst in Nairobi und weiteren Städten",
      "mine": true,
      "ess": true
     },
@@ -8295,14 +8824,14 @@
      "name": "Bolt Food",
      "cat": "delivery",
      "pkg": "com.bolt.deliveryclient",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Essen und Einkäufe liefern lassen",
      "mine": true
     },
     {
      "name": "Uber",
      "cat": "taxi",
      "pkg": "com.ubercab",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Fahrdienst in Nairobi und weiteren Städten",
      "mine": true,
      "ess": true
     },
@@ -8310,7 +8839,7 @@
      "name": "Piki",
      "cat": "delivery",
      "pkg": "com.food.ordering",
-     "note": "aus deinem Afrika-Ordner, Verfügbarkeit im Land prüfen",
+     "note": "Lieferdienst für Essen, Einkäufe und Getränke",
      "mine": true,
      "use": "no",
      "req": "In Kenia nicht verfügbar"
@@ -8407,6 +8936,16 @@
      "use": "limited",
      "req": "Führerschein (sonst internationaler), Mindestalter 21, Visa oder Mastercard",
      "src": "https://getrentacar.com/en-US/kenya"
+    },
+    {
+     "name": "Madaraka Express (SGR)",
+     "cat": "rail",
+     "note": "Zugtickets Nairobi Mombasa online buchen",
+     "url": "https://metickets.krc.co.ke/",
+     "nostore": true,
+     "use": "limited",
+     "req": "Online nur Zahlung per M-Pesa, sonst bar am Bahnhof",
+     "src": "https://techweez.com/2025/03/14/how-to-book-an-sgr-train-ticket-in-kenya-in-2025/"
     }
    ],
    "cities": [
@@ -8428,7 +8967,7 @@
    ],
    "note": "Deutsche brauchen vor der Reise eine eTA (etakenya.go.ke, etwa 3 Werktage Bearbeitung); Safari-Anbieter bei der Tourism Regulatory Authority prüfen.",
    "src": "https://www.bento.travel/kenya",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -9514,6 +10053,21 @@
    ],
    "cities": [
     {
+     "name": "El Gouna",
+     "match": [
+      "El Gouna"
+     ],
+     "apps": [
+      {
+       "name": "El Gouna",
+       "cat": "tourism",
+       "pkg": "com.appventure.elgouna",
+       "note": "Offizielle Ortsapp mit Busplan, Tickets und Events",
+       "src": "https://www.elgouna.com/visit-el-gouna/faqs"
+      }
+     ]
+    },
+    {
      "name": "Kairo",
      "match": [
       "Cairo",
@@ -9532,7 +10086,7 @@
    ],
    "note": "Fahrten immer in der App halten, Kennzeichen prüfen und kleine EGP-Scheine bereithalten.",
    "src": "https://www.bento.travel/egypt",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -9700,11 +10254,26 @@
        "src": "https://apps.apple.com/app/id1588746412"
       }
      ]
+    },
+    {
+     "name": "Tangier",
+     "match": [
+      "Tangier"
+     ],
+     "apps": [
+      {
+       "name": "Tanger Med Passenger Journey",
+       "cat": "rail",
+       "pkg": "com.tangermed.passengers",
+       "note": "Hafen-App für Fährpassagiere: Wege, Abläufe, Verkehrslage",
+       "src": "https://www.tangermed.ma/en/new-version-of-the-passenger-mobile-solution-tanger-med-passenger-journey/"
+      }
+     ]
     }
    ],
    "note": "Dirham in bar mitnehmen, da Souks, Cafés und Taxis oft nur Bargeld nehmen.",
    "src": "https://www.bento.travel/morocco",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -9867,6 +10436,21 @@
    ],
    "cities": [
     {
+     "name": "Banff",
+     "match": [
+      "Banff"
+     ],
+     "apps": [
+      {
+       "name": "Token Transit",
+       "cat": "transit",
+       "pkg": "com.tokentransit.tokentransit",
+       "note": "Roam-Transit-Tickets aufs Handy, nur per Kreditkarte",
+       "src": "https://roamtransit.com/tokentransit/"
+      }
+     ]
+    },
+    {
      "name": "Calgary",
      "match": [
       "Calgary"
@@ -10011,11 +10595,41 @@
        "src": "https://www.mobibikes.ca/en/offers-subscription"
       }
      ]
+    },
+    {
+     "name": "Victoria",
+     "match": [
+      "Victoria"
+     ],
+     "apps": [
+      {
+       "name": "Umo Mobility",
+       "cat": "transit",
+       "pkg": "com.cubic.ctp.app",
+       "note": "Digitale Fahrkarte für BC Transit per QR-Code",
+       "src": "https://www.bctransit.com/umo/"
+      }
+     ]
+    },
+    {
+     "name": "Whistler",
+     "match": [
+      "Whistler"
+     ],
+     "apps": [
+      {
+       "name": "Umo Mobility",
+       "cat": "transit",
+       "pkg": "com.cubic.ctp.app",
+       "note": "Busfahren per QR-Code, Tagespass wird automatisch",
+       "src": "https://www.bctransit.com/whistler/fares/how-fares-work/umo/"
+      }
+     ]
     }
    ],
    "note": "Deutsche brauchen für Flüge eine eTA für 7 CAD, nur über canada.ca, eine offizielle App gibt es nicht. Bezahlt wird meist per Kreditkarte.",
    "src": "https://www.bento.travel/canada",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "NA",
    "info": {
     "emergency": [
@@ -10578,6 +11192,21 @@
    ],
    "cities": [
     {
+     "name": "Belo Horizonte",
+     "match": [
+      "Belo Horizonte"
+     ],
+     "apps": [
+      {
+       "name": "BHBUS+",
+       "cat": "transit",
+       "pkg": "br.com.transfacil",
+       "note": "Offizielle Bus-App: QR-Tickets, Echtzeit, Aufladen",
+       "src": "https://prefeitura.pbh.gov.br/sumob/onibus/cartao-bhbus"
+      }
+     ]
+    },
+    {
      "name": "Brasilia",
      "match": [
       "Brasilia"
@@ -10588,6 +11217,21 @@
        "cat": "transit",
        "note": "Offizielle Bus-App mit Echtzeit und Routen",
        "src": "https://dfnoponto.semob.df.gov.br/"
+      }
+     ]
+    },
+    {
+     "name": "Curitiba",
+     "match": [
+      "Curitiba"
+     ],
+     "apps": [
+      {
+       "name": "Curitiba App",
+       "cat": "transit",
+       "pkg": "br.org.curitiba.ici.appcuritiba",
+       "note": "Stadt-App mit Buslinien, Routen und Diensten",
+       "src": "https://www.curitiba.pr.gov.br/noticias/curitiba-app-traz-inovacoes-na-area-do-transporte-e-facilita-vida-dos-passageiros/82605"
       }
      ]
     },
@@ -10688,7 +11332,7 @@
    ],
    "note": "Ausländische Karten und kontaktloses Zahlen scheitern öfter, daher zwei Karten und etwas Reais mitnehmen. Viele Apps fragen nach CPF.",
    "src": "https://www.bento.travel/brazil",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "SA",
    "info": {
     "emergency": [
@@ -10994,6 +11638,20 @@
    ],
    "cities": [
     {
+     "name": "Cusco",
+     "match": [
+      "Cusco"
+     ],
+     "apps": [
+      {
+       "name": "PeruRail eTicket",
+       "cat": "rail",
+       "note": "Zugticket nach Machu Picchu als Bordkarte aufs Handy",
+       "src": "https://apps.apple.com/us/app/id1523190990"
+      }
+     ]
+    },
+    {
      "name": "Lima",
      "match": [
       "Lima"
@@ -11024,7 +11682,7 @@
    ],
    "note": "Machu-Picchu-Tickets nur über TuBoleto kaufen und Zugtickets separat bei autorisierten Anbietern buchen.",
    "src": "https://www.bento.travel/peru",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "SA",
    "info": {
     "emergency": [
@@ -11887,12 +12545,28 @@
      "src": "https://www.amnesty.org/en/latest/news/2025/02/tunisia-authorities-step-up-crackdown-on-lgbti-individuals-with-wave-of-arrests/"
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Tunis",
+     "match": [
+      "Tunis"
+     ],
+     "apps": [
+      {
+       "name": "Thnity",
+       "cat": "transit",
+       "pkg": "com.maas.thnity",
+       "note": "Routenplaner für Metro, Bus, TGM und Louage in Tunis",
+       "src": "https://www.jarniascyril.com/?p=14603"
+      }
+     ]
+    }
+   ],
    "note": "Nur mit Reisepass einreisen, der Personalausweis reicht nicht; Dinar erst vor Ort tauschen oder abheben, die Einfuhr ist verboten.",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nach Artikel 230 mit bis zu drei Jahren Haft strafbar, die Polizei nutzt Dating-Apps für Festnahmen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -11983,6 +12657,15 @@
      "use": "no",
      "req": "Gleichgeschlechtliche Handlungen strafbar, Nutzung riskant",
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tansaniasicherheit/208662"
+    },
+    {
+     "name": "NIC Inbound Travel Insurance",
+     "cat": "entry",
+     "note": "Pflichtversicherung für Festland ab 1.10.2026, online",
+     "ess": true,
+     "url": "https://inbound.nicinsurance.co.tz/",
+     "nostore": true,
+     "src": "https://www.norway.no/en/tanzania/norway-tanzania/news-events/mandatory-travel-insurance/"
     }
    ],
    "cities": [
@@ -12011,13 +12694,30 @@
        "src": "https://www.bento.travel/tanzania/food-delivery"
       }
      ]
+    },
+    {
+     "name": "Zanzibar",
+     "match": [
+      "Zanzibar"
+     ],
+     "apps": [
+      {
+       "name": "Zanzibar Inbound Travel Insurance",
+       "cat": "entry",
+       "note": "Pflicht-Reiseversicherung für Sansibar online kaufen",
+       "ess": true,
+       "url": "https://inbound.visitzanzibar.go.tz/",
+       "nostore": true,
+       "src": "https://www.norway.no/en/tanzania/norway-tanzania/news-events/mandatory-travel-insurance/"
+      }
+     ]
     }
    ],
    "note": "Für Sansibar ist eine ZIC-Einreiseversicherung Pflicht, andere Reiseversicherungen werden nicht anerkannt.",
    "src": "https://www.bento.travel/tanzania",
    "lgbtq_note": "Homosexuelle Handlungen werden mit sehr hohen Gefängnisstrafen bestraft, das gilt auch für Ausländer.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tansaniasicherheit/208662",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -12993,6 +13693,13 @@
      "pkg": "nz.co.airnz.mpass",
      "note": "Buchung, Check in und Bordkarte für Flüge nach Rarotonga",
      "src": "https://www.similarweb.com/app/google/nz.co.airnz.mpass/new-zealand"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "pkg": "com.aa_app.ui",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/cookinseln-node/cookinselnsicherheit/226552"
     }
    ],
    "cities": [
@@ -13033,7 +13740,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/cookinseln-node/cookinselnsicherheit/226552",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit Juni 2023 legal, Ehe und Partnerschaft gibt es nicht, die Gesellschaft ist stark kirchlich geprägt, Zärtlichkeiten in der Öffentlichkeit besser meiden.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Cook_Islands",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -13643,6 +14350,21 @@
      ]
     },
     {
+     "name": "Hakone",
+     "match": [
+      "Hakone"
+     ],
+     "apps": [
+      {
+       "name": "EMot Online Tickets",
+       "cat": "transit",
+       "note": "Digitaler Hakone Freepass im Browser, ohne App",
+       "url": "https://www.odakyu.jp/english/passes/digital_tickets/",
+       "src": "https://www.odakyu.jp/english/passes/digital_tickets/"
+      }
+     ]
+    },
+    {
      "name": "Hiroshima",
      "match": [
       "Hiroshima"
@@ -13671,6 +14393,21 @@
      ]
     },
     {
+     "name": "Naha",
+     "match": [
+      "Naha"
+     ],
+     "apps": [
+      {
+       "name": "Japan Transit Planner",
+       "cat": "transit",
+       "pkg": "jp.co.jorudan.nrkj",
+       "note": "Digitale Yui-Rail-Pässe kaufen und am Gate zeigen",
+       "src": "https://ticket.jorudan.co.jp/yui-rail/en/"
+      }
+     ]
+    },
+    {
      "name": "Osaka",
      "match": [
       "Osaka"
@@ -13693,7 +14430,7 @@
      ],
      "apps": [
       {
-       "name": "Sapporo Must-See App",
+       "name": "Sapporo Gourmet Coupon",
        "cat": "tourism",
        "pkg": "jp.co.mediamagic.sapporokanko",
        "note": "Offizielle Tourismus-App mit Lokalen und Gutscheinen",
@@ -13716,13 +14453,28 @@
        "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
       }
      ]
+    },
+    {
+     "name": "Yokohama",
+     "match": [
+      "Yokohama"
+     ],
+     "apps": [
+      {
+       "name": "my route",
+       "cat": "transit",
+       "pkg": "jp.co.toyota.myroute",
+       "note": "Digitale Tagespässe für U-Bahn und Bus Yokohama",
+       "src": "https://www.city.yokohama.lg.jp/lang/residents/en/bus-subway/bus/fares-bus/my-route.html"
+      }
+     ]
     }
    ],
    "note": "Deutsche reisen bis 90 Tage visumfrei mit Reisepass ein. Visit Japan Web nur über die offizielle Seite der Digital Agency nutzen, es kursieren Fälschungen.",
    "src": "https://www.bento.travel/japan",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe oder eingetragene Partnerschaft gibt es aber nicht, die Tokyo Rainbow Pride läuft seit Jahren ohne Zwischenfälle.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/japan-node/japansicherheit/213032",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -13909,6 +14661,30 @@
      ]
     },
     {
+     "name": "Bursa",
+     "match": [
+      "Bursa"
+     ],
+     "apps": [
+      {
+       "name": "BursaKart Mobil",
+       "cat": "transit",
+       "pkg": "com.bursakart.burulas",
+       "note": "BursaKart aufladen, Guthaben und Busfahrten prüfen",
+       "use": "limited",
+       "req": "Nur mit physischer BursaKart",
+       "src": "https://www.gazetevatan.com/sehirler/bursa/bursakart-bakiye-sorgulama-ve-online-para-yukleme-nasil-yapilir-2296895"
+      },
+      {
+       "name": "BUDO BBBUS Bilet",
+       "cat": "rail",
+       "pkg": "com.serim.burulas",
+       "note": "Seebus Bursa Istanbul buchen, QR-Code zum Einsteigen",
+       "src": "https://www.karekod.org/blog/?p=28556"
+      }
+     ]
+    },
+    {
      "name": "Istanbul",
      "match": [
       "Istanbul"
@@ -13968,7 +14744,7 @@
    "src": "https://www.bento.travel/turkey",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Pride-Veranstaltungen werden aber regelmäßig verboten und 2026 gab es Razzien sowie Sperren von Webseiten und Konten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuerkei-node/tuerkeisicherheit/201962",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -14146,6 +14922,15 @@
      "cat": "safety",
      "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984"
+    },
+    {
+     "name": "Bénin e-Visa",
+     "cat": "entry",
+     "note": "Pflicht-Visum mindestens 7 Tage vor Reise online",
+     "ess": true,
+     "url": "https://evisa.bj",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984"
     }
    ],
    "cities": [
@@ -14180,7 +14965,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar, werden in der Gesellschaft aber eher toleriert als wertgeschätzt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -14609,6 +15394,14 @@
      "use": "no",
      "req": "Gleichgeschlechtliche Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
      "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    },
+    {
+     "name": "Burundi Visa online",
+     "cat": "entry",
+     "note": "Visumantrag vorab ausfüllen, Gebühr per Kreditkarte",
+     "url": "https://migration.gov.bi/Apply/step1/2",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burundisicherheit-222614"
     }
    ],
    "cities": [
@@ -14641,7 +15434,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar (bis zu zwei Jahre Haft oder Geldstrafe), der Präsident hetzt offen gegen LGBTQ+-Personen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -15106,6 +15899,13 @@
      "cat": "safety",
      "note": "Wetter und Sturmwarnungen in der Regenzeit",
      "src": "https://caribbeanlifestyle.com/?p=20190"
+    },
+    {
+     "name": "Tropic Air",
+     "cat": "flights",
+     "pkg": "com.TropicAir.Belize",
+     "note": "Inlandsflüge zu den Cayes und nach Placencia buchen",
+     "src": "https://www.tropicair.com/?p=10569"
     }
    ],
    "cities": [
@@ -15137,7 +15937,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/belize-node/belizesicherheit/220284",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht verboten, die Akzeptanz in der Bevölkerung ist aber sehr gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/belize-node/belizesicherheit/220284",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "NA",
    "info": {
     "emergency": [
@@ -15517,6 +16317,13 @@
      "use": "no",
      "req": "Nur mit Konto bei der Bank of the FSM",
      "src": "https://play.google.com/store/apps/details?id=com.malauzai.DH12001&hl=en_US"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "pkg": "com.aa_app.ui",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678"
     }
    ],
    "cities": [
@@ -15539,7 +16346,7 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen unter Erwachsenen sind straffrei und Diskriminierung ist verboten, die gesellschaftliche Akzeptanz ist aber gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -15662,6 +16469,13 @@
      "use": "limited",
      "req": "Nur mit SIM bzw. Konto der NTA sinnvoll",
      "src": "https://apps.apple.com/us/app/mynta/id1235519526"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "pkg": "com.aa_app.ui",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400"
     }
    ],
    "cities": [
@@ -15686,7 +16500,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht verboten, Ehe und Lebenspartnerschaft werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -16230,6 +17044,21 @@
      ]
     },
     {
+     "name": "Incheon",
+     "match": [
+      "Incheon"
+     ],
+     "apps": [
+      {
+       "name": "Incheon Airport+",
+       "cat": "flights",
+       "pkg": "com.ubivelox.icairport",
+       "note": "Offizielle App des Flughafens Incheon",
+       "src": "https://airport.kr/ap_en/1416/subview.do"
+      }
+     ]
+    },
+    {
      "name": "Jeju",
      "match": [
       "Jeju"
@@ -16282,7 +17111,7 @@
    "src": "https://www.bento.travel/south-korea",
    "lgbtq_note": "Homosexuelle Handlungen sind legal, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die gesellschaftliche Akzeptanz ist eher gering.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korea-node/koreasicherheit-216132",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -16722,13 +17551,28 @@
        "src": "https://e.vnexpress.net/news/news/traffic/no-more-paper-tickets-at-4-ho-chi-minh-city-metro-stations-as-cashless-push-begins-4939300.html"
       }
      ]
+    },
+    {
+     "name": "Hue",
+     "match": [
+      "Hue"
+     ],
+     "apps": [
+      {
+       "name": "Visit Huế",
+       "cat": "tourism",
+       "pkg": "com.visithue",
+       "note": "Offizielle Touristen-App mit Audioguide und Karte",
+       "src": "https://news.huengaynay.vn/travel/launching-tourism-narration-app-a-smart-way-to-experience-heritage-146003.html"
+      }
+     ]
     }
    ],
    "note": "Deutsche reisen bis 45 Tage visumfrei ein, für längere Aufenthalte gibt es ein E-Visum bis 90 Tage über das offizielle Portal.",
    "src": "https://www.bento.travel/vietnam/ride-hailing",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die Gesellschaft gilt als eher konservativ.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -16878,6 +17722,15 @@
      "use": "no",
      "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
      "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    },
+    {
+     "name": "Cameroun e-Visa",
+     "cat": "entry",
+     "note": "Visum online beantragen, QR-Code ausgedruckt mitführen",
+     "ess": true,
+     "url": "https://evisacam.com/ords/dl_portal/r/public_portal/home",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/kamerun-node/kamerunsicherheit-208874"
     }
    ],
    "cities": [],
@@ -16885,7 +17738,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kamerunsicherheit-208874",
    "lgbtq_note": "Homosexuelle Handlungen sind nach Artikel 347 strafbar (sechs Monate bis fünf Jahre Haft), auch Ausländer werden verfolgt und Übergriffe sind häufig.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kamerunsicherheit-208874",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -17014,6 +17867,15 @@
      "use": "no",
      "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774"
+    },
+    {
+     "name": "Tchad e-Visa",
+     "cat": "entry",
+     "note": "Visum mindestens 7 Tage vor Reise online beantragen",
+     "ess": true,
+     "url": "https://evisa.td/",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tschadsicherheit-225774"
     }
    ],
    "cities": [],
@@ -17021,7 +17883,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden mit drei Monaten bis zwei Jahren Haft sowie Geldstrafe geahndet.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -17077,7 +17939,7 @@
      "src": "https://apps.apple.com/us/app/id1053092489"
     },
     {
-     "name": "BTOA Connect",
+     "name": "Journi",
      "cat": "taxi",
      "pkg": "com.BTOA_Connect",
      "note": "Taxi-App des Taxiverbands, Zahlung per App oder bar",
@@ -17087,12 +17949,6 @@
      "name": "Ride.bm",
      "cat": "taxi",
      "note": "Taxis und Fahrdienste per App, Web oder WhatsApp buchen",
-     "src": "https://www.gotobermuda.com/plan/inspiration/article/bermuda-ride-share-guide-apps-rules-new-legislation"
-    },
-    {
-     "name": "Journi",
-     "cat": "taxi",
-     "note": "Taxi- und Fahrtenbuchung mit Fahrerverfolgung",
      "src": "https://www.gotobermuda.com/plan/inspiration/article/bermuda-ride-share-guide-apps-rules-new-legislation"
     },
     {
@@ -17999,6 +18855,23 @@
      "use": "no",
      "req": "Homosexuelle Handlungen können als Sittlichkeitsverstoß mit Haft bestraft werden",
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"
+    },
+    {
+     "name": "RDC e-Visa",
+     "cat": "entry",
+     "note": "Online-Visum nur für Kurzaufenthalte bis 7 Tage",
+     "url": "https://evisa.gouv.cd/",
+     "nostore": true,
+     "use": "limited",
+     "req": "Nur bis 7 Tage und teurer, sonst Visum über Botschaft Berlin",
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"
+    },
+    {
+     "name": "Air Congo",
+     "cat": "flights",
+     "pkg": "com.aircongo.aircongo",
+     "note": "Neue Nationalairline: Buchung und Verwaltung",
+     "src": "https://allafrica.com/stories/202602270117.html"
     }
    ],
    "cities": [
@@ -18029,7 +18902,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht ausdrücklich strafbar, werden aber als Verstoß gegen die Sittlichkeit mit Haft geahndet; ein Verbotsgesetz wird debattiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -18595,7 +19468,7 @@
      "src": "https://guidetogreenland.com/explore-greenland/travel-information/useful-tools-for-travelling-in-greenland"
     },
     {
-     "name": "Northern Light Aurora Forecast",
+     "name": "Aurora Alerts",
      "cat": "tourism",
      "pkg": "com.aurora_alerts.auroraalerts",
      "note": "Polarlicht-Vorhersage mit Kp-Wert und Wetter",
@@ -19238,6 +20111,22 @@
      ]
     },
     {
+     "name": "Chongqing",
+     "match": [
+      "Chongqing"
+     ],
+     "apps": [
+      {
+       "name": "Yutongxing (渝通行)",
+       "cat": "transit",
+       "note": "Virtuelle Verkehrskarte für Metro und Bus Chongqing",
+       "use": "limited",
+       "req": "Chinesische App, Fahrcode per Alipay oft einfacher",
+       "src": "https://english.cq.gov.cn/specials/getaround/PublicTransport/CityBuses/202608/t20260807_15905586.html"
+      }
+     ]
+    },
+    {
      "name": "Guangzhou",
      "match": [
       "Guangzhou"
@@ -19327,7 +20216,7 @@
    "src": "https://www.bento.travel/china",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, ein rechtlicher Schutz fehlt aber und gleichgeschlechtliche Paare sollten sich in der Öffentlichkeit zurückhalten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/china-node/chinasicherheit-200466",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -20351,6 +21240,15 @@
      "use": "no",
      "req": "Lokale Telefonnummer, für Banking ein BGFIBank Konto nötig",
      "src": "https://appgoblin.info/apps/com.gui.app.ge"
+    },
+    {
+     "name": "Equatorial Guinea eVisa",
+     "cat": "entry",
+     "note": "eVisum für Einreise per Flugzeug online beantragen",
+     "ess": true,
+     "url": "https://equatorialguinea-evisa.com/",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node/aequatorialguineasicherheit-226768"
     }
    ],
    "cities": [
@@ -20381,7 +21279,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node/aequatorialguineasicherheit-226768",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, LGBTQ+ Personen werden gesellschaftlich aber stigmatisiert und sind nicht gesetzlich geschützt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aequatorialguinea-node/aequatorialguineasicherheit-226768",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -21222,6 +22120,12 @@
      "use": "limited",
      "req": "Nur mit Tigo SIM-Karte sinnvoll",
      "src": "https://apps.apple.com/hn/app/mi-tigo-honduras/id925903504"
+    },
+    {
+     "name": "Galaxy Wave App",
+     "cat": "rail",
+     "note": "Fähre La Ceiba, Roatán, Utila, Guanaja (nur iPhone)",
+     "src": "https://apps.apple.com/mx/app/galaxy-wave-app/id6746731402"
     }
    ],
    "cities": [],
@@ -21229,7 +22133,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/honduras-node/hondurassicherheit-221078",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1899 legal, die Verfassung verbietet aber die gleichgeschlechtliche Ehe und Gewalt gegen LGBTQ+ Menschen ist häufig.",
    "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Honduras",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "NA",
    "info": {
     "emergency": [
@@ -21584,6 +22488,13 @@
      "cat": "transit",
      "note": "Web-Fahrtplaner der Nationalbusse Koror und Babeldaob",
      "src": "https://pristineparadisepalau.com/happenings/palau-launches-phase-2-of-public-bus-service-expanding-connectivity-and-accessibility/"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "pkg": "com.aa_app.ui",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958"
     }
    ],
    "cities": [
@@ -21609,7 +22520,7 @@
    "src": "https://pristineparadisepalau.com/travelers-tips/",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, werden laut Auswärtigem Amt gesellschaftlich aber nicht überall akzeptiert.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -21894,6 +22805,40 @@
    ],
    "cities": [
     {
+     "name": "Agra",
+     "match": [
+      "Agra"
+     ],
+     "apps": [
+      {
+       "name": "Agra Metro (Official)",
+       "cat": "transit",
+       "pkg": "com.upmetrorail.agradigitalticketing",
+       "note": "QR-Tickets für die Metro zum Taj Mahal",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://play.google.com/store/apps/details?id=com.upmetrorail.agradigitalticketing&hl=en&gl=IN"
+      }
+     ]
+    },
+    {
+     "name": "Ahmedabad",
+     "match": [
+      "Ahmedabad"
+     ],
+     "apps": [
+      {
+       "name": "Ahmedabad Metro (Official)",
+       "cat": "transit",
+       "pkg": "com.gujaratmetrorail.gmrcamddigitalticketing",
+       "note": "QR-Tickets für die Metro, Zahlung per UPI oder Karte",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://deshgujarat.com/2025/01/18/gmrc-launches-ahmedabad-metro-mobile-app-for-ios-users-for-online-ticket-booking"
+      }
+     ]
+    },
+    {
      "name": "Bengaluru",
      "match": [
       "Bengaluru"
@@ -21905,6 +22850,23 @@
        "pkg": "com.aum.nammametro",
        "note": "Offizielle Metro App mit QR Tickets",
        "src": "https://apps.apple.com/in/app/namma-metro-bmrcl-official-app/id6740857835"
+      }
+     ]
+    },
+    {
+     "name": "Bhubaneswar",
+     "match": [
+      "Bhubaneswar"
+     ],
+     "apps": [
+      {
+       "name": "CRUT Ama Bus",
+       "cat": "transit",
+       "pkg": "com.chalo.crut",
+       "note": "Stadtbusse Bhubaneswar und Puri: Live und E-Tickets",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://www.capitalregiontransport.in/know-moreriders-services"
       }
      ]
     },
@@ -21963,6 +22925,39 @@
      ]
     },
     {
+     "name": "Hyderabad",
+     "match": [
+      "Hyderabad"
+     ],
+     "apps": [
+      {
+       "name": "TSavaari",
+       "cat": "transit",
+       "pkg": "com.minfy.tsavaari",
+       "note": "Offizielle Metro-App, QR-Tickets und Kartenaufladung",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://www.siasat.com/hyderabad-metro-upgrades-t-savaari-app-enhances-passenger-experience-3200962/amp/"
+      }
+     ]
+    },
+    {
+     "name": "Kochi",
+     "match": [
+      "Kochi"
+     ],
+     "apps": [
+      {
+       "name": "Kochi1",
+       "cat": "transit",
+       "note": "Offizielle Metro-App, QR-Tickets per Karte oder UPI",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://a2622016.axisbank.com/docs/default-source/default-document-library/kmrl-axis-bank-kochi1-app-faqs.pdf"
+      }
+     ]
+    },
+    {
      "name": "Kolkata",
      "match": [
       "Kolkata"
@@ -21975,6 +22970,23 @@
        "use": "limited",
        "req": "Ob eine ausländische Nummer und Karte gehen, ist unklar",
        "src": "https://www.theweek.in/wire-updates/national/2025/08/30/ces21-wb-metro-app-response.html"
+      }
+     ]
+    },
+    {
+     "name": "Lucknow",
+     "match": [
+      "Lucknow"
+     ],
+     "apps": [
+      {
+       "name": "Lucknow Metro (Official)",
+       "cat": "transit",
+       "pkg": "com.prod.upmrc_lucknow",
+       "note": "QR-Tickets für die Metro Lucknow buchen",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://www.indiatvnews.com/uttar-pradesh/lucknow-metro-launches-qr-based-ticketing-system-know-how-it-works-and-other-details-2026-02-16-1030520"
       }
      ]
     },
@@ -21992,13 +23004,39 @@
        "src": "https://www.theweek.in/wire-updates/national/2025/10/08/bes22-mh-app-mumbai-one.html"
       }
      ]
+    },
+    {
+     "name": "Pune",
+     "match": [
+      "Pune"
+     ],
+     "apps": [
+      {
+       "name": "Pune Metro (Official App)",
+       "cat": "transit",
+       "pkg": "org.mahametro.punemobileapp",
+       "note": "QR-Tickets, Fahrpreise und Infos zur Metro Pune",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://www.punemetrorail.org/download/Maha-Metros-Pune-Metro-Mobile-App-For-Seamless-Travel-And-Contactless-Ticketing.pdf"
+      },
+      {
+       "name": "Apli PMPML",
+       "cat": "transit",
+       "pkg": "in.chartr.pmpml",
+       "note": "Stadtbusse Pune: Livekarte, Tickets und Tagespässe",
+       "use": "limited",
+       "req": "Anmeldung per OTP, meist indische Nummer nötig",
+       "src": "https://www.thebridgechronicle.com/news/aapli-pmpml-app-turns-one-digital-bus-ticketing-growth-challenges"
+      }
+     ]
     }
    ],
    "note": "Paytm- und Google-Pay-Konten funktionieren für Besucher meist nicht; Bargeld und funktionierende physische Karten mitnehmen.",
    "src": "https://www.bento.travel/india",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, wegen geringer gesellschaftlicher Akzeptanz wird Zurückhaltung in der Öffentlichkeit empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/indiensicherheit/205998",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -22650,6 +23688,15 @@
      "use": "no",
      "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
      "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    },
+    {
+     "name": "Visa Guinée (PAF)",
+     "cat": "entry",
+     "note": "Visum vorab online bei der Grenzpolizei beantragen",
+     "ess": true,
+     "url": "https://www.paf.gov.gn/visa",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098"
     }
    ],
    "cities": [
@@ -22672,7 +23719,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar (sechs Monate bis drei Jahre Haft und Geldstrafe).",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -22782,7 +23829,7 @@
      "src": "https://apps.apple.com/app/id6743645138"
     },
     {
-     "name": "MoMo (Lonestar Cell MTN)",
+     "name": "MyMTN Liberia",
      "cat": "payment",
      "pkg": "com.mtn.mtnlir3",
      "note": "Mobile Money von MTN, Zahlen per QR-Code",
@@ -22986,7 +24033,7 @@
     {
      "name": "inDrive",
      "cat": "taxi",
-     "note": "Erlaubt, laut bento wegen Sicherheitsfällen nicht empfohlen",
+     "note": "Erlaubt, wegen Sicherheitsvorfällen aber nicht empfohlen",
      "src": "https://www.bento.travel/jamaica/ride-hailing"
     },
     {
@@ -26457,7 +27504,7 @@
     {
      "name": "Nigeria e-Visa",
      "cat": "entry",
-     "note": "Offizielles Portal evisa.immigration.gov.ng, Erteilung in etwa 48 Stunden",
+     "note": "Offizielles Portal evisa.immigration.gov.ng, Visum in ca. 48 h",
      "ess": true,
      "req": "Vor der Reise beantragen, Visum mit QR-Code mitführen",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/nigeria-node/nigeriasicherheit/205788"
@@ -26701,6 +27748,23 @@
    ],
    "cities": [
     {
+     "name": "Saint-Denis",
+     "match": [
+      "Saint-Denis"
+     ],
+     "apps": [
+      {
+       "name": "M-ticket Citalis",
+       "cat": "transit",
+       "pkg": "com.actoll.tpass.citalis",
+       "note": "Bustickets für Citalis in Saint-Denis kaufen und entwerten",
+       "use": "limited",
+       "req": "Konto in der App und Bankkarte nötig",
+       "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.citalis"
+      }
+     ]
+    },
+    {
      "name": "Saint-Paul",
      "match": [
       "Saint-Paul"
@@ -26742,7 +27806,7 @@
    "src": "https://en.reunion.fr/organize/holiday-tips/questions-answers/transport-on-the-island/",
    "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -28327,7 +29391,7 @@
     },
     {
      "name": "JESR",
-     "cat": "rail",
+     "cat": "misc",
      "pkg": "com.kfca.sa.jesr",
      "note": "Offizielle App des King Fahd Causeway für Wartezeiten und Maut",
      "use": "limited",
@@ -29022,6 +30086,33 @@
      "use": "limited",
      "req": "Gesellschaftliche Ablehnung, große Diskretion geboten",
      "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500"
+    },
+    {
+     "name": "Sierra Leone eVisa",
+     "cat": "entry",
+     "note": "eVisum vorab online beantragen und bezahlen",
+     "ess": true,
+     "url": "https://evisa.sl",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500"
+    },
+    {
+     "name": "Securipass",
+     "cat": "entry",
+     "note": "Sicherheitsgebühr 25 USD für Flugreisende vorab zahlen",
+     "ess": true,
+     "url": "https://securipass.sl/",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500"
+    },
+    {
+     "name": "Gesundheitserklärung (NPHA)",
+     "cat": "entry",
+     "note": "Online-Gesundheitserklärung binnen 72 Std. vor Reise",
+     "ess": true,
+     "url": "https://poep.npha.gov.sl/",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500"
     }
    ],
    "cities": [
@@ -29063,7 +30154,7 @@
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
    "lgbtq_note": "Männliche homosexuelle Handlungen sind formal strafbar, das Gesetz wird kaum angewendet; Homosexualität stößt aber auf breite Ablehnung.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -29944,7 +31035,7 @@
     },
     {
      "name": "Moovit",
-     "cat": "maps",
+     "cat": "transit",
      "note": "Routenplanung für Bus und Bahn",
      "src": "https://www.bento.travel/serbia/transit"
     },
@@ -31032,10 +32123,10 @@
      "req": "Bankkarte in der Bolt App hinterlegen"
     },
     {
-     "name": "Uber AZ",
+     "name": "Heetch AZ",
      "cat": "taxi",
      "pkg": "com.mlubv.uber.az",
-     "note": "Eigene Uber App für Aserbaidschan, die normale Uber App geht nicht",
+     "note": "Fahrten und Lieferungen in Aserbaidschan, eigene lokale App",
      "ess": true,
      "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"
     },
@@ -31432,7 +32523,7 @@
     {
      "name": "Cambodia eVisa",
      "cat": "entry",
-     "note": "Offizielle Website für das E-Visum, mindestens zwei Wochen vorher beantragen",
+     "note": "Offizielles E-Visum online, zwei Wochen vorher beantragen",
      "ess": true,
      "src": "https://www.bento.travel/cambodia"
     },
@@ -31793,6 +32884,23 @@
    ],
    "cities": [
     {
+     "name": "Hargeisa",
+     "match": [
+      "Hargeisa"
+     ],
+     "apps": [
+      {
+       "name": "Dhaweeye",
+       "cat": "taxi",
+       "pkg": "com.dhaweeye.client",
+       "note": "Taxi per App in Hargeisa, ähnlich wie Uber",
+       "use": "limited",
+       "req": "Lokale Telefonnummer vermutlich nötig, Bargeld bereithalten",
+       "src": "https://www.euaa.europa.eu/coi/somalia/2025/country-focus/22-hargeisa/222-mobility-and-accessibility"
+      }
+     ]
+    },
+    {
      "name": "Mogadishu",
      "match": [
       "Mogadishu"
@@ -31813,7 +32921,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
    "lgbtq_note": "Homosexuelle Handlungen sind verboten und werden streng bestraft, bis hin zur Todesstrafe.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/somalia-node/somaliasicherheit-203132",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -31988,6 +33096,13 @@
      "use": "no",
      "req": "Homosexuelle Handlungen strafbar, bis zu drei Jahre Haft möglich",
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"
+    },
+    {
+     "name": "ASKY",
+     "cat": "flights",
+     "pkg": "com.askymobileapp.askyairlines",
+     "note": "Regionalairline mit Drehkreuz Lomé, rund 30 Ziele",
+     "src": "https://www.togofirst.com/en/transport/0508-16872-lome-to-nouakchott-asky-airlines-expands-network-with-30th-route-in-africa"
     }
    ],
    "cities": [
@@ -32039,7 +33154,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu drei Jahren Haft und Geldstrafe geahndet werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -32368,6 +33483,13 @@
      "cat": "delivery",
      "note": "Essen bei färöischen Restaurants vorbestellen",
      "src": "https://apps.apple.com/at/app/skaffa/id6444051786?l=en-GB"
+    },
+    {
+     "name": "SSL Booking",
+     "cat": "rail",
+     "note": "Fähren und Busse von Strandfaraskip online buchen",
+     "url": "https://booking.ssl.fo/Booking",
+     "src": "https://www.ssl.fo/en/news/explore-the-faroe-islands-by-public-transport"
     }
    ],
    "cities": [
@@ -32396,7 +33518,7 @@
    "src": "https://visitfaroeislands.com/en/plan-your-stay/getting-around",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/Faroe-Islands",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -34172,6 +35294,20 @@
      "cat": "flights",
      "note": "Flüge der Nationalairline buchen und einchecken",
      "src": "https://apps.apple.com/us/app/drukair/id1345535182?uo=4"
+    },
+    {
+     "name": "Tourism Bhutan",
+     "cat": "tourism",
+     "pkg": "bt.gov.tourism",
+     "note": "Offizielle Tourismus-App mit Events, Wetter, Verkehr",
+     "src": "https://bbs.bt/news/?p=209386"
+    },
+    {
+     "name": "Sicher Reisen",
+     "cat": "safety",
+     "pkg": "com.aa_app.ui",
+     "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/bhutan-node/bhutansicherheit-226702"
     }
    ],
    "cities": [
@@ -34202,7 +35338,7 @@
    "src": "https://bhutan.travel/visa",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2021 nicht mehr strafbar, eine offene Szene gibt es kaum, Zurückhaltung in der Öffentlichkeit ist ratsam.",
    "lgbtq_src": "https://www.humandignitytrust.org/news/kings-assent-leads-himalayan-nation-of-bhutan-to-become-latest-country-to-decriminalise-same-sex-activity/",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -34763,14 +35899,44 @@
      "pkg": "no.avinor.avinorflights",
      "note": "Abflug, Gate, Sicherheitskontrolle und Gepäckband",
      "src": "https://www.avinor.no/en/practical-info/app"
+    },
+    {
+     "name": "Yr",
+     "cat": "safety",
+     "pkg": "no.nrk.yr",
+     "note": "Norwegischer Wetterdienst, auch für Svalbard",
+     "src": "https://en.visitsvalbard.com/visitor-information/faq"
+    },
+    {
+     "name": "Aurora Forecast 3D",
+     "cat": "tourism",
+     "pkg": "com.embarcadero.AuroraForecast3D",
+     "note": "Nordlicht-Vorhersage, von Visit Svalbard empfohlen",
+     "src": "https://en.visitsvalbard.com/visitor-information/faq"
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Longyearbyen",
+     "match": [
+      "Longyearbyen"
+     ],
+     "apps": [
+      {
+       "name": "Longyearbyen innbygger",
+       "cat": "safety",
+       "pkg": "no.lokalstyre.app",
+       "note": "Gemeinde-App mit Flugzeiten und Lawinenwarnung",
+       "src": "https://www.lokalstyre.no/engelsk/longyearbyen-local-council/services/resident-information/new-in-longyearbyen"
+      }
+     ]
+    }
+   ],
    "note": "Private Touren außerhalb des freien Reisegebiets mindestens vier Wochen vorher beim Sysselmesteren beantragen.",
    "src": "https://www.sysselmesteren.no/en/travel-in-svalbard/application-and-registration-requirement-for-trips-to-svalbard/",
    "lgbtq_note": "Es gilt norwegisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2009, Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/svalbard",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "currency": [
@@ -35425,6 +36591,20 @@
      "cat": "rail",
      "note": "Fährbuchung und digitale Bordkarte, Fähren halten in Mariehamn",
      "src": "https://sourceforge.net/app/viking-line/android/"
+    },
+    {
+     "name": "Matkahuolto Matkat",
+     "cat": "rail",
+     "pkg": "com.kyyti.ride.matkahuolto",
+     "note": "Fährtickets von Viking Line nach Åland plus Busse",
+     "src": "https://www.matkahuolto.fi/news/one-app-for-public-transport-plan-every-trip-with-the-matkat-app"
+    },
+    {
+     "name": "Ålandstrafiken",
+     "cat": "rail",
+     "note": "Schärenfähren und Busse online buchen, mit QR-Code",
+     "url": "https://www.alandstrafiken.ax/",
+     "src": "https://www.aland.com/en/artikel/discover-aland-with-alandstrafiken"
     }
    ],
    "cities": [
@@ -35455,7 +36635,7 @@
    "src": "https://visitaland.com/?p=17161",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/aland",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -36488,13 +37668,28 @@
        "src": "https://apps.apple.com/us/app/bethlehem-gate/id1644048648"
       }
      ]
+    },
+    {
+     "name": "Ramallah",
+     "match": [
+      "Ramallah"
+     ],
+     "apps": [
+      {
+       "name": "Visit Ramallah",
+       "cat": "tourism",
+       "pkg": "com.intertech.visitramallah",
+       "note": "Sehenswertes, Wanderwege und Kultur in Ramallah",
+       "src": "https://play.google.com/store/apps/details?id=com.intertech.visitramallah&hl=en&gl=US"
+      }
+     ]
     }
    ],
    "note": "Reisewarnung fürs Westjordanland; Einreise mit CoGAT-Genehmigung über Jordanien, israelische Mietwagen dort nicht versichert.",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar und gesellschaftlich ein Tabu, Fälle gegen Ausländer sind bisher nicht bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "plugs": [
