@@ -48,6 +48,10 @@ Die GitHub Action „Store-Prüfung“ ruft jeden Montag alle Paketnamen bei Goo
 
 Die GitHub Action „iPhone-Apps zuordnen“ sucht zu jeder App die iPhone-Version über die Apple-Suche (`tools/ios_ids.py`, bis zu 1200 Apps pro Tag) und schreibt sie nach `info/ios.json`. Zugeordnet wird nur, wenn Bundle-ID gleich Paketname ist oder Name und Anbieter (laut Google Play) zusammenpassen. `merge_raw.py` setzt daraus `"ios": <App-Store-ID>` an jeder App. Apps ohne Treffer stehen mit `"id": 0` drin und werden nach 30 Tagen neu gesucht. Eine falsche Zuordnung von Hand in `info/ios.json` auf `"id": 0, "fix": true` setzen (oder die richtige ID mit `"fix": true`). `ios` nie in `raw/` eintragen.
 
+## Feiertage und Stadt-Koordinaten (automatisch)
+
+Dieselbe tägliche Action lädt einmal pro Woche die gesetzlichen Feiertage aller Länder für dieses und nächstes Jahr (`tools/feiertage.py`, Quelle date.nager.at, nach `info/feiertage.json`) und sucht Koordinaten für neue Städte (`tools/city_geo.py`, Open-Meteo/GeoNames CC BY 4.0, nach `info/stadt-koordinaten.json`). `merge_raw.py` setzt daraus `info.holidays` (ab gestern etwa 400 Tage) und `ll` an jeder Stadt. Falsche Koordinaten von Hand in `info/stadt-koordinaten.json` korrigieren. Nichts davon in `raw/` eintragen.
+
 ## Weltweite Apps (Land „WW“)
 
 Apps unter `WW` erscheinen in der App zusätzlich bei jedem Land, in dem sie funktionieren:

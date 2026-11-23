@@ -208,7 +208,7 @@ def merge(data, code, raw):
 
 
 def add_continents_and_info(data):
-    """Setzt "cont" (Kontinent aus queue/*.json), "info" (info/wikidata.json + info/trinkgeld.json) und "ios" je App (info/ios.json)."""
+    """Setzt "cont" (Kontinent aus queue/*.json), "info" (info/wikidata.json + info/trinkgeld.json) "ios" je App (info/ios.json), Feiertage (info/feiertage.json) und Stadt-Koordinaten "ll" (info/stadt-koordinaten.json)."""
     cont = {}
     for f in glob.glob(os.path.join(HERE, "queue", "*.json")):
         q = json.load(open(f, encoding="utf-8"))
@@ -222,6 +222,14 @@ def add_continents_and_info(data):
 
     wd = load("wikidata.json")
     tips = load("trinkgeld.json")
+    hol = load("feiertage.json")  # tools/feiertage.py, Quelle date.nager.at
+    import datetime as _dt
+    h_from = (_dt.date.today() - _dt.timedelta(days=2)).isoformat()
+    h_to = (_dt.date.today() + _dt.timedelta(days=400)).isoformat()
+    geo = {}
+    gp = os.path.join(HERE, "info", "stadt-koordinaten.json")
+    if os.path.exists(gp):
+        geo = json.load(open(gp, encoding="utf-8")).get("cities", {})
     for c in data["countries"]:
         code = c["code"]
         if code in cont:
@@ -231,6 +239,16 @@ def add_continents_and_info(data):
         if t and t.get("tip"):
             info["tip"] = t["tip"]
             info["tip_src"] = t.get("src", "")
+        hl = [h for h in hol.get(code, []) if h_from <= h["d"] <= h_to]
+        if hl:
+            info["holidays"] = hl
+            info["holidays_src"] = "https://date.nager.at"
+        for ci in c.get("cities", []):
+            ll = geo.get(code + "|" + ci["name"])
+            if ll:
+                ci["ll"] = ll
+            else:
+                ci.pop("ll", None)
         if info:
             c["info"] = info
         else:
