@@ -1,10 +1,10 @@
 {
     "app":  "PinRate",
     "pkg":  "app.roamrate",
-    "versionCode":  7,
-    "versionName":  "1.6",
+    "versionCode":  8,
+    "versionName":  "1.7",
     "url":  "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/PinRate.apk",
-    "sha256":  "c39f63761345b64e90df209f8bbeacc20d71773b7e58d9504b900eae0c08e92a",
-    "notes":  "Neue Versionen werden jetzt im Browser geladen. Danach die Datei antippen und installieren.",
+    "sha256":  "3aa9e38d39993fead42b2917c482cd58e554b7112784d774ad057af027f9dea5",
+    "notes":  "Neu: ☕ Unterstützen in den Einstellungen. Ganz freiwillig, alle Funktionen bleiben für alle frei.",
     "date":  "2026-11-23"
 }
