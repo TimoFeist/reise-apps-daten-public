@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 13:30",
+ "version": "2026-11-23 13:39",
  "categories": [
   {
    "id": "entry",
@@ -60287,6 +60287,18 @@
    "lc": "Melbourne"
   },
   {
+   "name": "Auckland Pride Festival",
+   "city": "Auckland",
+   "cc": "NZ",
+   "lat": -36.849,
+   "lon": 174.763,
+   "start": "2027-02-01",
+   "end": "2027-02-28",
+   "month": 2,
+   "url": "https://aucklandpride.org.nz",
+   "lc": "Auckland"
+  },
+  {
    "name": "Cape Town Pride",
    "city": "Cape Town",
    "cc": "ZA",
@@ -60301,6 +60313,55 @@
     "Kapstadt"
    ],
    "lc": "Cape Town"
+  },
+  {
+   "name": "TasPride Parade & Party in the Park",
+   "city": "Hobart",
+   "cc": "AU",
+   "lat": -42.882,
+   "lon": 147.327,
+   "start": "2027-02-13",
+   "end": "2027-02-13",
+   "month": 2,
+   "url": "https://www.taspride.com/",
+   "last": "2026-02-14"
+  },
+  {
+   "name": "Geelong Rainbow Festival Pride March",
+   "city": "Geelong",
+   "cc": "AU",
+   "lat": -38.147,
+   "lon": 144.361,
+   "start": "2027-02-20",
+   "end": "2027-02-20",
+   "month": 2,
+   "url": "https://geelongrainbow.org.au/",
+   "last": "2026-02-07"
+  },
+  {
+   "name": "ChillOut Festival Street Parade",
+   "city": "Daylesford",
+   "cc": "AU",
+   "lat": -37.345,
+   "lon": 144.147,
+   "start": "2027-02-27",
+   "end": "2027-03-08",
+   "month": 2,
+   "url": "https://chilloutfestival.au/",
+   "last": "2026-03-08"
+  },
+  {
+   "name": "Wellington Pride Festival",
+   "city": "Wellington",
+   "cc": "NZ",
+   "lat": -41.286,
+   "lon": 174.776,
+   "start": "2027-03-05",
+   "end": "2027-03-21",
+   "month": 3,
+   "url": "https://www.wellingtonpridefestival.com",
+   "last": "2026-03-21",
+   "lc": "Wellington"
   },
   {
    "name": "Sydney Gay and Lesbian Mardi Gras",
@@ -60324,6 +60385,18 @@
    "end": "2027-03-27",
    "month": 3,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
+  },
+  {
+   "name": "Miami Beach Pride",
+   "city": "Miami",
+   "cc": "US",
+   "lat": 25.79,
+   "lon": -80.13,
+   "start": "2027-04-10",
+   "end": "2027-04-11",
+   "month": 4,
+   "url": "https://www.miamibeachpride.com",
+   "lc": "Miami"
   },
   {
    "name": "CSD Schönebeck",
@@ -60420,6 +60493,60 @@
    "lc": "Amsterdam"
   },
   {
+   "name": "CSD Dresden",
+   "city": "Dresden",
+   "cc": "DE",
+   "lat": 51.051,
+   "lon": 13.738,
+   "start": "2027-05-27",
+   "end": "2027-05-29",
+   "month": 5,
+   "url": "https://csd-dresden.de",
+   "last": "2026-06-04",
+   "lc": "Dresden"
+  },
+  {
+   "name": "Birmingham Pride",
+   "city": "Birmingham",
+   "cc": "GB",
+   "lat": 52.486,
+   "lon": -1.89,
+   "start": "2027-05-28",
+   "end": "2027-05-30",
+   "month": 5,
+   "url": "https://birminghampride.com",
+   "last": "2026-05-23",
+   "lc": "Birmingham"
+  },
+  {
+   "name": "Bergen Pride",
+   "city": "Bergen",
+   "cc": "NO",
+   "lat": 60.392,
+   "lon": 5.324,
+   "start": "2027-05-28",
+   "end": "2027-06-05",
+   "month": 5,
+   "url": "https://bergenpride.no",
+   "lc": "Bergen"
+  },
+  {
+   "name": "CSD Düsseldorf",
+   "city": "Düsseldorf",
+   "cc": "DE",
+   "lat": 51.228,
+   "lon": 6.774,
+   "start": "2027-05-29",
+   "end": "2027-05-29",
+   "month": 5,
+   "url": "https://www.csd-d.de/de/",
+   "last": "2026-06-04",
+   "alt": [
+    "Dusseldorf"
+   ],
+   "lc": "Düsseldorf"
+  },
+  {
    "name": "CSD Gütersloh",
    "city": "Gütersloh",
    "cc": "DE",
@@ -60429,6 +60556,47 @@
    "end": "2027-05-29",
    "month": 5,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
+  },
+  {
+   "name": "Parada do Orgulho LGBT+ de São Paulo",
+   "city": "Sao Paulo",
+   "cc": "BR",
+   "lat": -23.551,
+   "lon": -46.633,
+   "start": "2027-05-30",
+   "end": "2027-05-30",
+   "month": 5,
+   "url": "https://www.paradasp.org.br",
+   "last": "2026-06-07",
+   "alt": [
+    "São Paulo"
+   ],
+   "lc": "Sao Paulo"
+  },
+  {
+   "name": "Pittsburgh Pride",
+   "city": "Pittsburgh",
+   "cc": "US",
+   "lat": 40.441,
+   "lon": -79.996,
+   "start": "2027-06-04",
+   "end": "2027-06-06",
+   "month": 6,
+   "url": "https://pittsburghpride.com",
+   "last": "2026-06-07",
+   "lc": "Pittsburgh"
+  },
+  {
+   "name": "Winnipeg Pride Parade",
+   "city": "Winnipeg",
+   "cc": "CA",
+   "lat": 49.895,
+   "lon": -97.138,
+   "start": "2027-06-04",
+   "end": "2027-06-06",
+   "month": 6,
+   "url": "https://www.pridewinnipeg.com/",
+   "last": "2026-06-07"
   },
   {
    "name": "CSD Karlsruhe",
@@ -60483,6 +60651,18 @@
    "lc": "Tokio"
   },
   {
+   "name": "Dallas Pride",
+   "city": "Dallas",
+   "cc": "US",
+   "lat": 32.777,
+   "lon": -96.797,
+   "start": "2027-06-05",
+   "end": "2027-06-05",
+   "month": 6,
+   "url": "https://www.dallaspride.org",
+   "lc": "Dallas"
+  },
+  {
    "name": "CSD Wernigerode (CSD Harz)",
    "city": "Wernigerode",
    "cc": "DE",
@@ -60492,6 +60672,18 @@
    "end": "2027-06-05",
    "month": 5,
    "url": "https://csd-sachsenanhalt.de/csd-harz",
+   "last": "2026-05-30"
+  },
+  {
+   "name": "York Pride",
+   "city": "York",
+   "cc": "GB",
+   "lat": 53.959,
+   "lon": -1.082,
+   "start": "2027-06-05",
+   "end": "2027-06-05",
+   "month": 6,
+   "url": "https://yorkpride.org.uk",
    "last": "2026-05-30"
   },
   {
@@ -60507,6 +60699,49 @@
    "last": "2026-05-30"
   },
   {
+   "name": "Pride in the CLE",
+   "city": "Cleveland",
+   "cc": "US",
+   "lat": 41.499,
+   "lon": -81.694,
+   "start": "2027-06-05",
+   "end": "2027-06-05",
+   "month": 6,
+   "url": "https://prideinthecle.org",
+   "last": "2026-06-06"
+  },
+  {
+   "name": "West Pride Göteborg",
+   "city": "Göteborg",
+   "cc": "SE",
+   "lat": 57.709,
+   "lon": 11.975,
+   "start": "2027-06-07",
+   "end": "2027-06-13",
+   "month": 6,
+   "url": "https://www.westpride.se",
+   "alt": [
+    "Goteborg",
+    "Gothenburg"
+   ],
+   "lc": "Göteborg"
+  },
+  {
+   "name": "Zurich Pride",
+   "city": "Zürich",
+   "cc": "CH",
+   "lat": 47.377,
+   "lon": 8.541,
+   "start": "2027-06-11",
+   "end": "2027-06-12",
+   "month": 6,
+   "url": "https://zurichpridefestival.ch",
+   "alt": [
+    "Zurich"
+   ],
+   "lc": "Zürich"
+  },
+  {
    "name": "CSD Augsburg",
    "city": "Augsburg",
    "cc": "DE",
@@ -60516,6 +60751,18 @@
    "end": "2027-06-12",
    "month": 6,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
+  },
+  {
+   "name": "CSD Bielefeld",
+   "city": "Bielefeld",
+   "cc": "DE",
+   "lat": 52.021,
+   "lon": 8.532,
+   "start": "2027-06-12",
+   "end": "2027-06-12",
+   "month": 6,
+   "url": "https://csd-bielefeld.de/",
+   "last": "2026-06-13"
   },
   {
    "name": "CSD Emden",
@@ -60644,6 +60891,42 @@
    "last": "2026-06-13"
   },
   {
+   "name": "Motor City Pride",
+   "city": "Detroit",
+   "cc": "US",
+   "lat": 42.331,
+   "lon": -83.046,
+   "start": "2027-06-12",
+   "end": "2027-06-13",
+   "month": 6,
+   "url": "https://www.motorcitypride.org",
+   "last": "2026-06-07"
+  },
+  {
+   "name": "Aurora Pride Parade",
+   "city": "Aurora",
+   "cc": "US",
+   "lat": 41.76,
+   "lon": -88.32,
+   "start": "2027-06-13",
+   "end": "2027-06-13",
+   "month": 6,
+   "url": "https://aurorapride.org",
+   "last": "2026-06-14"
+  },
+  {
+   "name": "Oslo Pride",
+   "city": "Oslo",
+   "cc": "NO",
+   "lat": 59.914,
+   "lon": 10.752,
+   "start": "2027-06-16",
+   "end": "2027-06-26",
+   "month": 6,
+   "url": "https://oslopride.no",
+   "lc": "Oslo"
+  },
+  {
    "name": "EuroPride 2027 Torino / Torino Pride",
    "city": "Turin",
    "cc": "IT",
@@ -60657,6 +60940,18 @@
     "Torino"
    ],
    "lc": "Turin"
+  },
+  {
+   "name": "Linz Pride",
+   "city": "Linz",
+   "cc": "AT",
+   "lat": 48.306,
+   "lon": 14.286,
+   "start": "2027-06-19",
+   "end": "2027-06-19",
+   "month": 6,
+   "url": "https://www.linzpride.at",
+   "lc": "Linz"
   },
   {
    "name": "CSD Herne",
@@ -60716,6 +61011,46 @@
    "last": "2026-06-20"
   },
   {
+   "name": "Iowa City Pride Festival & Parade",
+   "city": "Iowa City",
+   "cc": "US",
+   "lat": 41.661,
+   "lon": -91.53,
+   "start": "2027-06-19",
+   "end": "2027-06-19",
+   "month": 6,
+   "url": "https://www.iowacitypride.org",
+   "last": "2026-06-20"
+  },
+  {
+   "name": "Thessaloniki Pride",
+   "city": "Thessaloniki",
+   "cc": "GR",
+   "lat": 40.64,
+   "lon": 22.944,
+   "start": "2027-06-22",
+   "end": "2027-06-26",
+   "month": 6,
+   "url": "https://thessalonikipride.com",
+   "last": "2026-06-20",
+   "alt": [
+    "Saloniki"
+   ],
+   "lc": "Thessaloniki"
+  },
+  {
+   "name": "Dublin LGBTQ+ Pride",
+   "city": "Dublin",
+   "cc": "IE",
+   "lat": 53.35,
+   "lon": -6.26,
+   "start": "2027-06-23",
+   "end": "2027-06-27",
+   "month": 6,
+   "url": "https://dublinpride.ie",
+   "lc": "Dublin"
+  },
+  {
    "name": "Twin Cities Pride",
    "city": "Minneapolis",
    "cc": "US",
@@ -60738,6 +61073,34 @@
    "month": 6,
    "url": "https://www.pridegroningen.nl",
    "last": "2026-06-20"
+  },
+  {
+   "name": "Pride Graz",
+   "city": "Graz",
+   "cc": "AT",
+   "lat": 47.071,
+   "lon": 15.439,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
+   "month": 6,
+   "url": "https://www.csd-graz.at/",
+   "lc": "Graz"
+  },
+  {
+   "name": "Basel Pride",
+   "city": "Basel",
+   "cc": "CH",
+   "lat": 47.56,
+   "lon": 7.589,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
+   "month": 6,
+   "url": "https://www.baselpride.ch",
+   "alt": [
+    "Basle",
+    "Bâle"
+   ],
+   "lc": "Basel"
   },
   {
    "name": "CSD Hanau",
@@ -60790,6 +61153,60 @@
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
   },
   {
+   "name": "Houston Pride Celebration",
+   "city": "Houston",
+   "cc": "US",
+   "lat": 29.76,
+   "lon": -95.37,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
+   "month": 6,
+   "url": "https://pridehouston.org",
+   "last": "2025-06-28",
+   "lc": "Houston"
+  },
+  {
+   "name": "San Francisco Pride",
+   "city": "San Francisco",
+   "cc": "US",
+   "lat": 37.775,
+   "lon": -122.419,
+   "start": "2027-06-26",
+   "end": "2027-06-27",
+   "month": 6,
+   "url": "https://www.sfpride.org",
+   "last": "2025-06-29",
+   "alt": [
+    "SF"
+   ],
+   "lc": "San Francisco"
+  },
+  {
+   "name": "CNY Pride",
+   "city": "Syracuse",
+   "cc": "US",
+   "lat": 43.048,
+   "lon": -76.147,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
+   "month": 6,
+   "url": "https://www.cnypride.org",
+   "last": "2026-06-13"
+  },
+  {
+   "name": "Chicago Pride Parade",
+   "city": "Chicago",
+   "cc": "US",
+   "lat": 41.878,
+   "lon": -87.63,
+   "start": "2027-06-27",
+   "end": "2027-06-27",
+   "month": 6,
+   "url": "https://pridechicago.org",
+   "last": "2025-06-29",
+   "lc": "Chicago"
+  },
+  {
    "name": "Helsinki Pride",
    "city": "Helsinki",
    "cc": "FI",
@@ -60823,6 +61240,18 @@
    "lc": "Luxemburg-Stadt"
   },
   {
+   "name": "Pride London",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.507,
+   "lon": -0.128,
+   "start": "2027-07-03",
+   "end": "2027-07-03",
+   "month": 7,
+   "url": "https://prideinlondon.org",
+   "lc": "London"
+  },
+  {
    "name": "ColognePride (CSD Köln)",
    "city": "Köln",
    "cc": "DE",
@@ -60848,6 +61277,19 @@
    "end": "2027-07-04",
    "month": 7,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
+  },
+  {
+   "name": "Limburg Pride",
+   "city": "Hasselt",
+   "cc": "BE",
+   "lat": 50.931,
+   "lon": 5.338,
+   "start": "2027-07-04",
+   "end": "2027-07-04",
+   "month": 7,
+   "url": "https://limburgpride.be",
+   "last": "2026-07-12",
+   "lc": "Liège"
   },
   {
    "name": "Geneva Pride",
@@ -60962,6 +61404,18 @@
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
   },
   {
+   "name": "Halifax Pride (Canada Pride 2027 host)",
+   "city": "Halifax",
+   "cc": "CA",
+   "lat": 44.649,
+   "lon": -63.575,
+   "start": "2027-07-15",
+   "end": "2027-07-25",
+   "month": 7,
+   "url": "https://canadapride.ca",
+   "lc": "Halifax"
+  },
+  {
    "name": "CSD Frankfurt",
    "city": "Frankfurt am Main",
    "cc": "DE",
@@ -60988,6 +61442,19 @@
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
   },
   {
+   "name": "CSD Leipzig",
+   "city": "Leipzig",
+   "cc": "DE",
+   "lat": 51.34,
+   "lon": 12.375,
+   "start": "2027-07-17",
+   "end": "2027-07-17",
+   "month": 7,
+   "url": "https://csd-leipzig.de",
+   "last": "2026-07-18",
+   "lc": "Leipzig"
+  },
+  {
    "name": "CSD Wolfsburg",
    "city": "Wolfsburg",
    "cc": "DE",
@@ -60997,6 +61464,33 @@
    "end": "2027-07-17",
    "month": 7,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
+  },
+  {
+   "name": "Dúhový Pride Bratislava",
+   "city": "Bratislava",
+   "cc": "SK",
+   "lat": 48.149,
+   "lon": 17.107,
+   "start": "2027-07-17",
+   "end": "2027-07-17",
+   "month": 7,
+   "url": "https://www.duhovypride.sk",
+   "alt": [
+    "Pressburg"
+   ],
+   "lc": "Bratislava"
+  },
+  {
+   "name": "Leeds Pride",
+   "city": "Leeds",
+   "cc": "GB",
+   "lat": 53.8,
+   "lon": -1.549,
+   "start": "2027-07-17",
+   "end": "2027-07-18",
+   "month": 7,
+   "url": "https://www.leedspride.com",
+   "last": "2026-07-19"
   },
   {
    "name": "Roze Maandag Tilburg",
@@ -61095,6 +61589,18 @@
    "last": "2026-07-25"
   },
   {
+   "name": "Windsor-Essex Pride Fest",
+   "city": "Windsor",
+   "cc": "CA",
+   "lat": 42.317,
+   "lon": -83.035,
+   "start": "2027-07-30",
+   "end": "2027-08-08",
+   "month": 7,
+   "url": "https://www.wepridefest.com/",
+   "last": "2026-08-09"
+  },
+  {
    "name": "Innsbruck Pride",
    "city": "Innsbruck",
    "cc": "AT",
@@ -61106,6 +61612,21 @@
    "url": "https://www.pride.tirol",
    "last": "2026-07-25",
    "lc": "Innsbruck"
+  },
+  {
+   "name": "Bern Pride",
+   "city": "Bern",
+   "cc": "CH",
+   "lat": 46.948,
+   "lon": 7.447,
+   "start": "2027-07-31",
+   "end": "2027-07-31",
+   "month": 7,
+   "url": "https://bernpride.ch",
+   "alt": [
+    "Berne"
+   ],
+   "lc": "Bern"
   },
   {
    "name": "Notts Pride",
@@ -61143,6 +61664,34 @@
    "last": "2026-08-15"
   },
   {
+   "name": "Prague Pride",
+   "city": "Prag",
+   "cc": "CZ",
+   "lat": 50.075,
+   "lon": 14.438,
+   "start": "2027-08-02",
+   "end": "2027-08-08",
+   "month": 8,
+   "url": "https://www.praguepride.cz",
+   "alt": [
+    "Prague",
+    "Praha"
+   ],
+   "lc": "Prag"
+  },
+  {
+   "name": "Stockholm Pride",
+   "city": "Stockholm",
+   "cc": "SE",
+   "lat": 59.329,
+   "lon": 18.069,
+   "start": "2027-08-02",
+   "end": "2027-08-08",
+   "month": 8,
+   "url": "https://www.stockholmpride.org",
+   "lc": "Stockholm"
+  },
+  {
    "name": "CSD Hamburg (Hamburg Pride)",
    "city": "Hamburg",
    "cc": "DE",
@@ -61170,6 +61719,30 @@
    "lc": "Nürnberg"
   },
   {
+   "name": "Ann Arbor Pride",
+   "city": "Ann Arbor",
+   "cc": "US",
+   "lat": 42.281,
+   "lon": -83.743,
+   "start": "2027-08-07",
+   "end": "2027-08-07",
+   "month": 8,
+   "url": "https://www.annarborpride.com",
+   "last": "2026-08-01"
+  },
+  {
+   "name": "Fargo-Moorhead Pride",
+   "city": "Fargo",
+   "cc": "US",
+   "lat": 46.877,
+   "lon": -96.79,
+   "start": "2027-08-12",
+   "end": "2027-08-15",
+   "month": 8,
+   "url": "https://fmpride.org",
+   "last": "2026-08-09"
+  },
+  {
    "name": "CSD Bad Hersfeld",
    "city": "Bad Hersfeld",
    "cc": "DE",
@@ -61195,6 +61768,19 @@
    ]
   },
   {
+   "name": "CSD Essen",
+   "city": "Essen",
+   "cc": "DE",
+   "lat": 51.455,
+   "lon": 7.012,
+   "start": "2027-08-14",
+   "end": "2027-08-14",
+   "month": 8,
+   "url": "https://www.ruhrpride.de/",
+   "last": "2026-08-08",
+   "lc": "Düsseldorf"
+  },
+  {
    "name": "CSD Pfaffenhofen",
    "city": "Pfaffenhofen an der Ilm",
    "cc": "DE",
@@ -61204,6 +61790,22 @@
    "end": "2027-08-14",
    "month": 8,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/"
+  },
+  {
+   "name": "Copenhagen Pride",
+   "city": "Kopenhagen",
+   "cc": "DK",
+   "lat": 55.676,
+   "lon": 12.568,
+   "start": "2027-08-14",
+   "end": "2027-08-22",
+   "month": 8,
+   "url": "https://copenhagenpride.dk",
+   "alt": [
+    "Copenhagen",
+    "København"
+   ],
+   "lc": "Kopenhagen"
   },
   {
    "name": "CSD Bocholt",
@@ -61264,6 +61866,18 @@
    "url": "https://www.csd-bremen.org"
   },
   {
+   "name": "CSD Fulda",
+   "city": "Fulda",
+   "cc": "DE",
+   "lat": 50.553,
+   "lon": 9.676,
+   "start": "2027-08-28",
+   "end": "2027-08-28",
+   "month": 8,
+   "url": "https://foll-bunt.de/csd/",
+   "last": "2026-08-29"
+  },
+  {
    "name": "CSD Münster",
    "city": "Münster",
    "cc": "DE",
@@ -61273,6 +61887,18 @@
    "end": "2027-08-28",
    "month": 8,
    "url": "https://csd-muenster.de"
+  },
+  {
+   "name": "Southampton Pride",
+   "city": "Southampton",
+   "cc": "GB",
+   "lat": 50.909,
+   "lon": -1.404,
+   "start": "2027-08-28",
+   "end": "2027-08-29",
+   "month": 8,
+   "url": "https://www.southamptonpride.org",
+   "last": "2026-08-29"
   },
   {
    "name": "Pride Leiden",
@@ -61286,6 +61912,22 @@
    "url": "https://prideleiden.nl",
    "last": "2026-09-05",
    "lc": "Den Haag"
+  },
+  {
+   "name": "CSD Halle (Saale)",
+   "city": "Halle (Saale)",
+   "cc": "DE",
+   "lat": 51.482,
+   "lon": 11.97,
+   "start": "2027-09-11",
+   "end": "2027-09-11",
+   "month": 9,
+   "url": "https://csdhalle.de/",
+   "last": "2026-09-12",
+   "alt": [
+    "Halle"
+   ],
+   "lc": "Leipzig"
   },
   {
    "name": "Scarborough Pride",
@@ -61413,26 +62055,6 @@
    "url": "https://turismo.buenosaires.gob.ar/es/article/marcha-del-orgullo",
    "last": "2026-11-07",
    "lc": "Buenos Aires"
-  },
-  {
-   "name": "Pride Graz",
-   "city": "Graz",
-   "cc": "AT",
-   "lat": 47.071,
-   "lon": 15.439,
-   "month": 6,
-   "url": "https://www.regenbogenparade.at",
-   "lc": "Graz"
-  },
-  {
-   "name": "Linz Pride",
-   "city": "Linz",
-   "cc": "AT",
-   "lat": 48.306,
-   "lon": 14.286,
-   "month": 6,
-   "url": "https://www.linzpride.at",
-   "lc": "Linz"
   },
   {
    "name": "Salzburg Pride",
@@ -61619,20 +62241,6 @@
    "lc": "Salvador"
   },
   {
-   "name": "Parada do Orgulho LGBT+ de São Paulo",
-   "city": "Sao Paulo",
-   "cc": "BR",
-   "lat": -23.551,
-   "lon": -46.633,
-   "month": 6,
-   "url": "https://www.paradasp.org.br",
-   "last": "2026-06-07",
-   "alt": [
-    "São Paulo"
-   ],
-   "lc": "Sao Paulo"
-  },
-  {
    "name": "Calgary Pride",
    "city": "Calgary",
    "cc": "CA",
@@ -61641,16 +62249,6 @@
    "month": 9,
    "url": "https://calgarypride.ca",
    "lc": "Calgary"
-  },
-  {
-   "name": "Halifax Pride (Canada Pride 2027 host)",
-   "city": "Halifax",
-   "cc": "CA",
-   "lat": 44.649,
-   "lon": -63.575,
-   "month": 7,
-   "url": "https://www.halifaxpride.com",
-   "lc": "Halifax"
   },
   {
    "name": "Fierté Montréal",
@@ -61711,33 +62309,6 @@
    "lc": "Victoria"
   },
   {
-   "name": "Basel Pride",
-   "city": "Basel",
-   "cc": "CH",
-   "lat": 47.56,
-   "lon": 7.589,
-   "month": 9,
-   "url": "https://www.baselpride.ch",
-   "alt": [
-    "Basle",
-    "Bâle"
-   ],
-   "lc": "Basel"
-  },
-  {
-   "name": "Bern Pride",
-   "city": "Bern",
-   "cc": "CH",
-   "lat": 46.948,
-   "lon": 7.447,
-   "month": 8,
-   "url": "https://bernpride.ch",
-   "alt": [
-    "Berne"
-   ],
-   "lc": "Bern"
-  },
-  {
    "name": "Luzern Pride",
    "city": "Lucerne",
    "cc": "CH",
@@ -61750,19 +62321,6 @@
     "Luzern"
    ],
    "lc": "Lucerne"
-  },
-  {
-   "name": "Zurich Pride",
-   "city": "Zürich",
-   "cc": "CH",
-   "lat": 47.377,
-   "lon": 8.541,
-   "month": 6,
-   "url": "https://zurichpridefestival.ch",
-   "alt": [
-    "Zurich"
-   ],
-   "lc": "Zürich"
   },
   {
    "name": "Marcha del Orgullo Santiago",
@@ -61847,27 +62405,13 @@
    "lc": "Brno"
   },
   {
-   "name": "Prague Pride",
-   "city": "Prag",
-   "cc": "CZ",
-   "lat": 50.075,
-   "lon": 14.438,
-   "month": 8,
-   "url": "https://www.praguepride.cz",
-   "alt": [
-    "Prague",
-    "Praha"
-   ],
-   "lc": "Prag"
-  },
-  {
    "name": "CSD Aachen",
    "city": "Aachen",
    "cc": "DE",
    "lat": 50.776,
    "lon": 6.084,
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-aachen.de/",
    "last": "2026-08-28"
   },
   {
@@ -61877,18 +62421,8 @@
    "lat": 49.892,
    "lon": 10.887,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-bamberg.de/",
    "last": "2026-07-11"
-  },
-  {
-   "name": "CSD Bielefeld",
-   "city": "Bielefeld",
-   "cc": "DE",
-   "lat": 52.021,
-   "lon": 8.532,
-   "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "last": "2026-06-13"
   },
   {
    "name": "CSD Bochum",
@@ -61927,33 +62461,8 @@
    "lat": 51.514,
    "lon": 7.466,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-dortmund.de/",
    "last": "2026-09-05"
-  },
-  {
-   "name": "CSD Dresden",
-   "city": "Dresden",
-   "cc": "DE",
-   "lat": 51.051,
-   "lon": 13.738,
-   "month": 6,
-   "url": "https://csd-dresden.de",
-   "last": "2026-06-04",
-   "lc": "Dresden"
-  },
-  {
-   "name": "CSD Düsseldorf",
-   "city": "Düsseldorf",
-   "cc": "DE",
-   "lat": 51.228,
-   "lon": 6.774,
-   "month": 6,
-   "url": "https://www.csd-duesseldorf.de",
-   "last": "2026-06-04",
-   "alt": [
-    "Dusseldorf"
-   ],
-   "lc": "Düsseldorf"
   },
   {
    "name": "CSD Erfurt",
@@ -61962,7 +62471,7 @@
    "lat": 50.978,
    "lon": 11.029,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csderfurt.de/",
    "last": "2026-09-05"
   },
   {
@@ -61972,20 +62481,9 @@
    "lat": 49.597,
    "lon": 11.005,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://makeyourtownqueer.de/csd-erlangen/",
    "last": "2026-09-19",
    "lc": "Nürnberg"
-  },
-  {
-   "name": "CSD Essen",
-   "city": "Essen",
-   "cc": "DE",
-   "lat": 51.455,
-   "lon": 7.012,
-   "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "last": "2026-08-08",
-   "lc": "Düsseldorf"
   },
   {
    "name": "CSD Flensburg",
@@ -62004,22 +62502,12 @@
    "lat": 47.999,
    "lon": 7.842,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://freiburg-pride.de/",
    "last": "2026-06-20",
    "alt": [
     "Freiburg"
    ],
    "lc": "Rust (Europa-Park)"
-  },
-  {
-   "name": "CSD Fulda",
-   "city": "Fulda",
-   "cc": "DE",
-   "lat": 50.553,
-   "lon": 9.676,
-   "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "last": "2026-08-29"
   },
   {
    "name": "CSD Fürth",
@@ -62028,7 +62516,7 @@
    "lat": 49.477,
    "lon": 10.989,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://frankenpride.de/csd-fuerth/",
    "last": "2026-07-04",
    "lc": "Nürnberg"
   },
@@ -62039,7 +62527,7 @@
    "lat": 50.881,
    "lon": 12.083,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-gera.de/",
    "last": "2026-09-26"
   },
   {
@@ -62059,22 +62547,8 @@
    "lat": 51.534,
    "lon": 9.935,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-goettingen.de/",
    "last": "2026-06-20"
-  },
-  {
-   "name": "CSD Halle (Saale)",
-   "city": "Halle (Saale)",
-   "cc": "DE",
-   "lat": 51.482,
-   "lon": 11.97,
-   "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "last": "2026-09-12",
-   "alt": [
-    "Halle"
-   ],
-   "lc": "Leipzig"
   },
   {
    "name": "CSD Hannover",
@@ -62097,7 +62571,7 @@
    "lat": 49.142,
    "lon": 9.219,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csdheilbronn.de/",
    "last": "2026-07-11"
   },
   {
@@ -62117,7 +62591,7 @@
    "lat": 50.927,
    "lon": 11.589,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-jena.de/",
    "last": "2026-06-20"
   },
   {
@@ -62162,17 +62636,6 @@
    "lc": "Düsseldorf"
   },
   {
-   "name": "CSD Leipzig",
-   "city": "Leipzig",
-   "cc": "DE",
-   "lat": 51.34,
-   "lon": 12.375,
-   "month": 7,
-   "url": "https://csd-leipzig.de",
-   "last": "2026-07-18",
-   "lc": "Leipzig"
-  },
-  {
    "name": "CSD Leverkusen",
    "city": "Leverkusen",
    "cc": "DE",
@@ -62190,7 +62653,7 @@
    "lat": 53.866,
    "lon": 10.686,
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://luebeck-pride.de/",
    "last": "2026-08-14",
    "alt": [
     "Luebeck"
@@ -62203,7 +62666,7 @@
    "lat": 51.195,
    "lon": 6.443,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-mg.de/",
    "last": "2026-07-18",
    "lc": "Düsseldorf"
   },
@@ -62214,7 +62677,7 @@
    "lat": 50.095,
    "lon": 8.766,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-offenbach.de/",
    "last": "2026-09-19",
    "alt": [
     "Offenbach"
@@ -62228,7 +62691,7 @@
    "lat": 53.143,
    "lon": 8.214,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-nordwest.de/",
    "last": "2026-06-20"
   },
   {
@@ -62238,7 +62701,7 @@
    "lat": 52.279,
    "lon": 8.047,
    "month": 5,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-osnabrueck.de/",
    "last": "2026-05-30"
   },
   {
@@ -62269,7 +62732,7 @@
    "lat": 49.013,
    "lon": 12.102,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.queeresregensburg.de/csd/",
    "last": "2026-07-04"
   },
   {
@@ -62279,7 +62742,7 @@
    "lat": 54.092,
    "lon": 12.099,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-hro.de/",
    "last": "2026-07-18"
   },
   {
@@ -62309,7 +62772,7 @@
    "lat": 51.172,
    "lon": 7.083,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-solingen.de/",
    "last": "2026-07-25",
    "lc": "Düsseldorf"
   },
@@ -62320,7 +62783,7 @@
    "lat": 49.75,
    "lon": 6.637,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.schmit-z.de/verein/csd",
    "last": "2026-07-18"
   },
   {
@@ -62330,7 +62793,7 @@
    "lat": 48.521,
    "lon": 9.054,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csdtuebingen.de/",
    "last": "2026-06-21",
    "lc": "Stuttgart"
   },
@@ -62351,7 +62814,7 @@
    "lat": 51.256,
    "lon": 7.15,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-wuppertal.de/",
    "last": "2026-09-12",
    "lc": "Düsseldorf"
   },
@@ -62362,22 +62825,8 @@
    "lat": 50.719,
    "lon": 12.492,
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-zwickau.de/",
    "last": "2026-08-22"
-  },
-  {
-   "name": "Copenhagen Pride",
-   "city": "Kopenhagen",
-   "cc": "DK",
-   "lat": 55.676,
-   "lon": 12.568,
-   "month": 8,
-   "url": "https://copenhagenpride.dk",
-   "alt": [
-    "Copenhagen",
-    "København"
-   ],
-   "lc": "Kopenhagen"
   },
   {
    "name": "Marcha del Orgullo Quito",
@@ -62702,17 +63151,6 @@
    "lc": "Belfast"
   },
   {
-   "name": "Birmingham Pride",
-   "city": "Birmingham",
-   "cc": "GB",
-   "lat": 52.486,
-   "lon": -1.89,
-   "month": 5,
-   "url": "https://birminghampride.com",
-   "last": "2026-05-23",
-   "lc": "Birmingham"
-  },
-  {
    "name": "Edinburgh Pride",
    "city": "Edinburgh",
    "cc": "GB",
@@ -62742,16 +63180,6 @@
    "month": 7,
    "url": "https://www.liverpoolpride.co.uk",
    "lc": "Liverpool"
-  },
-  {
-   "name": "Pride London",
-   "city": "London",
-   "cc": "GB",
-   "lat": 51.507,
-   "lon": -0.128,
-   "month": 7,
-   "url": "https://prideinlondon.org",
-   "lc": "London"
   },
   {
    "name": "Manchester Pride",
@@ -62786,20 +63214,6 @@
     "Athina"
    ],
    "lc": "Athen"
-  },
-  {
-   "name": "Thessaloniki Pride",
-   "city": "Thessaloniki",
-   "cc": "GR",
-   "lat": 40.64,
-   "lon": 22.944,
-   "month": 6,
-   "url": "https://thessalonikipride.com",
-   "last": "2026-06-20",
-   "alt": [
-    "Saloniki"
-   ],
-   "lc": "Thessaloniki"
   },
   {
    "name": "Desfile de la Diversidad Guatemala",
@@ -62858,16 +63272,6 @@
    "url": "https://corkcommunitypride.ie",
    "last": "2026-08-02",
    "lc": "Cork"
-  },
-  {
-   "name": "Dublin LGBTQ+ Pride",
-   "city": "Dublin",
-   "cc": "IE",
-   "lat": 53.35,
-   "lon": -6.26,
-   "month": 6,
-   "url": "https://dublinpride.ie",
-   "lc": "Dublin"
   },
   {
    "name": "Galway Pride",
@@ -63252,26 +63656,6 @@
    "lc": "Utrecht"
   },
   {
-   "name": "Bergen Pride",
-   "city": "Bergen",
-   "cc": "NO",
-   "lat": 60.392,
-   "lon": 5.324,
-   "month": 6,
-   "url": "https://bergenpride.no",
-   "lc": "Bergen"
-  },
-  {
-   "name": "Oslo Pride",
-   "city": "Oslo",
-   "cc": "NO",
-   "lat": 59.914,
-   "lon": 10.752,
-   "month": 6,
-   "url": "https://oslopride.no",
-   "lc": "Oslo"
-  },
-  {
    "name": "Tromsø Pride",
    "city": "Tromsø",
    "cc": "NO",
@@ -63293,27 +63677,6 @@
    "month": 6,
    "url": "https://trondheimpride.no",
    "lc": "Trondheim"
-  },
-  {
-   "name": "Auckland Pride Festival",
-   "city": "Auckland",
-   "cc": "NZ",
-   "lat": -36.849,
-   "lon": 174.763,
-   "month": 2,
-   "url": "https://aucklandpride.org.nz",
-   "lc": "Auckland"
-  },
-  {
-   "name": "Wellington Pride Festival",
-   "city": "Wellington",
-   "cc": "NZ",
-   "lat": -41.286,
-   "lon": 174.776,
-   "month": 3,
-   "url": "https://www.wellingtonpridefestival.com",
-   "last": "2026-03-21",
-   "lc": "Wellington"
   },
   {
    "name": "Marcha del Orgullo Panamá",
@@ -63486,20 +63849,6 @@
    "lc": "Belgrad"
   },
   {
-   "name": "West Pride Göteborg",
-   "city": "Göteborg",
-   "cc": "SE",
-   "lat": 57.709,
-   "lon": 11.975,
-   "month": 6,
-   "url": "https://www.westpride.se",
-   "alt": [
-    "Goteborg",
-    "Gothenburg"
-   ],
-   "lc": "Göteborg"
-  },
-  {
    "name": "Malmö Pride",
    "city": "Malmö",
    "cc": "SE",
@@ -63511,16 +63860,6 @@
     "Malmo"
    ],
    "lc": "Malmö"
-  },
-  {
-   "name": "Stockholm Pride",
-   "city": "Stockholm",
-   "cc": "SE",
-   "lat": 59.329,
-   "lon": 18.069,
-   "month": 8,
-   "url": "https://www.stockholmpride.org",
-   "lc": "Stockholm"
   },
   {
    "name": "Uppsala Pride",
@@ -63558,19 +63897,6 @@
     "Laibach"
    ],
    "lc": "Ljubljana"
-  },
-  {
-   "name": "Dúhový Pride Bratislava",
-   "city": "Bratislava",
-   "cc": "SK",
-   "lat": 48.149,
-   "lon": 17.107,
-   "month": 6,
-   "url": "https://www.duhovypride.sk",
-   "alt": [
-    "Pressburg"
-   ],
-   "lc": "Bratislava"
   },
   {
    "name": "Bangkok Pride Festival",
@@ -63639,30 +63965,9 @@
    "lat": 42.36,
    "lon": -71.058,
    "month": 6,
-   "url": "https://www.bostonpride.org",
+   "url": "https://www.bostonprideforthepeople.org",
    "last": "2025-06-14",
    "lc": "Boston"
-  },
-  {
-   "name": "Chicago Pride Parade",
-   "city": "Chicago",
-   "cc": "US",
-   "lat": 41.878,
-   "lon": -87.63,
-   "month": 6,
-   "url": "https://www.chicagopridecalendar.org",
-   "last": "2025-06-29",
-   "lc": "Chicago"
-  },
-  {
-   "name": "Dallas Pride",
-   "city": "Dallas",
-   "cc": "US",
-   "lat": 32.777,
-   "lon": -96.797,
-   "month": 6,
-   "url": "https://www.dallaspride.org",
-   "lc": "Dallas"
   },
   {
    "name": "Denver PrideFest",
@@ -63687,17 +63992,6 @@
    "lc": "Honolulu"
   },
   {
-   "name": "Houston Pride Celebration",
-   "city": "Houston",
-   "cc": "US",
-   "lat": 29.76,
-   "lon": -95.37,
-   "month": 6,
-   "url": "https://pridehouston.org",
-   "last": "2025-06-28",
-   "lc": "Houston"
-  },
-  {
    "name": "Las Vegas Pride",
    "city": "Las Vegas",
    "cc": "US",
@@ -63720,16 +64014,6 @@
     "LA"
    ],
    "lc": "Los Angeles"
-  },
-  {
-   "name": "Miami Beach Pride",
-   "city": "Miami",
-   "cc": "US",
-   "lat": 25.79,
-   "lon": -80.13,
-   "month": 4,
-   "url": "https://www.miamibeachpride.com",
-   "lc": "Miami"
   },
   {
    "name": "Nashville Pride Festival",
@@ -63807,17 +64091,6 @@
    "lc": "Phoenix"
   },
   {
-   "name": "Pittsburgh Pride",
-   "city": "Pittsburgh",
-   "cc": "US",
-   "lat": 40.441,
-   "lon": -79.996,
-   "month": 6,
-   "url": "https://pittsburghpride.com",
-   "last": "2026-06-07",
-   "lc": "Pittsburgh"
-  },
-  {
    "name": "Portland Pride Waterfront Festival",
    "city": "Portland",
    "cc": "US",
@@ -63868,20 +64141,6 @@
    "url": "https://www.sdpride.org",
    "last": "2025-07-12",
    "lc": "San Diego"
-  },
-  {
-   "name": "San Francisco Pride",
-   "city": "San Francisco",
-   "cc": "US",
-   "lat": 37.775,
-   "lon": -122.419,
-   "month": 6,
-   "url": "https://www.sfpride.org",
-   "last": "2025-06-29",
-   "alt": [
-    "SF"
-   ],
-   "lc": "San Francisco"
   },
   {
    "name": "Seattle Pride Parade",
@@ -64234,16 +64493,6 @@
    "last": "2026-08-01"
   },
   {
-   "name": "Leeds Pride",
-   "city": "Leeds",
-   "cc": "GB",
-   "lat": 53.8,
-   "lon": -1.549,
-   "month": 7,
-   "url": "https://www.leedspride.com",
-   "last": "2026-07-19"
-  },
-  {
    "name": "Leicester Pride",
    "city": "Leicester",
    "cc": "GB",
@@ -64264,16 +64513,6 @@
    "last": "2026-06-13"
   },
   {
-   "name": "Southampton Pride",
-   "city": "Southampton",
-   "cc": "GB",
-   "lat": 50.909,
-   "lon": -1.404,
-   "month": 8,
-   "url": "https://www.southamptonpride.org",
-   "last": "2026-08-29"
-  },
-  {
    "name": "Derby Pride",
    "city": "Derby",
    "cc": "GB",
@@ -64282,16 +64521,6 @@
    "month": 9,
    "url": "https://www.derbypride.co.uk",
    "last": "2026-09-12"
-  },
-  {
-   "name": "York Pride",
-   "city": "York",
-   "cc": "GB",
-   "lat": 53.959,
-   "lon": -1.082,
-   "month": 5,
-   "url": "https://yorkpride.org.uk",
-   "last": "2026-05-30"
   },
   {
    "name": "Salford Pride",
@@ -64629,17 +64858,6 @@
    "month": 7,
    "url": "https://www.vierdaagsefeesten.nl",
    "last": "2026-07-22"
-  },
-  {
-   "name": "Limburg Pride",
-   "city": "Hasselt",
-   "cc": "BE",
-   "lat": 50.931,
-   "lon": 5.338,
-   "month": 7,
-   "url": "https://limburgpride.be",
-   "last": "2026-07-12",
-   "lc": "Liège"
   },
   {
    "name": "Canal Pride Mechelen",
@@ -66586,16 +66804,6 @@
    "last": "2026-06-14"
   },
   {
-   "name": "Iowa City Pride Festival & Parade",
-   "city": "Iowa City",
-   "cc": "US",
-   "lat": 41.661,
-   "lon": -91.53,
-   "month": 6,
-   "url": "https://www.iowacitypride.org",
-   "last": "2026-06-20"
-  },
-  {
    "name": "Heartland Pride",
    "city": "Omaha",
    "cc": "US",
@@ -66636,16 +66844,6 @@
    "last": "2026-06-13"
   },
   {
-   "name": "Motor City Pride",
-   "city": "Detroit",
-   "cc": "US",
-   "lat": 42.331,
-   "lon": -83.046,
-   "month": 6,
-   "url": "https://www.motorcitypride.org",
-   "last": "2026-06-07"
-  },
-  {
    "name": "Grand Rapids Pride Festival",
    "city": "Grand Rapids",
    "cc": "US",
@@ -66663,15 +66861,6 @@
    "lon": -85.587,
    "month": 6,
    "last": "2026-06-06"
-  },
-  {
-   "name": "Ann Arbor Pride",
-   "city": "Ann Arbor",
-   "cc": "US",
-   "lat": 42.281,
-   "lon": -83.743,
-   "month": 8,
-   "last": "2026-08-01"
   },
   {
    "name": "Milwaukee PrideFest",
@@ -66699,17 +66888,8 @@
    "lat": 43.801,
    "lon": -91.239,
    "month": 9,
+   "url": "https://www.7riverslgbtq.org/pride-in-the-park",
    "last": "2026-09-05"
-  },
-  {
-   "name": "Pride in the CLE",
-   "city": "Cleveland",
-   "cc": "US",
-   "lat": 41.499,
-   "lon": -81.694,
-   "month": 6,
-   "url": "https://prideinthecle.org",
-   "last": "2026-06-06"
   },
   {
    "name": "Cincinnati Pride Parade & Festival",
@@ -66780,15 +66960,6 @@
    "last": "2026-07-18"
   },
   {
-   "name": "CNY Pride",
-   "city": "Syracuse",
-   "cc": "US",
-   "lat": 43.048,
-   "lon": -76.147,
-   "month": 6,
-   "last": "2026-06-13"
-  },
-  {
    "name": "Charlotte Pride Festival & Parade",
    "city": "Charlotte",
    "cc": "US",
@@ -66807,16 +66978,6 @@
    "month": 6,
    "url": "https://www.outraleigh.org",
    "last": "2026-06-27"
-  },
-  {
-   "name": "Fargo-Moorhead Pride",
-   "city": "Fargo",
-   "cc": "US",
-   "lat": 46.877,
-   "lon": -96.79,
-   "month": 8,
-   "url": "https://fmpride.org",
-   "last": "2026-08-09"
   },
   {
    "name": "Sioux Falls Pride",
@@ -66904,16 +67065,6 @@
    "last": "2026-06-06"
   },
   {
-   "name": "Aurora Pride Parade",
-   "city": "Aurora",
-   "cc": "US",
-   "lat": 41.76,
-   "lon": -88.32,
-   "month": 6,
-   "url": "https://aurorapride.org",
-   "last": "2026-06-14"
-  },
-  {
    "name": "Woodstock PrideFest & Parade",
    "city": "Woodstock",
    "cc": "US",
@@ -66968,6 +67119,7 @@
    "lat": 47.038,
    "lon": -122.9,
    "month": 6,
+   "url": "https://www.capitalcitypride.net",
    "last": "2026-06-27"
   },
   {
@@ -67062,6 +67214,7 @@
    "lat": 38.253,
    "lon": -85.759,
    "month": 6,
+   "url": "https://kypride.com",
    "last": "2026-06-20"
   },
   {
@@ -67092,16 +67245,6 @@
    "month": 9,
    "url": "https://www.diversityrichmond.org/virginia-pride",
    "last": "2026-09-12"
-  },
-  {
-   "name": "Winnipeg Pride Parade",
-   "city": "Winnipeg",
-   "cc": "CA",
-   "lat": 49.895,
-   "lon": -97.138,
-   "month": 6,
-   "url": "https://www.pridewinnipeg.com/",
-   "last": "2026-06-07"
   },
   {
    "name": "Brandon Pride Parade",
@@ -67158,6 +67301,7 @@
    "lat": 42.984,
    "lon": -81.246,
    "month": 7,
+   "url": "https://pridelondon.ca",
    "last": "2026-07-19"
   },
   {
@@ -67176,17 +67320,8 @@
    "lat": 44.177,
    "lon": -81.633,
    "month": 6,
+   "url": "https://kincardinepride.ca",
    "last": "2026-06-20"
-  },
-  {
-   "name": "Windsor-Essex Pride Fest",
-   "city": "Windsor",
-   "cc": "CA",
-   "lat": 42.317,
-   "lon": -83.035,
-   "month": 8,
-   "url": "https://www.wepridefest.com/",
-   "last": "2026-08-09"
   },
   {
    "name": "CK Pride",
@@ -68198,36 +68333,6 @@
    "lon": -88.025,
    "month": 8,
    "last": "2026-08-01"
-  },
-  {
-   "name": "TasPride Parade & Party in the Park",
-   "city": "Hobart",
-   "cc": "AU",
-   "lat": -42.882,
-   "lon": 147.327,
-   "month": 2,
-   "url": "https://www.taspride.com/",
-   "last": "2026-02-14"
-  },
-  {
-   "name": "ChillOut Festival Street Parade",
-   "city": "Daylesford",
-   "cc": "AU",
-   "lat": -37.345,
-   "lon": 144.147,
-   "month": 3,
-   "url": "https://chilloutfestival.au/",
-   "last": "2026-03-08"
-  },
-  {
-   "name": "Geelong Rainbow Festival Pride March",
-   "city": "Geelong",
-   "cc": "AU",
-   "lat": -38.147,
-   "lon": 144.361,
-   "month": 2,
-   "url": "https://geelongrainbow.org.au/",
-   "last": "2026-02-07"
   },
   {
    "name": "Gold Coast Pride March and Fair Day",
