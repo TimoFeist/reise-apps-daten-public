@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 17:44",
+ "version": "2026-11-23 18:11",
  "categories": [
   {
    "id": "entry",
@@ -61197,6 +61197,10 @@
    "end": "2026-11-29",
    "month": 11,
    "url": "https://naughtyparty.ticket.io/hUPAkL9C/",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ],
    "type": "fest",
    "cat": "party",
    "lc": "Köln"
@@ -61305,6 +61309,10 @@
    "end": "2027-02-07",
    "month": 2,
    "url": "https://naughtyparty.ticket.io/0Rm3YhHG/",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ],
    "type": "fest",
    "cat": "party",
    "lc": "Köln"
@@ -61850,6 +61858,18 @@
    "lc": "Göteborg"
   },
   {
+   "name": "Sitges Pride",
+   "city": "Sitges",
+   "cc": "ES",
+   "lat": 41.235,
+   "lon": 1.811,
+   "start": "2027-06-09",
+   "end": "2027-06-13",
+   "month": 6,
+   "url": "https://www.sitgespride.com/",
+   "lc": "Barcelona"
+  },
+  {
    "name": "Zurich Pride",
    "city": "Zürich",
    "cc": "CH",
@@ -62170,6 +62190,20 @@
    "url": "https://queernb.de/csd/"
   },
   {
+   "name": "Bear Summer Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "month": 6,
+   "url": "https://bearsummer.wordpress.com/",
+   "type": "fest",
+   "cat": "bear",
+   "lc": "Berlin"
+  },
+  {
    "name": "Thessaloniki Pride",
    "city": "Thessaloniki",
    "cc": "GR",
@@ -62448,6 +62482,10 @@
    "end": "2027-07-04",
    "month": 7,
    "url": "https://naughtyparty.ticket.io/82xN73sV/",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ],
    "type": "fest",
    "cat": "party",
    "lc": "Köln"
@@ -62652,6 +62690,19 @@
    "month": 7,
    "url": "https://www.leedspride.com",
    "last": "2026-07-19"
+  },
+  {
+   "name": "Lesbisch-schwules Stadtfest Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "start": "2027-07-17",
+   "end": "2027-07-18",
+   "month": 7,
+   "url": "https://www.stadtfest.berlin/",
+   "type": "fest",
+   "lc": "Berlin"
   },
   {
    "name": "Roze Maandag Tilburg",
@@ -70063,6 +70114,66 @@
    "url": "https://www.carnavalmaspalomas.es/",
    "last": "2026-03-10",
    "type": "fest"
+  },
+  {
+   "name": "Carnaval de Sitges",
+   "city": "Sitges",
+   "cc": "ES",
+   "lat": 41.235,
+   "lon": 1.811,
+   "month": 2,
+   "url": "https://www.sitgescarnaval.cat/",
+   "last": "2026-02-12",
+   "type": "fest",
+   "lc": "Barcelona"
+  },
+  {
+   "name": "Bears Sitges Meeting (Frühjahr)",
+   "city": "Sitges",
+   "cc": "ES",
+   "lat": 41.235,
+   "lon": 1.811,
+   "month": 4,
+   "url": "https://www.bearssitges.org/",
+   "type": "fest",
+   "cat": "bear",
+   "lc": "Barcelona"
+  },
+  {
+   "name": "Dyke* March Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "month": 7,
+   "url": "https://www.dykemarchberlin.com/",
+   "last": "2026-07-24",
+   "lc": "Berlin"
+  },
+  {
+   "name": "Dyke* Festival Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "month": 8,
+   "url": "https://allesbien.com/",
+   "last": "2026-08-22",
+   "type": "fest",
+   "cat": "lesbian",
+   "lc": "Berlin"
+  },
+  {
+   "name": "Queeres Parkfest Friedrichshain",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "month": 8,
+   "url": "https://www.berlin.de/en/events/2993388-2842498-lgbt-parkfest-friedrichshain.en.html",
+   "last": "2026-08-08",
+   "type": "fest",
+   "lc": "Berlin"
   }
  ],
  "prides_src": "Webseiten der Veranstalter"
