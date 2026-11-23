@@ -1,13 +1,11 @@
 {
- "vc": 40,
- "vn": "1.0.40",
+ "vc": 41,
+ "vn": "1.0.41",
  "changes": [
-  "LocalAppFinder spricht jetzt deine Sprache: 31 Sprachen, passend zum Handy. Die Hinweise zu den Apps gibt es zusätzlich auf Englisch",
-  "Geöffnet/geschlossen stimmt jetzt auch in anderen Zeitzonen: genaue Zeit vom Zeitserver, umgerechnet auf die Ortszeit der Bar oder des Clubs",
-  "LGBTQ+-Orte in der Nähe: neue Karte mit allen Orten, grün geöffnet, grau geschlossen, antippen für Google Maps oder Webseite",
-  "Orte zeigen „Geöffnet bis …“ oder „Geschlossen, öffnet …“ laut OpenStreetMap, dazu der Filter „Jetzt geöffnet“"
+  "Feiertage: die nächsten Feiertage unter „Gut zu wissen“, bei geplanten Reisen alle Feiertage im Reisezeitraum",
+  "„Jetzt geöffnet“ beachtet Feiertags-Öffnungszeiten aus OpenStreetMap"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=2d56ddc4bd72e4d4",
- "size": 3258504,
- "sha256": "2d56ddc4bd72e4d4520901832efd2e0706fcc2636830ff50d2e2c637a42037bb"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=f217ee81460e6e86",
+ "size": 3273696,
+ "sha256": "f217ee81460e6e869d0015501676f7ccf34deee4bcc9f151b74fb45fe98eaf4e"
 }
