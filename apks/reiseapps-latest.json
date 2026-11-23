@@ -1,12 +1,11 @@
 {
- "vc": 37,
- "vn": "1.0.37",
+ "vc": 38,
+ "vn": "1.0.38",
  "changes": [
-  "LGBTQ+-Orte in der Nähe: zeigt „Geöffnet bis …“ oder „Geschlossen, öffnet …“ laut OpenStreetMap",
-  "Neuer Filter „Jetzt geöffnet“ für die Orte im Umkreis",
-  "Neu unter Mehr: ☕ Unterstützen. Wer mag, kann die App freiwillig mit einem Betrag nach Wahl unterstützen"
+  "LGBTQ+-Orte in der Nähe: neue Karte mit allen Orten, grün geöffnet, grau geschlossen, antippen für Google Maps oder Webseite",
+  "Orte zeigen „Geöffnet bis …“ oder „Geschlossen, öffnet …“ laut OpenStreetMap, dazu der Filter „Jetzt geöffnet“"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=8beff334d18787d7",
- "size": 2665138,
- "sha256": "8beff334d18787d7ccafcb8f35268ae09078342366cc09cef59a0bf531ff9850"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=3e1b4a38290e9582",
+ "size": 2720593,
+ "sha256": "3e1b4a38290e9582d49e2bf9a9c9144257fdbc831aed3b3d9016f5bf92357522"
 }
