@@ -52,6 +52,10 @@ Die GitHub Action „iPhone-Apps zuordnen“ sucht zu jeder App die iPhone-Versi
 
 Dieselbe tägliche Action lädt einmal pro Woche die gesetzlichen Feiertage aller Länder für dieses und nächstes Jahr (`tools/feiertage.py`, Quelle date.nager.at, nach `info/feiertage.json`) und sucht Koordinaten für neue Städte (`tools/city_geo.py`, Open-Meteo/GeoNames CC BY 4.0, nach `info/stadt-koordinaten.json`). `merge_raw.py` setzt daraus `info.holidays` (ab gestern etwa 400 Tage) und `ll` an jeder Stadt. Falsche Koordinaten von Hand in `info/stadt-koordinaten.json` korrigieren. Nichts davon in `raw/` eintragen.
 
+## App-Logos (automatisch)
+
+Dieselbe Action sucht zu jeder App mit Paketname die Adresse ihres Logos auf der Google-Play-Seite (`tools/icons.py`, nach `info/icons.json`, gefundene alle 30 Tage, fehlende alle 14 Tage neu). Es werden keine Bilder gespeichert oder über unsere Server verteilt: `merge_raw.py` setzt nur `"ic"` (Pfad hinter `https://play-lh.googleusercontent.com/`) an jede App, App und Web-Version laden das Logo direkt von Google Play. `ic` nie in `raw/` eintragen.
+
 ## Weltweite Apps (Land „WW“)
 
 Apps unter `WW` erscheinen in der App zusätzlich bei jedem Land, in dem sie funktionieren:

@@ -267,6 +267,18 @@ def add_continents_and_info(data):
                 else:
                     a.pop("ios", None)
 
+    # Logo-Adresse bei Google Play (info/icons.json, erzeugt von tools/icons.py), nur der Pfad hinter play-lh.googleusercontent.com/
+    p = os.path.join(HERE, "info", "icons.json")
+    ic = json.load(open(p, encoding="utf-8")).get("apps", {}) if os.path.exists(p) else {}
+    for c in data["countries"]:
+        for lst in [c["apps"]] + [ci["apps"] for ci in c.get("cities", [])]:
+            for a in lst:
+                u = ic.get(a.get("pkg") or "", {}).get("u")
+                if u and not a.get("dl"):
+                    a["ic"] = u
+                else:
+                    a.pop("ic", None)
+
 
 def main():
     global VALID_CATS
