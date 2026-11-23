@@ -1,13 +1,12 @@
 {
- "vc": 47,
- "vn": "1.0.47",
+ "vc": 48,
+ "vn": "1.0.48",
  "changes": [
-  "Festivals eigens gekennzeichnet (🎉 Festival · Ski-Woche, Bear Week, Fetisch & Leder, Lesben-Festival, Circuit-Party) und getrennt von Pride & CSD",
-  "Neue Festivals, z. B. auf Gran Canaria, Ibiza und Mykonos, jeweils mit Link zum Veranstalter",
-  "Eigener Abo-Kalender nur für Festivals",
-  "Jetzt über 820 Termine, davon 169 mit festem Datum"
+  "Neu und freiwillig: Konto unter Mehr › Konto. Anmelden mit Passkey oder Google, ohne E-Mail und Namen",
+  "Mit Konto werden deine Angaben zu Apps, Reisen, Favoriten und ausgeblendete Orte mit der Web-Version und deinen anderen Handys abgeglichen",
+  "Ohne Konto bleibt wie bisher alles nur auf dem Handy"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=74aafc5a04802fc6",
- "size": 3655896,
- "sha256": "74aafc5a04802fc662a6944b43a0b145cfd76a89d588e3ce537f210418dc8860"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=1a6376fa5fc1934e",
+ "size": 3690476,
+ "sha256": "1a6376fa5fc1934e934722c4c0bce9af88c180d9f7ebc80c1cc172db63ba47bd"
 }
