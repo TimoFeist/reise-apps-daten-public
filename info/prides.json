@@ -9621,7 +9621,11 @@
    "url": "https://naughtyparty.ticket.io/hUPAkL9C/",
    "src": "https://naughtyparty.ticket.io/dkxjqz/",
    "type": "fest",
-   "cat": "party"
+   "cat": "party",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ]
   },
   {
    "name": "Naughty Carnival Closing Party",
@@ -9635,7 +9639,11 @@
    "url": "https://naughtyparty.ticket.io/0Rm3YhHG/",
    "src": "https://naughtyparty.ticket.io/dkxjqz/",
    "type": "fest",
-   "cat": "party"
+   "cat": "party",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ]
   },
   {
    "name": "Naughty Pride Closing Party",
@@ -9649,7 +9657,110 @@
    "url": "https://naughtyparty.ticket.io/82xN73sV/",
    "src": "https://naughtyparty.ticket.io/dkxjqz/",
    "type": "fest",
-   "cat": "party"
+   "cat": "party",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ]
+  },
+  {
+   "name": "Sitges Pride",
+   "city": "Sitges",
+   "cc": "ES",
+   "lat": 41.235,
+   "lon": 1.811,
+   "start": "2027-06-09",
+   "end": "2027-06-13",
+   "month": 6,
+   "url": "https://www.sitgespride.com/",
+   "src": "https://www.sitgespride.com/"
+  },
+  {
+   "name": "Carnaval de Sitges",
+   "city": "Sitges",
+   "cc": "ES",
+   "lat": 41.235,
+   "lon": 1.811,
+   "month": 2,
+   "url": "https://www.sitgescarnaval.cat/",
+   "last": "2026-02-12",
+   "src": "https://www.sitgescarnaval.cat/",
+   "type": "fest"
+  },
+  {
+   "name": "Bears Sitges Meeting (Frühjahr)",
+   "city": "Sitges",
+   "cc": "ES",
+   "lat": 41.235,
+   "lon": 1.811,
+   "month": 4,
+   "url": "https://www.bearssitges.org/",
+   "src": "https://www.sitgesanytime.com/en/agenda/bears-sitges-meeting-2/",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "Lesbisch-schwules Stadtfest Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "start": "2027-07-17",
+   "end": "2027-07-18",
+   "month": 7,
+   "url": "https://www.stadtfest.berlin/",
+   "src": "https://www.stadtfest.berlin/",
+   "type": "fest"
+  },
+  {
+   "name": "Dyke* March Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "month": 7,
+   "url": "https://www.dykemarchberlin.com/",
+   "last": "2026-07-24",
+   "src": "https://www.visitberlin.de/en/blog/11-tips-pride-week-berlin"
+  },
+  {
+   "name": "Dyke* Festival Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "month": 8,
+   "url": "https://allesbien.com/",
+   "last": "2026-08-22",
+   "src": "https://allesbien.com/",
+   "type": "fest",
+   "cat": "lesbian"
+  },
+  {
+   "name": "Bear Summer Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "start": "2027-06-21",
+   "end": "2027-06-27",
+   "month": 6,
+   "url": "https://bearsummer.wordpress.com/",
+   "src": "https://bearsummer.wordpress.com/",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "Queeres Parkfest Friedrichshain",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "month": 8,
+   "url": "https://www.berlin.de/en/events/2993388-2842498-lgbt-parkfest-friedrichshain.en.html",
+   "last": "2026-08-08",
+   "src": "https://www.berlin.de/en/events/2993388-2842498-lgbt-parkfest-friedrichshain.en.html",
+   "type": "fest"
   }
  ]
 }
