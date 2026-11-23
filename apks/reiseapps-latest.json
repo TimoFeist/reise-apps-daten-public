@@ -1,10 +1,10 @@
 {
- "vc": 33,
- "vn": "1.0.33",
+ "vc": 34,
+ "vn": "1.0.34",
  "changes": [
-  "Neue Versionen werden jetzt im Browser geladen: Datei antippen und installieren, fertig"
+  "LGBTQ+-Orte: Spartacus öffnet direkt die Seite deiner Stadt mit Bars, Clubs und Saunas"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=e9a722d11e17a6c8",
- "size": 2631123,
- "sha256": "e9a722d11e17a6c887254e3e763998fd0fe719c05d6f9b12994b79c76b758c92"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=acf8e4d67f41ea5a",
+ "size": 2645894,
+ "sha256": "acf8e4d67f41ea5a31c6c1794666e7cd25f021cd9b183656d27fde1165f5a484"
 }
