@@ -1,0 +1,41 @@
+# © 2026 Timo Feist. Alle Rechte vorbehalten.
+# Holt jeden Tag die Termine der NAUGHTY-Partys (naughtyparty.ticket.io) und baut data.json neu, wenn sich etwas ändert.
+name: NAUGHTY-Termine
+
+on:
+  schedule:
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: merge-data
+  cancel-in-progress: false
+
+jobs:
+  termine:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pycountry
+      - name: Termine holen, zusammenführen und hochladen
+        run: |
+          git config user.name "reise-apps-bot"
+          git config user.email "reise-apps-bot@users.noreply.github.com"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin main
+            python3 tools/naughty.py || exit 0
+            if git diff --quiet info/prides.json; then echo "Keine Änderung"; exit 0; fi
+            python3 merge_raw.py
+            git add info/prides.json data.json
+            git commit -qm "NAUGHTY-Termine $(date +%F)"
+            if git push -q origin main; then echo "Hochgeladen"; exit 0; fi
+            git reset -q --hard origin/main
+            sleep $((i * 10))
+          done
+          exit 1

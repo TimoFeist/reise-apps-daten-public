@@ -9608,6 +9608,48 @@
    "last": "2026-03-10",
    "src": "https://www.carnavalmaspalomas.es/",
    "type": "fest"
+  },
+  {
+   "name": "Naughty St. Nicholas Closing Party",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.94,
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "month": 11,
+   "url": "https://naughtyparty.ticket.io/hUPAkL9C/",
+   "src": "https://naughtyparty.ticket.io/dkxjqz/",
+   "type": "fest",
+   "cat": "party"
+  },
+  {
+   "name": "Naughty Carnival Closing Party",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.94,
+   "start": "2027-02-07",
+   "end": "2027-02-07",
+   "month": 2,
+   "url": "https://naughtyparty.ticket.io/0Rm3YhHG/",
+   "src": "https://naughtyparty.ticket.io/dkxjqz/",
+   "type": "fest",
+   "cat": "party"
+  },
+  {
+   "name": "Naughty Pride Closing Party",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.94,
+   "start": "2027-07-04",
+   "end": "2027-07-04",
+   "month": 7,
+   "url": "https://naughtyparty.ticket.io/82xN73sV/",
+   "src": "https://naughtyparty.ticket.io/dkxjqz/",
+   "type": "fest",
+   "cat": "party"
   }
  ]
 }
