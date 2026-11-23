@@ -62,6 +62,27 @@
    "req": "",
    "src": "https://www.aland.com/en/artikel/discover-aland-with-alandstrafiken",
    "url": "https://www.alandstrafiken.ax/"
+  },
+  {
+   "name": "Tallink Silja Line",
+   "cat": "rail",
+   "pkg": "com.tallink.mikiandroid",
+   "ess": false,
+   "note": "Fähren von Helsinki und Turku nach Stockholm über Åland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tallink.com/travelling/one-way/aland-ferry"
+  }
+ ],
+ "replace": [
+  {
+   "old": "Mariehamn Taxi",
+   "pkg": "se.mariehamn.bookingapp"
+  },
+  {
+   "old": "Viking Line",
+   "pkg": "com.vikingline.owapp"
   }
  ]
 }

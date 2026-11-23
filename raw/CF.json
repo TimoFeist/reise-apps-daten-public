@@ -1,44 +1,55 @@
 {
-"src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
-"fetched": "2026-11-18",
-"updated": "22.10.2026",
-"note": "Reisewarnung des Auswärtigen Amts. Visum vorab bei der Botschaft in Paris, Gelbfieberimpfung Pflicht, Euro bar mitnehmen.",
-"lgbtq_note": "Homosexuelle Handlungen sind mit bis zu zwei Jahren Haft und Geldstrafe bedroht, verfolgt wird meist nach Anzeigen von Einheimischen.",
-"lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
-"discontinued": [],
-"apps": [
-{
-"name": "Sango Taxi",
-"cat": "taxi",
-"pkg": "",
-"ess": false,
-"note": "Neue Fahrdienst-App für Bangui, auch Paketversand",
-"city": "Bangui",
-"use": "ok",
-"req": "",
-"src": "https://mwm.ai/apps/sango-taxi/6755672456"
-},
-{
-"name": "Max it RCA",
-"cat": "payment",
-"pkg": "",
-"ess": false,
-"note": "Orange-App für Orange Money, Guthaben und Rechnungen",
-"city": "",
-"use": "limited",
-"req": "Orange-Money-Konto mit lokaler Orange-SIM nötig",
-"src": "https://apps.apple.com/ca/app/max-it-rca/id1616515352"
-},
-{
-"name": "Grindr",
-"cat": "lgbtq",
-"pkg": "",
-"ess": false,
-"note": "Weltweite Dating-App, in der ZAR riskant",
-"city": "",
-"use": "no",
-"req": "Homosexuelle Handlungen sind strafbar, Anzeigen können zu Strafverfolgung führen",
-"src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
-}
-]
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
+ "fetched": "2026-11-23",
+ "updated": "22.10.2026",
+ "note": "Reisewarnung des Auswärtigen Amts. Visum vorab bei der Botschaft in Paris, Gelbfieberimpfung Pflicht, Euro bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind mit bis zu zwei Jahren Haft und Geldstrafe bedroht, verfolgt wird meist nach Anzeigen von Einheimischen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sango Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Neue Fahrdienst-App für Bangui, auch Paketversand",
+   "city": "Bangui",
+   "use": "ok",
+   "req": "",
+   "src": "https://mwm.ai/apps/sango-taxi/6755672456"
+  },
+  {
+   "name": "Max it RCA",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Orange-App für Orange Money, Guthaben und Rechnungen",
+   "city": "",
+   "use": "limited",
+   "req": "Orange-Money-Konto mit lokaler Orange-SIM nötig",
+   "src": "https://apps.apple.com/ca/app/max-it-rca/id1616515352"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in der ZAR riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen sind strafbar, Anzeigen können zu Strafverfolgung führen",
+   "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+  },
+  {
+   "name": "BanguiEats",
+   "cat": "delivery",
+   "pkg": "com.banguieats.app",
+   "ess": false,
+   "note": "Essen, Einkäufe und Fahrten in Bangui",
+   "city": "Bangui",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.banguieats.app"
+  }
+ ]
 }

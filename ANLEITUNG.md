@@ -29,6 +29,25 @@ Diese Datei beschreibt, wie neue Länder in `data.json` kommen. Sie ist für die
     Hat eine App einen neuen Paketnamen oder gibt es sie nur noch im Web bzw. als APK, in `"replace": [{"old": "<alter pkg>", "pkg": "<neuer pkg>", "name": "", "note": "", "url": "", "nostore": false, "src": ""}]` eintragen. Das gilt auch für Timos eigene Einträge; den neuen Paketnamen vorher auf play.google.com prüfen.
 12. Land in `queue/<kontinent>.json` von `todo` nach `done` verschieben.
 
+## Weitere Quellen, wenn nichts Spezielles zu finden ist
+
+Findet sich bei bento.travel, beim Betreiber oder bei Stadt und Tourismusbehörde nichts, der Reihe nach weitersuchen. Erst wenn alle Stufen leer sind, gilt ein Land oder eine Stadt als „nichts Belegtes“.
+1. **Google Play Suche:** `https://play.google.com/store/search?q=<Ort>+<Begriff>&c=apps&gl=<ISO>` (Begriffe: taxi, bus, metro, transit, ferry, parking, tourism, visa, weather, delivery). Treffer zählen nur, wenn der Entwickler der Betreiber, die Stadt, die Behörde oder ein bekanntes Unternehmen ist.
+2. **Apple App Store:** Suchschnittstelle `https://itunes.apple.com/search?term=<Begriff>+<Ort>&country=<iso klein>&entity=software&limit=25` (Felder `trackName`, `sellerName`, `trackViewUrl`, `primaryGenreName`). Gibt es den Ländercode im App Store nicht (Antwort 400), mit `country=us` und dem Ortsnamen im Suchbegriff suchen. Die App-Store-Seite darf `src` sein, wenn `sellerName` der Betreiber ist. Für die Android-App trotzdem den Paketnamen bei Google Play suchen und prüfen; gibt es keine Android-Version, nur mit Web-Angebot (`url` + `nostore: true`) aufnehmen.
+3. **Huawei AppGallery:** `https://appgallery.huawei.com/search/<Begriff>` (wichtig vor allem für China und Länder, in denen Google-Dienste fehlen). Wie beim App Store: als Beleg nutzbar, Eintrag braucht Play-Paket oder Web-Angebot.
+4. **Weitere Belege:** Seiten des Auswärtigen Amts (Einreise, Notfall), Flughafen-Seiten (Taxi, Transfer), Fährgesellschaften, nationale Wetterdienste, Seiten von Mobilfunkanbietern (Bezahl-Apps) und aktuelle Reiseartikel 2025/2026.
+5. **Weltweite Apps prüfen:** Ist in einem Land wirklich kein lokaler Anbieter belegbar, prüfen, ob weltweite Apps dort laut Anbieter-Standortliste funktionieren (Uber, Bolt, inDrive, Yango, Careem, Grab, Moovit, Rome2Rio, Wolt, Glovo usw.), und dann beim Eintrag in `WW` das Land in `countries` ergänzen.
+
+Alle Regeln gelten weiter: nichts erfinden, Paketnamen selbst prüfen, `use`/`req` ehrlich setzen.
+
+## Automatische Store-Prüfung (wöchentlich)
+
+Die GitHub Action „Store-Prüfung“ ruft jeden Montag alle Paketnamen bei Google Play ab (`tools/store_check.py`) und schreibt Auffälligkeiten nach `queue/store-pruefung.json`: Apps, die es nicht mehr gibt, und Apps, deren Play-Titel sich stark geändert hat. Jeder Pflege-Lauf arbeitet diese Liste zuerst ab: Nachfolger oder Web-Angebot suchen und per `replace` eintragen, sonst `discontinued`. Erledigte Einträge aus der Liste entfernen.
+
+## iPhone-Versionen (täglich, automatisch)
+
+Die GitHub Action „iPhone-Apps zuordnen“ sucht zu jeder App die iPhone-Version über die Apple-Suche (`tools/ios_ids.py`, bis zu 1200 Apps pro Tag) und schreibt sie nach `info/ios.json`. Zugeordnet wird nur, wenn Bundle-ID gleich Paketname ist oder Name und Anbieter (laut Google Play) zusammenpassen. `merge_raw.py` setzt daraus `"ios": <App-Store-ID>` an jeder App. Apps ohne Treffer stehen mit `"id": 0` drin und werden nach 30 Tagen neu gesucht. Eine falsche Zuordnung von Hand in `info/ios.json` auf `"id": 0, "fix": true` setzen (oder die richtige ID mit `"fix": true`). `ios` nie in `raw/` eintragen.
+
 ## Weltweite Apps (Land „WW“)
 
 Apps unter `WW` erscheinen in der App zusätzlich bei jedem Land, in dem sie funktionieren:
@@ -58,7 +77,9 @@ Wenn alle Wartelisten leer sind, übernimmt eine Pflege-Aufgabe. Jedes Land in `
 * In **geraden** Kalenderwochen (ISO): Europa, Nordamerika, Südamerika.
 * In **ungeraden** Kalenderwochen: Asien, Afrika, Ozeanien.
 * Pro Lauf die Länder der Wochengruppe mit dem ältesten oder fehlenden `checked` nehmen (Länderliste je Kontinent: `done` in `queue/<kontinent>.json`) und genau wie oben neu abrufen (Schritte 2 bis 11). Die alte `raw/<ISO>.json` wird ersetzt.
+* Vorher `queue/store-pruefung.json` abarbeiten (siehe „Automatische Store-Prüfung“).
 * Dazu pro Lauf eine weltweite App ohne Länderliste ergänzen (siehe oben).
+* Länder oder Städte ohne Einträge mit den „Weiteren Quellen“ erneut versuchen.
 So ist jedes Land etwa alle 2 Wochen frisch geprüft.
 
 ## Nach jedem Lauf

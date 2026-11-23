@@ -1,6 +1,6 @@
 {
  "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Die Nationalpark-App vor der Reise laden, ihre Karten funktionieren offline auch ohne Netz.",
  "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
@@ -17,6 +17,47 @@
    "use": "ok",
    "req": "",
    "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/"
+  },
+  {
+   "name": "Qantas Airways",
+   "cat": "flights",
+   "pkg": "au.com.qantas.qantas",
+   "ess": true,
+   "note": "Einzige Flugverbindung ab Perth buchen und einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.christmas.net.au/flights"
+  },
+  {
+   "name": "BOM Weather",
+   "cat": "safety",
+   "pkg": "au.gov.bom.metview",
+   "ess": false,
+   "note": "Wetter und Warnungen des australischen Wetterdienstes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bom.gov.au/wa/forecasts/index.shtml"
+  },
+  {
+   "name": "Christmas Island Car Hire",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": true,
+   "note": "Keine Taxis oder Busse, Mietwagen hier früh buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.christmas.net.au/getting-around",
+   "url": "https://bookings.christmas.net.au/car-hire",
+   "nostore": true
+  }
+ ],
+ "replace": [
+  {
+   "old": "Christmas Island National Park",
+   "pkg": "com.parksaustralia.cinp"
   }
  ]
 }

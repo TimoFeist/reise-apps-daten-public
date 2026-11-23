@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Deutsche brauchen bis 90 Tage kein Visum, Pass 6 Monate über den Aufenthalt gültig. Kein Uber, Taxis und Fähren bar zahlen.",
  "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
@@ -72,6 +72,17 @@
    "use": "no",
    "req": "Digicel-Tonga-Nummer und Registrierung mit Name, Adresse und Foto nötig",
    "src": "https://www.digicelpacific.com/news/digicel-tonga-pioneers-financial-inclusion-with-innovative-two-tier-kyc-for-mycas"
+  },
+  {
+   "name": "MyDigicel Pacific",
+   "cat": "misc",
+   "pkg": "com.digicelpacific.selfcare.mobile",
+   "ess": false,
+   "note": "Guthaben aufladen und Datenpakete von Digicel kaufen",
+   "city": "",
+   "use": "limited",
+   "req": "Digicel SIM-Karte nötig",
+   "src": "https://support-to.digicelpacific.com/hc/en-us/articles/6454980648335-How-to-download-MyDigicel-app"
   }
  ]
 }

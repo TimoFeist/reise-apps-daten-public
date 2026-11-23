@@ -1,1 +1,88 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240", "fetched": "2026-11-18", "updated": "17.11.2026", "note": "Touristenvisum für 30 Tage an der Grenze; Reisepass sechs Monate gültig, kein Personalausweis. Linksverkehr, nachts nicht fahren.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, aktuelle Verfolgungen sind nicht bekannt; Zärtlichkeiten in der Öffentlichkeit können geahndet werden.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240", "discontinued": [], "apps": [{"name": "Leap Taxi App", "cat": "taxi", "pkg": "", "ess": true, "note": "Lokale Taxi-App, zuerst in Eswatini gestartet", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/lu/app/leap-taxi-app/id6475029322"}, {"name": "Thumo", "cat": "delivery", "pkg": "", "ess": true, "note": "Essenslieferung in Mbabane und Ezulwini; Bar, Karte, Mobile Money", "city": "", "use": "ok", "req": "", "src": "https://app.newsonafrica.com/sz/article/thumo-app-in-eswatini-a-young-delivery-platforms-early-traction-growing-pains-and-regulatory-questions-ahead-3266"}, {"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen King Mswati III und in Matsapha", "city": "", "use": "ok", "req": "Internationaler Führerschein und Kreditkarte nötig", "src": "https://avis.co.za/drive-avis/car-hire-locations/southern-africa/eswatini"}, {"name": "Europcar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen mit Station in Matsapha", "city": "", "use": "ok", "req": "Internationaler Führerschein und Kreditkarte nötig", "src": "https://www.europcar.co.uk/en-gb/places/car-hire-eswatini/matsapha"}, {"name": "MyMTN Eswatini", "cat": "misc", "pkg": "", "ess": false, "note": "Guthaben und Datenpakete für MTN-SIM verwalten", "city": "", "use": "limited", "req": "Lokale MTN-SIM nötig", "src": "https://apps.apple.com/us/app/id1509957641"}, {"name": "eMali", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Wallet von Eswatini Mobile für Zahlungen und Transfers", "city": "", "use": "no", "req": "Lokale SIM, Ausweis und Wohnsitznachweis nötig", "src": "https://www.eswatiniobserver.com/e-mali-expands-digital-payments-eswatini/"}]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
+ "fetched": "2026-11-23",
+ "updated": "17.11.2026",
+ "note": "Touristenvisum für 30 Tage an der Grenze; Reisepass sechs Monate gültig, kein Personalausweis. Linksverkehr, nachts nicht fahren.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, aktuelle Verfolgungen sind nicht bekannt; Zärtlichkeiten in der Öffentlichkeit können geahndet werden.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Leap Taxi App",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Lokale Taxi-App, zuerst in Eswatini gestartet",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/lu/app/leap-taxi-app/id6475029322"
+  },
+  {
+   "name": "Thumo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": true,
+   "note": "Essenslieferung in Mbabane und Ezulwini; Bar, Karte, Mobile Money",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://app.newsonafrica.com/sz/article/thumo-app-in-eswatini-a-young-delivery-platforms-early-traction-growing-pains-and-regulatory-questions-ahead-3266"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen King Mswati III und in Matsapha",
+   "city": "",
+   "use": "ok",
+   "req": "Internationaler Führerschein und Kreditkarte nötig",
+   "src": "https://avis.co.za/drive-avis/car-hire-locations/southern-africa/eswatini"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit Station in Matsapha",
+   "city": "",
+   "use": "ok",
+   "req": "Internationaler Führerschein und Kreditkarte nötig",
+   "src": "https://www.europcar.co.uk/en-gb/places/car-hire-eswatini/matsapha"
+  },
+  {
+   "name": "MyMTN Eswatini",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben und Datenpakete für MTN-SIM verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Lokale MTN-SIM nötig",
+   "src": "https://apps.apple.com/us/app/id1509957641"
+  },
+  {
+   "name": "eMali",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Wallet von Eswatini Mobile für Zahlungen und Transfers",
+   "city": "",
+   "use": "no",
+   "req": "Lokale SIM, Ausweis und Wohnsitznachweis nötig",
+   "src": "https://www.eswatiniobserver.com/e-mali-expands-digital-payments-eswatini/"
+  }
+ ],
+ "replace": [
+  {
+   "old": "Thumo",
+   "pkg": "com.thumoapp.users",
+   "name": "Swoop",
+   "note": "Essenslieferung, früher Thumo",
+   "url": "",
+   "nostore": false,
+   "src": "https://play.google.com/store/apps/details?id=com.thumoapp.users"
+  }
+ ]
+}

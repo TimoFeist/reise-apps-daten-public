@@ -1,0 +1,33 @@
+{
+ "geprueft": "2026-11-23",
+ "pakete": 1234,
+ "offen": [
+  {
+   "art": "fehlt",
+   "name": "Uber Carshare",
+   "orte": [
+    "AU"
+   ],
+   "pkg": "au.com.carnextdoor.app",
+   "seit": "2026-11-23"
+  },
+  {
+   "art": "fehlt",
+   "name": "Popcar Car Share",
+   "orte": [
+    "AU"
+   ],
+   "pkg": "au.popcar.classic.client101",
+   "seit": "2026-11-23"
+  },
+  {
+   "art": "fehlt",
+   "name": "Goosty",
+   "orte": [
+    "LU"
+   ],
+   "pkg": "com.customer.goosty",
+   "seit": "2026-11-23"
+  }
+ ]
+}

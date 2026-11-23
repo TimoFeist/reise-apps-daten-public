@@ -1,6 +1,6 @@
 {
  "src": "https://www.unirsm.sm/en/segreteria-studenti/studiare-unirsm/raggiungere-san-marino/",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Kein Bahnhof: Anreise per Bus ab Rimini, Tickets beim Fahrer. Parkplätze P1 bis P13 kosten ab 1,50 Euro pro Stunde.",
  "lgbtq_note": "Keine Strafbarkeit, eingetragene Partnerschaft seit 2018, Schutz vor Diskriminierung wegen Orientierung in der Verfassung.",
@@ -72,6 +72,12 @@
    "use": "no",
    "req": "Girokonto bei Banca di San Marino nötig",
    "src": "https://apps.apple.com/app/id977161425"
+  }
+ ],
+ "replace": [
+  {
+   "old": "Livein.SM",
+   "pkg": "sm.telecomitalia.liveinsm"
   }
  ]
 }

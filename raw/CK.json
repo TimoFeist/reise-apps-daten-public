@@ -84,5 +84,11 @@
    "req": "",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/cookinseln-node/cookinselnsicherheit/226552"
   }
+ ],
+ "replace": [
+  {
+   "old": "My Vodafone Cook Islands",
+   "pkg": "ck.vodafone.apps.myvodafoneapp"
+  }
  ]
 }

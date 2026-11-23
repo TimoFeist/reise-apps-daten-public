@@ -83,6 +83,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958"
+  },
+  {
+   "name": "PNCC",
+   "cat": "misc",
+   "pkg": "com.ninthdesign.pnccapp",
+   "ess": false,
+   "note": "Internet- und Guthabenkarten von PNCC in Palau kaufen",
+   "city": "",
+   "use": "limited",
+   "req": "PNCC SIM-Karte oder Anschluss nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.ninthdesign.pnccapp&hl=en&gl=PW"
   }
  ]
 }

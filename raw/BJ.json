@@ -62,6 +62,17 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
    "url": "https://evisa.bj",
    "nostore": true
+  },
+  {
+   "name": "Kangoo",
+   "cat": "delivery",
+   "pkg": "kangoo.africa.delivery",
+   "ess": false,
+   "note": "Essen bestellen und Pakete in Cotonou verschicken",
+   "city": "Cotonou",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/bj/app/kangoo-benin-food-delivery/id6738387504"
   }
  ]
 }

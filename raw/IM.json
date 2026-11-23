@@ -1,20 +1,104 @@
 {
  "src": "https://www.iombusandrail.im/explore-our-island/visitor-guide/",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Bustickets beim Fahrer kontaktlos zahlen, ausländische Karten gehen außer Maestro und Amex. Go Explore gilt auch für die Bahnen.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1992 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
  "lgbtq_src": "https://equaldex.com/region/isle-of-man",
  "discontinued": [
-  {"name": "IOM Transport", "pkg": "", "src": "https://apps.apple.com/gr/app/iom-transport/id1557010869"}
+  {
+   "name": "IOM Transport",
+   "pkg": "",
+   "src": "https://apps.apple.com/gr/app/iom-transport/id1557010869"
+  }
  ],
  "apps": [
-  {"name": "MANNgo Isle of Man Transport", "cat": "transit", "pkg": "", "ess": true, "note": "Rufbus connectVILLAGES im Norden um Ramsey buchen", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1572640935"},
-  {"name": "Kivoon: Isle of Man Bus Times", "cat": "transit", "pkg": "", "ess": false, "note": "Inoffiziell: Live-Abfahrten für Bus und historische Bahnen", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id6760610031"},
-  {"name": "One Island", "cat": "taxi", "pkg": "", "ess": true, "note": "Taxi buchen, verfolgen und zahlen, dazu Bus- und Fährinfos", "city": "", "use": "ok", "req": "", "src": "https://www.manxradio.com/news/isle-of-man-news/one-island-app-brings-uber-style-taxis-to-island/"},
-  {"name": "Dazzler: Food, Venues & Events", "cat": "delivery", "pkg": "", "ess": false, "note": "Lokale Essenslieferung, Abholung und Tischreservierung", "city": "Douglas", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id6771701530"},
-  {"name": "Just Eat", "cat": "delivery", "pkg": "", "ess": false, "note": "Bestellen bei einzelnen Lieferdiensten wie Domino's", "city": "", "use": "ok", "req": "", "src": "https://www.just-eat.co.uk/restaurants-dominos-douglas-isle-of-man/menu"},
-  {"name": "RingGo", "cat": "parking", "pkg": "", "ess": false, "note": "Parken am Flughafen Ronaldsway per App bezahlen", "city": "", "use": "ok", "req": "", "src": "https://www.gov.im/news/2022/may/20/cashless-parking-system-to-launch-at-isle-of-man-airport-on-tuesday-24-may/"},
-  {"name": "TT+", "cat": "tourism", "pkg": "ott.ttplus", "ess": false, "note": "Offizielle TT-Rennen als Livestream und Archiv", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=ott.ttplus"}
+  {
+   "name": "MANNgo Isle of Man Transport",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Rufbus connectVILLAGES im Norden um Ramsey buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1572640935"
+  },
+  {
+   "name": "Kivoon: Isle of Man Bus Times",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Inoffiziell: Live-Abfahrten für Bus und historische Bahnen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6760610031"
+  },
+  {
+   "name": "One Island",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Taxi buchen, verfolgen und zahlen, dazu Bus- und Fährinfos",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.manxradio.com/news/isle-of-man-news/one-island-app-brings-uber-style-taxis-to-island/"
+  },
+  {
+   "name": "Dazzler: Food, Venues & Events",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Essenslieferung, Abholung und Tischreservierung",
+   "city": "Douglas",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6771701530"
+  },
+  {
+   "name": "Just Eat",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Bestellen bei einzelnen Lieferdiensten wie Domino's",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.just-eat.co.uk/restaurants-dominos-douglas-isle-of-man/menu"
+  },
+  {
+   "name": "RingGo",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken am Flughafen Ronaldsway per App bezahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gov.im/news/2022/may/20/cashless-parking-system-to-launch-at-isle-of-man-airport-on-tuesday-24-may/"
+  },
+  {
+   "name": "TT+",
+   "cat": "tourism",
+   "pkg": "ott.ttplus",
+   "ess": false,
+   "note": "Offizielle TT-Rennen als Livestream und Archiv",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=ott.ttplus"
+  }
+ ],
+ "replace": [
+  {
+   "old": "MANNgo Isle of Man Transport",
+   "pkg": "isleofman.rider"
+  },
+  {
+   "old": "Kivoon: Isle of Man Bus Times",
+   "pkg": "im.kivoon.app"
+  }
  ]
 }

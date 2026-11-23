@@ -72,6 +72,45 @@
    "use": "ok",
    "req": "",
    "src": "https://play.google.com/store/apps/details?id=com.intertech.visitramallah&hl=en&gl=US"
+  },
+  {
+   "name": "Wheels NOW",
+   "cat": "delivery",
+   "pkg": "ps.wheels.delivery.order",
+   "ess": false,
+   "note": "Essen von Restaurants in Palästina liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung und Zahlung in der Quelle nicht beschrieben",
+   "src": "https://play.google.com/store/apps/details?id=ps.wheels.delivery.order&hl=en&gl=PS"
+  },
+  {
+   "name": "Ramallah Municipality",
+   "cat": "misc",
+   "pkg": "app.intertech.ramallah",
+   "ess": false,
+   "note": "Stadtinfos, Veranstaltungen und Kontakt der Stadt Ramallah",
+   "city": "Ramallah",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=app.intertech.ramallah&hl=en&gl=PS"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "ess": false,
+   "note": "Busverbindungen, etwa Ostjerusalem nach Ramallah",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://moovitapp.com/index/en/public_transit-Ramallah_Bireh_Bus_Station-Israel-site_33036823-1"
+  }
+ ],
+ "replace": [
+  {
+   "old": "Yummy",
+   "pkg": "app.yummy.ps"
   }
  ]
 }

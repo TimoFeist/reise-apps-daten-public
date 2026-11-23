@@ -1,9 +1,99 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/203266", "fetched": "2026-11-20", "updated": "20.11.2026", "note": "Reisewarnung und Aufruf zur Ausreise; Visum vorab in Berlin, ausländische Karten gehen nicht, Bargeld in USD oder EUR mitnehmen.", "lgbtq_note": "Homosexuelle Handlungen sind strafbar, bei Wiederholung droht lebenslange Haft, das Recht ist stark von der Scharia geprägt.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/203266", "discontinued": [], "apps": [
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"},
-{"name": "ELEFAND", "cat": "safety", "pkg": "", "ess": true, "note": "Eintrag in die Krisenvorsorgeliste des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"},
-{"name": "Tirhal", "cat": "taxi", "pkg": "com.multibrains.taxi.passenger.tirhal", "ess": false, "note": "Taxi per App in Khartum, Wad Madani, El Obeid und Port Sudan", "city": "", "use": "limited", "req": "Konto mit Telefonnummer nötig, Betrieb wegen Krieg unsicher", "src": "https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.tirhal&hl=en_US&gl=US"},
-{"name": "Lemon", "cat": "taxi", "pkg": "sd.lemon", "ess": false, "note": "Fahrten und Essenslieferung, Zahlung bar oder per Guthaben", "city": "", "use": "limited", "req": "Bediengebiete nicht genannt, vorab in der App prüfen", "src": "https://play.google.com/store/apps/details?id=sd.lemon&hl=en_US"},
-{"name": "Talabak", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung von Essen, Einkäufen und Apothekenartikeln", "city": "", "use": "limited", "req": "Liefergebiete nicht genannt, vorab in der App prüfen", "src": "https://apps.apple.com/app/id6757619047"},
-{"name": "Bankak", "cat": "payment", "pkg": "com.mode.bok.ui", "ess": false, "note": "Banking und QR-Zahlung der Bank of Khartoum", "city": "", "use": "no", "req": "Konto bei der Bank of Khartoum oder sudanesische Mobilnummer nötig", "src": "https://play.google.com/store/apps/details?id=com.mode.bok.ui&hl=en_US"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, im Sudan gefährlich", "city": "", "use": "no", "req": "Homosexuelle Handlungen werden mit Haft bestraft", "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
+ "fetched": "2026-11-23",
+ "updated": "20.11.2026",
+ "note": "Reisewarnung und Aufruf zur Ausreise; Visum vorab in Berlin, ausländische Karten gehen nicht, Bargeld in USD oder EUR mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar, bei Wiederholung droht lebenslange Haft, das Recht ist stark von der Scharia geprägt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"
+  },
+  {
+   "name": "ELEFAND",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Eintrag in die Krisenvorsorgeliste des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"
+  },
+  {
+   "name": "Tirhal",
+   "cat": "taxi",
+   "pkg": "com.multibrains.taxi.passenger.tirhal",
+   "ess": false,
+   "note": "Taxi per App in Khartum, Wad Madani, El Obeid und Port Sudan",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit Telefonnummer nötig, Betrieb wegen Krieg unsicher",
+   "src": "https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.tirhal&hl=en_US&gl=US"
+  },
+  {
+   "name": "Lemon",
+   "cat": "taxi",
+   "pkg": "sd.lemon",
+   "ess": false,
+   "note": "Fahrten und Essenslieferung, Zahlung bar oder per Guthaben",
+   "city": "",
+   "use": "limited",
+   "req": "Bediengebiete nicht genannt, vorab in der App prüfen",
+   "src": "https://play.google.com/store/apps/details?id=sd.lemon&hl=en_US"
+  },
+  {
+   "name": "Talabak",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von Essen, Einkäufen und Apothekenartikeln",
+   "city": "",
+   "use": "limited",
+   "req": "Liefergebiete nicht genannt, vorab in der App prüfen",
+   "src": "https://apps.apple.com/app/id6757619047"
+  },
+  {
+   "name": "Bankak",
+   "cat": "payment",
+   "pkg": "com.mode.bok.ui",
+   "ess": false,
+   "note": "Banking und QR-Zahlung der Bank of Khartoum",
+   "city": "",
+   "use": "no",
+   "req": "Konto bei der Bank of Khartoum oder sudanesische Mobilnummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.mode.bok.ui&hl=en_US"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, im Sudan gefährlich",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen werden mit Haft bestraft",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"
+  },
+  {
+   "name": "Musafir",
+   "cat": "rail",
+   "pkg": "app.musafir.musafir",
+   "ess": false,
+   "note": "Bus, Flug und Hotel im Sudan buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=app.musafir.musafir"
+  }
+ ]
+}

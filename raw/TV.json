@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Visumfrei bis 90 Tage, aber keine Geldautomaten und keine Kartenzahlung, daher genug AUD bar für den ganzen Aufenthalt mitnehmen.",
  "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind laut Auswärtigem Amt verboten und können mit Haftstrafen belegt werden.",
@@ -61,6 +61,28 @@
    "use": "ok",
    "req": "",
    "src": "https://www.timelesstuvalu.com/travel-to-the-tuvalu-islands/"
+  },
+  {
+   "name": "Tuvalu Telecom",
+   "cat": "misc",
+   "pkg": "com.tuvalu.user",
+   "ess": false,
+   "note": "Guthaben, Verbrauch und Rechnungen im 4G Netz von TTC",
+   "city": "",
+   "use": "limited",
+   "req": "SIM-Karte von Tuvalu Telecom nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.tuvalu.user&hl=en&gl=TV"
+  },
+  {
+   "name": "M-Tupe Customer",
+   "cat": "payment",
+   "pkg": "com.tuvalu.consumer",
+   "ess": false,
+   "note": "Mobile Geldbörse von TTC für Zahlungen in Läden",
+   "city": "",
+   "use": "no",
+   "req": "TTC Mobilnummer und Wallet-Registrierung nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.tuvalu.consumer&hl=en&gl=TV"
   }
  ]
 }

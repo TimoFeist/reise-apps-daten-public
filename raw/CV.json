@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Vor Abflug EASE auf ease.gov.cv ausfüllen und zahlen; Uber und Bolt gibt es nicht, Fährtickets online bei cvinterilhas.cv.",
  "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind legal und Diskriminierung ist verboten, gleichgeschlechtliche Partnerschaften werden aber nicht anerkannt.",
@@ -83,6 +83,28 @@
    "use": "ok",
    "req": "",
    "src": "https://appgoblin.info/apps/com.morabexcaboverde"
+  },
+  {
+   "name": "Taxi Seguro",
+   "cat": "taxi",
+   "pkg": "com.taxicv",
+   "ess": false,
+   "note": "Taxi per App mit Fahrpreis und Fahrerdaten vorab",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.taxicv"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "ess": false,
+   "note": "Routenplaner für Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://moovitapp.com/index/en/public_transit-countries"
   }
  ]
 }

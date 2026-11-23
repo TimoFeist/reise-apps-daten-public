@@ -1,9 +1,99 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542", "fetched": "2026-11-18", "updated": "03.11.2026", "note": "Visum vorab bei der Botschaft in Berlin beantragen, kein Visum bei Ankunft; Gelbfieber-Impfnachweis und Euro bar mitnehmen.", "lgbtq_note": "Kein ausdrückliches Verbot genannt, offen gezeigte homosexuelle Handlungen können aber zu willkürlichen Verhaftungen wegen Sittenwidrigkeit führen.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542", "discontinued": [], "apps": [
-{"name": "Gozem", "cat": "taxi", "pkg": "com.gozem", "ess": true, "note": "Super-App für Taxis und Premiumfahrten in Brazzaville", "city": "Brazzaville", "use": "ok", "req": "", "src": "https://gozem.co/cg/en/"},
-{"name": "Noki Noki", "cat": "delivery", "pkg": "", "ess": false, "note": "Kurier, Essen und Einkäufe in Brazzaville und Pointe-Noire", "city": "", "use": "ok", "req": "", "src": "https://www.wearetech.africa/fr/fils/solutions/congo-noki-noki-opere-dans-la-livraison-au-dernier-kilometre"},
-{"name": "Europcar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen in Brazzaville online reservieren", "city": "Brazzaville", "use": "limited", "req": "Führerschein und Kreditkarte nötig", "src": "https://www.europcar.com/pt-br/places/car-rental-congo/brazzaville/brazaville"},
-{"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Brazzaville buchen", "city": "Brazzaville", "use": "limited", "req": "Führerschein und Kreditkarte nötig", "src": "https://www.avis.com/fr/locations/cg/brassaville/bzv"},
-{"name": "MTN MoMo", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money von MTN für Zahlungen und Überweisungen", "city": "", "use": "no", "req": "MTN-Congo-Nummer und Registrierung mit Ausweis bei einem Agenten nötig", "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-mtn-momo-congo-2026/"},
-{"name": "Airtel Money", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money von Airtel für Zahlungen und Überweisungen", "city": "", "use": "no", "req": "Aktive Airtel-Congo-Nummer und Aufenthaltstitel oder kongolesischer Ausweis nötig", "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-airtel-money-congo/"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, in der Republik Kongo riskant", "city": "", "use": "no", "req": "Willkürliche Verhaftungen wegen homosexueller Handlungen möglich", "src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542",
+ "fetched": "2026-11-18",
+ "updated": "03.11.2026",
+ "note": "Visum vorab bei der Botschaft in Berlin beantragen, kein Visum bei Ankunft; Gelbfieber-Impfnachweis und Euro bar mitnehmen.",
+ "lgbtq_note": "Kein ausdrückliches Verbot genannt, offen gezeigte homosexuelle Handlungen können aber zu willkürlichen Verhaftungen wegen Sittenwidrigkeit führen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Gozem",
+   "cat": "taxi",
+   "pkg": "com.gozem",
+   "ess": true,
+   "note": "Super-App für Taxis und Premiumfahrten in Brazzaville",
+   "city": "Brazzaville",
+   "use": "ok",
+   "req": "",
+   "src": "https://gozem.co/cg/en/"
+  },
+  {
+   "name": "Noki Noki",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Kurier, Essen und Einkäufe in Brazzaville und Pointe-Noire",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.wearetech.africa/fr/fils/solutions/congo-noki-noki-opere-dans-la-livraison-au-dernier-kilometre"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen in Brazzaville online reservieren",
+   "city": "Brazzaville",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig",
+   "src": "https://www.europcar.com/pt-br/places/car-rental-congo/brazzaville/brazaville"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Brazzaville buchen",
+   "city": "Brazzaville",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig",
+   "src": "https://www.avis.com/fr/locations/cg/brassaville/bzv"
+  },
+  {
+   "name": "MTN MoMo",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money von MTN für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "MTN-Congo-Nummer und Registrierung mit Ausweis bei einem Agenten nötig",
+   "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-mtn-momo-congo-2026/"
+  },
+  {
+   "name": "Airtel Money",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money von Airtel für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Aktive Airtel-Congo-Nummer und Aufenthaltstitel oder kongolesischer Ausweis nötig",
+   "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-airtel-money-congo/"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in der Republik Kongo riskant",
+   "city": "",
+   "use": "no",
+   "req": "Willkürliche Verhaftungen wegen homosexueller Handlungen möglich",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": true,
+   "note": "Fahrdienst mit Festpreis vor der Fahrt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://yango.com/en_int/"
+  }
+ ]
+}

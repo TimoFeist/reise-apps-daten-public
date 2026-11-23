@@ -1,17 +1,105 @@
 {
  "src": "https://www.norfolkisland.com.au/travel-essentials/faqs/",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Es gelten Australiens Visaregeln, Deutsche brauchen also ein eVisitor, australische SIMs gehen nicht, Touristen-SIM vor Ort kaufen.",
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
  "lgbtq_src": "https://www.equaldex.com/region/norfolk-island",
  "discontinued": [],
  "apps": [
-  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reisehinweise des Auswärtigen Amts, Norfolk unter Australien", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/australien-node/australiensicherheit/213920"},
-  {"name": "Qantas Airways", "cat": "flights", "pkg": "au.com.qantas.qantas", "ess": true, "note": "Buchung und Bordkarte, Flüge ab Sydney und Brisbane", "city": "", "use": "ok", "req": "", "src": "https://appgoblin.info/apps/au.com.qantas.qantas"},
-  {"name": "Norfolk Island National Park", "cat": "tourism", "pkg": "", "ess": true, "note": "Offizielle Park-App mit Offline Karten und Vogelführer", "city": "", "use": "ok", "req": "", "src": "https://norfolkislandnationalpark.gov.au/plan/plan-your-trip/download-official-norfolk-island-national-park-app/"},
-  {"name": "Explore Norfolk Island", "cat": "tourism", "pkg": "", "ess": false, "note": "Selbstgeführte Audio Touren zum Abfahren der Insel", "city": "", "use": "limited", "req": "Zugang wird über Aata Orn Tours gebucht oder vor Ort abgeholt", "src": "https://www.norfolkisland.com.au/things-to-do/tours/explore-norfolk-island/"},
-  {"name": "Norf'k", "cat": "misc", "pkg": "", "ess": false, "note": "Lern-App für die Inselsprache Norf'k", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/dk/app/norfk/id1568038662"},
-  {"name": "Uber", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrdienst, auf der Insel nicht verfügbar", "city": "", "use": "no", "req": "Auf Norfolk Island kein Angebot, Taxis vorab telefonisch buchen", "src": "https://www.milehacker.com/travel/australia/norfolk-island/getting-around-norfolk-island-public-transport-tax/"}
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, Norfolk unter Australien",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/australien-node/australiensicherheit/213920"
+  },
+  {
+   "name": "Qantas Airways",
+   "cat": "flights",
+   "pkg": "au.com.qantas.qantas",
+   "ess": true,
+   "note": "Buchung und Bordkarte, Flüge ab Sydney und Brisbane",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/au.com.qantas.qantas"
+  },
+  {
+   "name": "Norfolk Island National Park",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle Park-App mit Offline Karten und Vogelführer",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://norfolkislandnationalpark.gov.au/plan/plan-your-trip/download-official-norfolk-island-national-park-app/"
+  },
+  {
+   "name": "Explore Norfolk Island",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Selbstgeführte Audio Touren zum Abfahren der Insel",
+   "city": "",
+   "use": "limited",
+   "req": "Zugang wird über Aata Orn Tours gebucht oder vor Ort abgeholt",
+   "src": "https://www.norfolkisland.com.au/things-to-do/tours/explore-norfolk-island/"
+  },
+  {
+   "name": "Norf'k",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Lern-App für die Inselsprache Norf'k",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/dk/app/norfk/id1568038662"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst, auf der Insel nicht verfügbar",
+   "city": "",
+   "use": "no",
+   "req": "Auf Norfolk Island kein Angebot, Taxis vorab telefonisch buchen",
+   "src": "https://www.milehacker.com/travel/australia/norfolk-island/getting-around-norfolk-island-public-transport-tax/"
+  },
+  {
+   "name": "Norfolk Telecom",
+   "cat": "misc",
+   "pkg": "com.zlxn.dl.bossapp",
+   "ess": false,
+   "note": "Guthaben aufladen und Verbrauch im Inselnetz prüfen",
+   "city": "",
+   "use": "limited",
+   "req": "Norfolk Telecom SIM-Karte nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.zlxn.dl.bossapp&hl=en&gl=NF"
+  },
+  {
+   "name": "BOM Weather",
+   "cat": "safety",
+   "pkg": "au.gov.bom.metview",
+   "ess": false,
+   "note": "Wetter und Warnungen des australischen Wetterdienstes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bom.gov.au/nsw/forecasts/index.shtml"
+  }
+ ],
+ "replace": [
+  {
+   "old": "Norfolk Island National Park",
+   "pkg": "com.parksaustralia.ninp"
+  }
  ]
 }

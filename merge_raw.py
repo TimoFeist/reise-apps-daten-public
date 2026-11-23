@@ -208,7 +208,7 @@ def merge(data, code, raw):
 
 
 def add_continents_and_info(data):
-    """Setzt "cont" (Kontinent aus queue/*.json) und "info" (info/wikidata.json + info/trinkgeld.json)."""
+    """Setzt "cont" (Kontinent aus queue/*.json), "info" (info/wikidata.json + info/trinkgeld.json) und "ios" je App (info/ios.json)."""
     cont = {}
     for f in glob.glob(os.path.join(HERE, "queue", "*.json")):
         q = json.load(open(f, encoding="utf-8"))
@@ -235,6 +235,19 @@ def add_continents_and_info(data):
             c["info"] = info
         else:
             c.pop("info", None)
+
+    # iPhone-Version (info/ios.json, erzeugt von tools/ios_ids.py): App-Store-ID je Paket oder Name|Land
+    p = os.path.join(HERE, "info", "ios.json")
+    ios = json.load(open(p, encoding="utf-8")).get("apps", {}) if os.path.exists(p) else {}
+    for c in data["countries"]:
+        for lst in [c["apps"]] + [ci["apps"] for ci in c.get("cities", [])]:
+            for a in lst:
+                key = a.get("pkg") or (a["name"] + "|" + c["code"])
+                i = ios.get(key, {}).get("id", 0)
+                if i:
+                    a["ios"] = i
+                else:
+                    a.pop("ios", None)
 
 
 def main():

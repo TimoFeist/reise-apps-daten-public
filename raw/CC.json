@@ -1,6 +1,6 @@
 {
  "src": "https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Es gibt keine Geldautomaten, also genug Bargeld mitnehmen. Deutsche brauchen wie für Australien ein eVisitor-Visum.",
  "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Recht mit Ehe für alle und Schutz vor Diskriminierung.",
@@ -17,6 +17,28 @@
    "use": "ok",
    "req": "",
    "src": "https://www.virginaustralia.com/eu/en/travel-info/on-the-move/virgin-australia-app/"
+  },
+  {
+   "name": "Qantas Airways",
+   "cat": "flights",
+   "pkg": "au.com.qantas.qantas",
+   "ess": true,
+   "note": "Flüge ab Perth über die Weihnachtsinsel buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.christmas.net.au/flights"
+  },
+  {
+   "name": "BOM Weather",
+   "cat": "safety",
+   "pkg": "au.gov.bom.metview",
+   "ess": false,
+   "note": "Wetter und Warnungen des australischen Wetterdienstes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bom.gov.au/wa/forecasts/index.shtml"
   }
  ]
 }

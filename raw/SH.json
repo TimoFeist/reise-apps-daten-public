@@ -1,1 +1,44 @@
-{"src": "https://sthelenaairport.com/at-the-airport/directions-and-transport/", "fetched": "2026-11-18", "updated": "", "note": "Taxis und Mietwagen sind knapp und sollten vor der Reise gebucht werden; Busse sind der einzige öffentliche Verkehr.", "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.", "lgbtq_src": "https://thepinknews.com/2017/12/20/this-tiny-island-just-passed-same-sex-marriage/", "discontinued": [], "apps": [{"name": "Outdooractive", "cat": "tourism", "pkg": "", "ess": true, "note": "Offizielle Post Box Walks von St Helena Tourism", "city": "", "use": "ok", "req": "", "src": "https://atta.travel/resource/st-helena-launches-famous-post-box-walks-on-outdooractive-app.html"}, {"name": "Fly Airlink", "cat": "flights", "pkg": "", "ess": true, "note": "Flüge der Airlink buchen, einchecken, Status prüfen", "city": "", "use": "ok", "req": "", "src": "https://atcnews.org/airlink-launches-app-for-passenger-convenience/"}]}
+{
+ "src": "https://sthelenaairport.com/at-the-airport/directions-and-transport/",
+ "fetched": "2026-11-23",
+ "updated": "",
+ "note": "Taxis und Mietwagen sind knapp und sollten vor der Reise gebucht werden; Busse sind der einzige öffentliche Verkehr.",
+ "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.",
+ "lgbtq_src": "https://thepinknews.com/2017/12/20/this-tiny-island-just-passed-same-sex-marriage/",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Outdooractive",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle Post Box Walks von St Helena Tourism",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://atta.travel/resource/st-helena-launches-famous-post-box-walks-on-outdooractive-app.html"
+  },
+  {
+   "name": "Fly Airlink",
+   "cat": "flights",
+   "pkg": "",
+   "ess": true,
+   "note": "Flüge der Airlink buchen, einchecken, Status prüfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://atcnews.org/airlink-launches-app-for-passenger-convenience/"
+  },
+  {
+   "name": "St Helena Tourist Card",
+   "cat": "payment",
+   "pkg": "com.banking.mBankTC",
+   "ess": true,
+   "note": "Virtuelle Prepaidkarte der Bank, Zahlung per QR",
+   "city": "",
+   "use": "limited",
+   "req": "Vorab online registrieren, Freischaltung dauert 24 Std.",
+   "src": "https://www.sainthelenabank.com/tourist-card/tourist-card-app/"
+  }
+ ]
+}

@@ -1,9 +1,110 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168", "fetched": "2026-11-18", "updated": "18.11.2026", "note": "Visum nötig, am besten vorab als E-Visum über evisa.gouv.dj; Pass sechs Monate gültig. Kreditkarten selten, Bargeld mitnehmen.", "lgbtq_note": "Keine Fälle strafrechtlicher Verfolgung bekannt, gleichgeschlechtliche Partnerschaften werden gesellschaftlich aber nicht toleriert; Zurückhaltung ratsam.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168", "discontinued": [], "apps": [
-{"name": "Sahaal Ride", "cat": "taxi", "pkg": "", "ess": true, "note": "Lokaler Fahrdienst, Zahlung bar oder per Mobile Money", "city": "Djibouti", "use": "ok", "req": "", "src": "https://wearetech.africa/en/fils-uk/solutions/djibouti-s-sahaal-ride-app-connects-riders-and-drivers-with-flexible-payments"},
-{"name": "RIDE: Ethiopia & Djibouti", "cat": "taxi", "pkg": "", "ess": false, "note": "Taxi-Buchung, vor allem Addis Abeba, auch Dschibuti", "city": "", "use": "ok", "req": "", "src": "https://appgoblin.info/apps/1375514824"},
-{"name": "Europcar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen online buchen, mehrere Stationen im Land", "city": "", "use": "ok", "req": "", "src": "https://www.europcar.ie/en-ie/car-rental/locations/djibouti/djibouti"},
-{"name": "Limo", "cat": "delivery", "pkg": "", "ess": false, "note": "Marktplatz mit Lieferung von Läden und Restaurants", "city": "Djibouti", "use": "ok", "req": "", "src": "https://wearetech.africa/en/fils-uk/solutions/limo-brings-online-marketplace-and-home-delivery-services-to-djibouti"},
-{"name": "Kikidrop", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung aus Restaurants, Läden und Apotheken", "city": "Djibouti", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id1514836238"},
-{"name": "Djibouti Money", "cat": "payment", "pkg": "", "ess": false, "note": "D-Money von Djibouti Telecom für Zahlungen und Transfers", "city": "", "use": "no", "req": "Nur für Kunden von Djibouti Telecom, lokale SIM nötig", "src": "https://apps.apple.com/us/app/id1581317470"},
-{"name": "WAAFI", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money der Salaam African Bank", "city": "", "use": "no", "req": "Lokale Telefonnummer und Identitätsprüfung nötig", "src": "https://apps.apple.com/nl/app/waafi-app/id1164281864"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
+ "fetched": "2026-11-23",
+ "updated": "18.11.2026",
+ "note": "Visum nötig, am besten vorab als E-Visum über evisa.gouv.dj; Pass sechs Monate gültig. Kreditkarten selten, Bargeld mitnehmen.",
+ "lgbtq_note": "Keine Fälle strafrechtlicher Verfolgung bekannt, gleichgeschlechtliche Partnerschaften werden gesellschaftlich aber nicht toleriert; Zurückhaltung ratsam.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sahaal Ride",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Lokaler Fahrdienst, Zahlung bar oder per Mobile Money",
+   "city": "Djibouti",
+   "use": "ok",
+   "req": "",
+   "src": "https://wearetech.africa/en/fils-uk/solutions/djibouti-s-sahaal-ride-app-connects-riders-and-drivers-with-flexible-payments"
+  },
+  {
+   "name": "RIDE: Ethiopia & Djibouti",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi-Buchung, vor allem Addis Abeba, auch Dschibuti",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/1375514824"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen online buchen, mehrere Stationen im Land",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.europcar.ie/en-ie/car-rental/locations/djibouti/djibouti"
+  },
+  {
+   "name": "Limo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Marktplatz mit Lieferung von Läden und Restaurants",
+   "city": "Djibouti",
+   "use": "ok",
+   "req": "",
+   "src": "https://wearetech.africa/en/fils-uk/solutions/limo-brings-online-marketplace-and-home-delivery-services-to-djibouti"
+  },
+  {
+   "name": "Kikidrop",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung aus Restaurants, Läden und Apotheken",
+   "city": "Djibouti",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1514836238"
+  },
+  {
+   "name": "Djibouti Money",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "D-Money von Djibouti Telecom für Zahlungen und Transfers",
+   "city": "",
+   "use": "no",
+   "req": "Nur für Kunden von Djibouti Telecom, lokale SIM nötig",
+   "src": "https://apps.apple.com/us/app/id1581317470"
+  },
+  {
+   "name": "WAAFI",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money der Salaam African Bank",
+   "city": "",
+   "use": "no",
+   "req": "Lokale Telefonnummer und Identitätsprüfung nötig",
+   "src": "https://apps.apple.com/nl/app/waafi-app/id1164281864"
+  },
+  {
+   "name": "Limo",
+   "cat": "delivery",
+   "pkg": "com.customer.limoo",
+   "ess": false,
+   "note": "Marktplatz mit Lieferung von Läden und Restaurants",
+   "city": "Djibouti",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.customer.limoo"
+  },
+  {
+   "name": "Djibouti Money",
+   "cat": "payment",
+   "pkg": "com.djiboutitelecom.dmoney.customer",
+   "ess": false,
+   "note": "D-Money von Djibouti Telecom für Zahlungen und Transfers",
+   "city": "",
+   "use": "no",
+   "req": "Nur für Kunden von Djibouti Telecom, lokale SIM nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.djiboutitelecom.dmoney.customer"
+  }
+ ]
+}

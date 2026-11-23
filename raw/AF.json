@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "Stand AA: 20.11.2026",
  "note": "Das Auswärtige Amt warnt vor Reisen nach Afghanistan und fordert Deutsche zur Ausreise auf. Die Botschaft Kabul ist geschlossen, Hilfe vor Ort ist nicht möglich. Deutsche brauchen vorab ein Visum, einen Reisepass mit 6 Monaten Restgültigkeit und eine Polio-Impfung. Bezahlt wird fast nur bar, Internet und Mobilfunk können jederzeit abgeschaltet werden.",
  "lgbtq_note": "Homosexualität und Transsexualität sind verboten und strafbar, Betroffenen droht Gewalt in Haft, Handys und soziale Medien werden bei Kontrollen durchsucht.",
@@ -84,6 +84,17 @@
    "use": "ok",
    "req": "",
    "src": "https://mwm.ai/apps/kam-air-trustable-wings/1451184763"
+  },
+  {
+   "name": "HesabPay",
+   "cat": "payment",
+   "pkg": "af.hesab.app",
+   "ess": false,
+   "note": "Mobile Geldbörse für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Telefonnummer, Bedingungen für Ausländer unklar",
+   "src": "https://play.google.com/store/apps/details?id=af.hesab.app&hl=en&gl=AF"
   }
  ],
  "replace": [
@@ -95,6 +106,14 @@
    "url": "https://flyariana.af/",
    "nostore": true,
    "src": "https://flyariana.af/"
+  },
+  {
+   "old": "Raftar",
+   "pkg": "com.raftarrides.com"
+  },
+  {
+   "old": "MZ: Food Online",
+   "pkg": "com.order.mz"
   }
  ]
 }

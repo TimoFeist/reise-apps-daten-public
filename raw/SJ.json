@@ -83,6 +83,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.lokalstyre.no/engelsk/longyearbyen-local-council/services/resident-information/new-in-longyearbyen"
+  },
+  {
+   "name": "Svalbard Audio",
+   "cat": "tourism",
+   "pkg": "com.spitzbergenreisenas.svalbardaudio",
+   "ess": false,
+   "note": "Audioguide mit Karte für Longyearbyen von lokalem Anbieter",
+   "city": "Longyearbyen",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.spitzbergenreisenas.svalbardaudio&hl=en&gl=NO"
   }
  ]
 }

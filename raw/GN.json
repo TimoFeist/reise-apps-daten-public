@@ -84,6 +84,17 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
    "url": "https://www.paf.gov.gn/visa",
    "nostore": true
+  },
+  {
+   "name": "Tictac Drive",
+   "cat": "taxi",
+   "pkg": "com.tictacdrive.app",
+   "ess": false,
+   "note": "Fahrten per Auto oder Moto, auch Flughafentransfer",
+   "city": "Conakry",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.tictacdrive.app"
   }
  ]
 }

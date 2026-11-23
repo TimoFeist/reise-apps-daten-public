@@ -1,6 +1,66 @@
-{"src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434", "fetched": "2026-11-18", "updated": "Stand: 18.11.2026 (Auswärtiges Amt)", "note": "Bis 15 Tage visumfrei, am Flughafen 25 EUR Tourismusabgabe; nur Visa-Karten gehen, genug Bargeld mitnehmen.", "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434", "discontinued": [], "apps": [
-{"name": "eVisa São Tomé e Príncipe", "cat": "entry", "pkg": "", "ess": false, "note": "Online-Visum für Aufenthalte über 15 Tage", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434"},
-{"name": "Dobra Digital", "cat": "payment", "pkg": "", "ess": false, "note": "Lokale Wallet, Zahlen per QR-Code bei Händlern", "city": "", "use": "limited", "req": "Registrierung laut Quelle unklar; Aufladung per Visa oder Bank", "src": "https://apps.apple.com/st/app/dobra-digital/id1557688732"},
-{"name": "Maps.me", "cat": "maps", "pkg": "", "ess": false, "note": "Offline-Karten für die Inseln", "city": "", "use": "ok", "req": "", "src": "https://www.milehacker.com/travel/sao-tome-principe/sao-tome/getting-around-sao-tome-public-transport-taxis-car/"},
-{"name": "TAP Air Portugal", "cat": "flights", "pkg": "", "ess": false, "note": "Flüge über Lissabon nach São Tomé", "city": "", "use": "ok", "req": "", "src": "https://www.flytap.com/pt_pt/voos-para-sao-tome-e-principe"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
+ "fetched": "2026-11-23",
+ "updated": "Stand: 18.11.2026 (Auswärtiges Amt)",
+ "note": "Bis 15 Tage visumfrei, am Flughafen 25 EUR Tourismusabgabe; nur Visa-Karten gehen, genug Bargeld mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "eVisa São Tomé e Príncipe",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Online-Visum für Aufenthalte über 15 Tage",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434"
+  },
+  {
+   "name": "Dobra Digital",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Wallet, Zahlen per QR-Code bei Händlern",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung laut Quelle unklar; Aufladung per Visa oder Bank",
+   "src": "https://apps.apple.com/st/app/dobra-digital/id1557688732"
+  },
+  {
+   "name": "Maps.me",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline-Karten für die Inseln",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/sao-tome-principe/sao-tome/getting-around-sao-tome-public-transport-taxis-car/"
+  },
+  {
+   "name": "TAP Air Portugal",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge über Lissabon nach São Tomé",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.flytap.com/pt_pt/voos-para-sao-tome-e-principe"
+  },
+  {
+   "name": "popgostp",
+   "cat": "taxi",
+   "pkg": "popgostp.taxi.sao.tome.passenger",
+   "ess": false,
+   "note": "Fahrten, Flughafentransfer und Inselrundfahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/popgostp-ride-taxi-sao-tome/id6800326858"
+  }
+ ]
+}

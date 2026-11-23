@@ -1,6 +1,6 @@
 {
  "src": "https://www.expat.com/en/expat-mag/11858-useful-apps-for-everyday-life-in-mauritius.html",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Deutsche brauchen kein Visum, müssen aber vor dem Boarding das All in One Travel Form ausfüllen; Pass 6 Monate gültig.",
  "lgbtq_note": "Paragraph 250 wurde 2023 vom Obersten Gericht für verfassungswidrig erklärt, gilt aber formal weiter; Zurückhaltung in der Öffentlichkeit wird empfohlen.",
@@ -204,6 +204,63 @@
    "use": "limited",
    "req": "Führerschein seit 2 Jahren, Mindestalter 21, Pass",
    "src": "https://www.sixt.ca/car-rental/mauritius/"
+  },
+  {
+   "name": "DodoGo",
+   "cat": "taxi",
+   "pkg": "com.dodotaxi.rider",
+   "ess": false,
+   "note": "Taxi und Flughafentransfer mit Festpreis",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.dodotaxi.rider"
+  },
+  {
+   "name": "Taxi Service Mauritius",
+   "cat": "taxi",
+   "pkg": "com.wapp.taxiservicemauritius",
+   "ess": false,
+   "note": "Taxi, Transfers und Ausflüge für Urlauber",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.wapp.taxiservicemauritius"
+  },
+  {
+   "name": "MoMove",
+   "cat": "transit",
+   "pkg": "com.mur.mo_move_flutter",
+   "ess": false,
+   "note": "Routenplaner für Busse auf Mauritius",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.mur.mo_move_flutter"
+  },
+  {
+   "name": "MoNatir",
+   "cat": "safety",
+   "pkg": "com.naveo.moe",
+   "ess": false,
+   "note": "Luftqualität und Umweltinfos der Regierung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.naveo.moe"
+  },
+  {
+   "name": "Metro Express",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtbahn Port Louis bis Curepipe, Karte MECard",
+   "city": "Port Louis",
+   "use": "ok",
+   "req": "",
+   "src": "https://mauritiusmetroexpress.mu/my-journey/?lang=en",
+   "url": "https://mauritiusmetroexpress.mu/my-journey/?lang=en",
+   "nostore": true
   }
  ]
 }

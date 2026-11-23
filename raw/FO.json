@@ -74,5 +74,11 @@
    "src": "https://www.ssl.fo/en/news/explore-the-faroe-islands-by-public-transport",
    "url": "https://booking.ssl.fo/Booking"
   }
+ ],
+ "replace": [
+  {
+   "old": "Explore Føroyar",
+   "pkg": "fo.exploreforoyar"
+  }
  ]
 }

@@ -1,0 +1,45 @@
+# © 2026 Timo Feist. Alle Rechte vorbehalten.
+# Sucht täglich zu bis zu 1200 Apps die iPhone-Version im Apple App Store (info/ios.json) und baut data.json neu.
+name: iPhone-Apps zuordnen
+
+on:
+  schedule:
+    - cron: "40 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: merge-data
+  cancel-in-progress: false
+
+jobs:
+  ios:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pycountry
+      - name: Zuordnen
+        run: timeout 270m python3 tools/ios_ids.py 1200 || true
+      - name: Hochladen
+        run: |
+          git config user.name "reise-apps-bot"
+          git config user.email "reise-apps-bot@users.noreply.github.com"
+          cp info/ios.json /tmp/ios.json
+          for i in 1 2 3 4 5; do
+            git reset -q --hard
+            git pull -q --rebase origin main
+            cp /tmp/ios.json info/ios.json
+            python3 merge_raw.py
+            git add info/ios.json data.json
+            if git diff --cached --quiet; then echo "Keine Änderung"; exit 0; fi
+            git commit -qm "iPhone-Apps zugeordnet $(date +%F)"
+            if git push -q origin main; then echo "Hochgeladen"; exit 0; fi
+            sleep $((i*10))
+          done
+          exit 1
