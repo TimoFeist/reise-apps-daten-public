@@ -1,10 +1,10 @@
 {
- "vc": 42,
- "vn": "1.0.42",
+ "vc": 43,
+ "vn": "1.0.43",
  "changes": [
-  "LGBTQ+-Orte: Filter heißen jetzt „⚣ Gay“ und „⚢ Lesbisch“"
+  "Apps zeigen jetzt ihr echtes Logo (direkt von Google Play, danach auf dem Handy gespeichert) statt eines Buchstabens"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=494c9416c55443ec",
- "size": 3345564,
- "sha256": "494c9416c55443ec4b4408d84d6397ad08ee9038bed82f92af430fe16f8916cc"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=f2660f2a2c52d9ac",
+ "size": 3481968,
+ "sha256": "f2660f2a2c52d9ac4e021a92b178aed5c73fc25b7700c68ac33ad8cb925cd283"
 }
