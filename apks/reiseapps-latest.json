@@ -1,11 +1,15 @@
 {
- "vc": 51,
- "vn": "1.0.51",
+ "vc": 52,
+ "vn": "1.0.52",
  "changes": [
   "Kopfbereich bei Reisen schmaler, wie bei Ländern und Städten",
-  "Eigene Apps PinRate und Rangr zeigen ihr Logo"
+  "Eigene Apps PinRate und Rangr zeigen ihr Logo",
+  "Schalter „Nur fehlende Apps“ bei Ländern und Städten",
+  "App-Liste eines Ortes als Bild teilen",
+  "Zusätzliche Erinnerung drei Tage vor der Reise",
+  "Neues Widget „Nächste Reise“ für den Startbildschirm"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=22c5bbb6a3552fe1",
- "size": 3727081,
- "sha256": "22c5bbb6a3552fe161ef145c34fe2ad365c2c553824bbbecf37cfa93bee1f077"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=2a80ac5292fd1462",
+ "size": 3754633,
+ "sha256": "2a80ac5292fd146285ed2a2ab835f3c6561a685bdf101b3b5fba0fa4550b7da9"
 }
