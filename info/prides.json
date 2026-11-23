@@ -365,10 +365,12 @@
    "lat": 50.116,
    "lon": -122.957,
    "start": "2027-01-24",
-   "end": "2027-01-30",
+   "end": "2027-01-31",
    "month": 1,
-   "url": "https://www.whistler.com/events/winterpride/",
-   "src": "https://www.whistler.com/events/winterpride/"
+   "url": "https://www.whistlerpride.com/",
+   "src": "https://www.whistlerpride.com/",
+   "type": "fest",
+   "cat": "ski"
   },
   {
    "name": "Basel Pride",
@@ -1233,10 +1235,12 @@
    "month": 8,
    "url": "https://luebeck-pride.de/",
    "last": "2026-08-14",
-   "src": "https://www.queer.de/csd-termine.php",
+   "src": "https://luebeck-pride.de/",
    "alt": [
     "Luebeck"
-   ]
+   ],
+   "start": "2027-08-20",
+   "end": "2027-08-21"
   },
   {
    "name": "CSD Lüneburg",
@@ -1323,7 +1327,7 @@
    "end": "2027-08-28",
    "month": 8,
    "url": "https://csd-muenster.de",
-   "src": "https://csd-deutschland.de/csd-saison/csd-termine/"
+   "src": "https://csd-muenster.de/csd-muenster-2026/"
   },
   {
    "name": "CSD Niebüll",
@@ -1444,7 +1448,9 @@
    "month": 6,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
    "last": "2026-06-13",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.spotlight-pforzheim.de/csd-pforzheim/csd-2027/",
+   "start": "2027-06-12",
+   "end": "2027-06-12"
   },
   {
    "name": "CSD Pinneberg",
@@ -1535,10 +1541,10 @@
    "lat": 49.24,
    "lon": 6.997,
    "start": "2027-06-05",
-   "end": "2027-06-05",
+   "end": "2027-06-06",
    "month": 6,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "src": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "src": "https://lsvdsaar.de/projekte/csd/",
    "alt": [
     "Saarbruecken"
    ]
@@ -1586,7 +1592,9 @@
    "month": 7,
    "url": "https://www.csd-solingen.de/",
    "last": "2026-07-25",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://klingenpride.de/",
+   "start": "2027-07-31",
+   "end": "2027-07-31"
   },
   {
    "name": "CSD Stendal",
@@ -1837,28 +1845,26 @@
    "city": "Ibiza",
    "cc": "ES",
    "lat": 38.907,
-   "lon": 1.432,
-   "month": 9,
-   "url": "https://ibizapride.com",
-   "src": "https://ibizapride.com",
+   "lon": 1.421,
+   "month": 6,
+   "url": "https://www.ibizapride.es/",
+   "last": "2026-06-06",
+   "src": "https://www.ibizapride.es/",
    "alt": [
     "Eivissa"
    ]
   },
   {
-   "name": "Maspalomas Pride (Gran Canaria)",
-   "city": "Las Palmas de Gran Canaria",
+   "name": "Maspalomas Pride by Freedom",
+   "city": "Maspalomas",
    "cc": "ES",
-   "lat": 28.124,
-   "lon": -15.43,
+   "lat": 27.76,
+   "lon": -15.586,
+   "start": "2027-05-03",
+   "end": "2027-05-09",
    "month": 5,
-   "url": "https://www.maspalomaspride.com",
-   "last": "2026-05-09",
-   "src": "https://www.maspalomas24h.uk/Article/10471/Maspalomas-Pride-returns-for-its-25th-anniversary-with-an-edition-marked-by-diversity--culture-and-advocacy.",
-   "alt": [
-    "Gran Canaria",
-    "Las Palmas"
-   ]
+   "url": "https://maspalomaspridebyfreedom.com/",
+   "src": "https://maspalomaspridebyfreedom.com/es"
   },
   {
    "name": "Orgullo Madrid (MADO)",
@@ -9060,6 +9066,548 @@
    "url": "",
    "last": "2026-05-17",
    "src": "https://hanslucas.com/ovinot/photo/98899"
+  },
+  {
+   "name": "CSD Cuxhaven",
+   "city": "Cuxhaven",
+   "cc": "DE",
+   "lat": 53.861,
+   "lon": 8.694,
+   "start": "2027-06-05",
+   "end": "2027-06-05",
+   "month": 6,
+   "url": "https://csd-cuxhaven.de/",
+   "src": "https://csd-cuxhaven.de/"
+  },
+  {
+   "name": "CSD Salzwedel",
+   "city": "Salzwedel",
+   "cc": "DE",
+   "lat": 52.851,
+   "lon": 11.152,
+   "start": "2027-09-04",
+   "end": "2027-09-04",
+   "month": 9,
+   "url": "https://csd-sachsenanhalt.de/csd-salzwedel",
+   "src": "https://csd-sachsenanhalt.de/csd-salzwedel"
+  },
+  {
+   "name": "CSD Pride-Neubrandenburg",
+   "city": "Neubrandenburg",
+   "cc": "DE",
+   "lat": 53.557,
+   "lon": 13.261,
+   "start": "2027-06-19",
+   "end": "2027-06-19",
+   "month": 6,
+   "url": "https://queernb.de/csd/",
+   "src": "https://queernb.de/csd/"
+  },
+  {
+   "name": "CSD Kaufbeuren (Allgäu Pride)",
+   "city": "Kaufbeuren",
+   "cc": "DE",
+   "lat": 47.88,
+   "lon": 10.622,
+   "month": 9,
+   "last": "2026-09-12",
+   "url": "https://www.allgaeu-pride.de/",
+   "src": "https://www.allgaeu-pride.de/"
+  },
+  {
+   "name": "CSD Burgstädt",
+   "city": "Burgstädt",
+   "cc": "DE",
+   "lat": 50.912,
+   "lon": 12.806,
+   "month": 5,
+   "last": "2026-05-30",
+   "url": "https://www.instagram.com/stadt_land_queer/"
+  },
+  {
+   "name": "CSD Angermünde",
+   "city": "Angermünde",
+   "cc": "DE",
+   "lat": 53.016,
+   "lon": 13.997,
+   "month": 4,
+   "last": "2026-04-11",
+   "url": "https://www.instagram.com/csdangermuende_csdschwedt_oder/"
+  },
+  {
+   "name": "CSD Schwedt/Oder",
+   "city": "Schwedt/Oder",
+   "cc": "DE",
+   "lat": 53.06,
+   "lon": 14.282,
+   "month": 4,
+   "last": "2026-04-25",
+   "url": "https://www.instagram.com/csdangermuende_csdschwedt_oder/"
+  },
+  {
+   "name": "CSD Witzenhausen",
+   "city": "Witzenhausen",
+   "cc": "DE",
+   "lat": 51.341,
+   "lon": 9.857,
+   "month": 5,
+   "last": "2026-05-30",
+   "url": "https://www.instagram.com/queer_witzenhausen"
+  },
+  {
+   "name": "CSD Warendorf",
+   "city": "Warendorf",
+   "cc": "DE",
+   "lat": 51.954,
+   "lon": 7.989,
+   "month": 5,
+   "last": "2026-05-31",
+   "url": "https://www.instagram.com/csdwarendorf/"
+  },
+  {
+   "name": "CSD Bühl",
+   "city": "Bühl",
+   "cc": "DE",
+   "lat": 48.696,
+   "lon": 8.135,
+   "month": 8,
+   "last": "2026-08-01",
+   "url": "https://www.instagram.com/csdbuehl/"
+  },
+  {
+   "name": "CSD Eschwege",
+   "city": "Eschwege",
+   "cc": "DE",
+   "lat": 51.188,
+   "lon": 10.053,
+   "month": 8,
+   "last": "2026-08-15",
+   "url": "https://www.instagram.com/csdeschwegeoffiziell/"
+  },
+  {
+   "name": "CSD Miltenberg",
+   "city": "Miltenberg",
+   "cc": "DE",
+   "lat": 49.703,
+   "lon": 9.264,
+   "month": 6,
+   "last": "2026-06-13",
+   "url": "https://www.instagram.com/jusosmiltenberg/"
+  },
+  {
+   "name": "CSD Freital",
+   "city": "Freital",
+   "cc": "DE",
+   "lat": 51.001,
+   "lon": 13.65,
+   "month": 10,
+   "last": "2026-10-03",
+   "url": "https://www.instagram.com/csd_freital/"
+  },
+  {
+   "name": "CSD Peine",
+   "city": "Peine",
+   "cc": "DE",
+   "lat": 52.32,
+   "lon": 10.236,
+   "month": 8,
+   "last": "2026-08-15",
+   "url": "https://www.instagram.com/csd_peine/"
+  },
+  {
+   "name": "CSD Rotenburg (Wümme)",
+   "city": "Rotenburg (Wümme)",
+   "cc": "DE",
+   "lat": 53.11,
+   "lon": 9.405,
+   "month": 8,
+   "last": "2026-08-29",
+   "url": "https://www.instagram.com/csd.rotenburgwuemme"
+  },
+  {
+   "name": "CSD Prenzlau",
+   "city": "Prenzlau",
+   "cc": "DE",
+   "lat": 53.316,
+   "lon": 13.863,
+   "month": 10,
+   "last": "2026-10-10",
+   "url": "https://www.instagram.com/csd_uckermark_e.v/"
+  },
+  {
+   "name": "Arosa Gay Ski Week",
+   "city": "Arosa",
+   "cc": "CH",
+   "lat": 46.779,
+   "lon": 9.679,
+   "start": "2027-01-16",
+   "end": "2027-01-23",
+   "month": 1,
+   "url": "https://arosagayskiweek.com/",
+   "src": "https://arosagayskiweek.com/",
+   "type": "fest",
+   "cat": "ski"
+  },
+  {
+   "name": "Aspen Gay Ski Week",
+   "city": "Aspen",
+   "cc": "US",
+   "lat": 39.191,
+   "lon": -106.818,
+   "start": "2027-01-17",
+   "end": "2027-01-24",
+   "month": 1,
+   "url": "https://www.gayskiweek.com/",
+   "src": "https://www.gayskiweek.com/",
+   "type": "fest",
+   "cat": "ski"
+  },
+  {
+   "name": "European Snow Pride",
+   "city": "Tignes",
+   "cc": "FR",
+   "lat": 45.468,
+   "lon": 6.906,
+   "start": "2027-03-20",
+   "end": "2027-03-27",
+   "month": 3,
+   "url": "https://www.europeansnowpride.com/",
+   "src": "https://www.europeansnowpride.com/",
+   "type": "fest",
+   "cat": "ski"
+  },
+  {
+   "name": "Winter Pride Sölden",
+   "city": "Sölden",
+   "cc": "AT",
+   "lat": 46.969,
+   "lon": 11.008,
+   "start": "2027-03-13",
+   "end": "2027-03-20",
+   "month": 3,
+   "url": "https://www.winterpride-soelden.com/",
+   "src": "https://www.winterpride-soelden.com/",
+   "type": "fest",
+   "cat": "ski"
+  },
+  {
+   "name": "Leather & Fetish Pride Netherlands (Amsterdam Leather Pride)",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.373,
+   "lon": 4.893,
+   "month": 10,
+   "url": "https://leatherpride.nl/",
+   "last": "2026-10-15",
+   "src": "https://leatherpride.nl/",
+   "type": "fest",
+   "cat": "fetish"
+  },
+  {
+   "name": "Beyond Darklands",
+   "city": "Antwerpen",
+   "cc": "BE",
+   "lat": 51.219,
+   "lon": 4.402,
+   "start": "2027-02-16",
+   "end": "2027-02-22",
+   "month": 2,
+   "url": "https://www.darklands.be/",
+   "src": "https://www.darklands.be/",
+   "type": "fest",
+   "cat": "fetish",
+   "alt": [
+    "Antwerp",
+    "Anvers"
+   ]
+  },
+  {
+   "name": "Easter Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "start": "2027-03-23",
+   "end": "2027-03-29",
+   "month": 3,
+   "url": "https://blf.de/easterberlin/",
+   "src": "https://blf.de/easterberlin/",
+   "type": "fest",
+   "cat": "fetish"
+  },
+  {
+   "name": "Folsom Europe",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "start": "2027-09-08",
+   "end": "2027-09-12",
+   "month": 9,
+   "url": "https://folsomeurope.berlin/",
+   "src": "https://folsomeurope.berlin/",
+   "type": "fest",
+   "cat": "fetish"
+  },
+  {
+   "name": "Folsom Street Fair",
+   "city": "San Francisco",
+   "cc": "US",
+   "lat": 37.775,
+   "lon": -122.419,
+   "start": "2027-09-26",
+   "end": "2027-09-26",
+   "month": 9,
+   "url": "https://www.folsomstreet.org/",
+   "src": "https://www.folsomstreet.org/",
+   "type": "fest",
+   "cat": "fetish",
+   "alt": [
+    "SF"
+   ]
+  },
+  {
+   "name": "Velvet Ibiza",
+   "city": "Ibiza",
+   "cc": "ES",
+   "lat": 38.907,
+   "lon": 1.421,
+   "start": "2027-05-20",
+   "end": "2027-05-24",
+   "month": 5,
+   "url": "https://www.velvetibiza.es/",
+   "src": "https://www.velvetibiza.es/",
+   "type": "fest",
+   "cat": "lesbian",
+   "alt": [
+    "Eivissa"
+   ]
+  },
+  {
+   "name": "ELLA Festival Mallorca",
+   "city": "Palma",
+   "cc": "ES",
+   "lat": 39.57,
+   "lon": 2.65,
+   "start": "2027-08-26",
+   "end": "2027-09-03",
+   "month": 8,
+   "url": "https://www.ellafestival.com/",
+   "src": "https://www.ellafestival.com/",
+   "type": "fest",
+   "cat": "lesbian",
+   "alt": [
+    "Majorca",
+    "Mallorca",
+    "Palma de Mallorca"
+   ]
+  },
+  {
+   "name": "MAD.BEAR Madrid",
+   "city": "Madrid",
+   "cc": "ES",
+   "lat": 40.417,
+   "lon": -3.704,
+   "start": "2026-12-03",
+   "end": "2026-12-10",
+   "month": 12,
+   "url": "https://madbear.org/",
+   "src": "https://madbear.org/",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "Circuit Festival",
+   "city": "Barcelona",
+   "cc": "ES",
+   "lat": 41.387,
+   "lon": 2.17,
+   "start": "2027-08-07",
+   "end": "2027-08-15",
+   "month": 8,
+   "url": "https://circuitfestival.net/barcelona/",
+   "src": "https://circuitfestival.net/barcelona/",
+   "type": "fest",
+   "cat": "circuit"
+  },
+  {
+   "name": "XLSIOR Mykonos",
+   "city": "Mykonos",
+   "cc": "GR",
+   "lat": 37.446,
+   "lon": 25.329,
+   "month": 8,
+   "url": "https://xlsiorfestival.com/",
+   "last": "2026-08-20",
+   "src": "https://xlsiorfestival.com/program/",
+   "type": "fest",
+   "cat": "circuit"
+  },
+  {
+   "name": "Milkshake Festival",
+   "city": "Amsterdam",
+   "cc": "NL",
+   "lat": 52.386,
+   "lon": 4.875,
+   "start": "2027-07-24",
+   "end": "2027-07-25",
+   "month": 7,
+   "url": "https://www.milkshakefestival.com/",
+   "src": "https://www.iamsterdam.com/en/whats-on/calendar/festivals/events/milkshake-festival",
+   "type": "fest"
+  },
+  {
+   "name": "Whole Festival",
+   "city": "Gräfenhainichen (Ferropolis)",
+   "cc": "DE",
+   "lat": 51.729,
+   "lon": 12.447,
+   "start": "2027-07-30",
+   "end": "2027-08-02",
+   "month": 7,
+   "url": "https://www.wholefestival.com/",
+   "src": "https://www.wholefestival.com/de-en",
+   "type": "fest"
+  },
+  {
+   "name": "Lazy Bear Week",
+   "city": "Guerneville",
+   "cc": "US",
+   "lat": 38.502,
+   "lon": -122.996,
+   "start": "2027-07-26",
+   "end": "2027-08-02",
+   "month": 7,
+   "url": "https://www.lazybearfund.org/",
+   "src": "https://www.lazybearfund.org/",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "Lisbon Bear Pride",
+   "city": "Lissabon",
+   "cc": "PT",
+   "lat": 38.722,
+   "lon": -9.139,
+   "start": "2027-05-24",
+   "end": "2027-05-30",
+   "month": 5,
+   "url": "https://www.lisbonbearpride.com/",
+   "src": "https://www.lisbonbearpride.com/",
+   "type": "fest",
+   "cat": "bear",
+   "alt": [
+    "Lisboa",
+    "Lisbon"
+   ]
+  },
+  {
+   "name": "Bears Sitges Week",
+   "city": "Sitges",
+   "cc": "ES",
+   "lat": 41.235,
+   "lon": 1.811,
+   "start": "2027-09-03",
+   "end": "2027-09-12",
+   "month": 9,
+   "url": "https://bearssitges.org/",
+   "src": "https://bearssitges.org/bears-sitges-week/",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "HustlaBall Berlin",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.52,
+   "lon": 13.405,
+   "month": 10,
+   "url": "https://hustlaball.de/",
+   "last": "2026-10-15",
+   "src": "https://hustlaball.de/",
+   "type": "fest",
+   "cat": "fetish"
+  },
+  {
+   "name": "The Dinah",
+   "city": "Palm Springs",
+   "cc": "US",
+   "lat": 33.83,
+   "lon": -116.545,
+   "month": 9,
+   "url": "https://thedinah.com/",
+   "last": "2026-09-30",
+   "src": "https://thedinah.com/",
+   "type": "fest",
+   "cat": "lesbian"
+  },
+  {
+   "name": "Rainbow Festival Köln",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.938,
+   "lon": 6.957,
+   "month": 6,
+   "url": "https://rainbowfestival.de/",
+   "last": "2026-06-27",
+   "src": "https://rainbowfestival.de/",
+   "type": "fest",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ]
+  },
+  {
+   "name": "Winter Pride Maspalomas",
+   "city": "Maspalomas",
+   "cc": "ES",
+   "lat": 27.76,
+   "lon": -15.586,
+   "start": "2027-11-08",
+   "end": "2027-11-14",
+   "month": 11,
+   "url": "https://www.winterpride.com/",
+   "src": "https://www.winterpride.com/"
+  },
+  {
+   "name": "Bear Carnival Gran Canaria",
+   "city": "Maspalomas",
+   "cc": "ES",
+   "lat": 27.76,
+   "lon": -15.586,
+   "start": "2027-04-08",
+   "end": "2027-04-18",
+   "month": 4,
+   "url": "https://bearcarnival.com/",
+   "src": "https://bearcarnival.com/",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "Maspalomas Fetish Pride",
+   "city": "Maspalomas",
+   "cc": "ES",
+   "lat": 27.76,
+   "lon": -15.586,
+   "start": "2027-10-01",
+   "end": "2027-10-12",
+   "month": 10,
+   "url": "https://maspalomasfetishpride.es/",
+   "src": "https://maspalomasfetishpride.es/maspalomas-fetish-pride-2027/",
+   "type": "fest",
+   "cat": "fetish"
+  },
+  {
+   "name": "Carnaval Internacional de Maspalomas (Gala Drag)",
+   "city": "Maspalomas",
+   "cc": "ES",
+   "lat": 27.76,
+   "lon": -15.586,
+   "month": 3,
+   "url": "https://www.carnavalmaspalomas.es/",
+   "last": "2026-03-10",
+   "src": "https://www.carnavalmaspalomas.es/",
+   "type": "fest"
   }
  ]
 }

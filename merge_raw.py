@@ -323,7 +323,7 @@ def add_prides(data):
             continue
         if not st and not (1 <= int(e.get("month") or 0) <= 12):
             continue
-        x = {k: e[k] for k in ("name", "city", "cc", "lat", "lon", "start", "end", "month", "url", "last", "alt") if e.get(k) not in (None, "")}
+        x = {k: e[k] for k in ("name", "city", "cc", "lat", "lon", "start", "end", "month", "url", "last", "alt", "type", "cat") if e.get(k) not in (None, "")}
         best = None
         for key, ll in geo.items():
             cc, nm = key.split("|", 1)
