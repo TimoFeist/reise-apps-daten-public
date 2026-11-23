@@ -1,10 +1,11 @@
 {
- "vc": 34,
- "vn": "1.0.34",
+ "vc": 35,
+ "vn": "1.0.35",
  "changes": [
-  "LGBTQ+-Orte: Spartacus öffnet direkt die Seite deiner Stadt mit Bars, Clubs und Saunas"
+  "Store-Wahl: Apps in Google Play oder in der Huawei AppGallery öffnen (unter Mehr, auf Huawei-Handys automatisch)",
+  "Teilen fragt, für welches Handy: Android, iPhone oder Huawei, mit passenden Store-Links"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=acf8e4d67f41ea5a",
- "size": 2645894,
- "sha256": "acf8e4d67f41ea5a31c6c1794666e7cd25f021cd9b183656d27fde1165f5a484"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=53f42d0ef4622694",
+ "size": 2654506,
+ "sha256": "53f42d0ef4622694399cabba3f75cf0c85b2f8ef8409b3c15db4e4697c48866c"
 }
