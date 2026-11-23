@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 12:27",
+ "version": "2026-11-23 12:28",
  "categories": [
   {
    "id": "entry",
@@ -49686,9 +49686,9 @@
      "ess": true,
      "src": "https://bolt.eu/en-az/scooters/",
      "ios": 675033630,
+     "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM",
      "use": "limited",
-     "req": "Bankkarte in der Bolt App hinterlegen",
-     "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM"
+     "req": "Bankkarte in der Bolt App hinterlegen"
     },
     {
      "name": "Heetch AZ",
@@ -52387,9 +52387,9 @@
      "note": "Lao-QR mit Auslandskarte zahlen, 3 % plus 5.000 Kip",
      "ess": true,
      "src": "https://www.bento.travel/laos/payments",
+     "ic": "SBnwVPUbbEXyuYBen6aIEemv6xXzMONTjhWEzZWVmARSY1fMQRlzdUd_-e6FvXUMgkB6dQgn4pTc3EVYjKYlZA",
      "use": "limited",
-     "req": "Nur bei Händlern mit Lao QR, Gebühr pro Zahlung",
-     "ic": "SBnwVPUbbEXyuYBen6aIEemv6xXzMONTjhWEzZWVmARSY1fMQRlzdUd_-e6FvXUMgkB6dQgn4pTc3EVYjKYlZA"
+     "req": "Nur bei Händlern mit Lao QR, Gebühr pro Zahlung"
     },
     {
      "name": "Green SM",
