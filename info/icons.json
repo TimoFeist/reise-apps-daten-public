@@ -32,6 +32,18 @@
 "u": "Jb3xNEaLiO6Xf3TnnpjSjIqGPsivAoJMS9GKQAV09mvQFCQRGsQyDTWxPUx3B6CShe4BZZNbyUgqytrTpy0omg",
 "checked": "2026-11-23"
 },
+"ae.udrive": {
+"u": "-uP54uoqByNj3fAJfc_AWkAP4AtN76vty4qOVGwobZnMgxm6pK4KSqGv8aUsGCu7md0DmZKgvrxYHnFpddeSSQ",
+"checked": "2026-11-23"
+},
+"aero.developer.iTravel.drukair": {
+"u": "EHBn_UmzezUgH5gPahhyLER25Fy4e6T5sryTRLM8-yXLVW-IvlZ-MJxXFa1HVJQrBB6GKmahp87u2QhjXDhe",
+"checked": "2026-11-23"
+},
+"aero.developer.iTravel.iraqiairways": {
+"u": "2F_9uxlV5cNWIipDZ-pgkLVgHYoHXnbTIjNnVvx2eOze3mc0dR1p_RIlhUxxWuPmToOTdxzvvJ8u-LLqbThp6g",
+"checked": "2026-11-23"
+},
 "aero.maldivian.app": {
 "u": "PjdWCWT1J2cMWcHM4dTkL_tYvna_e_qjnDYoy0LOCfrBPGDkN24Spe2hUN7TtunKt8n10Ina0fJSocDX_U9J",
 "checked": "2026-11-23"
@@ -44,12 +56,20 @@
 "u": "d8bOi0zECU42VL0kbu_E6CczVXVsc1IDSvCMoYBBthn6MexPoULmyv6lc8Kgr1XbwRFs5qK0D2ZPsC2k_0RJgg",
 "checked": "2026-11-23"
 },
+"air.Prex": {
+"u": "Dc-rzz_NXiBLABVPJmDzapYxTT6eRChI386_6xfAJUM15g9PCsK5qa-Tm0XB83y6qlBqU_oabfDn2lc6C001",
+"checked": "2026-11-23"
+},
 "air.com.cellogroup.Cellopark": {
 "u": "1eKNY0yq3iMltMo4K85exnc7FXOv-wFVTQeopjM-MrEg-1AQXG6qqlKb0hFP2zgjJYE2BqOe1ZOO5Sm1VQNDcoo",
 "checked": "2026-11-23"
 },
 "air.com.cellopark.au": {
 "u": "oVlV6oOAbHKw5PCR84lgyC9vX_EQSyBtpr0_r7pfvxtTW5_1zBEkrwj3AP0d_qYOMaJ6CwFqcYJKxvd9wrFd",
+"checked": "2026-11-23"
+},
+"air.com.ssdsoftwaresolutions.clickuz": {
+"u": "iad04DOqJxjnJl60h2zDkXXerl7EHfuav4VBpE1VjNi6VTLOcHpw5nobRceP2l3aqdjtmYw2eSiMPJzVSSHD",
 "checked": "2026-11-23"
 },
 "air.com.wBOOKMEDISCOUNTS7734925": {
@@ -80,8 +100,16 @@
 "u": "X0GASyMvNmVn2nL3Mz37pLRQW7K-WiJrkmRyGoUBnV3nP9iw-VQBJ-6WNT9AEsV3dWvcniCddG4h3wTlZkGiog",
 "checked": "2026-11-23"
 },
+"app.avas.rider": {
+"u": "gm_0PhRihrG9JsBPmwzCsnSIMl1NPvRAmQKrRbNt39KVnMVHHblNaEScg6yusSgD9XkXsxFPULB-hEZRK1EIsw",
+"checked": "2026-11-23"
+},
 "app.bafa.user": {
 "u": "ItyVRONP1S01nHloMIcX7qAj4O1506kFgieGXUMwDfdGdr6RBiZ21b8zVGX9v0s04tTSh_W_2_lFM0C3Ujt9",
+"checked": "2026-11-23"
+},
+"app.baly.passenger": {
+"u": "Myh1Av0ezFNZr5sNwImTZiCQjaZ4ug-6l4-AaD93PnqP37jU0gHw4GxTXyeyEIobKN3zo81AaI29rGI3SJUp",
 "checked": "2026-11-23"
 },
 "app.com.velvioo": {
@@ -96,8 +124,20 @@
 "u": "wNoc5qBgUMmvuXtN_75vsqrd5vVDZb64ZVcPUaI6pd5ULU7YNa9Zfh_SCq7Na8Sm6rxKW9AovRASLEMzUyRpCcE",
 "checked": "2026-11-23"
 },
+"app.helloguadeloupe.mobile": {
+"u": "6U1PEXabZkBIx4UgwqDzm9PA64ruTQ2WFhwbpLIqYR3McS239W3uKFGw6ezMqZv0QQba7NBGZ46uQmMWnYXTXQ",
+"checked": "2026-11-23"
+},
+"app.humanforest": {
+"u": "SPK5fbh8sReyoze1RC7nhYBbY9JNytf0cGN5wlJzo8nPwacRXmes3vAhAgOUwt8aRF5HQlfUwcCQnyFmXSMg",
+"checked": "2026-11-23"
+},
 "app.igps.igpservicios": {
 "u": "kOa_IdKjFGkfOBBoV5OdKFpTebQmGvji2lILfRwF0vkA0D285HQ2_K_Cp3g9jv8SVV9TMU0IG6kAa-Y_YRZiBQ",
+"checked": "2026-11-23"
+},
+"app.incofer.tren": {
+"u": "N59xyzjbiGeFnYuHOBBhvSRu0yTtWjIHdsKYp3BL0BVPKsEzxzzNpvZu6Bkjg6mvHTd9ScCM-CvHplqvol2BZg",
 "checked": "2026-11-23"
 },
 "app.intertech.ramallah": {
@@ -108,8 +148,16 @@
 "u": "fFuFl0jM0qH1z1M32f3UjL_Paa7Wd9Of3kB7BmBHzB9bAtNNsoOP0wDWIpEERYDGJqiUxrWTZEVvtjrzOHeqcxk",
 "checked": "2026-11-23"
 },
+"app.luna.micromobility.customer": {
+"u": "i5NdnSISQn0xV7dJU9kt7_4EGr1wJuDg3_KaurKpQDRLlT57wn7EAJ3fFfvjYRbGBFcrlmqpiHy0IuLhbHSI",
+"checked": "2026-11-23"
+},
 "app.meep.cyprus.pame": {
 "u": "WClqZNcWe1JVxnVZMOLJPe5nCe70zcADp7AsJm-ZLTkboRd0bugwA_DIUu2nMX9s5TQPzjTPX739gNBnvWHY9A",
+"checked": "2026-11-23"
+},
+"app.mimo.it.MimoBike": {
+"u": "tUQqXqpTmjvQD4ik75oljcznz8zHJ6buYG3UMFkytqeaOdr2-cvt1yetBX11AVgBeIj7OwoyeuJdWYN7YrSnJQ",
 "checked": "2026-11-23"
 },
 "app.montegotaxi.montegotaxi": {
@@ -118,6 +166,10 @@
 },
 "app.musafir.musafir": {
 "u": "QATAr-_2x8pZbNEoOaZ0eUi8DziFF2rpiNtycUoCYQsbcjyGupuCKyalZwjvg79fYXeH8Q1TBzM8yuUcmr6gdAg",
+"checked": "2026-11-23"
+},
+"app.netavgou.mr": {
+"u": "ZFaLr9zBlleeOdMm3B6bBK_CwK2w_jFjYZ9sOMRAO3fLI7gPg_BVRExQKlqeStvnNADO8PBLO28VgeFZpCAA",
 "checked": "2026-11-23"
 },
 "app.organicmaps": {
@@ -146,6 +198,10 @@
 },
 "app.tunit.tunit_flutter_mobile": {
 "u": "wRpIenQL8ykNbsSs5pGsrkx98UiP1xI6eQtekIXf7pa1CGlb-JLn1RFmJ4HBaf1gMSrG9z_UT7XDC9xFfr65",
+"checked": "2026-11-23"
+},
+"app.yulu.bike": {
+"u": "4BkqVsGTLSONT_KhzeWpLZyr1Bo7yQbW7cTXC_SPAWbl1VgpWwHDvbaVs-z61TuqscN6kkxY5u92BmSmJaYA73U",
 "checked": "2026-11-23"
 },
 "app.yummy.ps": {
@@ -297,6 +353,10 @@
 "au.popcar.classic.client101": {
 "checked": "2026-11-23"
 },
+"az.gov.fhn.app112": {
+"u": "kUBghpSOTK0l2numjR7YOEoyxgTlmEANLO4EIzHtNUk2zRIu-AMUAeSpEU03fcC4ZP9IgFrpA0JzRpanSligIdg",
+"checked": "2026-11-23"
+},
 "ba.holand": {
 "u": "WPN5NGDgYPZm1-Y-AnzLJSFb4tWY8L9fN0wQ_8wHeHngmYCf0zknGcVQypX03t6jmY-zGNpSb1649NtnMLJscDw",
 "checked": "2026-11-23"
@@ -345,6 +405,10 @@
 "u": "hUykg7X568GNt6h5RGUzqAWZLUoO538mDo1_Fe4TWwD5w45Yi19I6xOs0r1io9pu4NMaKD0u9VGcBQkKTArr",
 "checked": "2026-11-23"
 },
+"befree.ct.ms": {
+"u": "TcwbvV-22H9hgDZ84gO7VMth0BcncV8sdd9m0F549Z9FyPkbLPAkE9LaQScxPO6ZNk8PO4WGCM8z6piXonMOtA",
+"checked": "2026-11-23"
+},
 "bg.mpass.sofia.app": {
 "u": "rsg-aG9wQWbG4AO0XQi6Qpozsy6RaOy7pIBgul_AVsOaVD-WEzfaDyJRZ6UPsl2TtWix1t1DNZfS0OL3evP6Hg",
 "checked": "2026-11-23"
@@ -367,6 +431,14 @@
 },
 "bo.miteleferico.mobiletelefericovirtual": {
 "u": "zvXzOZm9x-WBb-7GivrK_7YztGqUM6XMI9jhPH4AlKuj4ZDQMMZFwplvOoCJUY6-9pqA1EYGVFZzEXKHzMjQ",
+"checked": "2026-11-23"
+},
+"bonbizfood.bonbiz.brisco.isma.bf.com.restaurant": {
+"u": "-OkgcfgT8ENcxHOINBKHzxRoKfrAV4h47cK9Q8C60FfpD5mKzJYKez85ITKAjd-CYnuZX4oqmyNOPN4zY8WAMjA",
+"checked": "2026-11-23"
+},
+"br.bus2.dfnoponto": {
+"u": "yS3zzbWzMfXY7We1ruyS8CfdOPWarPKlbnudYsI5hZQB71jJKeTVFjJzYeo9mGuVIrCqZd8SY9HdyxRU9KaUBw",
 "checked": "2026-11-23"
 },
 "br.com.billingpay.app.pf": {
@@ -393,6 +465,10 @@
 "u": "nn5emfA1Ub6_SctxhPhXM-w6i62KKMtxb6bNH7rEZSnH3fLYbiVawQQoFFQXiJTaWPbFmNEKKvN_qvqoWo-5Vg",
 "checked": "2026-11-23"
 },
+"br.mobilibus.floripanoponto": {
+"u": "0NA9F1SahddT4VkT0Gqddn4_uArCah_SyYoYgWl_CXCMhJzZP6Qs74RugY0SfUb47ouwcZzcYEnFnW0xl-a6tw",
+"checked": "2026-11-23"
+},
 "br.org.curitiba.ici.appcuritiba": {
 "u": "EKtwEYfTeaVwKE_JZfBzfx50AxdoJZyTkBZ5LPj1tfgNn158hzRFxoa_vN2LxQ4ehyPszmBhV7RBWG-XQFq3ag",
 "checked": "2026-11-23"
@@ -405,8 +481,32 @@
 "u": "CqCXlQiQ4H7ZdxZvbCaJ-0v0h79er3OxF2d-B19lfk4wLD8mm2Z9mRbdZC43mgAufD749OCoAicpmcbAzQtMrnA",
 "checked": "2026-11-23"
 },
+"buslogic.jgpnis": {
+"u": "fJTOUPdVGfve4ZoOZADlvu7LEDGKg-m8SUsjJEzD_07JdShLvbUOQEWo8_avo4fPp0LiyNm2M2e9JvY7OBzKcP8",
+"checked": "2026-11-23"
+},
+"buslogic.nsmartapp": {
+"u": "lT1qgllOMH7XU6Pd2C5Dy-J9-4Xy5BlWvVM1arVU9G_dpz6kM-d0Jm3csFgOFJWhfpdwXX5ijgguttC369R84w",
+"checked": "2026-11-23"
+},
 "bw.co.airbotswana.app": {
 "u": "4OcxLZ_7DlzVhZHxio4c5JGDaxpvxYZ8gNM4pFo-HSOGbsfNqL_L43vVGGmr1LFVKli-krv3vWV4uHIjGsyNYg",
+"checked": "2026-11-23"
+},
+"by.eleven.scooters": {
+"u": "94V5_MipbBS4g4P3dtYxKizhFZx6oXnVoOxh5uCA1VGefecZHesKSif7yq6okdWmZ1Vc9C49KQuvrdI1UTUlRw",
+"checked": "2026-11-23"
+},
+"by.hello.app": {
+"u": "p339bAAiE4j2TbGyFtSzlVBwxpNI50ib4Q4GhInRBSS4mREDjWW_j-EZwQKM0ypvfMUfAYV471_0K-FcrDc5jw",
+"checked": "2026-11-23"
+},
+"by.iba.transport": {
+"u": "uYwnDznH5OTBj6nI3XQSdhEj7TWLBCLryuWXgU9U_OlCxImLnt_epOrRDPEpuvVV1LZbZC4h6shirbs7DFAEhw",
+"checked": "2026-11-23"
+},
+"by.rw.client": {
+"u": "L6SxbJhfLKF8ETJT8vs-jfwSrA2iF8H84drkJhKbfSa97pkwJSE1qFPKgvwkB8QtEECXcm0c0WU8Kk943ot32g",
 "checked": "2026-11-23"
 },
 "bz.spbe.belizeexpressplus": {
@@ -438,6 +538,10 @@
 },
 "cat.bcn.smoubcn": {
 "u": "B0gEUFqeCH9nwlT0isjxF_-Vj2Ly8kzmx4F7U0PnK1TxwKfCL_N1xWdkzn4vsbZ5NQAwLu4QpHd8wCG-xowm",
+"checked": "2026-11-23"
+},
+"cc.beryl.basis": {
+"u": "SXZ_-FrwICe4paTyE0yGyekFLW-rFh1nw8qH4Y7FV3eQnfmLNLyVKpcYFwOmUsVVmfQ_ooghfeQUaP1Jw-rI",
 "checked": "2026-11-23"
 },
 "ch.admin.babs.alertswiss": {
@@ -492,6 +596,10 @@
 "u": "byX2olZEsfMju5ZjqxanLgFJ7ALhrR675S3G-XXR63VPRXxzw9IGWBsk3l84PHh1pqVQNvniI1dxMNzTbq21TA",
 "checked": "2026-11-23"
 },
+"changu.food.customer": {
+"u": "brAvXNDxpS2i8kUA9myErkkygiMRAjEMYJOimd6H_qEbO4wNml4Y4b9NJ_RwRAT-VErCnhyWdsKkZzTYiJtP0A",
+"checked": "2026-11-23"
+},
 "ck.vodafone.apps.myvodafoneapp": {
 "u": "C8f1aI_-JRbTLGxffN9uzoa6whOwy0p3eI4k82Dt3_XOR49QUS3b-8UipA8Xowd5ZJddHa_gZVO3NnsgnZBIv2w",
 "checked": "2026-11-23"
@@ -508,12 +616,20 @@
 "u": "mXlTjyWyE8CzmYnDPF7iaDtBJW6O58mTJaEO09ZTctg5ec3zaIBbTQd6pKh-7E2qkwGQ0thhXnC4kqpVTTgSbBA",
 "checked": "2026-11-23"
 },
+"cl.solem.pocae": {
+"u": "v_ZqD2IPO_83gfVFQZ8J-N8WBpB5QXjfCf_RWpBEii9jg8rqUf3UGAqwUknQloOGfA7DHbFfiLZohSfXAbDtF54",
+"checked": "2026-11-23"
+},
 "cl.tacaspa.lolocar": {
 "u": "b_4jDGx4NZBHyZYez2F6YQ8e76gNhQcr-r4CyEKuYPgNZYC2MIwG1lKdWLKrrYcrBGUiJz-sI1EY_LfbE2_c",
 "checked": "2026-11-23"
 },
 "cl.transapp.belice.app": {
 "u": "yZbpJrYgHe3-npR6TJuKTLxZIQ798JMPlxdvNv_MvJ99V8xqxlv2l1ZMZ6y6LmjHTPwW7Eou7TWr7UxGWFiI_bo",
+"checked": "2026-11-23"
+},
+"cloud.togotech.kgzapp.kgzapp": {
+"u": "Jpme68ITnCcbTV8NIusai_MnaEVitDl3EChowyNfqvaHYE1mXNreqgmOpx-_PEY4NLHVZiUpZklcwJ15wTH9AL4",
 "checked": "2026-11-23"
 },
 "cm.customs.declaration_app": {
@@ -564,12 +680,20 @@
 "u": "JmRheHgShccLo7CeHgMoGMjnU5SLZnjFeXu-Ojm3RWzzb_EArADlVuDQoAGnIWcFkdgQRJ9FdmJqBe2SBofL3w",
 "checked": "2026-11-23"
 },
+"co.noknok": {
+"u": "_HYCLjDT_ESuc425HH9UYsoF1jD5_PB5xkRWaJPg_pe-JxPD3EtZIosie1oLEeiAt5V5f3h0JYjUhk2fpNKvjQ",
+"checked": "2026-11-23"
+},
 "co.uk.ringgo.android": {
 "u": "LJC4irqC8bwEProd59BgU6lt0fyfgtASTTGwgZBwQJIK7VJb_8C4pXv1VwiS9NsRixhX7qYmcmSKMubN1lqw",
 "checked": "2026-11-23"
 },
 "com.AirNiuginiAirlines.AirNiugini": {
 "u": "qLmLWXACmlbhSCVICiBTuOKzxNTM1tRB4iR1N1SU2sc0g71gfVywGEEbB95qcVTyvPtG5pXDC_xzs0oQBwVozA",
+"checked": "2026-11-23"
+},
+"com.BINBIN": {
+"u": "d4bGeWjV4KNFICKc6eOr9Fh3rRX8KV0e7Y3hNnb85_jZNbcTy6ZVjgbldSVQpY_3nff3wW2bJ0yd866KP-goxK0",
 "checked": "2026-11-23"
 },
 "com.BTOA_Connect": {
@@ -604,6 +728,10 @@
 "u": "YFxXbYx2laU95B5PzlFVy1CdJSkoyQ-r4--RA3rvfSOKqYnc36A0zS8Io5DWCqxLR-VkaGdu6BeWRU9EHTo2eg",
 "checked": "2026-11-23"
 },
+"com.Isleat.app.food": {
+"u": "2b4EBqYKICvqsJK5aJeKksQVuD8Pk7mFhSmM1JWNJC5K0NOyh0oCttU5wj1mYJ5hAxFD0JIc1r-1Pr3SnTZF",
+"checked": "2026-11-23"
+},
 "com.Loop.app": {
 "u": "CaT028JVEfHfGP47FaAUxrD-P98Y7BBT0q4sl9qx5WpEN7Mc6P0vIguTCUL9FyRvhhYtldNwCXK5djgPNb8DaMQ",
 "checked": "2026-11-23"
@@ -619,6 +747,10 @@
 "u": "4PwH593pORhvII8t4tE7vRHbUuMQfo22bGW-HrQpzB8ZK3jbOXrSmTrdH0Njus_eHE4-sa5ajfZPCnIuvDOVIg",
 "checked": "2026-11-23"
 },
+"com.VisitYerevan.TheOnlyGroup": {
+"u": "5GQEBEAhrUVEiJOq1P7E06EjaobDT9d5GOeB3qgFCeqndqluY1zNojQZfU2013EzLNyebxVhDvTYnnhqpU9Yrg",
+"checked": "2026-11-23"
+},
 "com.ZipAvis.rentcentric": {
 "u": "qUlKKyKJFbkW-I5fzVVJA5OhRfpgJnK9qKjn9mY0fNWgFAQXHbYX7O779jv9EP1Al3A0LekMO1mQwSYpG_mnRg",
 "checked": "2026-11-23"
@@ -629,6 +761,10 @@
 },
 "com.abnamro.nl.tikkie": {
 "u": "G0uawVaDrpa3L_6DeCig54KXJJrixYcO23qJoJPCcVIo0nilHsyBCGSUHK2RnzdUS4NYKco7DX8exYO5Nhzv",
+"checked": "2026-11-23"
+},
+"com.acciona.mobility.app": {
+"u": "edSaHBeMyRX4IwuxrtVdpK33vQlVc1I8qe0N-tjPG3Qj-G-rGmwq5kkphFJzP-_XlOsoMzH7XgOKyqM9Ys2e",
 "checked": "2026-11-23"
 },
 "com.accuweather.android": {
@@ -678,6 +814,10 @@
 "u": "ZSaxF7lqGRB86nsAfRRkYaycc0Rg7iYDQeNIs-xrItdIcX568r_nN1ZhC4wiS1FGd54jSb9Pa97OBuOZu49N8A",
 "checked": "2026-11-23"
 },
+"com.africellsl.myafricell": {
+"u": "s78lmx3agR7rMBQxxbD4wNp6N8J5tFIU74RzB4usg00tKr8tokzlqGqg1NiKr12QLYhb8NbBoEASgAdhcuCjXQ",
+"checked": "2026-11-23"
+},
 "com.afrigis.gautrain": {
 "u": "YITSYDxCLm3h4CQx6dDbU2JCjiwQljhS8DwbXEZy9iFwqbaaHvMdkOiiqAMjxrj5btozmohRmglAWpUqz1jc",
 "checked": "2026-11-23"
@@ -720,6 +860,10 @@
 },
 "com.airtel.africa.selfcare": {
 "u": "6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w",
+"checked": "2026-11-23"
+},
+"com.ajarlee.users": {
+"u": "ZjueX0xQWowUH3MUEL36x95grG9Z5urD6WdJlfnpCSciE5hyAoHE6d6aCxm2U3rR_Moks4KZfFJbmZW7IKh1",
 "checked": "2026-11-23"
 },
 "com.akwaaba.akwaabaapp": {
@@ -802,6 +946,18 @@
 "u": "QISFZUUc_pkBBKjhn7oGQkSZd9ynTSHgJ-tJoVDVWBPCExzm9viEGGGUkpDCdNJEFG2xCvoEOZ_5fLdkZAMg",
 "checked": "2026-11-23"
 },
+"com.andornet.mobilitat": {
+"u": "zig_BCURUJXIxsUyNDYbHtbvNTpLG6WC1gcmDbyJ5V2vMutwKNneOpdYoJMJp7U6_V82vR4FeYOW3xGsJqnA",
+"checked": "2026-11-23"
+},
+"com.andorrabybus.app": {
+"u": "jtf3Da13ebU-unF_Fk5LR45liN4RMlTU6-XAZTgAMuM8lRg4wD0l63gcmVXspfi-asirLYtYt0bqMYG44r1E2A",
+"checked": "2026-11-23"
+},
+"com.andorsoft.Cicland": {
+"u": "9yXQ3iKiEdmIvDjifskblYuPFq6LfX1jYIxe838YNr1wfWPy98EK5Zf4HiR7QWzOIin-x3ZYG543mzsfgosD",
+"checked": "2026-11-23"
+},
 "com.angeles.verdes.app": {
 "u": "6HtIAqZ_bPlscH66IkWFZmYQbCAJ2421LrmW_DR6739wYMDpkDzs1HMq8S1WPPw3HwZifstcJ0GQp8UrdngVNg",
 "checked": "2026-11-23"
@@ -830,6 +986,14 @@
 "u": "yGG4SwapwRxf_tJ5Hm2nupXe31ps2olm7NugJHcNRPLfKj0C_iiktHOVdZEq2XOp1EhGJ8DldUhArSfsPuJXxw",
 "checked": "2026-11-23"
 },
+"com.app.buyer": {
+"u": "6ydBn_iRV_Xx_rIfHlZyLcbWBe8w1zOm7NtzDdCSpMQTDhceeT-uJk_hArWf_dm11fqvsWnjJI7HHn8DoDbAKA",
+"checked": "2026-11-23"
+},
+"com.app.carim": {
+"u": "QjRGH6RWwFZK2BlLTj7GlnW07R5vo2yZTNwX09QYQZWd8TubmoyKj0xCda-y8tYlfZzKS5A2HqgNIdXICzSMTA",
+"checked": "2026-11-23"
+},
 "com.app.foodmandu": {
 "u": "tr2VLxZ_VNPLAPHDnva2SIYy2MgQkNMyGnAQKujpQ3ZmAjZyfOS1skV5gcWoslYzYh7iJwQ2G4ZNCI77hNms5JE",
 "checked": "2026-11-23"
@@ -842,6 +1006,10 @@
 "u": "YGvtz-YOY1WQvRxdGDLKE0jzHGq5CsUHZup_inHvPcdNpStJCUAzfNAlJh1P_-gTomK7Zni4aTNeJFPfPfsffg",
 "checked": "2026-11-23"
 },
+"com.app.sihanouktourism": {
+"u": "sG03W98uYE3dnLZStQHdJ23EucJPjE1ewipnJWMdfQbmgEeUrSpP8uuO3V7elL2zXT-hZzbNT-zoVEeqoifKxg",
+"checked": "2026-11-23"
+},
 "com.app.tgtg": {
 "u": "SKnwpZGNeXk8dSPNH2l3tDkpweSu8WWZ-UfC576vhK5d0RQKeYyPGCqsaM1b_7HoZdzjHvutaA6xqcqvBwcEtA",
 "checked": "2026-11-23"
@@ -852,6 +1020,10 @@
 },
 "com.appcargo.user": {
 "u": "TZNC8SjCh2qj1ltk4QF88H4R8PWYGSnoSuTSJReKgAUcP47lPH_0vCrk4xw_qds_xKxnKZOCxwiVbtnv4dE25w",
+"checked": "2026-11-23"
+},
+"com.appitech.enlaparada": {
+"u": "bSQphrKh6nJOQlSsOI-AWE76OezHsoMCWND1Sc6qeuxLlYn6496O6p54-KmPgnEEBhRM7xaBxcLIVInIAsw8Nw",
 "checked": "2026-11-23"
 },
 "com.application.zomato": {
@@ -893,8 +1065,16 @@
 "u": "ULTJ_DBRMOsKDqw12eGhe96imZnqlZmgW6cUh89SExm36Iip_DknOKeAJvad9XpSklqTVdqEq-3sSz_eAanqNw",
 "checked": "2026-11-23"
 },
+"com.asis.sotraandroid": {
+"u": "p8e2XpZzDzOHDA9eEODQjLdrE9PONClvudpobKdPNMynz4qVnCPXqTDaNIu1SJc7pA-2WXFGrzm3mFEqIkz3hA",
+"checked": "2026-11-23"
+},
 "com.askymobileapp.askyairlines": {
 "u": "X8RnyHpXX0c1Qdve8t6L_78WdzOY8vDfK2RUIWovHy_wsT1ES6KyDpwxhuzfiwEdF_bZYVj6YHTNxbKwxum10Q",
+"checked": "2026-11-23"
+},
+"com.ast.thesurinameapp": {
+"u": "IohtadW_wkcU8HFCUvfPVRipeTRyLClWp8wBsy1r32OkTYltwxEzKSdYAzdC5WUW1LnRqV69ZBiYcTIQ33IY",
 "checked": "2026-11-23"
 },
 "com.att.android.tfa": {
@@ -909,6 +1089,10 @@
 "u": "2UBDc5dO-SdpPjIL0y-CYOZYlGJkbNMbxE3TeWQs5sYiEDJuBAFTa8sAooCCMevNkpLkaqHQIECOiHwwACfs",
 "checked": "2026-11-23"
 },
+"com.aurigaspa.bsmmobile": {
+"u": "dAErjFE3yxKLhnp-ZFsnC8tJHFJTB7a18hcqYWdjj9Di5a33mbVjuh7C0YDCDhT0vWg1UQOEYsZcSd_j9kaS5Q",
+"checked": "2026-11-23"
+},
 "com.aurigny.mobile.twa": {
 "u": "jMlnacNwnu4-54lqf7nr2c0BHTxRMoi-Tsv9CoscfeXqe5Xrb1ubAMHRhIxbQBWjhfWNATddJmb1HBjjUggi2g",
 "checked": "2026-11-23"
@@ -919,6 +1103,14 @@
 },
 "com.aurorareach.app": {
 "u": "abjQJOExo9Jrcl1OLC_fMEITseNgDvG2nMIgWGqvoVDyiwhPZFJrgitgqRpVWrnG7HMcS8hDBmowjpPmlEM4dQ",
+"checked": "2026-11-23"
+},
+"com.autobusbedrijf": {
+"u": "Trh5hW3k1FynFVRg3S98XQn0NR8RPFQUGA-VMbS_Zkm2_CFkwW6Tn1LYEgNXFHGNhmhNPMmlvJVTjP-p3Os4kw",
+"checked": "2026-11-23"
+},
+"com.autocab.bermudaislandtaxis": {
+"u": "hs43FmAEv-jZ5ANuWdeEodaCpCDxuvE4ngFSTXzPPClCpZ33kUl5M0Ay25WOCQKrsKu8ZUPaC2c_nlfV_tt1DA",
 "checked": "2026-11-23"
 },
 "com.autocab.taxibooker.yellow333.bulgaria": {
@@ -941,12 +1133,24 @@
 "u": "AFjhFYzvGen-y-Avag8dQwC6gozT1TP2-Z3TNS9AGQo1feaE6ZsKZPV1mxmTmTSqCMGCLuMGC3vHOt-2d2V3VTM",
 "checked": "2026-11-23"
 },
+"com.aventontech.passenger": {
+"u": "VPulht5ed21QEfy8qP-GAHpy2r7R29wX3velCe74-WecoGcFz41CidZvDh_VLgPaTs-4cwafZ2kspsi_SYFozQ",
+"checked": "2026-11-23"
+},
 "com.avis.mobile": {
 "u": "HvZaMy3ftmyNPPUU1hZ_wcjQ8n5cLCXp6HrA_zNV483OmODb6_orR5zSOHj7qSWCk5Y7_7odcWXSYMAtUE-gnUE",
 "checked": "2026-11-23"
 },
+"com.aviscarsharing": {
+"u": "pBDc2Cw9UR3hcUZ_SyrluOV6ANEDTkao-UsYDafPuXjl6ql-NvBZby8fKEbw8t_Nfzqp-4H3nDKrWSI7IA2e",
+"checked": "2026-11-23"
+},
 "com.axonlogic.uzrailway": {
 "u": "Zr6Wbx_1r5flxYmJKuQD8_VgCLTetapj7pq_Zky7AFO20wIq1NKLndhwIiPhZkfRnUnAnxyXZ6pO16NzCId4qQ",
+"checked": "2026-11-23"
+},
+"com.aynamaas.app": {
+"u": "1MxgaIhTCp2Teri9_ipYUt3l_OvqDCvmP8pyPQQ2wULufK-CvhLRhxW4zdCO_vTyfGvB1DKEA5UGkWEgLwO99Q",
 "checked": "2026-11-23"
 },
 "com.azparking": {
@@ -957,12 +1161,28 @@
 "u": "_bAWzK7MCllE-N_3PSPZrUhw8evY72FZatYBS-NXgsPM1EvriEM-tcCqaSEXvhOmwLA7R-HVa7AcnylduiV8",
 "checked": "2026-11-23"
 },
+"com.bKash.customerapp": {
+"u": "ncgi2sk_NS5u8TfsEVmdaqQhRlv6D0c9JIQ-GmHvazUbp9GDU8gxNZxaq98ysy34juOmSA15KlPLjoAgquZ0nQ",
+"checked": "2026-11-23"
+},
 "com.bahameats": {
 "u": "yxE-_fGn3Z5vgitc5PdoW9jZzOwAkkClbnX3Xmi0hGoFmoxie65mikj2TFsbnjpnvqUdBb5T6vWz6ZmAtYpV",
 "checked": "2026-11-23"
 },
 "com.bahbusv2.app": {
 "u": "T8vup-q8ggbNoknt-SE2Zy3xOsgtxQ1JlwTtZ3KOVv0JamuiG6vMec5Z56dhBzg5JLQgs_XBmn2pHsJd_lkT",
+"checked": "2026-11-23"
+},
+"com.baidu.BaiduMap": {
+"u": "ltVRNUUvyIAQpTvTGJlqgm7TEcB9xe0YdOcrqxB7IBtLoB4EqCaY8mU199Wg01PcLMTkoypVj8AI-VxNrzGuuQ",
+"checked": "2026-11-23"
+},
+"com.bakikart.prod.android": {
+"u": "dpST5xloMQxf6Q8yP8Ej69ZeUqAfvKf60VjpKGeUNaWCIG3W-IyHHSkRj8LSJOw1hWdoKlMUcdZ7X7yLS1BO3g",
+"checked": "2026-11-23"
+},
+"com.bakoai.fastbox": {
+"u": "_jdqDsvIbaoEf9hQ2Yx9saj_jobr4hxBalieCfMKfLtAx8EGbunEyFdmKPcjvdxIMyWvISQYWU6zGKFeV_em",
 "checked": "2026-11-23"
 },
 "com.banguieats.app": {
@@ -985,8 +1205,16 @@
 "u": "c9phMdI7WeuIYge__WzfZs6AzYQdP-TboF_i-RDFT8eGF2Jp1Tvi7JmerWHaywHTfQ6GlXPwHtuJ5w4JdUAOoNc",
 "checked": "2026-11-23"
 },
+"com.bazarsoftech.letsgo": {
+"u": "kX5X-oPumhwNv87GcS6Li6SMAXIa9J0qRHsQMzqBdj-CNU85vFhxMWsbzotKQl2dTEmWsH6wlxx94MpKR2ShEtg",
+"checked": "2026-11-23"
+},
 "com.bbr.insivumehapp": {
 "u": "_3_Yt3GJ2xKGOBGsGx1e3_xiThezsU4lAx-C6XplIV0QrwAvI4vNIYLGy_47iSM8Mvn2LsreYugUyYZLsog-",
+"checked": "2026-11-23"
+},
+"com.bcel.bcelone": {
+"u": "vJATXych1bfLar7vpZlvMRsaD2vil9eGfyNtNv3_iTnnRRjSAnxXjuVGlhDuky-k5hy45FI9wjDtzFf1CxYCsSg",
 "checked": "2026-11-23"
 },
 "com.bcp.innovacxion.yapeapp": {
@@ -1021,12 +1249,24 @@
 "u": "DDVR2qRI-CyzTVnASedpmTignMYKLJ2ErnRDsyJaEX0NYSD-DDi_5Q7bqVCr0hzCV7tbGDEBfWAG6d-eSlEEwFg",
 "checked": "2026-11-23"
 },
+"com.bewegen.bermuda": {
+"u": "pez74UKCOmZycS6pm127KNdISRpN02QkiuXKfrQF1a-FBGVw0A5OXJAuKAlX_3ONtopj-5ZYusGZK9Df5sNeE9M",
+"checked": "2026-11-23"
+},
+"com.bewegen.tartu": {
+"u": "jrGMc7JmBJwK7YzV-GUMQWrWJZU-k6WzFurczj4aNLqED0MlR7A37F7qUHofMFoS2vRrm0EmNpoaZfu2K_lQJI0",
+"checked": "2026-11-23"
+},
 "com.bhkkonsulting.e_sotral": {
 "u": "H2YBrDjkfOK73UxrO29FJaj0KCbz8eVheKjcadbQGKY946uBVKdk7yXOrg1jkNIm18lZ4YmvaVsJL0FAXXEM",
 "checked": "2026-11-23"
 },
 "com.bigbustours.bbt": {
 "u": "vLhWZt2p10eHKhIWUiLeVYgN4nRyx1c30M6oCyc9Jy6eo3HewFvCL2KMYV4WjRE8y0k0WQK8rB8m73EOY0XLWTw",
+"checked": "2026-11-23"
+},
+"com.biltaxi.olasanda": {
+"u": "mNYbPIkYurcLu8yF9wUl5fDqzGZcaQTOwWKU6A1YjgZe1csudAKqfuvNtsdCvVjUzXq4fB0KJqvbIes30D0hSg",
 "checked": "2026-11-23"
 },
 "com.bimride.taxi.rider": {
@@ -1045,12 +1285,28 @@
 "u": "AooTuF5gx3rEcWO-XOvIOv9b1xJj_hGnZViO0mK-k6utuoiIc6Kgf27hkEdXCx9VxfoqxPKU1t2zv608XMPfng",
 "checked": "2026-11-23"
 },
+"com.bitwisehouse.cabbierider": {
+"u": "DsJ2hqdJCpPcl9QD_MG3Mr8VRv1FqkcqPD6Vy0vaSLQ3tOMFrckq42Bk5Q2pIg7KglwveZY8ByzePnjhyMcfYQ",
+"checked": "2026-11-23"
+},
+"com.bncmacarte": {
+"u": "PYZaF8NCA1pPQWI_l3PDmH9oPne8URbS02J6Aih2pCu6JS6j0R1IllwqIfam8w1iRAEASnRiUQJumD33b7vjmA",
+"checked": "2026-11-23"
+},
+"com.bnhp.payments.paymentsapp": {
+"u": "Qoj5Di0HOkDfB7xvk9kOdxHTNScLpMeCOfjYVmMWwHQ8f3I-MzuKICnILYtPyjlR2MEMr7GnOXGLtAXgyKv9zA",
+"checked": "2026-11-23"
+},
 "com.bolt.deliveryclient": {
 "u": "sKs-ie_fs4ctGMKnmwYlC-boy0GqrGD2t7eiR9AXLPvXyJPbMcXemGxubvb_T43cutXPFNOta7rmFcJPsB3I",
 "checked": "2026-11-23"
 },
 "com.bonaire.cruiser": {
 "u": "VD287hqe0Pjhza7F3vcq_GaENTS1AWYtfrcDdecM2ID0AEB3J-_0x9BhAhgSOwvlHPffRERg52uyalhLRyptgw",
+"checked": "2026-11-23"
+},
+"com.bonboncar.vn": {
+"u": "tvStPYwfJGmsdeBTItiI-9Wvzip3fdqK7DhJCF_kQLfkV8mf2IharY-Jdj5y0z8z2PLIN02vEylHWjOfhPmnPA",
 "checked": "2026-11-23"
 },
 "com.booking": {
@@ -1061,12 +1317,28 @@
 "u": "905IOutUPhtl-J2tMD9T8YJ1U1OzfIQI8JAIIsX6WL0OBvNw_jEvMEvgRMt5UoGYIbg1LNdMeabi84OamZpIFg",
 "checked": "2026-11-23"
 },
+"com.bookride.passenger": {
+"u": "DACDrL6dnAkiga4DqqUWB8aJM3bbEhHMT1kUMS9tCZO_BDDZIzAKaFBJZH45saDYwvtNnyLXwEEFnst-RR4WEhg",
+"checked": "2026-11-23"
+},
+"com.boomerangexpress.android": {
+"u": "Jhf6JKCFw9L3N2J8wlY5hjs0F1h92Dgw-KY12zYVCBo8CcxKzYWDcBfFQWopP9RI9o7Ey0uioA5zsZORAdrXUQ",
+"checked": "2026-11-23"
+},
 "com.borderlesslimited.wanderwallet": {
 "u": "yNNaXSQ2cULmggSI0_PnxsXSqL4C9tft6U2R9fUPcsj4OLeb2pSfdrILqrlGvQaryFeYxjI89FhHwwmmm2VhDw",
 "checked": "2026-11-23"
 },
+"com.bpcbt.billet.clientv2": {
+"u": "VxhLz1H8_yZlCFcVFieTyhyoEH0Lv1l69b720jAmCISt6No1L2IlIuHmUmYu9UtmnCik1WwQ2C_QOHNWmTYkJQ",
+"checked": "2026-11-23"
+},
 "com.bpcbt.billet.clientv2.ajman": {
 "u": "dWbt_DkJwfbldqILQYQ8BA2csbX5fF68iJN8INfWBo8KY0Q-YFAFkE5ZYOpug65TVNxhBhrsahRC9qDVWcBhBA",
+"checked": "2026-11-23"
+},
+"com.bratislava.paas": {
+"u": "_626ZT1USN8di9t0vxewTmJqKrGBR_0OS3iZH8dpixyQMsEnSrxMIqXSNB6h1d8VS5fq5LEXNdGVbyYIrlet6g",
 "checked": "2026-11-23"
 },
 "com.breadfast": {
@@ -1077,12 +1349,28 @@
 "u": "ssGoyyiS1yMijWDTr9sn8DuvXKybSVyjuSoitQ5A5zYclbU7MwJuLZuBCZZmS6lg8yZ9mJVxLqnEDWwOSYR8_Xg",
 "checked": "2026-11-23"
 },
+"com.bsp.png.production": {
+"u": "JXe9peCsJKOFalcDoxdsWzNwA3SA-Dn938ZCa98BkUu9ErVwUaqxaWWifB6NbOTYXmU-Wj9miOcUCj-J_iZYZy4",
+"checked": "2026-11-23"
+},
 "com.btea.tg": {
 "u": "eQ_ODO-BdKHJoUMDgIw9fOzMh0xb73WnGDYiTIaP26h1UE8KRrbyeuIvNSSd3C4wxvScw7Qjb4HUH9IcYC6hFA",
 "checked": "2026-11-23"
 },
+"com.budget.androidapp": {
+"u": "ZIsV13izTckN14wJjHmljofcILjhsYfgykMizNVwH4sFujjPXkseHLFcFrFTI6bkch-g4AFDsPvDyP7L3ljoNQ",
+"checked": "2026-11-23"
+},
+"com.buris.buga": {
+"u": "PH3tH9MT1MU6FNeOKIBN52o60Hvg1tVRvWUkKTixblCjkW5fegZc3ne6rkkouMKJd1NwwpecgFLfWFSCyD20bg",
+"checked": "2026-11-23"
+},
 "com.bursakart.burulas": {
 "u": "iVzB061FmRl8bAUfGkVaapReLz6-Q4cW_BAQ8e8LmDFhv63hig9Q4TOPuS6KenxqbrT31ySQA1sT2DuX_XUYuQ",
+"checked": "2026-11-23"
+},
+"com.busan.visitbusanpass": {
+"u": "euMaJxBekO1F3pUv-npUd8yh0p0udi0ueQMphDLKzV-whuwtRKD7gxCaA0oy7619_zrfrm6WtyJB7YrDBFta",
 "checked": "2026-11-23"
 },
 "com.busbud.android": {
@@ -1145,6 +1433,10 @@
 "u": "1eG4jbzsBIIiPkwZ7x1i6Jqy_V8txU4OBmgN_bZcADxfi8ydWcq3KPZab0Q7wmoc9DO7EausOu0mgHFrQncBg3I",
 "checked": "2026-11-23"
 },
+"com.cardberg.bratislavacard": {
+"u": "kHnKlG5xgofv0W4meXVOfHFgDckH2e-dyvEgYihCOSBfYpZRt1r7GdEYjjNfhrLy8wPNsf-hUfri9FhNVgcc",
+"checked": "2026-11-23"
+},
 "com.careem.acma": {
 "u": "T8uJEzioeqcEUM25n2tAHjaF2q4r24N23IaqiW6ZzzFQK1JllYNUbXFUiOuC3Ax9tFKOfQXnFVEvCdvs7Vmz",
 "checked": "2026-11-23"
@@ -1165,12 +1457,20 @@
 "u": "wRatA5v6nJY2WY59YfeNYffYRRj8c8f5bNimBeL0AE3zHeXLRzd68JkzezYPiuT4btaZyZwjrvWju78D8aXFRw",
 "checked": "2026-11-23"
 },
+"com.carshering": {
+"u": "0Ama3PxQIqa-1qzzbDZPxPDihJhz7FPJAZpWlbSjnfqb74t4AaTU7k3H2wAdwueLiu4nZcsyU6QBppNKl6O-TR4",
+"checked": "2026-11-23"
+},
 "com.casabus.android.app": {
 "u": "B5TwVyLVIUtIxEjxpL-IXMCfdZK99P31QBv66ZvOYmfYOAFn6v0tf-fwBWFsVdZEHdqT_qLqcYxI8IRseykznMM",
 "checked": "2026-11-23"
 },
 "com.casperise.urbi.online.bid": {
 "u": "JfZi6cFhOCnnxZ5yGuGLDRdHileRJxGlr3zcRqkBBDp2p29L_H0jL_Njyw79VXOhgp22QKWh6gzVuZGIoun2Dg",
+"checked": "2026-11-23"
+},
+"com.caymanairways": {
+"u": "TT3hNfdA7lJHjA3Djo6YNcn2004wCnJBl4H4p8HUvG76gncTJoMneAHs2xHOacpsmhPdauEbLlghMqi1xgernw",
 "checked": "2026-11-23"
 },
 "com.centraldepasajes": {
@@ -1193,8 +1493,20 @@
 "u": "1O4ocNSIQpD9qsb21X5_lpnSGlMMIoxtq5-tMEeZ90GV1_RyiZyE4xtVnTThOIjT8OYPxLXdZYWZ_n3egh6XFA",
 "checked": "2026-11-23"
 },
+"com.chinarailway.globalticketing": {
+"u": "uEuEZNcJHk6isfUL-WQphKIrd971Q3BjGLMsNoiuiq7-3GtS0suYZ9meBf3buUoky9WIPMnXs2wzlgLtyHaExQ",
+"checked": "2026-11-23"
+},
+"com.chivo.wallet": {
+"u": "zoguGjdSleZx7-E9xWawJUjkvAJxDuSKr8Ztw2cFqTfWYu9KgyZBVsupO5MekGgAvsCez6GquXEPlh7Ip8pztQ",
+"checked": "2026-11-23"
+},
 "com.chompadelivery.app": {
 "u": "AwwR0eVfEESV2L9inQf4IEvDqlq_w2jIzPxDoaV3rHobzvFGdwGrod6OCMrX-W2edRAszHhA7sewXzUrl004Tg",
+"checked": "2026-11-23"
+},
+"com.choosit.smoove": {
+"u": "p_9IwoJNKQI8QkHR-_n2bTJ2ai1slg_u7_z2AR_zpSahDRD55VielGm_Br5MDojupkGGeI0o2L15ELLWl5if0Q",
 "checked": "2026-11-23"
 },
 "com.chowdeck.com": {
@@ -1205,12 +1517,24 @@
 "u": "DGSkkjccNwSW4eTxTvbndPB2zjCXf8M74t3mpYADx3wZU0oM4cBiJpHRp0EW2pTTpersw9Zyk9S5INcKrXUu",
 "checked": "2026-11-23"
 },
+"com.citybuskw.app": {
+"u": "L1vkowIEyFelSTYeA15vEDZKYZ176t8txi9j2z2XC6TK6rnWa5YHlDlb_avZplzlHWRCGmr0RfECT9ZgI0Ng",
+"checked": "2026-11-23"
+},
 "com.citymapper.app.release": {
 "u": "U0baiS5SFsdl6hU6WW2Rq94xd5lIscxgwVZNw0rsN2G7Tqlg3m86KieOuhgR9GTQZMYngD_ilppCeot9lBuBPQ",
 "checked": "2026-11-23"
 },
+"com.citymobil": {
+"u": "Z0jJR0H-7ih4TcM8jmeJv7jr7AegodLcqIL7Zbqw9H4cBuPsIoIpRxK4cvA0Eglsftq4yDZQe2OKlowSVMhf",
+"checked": "2026-11-23"
+},
 "com.citynav.jakdojade.pl.android": {
 "u": "4C9O82yMfbD7E_yZQFGcwCe0OB3n1poTH4rtSF_7UtzMkqD1MZF6zRDR6KdXqULEFz7plRzRvUaikn1dDkdtKA",
+"checked": "2026-11-23"
+},
+"com.cityparking.parkassist": {
+"u": "7Gb4OLJLpEwSv44B1pUk7B7oCi9WanQcWg8P4khNtWo15Nih6d-ztzT3CGGF9rOVAkHRWXBD9_cOWwN2ZCWTvg",
 "checked": "2026-11-23"
 },
 "com.clanmo.europcar": {
@@ -1223,6 +1547,10 @@
 },
 "com.clippercard.mobile.clipper": {
 "u": "kkRsRwNLH_Pm5fMtWl2DTe_mOF1RWwU_9l-FM6gC-8Ix_Uj-N1kGE2Xttddn1Ewxp_xI2g1PPVTqbqRq4OLr5Q",
+"checked": "2026-11-23"
+},
+"com.co.swing": {
+"u": "yIXNymddPgqJbdCrD6IMjr51Y5N3PXxoRdMJha_ZKE3umomJaQVnn8hFI3msT-l-jH8XHxYxlrEFB0qN7EKY0g",
 "checked": "2026-11-23"
 },
 "com.coconutsilo.kokkokexpress.shipper": {
@@ -1253,12 +1581,20 @@
 "u": "iQr8MrRTu31OK2hFsu15b-tgWBe7Ui8uHZsBOjPtGbzRyvVHF3eUWCFINW7qj9b2mj86lBlq9RXvW9w0cmEGHw",
 "checked": "2026-11-23"
 },
+"com.condorferries.mobile": {
+"u": "TBn5q39-VmWMGD0HSYeFjNoKDLteDdGOsSit2OjbFKfINj-kYyEvwb06nzx1QFMn1qs1ru_w2zD1zCKaxvjFFw",
+"checked": "2026-11-23"
+},
 "com.consumerug": {
 "u": "SMmBJN1AfFuDEkgWrVBSPedlqK-8E86N9h7Kh-4--FKdDW2bq-cNfn7s3AEcfmKwlCejxaAsFMGtZUiXu2-OBRw",
 "checked": "2026-11-23"
 },
 "com.cotech.taxislibres": {
 "u": "k77AIyrLZK_FdUlYt7KjJP58AQ-9pxAI_UuVK8qSIKkaEi_1rZ3cRVYfQP4Q-4p7LwokJefqAIhZ8-OY1cIZsA",
+"checked": "2026-11-23"
+},
+"com.coupang.mobile.eats": {
+"u": "CBkhhaayZnh_KbjEcNjUwicICY8BPhzkpM_FTEinbFTPuE8L4ptnYBNCKjbTw6f34KSgvKyhI99BclOkhy0R",
 "checked": "2026-11-23"
 },
 "com.cowry": {
@@ -1271,6 +1607,10 @@
 },
 "com.cpcb": {
 "u": "IvNny9vCbQ_1AzFngnJGV0ZefOUxxXwt-IHpyQXClMMhCfEtJBvAKDbrez5lEnV9a436R8E59rLsQQQuoLZDsiA",
+"checked": "2026-11-23"
+},
+"com.cpone.customer": {
+"u": "2JBTIg-QGi2dThtW25WPyZ4ps8Wb_HRx84TMCOKdRkB4xBzV-cPqNY85cDDdiNF0qwSLfQ1MMDjeynO2R-EA",
 "checked": "2026-11-23"
 },
 "com.craftsilicon.littlecabrider": {
@@ -1320,12 +1660,28 @@
 "u": "cVeofxJ3Z5lqJiFnStEtrFKXc1sgl8Ne1BCXQxuEKJKYFbWaaqz-entwYR530dKL9mfpwYFwpYn_nlHi0HyM7g",
 "checked": "2026-11-23"
 },
+"com.customer.pajussi": {
+"u": "SRf99JdEGQDHTsu7RfZRi4wY7ae7lmP7VgP5L4Xee-447i6hxPJVU2MKB_knLRcQc2hH36FQ5cgv2Hx7Dakopw",
+"checked": "2026-11-23"
+},
+"com.customer.sargasso": {
+"u": "TFMFLn2iKN0UOREd8K8eR5Kv9AZ8i2LhMkcArxWy1V93RTMtX720LuVvTHPTKcjadMESxJKjMmQDjiJGE0Sp",
+"checked": "2026-11-23"
+},
 "com.cvs.launchers.cvs": {
 "u": "_kEwgJxGS1uAycERIuo4rN2FwnF0IRlf8CdZ3Irgci5nXWTlHIkvA-5Hbjs9gHOvH1oujxOyX_1RniLxxPwlnw",
 "checked": "2026-11-23"
 },
+"com.cyapps.evoa": {
+"u": "zCwBkYFi8NlvI1ii7HCXLpJHIAeXNbZMycxG6tuBv_YipNp886uWMZTlfIcpIuueaW3Fir_YHpCoNc_X9mKI3w",
+"checked": "2026-11-23"
+},
 "com.cyberfoodfiji.cyber_food": {
 "u": "vUMZ7NG64PzVILP29Hc0BuGaMsvE9bTQ5YYybcEJ0Qn84OxeptzTwLi4JMYU7QYh6IqJJToGL3Gq040oMT0Ulw",
+"checked": "2026-11-23"
+},
+"com.dahabplus.dahabplus": {
+"u": "QWSfMwkEe-q3FdBqy2h2Gw1UwZLNvKfeWOSG2jSZKhqJRgTagbPl48z2Y_kom8HVypgvUY0xiTdYv5eVV28C",
 "checked": "2026-11-23"
 },
 "com.daitonn.avasfood": {
@@ -1334,6 +1690,10 @@
 },
 "com.dartbrunei.darttaxi.rider": {
 "u": "G5bBj_K0a3pThdvbGu4FY6BOIdhk43_tkK_DtslSPcXKCWrTFK7ddEW5EBlIxlQHcZgdosuP6qUdwW66Cx6N9w",
+"checked": "2026-11-23"
+},
+"com.dash.ride": {
+"u": "WwS4DFbE7GuI5xAYCThpg0432nkzKtr9yzqgJtQfA76-pIfCr56iMhysp7lWZkzxg88gtqKPdYlnSN__RX0uTg",
 "checked": "2026-11-23"
 },
 "com.datasoftla.app911_cr": {
@@ -1360,6 +1720,10 @@
 "u": "zCAHt9fwsphkwkOsisaZPJAXEfWgnG8RIpJVS24Weu9pYmWdE2bHHEjW4GqgH9UKh1BLKcaxZxnge2GjfIjEdqs",
 "checked": "2026-11-23"
 },
+"com.deliverlogic.goodtogo": {
+"u": "E6FUumR5S4TQAR7Bg_COc6BA2_Wdxca0DAMy8cP8Oz5N7gT-YHb9VE5pVwbDPc8OBvGxNEnPGkTs87Pmm6_F",
+"checked": "2026-11-23"
+},
 "com.deliveroo.orderapp": {
 "u": "5B5-F3S-7qYzGSCwXdllQFu7WHy_yuBKLaoU0L3V9VUzpCjGAURVDqbMJJh2SSEirHW5tjo6smehsrjI6lARGQ",
 "checked": "2026-11-23"
@@ -1370,6 +1734,10 @@
 },
 "com.deliverynow": {
 "u": "wDAMoMXsv1zt48RnPVzfisLqUoKNpn5Bf-4HVCAnJW_K9I1DdFCoba5sRwHYLiwDlZGKdmJ9WduHAAKGFn3yoA",
+"checked": "2026-11-23"
+},
+"com.demaecan.androidapp": {
+"u": "slp7F47q38-iNk4uJfJx0IvjJQP3JpPpcg_6WmCrmc37sAFysITOcGchuMo2mlDCvGaka2dkM85yaY8yg7x_cQ",
 "checked": "2026-11-23"
 },
 "com.dena.automotive.taxibell": {
@@ -1388,12 +1756,28 @@
 "u": "40kqt4DG2xUKq2EhCXaCbz2rcGgp5ok5_riq9uZlg-r7NIG-J4uaLpcI65TcQJjK5bMnNGal02iP6ZPrmvQe",
 "checked": "2026-11-23"
 },
+"com.dianping.v1": {
+"u": "AamGQd2vmeL4voKOlTnHSfpvmqHaPpDCyZ46TazOX5lYi3Z7kqXAZx0CHlekqgE1Jdg14bcmmzOCEBaUJwR2uA",
+"checked": "2026-11-23"
+},
 "com.didiglobal.passenger": {
 "u": "w08P6Py2wtGkmuBbwQ6KDV6t9hqwy3nNI6SKrQg4wxT6j6vCY2evsDGzXk6q0KGeeTmX8ij9uoOxuH1YOIFtC7A",
 "checked": "2026-11-23"
 },
+"com.digicelfs.cellmoni": {
+"u": "pV_Pb6-1CefrvYqJtBCm6muIl5g8gBu6htpRsIBB8IaHfIcyEgkuZ_sc0iHXjR1IZwNVMiUm6vAxvRMtZVoM3VU",
+"checked": "2026-11-23"
+},
+"com.digicelfs.mycash": {
+"u": "zd5WDJYFHSkIq0WRkaBF8CMj_G21-KO_E6suzYCYuQHGQ8PI_jivVW5tADskQoLIl8b7kGOb_UdldseF_5CtTw",
+"checked": "2026-11-23"
+},
 "com.digicelpacific.selfcare.mobile": {
 "u": "k8o_Lky5cKzO-RzgviIBKDE02ymdU3CBYhjnFDrvdmGaLJlFkqADTKiIl1zR5LstSsMwhGR1rH3hmDPaONr9",
+"checked": "2026-11-23"
+},
+"com.digitalaggregator.toktok": {
+"u": "ZprIszue_UuCvTP2uYdYArnh8pETh0b2B07NrMxt36rlb4XGG2HJCcrGl4COmCOZPDtcGP41Jynx8lrMiYqgTQ",
 "checked": "2026-11-23"
 },
 "com.dineroo.app": {
@@ -1402,6 +1786,18 @@
 },
 "com.dinnerbooking.users": {
 "u": "Tok5c5s8Piv4ty1n-bvA-rcPqOKZC-7Yq8LU7_bumzF9KvjIkrXbcjdBjDJgaz8JsFgBuzH3meSHVPMxxVp4jg",
+"checked": "2026-11-23"
+},
+"com.directoriotigo.hwm": {
+"u": "95LRj_beJuiNxZSCV9dvOmu948zC4ohF97ddl8GAWYEBGxIBbJXEemeng9TL1SotZLYfqU9kiD7Ql4g9JB4e",
+"checked": "2026-11-23"
+},
+"com.discover.samoa": {
+"u": "zYbPBBdKeaTMAQmVdE0GZ_h6jXAtObHAoekuqPYvC35ubMArnZh1fsBAg-sZFjseMSvRjHN6_1f-TCv6Y2d-Cw",
+"checked": "2026-11-23"
+},
+"com.discoverhegra": {
+"u": "PUVIYal5aUuXBnSFVKarN0Qa9kY2UI6KXkNH9Kw0BGgpwKmWhR5h1kAzmaVx7N3TNWP73OFSeaoepTgxiTuyUA",
 "checked": "2026-11-23"
 },
 "com.discoversaipan.tinianwaysidestour": {
@@ -1435,6 +1831,14 @@
 "u": "Fa1amvZGI4KeEMM9kQZvVTRFbkAQT15XMjZAyvgyX-FY3f6-gDuaXnyWTzPm4Iiy00_v6uehE7Bk7A5DfGCtu9o",
 "checked": "2026-11-23"
 },
+"com.dokuwallettpay.android": {
+"u": "tklpzyqlyVErglkLEZXm4xnmSzJc5YJVDvP_bg7YsDPe9Z_7LFNZSxbpqqp8M6lhtb6wq5aNBzr8izt82P9o",
+"checked": "2026-11-23"
+},
+"com.dollar.rentguruz.b2c": {
+"u": "eAeBPph08Pc7NG0WxGbv6pYBDKC6EK-nKStdVM2nTzHbF86zVZBChpZDBMgMNBJu7zMS0Dq46JkuOUiFe-ADR9s",
+"checked": "2026-11-23"
+},
 "com.donkeyrepublic.bike.android": {
 "u": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY",
 "checked": "2026-11-23"
@@ -1451,12 +1855,20 @@
 "u": "M5WqM_0nVnDD9EBfenknmqo0QWBtW6H-N6YvhmU7t7prnRWjvCiqg2HP4vTdxt6GZxHSwvaZ_JtmfYUI_U7mXQ",
 "checked": "2026-11-23"
 },
+"com.dropitbmllc.dropIt.android.googleplay": {
+"u": "Z9ruLWLHfY2svj5P44m1du5n1L5UQM1zRuJyh57wVcTJA-QBerotPzOXbPKMk2IzHgmURdS_0SK3XaJ2EM9i7eM",
+"checked": "2026-11-23"
+},
 "com.drukride.customer": {
 "u": "BmTApb-F2EQQttWXHPxVN74ELdtQ_9Bzw2oCg4OdDkQvSLwDs7AJLTvvX0yYpFI_XKXA8KYOkqmmbSegYQNQgg",
 "checked": "2026-11-23"
 },
 "com.dtcm.dubaitourism": {
 "u": "iky36APHAdmuy2bzBMjotap4vZpe1f55WQ8wn7nwjaMQ202KzhJsvS5ISysyQ5WxjfVkSGlCCalDuLkG7hHR",
+"checked": "2026-11-23"
+},
+"com.dticket": {
+"u": "xH4e6nMimF8XqwfKFP4XCUPmgErykgYI19k651OWup_NdC0bIXeNhbn6Kc1H-Vd_WuFxgynCFZnMuVHhxjwWBg",
 "checked": "2026-11-23"
 },
 "com.dubaipolice.app": {
@@ -1475,8 +1887,16 @@
 "u": "lx0WN_f64XsnQoyAO1IgVaoJxEa7tIk5egGiA46zbpwnPVtrMRBXhXRhIPYSHG7K1XsW722KESbz5OuYiXF5A9c",
 "checked": "2026-11-23"
 },
+"com.easyway.ticket.app": {
+"u": "z04j_qT0B8B05TPwGlW5DzE83ch_4aHVVyWtY6AL4WEJ7mE_-PfgdbJZly5k-n_4QPEwxHlSpA9PFXmnAt1m8w",
+"checked": "2026-11-23"
+},
 "com.eat.ch": {
 "u": "18SrZQyehzYfsJD-ZjiptgKnychQ6ydgEecBAZFLEJwuEcC_OJhAG7Lws6r1xx2RzOWZnCZU2vREqfom-X1dCQ",
+"checked": "2026-11-23"
+},
+"com.eatin.android": {
+"u": "7eyJPoroN18mZmOu7xa-vl8hXF2bFA9qvHR3oDmKmW2fCLEYp5kigB6I3QeEv_TZ-h3MKX4aPyVcjKeoxO-ucA",
 "checked": "2026-11-23"
 },
 "com.ecabsmobileapplication": {
@@ -1487,12 +1907,28 @@
 "u": "yvwz3b4KDQ1zgzGIqWMbyKY1vGxVqQI6Qpe3t1B6aUrPK8x-odqD4Nldm6S6osqLJ49ldGOKS3MfFtieqknn",
 "checked": "2026-11-23"
 },
+"com.ecocash": {
+"u": "p8KM6TJr6mODf24U8AhPlX1uofQp5dATtVOdQxUoPHEgrWCvucuEb89Q5L8An36PBSb2iaoXn2i1H1QcPwFtyA",
+"checked": "2026-11-23"
+},
+"com.ecocash.ecocashapp": {
+"u": "gJHvfCett0JvmugojIwQYDyAMI-Y1qzZc2pihW_nYVq34Gygc2DHpOs0HCPLfkwAwZzXRq5C_ayBPHn9HGvyrvg",
+"checked": "2026-11-23"
+},
 "com.ecodriveplus.usuario": {
 "u": "zaAyeImi990TSxE7rdkkf0DHSiN4LpqZ1RNhhpGqMT0z_Tadi-n66kUdmnsk175hOaYfe2gcCLR84LYFiWHJ",
 "checked": "2026-11-23"
 },
+"com.ecovelo.karuvelo": {
+"u": "0QApD7HdVlGhTFXZvkIK9bEGL4HZN9SgKIH8Fn44AzIuulGbJiiVP5tvm4gkzqiDOvQ_xQWlBFyrBndCT7Mc1_E",
+"checked": "2026-11-23"
+},
 "com.ecu911": {
 "u": "71sALzgNHbiBS_F_52bds4YNSr0C4wPgaZKc7NZUiEWGfmeLH3K_sZuLPOPJUXTG3ifeBvmqhQRjhCTjXU23ZPc",
+"checked": "2026-11-23"
+},
+"com.eda24tj.app": {
+"u": "qMzy9hZHa0EzItr2voOt55L8ytRO3QQDX_EHs-v2qbWLu2Sn_3BOeMTBraNHVFKQF1MBYH3rrUidrKXiMPn5gOc",
 "checked": "2026-11-23"
 },
 "com.eg.android.AlipayGphone": {
@@ -1511,6 +1947,14 @@
 "u": "evkRu2I8olLqd2YB8GObHjGzEP1lhf_MCiqUQyYCjUk247-irMp5Ul6B5QBCzib-72flYGlRz2VxgV-8Z2Bg9w",
 "checked": "2026-11-23"
 },
+"com.egyptianbanks.instapay": {
+"u": "_ks0_XUbrZOkeiXkjaiZEK1S-j1skuQgF1E8S3ff702CoVyaiGnbfXPK74WjgxMk0Q4v2hlhu8WTHxp52Wq0",
+"checked": "2026-11-23"
+},
+"com.ehai": {
+"u": "iZ_EYWHBJqC37pqLHBtZgu3OPKKY3n8PQ7qC0QkZZuOBY4JGiZaczOIMf-XUwBlh_6Yraq6GPzxbcUfIPIAeyMc",
+"checked": "2026-11-23"
+},
 "com.ehi.enterprise.android": {
 "u": "K8Y64lfbDfgPM66izJL0WiNfbjYHATOGKhL5p94O-Ndnz90-76mx_R30AEz_klVvglsVNWFIHnvPyOmR5lzT",
 "checked": "2026-11-23"
@@ -1519,12 +1963,20 @@
 "u": "Xw_sKIBRj1DaTMcI48cgFTcci7il-y_oJA0cbPMRa-3pOjmH3LcFNS2m0ByTRUmdzX1In0ZsNcXQabo5TFN_",
 "checked": "2026-11-23"
 },
+"com.eia.eia": {
+"u": "SYJd80JdY6LyuDSgR0Ig1VuS-H7yYJnJNNJeI1wNOhfVdBD2CaJWU-GJ-VWTSv67h-6sM8gamrjfMKWf8flT0Q",
+"checked": "2026-11-23"
+},
 "com.eightd.biximobile": {
 "u": "KoJtJRjzV0_WOHscJylL9FnYsihKaXwNW_3-WK6Zs-vJx_SBNHca1vEpI3ci83_PRCBmTrgptgO_nl7HP29k",
 "checked": "2026-11-23"
 },
 "com.ekoappmoldovafrontendmobile": {
 "u": "4nbJmf7ukKVwCqAr-UUnI_1MSEpclQeiBF6K9duJOezYLYvp2CfvVdJEeFzItIUsZcRo2gu7RBb_9rf7Bw7JrQ",
+"checked": "2026-11-23"
+},
+"com.elevate.monacotaxi.passenger": {
+"u": "LLAakJvR2Gxa2LBAy1hH9JU7g9AASow2GG3L9-UVCASSVh8cx4sXP1StVJNHTNAOCT5cQWxr1caotna9KS8n",
 "checked": "2026-11-23"
 },
 "com.elmenus.app": {
@@ -1579,6 +2031,10 @@
 "u": "N8irUpfeV3B43qdIvKTivZA_z6YGFpryPUINHhjJRQXBV-s-ly226ofch13mrWiG-JDEqu94DbASdlGlRg98eQ",
 "checked": "2026-11-23"
 },
+"com.evertec.athmovil.android": {
+"u": "KIfEXyJN0WoPpJXGjouhiKQiFZkrA9XIH3o_ROIfOHQV3BPZPSo9whH2KCHO_xfcKrVgyuqA0siM9_z8kkhH",
+"checked": "2026-11-23"
+},
 "com.everywhereisqueer.app": {
 "u": "L4u-eMrhKKHEH2hwymBzM-WSxS7FTTc9epcJ14a9XreUIHyfGR0LhWQYM0HdvnEh-R05PqRF1pmbxGlALz8F0g",
 "checked": "2026-11-23"
@@ -1591,8 +2047,16 @@
 "u": "8vg6pmw0c8inSJXhnA5CSeZzqi26KCFaXT3SG_hqdh_uTidieoKjXSW_tq16vVeVN6JwyOhsmFeKEcvJ76x6",
 "checked": "2026-11-23"
 },
+"com.ezsmartpark": {
+"u": "TmJuAZmfUBmSlv1ymveMQUS68-TiYDJyxe_y4YHCGHEo1JHk0QI2qWe7Tv8ujb5I_8VTMSqVXWQbHOrVM-Gw",
+"checked": "2026-11-23"
+},
 "com.eztable.shareshopping": {
 "u": "0ie5rYiK3OmFiao4UvTXHofNHyG60muuG6ERl700yrmreQP9arlyP20S29bsSpmRaM9NcDNKPnKfDehOR6FcW_o",
+"checked": "2026-11-23"
+},
+"com.f1soft.esewa": {
+"u": "uk13rCjIbqv05GMOS5RwLg8NXEJaao_tzfWxBK4MgfGzRiPbOKAAB9JpWw6haEra3DuC9N5Ax_ZFhlN3hFBw",
 "checked": "2026-11-23"
 },
 "com.fabernovel.ratp": {
@@ -1627,6 +2091,10 @@
 "u": "PkMr6QNi5qt2gi-ZloS0CPv_AMF-PdO0aVcwI2kbP1PlJb_h3oY3_NlOGqKIfEirjsuPWwaUtFZ8usudu-HJOA",
 "checked": "2026-11-23"
 },
+"com.fccpta.ktmpublictransport": {
+"u": "VR7EQ4aR1uDOvsKZyodafH-b4P2Jifg4zPgrAzcWvGdVDSdmUGnWOqIxB5IdOT9RTv6Bjo3UvruThmVL6011Ow",
+"checked": "2026-11-23"
+},
 "com.felyx.android": {
 "u": "viKyiNcYmqazLsiG2q4ob8Z2TKuxCQ15ZtmOiVgDBcrzuyLjnKkV7szq-uCin4-fzucxxejTSie17ZsMuV2LrQ",
 "checked": "2026-11-23"
@@ -1647,6 +2115,10 @@
 "u": "JF5C9LMhtsG7qXjDKNfu9nyIATrGz9U-rQy64zxne_yPnD4Udfiy1iQ3BhsMGvBFjwZ25ObwCqTmgyIEU-wyAQ",
 "checked": "2026-11-23"
 },
+"com.fikasomobile.app": {
+"u": "-vZFcSJlndZFImapfT7yVwtN214XZrQ5xg0gykieJavb7IBmu6nRFmh-lwpVTVPhfMXOGp_w38q1PuItvJrgJw",
+"checked": "2026-11-23"
+},
 "com.fireid.snapscan": {
 "u": "EkKfGO6DdGPLD5eGOcepYy9dYp2niucRY8Vn78pXyZuD_qGKUwub7f-eWtDtiOTPIjaKL6RQRx-wfwYmrr0y",
 "checked": "2026-11-23"
@@ -1659,8 +2131,16 @@
 "u": "Zw40nSpCFkh0GZd-E35rYDlIEdI21l8QmPO1jLbNA8qKL9VIRPlPPm578ntHYRnuwxdbFxCKMPs9xCH67gJa",
 "checked": "2026-11-23"
 },
+"com.firstiraqibank.personal": {
+"u": "BzofwPzJamQoWAfxMNoNIZXbGYsCCnWTcjhpBqpjruSb0lwP9pjCc5tql1DG9xwqM66GuJ01FM7B3rVhHHx5aw",
+"checked": "2026-11-23"
+},
 "com.firsttable.live": {
 "u": "KNRNUZAGfVGLFUyF_9suNSX4DEnI0mlMfCTlwUJ_vv7uXw1FYL2MVjF8nhFZhAHEzBLVjN37YcEhulPjKmisrg",
+"checked": "2026-11-23"
+},
+"com.flamingoscooters.android": {
+"u": "14x5LS1YGV5p5mZnP5t2firdmsyblngcHd9YlYL3VXB9Ptctwtc22Gbj6sf7UlT4Gch83rxmRADvUDhmfnECEw",
 "checked": "2026-11-23"
 },
 "com.flexicar.app": {
@@ -1675,8 +2155,20 @@
 "u": "GsHokKYHFNG5wdJ4RdP7dXjst6P_UQtXhxwMEKPlBFgX8E736b_0txgGjsdrTDet4pJiho3k4EzLdYStH6MX",
 "checked": "2026-11-23"
 },
+"com.flutter.rspassenger": {
+"u": "mEf5x89VE_O6DkTA9BPCoaoiAyQ_XCVZclnzmqYFhq6wpCRZDECfBarKn_K5crRGpu1TWJsasT65u2XTyPslkQ",
+"checked": "2026-11-23"
+},
+"com.flyairlink.airlink4z": {
+"u": "uX1_fdozUSd-rv61K9flDUSOwUsKF-tN35Ax4sYrS7tNAdVvLQny9jx7zCrOe3Vo7N3W7DWr_ccTflqE01dV",
+"checked": "2026-11-23"
+},
 "com.flyflair.mobile": {
 "u": "5nzNixS262jJduaz_i1OKtEARy0VEu8AkqF9-56YCMarrdxEc7lzZdGtE8UsguVystNSvzx1nlO26qQMvuJFmYo",
+"checked": "2026-11-23"
+},
+"com.flytaag.app": {
+"u": "yjNdYwIBMGdvRNZlzJLI5pm7Nn2u0s5uUPvufiSYV6Vx_lkoACjFvAyHWs2cwCJbSor0ybiQxpnShGm3vr0t0A",
 "checked": "2026-11-23"
 },
 "com.flytaxi.hktaxi": {
@@ -1695,6 +2187,10 @@
 "u": "I3kuACKAd98RAi-aAIq1ctAlONMYWXTXihaO5gpP3kMPbPazGoqly9OHjSXlC3VDAiM_092QMxnCCr_-ltHL4BY",
 "checked": "2026-11-23"
 },
+"com.fooddrop.customer": {
+"u": "xOgn9xQfLHcd7h1xRbioMiEWdUoOF9L45GyWsebnY4jJv7dlBkvsCkGr7q3LB3k9JoQq1xl0O0FCkHqPaGHqcA",
+"checked": "2026-11-23"
+},
 "com.foodiBd": {
 "u": "3DRo9B_S14dknG4mo7w1swaYMkWBFJHNCusKpawtVNM0RPgg4Nl6t_BS7mbTk-Zn2crbzg45EcjTkhJDHiOcyQ",
 "checked": "2026-11-23"
@@ -1703,16 +2199,36 @@
 "u": "bBoSdH8QWFIaKeNEAsKWSs3vY5Vfx_bGuy5vQbvunDmA8xCtr1FDcC4J2P2Vzc7HjxkcLaJvsi-b5gMCg77wBg",
 "checked": "2026-11-23"
 },
+"com.friendi.wallet": {
+"u": "GveXH0gQRntoXwGYSn1MKArMspYFBYqfCh8alykCdL210YGRjRrmu0SnPtdGxcHwH5kPMNj-_JqIq4iBCjnB",
+"checked": "2026-11-23"
+},
+"com.frotamiles.goamiles_user": {
+"u": "FAXo-oxk6HoUP4PhRXcAYNuS7MVnEh0TDYZrZRmuEuY1k_M7DL2hRXRwsq8263JfroS37JCqAp_ug9Z5rtSu0g",
+"checked": "2026-11-23"
+},
 "com.fsm.telofun": {
 "u": "a-eVc06WY-lmFsXXaxBHkHot-wfLAdA7RQJL3Za9jyY0T1HGP0z9qrv48ajz7hGeD-kFPrHR7Sn6N0H5EywU5A",
+"checked": "2026-11-23"
+},
+"com.ftband.mono": {
+"u": "qApgu0vuKAI5Mq_Nljl5IFCrQJXj1CumJWqRqgMH91999k6V_xRMr4P2yycKfytunz0MRGH4k_KJ7OMs8uRkEw",
 "checked": "2026-11-23"
 },
 "com.futurecuracao.curacaotb": {
 "u": "lNQgWUdmuVKIX19HJw9v3s0D3lvAoPbwerOFRsoTDFwjuX4aXEmxmlBUE-YCGi49X-qvGvRaip07eFZtf0EccqE",
 "checked": "2026-11-23"
 },
+"com.gamlp.turismotravel": {
+"u": "IBYF7FbVWRlkGTDEpTS5cbVOuyRN_8X8dU74T57UNhJc2JG4yYmCj7MLzfWdd1rWWXjddliu43wG0sjW59glrw",
+"checked": "2026-11-23"
+},
 "com.geneve.app": {
 "u": "vabUJ6BxqZghA4s2NjzWvd2QxVaaYD5jYHQtPQa_IutYNLhc6rAOl23RuSMpiTGuSAcG_BSA10twt8fY4bZnH4s",
+"checked": "2026-11-23"
+},
+"com.geoactio.bus4me_android": {
+"u": "r3w2AwF4On_zumQ25ofD022zxM-Iwz8Z3kbiUTRiTU4fFXlMhBabz90XB45Mt4WVzMfwcWWDRE45UBuRUl-LGg",
 "checked": "2026-11-23"
 },
 "com.geoactio.tussam": {
@@ -1723,8 +2239,16 @@
 "u": "5kFCcSIHZy07doE2K7EIXJdaLdTv08Z03kxSq4VKf7Xs-6SXoOMJkrjZvfkW9t6qdQX7AUZtDA5v-usDZZsvm0k",
 "checked": "2026-11-23"
 },
+"com.geoxspot.rider.gokl": {
+"u": "wIml5KZntZWuAK4_XAMgKsoPB2yQm0DjxjoiXlaeICG0xAaK9DIx0b9rAXM_6M3l9_E_qoZpjeDQQeRxOo3E",
+"checked": "2026-11-23"
+},
 "com.getir": {
 "u": "UDInLGPl8PFQBWTb7Hr6vNv6IY5QsYSxwHy1FpYkCEyMis0Z8K_duBZb_A80-ETr7jpkDj5htDZ0Vd38gEolUL0",
+"checked": "2026-11-23"
+},
+"com.getserra.app.personal": {
+"u": "QsHBJwjjFdf3YymBYBBHH87A8Gvy9pLm-O35YU4lQ3zbdD55VREjFi1BYa6ITatAcGLxVjqoql1WebOLlHx_THU",
 "checked": "2026-11-23"
 },
 "com.gettaxi.android": {
@@ -1767,6 +2291,14 @@
 "u": "3GVYKXAg9x2RiMxhG38CNmCynQUFTvT0vVK2u-Jj8Rrpwh5K6ySiy18aO6J2jHfSkgSBv3JVcv2ISEEWjTUCI2I",
 "checked": "2026-11-23"
 },
+"com.gmail.donschlack.yap": {
+"u": "6JUgR3tOM7E27dRBxfMyv28Kg7E2Jxm-TvD4lWHDa1BN0W5UALSF8HBhaeo2M68UKyqWE_STcMXkmJQ0E8XL",
+"checked": "2026-11-23"
+},
+"com.gmv.cyprusbus2": {
+"u": "SUERyuSDgKDnHmQoAPjnHUaxuzjRC9-5lLSNl5G3PUpKancxBStBxj4aqIKRsneTYeQcGPcCa97e8fReTPrY",
+"checked": "2026-11-23"
+},
 "com.gobuseg": {
 "u": "XZ6grLSh_2qA9l3xDQ6vCKkJbWD9xvyEX8sRj40Hp3E3v8Oq6Bq2bDUqpaZ966ERpMR5u6yCeYMf8cdMoqI-Hg",
 "checked": "2026-11-23"
@@ -1783,6 +2315,10 @@
 "u": "amlYHL70P5burIxfmW3G2epgs8FiyyXKv2i-scqwvkNbAKAMT5njR5RToeW9ll6o6qtNemfiuwyHo_JLavGQdg",
 "checked": "2026-11-23"
 },
+"com.gogoro.goshare": {
+"u": "mk2avLY2XbsSEQv5Fq0emA90jhvtLTejwQ1OUki4U_15uLx9i-JLOA2mdX3e_PjLtEsOiYZfr5lzBmWDiYp1",
+"checked": "2026-11-23"
+},
 "com.gojek.app": {
 "u": "LMMiBxDmUDNqqTK8V3Xcgoy_Mf4t9TD-IbKznzp-NeOPH6GDV5vZ_SO0qjE3iv0LENGvu2dat9ZTIS4KS9UJ",
 "checked": "2026-11-23"
@@ -1795,12 +2331,28 @@
 "u": "E3mzwfof5_s8WpBF0I4nJ0DbWqYBMqZz2imi_-EbjE1SFcTJM-Lx-_AqQdbGwukUrxZulOYqk8kmgqd9d6a2",
 "checked": "2026-11-23"
 },
+"com.gomamam.app": {
+"u": "DOrclJshiNr6VF9dS4hxBm885kHrUjSPQd-gsS5Dgce3LiRF3spNW_Pa4A81ae_s5KqamiTWlwCIpjhVRELa9w",
+"checked": "2026-11-23"
+},
 "com.goodtravelsoftware.sharecar.toyotaargentina": {
 "u": "4H8f5FMGUvsq2Mcb8kmo5EIjRSeYShpiiJnkvcLe7L-vHQ2aO88iV6yCYmkn4Y02AXkvy0ibWb7L3tb3Elv2RGg",
 "checked": "2026-11-23"
 },
+"com.goodtravelsoftware.sharecar.toyotairelandyuko": {
+"u": "_yOQfVwGn5pw_IwCjm8DWdtKqydVFt-Gk3yvkmWx-Mh03dX2fpHCQ92ZSmiwiuL2tl4AfJmURAtu1Pe1fxfDBw",
+"checked": "2026-11-23"
+},
 "com.google.android.apps.maps": {
 "u": "B8pdO_2K5nBsF0g1h6dKwV_jQFLP-XombGDEQGtJT-mw1EUKCKJpa9lBGCF4rP_MwCsozSXyvI3z19g9R3J4",
+"checked": "2026-11-23"
+},
+"com.google.android.apps.nbu.paisa.user": {
+"u": "Wbik2RoUSGgWEg8ybAhFaMJO2fE7x9gqCXfwbmW0YPjh6TKcjKzecth8GaYkbUBYtLZXhyfVMpqkIuJgTM8p",
+"checked": "2026-11-23"
+},
+"com.google.android.apps.walletnfcrel": {
+"u": "zd5pb7c2r_TXGBPSQyNN_Kq_WzsjhEqX8sdyl0CkEAjshnbscd71SmLPh1L_xVCcckP2LOC2ZpB1n23Q8NuRvA",
 "checked": "2026-11-23"
 },
 "com.gopoppy.app": {
@@ -1813,6 +2365,10 @@
 },
 "com.goteso.gpg": {
 "u": "A6ppBUQf8bHplw4Cx6kjo2uTrHK1L94Q-zHfurb3CC__LuKycsQEgVKcPD8dMNHra0prkOcGT2E4YDOlJ3JkOQ",
+"checked": "2026-11-23"
+},
+"com.gotimorride.user": {
+"u": "--M5js_Zj8MvN5iKBt6BZ7VO8CvN50lUxwATSszyhj2P-F_M1z4bzq4iEKlQU3Qz5xsBYACU0KJQMW_SgvYu0Q",
 "checked": "2026-11-23"
 },
 "com.gozem": {
@@ -1867,12 +2423,24 @@
 "u": "yQanUgJ0Hbbbp6RZzoJbM_yG5FE3qLCsoxx75pc4LoRisGT852s3KZI5SLr8UWg32HAkR8ZU4VsWFw3y-FQzZA",
 "checked": "2026-11-23"
 },
+"com.grupojulia.andorradirectbus": {
+"u": "5a18n6d2nVpSAyhiI_YiAwwECzTBKeUqkGpFqh_-H4lNJ1ZE-Q4eEoEGHtF_Jc1jbcr_gPyFfGpYnpdzCDTMnXg",
+"checked": "2026-11-23"
+},
 "com.gsm.customer": {
 "u": "Rc_S5AZzuagDw5YEvUELXoun3grPg0I-JqSkEb90e6g2mEzD-BeB702evya0RLAiaSep_uwvn2YfrKkbk2zl",
 "checked": "2026-11-23"
 },
 "com.gsm.customer.gsm": {
 "u": "NaCsG_f3MxIjK1BAx5aa02NfvQoQxmHWih_n46yC67zSm--zhLaiD5ChtyCTfDTLyGB4pJvxxrD0XvZ2QHKT_Og",
+"checked": "2026-11-23"
+},
+"com.gteats.ordering": {
+"u": "Wz3nQacq8NPxxgoXDVA1gG_6OVptWETmPwYKB7Ef3SZdMmIjBjvBFoREGzvK75SAnK9YUzW7Z8aOw-DMhpoqdQ",
+"checked": "2026-11-23"
+},
+"com.guadeloupe.rando": {
+"u": "LromzpXP92viYKk3BmY2BC9hm51uId_oHbjD1tYAoip3Jk7pY-GtOx5qF4bSOMAeiH0DBFWu2gLoddftsfOmQQ",
 "checked": "2026-11-23"
 },
 "com.gui.app.ge": {
@@ -1895,6 +2463,10 @@
 "u": "T9GEuZirS9pTzGPhxojOlK-UN1vWjz8-hf2knF7dLFNQV-z-uNbUgQ04sOjF259lNh4CbDzxY_WlUbeDHmeZf3E",
 "checked": "2026-11-23"
 },
+"com.halodili.android": {
+"u": "q0QtUlvS_h1t5IK3PnxoAvgadBdmC97hquxY_yrIZCnwvs_z8aNmCioklCFkAqVikrVJddJSq-e-C4Rbv47azoo",
+"checked": "2026-11-23"
+},
 "com.hanpass.visit": {
 "u": "ygS7u025JC0w9aj76rrnhCyjtDyAynhPeFxmCUNps2RN9f5na1t-rGp6tSCuewaraJ93CBRYxWHZK8IRIT3T",
 "checked": "2026-11-23"
@@ -1903,8 +2475,24 @@
 "u": "6EOuxNNqop2asmdByJ8Pa-SAeopJX7s_Xh0skI19IObbsC8GxO-VeHbrp_nrLACqhH5Vdcb0csA7olF8O0NF",
 "checked": "2026-11-23"
 },
+"com.haylaprider": {
+"u": "TPlpT2nunzdnp8wyHO_c8SV5bVxpYC-ehunBdPkfsr0XKqhTcqOuwfS7SrQ9akobfZVvrx_YcYG0VMhvUnl4",
+"checked": "2026-11-23"
+},
+"com.hbb_it.taxi_135": {
+"u": "ch-SL7KywpdqtJQZ9ANlTrsMo--6ZxtlKPfuF8q7VODTzLP9F0MzO6vuY0VZbsZdCZXTy26ju_1xI5S9sVB77Q",
+"checked": "2026-11-23"
+},
 "com.hc_linear.tuke_app.tuke_busz_app": {
 "u": "wkFpMUANILh7RYWQH7eJVuyu5num5Id7m-iPKc-hwrICuEDi2Pq3LKky4wSHl-xA-lw-v5g3S1m8KsEn9d8wMQ",
+"checked": "2026-11-23"
+},
+"com.hclinear.dkv.dkv": {
+"u": "xBqMCjP3fBndcDfhI4WENtY8x-XOhK_RFBheq2YXX0f8vSqZnN_XsnESs2cdjzHrej-HypeHzl384lIl3mLbdg",
+"checked": "2026-11-23"
+},
+"com.hdc.urbanglide": {
+"u": "4LOxEIfqb3q3Q6MSTig_TxBUisMNqWwYql2PLAU_sTiOYytbQm69tSbJqLvXvbv7xU2e2OMlcTHdsGcM7fDD",
 "checked": "2026-11-23"
 },
 "com.heetch": {
@@ -1925,6 +2513,10 @@
 },
 "com.hikearmenia": {
 "u": "WYuAlxdqIwk0fSD7Mxm1FYWS1JukOkRmLWHP4PWpD5x2_tP8ygGwfztTizBNiH44Pi-iMJ8_KH1hOlQobps80w",
+"checked": "2026-11-23"
+},
+"com.hitch": {
+"u": "_u5z47TgNCjmo6M_ltFMT400pG8GnLw3cPRr0Lf_mCD14m1hiaIB93Se55oEKhzm-7zM-AAH-UBNhS0yTx4ymQ",
 "checked": "2026-11-23"
 },
 "com.hititcs.airseychelles": {
@@ -1959,6 +2551,10 @@
 "u": "cWd0Rm2gwCV18LA0yS05yFat1l475GYFJhNJ60rGT62huj0Xxv5GmcvQHbjnWAG1RzGW7oqeXqtAl5J_XrjqYi4",
 "checked": "2026-11-23"
 },
+"com.hookisland.app": {
+"u": "JfgvR6hNpE0GFasORwH86ZqZS-4jzkExnO87CaqHtBpbCMxj1fgykq9Zn79KXvBHGU-ic-TxiL4i9drwntX74g",
+"checked": "2026-11-23"
+},
 "com.hopbahamas.rider": {
 "u": "SqR7ArhT6EBfqF1-kYjw34fzqWmnGGuHvWCr23rrJIB7hUBDvNPPURvYxIxEc_gvNjh2IMVJ-b-dCJVEj2Rt3w",
 "checked": "2026-11-23"
@@ -1973,6 +2569,10 @@
 },
 "com.hotspot.hotspotmobile": {
 "u": "4G2Wn3ZOPlI7rjjF6P30FJLoBaDct0L_dkWJqhiYkoLtH40GIDgwJYWe3VPNK8I4pf56kvUn0LpIKVUbe8i5",
+"checked": "2026-11-23"
+},
+"com.huawei.moovmoney.tg.uat": {
+"u": "SrVCOrrQ8CQik6TJZOrSAY5ZqaMLJ2yYrfZrmNhTaPVy0-zJGWIwLVmBnghqqpMs61yrXo4h0-ZrmPX8OiJdcg",
 "checked": "2026-11-23"
 },
 "com.hubtel.hcb": {
@@ -2005,6 +2605,14 @@
 },
 "com.iberia.android": {
 "u": "kBXN6um7ob4hKWeeca1BKPKahocafdtyWW59hYSn5X-SuP3JAGp1DFO1Xudj9amvl-2TALy-uYWdfoZzedHuKQ",
+"checked": "2026-11-23"
+},
+"com.icomvision.bsc.tbc": {
+"u": "X-HS10Ztwfo3iBzzapCWcGM0HqTpbkKPa04DsxSKuCTMoZF-nxMdR-MeJY5CQN-HNJrbShAARzpe3tFDuJJ-i8w",
+"checked": "2026-11-23"
+},
+"com.ideas2life.foodymobile": {
+"u": "oXo9CC7azadG4JrXkEOVxBC8lm2NB69_9NoA2779q9L_-2sE-Bnt9D52f6mkxcK2xqYe3-9bcsQpypqccoHrog",
 "checked": "2026-11-23"
 },
 "com.imagine.jordanpass.superapplication": {
@@ -2043,16 +2651,40 @@
 "u": "awJhxS1cvfmE81ToaBtaXgjSOji22qZSIPPaXIrA-XO3NZcnc76JEmHW7kWQcPyfKzntxxX95JRg24-vmYgbsw",
 "checked": "2026-11-23"
 },
+"com.innbucks.customer": {
+"u": "oxMqivKGKFyTE6LBfNRrjkXmCbFcOUinLp2O4fIcSh5-7LcX_dhkN8f-eVpGTv5RKX-Grkuf_zP_kWJaiqQWlw",
+"checked": "2026-11-23"
+},
 "com.inno.epodroznik.android": {
 "u": "5Ufgx2G9dlREwWYI8W9DB7mdj184ox7xKF_Pc9DMjGSocvyDfKKLEOK1PhkaP4rrtE3Zc1HU0eRHHHjcmwBh0Q",
+"checked": "2026-11-23"
+},
+"com.inomera.sm": {
+"u": "iABNiEFECNaD1OqiPJ7VT9N1mZG0AYtTrtrqiXe7t2PRxMMZi3gwxytpNJVJiOkygv_ml70zjg7XMptaPDHd7oI",
+"checked": "2026-11-23"
+},
+"com.inovatechit.scancard.budva": {
+"u": "CmVjf8MVJG_rhZFEJcGh4UUN6UAGrptEBZlOHV7q1z_Jr493n9W6q39igtcrKIhbedYtx8ym8UoY02Eq_iP5dA",
 "checked": "2026-11-23"
 },
 "com.inovel.app.yemeksepeti": {
 "u": "OroNfTML52IFkVchDq2fALEeA35M1kllJE6JhB4-2phPfpw0fk_1gHSPwQM1w4gRswf5qpBalQE-El_-WXy1",
 "checked": "2026-11-23"
 },
+"com.integrapark.iparkmerel": {
+"u": "041CI1z32CTjybzKNe50lyIWK8HjSlq1A0N3tg3tbtIOGDOGRBCAZUbuif2YsD3kdZw2Te2LQ168ESRCd3CxDLs",
+"checked": "2026-11-23"
+},
 "com.intele.nsbmob.app": {
 "u": "FDY1-2dzISxP364-YAWmvtzeSYL6Os0Gnhr8QVocD0DU2rpSczUyfu6ju32UYZZ13uAEGS4yP4A55802yXA3",
+"checked": "2026-11-23"
+},
+"com.interfacom.taxiandorra": {
+"u": "G0xWGztj3q4XVduxozcaNA38cMCCuHe4AAiVahNhk-Co0yZ9ZKtvGkV-7WdcvaaM71gKM7zRaO4noFZeTycwkuY",
+"checked": "2026-11-23"
+},
+"com.intertech.bethlehem": {
+"u": "CMMzWXtrCYardmCXl0SjrirooSUyfnhwubsDxX5UrPPnqLD9xpmEMFPUPOGVXhe9ja_SPc_s0q0CGEen0IKOrQ",
 "checked": "2026-11-23"
 },
 "com.intertech.visitramallah": {
@@ -2063,7 +2695,15 @@
 "u": "Qkl4VIqgS99NjvAvgZUQSDuQ_wjOAhWw74URE0YA2_lJqxSMb9KEQoBXQpcDDkyxo-WEg-TDgmnaZI25WNsW",
 "checked": "2026-11-23"
 },
+"com.ionicframework.aigparking739704": {
+"u": "0VjEs2uIxnEAM1H2-zNkTtPcsT9gtT2GZIYNN7zlbpsBGHeghho8gY85hzBfseFN4uT_xzxM9IBIcptWakF1pA",
+"checked": "2026-11-23"
+},
 "com.ionicframework.visitrioapp832818": {
+"checked": "2026-11-23"
+},
+"com.ishajaya.transportbn": {
+"u": "uD0yYUeYi4-gJUguJNF4BiVZPrWwHOxpJX3UScNCZpaoogy9ZMaDYaj26iT4CpS9B-DlU387hMDNU8mr7hnyhw",
 "checked": "2026-11-23"
 },
 "com.islandEats.customer": {
@@ -2082,12 +2722,20 @@
 "u": "ewO2LNvEGOAR4Y8HhGGuhKq7X6jg2wqSSNccT7rifeEXwOzASCWWFjgPXFhSmbBks1m1OgdLsj-uQhBxxf9Cgg",
 "checked": "2026-11-23"
 },
+"com.jaklingkoindonesia.app": {
+"u": "NxmWgrTB3hiIHVDWzql4jQjfqep5zcrNKUquziDh6GtgtRw0nAq1v6SvPYi_u9OJ2nMoUaKFZnaGU_np2HUq5Tw",
+"checked": "2026-11-23"
+},
 "com.jambojet.booking.twa": {
 "u": "jrXQaJBxLQnQed3M8icZwuIM6xrts3XTn8XMp8pqkK5BKbiBaHpq_aePrW3RsPm-FiY9ZcSg0vyqwr7WCwuuF54",
 "checked": "2026-11-23"
 },
 "com.jcdecaux.vls.bruxelles": {
 "u": "3_pWlq-9eFAgvyPeOeFn7hamy5yEIBV--ZjSSvgSwDnUpWuEOTaX5vjiqGr1qP66Au8Mg_nTlILNLgPKFp8",
+"checked": "2026-11-23"
+},
+"com.jcdecaux.vls.dublin": {
+"u": "5XSKQ3vws9aVzM18PWmURRRXa5-6pp_RJ16-f36wtFaoxxZAyrdxsCeGx3Mg_OqA-_Ix2H3p4xVLmhVR7oRdoQ",
 "checked": "2026-11-23"
 },
 "com.jcdecaux.vls.ljubljana": {
@@ -2098,12 +2746,24 @@
 "u": "jdEpsNh8SQl0tW-qHgMNZ9iRh7gxyGlSCs9X8yR5WrRamomUVKI75AdVc76BA2Bx2TfSq7tvxXtFhlXW2iXjyQ0",
 "checked": "2026-11-23"
 },
+"com.jcdecaux.vls.maribor": {
+"u": "HJyhoKvKQxD7BoLI_XGtDDaAduMu65vDIWNnxtzx3M5RP5s2s-fWQ1uPULyvS3Kf6L1MXQVXEMQ3-s_HifjdlA",
+"checked": "2026-11-23"
+},
 "com.jetscooters": {
 "u": "agD1aLXYl-6v_n1rmnOWRP4Wwe8KQ2PedUvX-xvSe01twDcSQ6-yiMyr-DygzYnp67qdQFvHyPCzncwX_7G28A",
 "checked": "2026-11-23"
 },
+"com.jisnor4u.customer": {
+"u": "XBpu4BdngJ8ZL4E1laVRYwJM5oNDV23hUDD28rEAD7Eb9yu9wEbJq0izfFMdOgP0AmJuGDdauZNuD-Xb6hf7_A",
+"checked": "2026-11-23"
+},
 "com.joyride.rider": {
 "u": "IhbXzsqykIgrzOQ-c4fN5HnIP_WrKFV7op-bUPckoUGwDQ3u4k7lmLlhkufCejyaX-6AadE14W6kWmioI38AzXU",
+"checked": "2026-11-23"
+},
+"com.joyride.slovnaftebajk": {
+"u": "ByVHNq66bm9yq8L3wG51yh3EM-H307irBGFCXS8_MXsJMCUNtkW6HUXfMgc-cNKx7PS5IQU5SHtQK57BEa352Mo",
 "checked": "2026-11-23"
 },
 "com.judu": {
@@ -2138,8 +2798,16 @@
 "u": "K59NSbZXbeQW2f9iNuSRywxTVhNOAC1-xagiN9LQyNie31akvmof-BJKUGEJxQBGs6YtS33FkKi1Bu1Ug5r-7g",
 "checked": "2026-11-23"
 },
+"com.juvo.tigomoney": {
+"u": "F1Ln1wANl4xF0zRoNRzDviMvsGQDgvpLLWnaiPGHkajhmPUbinVIqVRT_j5HNQRCqkV8htkO1e0qjTysq-a-",
+"checked": "2026-11-23"
+},
 "com.kai.kaiticketing": {
 "u": "oMCaFu3rpx2r1kWwwg2c3onakLO9_A6gE5ncYf7X7wwyfkM06SvVc-a2YeD0-5kRjR6nnIv0Uvfa7Dcj_Hd2",
+"checked": "2026-11-23"
+},
+"com.kajou.bonjour": {
+"u": "o41bbPbyhIm1rbtt5uwl7F4j1Yvag1j2WAjSOqIjnEMNxi9sS_3GQJ5aRPGwQakeMltrRs8fwDUsqin5fbQDlw",
 "checked": "2026-11-23"
 },
 "com.kakaku.tabelog.tourists": {
@@ -2150,8 +2818,16 @@
 "u": "VaxoIL0V83FKXsQ5fOR0XJ3CQ7Q_eOt_WXuKFtnuK3nWUH_SOll1_LRK5AlXE7b8sUg4iHNKBVof1zV1haQRyw",
 "checked": "2026-11-23"
 },
+"com.kakao.taxi": {
+"u": "5X2OLNovx1Bf1NndZyPq6m0U2lPoopybo2vO56zjB_6fpNAzHWY0Sw0qjB28_G9Eb8rX0AMJbuE2aQEd5O1O7A",
+"checked": "2026-11-23"
+},
 "com.kakaomobility.kride": {
 "u": "-dlo-blvIDhtkIL4pljFst1ljMagoBTOnG-jbUag_eS7uZtTeovEPJVjQFTXzTsgFhcc9wNsyx8BB9MK9aAf",
+"checked": "2026-11-23"
+},
+"com.kakaopay.app": {
+"u": "hOXXHuezGl0ur3l7EWTdwEAyybjZQn6ayMokEL_XMV3UJuvLfUrefgovyrngh2UTsT4TvdniwYkqDTkVaBqywv4",
 "checked": "2026-11-23"
 },
 "com.kamair.ticketing": {
@@ -2198,8 +2874,20 @@
 "u": "ah-ghDjSGo5xU0zqWcZHvRpLvoK4VqlxQxb03MsfJzfSQEkmbtkii10dzgM29l-Lx7hDyaW3rjjgFSuuSm1AnWY",
 "checked": "2026-11-23"
 },
+"com.khalti": {
+"u": "Z-lHtoW4xdcfp0i49LvLMYQIKcLApaS2DB6H2Ni0-lNeBgvtJb3q2JHbE4DyIXBIDFXM0BnFMsMxdMg19hYN",
+"checked": "2026-11-23"
+},
+"com.kingtav.simplyalliouagana": {
+"u": "m0s6dHWJNhTHTr_lGVYKkiGo1aw1N5OM9HscuotA27t7d8G_pgso6ztV1c4HVaZPsXJ1CvNCn2bfGjiO39Kmksc",
+"checked": "2026-11-23"
+},
 "com.kinto.nz.prod": {
 "u": "KRFX0q9Dm1L3jJPaznTwzMzhOkW7gNVITgIipUbZQZT9AouFX8j379q68VeIRY7RU48rae5b-D_rhHqJKrMx",
+"checked": "2026-11-23"
+},
+"com.kiwitaxi.mobileapp.client": {
+"u": "xSjGQY0U4jIpBJxa2EWbs9GqcyUO-iNOaZBGb4B083FB2sXS1ORUB_no3ir9apSAYkh_xgtYkIzjStotoAL1gg",
 "checked": "2026-11-23"
 },
 "com.klaipeda.app": {
@@ -2212,6 +2900,10 @@
 },
 "com.kmb.app1933": {
 "u": "DAdF3P_VND3k4N7D1Aqrv8Rx6dVIfOHLp6InVWmzLtNbZcYNwhJ0WBXa2AMyG9uNrcAJeO8SPyqGNUdhOuc2gTQ",
+"checked": "2026-11-23"
+},
+"com.knockknockdelivery.android": {
+"u": "U4G712YhdDtkPG8ORYcZE5NMAw-TXmFKmQQEvhpeAYLGN_JI137L7Gkvb98xw001UFOUFzcMbx58RftTIMzSPA",
 "checked": "2026-11-23"
 },
 "com.knutsfordexpress.travels": {
@@ -2238,6 +2930,14 @@
 "u": "jAcnehbXYTJwcxyOn19uH4sHjFWQbD8QNSi5N7dyNfeAJ5PvvPuxuikYn_vSYgTfYToi57GVOCxVnfVVY57QXbU",
 "checked": "2026-11-23"
 },
+"com.krtc.krtcapp": {
+"u": "54kWgHBTE_C7naJF6foi3DTyVku-jrUI5EVSAjVFxhfin1q8CtQd64_4S6544DrYLSAnOXK_Yo0RB30vRyIkphU",
+"checked": "2026-11-23"
+},
+"com.kuba.mobility.govia": {
+"u": "wT6sraxZDQ53H0PWaki1TAaft2nu5aLREYA5wTgDZPFL_P_NM6zmdZMQAVQeT7rTEqKv9b5JcNg1Xs5a8vzj6to",
+"checked": "2026-11-23"
+},
 "com.kvt.ziogas": {
 "u": "3DLOvho1PA0RyjNRpXxX4Cpxx7MOgyzljZdYEboVsjCjvUlPr3YAF1Z0fuBY3Nv7EvFWFo4YWDFF_RvhHpX0Ig",
 "checked": "2026-11-23"
@@ -2250,6 +2950,10 @@
 "u": "OUQYvxiWdZT5dQhf31bviabtL7Whq02jnYm99Orp-pDUC-JxCEQQ0M1XbxnrsUDFkuSgQmunRxN4BbASCn_0",
 "checked": "2026-11-23"
 },
+"com.lafabrik.plan": {
+"u": "jCrH5TU5nq16uNuBWwqClElXNklYtTMGZTRd3BxSx1DI9lvt552HyODa6imgznd44kAKGBP2LFlr7eAn_ajj6A",
+"checked": "2026-11-23"
+},
 "com.lafourchette.lafourchette": {
 "u": "4Y6aeHJ14iRBkMV-fmR-vteyU5sYFZuRFq108Pb5-8gdBD1mIUqXvIcrNjmHOQJXx4hb_vB3jusYE3CRPclUbw",
 "checked": "2026-11-23"
@@ -2258,12 +2962,20 @@
 "u": "0ipx5FdoI8iKqCfAmisIwEHIX2DOV0zviETs6noxQRN9bJGQIi5tRJwEXZDtom3ZQzxzMhqs6hhvVKxCY_UrCX0",
 "checked": "2026-11-23"
 },
+"com.lanaco.publicparkingapp": {
+"u": "cMy84tux4Q6h9BUjmi8xmOwCT-PgvMtd6Ct25Mb_PDvwo7ENwRlqoUz1N1AKVCJT0c0zVfJA7KAVNyVN7I6f8ig",
+"checked": "2026-11-23"
+},
 "com.latra.safari_tiketi": {
 "u": "S6fxG7qRjO_r0ssaEdCMntz90hhznTsznCQ16eqDZ_C3EIT5X32kbeR36SI12FTdxF1SZDb63slawtx-pbYXJ28",
 "checked": "2026-11-23"
 },
 "com.ldi.saipan": {
 "u": "GWHe4f118qp_f2MoDip556wWiL5TRmCmOJRjabetYzqROEcQbY_dL8JJwbmiiDpI0PWGNC84wUKulkxzFGkFQg",
+"checked": "2026-11-23"
+},
+"com.lehweride.passengerapp": {
+"u": "9AKkiOjo1lVpcCJGEF80ibS3hX2WC-_P2vp226eJo6Wih90QaivKLj5u7wFaxwMjpf66n9OjuwnDqWtdrIuFwA",
 "checked": "2026-11-23"
 },
 "com.lemonadeFinance.android": {
@@ -2278,8 +2990,16 @@
 "u": "z2Bexcd0MGwmJECYBR8-eI3f3T8-sCtfE61fC8-x_n4uROLNgJuxArJeWM7RBLQZ4OiGYGMObWhwEsgN1ELIgA",
 "checked": "2026-11-23"
 },
+"com.letseat.app": {
+"u": "ipocpojLrtqOx50stwdhXDA3WOXUfjfNDGq4XEn1ase8GJfL0cGkxNdBqNOKPgkb1rv1rYqu17cZ_pSPXP58GA",
+"checked": "2026-11-23"
+},
 "com.letzride": {
 "u": "sf9DZBSAruGtl4ez0HE98ooNmPUj84wXVpMGILxlIvas1FWrrDzB7GC9hBreqXNzs23De8ffwVOuMBJA4pc0",
+"checked": "2026-11-23"
+},
+"com.lgt.tmoney": {
+"u": "03crg_r9VVWRzmwe3JrE2yT34m4etli3fEiI2cfD0YCX0iwOCtiXomdR17_SAU-KvZStk05GQjVPuQoireIgbQ",
 "checked": "2026-11-23"
 },
 "com.limebike": {
@@ -2302,6 +3022,14 @@
 "u": "A1Hfuk7HYj3xRiGgBV1Xh1gBf9HDofM8l9GVeezuqCcDMN6T33qdtV2SlGr1olZMVju5cotAlndk-hWVEp9_QUg",
 "checked": "2026-11-23"
 },
+"com.livrado.mali": {
+"u": "FX6kRJaJA0P2ul7aEVRm6Q6RKl9jQXj09n6mzrm6r8aD9oiMapLatSFiChU9dDq77afuqsucTLxCJP2tjn6p6g",
+"checked": "2026-11-23"
+},
+"com.lmkt.zupeshawar": {
+"u": "Y9CymFUvEipzlAg0onsTE-b2rrL810oPYN4tAyLP0CglseonX8RSd-gL8_3ZX7Ie97BS0dWiQdUWjvrZEsW-KQ",
+"checked": "2026-11-23"
+},
 "com.lnta.unforgettableliberia": {
 "u": "IX8o6kteB6MFW_IvZ5_i8o-rr_T_win2Rkwx8T_fK7qWja3dWW1kvQpBjdYeuuknP_lExTdYkIViHDqLXXYcqtQ",
 "checked": "2026-11-23"
@@ -2312,6 +3040,14 @@
 },
 "com.localiza.mobile": {
 "u": "lmqw6rrfEpHdx7jBia2gVPYvWOr9uHKzS0HxlYdjaIbrdwK9_kEhZPqVtl0tDfUolY_vuJS3uMZvQz_3M-y8JA",
+"checked": "2026-11-23"
+},
+"com.loco.bike": {
+"u": "6slTLEXAfy32eNcwZrh4zg_qKk1GkjJiet7Se2lIXOjD9B0WJlPqnHNuNnapXJ4264oZtifjEpXJiZDtfKxNZA",
+"checked": "2026-11-23"
+},
+"com.loungeup.mtpa": {
+"u": "E0GBGbcxmRagzqZDKwKqPcY0LTbCu92t9lE0ozamPjtB73VOb7ppuInW6D1alybkDnA1VC95dY-Y_Nye66hr",
 "checked": "2026-11-23"
 },
 "com.lt_72.pagd": {
@@ -2332,6 +3068,10 @@
 },
 "com.lyft.android.guadalajaraapp": {
 "u": "vC97EiYFykdOSqADHxCAKnekfGjXwNPBA2XtImciWetoylrkQUoEFt6KSukk8FJT2_X5yZkL6GSmFOnEj78qbw",
+"checked": "2026-11-23"
+},
+"com.lyft.android.londonapp": {
+"u": "CHqQHXxmXxg9dquK1seMrpy3-Slin2N557yWILyj_kq2OQvmKlqEmvnrcji4iSPuWPs2oIgv5aedip44mAqoK_I",
 "checked": "2026-11-23"
 },
 "com.lyft.android.mexicocityapp": {
@@ -2358,6 +3098,10 @@
 "u": "NAcgJgnG3zQ8Z5p9xGYY3xGdsQP4P9_8X-roT6UEC22xWzNkC1BzpgJtpISk98GAb3BGpBJyBNJK3zU7iyuoOAs",
 "checked": "2026-11-23"
 },
+"com.macaupass.rechargeEasy": {
+"u": "_s5W3XTGX_cR6osmb6z72upWVCq3wMnM4zla7_XTVYtVRlE8J8VGmg18yuLexRglwJVMtI69ryX4ko5QDw3ysA",
+"checked": "2026-11-23"
+},
 "com.macropaks.bookme": {
 "u": "9B-muciMGGQ1XbLqe_0l2bGtslT1npvFaqMj-2Xb00FlFByEEMENvIEI6hni8EDUdinsNPxCroLIKIi9NUIKFA",
 "checked": "2026-11-23"
@@ -2370,8 +3114,16 @@
 "u": "cYNtJcOpEf_NvG91_D2gpr2qiLUxHf7W71tJt8hliAraPch_GSzEkIlzxqWFQQ8HImrr-aUVmoAjcXd33MtnuLc",
 "checked": "2026-11-23"
 },
+"com.maldonado.InfoPlayasMaldonado": {
+"u": "enlKLGMSVGMHErO-NaT8YLpA_ZVBLSMah8mjGO0WtalJK_bm4_98yiOC9hD3Y1vfHROizvIabTjNkRZ2ACW3",
+"checked": "2026-11-23"
+},
 "com.mandao.delivery": {
 "u": "duwI-zF4YUL5DxW7Fpyo7Ku70Kddaj5RzP7zdNQNTfZennWaPWl1sYJnLM8S1YZ0TgZMOS7Xw5iIYFULTGrAj2c",
+"checked": "2026-11-23"
+},
+"com.manjalabs.rapidondemand": {
+"u": "OJIyknjf9HtroJOxmy5KOzXphx9uS7L2Mg97ooQuEbl2C6jlKqkQfJt1OM90dGcASfVoebHSrVaiNya7bZNBHA",
 "checked": "2026-11-23"
 },
 "com.mapswithme.maps.pro": {
@@ -2390,6 +3142,18 @@
 "u": "seY7yv8R1gColT5n7ubiU_67v4eU9mWqnYy1H61J-V7B732AR-0N48OveZ53mIwAkallqFeAavsqYqIXHAQt",
 "checked": "2026-11-23"
 },
+"com.martitech.marti": {
+"u": "Gm38SoNyG11Rc9TYa_tTvG5RxP2xmJlm0Z-h__DXW5Vxac4eMweRuyPj3ucwnPbbQzUzhM0Nmi7rAa49ocjx",
+"checked": "2026-11-23"
+},
+"com.matungos.stm.mvd": {
+"u": "nMyZEBneAFyErUP8p_LGdeqypPqG4FjLiSlDVeXyOLSlbacMr_IGwLQD96_A6lC2Hb_pr-KV-h8tvmzrMvFz2w",
+"checked": "2026-11-23"
+},
+"com.mawaqif.qatar.app.mawaqif_qatar_app": {
+"u": "uiA8qQAhODUAXpArDtAAFXBPwgTvg3ED2wfDt2R9IAWaF1_IxjXoT_LfMISxj1cEecCrXknOlv2yJnPkdXH7",
+"checked": "2026-11-23"
+},
 "com.mawqif": {
 "u": "L7gZMnm338IGKoT2UQt2vo2C64L4euPYLrZqgvncxvFCE_zkGveQj1u3E6rdCd_y3WM67WrOYFflbOFR6Er2",
 "checked": "2026-11-23"
@@ -2400,6 +3164,10 @@
 },
 "com.mbta.mobileapp": {
 "u": "NvXZCJcu0e87b5gsQUnkszRiJ-Ib-K12A0R-CNZklXq6EDTDxZIeuoypulh6fzRx1RoPqMJa-2b93OicZS1oj_8",
+"checked": "2026-11-23"
+},
+"com.mcbmu.juice": {
+"u": "YuGBMJddpOE-auq4PcdTodNLOofxI3l88qlaOwIsZKHj6n-_ul5pQKorEqc3wo2sD2AmkwAvnNNpO7Fi80Ldmw",
 "checked": "2026-11-23"
 },
 "com.mcdo.mcdonalds": {
@@ -2436,6 +3204,10 @@
 },
 "com.meemcolart.shuafa.passenger": {
 "u": "j7uhTGvILbyP4wuWyUQJmADhJkjYOb_cKlbsyzecbbo_kukRbOGAirzrh4xj_IEHnk4nCDUFmH47MKPEq6jz",
+"checked": "2026-11-23"
+},
+"com.mef.gdde.cam.park": {
+"u": "V_sVwtZF1ZDd7sG4GSlmHAbYYDrqL5W1Ru3GFrvxhLr9BcIQyTHyvGeYKWkaTn_2_pF81Z7frsWsbyBl332M6w",
 "checked": "2026-11-23"
 },
 "com.megasis.android": {
@@ -2482,6 +3254,14 @@
 "u": "PtWdE9YJZOz7LZaFwJgDRNky-EjQiSkVBTfwOHF2jTWjlbV79WuiZwi52TYz6NEJ5TM8r2FTAspjveZfyrDwHg",
 "checked": "2026-11-23"
 },
+"com.mgurush.customer": {
+"u": "2pOjiiWlsH51m76pEFloXJZb8FmieXPUYVkLksbFFZyIfYNc1JES0U8RoMjCYApP9HPq6HL3g-d4fNGq_ffm",
+"checked": "2026-11-23"
+},
+"com.micropole.android.tcl_mobile": {
+"u": "fz2kX1WviZOnLFMaFXdQkF66IqLr5nKw78vDc-ESX5P-fohMs1RwINm5MRlgQhFxTrHyLkEPA-EsI1PitBvOIMk",
+"checked": "2026-11-23"
+},
 "com.minfy.tsavaari": {
 "u": "9grbG_vrl1HkCSTHvot6fH_CBHBF7mCTiucCmIKQxPXyfFvnFrdopZnuUpPwF2oyYk6VsLTExqlQ4CSVAXIMVQ",
 "checked": "2026-11-23"
@@ -2518,6 +3298,10 @@
 "u": "Cgw4jc0aQT4eaF9hxCtTjQgxlxwrS8QRk25jmEEGUj9TGAblYUlP8yWjzx_PqpEuMRJrsQDjd9DcORmGLZ4Q",
 "checked": "2026-11-23"
 },
+"com.mlstudio.pickup": {
+"u": "ELpG2h6WT6fotUyV8xqgbx5rVRxSDnjkI89dKXSMlsCK45D4hu781n9OF6Cq2J3yxEMBZjArVnD-d5vzy9RZmcE",
+"checked": "2026-11-23"
+},
 "com.mlubv.uber.az": {
 "u": "owQQQ90cXp7tbCtorTeP6NiOt2Pz35FDFgp70WQ6_v8WCOowVMePcc-uBUDO-x8zD2qc5j-4YxqJJKJElRlJ2II",
 "checked": "2026-11-23"
@@ -2538,6 +3322,10 @@
 "u": "R2JeGJZ_djgu626rkxFGwXEgQk1oQzX0d40yLzIQUbAuuXmPCqKGylZYy--vGlS7WCw6GP3LljGUWlCwQH6x",
 "checked": "2026-11-23"
 },
+"com.mobicon.mbank2.belarusbank": {
+"u": "iIXePSvmaDTqFwWdbyNdQpTpsZ6eYSS81aVdvCRd5Vhf1s1A5KXVYPXXFOnGt0AJTt4fYjbsDonfMhLu49W2I68",
+"checked": "2026-11-23"
+},
 "com.mobile.oway.myapplication": {
 "u": "FZE01Rl0NfDRYSazNcQfj-Y3K_LKh_KuMlA7XLM5oHHuzkhFfU_SOkOt-3yQrrr31JV4S4Y9V2CgfWybskJbMA",
 "checked": "2026-11-23"
@@ -2548,6 +3336,10 @@
 },
 "com.mobileferryhopperapp": {
 "u": "TjzaYfKn8176qMRiijPbrgmmdGymsEPts7z1lxvLdNKcK6-DP3VLlfKzh-OOijTOmi-YJFoMCHK1N8avzAgj",
+"checked": "2026-11-23"
+},
+"com.mobilesuica.msb.android": {
+"u": "XWuB3KQHW8BqGA4lAo60n8A0Syz2LQXEgXPQuvEps_R_47jnnVauzhoHLvRP7CT0w-Ai-Ug7IHhVd_yUiVYu",
 "checked": "2026-11-23"
 },
 "com.mobilityado.ado": {
@@ -2574,6 +3366,10 @@
 "u": "Mf7EtInCk8siRRlkB3S70LdHX4ZDL2sAiUKPnCYRqttnMma9qy3A_NciPESHo9yOlToKzhvZ2yQ-_ov9UivQm34",
 "checked": "2026-11-23"
 },
+"com.mode.chharo": {
+"u": "X4YtNqng4djX0j4YoQeurEHEYayINh2q1wZ7HHX0Z3-UvnXB6umLqpSLsmyiLHrPhsqZBMEqyLBekqeYTzP5HQ",
+"checked": "2026-11-23"
+},
 "com.modeshift.burgas": {
 "u": "eIpIO0-eoDvf3Z4AnmFevovEkMr_v8ivR-v4v1HyO5Fxs7Z2OKdMZ6VGMDr3-mDmjWCTYi_bnUKmsO4ag18EwoY",
 "checked": "2026-11-23"
@@ -2598,6 +3394,10 @@
 "u": "f1yeJEqr2fawKCzjQoZDxyD1bBGK2P8JcioDeFF1YgIfQa0OdFHN6mrHYJ7CDNBShTj1Hb29Y75EKS-y2PiMBQ",
 "checked": "2026-11-23"
 },
+"com.moovrph.android": {
+"u": "FTQg7iWcUVeq13kwLyzFLiLwaSCAFdQMEl5DN5P9hhO-dijA9X_GWYA-07sS4u4J7Untn-vKgD8VyXb-iguN",
+"checked": "2026-11-23"
+},
 "com.morabexcaboverde": {
 "u": "Sb3A-PreepseWve_KFsZdwJdN7WrOBJBPjoFSaSkV5mXUnKDkkaiqtyRLBhtL62kD3PJ6KMl9Zr7x1Flb2JgtA",
 "checked": "2026-11-23"
@@ -2606,12 +3406,28 @@
 "u": "OH6m1kCTy6YuwfjQqga-dzSMA-hR4aFQHoNTLBl189mlgmhyF2QpnpCn_i3Q5VGuJSvVPFKD4ve83R_RmaDB",
 "checked": "2026-11-23"
 },
+"com.mosan.eu": {
+"u": "MwsMebImNeoTdPt3SdfrtwQZ7AspV1Dz6m5Xt6hMQa6nTCE0kpeQs4kOgtay5hYcd09YQUMD6Agexkax-PrudQ",
+"checked": "2026-11-23"
+},
+"com.mossosouk.shopping": {
+"u": "8_giSIsUOKgQCvr3csYaqbIO6rm-Wd81MnkKSTBl7UwnVFASpOoJnLp93VElpx5piUSeI2jgLDD55nj2VON0kvg",
+"checked": "2026-11-23"
+},
 "com.mountains": {
 "u": "oVFQWbgW7XfodBE2qdJs5kIM9sTzXA32cPU5Egemko5ygBYFaQkhnGgS8rS_X2DPzyJ_RkP7Zn47gshc4BEn-w",
 "checked": "2026-11-23"
 },
+"com.movatic.userapp": {
+"u": "3VYR3XnysRLeJwCwQqHdpVqxqPvG0OMKYeYvt7hNhnn-3uURxGL3t0jg1U11MRt-ybRhjDPL8xfoe_C3MV_n8A",
+"checked": "2026-11-23"
+},
 "com.moveit.app.customer": {
 "u": "H6gXMXQRAiaDYsPllt5DJ1kLaO6rmXybD8kzZQ-JwC0J9voUrREaf4WUBZxARPLpoHRXz6j0gTzQ0wT5bt6ZRA",
+"checked": "2026-11-23"
+},
+"com.movitel.mz.emola": {
+"u": "Zs-xwLqYde2cHA17w_MdRurMHoGu4gWv3jBlJCLBMm9EhnwXdw4GZrzjo-aNbLtVceVDKLzNq4pHS3v3EGWLtbg",
 "checked": "2026-11-23"
 },
 "com.movo.movouser": {
@@ -2638,8 +3454,20 @@
 "u": "2Xzw9b9jLnRMbcbUFOJ1ASnTryuFbu2UTCCm_uw2xKonLwQVBHmrVIOMGJHljvIuh0kK8BGceNDqjqBX6wyoIw",
 "checked": "2026-11-23"
 },
+"com.mservice.momotransfer": {
+"u": "cQzoiahn_EveryMo_uF6tm3AEV7HzNPesJEOegmpflSeorbI4LfKOq5fK1sX3cnpwH98cjxK5C1PAQMB7UzsAg",
+"checked": "2026-11-23"
+},
 "com.mta.mobileapp": {
 "u": "nSdyGmq7s73HfeVaJ4tePcSQnIx3L-MrH3lcRQntUzC_kkWmtF2UXSFtwBA7Bs9zx5KYwmYSqNHhtwVnYjd1JA",
+"checked": "2026-11-23"
+},
+"com.mtcmobile.snappyshopper": {
+"u": "f1NvWCNDkI-FYPSMaqkJNmMRPubhzvhp2FDNmUI2bHdsr9F_b4VHfC64b0TCmVniNHpLCPq6tFGwL20h51MfOw",
+"checked": "2026-11-23"
+},
+"com.mtn.mtnbjnextgen": {
+"u": "-o9KD6r5adeDLLm8aBALS4wfRe3U6hjtjsmTO_ik911CXUw9rybp1lAkwJaxCXrwjxLjtoSchLXEhgWw6GXC6A",
 "checked": "2026-11-23"
 },
 "com.mtn.mtnlir3": {
@@ -2661,12 +3489,20 @@
 "com.multibrains.taxi.passenger.kayantaxi": {
 "checked": "2026-11-23"
 },
+"com.multibrains.taxi.passenger.nicarayninew": {
+"u": "mPjtgH9DMnR3V53Gt2GXL3JndB0mAckxnJzHKQDQthhmT6YZ2l_k-G7RMdxc9W8LURJ-mMRI_ZdMGPA0jfMMnaw",
+"checked": "2026-11-23"
+},
 "com.multibrains.taxi.passenger.ridepassengeret": {
 "u": "_FTI-nHFbj-Q0xhM-liJw0tM_ufVRki69HHEaV-RXqJjkxXQyAtUEhqumhDArVxjK8gXb7y2ftV7W2C1Zw",
 "checked": "2026-11-23"
 },
 "com.multibrains.taxi.passenger.tirhal": {
 "u": "BGsMjUkxXhxR459M0-zZ1vyBOTk-Lj3oBu6vM7dQXJEq8Lx-muIv46hdDo1zzKSg6bD77mvHYRx091jtegE9",
+"checked": "2026-11-23"
+},
+"com.multibrains.taxi.passenger.ulendotaxizambia": {
+"u": "b_dWrnm9n7cz1wzdX2YdXoMjprm_oSxbN13T3c7_imVLvyzh8lmEl3PfXHd9D7po110JcK9GEEa25YQDJ2RkFQ",
 "checked": "2026-11-23"
 },
 "com.mur.mo_move_flutter": {
@@ -2677,8 +3513,20 @@
 "u": "recwN0PGRLYgqmlw3BBwPuT9vuBnltSqRQ3LS9J0Hr0VeyXJyFVCfFfmDywcAjwXOZIT-O7lowhsi2o1roJAIQ",
 "checked": "2026-11-23"
 },
+"com.muv.customer": {
+"u": "ACuZsf6ly3nbLTH1BEXZI6StkWLnSq-S98wzIGDHVyNRuuCjre3fuvxP3go8jz1-kAR0Yxh7RpEsPhlsacFpPw",
+"checked": "2026-11-23"
+},
 "com.muzekart.app": {
 "u": "RF0sk-q8_LPfBGKm5uAlbeg0PTWABiTIeMMtD1-3hAgpVTpUr0sGocRihSvbkIyG9bwDIjAPt-nf_e-OAlHFkA",
+"checked": "2026-11-23"
+},
+"com.mxt.dazzler": {
+"u": "i7Qx-nhdsLQlkdiR0s_0curtinrZ7gjCj8sd7UALzbnCfhjON9IfsDS_VYX7rRaz_8jdCLTcaKNNDTFAicTO6w",
+"checked": "2026-11-23"
+},
+"com.mychharo.customer": {
+"u": "EtwTXMMWpWv4LF7g5L_rulpib1e8Ef0NsXTYk8bQGta1YI6LL2CRZN6-erk_EJG-nfCfD6NtYOFPqJ12iVy3",
 "checked": "2026-11-23"
 },
 "com.myciti.app.myciti": {
@@ -2687,6 +3535,10 @@
 },
 "com.mycompany.curaapp": {
 "u": "GRDvigvXIEMHHg7jqweXdOGdI_6d9lp9pehlmwiOn_VrXiEpz7d3GNHgY89viLM4L0maIPpa_q9tjt46SUJ3ZPw",
+"checked": "2026-11-23"
+},
+"com.mymtnnextgen": {
+"u": "4U6QN2vvrsRjupLkAehIRY-DFORFYfIUIkwsxmYo4qPnVRRSLbjZpb4LdE5eBlhlYGG6YCBc6WC54z-If2m0w-E",
 "checked": "2026-11-23"
 },
 "com.myquickplate.app": {
@@ -2712,12 +3564,20 @@
 "u": "IDTBbIjGc3F4TxNhwUd-XR2N5LwfbVrDr86EegcBeibDXFsEygltrlyy2yU2kAWnuPTs3xV_JJ_I8q_lUOTTiLw",
 "checked": "2026-11-23"
 },
+"com.navco": {
+"u": "7-nDnzgeluP2w6TQk9TkAoct7trv4FpN_7mQXPnMEz8biBijOqCoWHpqwMkze4bMZh6Eb9WwKQ1vsCT1WGsTAg",
+"checked": "2026-11-23"
+},
 "com.naveo.moe": {
 "u": "Yb8C72yDmts5hrgnuVsCamXW0JDgDogCysvh2uCv5O2J2llC7Dqx47bX17Qp6W7IfwnUNqnV6j0AvRZzeQylbKU",
 "checked": "2026-11-23"
 },
 "com.naver.labs.translator": {
 "u": "gg_0o8hHdN0cWeAfC9JD4mQzcPNtfv0W8to5XMfC2xMeqAtvZ1mFfCF8F7aZb0rVx-cs3kuhAZaX6OQ2WJ1tYw",
+"checked": "2026-11-23"
+},
+"com.naverfin.payapp": {
+"u": "U4lNxoXf3aRdxvLk72gNiLgs0K1Sqq9U3S6FRfCOSQEw095iVB5SZalqtKIhyMoMRVygP4YmkQNUAw3Zc1HPvt0",
 "checked": "2026-11-23"
 },
 "com.navitime.inbound.walk": {
@@ -2748,8 +3608,16 @@
 "u": "tB3yc5DIQoAZwP7ByCB3piO1JsIpXl-fWgky190OSXxiLAUANNbB6YNFi2e8sjA1vc0bO6KclDcvp0bNOQj1",
 "checked": "2026-11-23"
 },
+"com.netinformatika.naxis": {
+"u": "EPbsZyaHYeIiapZhXfQD2RShj1nn7AuIFvjsms-o3lA-rfCAOacFSAv-VBPOK6IS1GBxwFvBHJU1RDaaN7sD",
+"checked": "2026-11-23"
+},
 "com.nextbike.veturilo": {
 "u": "-COaoa3UXr0EsZaf2C-PEHb0EdPJmbacmTbsHNzQUc2cO4ndGKlPMdcxTZyLSTeRsu6rN4vN9Lt_bQIce--W-7k",
+"checked": "2026-11-23"
+},
+"com.nextgenls.localbites_user": {
+"u": "UCIPVt5yqddFBx6gOdOBt_FvTEYqj-ZgkphIB5C1bYvhFOv4cFuljvV6XxyYAtZrVz4mMEwnPeq38WDwjyrO",
 "checked": "2026-11-23"
 },
 "com.nexura.transmilenio": {
@@ -2762,6 +3630,10 @@
 },
 "com.nfa.report": {
 "u": "iXc8tkReVNdjl6t-lcrpflQ-1zPK6VeC25Y_rmi5hMAPAR7kaRoLT6QGVy7vltSQiwbg5gsfIIL-gRqkcFGU5hw",
+"checked": "2026-11-23"
+},
+"com.nginovasi.gobis": {
+"u": "bXuAQ_Aud6giHgvtnt_SDCJ8TGsFfOWDsEfT83_e6pZFfPj-sa-XH1rimIP0RCv-e4RHYXXm1Pio-jHioEXnnw",
 "checked": "2026-11-23"
 },
 "com.nhn.android.nmap": {
@@ -2782,6 +3654,10 @@
 },
 "com.norta.lepass": {
 "u": "7HFsKvB91_R42g7eT0waF3I-8BBvoi3zkEMtzi3o3GldSEIxVD25g5Gq7INLrJptMsWYXgk98WhHhFnaj21N",
+"checked": "2026-11-23"
+},
+"com.nrc.gsds": {
+"u": "aO299lnGQ_I0XohH9z3Qcasz9-yH4GleusZEl4yoMlGxB_a0xjtaAiondm9mV_E0A5CxZHFaFdHdNTMaeVh6_g",
 "checked": "2026-11-23"
 },
 "com.nutech_integrasi.asdpmobile": {
@@ -2812,12 +3688,24 @@
 "u": "tngV9GwXabgw7udz7uzpFAwK1KS9u21ONSbxrvxhdJs1Nu5ruefgFQwVfXWefeca_eFZy_yqlAn1yacu9xgF",
 "checked": "2026-11-23"
 },
+"com.oifcoman": {
+"u": "qL9EFUFR2pwoVzqc1nuk7FaILKvlmMp7C_cMH_5P2r7THfN_zPxYowDOfNnlh2JP0kDgUyjWT3CM_NA1tPlD",
+"checked": "2026-11-23"
+},
 "com.olacabs.customer": {
 "u": "X2EES6J1Q6cf18gTsBX-yWvsLrDm31TjwjwbSGE8t8w-v1uEIpHDNExfTF3tw_bbOqeRuYZhPg5mOu-kLWKhJ64",
 "checked": "2026-11-23"
 },
+"com.olasanda.autotaxi": {
+"u": "HJDoYBa88u8VK3biYNtshM910CPd-Q8Dn30MNWfYTIOtFJ6V-HxkBlz5IxDxKG3IDlUcRLBdv54lbdbgK5p5Xec",
+"checked": "2026-11-23"
+},
 "com.omchiii.arrivo": {
 "u": "rkqTq51usXZge9nLTugYf9pwCrWgYFTStuZSiXrTXezwZyNakQW02ucmsYX8BvccdFQaJUFG-Z7687ifmPwZ",
+"checked": "2026-11-23"
+},
+"com.oml.dsi.orangemobile": {
+"u": "rNDLfER-0RRrhg4yN4iE1PrI8-etsMRscWrzDlxKHRrxGFQendFf793Tfr1QhVjF1t9Kg_g3wMOdfXMWYS3g3Wk",
 "checked": "2026-11-23"
 },
 "com.openrice.android": {
@@ -2836,8 +3724,36 @@
 "u": "K88vhOQQtt98hmtrjS0lDCXCCquefuB_dJUgU-vkypt2mF-gCd9YjiHW1MadnlNMJalxfjMicizl4z7Jwn7mxA",
 "checked": "2026-11-23"
 },
+"com.orange.myorange.obw": {
+"u": "l30YU1BjVIfH6bokBrFht3rI8ThUgmiR7XawE5gyelag62Kb7-XDRl-1DZeFGUBQRX3aVuEIcIZ1e5QxXmnD5Q",
+"checked": "2026-11-23"
+},
+"com.orange.myorange.ocf": {
+"u": "HWMehMrGIBttbkl2r3Gdl3YoIXCKzATyQ52eujAtP7JHe50LpDtZ5PJGZf4ze9Rj684XP7giiaMvwYUbBIaxc8c",
+"checked": "2026-11-23"
+},
+"com.orange.myorange.oci": {
+"u": "4pmF1T3SQ8equfQJPwA6PDfVWOpdR6jIDVYYiYrjwQ7eaIU00N_kiLTG-yw87q8biIauf3nvFsIsoroIPatiOg",
+"checked": "2026-11-23"
+},
 "com.orange.myorange.ogn": {
 "u": "51BBMmi0IKoOuzkg2z6UiGD-uN1tdW_b50OWJnYwB8VaPdlQBUdLILIsag7BrBhXkQ0Rtx6CILn8Yw_SoTHuVw",
+"checked": "2026-11-23"
+},
+"com.orange.myorange.ogw": {
+"u": "OT_sX9bIsVTSnOy3Uu6troqh8SgEKGJdLvt5Q0jgIFEcrj0gMXz8pJ_IrOEBdUauOwaICoo6930xT9Slsurh",
+"checked": "2026-11-23"
+},
+"com.orange.myorange.olr": {
+"u": "hFptyxV_jw6bMSg4__kMAL9dOelb3oqaGzlizwrQVvMcZ2kFjRAKf4VVSVmR3kV4GvkxjHcKO52MPkn01R2zN8E",
+"checked": "2026-11-23"
+},
+"com.orange.myorange.osl": {
+"u": "UAHW8mIG45769DmYJm0qcHzZxMN6J8WJYp2fxbbpsRU9qBpoqJ5R8rjC14ZBqrViWgD-D4hY8nF_IdXIFUGgoA",
+"checked": "2026-11-23"
+},
+"com.orange.myorange.osn": {
+"u": "MXctfIs4JTG8rSwk1eUNCXlAxId6E9NCZDwywO9HGmvcJgnAiIEcQ3sqKqIWSIOHpdG2-TXTh8JVWyaPVJ1mDuw",
 "checked": "2026-11-23"
 },
 "com.orange.sugu.ocd": {
@@ -2850,6 +3766,14 @@
 },
 "com.org.cor.myles": {
 "u": "E6IH5YNuJSHrFOIPvOZs7bh6_u7AOkhfOHEIjtIvQUXOGRhNN7gjG9GoiL1KxlbzzGeTV9u_dkks24eslULb",
+"checked": "2026-11-23"
+},
+"com.orgp.spbpodorozhnik": {
+"u": "uRDCmr0JD2B7LTeuFs72Tl7fVFXYq2NdtLU4L4B2QhHQCYVamQld9jwHNy7i4uW6xoSx1GaCdDgLDCkpAb7vkA",
+"checked": "2026-11-23"
+},
+"com.ormuta.rider": {
+"u": "ItX8Jm6QlxBqteI1s2XmbFMN4P_gvL9Th_64UGbb2M7n0ubp9aspEYFx-B-BNB2A0HDPrxEmpoxIlTQu78llzQ",
 "checked": "2026-11-23"
 },
 "com.orson.dsu": {
@@ -2872,6 +3796,10 @@
 "u": "g05jSG0BD5TJQ55tcaIgHxlgEq2osTjTlQXsJmyYwHpFQH8Z-jJ5yGkLrJTho7zM78-qz5hBKBWJa9nCfI8rgpo",
 "checked": "2026-11-23"
 },
+"com.outdooractive.Outdooractive": {
+"u": "dDv0dOUwvl8aWd7BzTq1PxG2QOBmshEi37HHvUneuVelfLL_8yXUa9qfDG2exhovHsqmU0Sy_IjFfifMz4_kCw",
+"checked": "2026-11-23"
+},
 "com.outdooractive.alpenverein": {
 "u": "g_Wg6Zjv_PLSQ00m6ernbryaam5ZYd38bjLkN65FGddWdipM2gasMA8PpICm1Lm5Nl0szJmPvfhOqbQ1dA_xow",
 "checked": "2026-11-23"
@@ -2884,6 +3812,10 @@
 "u": "wwo3y7uUmJ8Dn4QCCdagvqLU4av_JPIWrBDZFvAfcTMBOQlN65_FPtEkKAuYod8_fjrZA9mdozipqxcJe7bOFw",
 "checked": "2026-11-23"
 },
+"com.pagopopmobile": {
+"u": "gWyrAMSgKCToSPLA1nUzHezNx6DOWeeHZsrZ3fyKdVxbZWvKfT0CuP8AnPcP7DIMhzbig3XUOK1jkg8CeVu2gg",
+"checked": "2026-11-23"
+},
 "com.paj": {
 "u": "d2f7Zo_1UFtbXLlO-L-ddI2oQQ2KyqglAjrxYu60o5IXRdGy2FUb4VZcnqKQk8kOSuJ5pWWYnX0xA15AQaIhbA",
 "checked": "2026-11-23"
@@ -2892,12 +3824,32 @@
 "u": "iJdLAGmtrL5T_ceZJh4RAl-szfi7JDEHD6w0fEQ-PwPDRPhLuwWV1KLOqqbEqFQynGkyYTlWZ_tj5K9oZtE3K6M",
 "checked": "2026-11-23"
 },
+"com.palau.aliiride": {
+"u": "Gl4dH93kRIbhW5j8oJEEGE-0xOAqBVxXsylMrQTUKgXXbQSzoFgux1t17onq5ffSFxjdOuO_I6GOSS1vK3Sg9WE",
+"checked": "2026-11-23"
+},
 "com.paris.velib": {
 "u": "goNR326HOboxgXWtUBhsJ5Lsb7QqYvhc0g5W4X_Iux3BH3CO3Qdq9iEQJbcPHz6Ir57KW6rYZL74JmxcUhGsEY4",
 "checked": "2026-11-23"
 },
+"com.parking.applicaton": {
+"u": "7GIp4Hs-v6v2smFIfCb4O7HHc0OkBpcvkXK23zrklEh_MX2oIquabzvB_k1LdXAM_9xsjbm912nzgtV8UqHv",
+"checked": "2026-11-23"
+},
 "com.parkingservis.psp": {
 "u": "7S8vfATGM4ie2QZOM3BncO53Y0YQmEB4a6Mpuc2EaSVwBP0_fmmthjQXg1_UpTMWayzjdziLm36Fn-qyxl0Oyg",
+"checked": "2026-11-23"
+},
+"com.parkmagic.corkpark": {
+"u": "A75t8hslzsInRlMiL2p4d8wr6THBy9qRtOo9RuLushYncf97-o1jgcJcF3-T1LIZSnY3uk22QNsUZdO7WLiF",
+"checked": "2026-11-23"
+},
+"com.parkmagic.galway": {
+"u": "UEeURpWRNhTZsMOlGhmLSPKaAD1c9pbtCyj4I2PLU2vBYGyoH-hVdf8G-7Kp8XmpQNGN7MnVKAg906fwfSB9wQ",
+"checked": "2026-11-23"
+},
+"com.parkmagic.mobile.limerick": {
+"u": "fp8CT7_z0lFH_ruwdUcszQr3CaCe23mKJVbc30iIw_wwf0c21yGMgfPNoq2PXeyoMLWc2RdHADu8TxfYyk4nIA",
 "checked": "2026-11-23"
 },
 "com.parksaustralia.cinp": {
@@ -2928,6 +3880,10 @@
 "u": "uz84mhlik5h2W_OVruN6daZxsTiNYU6MR3YPu9OA2FEOdbLajtqwTy23D-nJTeqxZpG6FSG137m1IjARMa5iN40",
 "checked": "2026-11-23"
 },
+"com.payboxapp": {
+"u": "6XVOiwqZT3MY0SfcOF9-pF4pJwe-xO6GxxvkbaatFiOqWbo4Q3xWv3faWW-YEOD8a9TZ8CmovrI9hHV3PvB59A",
+"checked": "2026-11-23"
+},
 "com.paybyphone": {
 "u": "3oCKnsiljMhX4KO-ZDxqCZOB9oLD_iqj7sTNlkzQXdDA5B2dU-mJjHUriudHax_WrlPXrKBe0rVQdm4NbHwj6w",
 "checked": "2026-11-23"
@@ -2936,8 +3892,20 @@
 "u": "O7xMXY5ehCEVwpR0MlKYQOK5QJ1oFIw4EoXQqyt_vgDKT3Uvn1g8FIz_fNDDhWH4Zbdclp54WhRMnI8vzyE9OeU",
 "checked": "2026-11-23"
 },
+"com.paymaya": {
+"u": "3mdCz6nV-lcuaaU4HQabMdm8gX3lhLSiAnhgXCx3OoUH49YxHC_JKfiwkJnz8jDdNwrFXkr5m9LiQ2WedRGlpA",
+"checked": "2026-11-23"
+},
 "com.paypulse.mobipay": {
 "u": "GTb8SYDJoJUbUFekuTFyGCE_1k90zR2XHyva-wfC261KmFGV40pHumBBoSgA3ov8Pd85lVTsOkPfZlufezfVwKs",
+"checked": "2026-11-23"
+},
+"com.payzone.parkingtag": {
+"u": "h5yGMdQvmSZkbrG2pAKppQrhF0hkfh_YTEF_FoFfuBB-iQ3zIyy9D0Xx5wmdBV6QwKzmnqeHtjMJ5giGz0ZF",
+"checked": "2026-11-23"
+},
+"com.pcentra.ravkavonlinemobile": {
+"u": "2Jfm-Fz6rMarACApoureWom_nTumLrQYH81raXtEZ4v2i3xNZDhX8cSnp3xAlbaNHO2HJQmFO6KikOBNmtQZ",
 "checked": "2026-11-23"
 },
 "com.pedidosya": {
@@ -2988,12 +3956,24 @@
 "u": "0trw9C5Qt4fK1Cn_jz7mNYDT_cNPpcmUMad_ND8UOGD9qREQ4zg0Wg-vUrb9rIXXhOwpw6IQ27UmJm2gxoyl",
 "checked": "2026-11-23"
 },
+"com.police.hellotourist": {
+"u": "AyslNkldu9-65VLDtq5pMnull2j63cndRimU7euG8WYNPFVph73mLUzRNV-0eFXkL7ZP3LWl-WsPw7pVFdDRAg",
+"checked": "2026-11-23"
+},
 "com.poligram.mmobilnost": {
 "u": "mdvFC6iqKhWYGmnpfLze4_l7SPIoxEnub7hxK7700hH_JENdKza1qXMQTgOFOG0Ss8kOYJvF-DeZ1Jz7UOIK",
 "checked": "2026-11-23"
 },
+"com.positive_apps.buzz_car.prod": {
+"u": "vNZmrlcazL--YfP2Z8IJfeszPv_YyEBjXYxlXWjyOnQ-uf0Ugful8UKaD_LVgnOBqsLhqwikZDgs-TmI6LpcroM",
+"checked": "2026-11-23"
+},
 "com.prasarana.pulse.v4": {
 "u": "UQqmXWYpnofTQygB4_rHDlf7Nh1kMNg1NVZe3nsvYeea3hUhaR6QBS9bE2ZFMqQVHCXGfHGw-zkQms6f4-ufGw",
+"checked": "2026-11-23"
+},
+"com.preoday.mobile.hungrymonkey": {
+"u": "jJWq1IMluNGH0NPMh7Hbu7jVwYfoLxsz5tm_aHkyxm3rygMvwtOLqMta6g22pIqTwmC4Yq_PJxeHTJLA3CgOWw",
 "checked": "2026-11-23"
 },
 "com.primeleasing.citybee": {
@@ -3012,12 +3992,28 @@
 "u": "YD_NT941Gy8AyWn95mu8_p9nQBXCUuT9mOG0WFvGn8U_itIxLvBCJEfd9GsghZ3E5BZwdlREWIrzfRAx7TmN",
 "checked": "2026-11-23"
 },
+"com.psp.psppark": {
+"u": "KU6AxruLOX0O2d0v8Fgc7FVaI2JJFwa1n8QNQ0_WZav8766DYa6tlW-rkiONzMLV-H5eN2ZLS6t0S4Q2XLN0nZo",
+"checked": "2026-11-23"
+},
 "com.pv.vivi": {
 "u": "V6InoQeNZfDxImYiG5a-bi5dl0Dh6y0Cb8iRlMMHkENHuBYBjeDhpdhA2FSScz_Usf8SQqHmFrMY1mjv2e4LeQ",
 "checked": "2026-11-23"
 },
 "com.qatarrail.QRailCustomerApp": {
 "u": "BEngYNm8CNWU4v2YeeJwjOP4xv8PRYM1i-vbky6PRrus5Svo9ygy_ibud6utbv35BH1CxOXOXgQpwNWgVGafSg",
+"checked": "2026-11-23"
+},
+"com.qazeta": {
+"u": "EAe7pDxoQyBj_5XgPMt0X4GxTDTNmjir8ZOmMHC1ia43rUknYlZoWck7awJckq-GSDh9v0Q58kbh2OjjZ-1W",
+"checked": "2026-11-23"
+},
+"com.qbmobile.karty.ktpoznan": {
+"u": "KnoxJiVJrwGR24f0cFy-yHdLnnHf9lq8IEgOJLW3PHBBSI4Sz3NB0L-g49lxunfBldgW6iZ0j1FeLF7MKAKM9g",
+"checked": "2026-11-23"
+},
+"com.qnb.digitalpay.consumer": {
+"u": "WcAT2aQl5eI-DOoEJm1RSV_neOoquCxHsimdiZ2nqOWO-YE3mH-cNzwb6OlBjkeFgAnmTD3oX458Lq7-VzlPdw",
 "checked": "2026-11-23"
 },
 "com.qpark.mobilepark.android": {
@@ -3042,6 +4038,10 @@
 },
 "com.ratp.toscane": {
 "u": "evwLfpFdjXbj2dmuvKUSJ_dVs1_mPwgE0q6s6vCs_a-E0zYYDYsZR2Sm5YwEL1O7tf1b9Tt67QLfxNgf4XsYcVc",
+"checked": "2026-11-23"
+},
+"com.rbsapp.ie": {
+"u": "uUyM0sSirhpwJx1Bav3a7moJTMVEIU9UoBilJ_wjErfsSsD6pp5i8cdMNfGgTT2056LRpdJpEXza-Zuqw_B4q0o",
 "checked": "2026-11-23"
 },
 "com.rcrc.riyadhjourneyplanner": {
@@ -3092,6 +4092,10 @@
 "u": "KMtMXF70XROWk2DkNti-8dDq6rq64KB3_8NPxe5F-UGNrR88MDMOmLNdUuajB0haxVnHfwo_jqsFLYTfeSOYTEo",
 "checked": "2026-11-23"
 },
+"com.rideNow.clientMobile": {
+"u": "DTuOFreWAarUC3Ctp5Wqv9iCzNxLpYXcI6r6b4p7_R8yqr-SRvRMsTPheyePSRrWNsDzhuCnRcV5dV2o8U8K8A",
+"checked": "2026-11-23"
+},
 "com.ridedott.rider": {
 "u": "epTYGeHR8Wbwe03pzYgYlrL1j_60p5azhHd6EOMYAGbJcPuXK2Vg1O9mAA6bMn_gk-XwyefpsUfPPAWZKLt1Pg",
 "checked": "2026-11-23"
@@ -3114,6 +4118,10 @@
 },
 "com.rijekacitycard.mobility": {
 "u": "7qZ-WqMomn2lU702VNz1pfczCYlKnPkz8Vb1nLdC_YAmBMEJze1VhweiORIq6qAFJ-eyjbcNi7a5ah0fckHkMA",
+"checked": "2026-11-23"
+},
+"com.roatanferry.waveapp": {
+"u": "6jAcCMJ7bEwx1qF3fYPERgzIOAhpD8mNP6R23gDMUPzTXIIrXv0wRGjZv7aD1yEhx-7HrTv19Q34wW3l8fGRNMg",
 "checked": "2026-11-23"
 },
 "com.rome2rio.www.rome2rio": {
@@ -3143,12 +4151,24 @@
 "u": "rsKZihrQU55Oj8GOYSDq_YmbN9ANMDxc-AZs09u2HK1HNkWZLPutC9RXIf0cjmPuoNnTNAyfheH43bWN1opZ7Q",
 "checked": "2026-11-23"
 },
+"com.runman.orders": {
+"u": "uop16iOWZv8DYNKRx_-DfV5eQFEuO3jU6-kjilA8OZSZgErrUbHbi8XsEJ-SoKjKwQWIeZvNXlzNxJhsYOdExA",
+"checked": "2026-11-23"
+},
 "com.ryde_android": {
 "u": "ftC1IbKMC3hngrvQbjpmjM8JAKQfPx96JllPGQYPEw8LllTO3d3CFalQ8rUd0IfknY7MWbFd1EmZmrvbFl4Z",
 "checked": "2026-11-23"
 },
+"com.rydejersey.rydejersey": {
+"u": "Zqn4T8-IZ_4fC7Ukk8-t0D5nWRDocMVOuM1RZRffW4qpnJdtykAmfK6udx1jgs69NnkryJW2iZDizEW3M18cGA",
+"checked": "2026-11-23"
+},
 "com.rydesharing.ryde": {
 "u": "vqe1GsmGdYPVsIfQil4Og5FYi4pdf20yTpcYO_-ccEFbuTw_BRC2poA8wbGJvxxmczhsMe2B1kPQgYJ_R0BwJQ",
+"checked": "2026-11-23"
+},
+"com.s2j.rentbutik": {
+"u": "5E59imR_RvGn6ECl2nF7FgLO9O6G-DqO5ofpwqYTZ84Vhm_hS-0Ba6LBIptJhjw51JcFQZhAXSK4CQnXVe5P2Lk",
 "checked": "2026-11-23"
 },
 "com.safaricom.mpesa.lifestyle": {
@@ -3163,6 +4183,14 @@
 "u": "E6JhHfMvi9XsYsUKCtLjcvt9HYXkAws22VIH1Nn-ToPBZZ0NbPhADslE84CUd3UQb7Ob3jGaLYBHpb4fSycqxbw",
 "checked": "2026-11-23"
 },
+"com.sahaal.user": {
+"u": "Fvw0BKuTGuJCttvJZuoNqDJLOTRuUfQdPtQf7c3DMx-WRwyGqA-O4fFJdQ7GyjL-73erdS8gt0XpqO7We2ol",
+"checked": "2026-11-23"
+},
+"com.sahlplus.passenger": {
+"u": "Nqqm37eAspDnBrQcKMug2HBJJy7hlPrFkuhtPE-U9UerVLjjJoZb7Fc3K8JmnDsw9RxTzAnClBsL5vlGTVPE_7E",
+"checked": "2026-11-23"
+},
 "com.samoawalletapp": {
 "u": "07vNNvhqfLioZl2JOXi3sctE4iB4MUaEGlJiqVfftclm-sRY7S3QZ8XSWZ2aO50GfxNpx5vwgxzfbyCqEP8fNA",
 "checked": "2026-11-23"
@@ -3171,8 +4199,16 @@
 "u": "HEBJci4dRRkkqx3edgDe5bWKpErSnL2jU_WgzsvgNxqheR6Rw9yN01iAoqubwMbg-xOyGbMlkjBU5rAoS8QBPQ",
 "checked": "2026-11-23"
 },
+"com.sankuai.meituan": {
+"u": "hSJYvFqC2JnqbX6gcEI92B6XqW8sEhqRCv4sPUa1pmO9Cni_fQSHAIIwIVkV0f_Dp_mQ6tT7IJbcCiuz5mUkSg",
+"checked": "2026-11-23"
+},
 "com.sankuai.sailor.afooddelivery": {
 "u": "hu-fDD8dvJ2j6cDa0CQ7l8FHcfOPP0YGqk6C4DfabkZV5GRNDWNuRtCkgOtkfpCAd2v9QW3CdmXrxc9rlqo-pxw",
+"checked": "2026-11-23"
+},
+"com.saptco.android.afcjd": {
+"u": "4WOiy6oGIUzbxoCYm67TSAp3hm5j9En8njmCn--vf-owDU57lY77SOnAD7q7HxGwUE3ENtDF4jEmGmFB7w-ptA",
 "checked": "2026-11-23"
 },
 "com.saptco.android.afcm": {
@@ -3195,6 +4231,10 @@
 "u": "H0OBLWI34i7jOm11pvpdOm7z6EeN2MmxWePho5w5ROp9TkE2-uCfEqmAiCEpFBmRuy996QNvUBzVltsjqurM2g",
 "checked": "2026-11-23"
 },
+"com.scanCard": {
+"u": "wmS_-1vRfuTApROJJ7jlsUq99XDTvcW4ExHnpIQ5BXF5oBdf4AuOVttKuSzwG0hzMBPzSiMgiMKjkRvqBQgoyw",
+"checked": "2026-11-23"
+},
 "com.scsoft.maldivesrtl": {
 "u": "2Qvr8fxUuI0eXEGgo43b1Kye03Le9_qgKZn6RTw6e5UH8K-lsPlfiwcUf-MAGi292lCvCvCiikFjKD8p4y0Keg",
 "checked": "2026-11-23"
@@ -3209,6 +4249,10 @@
 },
 "com.seaworld.mobile": {
 "u": "tp8rQFyjgS1J3rT9zf46oXpAbWGZxg-6cFji30ddVuv_ge2YakZWefs4XD2DUbOqm9Kkxuh1IS5NR0OSQkI0EQ8",
+"checked": "2026-11-23"
+},
+"com.selfdrive.application": {
+"u": "xgttyWXQZA-SelECIyjJGh9ejEaZwDz4QBrg4NLX1M-hlM9JFtLzVZh30GYkCYFp5nBekaMCh3G1RsDp7oJl",
 "checked": "2026-11-23"
 },
 "com.semitan.tan": {
@@ -3259,6 +4303,10 @@
 "u": "9Oxfnd5HZoVKPoInhIYaPx9iflQ9I1i9PlTn1DOh4neUa-SXXgjcGWyqdOWbpobZ4QR5W3kUbUYaABZUJd4IMw",
 "checked": "2026-11-23"
 },
+"com.shopee.my": {
+"u": "eSReZMJe7JWuMSZwu9ULfK2IbCbTm5S08nAj5wYJmuroOMKlHHWbUFC3bWumKY2QC7tuY_AE14FB5lqLhndk",
+"checked": "2026-11-23"
+},
 "com.shotl.smuvi": {
 "u": "CY6LtF-QKyZ4H2pilEYhVnGJHGVwbic1gLPxEbYRmhcm05PUFzrA_Zegwu1TnsEDtL2qhgwuqHnpiw3DRlwTgQ",
 "checked": "2026-11-23"
@@ -3267,8 +4315,40 @@
 "u": "kfdM6KaqqT-6uMM5ZVY5ug2AZIArx2xKMN05_otKfcjE_2gWEv0x3uEYva9eh6qHFLmTTFfNE90UyWk9sXHq",
 "checked": "2026-11-23"
 },
+"com.sibsint.mcxwallet": {
+"u": "IIHi28nZHVgo9lUZw1c4WgCul8_lhI-gyHOhzGeJSa6SOwe9uUru-6bZexYFT_D45kU8EZROnb2hSHFTUm1J",
+"checked": "2026-11-23"
+},
+"com.sinam.Biletim": {
+"u": "UfkvFJ_c8FxVIXjD8MKmHwPadKUOnWi_4cbnUbgA8FB5GxwOCJ--JVQhPNc5dRktQUul5TpTbMVermP7zV80",
+"checked": "2026-11-23"
+},
+"com.sinpetp.appMovilCliente": {
+"u": "fdpfRH70yEmXQ13YYcBxDdcfSN2q-uLcm33OJfGn3Fjoovap07DdYYVet5xC1_mKQYs5OYKoLnKMtxUIWVWJRA",
+"checked": "2026-11-23"
+},
+"com.sits.TaxiMoldova": {
+"u": "wsG0Iolb9dtvM3PjPUIN_3qdf02YaHt2NtWQOZ1hEYl9hwl4BU2CMjagCzd_Arb61zwTVI5FeyWxOkYQjdqR",
+"checked": "2026-11-23"
+},
+"com.sixdee.mfs.mmg.customer": {
+"u": "tiAn9gUfXPjQuZ4hxj-SDW4ri9fPHgQo4_KUzBeOM7dl1sKVy6Vlr1roQxB4hETd1lGe737qOT36UH41T6-i",
+"checked": "2026-11-23"
+},
+"com.sixt.reservation": {
+"u": "dirhuxbXhFds-2TQEw51a2M66bDwtP_DdshPFk8yjNHYIy_AJF5oN3pZkG4kgF08wW2qRpucdWZAHg5cL9Mqmw",
+"checked": "2026-11-23"
+},
 "com.sknCabs.android": {
 "u": "3ZFJGDkawl1PrU36Isu2S7Tyvid5c_BqSrERoNLQzmLfvmWCLDCl-hkoh0hn1QTX_BpyGZq7GpbJbPZztvem_Q",
+"checked": "2026-11-23"
+},
+"com.skoksharing.app": {
+"u": "dxfmogvskWVedPb37fqAiMY-59MlE0FpMQaLReRcbBsycFsIsEglFlCkxffBrAB7ClZEgu7481V_UCo7Ojb23g",
+"checked": "2026-11-23"
+},
+"com.skurtt": {
+"u": "4sgp0JDEQSmfPFJRjQHjL9yUQgFvdevl6D1KhsFdYDRHW8uYDPH3KWeWVtNAaYVvqdDUtcN1-Yf15NuB6-cmvus",
 "checked": "2026-11-23"
 },
 "com.skypicker.main": {
@@ -3293,6 +4373,10 @@
 },
 "com.slrpassengerapp": {
 "u": "Dnq-pRKSuKdQA8mT5iqYZxTwUfnLWnSh0tvEQLOPP9TchY1bRZUMfW82HYqZ4Xjlq7BdcQB-UoeNvstyIV90Xw",
+"checked": "2026-11-23"
+},
+"com.slueats.customer": {
+"u": "Zx_yr5cLk0hu_SuhIZUW7cZyFMwFm69-rk9QLFzXq6nVLdBbOtzN3qEjE4dsVcGNPIVdZQVMskn0Jkk49yjd",
 "checked": "2026-11-23"
 },
 "com.smartapps.tawseel": {
@@ -3331,12 +4415,20 @@
 "u": "Zkf7Sav_fPZvBFsBZBXik6d5cwmlT74DiCVKMztz-ZYvES1cyxqoW-ymrpyz8qVbyLjG4qIROMp-C_tPb21e",
 "checked": "2026-11-23"
 },
+"com.sogral.taxisur": {
+"u": "Kzrwuh5Ct7Ybe6rOHuar26fibhCBA9tRt2THmDpiVi1_gf7Z7OHNs95kIw0WuzU11NTKBrnrvWuWNRdUBqrmgg",
+"checked": "2026-11-23"
+},
 "com.solinor.loyaltybeacon": {
 "u": "nKznAtFhzUxf346ooyAxn8ehqexz3TVo4DpygAKEczMVIQwbAr9f_XeyoV2wbvXl7i1-tfBXYDwttS5Ctge-hZk",
 "checked": "2026-11-23"
 },
 "com.sonda.wiu": {
 "u": "wCME4XipFHO-2rbgR4NJxB7vtNnBA4J1-geF6Ld468FjGhPdt52EVpzerKDJsX2osxjm19v82xtoY36Ky7fpNw",
+"checked": "2026-11-23"
+},
+"com.sortiramayotte.mobile": {
+"u": "p8xLR81sUEWZjJVC41Gou6cQvEqCqaI5etqaaJhe6rv4w3msLIBfagjE7QcUB6oE4t8m1et_ej813KBeFBK_1EQ",
 "checked": "2026-11-23"
 },
 "com.sosapp.user": {
@@ -3371,6 +4463,10 @@
 "u": "UlpdZsS-0juII-6y8iMRXljHgBGBrcNEA6nMC_wy2pb5sTs_69sI_dNXM5fhFuoMypQ6_QJLm27yjZ7eJgfQRw",
 "checked": "2026-11-23"
 },
+"com.sto.android.client.itourseoul": {
+"u": "UrrT9BcQ_eMqw6Lu_V2ioOmHcXvxpRXF7opfYyqL_3Ibp_VxE-j0g2Kf3mA2q0VAe8OH-Suet5SKhsfYIImTfGU",
+"checked": "2026-11-23"
+},
 "com.studioeleven.windfinder": {
 "u": "IqghPLNqWIJ6tJjUldNh8dhthPVI1wwD-LmLIV9cb7k0w93xrMOJGOQSgXlx_dYNOM9Ir9Bi8dTE7BNlFr04s4A",
 "checked": "2026-11-23"
@@ -3383,20 +4479,40 @@
 "u": "20wzPS75SgVqTfv30ZLvLqW6CaMAZy0RWXs-yDydB7sfXDkry7YLIy2OFoRQjHN3uskertF2SBOEvV5s7Ejp",
 "checked": "2026-11-23"
 },
+"com.suteramedia.domo": {
+"u": "DIkC5jefEcuzT_hfaAR35kKKULBFnT31EKIlMo2e5Uwsii2rnj_TBA7MxfvHSvd9F2fbQjACcAne5_OuD9cGcuE",
+"checked": "2026-11-23"
+},
 "com.suve.app_metro": {
 "u": "EG0-OhahX9rH4BN5pbH5mmkLv_Kkp6cXAJ_MaxgnCy24OCSymCW6u8uSeFtz9BCyD564Afbg1ZZbA2kJpLPMlQ",
+"checked": "2026-11-23"
+},
+"com.svist": {
+"u": "4BuU2pzs4kyoHaC8uBNpCsEB5B1TcFc2tWQUSGcBwTtdrBtB_hdoRSczut_fFIw6G8DRCGBlA9L5QXHyLZ24KFk",
 "checked": "2026-11-23"
 },
 "com.tacobelluk.app": {
 "u": "lGFPJFaCxyWrCnq9EiqdhHt1TKJkUHTLGbGGvsITfbGftKra9dGJwNsuhY6gO1RE5-MVlAYFBIDAss9GL7qZJg",
 "checked": "2026-11-23"
 },
+"com.tagpay.mwallet.masrvi": {
+"u": "Os7udLRlUkv8QxKkaEK4hvN42Mxe1ZSuYjvtBsyimhkm_actMcjtEGbfhzC9O39VKEEbVcQddwu2PH1N0oWMRw",
+"checked": "2026-11-23"
+},
 "com.takeaway.android": {
 "u": "tFz4DIpsTOqlGj4i8mKUsMELqxCVG_g1WQEeTmgcwfa19SRVqZoPbJxS6RrlY5OOG4jTorrF5ZC96ibkGsq4jxQ",
 "checked": "2026-11-23"
 },
+"com.takykcheshme.gps": {
+"u": "fPRLy9tDKw3NKerrg6fq4XRIXxLIFnl6r2sCCMDfYcEfCLqkiFxunBFsAd2jYLeAPz6HdJ8JiUB81s60lvKvIw",
+"checked": "2026-11-23"
+},
 "com.takykcheshme.online_taxi_driver": {
 "u": "EWI9WDSE5UANYAXFXYpOR6X4QPYF20jaQaP4fm2KAWjMSLmfFzoOP8Yea2nr0teAajNspYPBSIR-GnCM3eFS09U",
+"checked": "2026-11-23"
+},
+"com.takyktilsimaty.ynamlytaxi": {
+"u": "yoZMF82hLL8YbZ0G-5sN_Kyge2YArvEIUW639QhKwg-PlWddfEL_h1-S0kgtMVoTAEDw3KPdXiYNGDeqiynXMQ",
 "checked": "2026-11-23"
 },
 "com.talabat": {
@@ -3415,6 +4531,10 @@
 "u": "9NANxXJj-psqqD7c6i8FQx53pmXKdEv07tYpqnDVxCKfp5UWnB1UPlvQcS6AM4VkW2vqZvMSdqHpIcG94sOceQ",
 "checked": "2026-11-23"
 },
+"com.tanqueo.app": {
+"u": "eCKieTZ4zEXDLiJtXcWUcdpuANB1J1KqzAPycmR4TcOLBC5SPQTf04LaXLDTTaYS2EARzH7f_4ytAiagEoRi",
+"checked": "2026-11-23"
+},
 "com.tap.user": {
 "u": "LZsXXTb2Yk-n62htEnkhXqz1WGdM_04G_xZCuxKUDKPJN0KTs5mw-ci3BDiKJgPLAtYSC9a0M6LIWQgBU-zWGEE",
 "checked": "2026-11-23"
@@ -3423,12 +4543,20 @@
 "u": "BLlwqf_on2zQdsG7cRD9n3uNGGcL1vRrwnQnDGqw3J1cR496uCojI_I9wJCOgfXe4lm0JQy_caaCWSdkdzYOcOc",
 "checked": "2026-11-23"
 },
+"com.tapatrip": {
+"u": "2eucdgQ7rRR3whc_eqmP_4-rO23czoYzN6lH2B3iYgvsfvuYp1nxBmLDGd0ITmN6HJVB__pLxwMNjZq58X5s5g0",
+"checked": "2026-11-23"
+},
 "com.tapea.customer": {
 "u": "rW5L3_W6S6YI7RpwTT8GbRNSK_YnS4PamO2Hk1s9RWtkN3sP7ljYL8n8A0vBR1oZffJNFEP0KNMlW4ci2u34EQ",
 "checked": "2026-11-23"
 },
 "com.target.ui": {
 "u": "PMEO7Vf0nxncQTi6r9K-Buo9GS0Vc5aCJcyzaJ_p0zR7Tirkjzo_OhnprTD6ccKK-eA5pf_dq4IT598ZzrV__w",
+"checked": "2026-11-23"
+},
+"com.tarjetametrobus.app.a2_20": {
+"u": "IVkdyotSvHOJ9kWfPsD-9A9bawk4hy0kKIooldIoZfMpiNacuYgyz6EDBD6BWm2vW5ZpoVUV4CbUSWjy_qKb",
 "checked": "2026-11-23"
 },
 "com.tasleem.taxi": {
@@ -3441,6 +4569,10 @@
 },
 "com.taxicaller.GuernseyTaxiApp.app": {
 "u": "RD7k4I7gSOt9KsnZ9eC66aUNlsDn-rN1f0sbOucXcHjGc383iC8WNfKO3w0GWnQJ0C3OB4ut5Zhi3sVS5lqLtA",
+"checked": "2026-11-23"
+},
+"com.taxicaller.TAXICURACAO247.app": {
+"u": "jgeVRMc33lxfzVibiHJdE1k65MBBuytVvPmHex_Gj70VE1g9eueYnPSAOfcoQtTiTsrCV60UbYHWIy9GvT3eBQ",
 "checked": "2026-11-23"
 },
 "com.taxicv": {
@@ -3471,8 +4603,16 @@
 "u": "yPbsnuqfu-IP2Z34uqV3JtTfWLSJbAISpPcGj3p88QzrSN4ri_N-ErQ63Gd6pR8y3UPdPeSWcavMGTBU6uLWhw",
 "checked": "2026-11-23"
 },
+"com.techlogix.mobilinkcustomer": {
+"u": "gxLZ7ouLFPXZQWvvUDvGtDyFeGjcGLgoR4xRvWC98QuMkhe-OOKiAT6f1oL3PwjM_jDKghVedUM-skYGWowJCio",
+"checked": "2026-11-23"
+},
 "com.tecxal.udha": {
 "u": "bk_otL3v3__J5MUvFtqNjqFLjNcBJ29DvPiXX0Vb1qtWSiT8Z_KaBOc0YCe_M9hGqdRFeWGD_UUeTxqPD8Rt0g",
+"checked": "2026-11-23"
+},
+"com.tedmob.coopetaxi": {
+"u": "T46cfmqxEs2RJzeKffc1w7I7aA5YefvUfzDWCR_yoDwpKiAv9DD-GxZXOwhEbsVW5cjXxLZgZ1U6KL0_XeWK",
 "checked": "2026-11-23"
 },
 "com.telecom.weatherwatch": {
@@ -3483,12 +4623,20 @@
 "u": "u8h6dXiP8bJhOP_vcAN9-iITRrAbZrDK_5uH4EX10NBCldaiz5jSxD1eVgEY5WvpV89pLN0XcESdEwfi27DYqw",
 "checked": "2026-11-23"
 },
+"com.temtemone": {
+"u": "zKBOSEz47Bfcw4UEBGfBA0bLNdRAHhmI0gMufQbQDavzOL-jaAQ3nhTQU7SO5QnXttviHs2HTxq6NaDQYUptmZs",
+"checked": "2026-11-23"
+},
 "com.tenbis.tbapp": {
 "u": "Nz57qMMWuX-OXhVYKR6xi0ekUWpGQUYrVxPBzaoLtspvmM6xS3bCWW2cQSMWO7s5REI8Zfx5NQ3Zo3HyT99fYg",
 "checked": "2026-11-23"
 },
 "com.tencent.mm": {
 "u": "dsQ_iB6i-B_FSmgaOpLA-FmHC5U7pjqzV7P6FFr0USeKEl2Y7LqsLQIEeqhjweXHMLUKBF_WOf2TmMOxcYcT",
+"checked": "2026-11-23"
+},
+"com.tengohonduras.appastra": {
+"u": "jqEkQEDkAufai_xpYeYh7WdKZPXQQljqUw2bbDLEprQ8ZV0JhxO9OOaT8x4osXP88VZorKFuMtrF_dOAKi62Uwk",
 "checked": "2026-11-23"
 },
 "com.thaidigitalplatform.tagthai": {
@@ -3517,6 +4665,10 @@
 },
 "com.threesixtyentertainment.nesn": {
 "u": "uYJXXh9JPFVpX6lnjtMEbItSqouxNAmEVEEielCtrW90k6RrkGwWfQl_wGLWv1t2-pI2aoE8wZ989v0TgoE5",
+"checked": "2026-11-23"
+},
+"com.thrifty_jordan.rentguruz.b2c": {
+"u": "xCzR-g_EeGWxsmloC8Q_2L-ldj9mNSlxHZvAW-wV1z-GzAf9-voDIucxIXBmaoUs_jBpbDdGA-N35wcV-jbrzg",
 "checked": "2026-11-23"
 },
 "com.thumoapp.users": {
@@ -3555,8 +4707,16 @@
 "u": "m7ROMECDfSfoNd6OF1gatlGmS1rzumozIG6lVe8rA8hAbSf-GjJMaaDfPNltymfU35o-mJlRBwUX1ntI37wJ0Co",
 "checked": "2026-11-23"
 },
+"com.tmdone.client": {
+"u": "Rxym51hiOeyOcer6j9pJfaoOv7bVYdjFlynECEABzUuspLU1XnJcCINqDxaPpeE76VmwpfNYAZV76NnC28GwDBs",
+"checked": "2026-11-23"
+},
 "com.tmoney.mkoreatourcard": {
 "u": "dcgMtViTkkiE0MX9sEqpS9YHJbPcq9oAf4Kfb8zfUuiqtakfiWJDmIKJAnqxShFzTZB35ko9BBu2STq_r6NM4w",
+"checked": "2026-11-23"
+},
+"com.tngo": {
+"u": "i1D7DdEbPYjYzrvqb_qk48ONWptSjM__Vb4grjUOu-mygdWHi6gLdUzyTQynzS_NQyLMIy4RWpetbu0wzhMi9UA",
 "checked": "2026-11-23"
 },
 "com.todaytix.TodayTix": {
@@ -3603,6 +4763,10 @@
 "u": "kB33cohi8SVexROzpc3YB9o7fG0prnoG_jkANftvjyMKTZILBA1s1vYfvrEIWLiFDtouQLuyBYqk4VQPrPclGQ",
 "checked": "2026-11-23"
 },
+"com.transitfe": {
+"u": "YMAxgUXNIaaEsN3lo1p-4Gv0f8yLyd6o7RCE7rAVd3W-EGVAzetzkAekomAVuPvEynr3edeRtlCzioU6ut8MVGg",
+"checked": "2026-11-23"
+},
 "com.transitloop.rrm": {
 "u": "7Oe2SDjKS4pXwPQktUbWbHU8ZzSTlSQ6y1XylBIHsZYF9Op4RKuKmbnObA9SSj9xi_AVa5fzPgbGh34V0WjC",
 "checked": "2026-11-23"
@@ -3617,6 +4781,10 @@
 },
 "com.transportmeptyltd.transportmepassenger": {
 "u": "4oP_Wvvii5e9fZ4U-RuMVv3vtU4YN9m1m_ysVhUT-INrwsJVFnoW9es20tElWX9RAwyT12d3jHvDHtpWH43z0QY",
+"checked": "2026-11-23"
+},
+"com.transsnet.palmpay": {
+"u": "pT-RdPoKxq_JRizBJsS99SgrtF9qeQ4Oq3gyhl4TSmK6w7GI_7x2OC9pQOSGo52b1yWBOugQv4w27QDA8mhzZg",
 "checked": "2026-11-23"
 },
 "com.tranzmate": {
@@ -3639,6 +4807,10 @@
 "u": "6ESHmK0hJg2tD8TjU_2pGIUpw523j7V-jIq-J9GJeHOcKVnIMDHhuW-iRyvrT9nyE1vAQqCI8Ox5K4m_mreBmQ",
 "checked": "2026-11-23"
 },
+"com.travolution.discover": {
+"u": "1YNMvbnoNrg8543WWT-gO1GiaUPrLv1GS_vUBZ2MvyCassGR3PdlBPxn9bUHhWscAFzoIXGFjvPZGZFteaYrPWQ",
+"checked": "2026-11-23"
+},
 "com.trendyol.go": {
 "u": "ysKX-r8mvOLrKRqiOY5DDp3GAfC9rr-VDYIJlkaatOJO-hs1WCL6uBB6p5EFK1GOKY74PwjTMRq9PzXwMdVd5Q",
 "checked": "2026-11-23"
@@ -3651,12 +4823,24 @@
 "u": "PQGWdPWj9ZjPX4eYKdTnoZ8JdbV7m8mkQ8r7okc2M9zOtWFaVmUlfcSnDy1mpRl28sA6Z9vwDiDtnduN5skP",
 "checked": "2026-11-23"
 },
+"com.tropicab.user": {
+"u": "cK14ynHhM3eme5HvBWxdKaOWcGThxAonV5PXmrdXHlesQraAwfX_ttJy3RSKOK5c3u4vnlLheDzanQZ6wYSn",
+"checked": "2026-11-23"
+},
+"com.tropx.customer": {
+"u": "N_NdU-18bWTDKrRbj2HOFane9u2HF8DjbUTRskzVeh3TrkQUT0jOKY_DX5znf-O9NKpxFr8fXfqQoShf1ot79Q",
+"checked": "2026-11-23"
+},
 "com.tuatea.mobileapp": {
 "u": "TGQAa4zT2o6VR82klRlzfi9STjMB5wLIluzr0pFjh5XdY3het3D8HZpGo8_yJKHzkvfX5ONUwPso_ITlYji6",
 "checked": "2026-11-23"
 },
 "com.tubusguatemala.app": {
 "u": "WtUPjDfBNNukmB2LpQTKbIm79V63q9tSNx1qGAvpZfa9yyiVUSepbNqQeedhHSJlz4cveEn1_F1f_bSVzQ2ebdU",
+"checked": "2026-11-23"
+},
+"com.tupuca.app": {
+"u": "gnk2rkcba3ea-uq1Tpt_8a_2ScqHbQFIqIT8eMkDpOiLx9D8el3KRaaKvKcVYl-u5r1zEwawYsFH2niT2yamVw",
 "checked": "2026-11-23"
 },
 "com.turkmenportal.yolagcy": {
@@ -3695,6 +4879,10 @@
 "u": "y8Ab-IwYf3mbmqoUsBA4Ho-QAo_ThDF4ks7A7_il_wEYZNRvsKZg8HfgmYp0LXESYruenW5gx5u7vCiJJOrhJA",
 "checked": "2026-11-23"
 },
+"com.uact.dgsit.applapazbus": {
+"u": "-QZyxAaKXSa1qo6jrvSXY9flR5xwCNwNLSk8iSykUcrDqzuR52Q7PCyyXwIkmKVH2N39RliVHyrANHbyhcQ2",
+"checked": "2026-11-23"
+},
 "com.ubercab": {
 "u": "OXQnDlRtPa5ha6KCnKPqVmxHYBP7tjrAa7PXGNRqcwDC_J03HVeuEKcKrkcIqnfOqsF5uy3uwWxIXR067QHsNQ",
 "checked": "2026-11-23"
@@ -3705,6 +4893,10 @@
 },
 "com.ubivelox.icairport": {
 "u": "W4VLSj8MyNdJIhNsVjxHqrcNosTXvW0UeD_hw1inUNNH0vB3sKIaRRQeZi0WYcXteAXeFuBc6E-k3R5Euc5w",
+"checked": "2026-11-23"
+},
+"com.udaya.visit_angkor": {
+"u": "OtuBmn4_3dzEuH4sOShuwzPwaYnY_PpWX80j4P-ic6w_AYVn3KB68Oa6ddegUQ3e9kgQXyR43Xnpp9rD5hPkbaw",
 "checked": "2026-11-23"
 },
 "com.ufodrive.app": {
@@ -3723,6 +4915,10 @@
 "u": "oS1tExZr3WnRDtAyRBZRdunpaOUkpqeA1KuMKdtiHlSh4YiEkroci6bnJoPVbjnRoJaTd6qRNENCF3HPUu5kog",
 "checked": "2026-11-23"
 },
+"com.unionpay.scomapp": {
+"u": "WbhMjg3999zHhPLBFjJARrc4GYVCz8Xe2yKKZbm7fihAWHxKIOmh4nimSAdVQhh3CWoKOlzcCy2h63VoH3us",
+"checked": "2026-11-23"
+},
 "com.united.mobile.android": {
 "u": "DViJ4gWGE-x8OQFuEqIEjXgyMLDWb6g2yLTo4Tf1xm2j4-myXGsz-uAjOOXRJTu0jNvGwmgkyaAoGMBDQZA",
 "checked": "2026-11-23"
@@ -3737,6 +4933,10 @@
 },
 "com.urbansharing.citybike.milan": {
 "u": "hSNPXa_x-lC88zJMJaYRa3mCGA6Ee1jj5k6DBHQY5TxGHbMN0Zs6fwMrXJ-6yTipKw4ZqpfvWMFtC8riJC0sPfI",
+"checked": "2026-11-23"
+},
+"com.uscc.ubbus": {
+"u": "5LZKd3FbB0qX7xWr2QUN63OY-ZpWtNvaEzuHQ46rNderEi-Xx7_IOJLtKyAQkcNl_y3UbMOj9t9r1msWjPmd0A",
 "checked": "2026-11-23"
 },
 "com.useboom.htwallet": {
@@ -3767,6 +4967,10 @@
 "u": "yjrUnxfobmPdHFZEo7W3H5WILEyS6XdhraHo-FT_bT2cjfUoPMdJkO_YpgdJrB_47tRlQJnpc0M8sEyJC6jm",
 "checked": "2026-11-23"
 },
+"com.valparaiso.vlpo": {
+"u": "8ZQSFACcOd4Jmk7Qy9PZZ6NfFJaGfG3Hzg3RXGVSSNWSdfEvHIuJSsE44HjdGocZSF_YgDKFQGrVGXCtZePTWQ",
+"checked": "2026-11-23"
+},
 "com.vamoos.apps.quarkexpeditions": {
 "u": "3Aa0kuqtWsV2Db9ASn_VgU21u_HOqzZNtXitWOIrRFhNx8dMOpIs-FLfNXoLekn_ZVQff14WgygDiHKhJeI_kw",
 "checked": "2026-11-23"
@@ -3795,6 +4999,10 @@
 "u": "oXPytLMUtt83Lmlj-3crLWa_tQsTtk-NUytKO2Mo1fvPEJxShT3knuhR1NowPsLYx-6B6uvz8aaEQVneHbQTZA",
 "checked": "2026-11-23"
 },
+"com.viacitis.voyageur.sudlib": {
+"u": "oJvbN3SKmuWbWVkozO00GekI4j4Vt1b1Q8RGzNHdh1wzZLrs6k06s3x2j_k3wXrRqXJ0H9fBk3in7GE8vhL41w",
+"checked": "2026-11-23"
+},
 "com.viarail.reservia": {
 "u": "yYSfOqmltkElGRBjKwjMu90RDTAQU9x-Z9VlaBOEZAP2j0mQcZIK-BcznX7V_4XmAFZ_wR44PsAQ4ywW6KBfLg",
 "checked": "2026-11-23"
@@ -3805,6 +5013,10 @@
 },
 "com.viber.voip": {
 "u": "iGHZEkEJBBcOyMEETvYrwCXk-eYQ_TaEgBHPKVptKSon4QQHqhD3Zs-tdeINPZucc1sokQ5FJ4ig-YOGh1Lm",
+"checked": "2026-11-23"
+},
+"com.vihail.riderapp": {
+"u": "3ijC1Ttrv_vyWfzF7lpWMuJeoOTQvpBZX_0-D3XrJ_7ybveb6c2OIWf25_R2SVrgwfo2PIJbKy50MXyu0QqeLT0",
 "checked": "2026-11-23"
 },
 "com.vikingline.owapp": {
@@ -3827,6 +5039,10 @@
 "u": "iHqSO2qhkec7zu4Ahp5Zvk351uLUqP79ELQR_peyXIo4dvCgtsl4GKO8N21NOMf_RCfTaXv0UuwIMY33S88Egg",
 "checked": "2026-11-23"
 },
+"com.visitghana.app": {
+"u": "NZa6Ws11dIf4uqs2GWV3PVDro0p7xIHWudltFn6AhNpq_lKkVTZaIYsvUwPQnptYGmKIBTW98VUWQQa5r8IrMQ",
+"checked": "2026-11-23"
+},
 "com.visithue": {
 "u": "4Xjct4VCi4Kb-DK2f3gnw7XmwbfYo7Is4xwsTxgXv139ZFt--N8hzZKFbWI0CBYb5BvMejZ2BZ92EGMgfCVzBZs",
 "checked": "2026-11-23"
@@ -3847,12 +5063,28 @@
 "u": "edHVVyWtuT2Slq996bX1YCUEe4vV942TpKcGvfShnCalyW64OiIHFdnLlmP4i_qzURJuN6x8s1kyLSutaz0M",
 "checked": "2026-11-23"
 },
+"com.visitwidget.guam": {
+"u": "NtQ0MJ-ZSxDAvJrGI8CFtY05MT72sAu4ISyWjopJ5AljoKSn7QZ2ZZwSHvqBfMb-RMrOM2qrxjKgx-6d7Y25lQ",
+"checked": "2026-11-23"
+},
 "com.visitwidget.travelbelize": {
 "u": "yiEazu8BuTBeWZDKeHyukib1KJFzv0NOY-5tuDoK5cWFK32C0V3Y7ugijLFvhCxU5lsDn40Jtd4HF4NISM_tMA",
 "checked": "2026-11-23"
 },
 "com.vnurban.hspeedtrain": {
 "u": "qJmNdPcQGx0nt0hAH-sV9UsKx_kTzE2gKWq8cSmnxOhHjidJOqIGm0CxwNb7BaH7dZC39UH4hVTeELtnbtPv",
+"checked": "2026-11-23"
+},
+"com.vodafone.mpesa.drc": {
+"u": "AcM6ctjqiJWC1dPqO8ZHrbAYY-6y2BUP5PWCUpbqsAJjgbIbo-8jz2dJyvSyws7GFflCCspTgKpvwdiGDspS",
+"checked": "2026-11-23"
+},
+"com.vodafone.mpesa.ls": {
+"u": "jWwVKZtgJYV5PU4PwYlsb4pcZX55yCjLQdX1pLgbAM5oU4b2_f2u-mPDhApc8qYp6t6sO4-SGuMe3W3Ghw8Ltg",
+"checked": "2026-11-23"
+},
+"com.vodafone.mpesa.mozambique": {
+"u": "OcB9ahzs_giaT21TBkzbNO34m2rKpjgOZw4UksVpNQwt3UdcjOmuujnRGq_NnnLW7k5ufp66Nlc1KxT8s3Ce3A",
 "checked": "2026-11-23"
 },
 "com.vodafone.mpesa.tanzania": {
@@ -3867,6 +5099,10 @@
 "u": "TMdf3UBoH52CnGftvpvvO60BGoAN1CZC0iaWiHsvAol1E3MeELiw2ool1zjm3CqY41rrH4jy7S0344opq3HEHw",
 "checked": "2026-11-23"
 },
+"com.vulog.android.carsharing.vancouver": {
+"u": "noOpxD74oJtqKi3DWHZ-cv_nh_TPH8_7u86XlowNTncz7y4QIy7YoY5VfVVn1RqZsJ3DUX3ovaH1svkZSzKK6w",
+"checked": "2026-11-23"
+},
 "com.vulog.carshare.ff.currentvehicles.prod": {
 "u": "Z9tiuDoJ9Du9PRc8KX3QG-JXFQuOe1VxXOoBYJDYuJ-LBz6Cw6HWfOSQHALgw1Lpe1UK18idFl6NDJfbvaLj",
 "checked": "2026-11-23"
@@ -3877,6 +5113,10 @@
 },
 "com.vulog.carshare.mol": {
 "u": "SD0mTaFg0ByDyGMtWE7InMwlVt6ho2SH0eHvkMjT8EsJBljvKlHYYwLu8cX-3s2IKq2N6bvq11lMa3pZyrLo",
+"checked": "2026-11-23"
+},
+"com.vulog.carshare.oa.ego.prod": {
+"u": "H-XCtXrNgjLW9AnUWoPznvBabMP3NnvyhHbnZi47vX1DSKcYMnbAaectrurdiPLMyH_x1yqUPEuNg5SaDUvIEQ",
 "checked": "2026-11-23"
 },
 "com.vulog.carshare.oa.evie.prod": {
@@ -3903,6 +5143,10 @@
 "u": "rTiZi4GPuBIn-ovb5Ntqx-s92KkRTKERz9mNLtjYzsocACECjANMVl1Qq1qSYgjCKq8Y7sQfR2vOPzUNbtij",
 "checked": "2026-11-23"
 },
+"com.wayli.com": {
+"u": "fTBybARY_-QinEvwXJZd72h_WphYhs8DiGKOx1z3-A-avhuAdzfjh61sNIhEV5-2fP5hZwJDGKmPya7eCw0aGfc",
+"checked": "2026-11-23"
+},
 "com.waze": {
 "u": "d4dltd4baeDGnfJD1H-ut68ERsIynfywij9zHRL7ioB-PJW3ENw-bFgg08KGPo8zQfSyRW36e58xhlqQ0pE1gg",
 "checked": "2026-11-23"
@@ -3915,8 +5159,16 @@
 "u": "qK730z10Y-JatbN1ZSlUk5IDG0rz0hVj_8yPlaJs7HcaY-B4JNJ0QUZlGYV3WgaYJaMLnM6jF_-mz3xzs7ZFAQ",
 "checked": "2026-11-23"
 },
+"com.wemoscooter": {
+"u": "ZsvhP5yWaasxtjE3TYDE6rxSaTEKaRwB9QeFbFl0V9Y3nTCrWkhfXHTddqU5Kavw556qdFgeVoWjHC3jYwi3WqA",
+"checked": "2026-11-23"
+},
 "com.westernunion.android.mtapp": {
 "u": "SZJYwdUiRIQIbUBny09J4FFUgTk46DpGeqwQp-KWrhl19Tcc8RYTPFBabCLXEVOpSwtsuqY-Q78zx460M_aWRus",
+"checked": "2026-11-23"
+},
+"com.wheely.wheely": {
+"u": "07jM8UEj-L0iLJlm7IoM-BVeo9NkGdPKt1-yDNe-5nhM26noZw7NyBbo7y42oTnvl9e4GpvftbFxU_W0hQ--",
 "checked": "2026-11-23"
 },
 "com.whereismytrain.android": {
@@ -3939,8 +5191,20 @@
 "u": "u-KmXMFiH9SLeIpYeNBKzHrwRX3Fi53H4ij3240cuOqxnrMMTpb8n0bVEC25VzqTKU90m43l4UaBg8ahP9RcUg",
 "checked": "2026-11-23"
 },
+"com.winkgo": {
+"u": "1AH_VLjNekeTmxWWtieP3-HcpwUmw_efazZq_RPy2pMBroXNOY_RTzl1cz4ReIfY4J_MxKSEd43oHp8TT38Egg",
+"checked": "2026-11-23"
+},
 "com.withtir.app": {
 "u": "cIUr-KSKfbOx2EHLpQRbh5ZuQWRp9-ob2_8qyRspVG23zKoiKNFh0Hf51bRgSUnVI3bOjaL6WMFcwMUhcJaWgQ",
+"checked": "2026-11-23"
+},
+"com.wiyak.passenger": {
+"u": "gYewrtHuUT0Mp9FBzFQsXdyl8o_wX_q9pQTDD3oshraAhBHp98djw2TV2mF1tMmGSJTyA2v5mbqmICepAmhV",
+"checked": "2026-11-23"
+},
+"com.wlf.gofood": {
+"u": "OgYYMj7JGqnR4iXo0jpum0A0RojfL-SOE0Tx8Y_30a5awMkTjQbfGRDlpI5VdJ0fb7071FBRrcH32e-olw3jfTY",
 "checked": "2026-11-23"
 },
 "com.wmata.smartrip": {
@@ -3975,6 +5239,10 @@
 "u": "tlFRp5VpZFksyMNtAjYjQaSVIXp0sWCdL6yI30FYVQm-wAyfwgPo7r6K0_Feee5o5jhwEzFVI6DqRUNcgEdp",
 "checked": "2026-11-23"
 },
+"com.xaebike.tngohcm": {
+"u": "lQzMA9VY19ioZusHVdi2E3u8GxkM3AavT9Rz7uFuOlGAWgqnITijunFh37K7fCj6nDKFFvXS-dDQpfdkk6bI9g",
+"checked": "2026-11-23"
+},
 "com.xcaret.xcaret_parques": {
 "u": "ozKLk9ELXkSBsvKKuliY6ZlCozqunCXGlevysKJwl7lJTtoOBpYnB_Di3B5ntsTRR7ZlzA3mW96trXUIYW-_",
 "checked": "2026-11-23"
@@ -3991,6 +5259,14 @@
 "u": "_CI0ojau2KHyAdBjiBzEW3-WTM61Onzxj9wyeDFDWAo_BDFx6LQGUGLj5-MzZH3dSUN_eUIAKEYOZuIfMkQ3vQ",
 "checked": "2026-11-23"
 },
+"com.yandex.lavka": {
+"u": "yKerVwp5820F7pPKLJhlZkuRTYiiBjcrj8YXODgZcm05cRLxnnCaos67-Ggz2lFKLJ5MTsWZnJfsiqdc4V1O",
+"checked": "2026-11-23"
+},
+"com.yandex.mobile.drive": {
+"u": "w3f6gn7DAA0sRTpsk5KjFOiv4QflnksuDJj91BEGfs-x51tz8G7h4Eex8qPvToef7KKnTJphZF71vasfkYc4Ew",
+"checked": "2026-11-23"
+},
 "com.yandex.yango": {
 "u": "Qe76orlRgxDMMzlKaKI4DJFeNAmcd1M7qPySrKgiCse8cbVEuL2fD8jNgRCUXkNUxwdiEIpV5QlNvoKG31tS",
 "checked": "2026-11-23"
@@ -4005,6 +5281,10 @@
 },
 "com.yodiwo.yodicity.citizen": {
 "u": "LXxAbZXajJyVCRzSlHodlJtN2Kd0wydYC_g7_180uD3eS3rAPIsnV4KR0ejdTwOFMn1yHpd_VuLYKCU2g8hdyLs",
+"checked": "2026-11-23"
+},
+"com.yomafleet.carshare": {
+"u": "Lwl-4rLUnwSUa2UMlQQTC9ewWUjXwt8fY6BevYgQzqbu7dPaR3zoLtaslX3ohHY9nMhvb74crPBz7_HOiCUsFvk",
 "checked": "2026-11-23"
 },
 "com.yopeso.lieferando": {
@@ -4027,6 +5307,10 @@
 "u": "69X1G3hkeaELBtpEYSOvMfC2sqQFEwT9FC9zd-de9hI_sG4lau-UFJWIM4rUJ0w3OysSE7VPty81cnQID8-hYQ",
 "checked": "2026-11-23"
 },
+"com.yugo.app": {
+"u": "lfZV32fJgwvhai02eZWDBTxW2_SjuKRSInv0-qpcCkv_W0J0_-VPbMaHP-vDomo2aNYjf-w__0Ig2VALJKLLjio",
+"checked": "2026-11-23"
+},
 "com.yummy.customer": {
 "u": "ErYzEKS_-DGuVu_d4uLWv7rt9YGt-Wq1LnqYdJzemtqQot3bBZjJP_aDlqn2TeDilIW4se3dCvsDBSMfVFZVNg",
 "checked": "2026-11-23"
@@ -4045,6 +5329,10 @@
 },
 "com.zebras.ordering": {
 "u": "hcYwhJ6YW3GVyiZ7SuSqEcwrPXOU9xij9bV28AF8FHzLKcqvAkclIN4ivHzYSVEOedhQ6bPvZTKpF3_W0zeBHg",
+"checked": "2026-11-23"
+},
+"com.zenhotels.android": {
+"u": "CpNEBPaAnG3kvjomDp2KI59eh_svkGhtyMKYpcH2eqzAnFpQu0nLAX1aAO7SPq5zVCZYrhWlZAyC-E47i9oTIQ",
 "checked": "2026-11-23"
 },
 "com.zeptoconsumerapp": {
@@ -4086,6 +5374,14 @@
 "u": "vNZziIq3UAk5fRBofLa418ruaHqypKqyOh2vsgrV56ccQDdXkIV0v6WA11B3XlyEEPN4YrPvsqFDJEG3wqbi",
 "checked": "2026-11-23"
 },
+"cv.isone.pagali": {
+"u": "XjpvbVnp_LGRzV3G5P2hDtmtiu1u7amHUm1imPXVJMy8CxDPWZ5M5q6gqoBNJTzSZjCHlgQmxX6ecjsm-gBdgSc",
+"checked": "2026-11-23"
+},
+"cy.com.cabcy.cyprus.passenger": {
+"u": "lj5buwb8sDazQm_RGC9f7UDzKx8wJjCMq2pZwt8vlyLL-_1in7GqkuQ0NmrSc-JG2bfalECfTGHvnnq780CZkg",
+"checked": "2026-11-23"
+},
 "cz.anytime.mobile.android": {
 "u": "BTpn-fLZSdgaALgWmhkDT4uouLh-5snTcZOLALHuZE9R8mmJ7-XmNtGya6eRUC_hKcusrvvRhJNriqHy6OkPHw",
 "checked": "2026-11-23"
@@ -4102,8 +5398,16 @@
 "u": "vqBYoRuVm9s3x0AZRhCFjHlJgR5qKqQhXqWGVWEMHLeTEX-2rrkY37T68Ndthja_oueMq_svX_gyNp3ZARUJHw",
 "checked": "2026-11-23"
 },
+"cz.dpmb.dpmbinfo": {
+"u": "QGkXc47GGYyKLA0oJqAfDmXSZEiJj7ReHR6DEGmQkod810JUFPNh-QIvcCf0Q790lHZreMGZCOnaiBNlldR-VA",
+"checked": "2026-11-23"
+},
 "cz.dpp.praguepublictransport": {
 "u": "BEFWU4Q_fd42e6QHU_0o1zL78BUpbjKmAUltWKqzT0Ou3n_ymClWyi3TFkGwUIWBEINoUA1p7vY0mSDIluJzXA",
+"checked": "2026-11-23"
+},
+"cz.edhouse.mc.android": {
+"u": "65UaBPQJv1GQWtsqhcZ2ddWWU2il2gVhtTaNOqjMTIKqj6KaiSPoAFTL8Cq6w0vph5Ion4gWKMoJXe-kqhSPWA",
 "checked": "2026-11-23"
 },
 "cz.globdata.parksimply.general": {
@@ -4112,6 +5416,10 @@
 },
 "cz.mafra.jizdnirady": {
 "u": "o7vo7iZJg82nRkas3Snx6mDS95d3bX__PJfTfAKdjcofF-lYBL72_NAfMik1x7RBx-pKHqD5uL_e5UX9iTe9Gg",
+"checked": "2026-11-23"
+},
+"cz.odp.vpkng": {
+"u": "aQfHmbt3ry6K7-LlCWjscG1pkFS2uKuPWfzT3YcTnPifMBQDyXSzaZqTE8mEjXqRnGCejkGej9yYXYG-39I-",
 "checked": "2026-11-23"
 },
 "cz.operatorict.pvp": {
@@ -4164,6 +5472,10 @@
 },
 "de.flixbus.app": {
 "u": "_xckHFchRcdSo2EexTBAkO6QvInupeGdXdphN2Ea1PT4e2mJjxUvdnv6_p_B247dC6-hxenpgMPJqAfNdjs-9No",
+"checked": "2026-11-23"
+},
+"de.hafas.android.andorra": {
+"u": "yzehDpsJpFo3BP75Euvyca9fFc1_im54EGZlaOfTestmW8XbTbLAzT2lUoX9RYss4hlyVS-bvQDd0ikdxMfKeGs",
 "checked": "2026-11-23"
 },
 "de.hafas.android.cdt": {
@@ -4282,8 +5594,20 @@
 "u": "-9xru4dK-OOsWRrGjAHVCVdqnZUiXONe80LJR4N4oqYB9jTGHxAsVUSVNgqI65hYPwYutqKzDHiLcFvqhN28",
 "checked": "2026-11-23"
 },
+"drpn.politur.app": {
+"u": "ZHAH1XPQDQ2uBjviGhpvmfdW7gl5ALD_bjaAasDxfogXgJwPYkSvhU9hGgMq0YuCusKdR2jU_UZkc3yoCtgD",
+"checked": "2026-11-23"
+},
+"dz.etusa.etusa_mob": {
+"u": "obBZBIcSC_TWDzOf2jxQXInTVE0xfCmbbq7idDuTTPXNdtx0VsNFNoeAeoeFz4hNqKQsgXdIGCeh4nOGz4QV",
+"checked": "2026-11-23"
+},
 "dz.sema.qrcode": {
 "u": "JwAEOFBAQ6h3OeU5BP5ErvOFG8Nv9LuQ0GdrJoUXQolECfkw04MJ2BNesNpri4NDZeo1_MwDaaGwKSaVWXCJOw",
+"checked": "2026-11-23"
+},
+"eco.scroll": {
+"u": "9dt3rVAeTy6nXsQdXlLbDEMQV0Dm-mElvTows19bn6hqlaU5lJb_VscqKb8wic5WKWcKLGHWebVQR10E-oml",
 "checked": "2026-11-23"
 },
 "ee.emt.mpark": {
@@ -4314,6 +5638,18 @@
 "u": "u_7ut4wS4TEKOfzdHarhKsWIv7CpppBhXV2uh87GGzJ6iwjmHlnKEaeb-KZwScompNpLsFtCCcMEa56mc5TWig",
 "checked": "2026-11-23"
 },
+"egnc.moh.bruhealth": {
+"u": "s5YR6gvOj7YpGSKDbGWBAR_0pHVNV34V0155dMx4sXO0v207qHTW5wOPbmHkijb8hktkssj2FP-tKNuw0XyP",
+"checked": "2026-11-23"
+},
+"eilda.rides.passenger": {
+"u": "IgpqPg1rksNVxnBSKhMEwry3pGofPWLdzwMJuepfG6CqHq0NuTIfDSVCAs9MiXgBtGJgK3kSMIHTFhpoodY_Fg",
+"checked": "2026-11-23"
+},
+"encicla.unique": {
+"u": "Bc5sihuZXG62db-u2Q9VO6yIhb_vHJwa5KtxdI2F1EeSn4AOAy1FCfjF2usXGGYB3GfyaiUVMsmXF3Om6aYC",
+"checked": "2026-11-23"
+},
 "enr.transit.maf": {
 "u": "5IQFGolmEZkeO7QhnHVjW2PyP2_B4bQc7gCpdnygZnxJHy--l-BQqn_p3inUWwGlkOgvFpZthTSt8dybIdiT",
 "checked": "2026-11-23"
@@ -4324,6 +5660,10 @@
 },
 "es.burgerking.android": {
 "u": "WpuVvMMd-TzppzT-wOOg7d4eYUzqXw0B8aJxRUApg5iB_iQdAgXJ_uUHIU8VNOq7sUpTR6aoDMBEIs2l90h1bHM",
+"checked": "2026-11-23"
+},
+"es.dae.cityxerpa": {
+"u": "7FNHo8uiqslLT5fm8ZLo4amDHreCzJmT758HFCKkC1aXyc4OiByj_yMz7GcQhb-4IpJWqa-nQN59tVNnY3UO",
 "checked": "2026-11-23"
 },
 "es.dia": {
@@ -4346,12 +5686,20 @@
 "u": "ImnQ23IQvxVLwsyJLZmrmsum9Oiizp_h2Y1gRo0o3yDX9zQaFHhfLG0SSzSNuKyD7Ugx95UBHMrXTJ3UZ97uAg",
 "checked": "2026-11-23"
 },
+"es.studiogenesis.innpark.innpark": {
+"u": "QNkUhljhsBduf55rV87EQI-U7mfPpDSqlhI4gQopJ31iOnqv02Dl_1Osx4w8KUT-UG1YzJi-NfLJ3vAkrRsB",
+"checked": "2026-11-23"
+},
 "es.tacobell.app": {
 "u": "q-9IaxYeqs2-j7NpjQXGbS5U5gnvw2ZgeUzXc78KQpjaDjYZ8XMh3FEZ1uq06b0aGKTP9Ll_6gjg8NH0L2OXhA",
 "checked": "2026-11-23"
 },
 "eu.infobus.app": {
 "u": "rF7IfJd2X-2gglgR6PCWpLcBCQv1dQaJ00yfisfguiwGtkN4b13UIZrXEJyJAHvnmiIH1Pho03HMXRUSATsXD7s",
+"checked": "2026-11-23"
+},
+"eu.innovaapps.tpark.ro": {
+"u": "mUQ1WGCN8N0JDGwUe8UiVPKn1I0MoozZr9fQSXZc9fwxPLgxu3KtwwK5yOLrETWRV3wjdv-Ndk345f_ApI-M8w",
 "checked": "2026-11-23"
 },
 "eu.iryo.app.b2c": {
@@ -4394,6 +5742,10 @@
 "u": "rofD_szY2fV5Ki6y8nNfrn7be4I18Wjc3nEmqA0IJvg7RkNFlhmWpUjXvqAIuUsM8qKTOMKeeCiDbwR-2fJL",
 "checked": "2026-11-23"
 },
+"fi.twentyfourrent.app": {
+"u": "1nC-TV6CZ1BWEhMGUWc3DdkSa__g_cUTn7Fae1nGrKI437Qvp87NDCxoaZOa8u8Ht_KzUCT1s8itGPyfMbNdeA",
+"checked": "2026-11-23"
+},
 "fi.vr.mobile.app": {
 "u": "jNw0W5FDCuvynDwXvxIesLseuXX8llF9pjFxFEGU8ywTJg1s8SsJrtUNhMd-dibXcbLDpcyK7afMWfodh2izqQ",
 "checked": "2026-11-23"
@@ -4410,12 +5762,20 @@
 "u": "xJbvtgvstmjHeS0t2fzPjgi-aMG52V7t6wSrXI72fcxdJKtviOljm_xGoX3x5DITTLzVBChKdwr4B8EU8Hbw",
 "checked": "2026-11-23"
 },
+"fr.airweb.bermudes": {
+"u": "R8T1Q1YjpGCYrN4qC8UVcanwG-0y4gid_eb2tOWcD4AmsVgXCxXDa-LZICYo2-827F3AnuGqbvmpNqYVJQDKIw",
+"checked": "2026-11-23"
+},
 "fr.airweb.guyane": {
 "u": "0Ji3akox2RXfD8aEEnLSszepRRSWr9jcNiIxiYyrLTOmwqNC_nrAxze58h3m7ErwuccAzpI_ScGwbKPWMNZlPg",
 "checked": "2026-11-23"
 },
 "fr.airweb.rabat": {
 "u": "pLqW3mbCeFd7d9LHEV-zrk9_anVP805q53BuKsw8GHIPqrwbuAzMQ8E2KwIRS_KFBl3n7WUymirDmkE56zGX",
+"checked": "2026-11-23"
+},
+"fr.cityway.android.st2n": {
+"u": "azV4xUpkDDHUIqk3_V_gkdEf2qCEEyjYJUUjIYgNfFfxgN42nfst1IxcWPkGeiazgLXfKcmbtlFrGjlJrVg6eoY",
 "checked": "2026-11-23"
 },
 "fr.cityway.android_v2.carjaune": {
@@ -4438,6 +5798,14 @@
 "u": "Re6Wdbe1MxCFvLbSmtr-J202tk969QcSFkdO3hGiQMmda1bUYpZFiAo5qLBirs3eLpVPWMKa6uBNL0mxq-gNiA",
 "checked": "2026-11-23"
 },
+"fr.sirel976.garicomayotte": {
+"u": "67_P4l0AJVfT_gphDs5Ozl9t7yGlwYqPB7U4rpGR645JRY0veZHv8sV4us--cnqwnufI6k9MuXprlEbSoiDx",
+"checked": "2026-11-23"
+},
+"fr.tagpay.mwallet.app.holo": {
+"u": "Hpjx-B-EL2J-TPsjS1OHklQlYIa6qM-2MB0-iyhBysqvkNPto1ziCnkC4IfKorClc7MkeiEEUuwnlDc3q-XUxUo",
+"checked": "2026-11-23"
+},
 "fr.taxisg7.grandpublic": {
 "u": "qk632rlJ2S1StYj-1ZOMfEu-XyxvEQzveF2lo0KDYSXG1v4Yvr8PB4QoAXjTFsdQqrZ8VmGvpVofPcBRzZoW",
 "checked": "2026-11-23"
@@ -4450,12 +5818,32 @@
 "u": "Q1raJ6tc4IqM1Snf_tCe5MuMPS5QfMOoMfreMy-c1eUyVgf_cossV72a33tx1o-HQWJN6GLG0JPkptM4yG4kUQ",
 "checked": "2026-11-23"
 },
+"gamride.taxi.gambia.passenger": {
+"u": "vg0qGdtPT31LjJCaMm-xKWmjN0vnHYuJFAAVTwCc4nPDHs7tcSdK41KpLwJO-wXzEJcH0iYm0uqbVZklpocK",
+"checked": "2026-11-23"
+},
+"ge.bog.mobilebank": {
+"u": "AtN15ZgWgGdq4lvuhBTehpsFKg_CK77x3aQ-Gp4QkFh4JqrsrPHP_pUMZHMX_6qd2LAkJuGJAmk8TfYI6t0lfQ",
+"checked": "2026-11-23"
+},
 "ge.gov.nea.mobileweather": {
 "u": "9VZFj8DTxS8gyiNbITDb5u8n56mUmznhMn7ldvOVeLwIBoofVb-tEU5AFDMy-hcNlKoEPxVpFjs14QdLEWfp",
 "checked": "2026-11-23"
 },
+"ge.msda.parking": {
+"u": "o7QpMaW_H3U5Umga3j4JTR2QHJZ3cCDzrTM5NHc7hrb4fURDe9rsrkQ6RyPc1lPTwL_SjN9_b7dpPS1RtT2-xJw",
+"checked": "2026-11-23"
+},
 "getrentacar.app": {
 "u": "-JzXPrlRlKICyDbsGftqbAbuTq1ewWY6JSEiyajBP1j-urpwbLG3Qu24TY3BzFLiKOlg6rv8_eoKp3yuN5pvMg",
+"checked": "2026-11-23"
+},
+"gg.donkeydelivers": {
+"u": "OJWcfz5MAEPv2hHB04qQivxvuje54w8N9xB_6E55v486KLI0vbGg8z7QSv7-652qix9J-HClEsFX2isIlW1QVg",
+"checked": "2026-11-23"
+},
+"gg.food.app": {
+"u": "SPc-aveCLCXlbs5HQhWyv1nfFYizwcGh8OyZpTo5Y4LJCekXNaNLQdkDmh099NNaMYphbdeAByYPeAxYChsopQ",
 "checked": "2026-11-23"
 },
 "gis.android.map": {
@@ -4506,6 +5894,10 @@
 "u": "alnUdgSV0KT8J-PCwNl8j0yLY1pOnjSpBC_QTTH6UHXq1octDAiPqPtIdolWuMNJAIFrvae67U1jeS8bLMTj",
 "checked": "2026-11-23"
 },
+"gr.citizen.pass": {
+"u": "BHdLh0-ANpySk7nLsBZeJwxYnF7xHuTZqmkImxYbg5k6T7ZAY9R09TyFXZcDue8-QdkY--G8w1vT47FVcdGOEWs",
+"checked": "2026-11-23"
+},
 "gr.citybus.urbantransit.irakleio": {
 "u": "8_dEqWVsDU_-6iWBeO8VT9tjjk4HPCCtBCpWV00Km7gOMpQlIbpHeDRJS1B35FTTM0xpn7MpkCjGH6abQnGY",
 "checked": "2026-11-23"
@@ -4519,6 +5911,10 @@
 "checked": "2026-11-23"
 },
 "gr.noveltech.cityguide.motivate": {
+"checked": "2026-11-23"
+},
+"gr.oasa.athenago.user": {
+"u": "AHGRRFPAFH9_cKlx7z03j2gFhX4ilBK7dwIZEwRKxLRp2Tg2csyEEsgxso9ilh35MVxs1JDq1bAPi4Z3YeJHOw",
 "checked": "2026-11-23"
 },
 "group.flowbird.monaco": {
@@ -4541,6 +5937,14 @@
 "u": "uqwdMKsKt1yOJJyqOuyF8Y5my_WjkXzavwT7aA4qW-Mykjy30mIkS5NQui7If9cz9X25jqU_37HbniWi2F8hiQ",
 "checked": "2026-11-23"
 },
+"hk.alipay.wallet": {
+"u": "bRamU_lJbbKfSEt098owmWsDJH3HhZn9e7g1qZI6nuJzaYD7kjzb0TLAw7RrVU65u9PgmrMAl9eceikxVRIv_g",
+"checked": "2026-11-23"
+},
+"hk.com.hsbc.paymefromhsbc": {
+"u": "Kj0p2reQRq6-2yUkRjSJqtq-0twPv_y1FVeSS5kopfdcnHvW2Fj10iHd5Ea5h8c6vmSvE_3KKDnFSSlGox_clg",
+"checked": "2026-11-23"
+},
 "hk.gov.immd.gohk": {
 "u": "exS8ndYuYB6hmg3M1zrYCiNmc6ZF5VfppoX7ikeQT1rCNOsp8jakkwlpdF525PcifybFAxs11AVLzGJAEMzDjg",
 "checked": "2026-11-23"
@@ -4551,6 +5955,10 @@
 },
 "hko.MyObservatory_v1_0": {
 "u": "Fvp7BdDnGAk6W8YC_vngzpoAeBs5-WJ-vpisjf1fJwlYgenlvdCdCox6w5v-ftbaOGjHZE2o1ITn1xdC3gLH19c",
+"checked": "2026-11-23"
+},
+"hktd.flowbirdapp.com": {
+"u": "qq9UqfL_JgckZkG8Uv71AgaVSHtvvVRuf8otuVDV-nSPMjSGt2wBZtH1drrvGbC4wp2nIQz1FABmqoUPPbZwpbA",
 "checked": "2026-11-23"
 },
 "hr.com.arriva.arrivacroatia": {
@@ -4595,6 +6003,10 @@
 },
 "hu.webvalto.bkkfutar": {
 "u": "nrHeY5dpQ6Q_dxsNCQBKt0DhVnsoAgnWQI4E8bZdu_FnkoXZaG3YekPBWh2MMfMgFvQL2-RP0IFWLxmL0KENHA",
+"checked": "2026-11-23"
+},
+"hubbir.taxi.libya.passenger": {
+"u": "3vW0d3U_i2R-MqwI-8vh6RATZ4LbCEGe2AAFzd7WDYgRQQEGNpFXaJhbDnKT-rWr_Ech2EidrW80NC9kC2uQBg",
 "checked": "2026-11-23"
 },
 "hzs.sk.hzs": {
@@ -4645,6 +6057,10 @@
 "u": "XPdC40rgVImxYhcr_ge7Pt35CU2ohqO3vad75e87qthJ3NqEpSQuNZEnoefYk4X5FHgV2nwzprBrkq8onD6TIAY",
 "checked": "2026-11-23"
 },
+"in.mobility.cumta": {
+"u": "5hLulyBM_ALjFiEuclbS5QFf2NMt3PTLetg25tslPETiBYdlZLSW3RQ9yoBgesTeX-gDJe5P2vNuw82ikXLPFw",
+"checked": "2026-11-23"
+},
 "in.redbus.android": {
 "u": "43E5nFgmkuKssO6qMp8RVnhQFDKVUWiRj4onvTASAFV38f7UI1ywQ0xYRhq4CLVc2sWf8Glm8GRS5n4lj-aFyIg",
 "checked": "2026-11-23"
@@ -4669,12 +6085,24 @@
 "u": "jQjcul_LKQuBCiQJtniKflzvc5kjolaGaDwEs_YtmvvoSyxqo8LDwY1LyblHVmtpydfTgAwnoQ8CaLV1vLPYFA",
 "checked": "2026-11-23"
 },
+"io.glorytech.grall": {
+"u": "yCJl_uq8vh7T1cRRpt7tt2CbJ6LLJaJpGQW91GxAsaObOQX9GAgLcYGY85kY596icV7WNKGxsqOEAEAaQfmZ",
+"checked": "2026-11-23"
+},
+"io.ionic.dobra.digital": {
+"u": "6pHej8Rk6kwi57zhWlNb-8O3EYbbmPrMmpnq5YKT6BhO7gidjJHTgqCXbFVGQWuBe62qb8IiQX5Oo15xS6kkU4Y",
+"checked": "2026-11-23"
+},
 "io.movmint.sanddollar": {
 "u": "nj0KfdowTU9u_TQvXz8jyZSnA9yVHz7cjjlcyyxogVJQMhpuZzbZn_ThKX1AIPcuvZTCizHVQHUYwyDuXQGnjg",
 "checked": "2026-11-23"
 },
 "io.mvlchain.tada": {
 "u": "9eg7Wj6vAEq6pc6dR5hPdeWT50Xcw5-gRCvUa2KqltdoKyxCRfgXndwAfEmYzZ0SK93un1kR7_d35o-uXZlJ",
+"checked": "2026-11-23"
+},
+"io.ngage.jersey": {
+"u": "VIUOJhKwN2ppNu9bMoXb3GUm_G6WipVz5fYNipG9QnsPsM7FGy3hG8HXHV0qUxPLqe5KqcxJ1JEABbCZ4TU69Q",
 "checked": "2026-11-23"
 },
 "io.sert.apparquear": {
@@ -4691,6 +6119,10 @@
 },
 "io.wenture.elron": {
 "u": "0VwGrWJuPfY7lMwqypY1plB_eD-aiIsJB-ppCmACOSYgOwTL8GSOJeWx_xdvtOUtJ1iM9ZgZVnh2zYr4r9sv",
+"checked": "2026-11-23"
+},
+"iq.com.amin.karbala.client": {
+"u": "1xJcZZ6Bw-nVBKthScpOqQuU74CHobsQi8xxdCJ0U9kGqoarivphlHqw_0YHy8ndpw0ggVGIa4ENF7yC8N_F5g",
 "checked": "2026-11-23"
 },
 "ir.alibaba": {
@@ -4718,6 +6150,10 @@
 },
 "is.stokkur.zidane.android": {
 "u": "USlfyHq0xqZr15CrhDiPZVxTvHR8F36_kjarJ2Ox0qvvV9WOai4sTR6gaUJXDhh3_un2Gz5v8DKdMWaLFWQwkw",
+"checked": "2026-11-23"
+},
+"island.go.rideshare.carpool.passenger": {
+"u": "Yw-nPvmKeLlCO6k-P5zKjeYHoZSwBidJeCxPcm3IM3yvEcwNhj7qF4hlsM_rmdDdxrj3nHM48TOf-vBwYMzfLdc",
 "checked": "2026-11-23"
 },
 "isleofman.rider": {
@@ -4808,6 +6244,10 @@
 "u": "pOcQhzHOOq-h_wTpZ8pyiJTEeqXVu_m46HBoWCreIgvp1K1piAJ9ABMcSooIBped3gmk1rw0dAoZ34xYXL2MOg",
 "checked": "2026-11-23"
 },
+"jp.co.toyota.rent.app.android": {
+"u": "5SK46YKCpiazk3fFlc8NABDbHaF-6XlOJY8-KMjq9tO5Zyq5vsSncJmwO9JO53gnplrrSEO_JiXpczk6ILmG",
+"checked": "2026-11-23"
+},
 "jp.co.yamaha.omotenashiguide": {
 "u": "-8atpwwrmSv_d-6nq5Ggc4_v59MGy9Y_CZeGwwOPxfIgnM8Mcp1QyKD_Mwteq5vRcwv7BI_kj2jZ5qbw9Zxurl4",
 "checked": "2026-11-23"
@@ -4818,6 +6258,10 @@
 },
 "jp.go.nict.voicetra": {
 "u": "ej0pZDrOwypW1pLuOpy0CTMJWSqX-fvWGM8aZlEJL-OJmOz5lbxLG3b3ECiXuBfZ15CMPnRVDQn8i8XBXGuEgw",
+"checked": "2026-11-23"
+},
+"jp.kyoto.city.arukumachikyoto": {
+"u": "ZVUDDbWggwB6DvLQ1tCIdqL9DvHEx3h6JvuicAA6oIlAEy0Z_G4RJ_wFJQf7O61pjcLQSMHBfcfoiqbodqr3Hw",
 "checked": "2026-11-23"
 },
 "jp.naver.line.android": {
@@ -4840,6 +6284,10 @@
 "u": "qZZQ2DWUHZbcCMPsGHvwZF1WzJwcyIT1S13lAahgLjysDYK3150KRvT4Bu4IUP9DcdVoxDNwTGsuO3bnvJPfuQ",
 "checked": "2026-11-23"
 },
+"kazakhstan.travel": {
+"u": "ISk7np5px6eGHSZ1POc2ME61UO_eXzZouZqY5aja-GKTzrRymzKSxa8CRe3AxvmxmxL-zrp8Gq3Ejic9aIy2EQ",
+"checked": "2026-11-23"
+},
 "ke.co.ma3wise": {
 "u": "wH3dqfY21G_vZTJCK0JAlz5UilHYGn8sMtPryTi6UOOy9YNgV7Ct2ky7ex218Dx7rpykH3_t-CcSd2-hVu6gXw",
 "checked": "2026-11-23"
@@ -4850,6 +6298,14 @@
 },
 "kentkart.mobile.antalyakart": {
 "u": "t998HIqfTYyJCBU9a9Uv746cRITbvNYPnn6oN5s0hGyM6yFsnXV70q-_63C7avL6LpYBsREqraAzAnxHI7VBhGM",
+"checked": "2026-11-23"
+},
+"kg.cdt.townsman": {
+"u": "szROV6sHNcOOMBWkVpKvAdiiaX4t1XGPeapXqV_hVWy0CSMfE0ybPXY9iIT9P2w0Z6_dWs3ENQENf68CfUT5-Q",
+"checked": "2026-11-23"
+},
+"kg.railway.ticket": {
+"u": "ywgPvxyuJuSYAisSb03HO0ON4DkKtUI_llx1G5TMv32pj1iYfO3G4QP3rf7RSlqR-RuW_8VRLhyjn-5EF9hT",
 "checked": "2026-11-23"
 },
 "kh.com.passapp.passenger": {
@@ -4868,6 +6324,10 @@
 "u": "r6Ptp8a0z_PXEEA0NOt4n13x86MLnznCYvGoo9leoDA87XMxjx5cN2KtMeWLvGb5hFJP0QaOMGfCSyQxPQqL3Q",
 "checked": "2026-11-23"
 },
+"km.wakati.app.customer": {
+"u": "SauAMIEG7Z0mdMrKxA2aJqoMCWXkUbM3Xqq0dIeTUCNkq_J0c9IATuNcb9afo94tkHldZggqR5bdkiXANha_pw",
+"checked": "2026-11-23"
+},
 "kn.eborder.app": {
 "u": "5xiU_daANtMgVf_rYBf2OhAWIGcEPVKnG_jbQMgRQNvZ5g64-RI7ETCdUXvIeF0cyJ_2GRdMKlzG-pnMMnl17W4",
 "checked": "2026-11-23"
@@ -4882,6 +6342,10 @@
 },
 "kr.co.waug.waug": {
 "u": "Jx6RGuTzt-SQrSgPT-Kc9R1TSggI5fQTTyGhmdmtxod-uA4Nzc9_uKrkXuawryCWXghNaLGJcoqRhw6nBWtQkow",
+"checked": "2026-11-23"
+},
+"kr.go.keta": {
+"u": "m13ayKNGrlN56maUcsv1OCdXE71O_5Fp2ej_XTrT9KyXYP6OYuQ3Ww8FD7KvMxtqu3A68SYf37LpB0bVSQov",
 "checked": "2026-11-23"
 },
 "kr.or.klid.newengsafekorea2025": {
@@ -4900,8 +6364,24 @@
 "u": "ti_W-OfALtIfKWmT21GljHO7KH1TAl6mLXS13uVEJxBritDcjz7-i5mqMRSaBueV4XLkj9vd6t_bfb2eH1ywhg",
 "checked": "2026-11-23"
 },
+"kw.gov.visitkuwait": {
+"u": "RvZmA1Wb8K3Hrz4ab8ew4VAZQsCip9GkT4SS3E2LxNMUvmg-pDLKTjDP9uduKFj98mXPI7YaKV7IdAaXNT_jsA",
+"checked": "2026-11-23"
+},
+"kwik.rides.zambia.taxi.passenger": {
+"u": "5URSA8UYLWLUAFtmYyJYMDkNAAWX7Ew55DSZxfAZWMy_lIdLKecwsPtnyRmrHU-sgShfvaiNKWad-cWc6Zhb",
+"checked": "2026-11-23"
+},
+"ky.acorn.caymangoodtaste": {
+"u": "GcgyN76P7rwBSvjjwNbpCAD51sBYqTkdTKMV7akiX64FYmOgFNCgkmcekzrbMs3grXzJAk5AqYA5ZfP1idBTVg",
+"checked": "2026-11-23"
+},
 "ky.bento.app": {
 "u": "f1qe8NN2ZA00htuaS8cMn9GlOO-a_aoThNdUNlUfZgwSwIP_-be0MIOFxhcl-xoeudCle7w8JuDXWi-pybPkog",
+"checked": "2026-11-23"
+},
+"ky.cig.conservecayman": {
+"u": "x2G800-pZiRhcjwYmGIDykH0v3tRtwd-mXPETlpZGd8mcbcM7aRPL01FRvv8xFNHm0-PRa8X0eo2jL4pRPmD",
 "checked": "2026-11-23"
 },
 "ky.cigo": {
@@ -4936,6 +6416,22 @@
 "u": "MG5wYG47re5iOEfz-lDaQClReU9gSotT0duQgrcCOkld-o__bthva9NBtZPQc0B6OpRiHa03DAo1ER3WQIaA4Q",
 "checked": "2026-11-23"
 },
+"la.bcel.ezykip": {
+"u": "Ld7V8X2XJliQn5TCTM8HeUZm9VDIeU8g7IOYIuCyup55WHXKofWOmh84v-QQOIMWyiH2w89XkNRGK5LVREdO",
+"checked": "2026-11-23"
+},
+"li.liebike": {
+"u": "t-MMc_CGU5VofpivFC5d5f8KoMiJnujWwhiXTRmqQ-XluBN5FNfsVOWc5VilrjL4EwJrgTTAnXkjAAT0Ao7O",
+"checked": "2026-11-23"
+},
+"li.listory.app": {
+"u": "29EOP5sV-C1Cn-kYkc5S8FSHobp9Sw9jAuDDxv8GiktI3QmDwQp4OTWO1Bz0uEEuMMzKqsUmD21KWOJfKSvcNA",
+"checked": "2026-11-23"
+},
+"lk.eseat.app": {
+"u": "rJ_WrDBBhDGCl49pQQPBIOeDdqiWloBXuzhr83EMaaMlYC0E8-wnOrp-M3UswDJscJTa3f4B4b_yo0aIpU081oo",
+"checked": "2026-11-23"
+},
 "lk.gov.suwasariya.ambulance1990": {
 "u": "BNSzh-3pFEacwwKONmv4vt3u9pW5qVIU29zSJmOAnidRCPs5k7WxQ82Hb6zaSodoOqmn1mVM9OlDKlj1s6gHTA",
 "checked": "2026-11-23"
@@ -4964,8 +6460,16 @@
 "u": "oiWF9ixcl5csH_Tdmu6MHOJ9tq0wPu-_-aQ-AA-2_XBBL0EvpDmRevuUqQ3bji7hSuaz2rkeCbe347Prw7jdedk",
 "checked": "2026-11-23"
 },
+"lu.vde": {
+"u": "664DTKHEpSJhaP4_4jkNeNvGnNGdIdRzEwkHorZgTX8pgGeIUmVRpT2SiG-4n7B_gx0xfUwm19wFHAtGEZtO_w",
+"checked": "2026-11-23"
+},
 "lu.vdl": {
 "u": "cfQRPlX9JE4K3ctI7Ip-aLXglAfFYV8_iewLxhG-u4xzVxrZ9afzcy9DsZqWS3weosQ2bkJAziyDv95SGuJW",
+"checked": "2026-11-23"
+},
+"lv.citadele.mobile": {
+"u": "X2jRjQ73U9FzeCSHC-81YOzd6LtspW6EUXWxF9-DvN8bhKY3ZB4ocLIBirFBx24duyOGZtY_KBYap9Xb0HLV",
 "checked": "2026-11-23"
 },
 "lv.latvija.p112": {
@@ -4994,6 +6498,14 @@
 },
 "marlon.mobilefor_4411": {
 "u": "xL_Uz8Ip8MsUaNhPmaoo0Z5kAWtJkNm_LrzxMS6JMhix3Xwc1V1VsrXyjoRkoSmLmUryUm8gUIjPWF3SRbk4dw",
+"checked": "2026-11-23"
+},
+"mc.gouv.yourmonaco": {
+"u": "Fz3ToYqCnvRWXAfNpTKk98L1L4BCHBQnLqaAkNpKUTnBSfB4rql-wOzGZCLZx8hWpWhwid-wpYWstJw2wnO25A",
+"checked": "2026-11-23"
+},
+"md.oneonetwo.oneonetwomd": {
+"u": "6osjjuE40cOhkm3JWZD6Mh7Nolobgy0ZJrEMVSxBex0QBA0fk6ci5bHLRm-LaxbUP3oQsdipOhHIYjtwC_kz5w",
 "checked": "2026-11-23"
 },
 "me.com.easytaxi": {
@@ -5036,8 +6548,28 @@
 "u": "2xZm7_PwYeRWRX_FrqNVN3tD7ydABjSvvQGCKNOGeZEp3qRdI5pUhbK3zxX9VzwaWsn-4rDuKaqZ7uWQYwHF1w",
 "checked": "2026-11-23"
 },
+"mk.parking": {
+"u": "PgaGAZ-pen-Gd4-jKKew983VS6iMnW6darU9K_GUt9wX24__WiAIYzByffvl6glOCJejq5B61tvjuwWnbLWXwo0",
+"checked": "2026-11-23"
+},
 "ml.online.passenger": {
 "u": "lYiqHBjNXgYEz7d_kILu1MNUFpB01IoFNQuObcaabZJTSCyciRf9v4v3M_aNlm7YlJsAbkGrkRYkYBBJ5zDt1w",
+"checked": "2026-11-23"
+},
+"mm.com.wavemoney.wavepay": {
+"u": "uxB0rAW_ij7_WrhnBp2HGjE9h0sX10ZPTi9CNyxKMfUoiSzNO2vjwubGShVRWozYfGuJc_4g5ZN5weYOeUiSQOM",
+"checked": "2026-11-23"
+},
+"mm.gov.baladiyeti": {
+"u": "FNXU48HeaHL9SPmeWFSlxJQoXjjxIg7izrzaCRgAu4GGCM1WmHcpXY7RuQmy5X7sdQoYo_I1gOVm95UTlwcH",
+"checked": "2026-11-23"
+},
+"mn.mezorn.ubeats.customer": {
+"u": "0_Xq9xqH7tdeSi4Ff_yU7ChwBIvJqtH4TFAaCSHNa61VKV0Jj4bF0ldr7Mig1MmQBcz7lLgqgYrMd4g4R2UBCA",
+"checked": "2026-11-23"
+},
+"mn.uscc.umoney": {
+"u": "AEACHV8OOPtyrbeHOrWYbtPPag-iI6fLM3t8UJ6aDGOvERkifzk80oIOj-OWd73KnFA6KwJ0A7HGBcdhp6V1DQ",
 "checked": "2026-11-23"
 },
 "mo.gov.dsat.bis": {
@@ -5064,6 +6596,10 @@
 "u": "_-InU6KcxOyXzxzQyATCY1HoVwvi5b4Vv4zS5T6zJpn5Zz7pHGhD0pFEkFf4MFLLNXIL-KXdh3UfEhO4AC1pvw",
 "checked": "2026-11-23"
 },
+"mobi.foo.benefit": {
+"u": "V8uxcwjAf5IndenbNjWL9o6hUPzTq_enAx_SnurxmPy4SytifXvYXsMVoQlC-LITDbtUe-9jgZTwKaO1A6mJYpc",
+"checked": "2026-11-23"
+},
 "moj.taxi.touchngo": {
 "u": "9VxNjJKd8kon5LkfNKhIwtxflp84EFmZYwSspLwhi_tGH1_Njucy1IfZCxTpQW0OeiAZdHR7pir_pmLW9M6f9w",
 "checked": "2026-11-23"
@@ -5072,8 +6608,20 @@
 "u": "qZiyebWpkluyt3azous2SEefmfG34ELOfJ45-ZeL7_KMzyaHaJLhk7_mSUgaExk8VjPjn4yUvtRp0EXXYk2j",
 "checked": "2026-11-23"
 },
+"moveo.GoTo": {
+"u": "Bty5fHMSSbqbITbgR6laqkwQci5Ztun-YjfUL-e-eFrApQSMzBRvn2AqNZV7Q6kLozOwG0-AluhNd0VlYatESQ",
+"checked": "2026-11-23"
+},
 "mpay.apps.kits.superapp": {
 "u": "0OZrv6aOjulgxQpsEVJzHUN_dJALEicSiXltu-TRvFYmKsnEfPOrF6zAeWRcGhfhvqE5fueMaQjik8iSthf8sGU",
+"checked": "2026-11-23"
+},
+"mr.bpm.digitalbanking.consumer": {
+"u": "c9MTuRq8ki9YVCTbYot3lxY62Sp0YvnFPQ9jwiUREfCgmtZT4WfgCdf7dOuFGKOyaCQ3kl_nCAkluit8-4d5Nkc",
+"checked": "2026-11-23"
+},
+"mt.gov.eventsingozo": {
+"u": "CJbL6GFbFNwB3MDac91caCZK6TtgTnKE8d0tOk8O6DVpujzDJQ2Mw7WSsJLcaz5ln8sawa2Ha05YQoAa2BtCVg",
 "checked": "2026-11-23"
 },
 "mt.gov.my112": {
@@ -5082,6 +6630,10 @@
 },
 "mtnft.momo.consumer": {
 "u": "opQUKWOnbiOdFx5nzV60TZvwSBrBLhdE_px2_cN47FmFOFfyeWz_sIn9X8Frj408MYk17R4FGUdjrtjzz00doBk",
+"checked": "2026-11-23"
+},
+"mu.mt.trafficwatch": {
+"u": "wOkgUk-Tvi_cKuVg84uObmTzNeXXcJSMlLH4noH1crjMR2XifUM1plrjXnQobwe-x4op3iNr74hBS4IkUEuR",
 "checked": "2026-11-23"
 },
 "mv.com.bml.swipe": {
@@ -5100,8 +6652,28 @@
 "u": "HGSHKufZ2yVYqhvPJDUk9ro4CkbEa_-rkyxrfazmJWAIEzCWjNq5WHsh6916cYU68G6CWItLZXUD18dQ9Y7zuw",
 "checked": "2026-11-23"
 },
+"my.com.lits.flexiparking2": {
+"u": "gR6RzJipHu88K718U-HQB6RFLZN4let6THjxXPv3RGkgJZ1X2a93GArprbdeaYkLmKwzUIAKc9ivznf0ns18",
+"checked": "2026-11-23"
+},
+"my.com.myboost": {
+"u": "eH3JLY5Al63cZ3-OGvJRaLl4VYB3MxSphsuy372rSEtzBr7RqqeWC8cfASSZfzBfvyDXHYWDqMga5_SEH-alCbA",
+"checked": "2026-11-23"
+},
 "my.com.tngdigital.ewallet": {
 "u": "1VCK1Y4OepXSWXxikNP_gHI7NCPrx8uT8Z4e3nffpaLStea3AEc6Rv5K_IN0L6e973RIq1EJN29W1Q2K2NZkVA",
+"checked": "2026-11-23"
+},
+"my.gocar.app": {
+"u": "cE-0uRDYyPH4ktR-XRe_OMulccwPngapGNc4G2sFwd3D9lPL68TquXOPGydfZNA7QGU9netwlOzAFXIgI3cdJjo",
+"checked": "2026-11-23"
+},
+"my.gov.onegovappstore.mydims": {
+"u": "6y-nlJpt-reuHoEMzDJmzRAcf18J_qx5ZTQcHnd1CI4wxX0KfWXS2FZcDf7XXZYB0mbBIJDhagrbqydn9EVdUg",
+"checked": "2026-11-23"
+},
+"my.gov.onegovappstore.niise": {
+"u": "wZTf4itjyUvHm-_wpAKFAcl0Hf1p0BUtGkjdZFQn8ZWVMGdQWdF-uSOVmn6Z8Gy5vD4gEW8dNAWr3gRqo2qO",
 "checked": "2026-11-23"
 },
 "my.gov.onegovappstore.saveme999": {
@@ -5139,6 +6711,10 @@
 "u": "oynrl-CPadmiUoAh4tWftopFVF6U5C9U39UWuo-8cHMBNY5z9vB7JGGyJZkxwMlbN6ypgBQhe9cU_gRmbAO2",
 "checked": "2026-11-23"
 },
+"net.fusio.meteireann": {
+"u": "q_JvTYzNu3zTw7lXX7c5tB_12jjVL0KwIiwLMLc7SL6Xct1yiLjsIQQ6wSkgGKamHc-6owbK0BgGCrZRT9GNfw",
+"checked": "2026-11-23"
+},
 "net.iqpai.turunjoukkoliikenne": {
 "u": "bBkT0BiysTulpb0TgDnKYYnOxmjQSH5skHEskHMzs0myQAtrey3QrIQwFYmxXCspq9mB6P7AvLVg9Od9iK-8",
 "checked": "2026-11-23"
@@ -5157,6 +6733,10 @@
 },
 "net.metro.taprider": {
 "u": "uRyNW2fnjgLN1-FzbfJDNnF5zgPbFwNGf3z6-gqLNaFDseRF70lZTjPG4t_P37QksWhk4LmeyQ3jQ_i9B-lVVA",
+"checked": "2026-11-23"
+},
+"net.one97.paytm": {
+"u": "WDGsMRuVENnZPEpV4DEaXw12qtMY3em85xpmZqcXzeh0iT_eXFtAU9VUj-Z7xNQQd5DMqrkKSs9D0qbI1rlt",
 "checked": "2026-11-23"
 },
 "net.osmand": {
@@ -5201,6 +6781,10 @@
 },
 "net.txidigital.izzymove": {
 "u": "Xwzb_sVRAHqVLSBR6G4LBCEjHHxEIykbRQwV_MeJ6gtF_UJ598EZbMuE5RSFznbRg478WF4LVCt5-P-WMcnufA",
+"checked": "2026-11-23"
+},
+"ni.telefonica.mimovistar": {
+"u": "_vY_CwuC5tGzPX8wgQM1QPF_25YOfKV2tFfpYhQui3E5PMBWjS8JRG8AEI9IWfS3Z2nuekF8OGzUq1yC3nyeVg",
 "checked": "2026-11-23"
 },
 "nl.curdivemap": {
@@ -5279,6 +6863,10 @@
 "u": "0PTAFZ5D98MQwWJ8SBHxBezTXY_6hJauFG7VxYmH7ZyAPQkq9zKpcK2IEJ5rHRwGO17J7wftWWEzIyXEj4_NPuE",
 "checked": "2026-11-23"
 },
+"no.nve.regobs4": {
+"u": "YeewMpIuPKP-EFz8trPNfY2PNBcmaWY07gglH8FR2kYT2JbGW_GtPh8v_u0T3Eb20ABN5BZPGpcu0DE7UMXexw",
+"checked": "2026-11-23"
+},
 "no.ruter.reise": {
 "u": "Gh10oSuvvUa7EI2qJv2c4SPKL7kro0qDAo2mQNGFiBzYTMyD7WN2NP3NjJGukszuxfRKVXomVzhjnSbYUqnugQ",
 "checked": "2026-11-23"
@@ -5289,6 +6877,10 @@
 },
 "no.trfylke.svipper.production": {
 "u": "O7SvMiYT6YxrcvtNk2H0B-ymSL379kAm2EqQuHguwAvemp1u2qE0YgoNJ_5d650q6dzf9DdbhFh_EKd4HI4A",
+"checked": "2026-11-23"
+},
+"no.urbaninfrastructure.bysykkel": {
+"u": "88qJe1mVUNzcKiAngsPRj6XfrQUMlLkuDp7KX2-kd1NXYinL6g0gOEVjz0BE1695bTp1NrJH9pn77jPLlyLH",
 "checked": "2026-11-23"
 },
 "no.wtw.visitoslo.oslopass.android": {
@@ -5359,6 +6951,14 @@
 "u": "hEhHw6Tcp9DRCLRKbs1fsY1UJsfVcvqnN3pvufj_FbR9xhKOML1_-KV7WGmZ-FF9unz6k8FFf9raPNxBKwGvEtY",
 "checked": "2026-11-23"
 },
+"om.thawani.thawaniApp": {
+"u": "_jtlY0hrHCsYroKiP3Z2o3b-3P5OT81fbPuvrkz1GLSzTluGD4eEZOhu7Nco3OA17bpZw-nJWughznhpcTDmsA",
+"checked": "2026-11-23"
+},
+"org.android.actc": {
+"u": "tpQMaVK_BH1pNjq5Dkh5VGGF04KXcxQFWFOWwsq1bN4NFcKq7EC5n7Dr89YP9NMfyESnxNzljep32IxZrdGaPNA",
+"checked": "2026-11-23"
+},
 "org.birthrightarmenia.ayolingo": {
 "u": "qZpTq-ou5Nf6fokp7m_rwGHwB3VYAc4zT0kBvf_18jc-5dMVzSYS9WYv_bpKEZ7PfnzxWcei0-YjeZOxZGaN-U8",
 "checked": "2026-11-23"
@@ -5367,12 +6967,20 @@
 "u": "7XxvSU3Kzy0cfDKCPwHi3z6c8MG2HGklycjrfRR8OpujqdlV_5FbymMKSm3QNFvagNtoDcGAViKD-cEoZZPq-Q",
 "checked": "2026-11-23"
 },
+"org.cris.kmmts": {
+"u": "c4EnR6WOULPHmIvoGOaYKQ5R2VtXErS9172Y-E-8e7jJldKafIqh6PrDmei-71U0n8JuEDjcz13bQ-x07S4UTts",
+"checked": "2026-11-23"
+},
 "org.cwb": {
 "u": "0Wtlx5dpMs4-SRp-foxZmgG8dOXrqiPFW7Sxy30_ExTgCBc7YZM7PjpQJDP7TrvNiVX10CTBWphZHgpAqHNV3w",
 "checked": "2026-11-23"
 },
 "org.incredibleindia": {
 "u": "7ngxibYrI2AO9KjZPvJJjIVILEL8uTXK18NFGQwrm5mXuFuRKBPPuZNhTVl4N-ZQMdf5oi-92I7NCyDEz17YPg",
+"checked": "2026-11-23"
+},
+"org.lineacomune.firenzecard": {
+"u": "NyQv3H7Hzp6Zkx-2h4GJmJv_62AlL4htidpv_wne4jZx0Jmf7Ap8nOWvwTcP8JM_OvwDUth_siIGpJncAYEs",
 "checked": "2026-11-23"
 },
 "org.lvivavtodor.eticket": {
@@ -5397,6 +7005,10 @@
 },
 "org.nssa_sube.android": {
 "u": "MMkAzzZLM-xoMKprLQfO-MIU8qsPPzRX6PtjdeksAkGPuIUdd-UFn8Ba7XIjH2MC7jcgVmef0_cJ2QAV_qF5vw",
+"checked": "2026-11-23"
+},
+"org.rajman.neshan.traffic.tehran.navigator": {
+"u": "2W80fazjlAS0a4qUrIOgGy7BY2jJIRSXKafrbbRohkduSkFHaOgZxd9sd9pfIHibHUjAHHAo1nVEKK3ozUZX",
 "checked": "2026-11-23"
 },
 "org.rsoe.android.bm_okf_push": {
@@ -5459,6 +7071,10 @@
 "u": "niSOsYOohpunIrCFknAeSC_ge0MaEBjIj1-0VGi4kxbvAP1DlDTQ4J9e6MOkV_tfofZ_y9l78biqe5d0-LcEFw",
 "checked": "2026-11-23"
 },
+"pbsc.cyclefinder.tembici": {
+"u": "nuVkkbNR_b3FvfJixu1IaYJczJafeb06-vO60Es4GS0WfSZfIHGJBAKWx_1L5oNWRWkOl0prngo5Yw_NZlFqLg",
+"checked": "2026-11-23"
+},
 "pbsc.cyclefinder.tembicinosponsor": {
 "u": "a6RXf4wewMiDwo83OBruURWhT5fhS4rpW3TdoetPJG-LPTd6EWbAEeSvn0eMUJdXixXV_1R09Kjl5vDzh7Zzjg",
 "checked": "2026-11-23"
@@ -5479,8 +7095,24 @@
 "u": "xXU1mnCKt8wnfoxVMhTg4VlgIc35t_y2bR6dRVP238KXaHXOYSDzP9y-YNkqhXa4CCuEuffrOGXvkfopM4Raq3g",
 "checked": "2026-11-23"
 },
+"ph.oopa.app": {
+"u": "4IYjekrz4tMf0Ra43769jn8vsqWmXy0GcDBL1gcSNHLJOk8oyG5q3qqbHbYSYymp8bHTgyGNWGVatgqIWnt-",
+"checked": "2026-11-23"
+},
+"pickmeup.lesotho.maseru.taxi.cab.passenger": {
+"u": "Bd1uurBOjP5rf_gd2XOUBgaq7nZYb0KQm4JLOq-IWiqPqUSybxQvIhNZkw4The7wpedIc1eWJ-52HL8L4y2u",
+"checked": "2026-11-23"
+},
 "pk.com.telenor.phoenix": {
 "u": "NpYySXJS_VNGjzmNY8hrkyjRb9snboxwELc0WxBuRNi4YwN-lgc2cQqo57AwBUUI1Fd_sh5N1A8j28WkBAIHOw",
+"checked": "2026-11-23"
+},
+"pk.pitb.punjab.masstransit.punjab_masstransit_authority": {
+"u": "aknlgZSJHjiSWUCaVcy7I40SRB7Ea-RHiUR6mRB1vbsp2qlDi1XhauQLgmj3hpgwWRppqXLIXuIzUx_XQvmQ5g",
+"checked": "2026-11-23"
+},
+"pkg.rop": {
+"u": "v79urxe4BaYR4noIrWiLAWWlCz0JPiltCdcIh1kpoJj5zial3GJhksCGjMKu_OIPGgXlJheRKfPxeGmsRBK93g",
 "checked": "2026-11-23"
 },
 "pkp.ic.eicmobile": {
@@ -5522,6 +7154,10 @@
 "u": "mA2w_585DvumIMkfQMVEBevlYomQubZHKaDMNxSA_l7TD12xU_RXGu7nGyzqPv0z_ikEPz_RAA6LO_Rv0BcaHQ",
 "checked": "2026-11-23"
 },
+"prod.maasify.dakar": {
+"u": "-0ll4Uz1kIDpgXnp9ihw97SYF7ZcnyDT4JE5rXDI7kbik9_WAAAPLQtuuxxwk2g49_MkpaNDMqnPDplm5Ps51eg",
+"checked": "2026-11-23"
+},
 "product.customer.aqua": {
 "u": "i1vNmnaZYcPJuMmCzF1PL7Te1cGYO3w56rnUYWO0dQyFvkR2Ft2YoERqlDXj8_A7S8hydNNoMHUHw13SxWSPXQ",
 "checked": "2026-11-23"
@@ -5558,6 +7194,18 @@
 "u": "BX8exoaRPD7YfaJhB6BEY7TjWslZWQ6T0Pxiq9WNszCi_Rqd64heFWlieY-kRfbHd8E_apRViiIKoPit_asFo00",
 "checked": "2026-11-23"
 },
+"production.rydecust.customer": {
+"u": "CTQKANoWVJ0MwQft1EBHf1xuOaV3agyp-GqHv7HW19W4WjFEZ3L-0ZpTfdvnurtyyUQY1jzbU42SPpcssvbqY54",
+"checked": "2026-11-23"
+},
+"profico.parqin.du": {
+"u": "uFah4ubI1_9AKFeopvsLr0aEeQukTFubvsipNV17c4nSwSVkf2Z6Z2t-mQFVUFeaOPcv_JO3CSaqht70cmeD-KA",
+"checked": "2026-11-23"
+},
+"profico.splitparking": {
+"u": "pmkjT69mARxZOfiri9N32G_htxif3Hkn6igWUdKraQ4Ik8ZBvJ34Uw2VrWGuIYUV2d8p9KfUI_92IilMJlU9KQ",
+"checked": "2026-11-23"
+},
 "ps.wheels.delivery.order": {
 "u": "MHJN6CCbP5PE8qltsyqpxQrYSVY5uDx57DWMPLhSIDFE52kUY5nxHu-cxsuB7MpfYGlUY3oVqJKmC2QouSM8kw",
 "checked": "2026-11-23"
@@ -5570,8 +7218,20 @@
 "u": "Bwq07XR-tW6iGyJpaCED3oTY4Zu-qc1GkRzTnkJXqZpQ3te2XqJOTJvsaQ0TS6_jXZ43CizckX_otqBcyPQKDA",
 "checked": "2026-11-23"
 },
+"pt.card4b.navegante": {
+"u": "3RC5Cluv4Q9d3AdVPylESnD2i074PNX2rujpkRqse0WhZetiXbGI3-eh9F4Q0tDIP5PVxsVAo7zUdN05sOLTSg",
+"checked": "2026-11-23"
+},
+"pt.carrismetropolitana.mobile": {
+"u": "5Ow4MvDTHYXbigzAfSFA31LG4ziMYFcyA3QUKzV9KYqQQnoWO4e45yfLkzDOG1oVAkycuYEP9gTNHoFGxE18cQ",
+"checked": "2026-11-23"
+},
 "pt.cp.mobiapp": {
 "u": "hIrQRkQ4EJbITN7SAtQHLUikbLpWTctZnOX2YFQplIzFQ5CUJ9VUQYGS-9onmoPtNiE8bQQ0EtTLTWfPtJEbuA",
+"checked": "2026-11-23"
+},
+"pt.emel.epark": {
+"u": "ylEaTIZVlSgNqrJJRvwzgNFXNjGviN4uV8A5mUXY-j5bhHoSNdfNkUhkVHfZEUchaF9OpNI_Wimf4VOHDgi1Wg",
 "checked": "2026-11-23"
 },
 "pt.opt.anda": {
@@ -5582,12 +7242,20 @@
 "u": "IOVHnawKe2TGqkuuVvGXL9nP7tr9lNRkr04LRGEwetxnrPyo3Ly86lndo854fmPeXZIN9fc2uueLwcMSHTkW",
 "checked": "2026-11-23"
 },
+"qa.ooredoo.omm": {
+"u": "qNWxH1Dq_OwQAyqz-v_edPb0uL7HH2IzCCij4TjRWrj5PrfWws3Tm_gkFan7NghLuqkctLCQlTGHGvcdAT_XYQ",
+"checked": "2026-11-23"
+},
 "qa.visitqatar.app": {
 "u": "ilo2YNoY6LVnBynfCs3OioH2tvgKGhlGyT0p54ZOIY7FDpQXJrzf5vBxDwjpmfC8lURsp6cJjfNZBhNMu7_wUQ",
 "checked": "2026-11-23"
 },
 "quebec.artm.chrono": {
 "u": "piGnnY2MEPdrErKeDoeTuliFzxK77Kf5PHYAfjnuGTBebGlFKRZZlsTONwp-TFVkm8-_olsv8bJsDxEmwQ5bp20",
+"checked": "2026-11-23"
+},
+"quickpick.customer.app": {
+"u": "zdeEVAA2Ekfsk1L14eyuPp0WfyzJRSeCs0ciZS1RLQLRPrZZAzoI5JdlpYzEi1V8Vrv6N3bgmi7yvArOuHGK",
 "checked": "2026-11-23"
 },
 "ride.app": {
@@ -5618,6 +7286,18 @@
 "u": "scLhPml4PbtGKNURu9ztZ_jWe9wIXE3Lq-Ai1FTh5Cp4XasoEcjdrInjEf3zVD3t-IZr30-iEGO2eVbrKMt_kA",
 "checked": "2026-11-23"
 },
+"rs.mrdonesi.mobile": {
+"u": "9U-g08pGILxlpII9d4Z1uQ95pD1GeJASBozQmYoFG5lgeAqXhtshvcuh2091E2W4C628oivPB6-ntmZG96v_RCU",
+"checked": "2026-11-23"
+},
+"rs.parkingns.nspark": {
+"u": "qWpPGNND_4s0sR6mnEuet0DgvukWts4Vk-awDt6Faqhi_fIrlEQ1DlkelfIhf6Wn-ewuOd3Hj96G8jV7wAcGXr0",
+"checked": "2026-11-23"
+},
+"ru.amigo.app": {
+"u": "B_FwNwtd1T0TzrC9hC3kvuQvW-Lpxwc7XWvD79Vs6jVrPEn0ZIGtMnMdRsH9ZGUow9ChcbfXGht1PODxzf773ZI",
+"checked": "2026-11-23"
+},
 "ru.aviasales": {
 "u": "ornI_yXx4XhTFTBhHNYUlqJ9fxtpLh_RrB-pZK2ZTk8TCnFYeyDRKeibxkQ817KDYCupAduYSKQ8SkqXgj1Us2Y",
 "checked": "2026-11-23"
@@ -5638,20 +7318,68 @@
 "u": "bMDuKEp-5H4WuPsnpU1le-5yfWm0namaDZJPPEhvTySARe2fgQBfcWuDSFhZ0A7Nx-wkrRE8UhJrD9lNMTJqpw",
 "checked": "2026-11-23"
 },
+"ru.im.parking.almaty": {
+"u": "9_cj0PerWOzJ31J7cGH2J4p5i5Kz1ZFZ125hivP4k1TohdkEZoyaZJip_-Te1XSkS6na3op_uOG2uFCyeisXmQ",
+"checked": "2026-11-23"
+},
+"ru.mosgorpass": {
+"u": "ofZ6LwFiAmG-Z9aD6PcrOYjNhDC2okJ-fslB2swEF2fZ1HGZe04-mxQM4M0KvvlCiRNPxKGvTQmQHh5XZxwEg1g",
+"checked": "2026-11-23"
+},
+"ru.mosmetro.metro": {
+"u": "QYNpFyxBjRuw5N7us-J60nxP1EviT-t9_xtbf-h8JiIrwnWdZ13SK44dxJ5uKaDP960mj4mdB6r4-_Krp-TZRQ",
+"checked": "2026-11-23"
+},
+"ru.ostrovok.android": {
+"u": "P1wsoAz5WJ-eGp5r2JfUApL0LJ8e5GruggOgujrgJePXryP-a5nzaBtj80uM05Koj1lAi363L9b7BDSP7RTfrSY",
+"checked": "2026-11-23"
+},
+"ru.ozon.app.android": {
+"u": "iZhyKvRs1otTwl4NyHzX_6GT3AUO6vBuvBQaf56VtZsDteoQ-ceNr5fwzYQjHxBISZtobnB1zVu1avuU41ParQ",
+"checked": "2026-11-23"
+},
+"ru.russpass.tourist": {
+"u": "j3mM2sJrD7Wvgdt87D4UuQgc9mmpD4DO5QPWWlthBPhxEfj234eQrB-nKB40jHg1zSJY0W-iiyIg6PEKtw-y",
+"checked": "2026-11-23"
+},
 "ru.rzd.pass": {
 "u": "XYLpxxv0oR4boIYUPw940KbGCX-KWNsCWqjEPL0QxEKhlkZqhivsJ3MY1-3z-_OArxS0pmoYzRi7DtOlIyfC",
+"checked": "2026-11-23"
+},
+"ru.sbcs.store": {
+"u": "S8qawIhNUizNNbadScXfRmH93kH7KB29KZ97yZsp53xeJxoHNguFb8YQP07bn_mRQfkXOsDPQVBxIKkTyqmM",
+"checked": "2026-11-23"
+},
+"ru.spb.iac.turportal": {
+"u": "Ro8L1NdDRDD1plsVL4ZfDxWZmLZAovihyW4JF5Qtaum_gb-xhCEQJRSLtLoXdilwlydxmvGyUk4ipsgZ6WRf",
+"checked": "2026-11-23"
+},
+"ru.sutochno_redesign": {
+"u": "ukzrNW4jfLEnr2i3pvmLfad8x_jbir-VOXL_skgO9kJDTQhf_CpEL98F5ZtIJh6trRQ7ccEbi1HTjb4M1TKESg",
 "checked": "2026-11-23"
 },
 "ru.taximaster.tmtaxicaller.id2371": {
 "u": "kV2xURfOSmfZGGxXWQUmcaizDYxPyIkAX1nhpIeB5oYVed5-wxjU162qlPO_jE8PwTBjtlCL_a9Lbd1fsT2X",
 "checked": "2026-11-23"
 },
+"ru.tcard.android": {
+"u": "D3Oawmq8JL8X9HZc7eASoNVifl3p5ZpdiODN5Rc21iN8YddrUDTE9CEctRuKIG9GM4UiVDQ2UfN1m8bH8qFrNg",
+"checked": "2026-11-23"
+},
 "ru.urentbike.app": {
 "u": "q6F8xC6l6LOIPEQ88Dp_RJu6jeCvKr-KIu5OBu0PRi4-t_q32K_5lEW33l9UuPQTSzCTXVWlYa8KHMsOYQJ_yQ",
 "checked": "2026-11-23"
 },
+"ru.vkusvill": {
+"u": "EoHxOZ98sJBy4c5qLufNSk7JuEn7nuCw3iJ2p6xp9Wnml_7kl2r_ONMQcmu49UDlziRuFwns8FXTLRBeBsIE",
+"checked": "2026-11-23"
+},
 "ru.yandex.metro": {
 "u": "PAPIXYU2hpEFt2TnIwg-aE08E5kXGCq-TBjWnOYB7TRvFTchTGwdXOh60R50P-0hnsgXgPgWtutNIRPHk6kw0Q",
+"checked": "2026-11-23"
+},
+"ru.yandex.mobile.afisha": {
+"u": "hBK3R-qW3tDFcBF_inLSxMLKCbiMho8v3C9HNzgOz5KafYz25-HTsIi8_HfHSNgMb5tVphAwbPZG4WDuuQZtsA",
 "checked": "2026-11-23"
 },
 "ru.yandex.taxi": {
@@ -5660,6 +7388,10 @@
 },
 "ru.yandex.translate": {
 "u": "ZBwt3qg56nxffMInjSlKluF1hEdd5RxzRZHKlRQB1eBHpsKnsnN54so1jpqd3cykgCieVxfNkC98xdnfORBJ",
+"checked": "2026-11-23"
+},
+"ru.yandex.travel": {
+"u": "dlGGwx1L_7XCwhPKVMHSxqenKkmkMolfDpCLPxlDfbypmFbtFKdKw40JnFC94ECcTtUMvp-k42qbvTuUB0CPeA",
 "checked": "2026-11-23"
 },
 "ru.yandex.yandexmaps": {
@@ -5672,6 +7404,18 @@
 },
 "rw.vw.communitycarsharing": {
 "u": "MPwKFOahp2o5RYN6IFG_GcQtgKx3ff7NPM0H_BFd7_k3l17CEbcv-sdhU9T8xYbFUOsyMxPcfkIXaVgzIWAo",
+"checked": "2026-11-23"
+},
+"sa.com.stcbank": {
+"u": "t62yPg0gHFyaEyZUisaJN5v1o644WGZ-yx1vqLkc8r8aKeW6y003vhg0O4rUnzsdn7yw-GBfKmF1Tf3cy-GaAn4",
+"checked": "2026-11-23"
+},
+"sa.gea.riyadhseason.main": {
+"u": "y_5w3l8DoIOysYjjeW8qtf8Y_F-hUCUGMixciE4zaUqVqPiuhistqSY5R0pyKJWk-IxKS5Ty7rr6owod8jN6",
+"checked": "2026-11-23"
+},
+"sa.gov.apps.sauditourism": {
+"u": "TUI8E-6VLIHkuZHSB0pl2FHL1PHMvr5078lelcopmH_GAUVMY8eOMm8nzt6AyTxIGLc_8qr9CTxUxtd5GWaSJnk",
 "checked": "2026-11-23"
 },
 "sa.hudhud.maps": {
@@ -5770,6 +7514,18 @@
 "u": "4ZEgK5XCH5ZwYR05IKOSISldbXGMlCY2N3qdXnpFW8L143weJcnp-KHsma9luZIyfYwz3bg7HalAwZ9dGrQhuA",
 "checked": "2026-11-23"
 },
+"sg.emsystem.eM_USR_Android_KARULIS": {
+"u": "-qTbiuXxMLjeZUEoWmRJdH41Pk6fgexC699iQoiAPbozKjQGO2RPPYtBY4zKHC-PcUSnZ3TKRgr1itL1fLxs",
+"checked": "2026-11-23"
+},
+"sg.emsystem.eM_USR_Android_TSUD": {
+"u": "X0ENfJvmGcnRRyFuAFa11VuaP-TMFQHM7h0UJeUgMZdi660pLCci8A64_EMobxxui7tSFUoOtx3x8BpNu7Ef8w",
+"checked": "2026-11-23"
+},
+"sg.getgo.booking": {
+"u": "5FcskL-alcrYDQfP3WdHNaBeuW6PEz18fO4tBKedqPfgJ_cmsyvandFKU6LP07gToh4pBBQ7ZsTJSYnhlDOuDA",
+"checked": "2026-11-23"
+},
 "sg.gov.hdb.parking": {
 "u": "EhXslO0fELIzToQv9iDYLeu83BiPoCuhm7AsTgUf14vdBDYkM1zJWnoxFW5lw6ejf6CPda247PWqZ8t03pMYDw",
 "checked": "2026-11-23"
@@ -5821,6 +7577,10 @@
 "u": "D_fqgOKgkp-kF25gakLBSJO_rakfzn9Rf4-80NNkH-Ikb-rRuQkx2LpxpejX67-yjQ2T3ScRK6MqkXA5koj5",
 "checked": "2026-11-23"
 },
+"sk.idzk": {
+"u": "Z-00pUJSdDxD9TFIjzgO0UjBn8bRmLJkTIWKT7ZbCvu53mm2fJR358Al5B4H3dj_4zwqcX-KYWlGZ65YqJMARA",
+"checked": "2026-11-23"
+},
 "sk.slovaklines.app": {
 "u": "Bl4YyFraNUlSqS7s5Cy3BGUOL9hvJTRNFLu5WXLE5SeVkGecSdKFKAvdkbmVtseJqwIHnJdCt8NVgOi6HClJdfo",
 "checked": "2026-11-23"
@@ -5833,12 +7593,32 @@
 "u": "fhmKsKomujfQ0j3V6qW5p6VToVLl-SVSij1WTEsbuSnXk2CVmKv013s201j4f9usUdUSoaTtcnDPMvSnYoeDiSQ",
 "checked": "2026-11-23"
 },
+"sl.railway.reservation": {
+"u": "04Ughp3b_JZ9UX_ECkqs1kzbfLp7NVNSpiHdaVNx189CaCt9LF1v4R8U_eqeQ3aDY-hHOhtUO0cHQLFB_gOl",
+"checked": "2026-11-23"
+},
 "sm.telecomitalia.liveinsm": {
 "u": "O_-8j72xRp7cFFgd1EonQws9MedKoEnth0oyHS1fmkD57hUGd74cWQqyodGPGvS7NslCh1eyF1ri0JpskZ65",
 "checked": "2026-11-23"
 },
 "smartrahal.passenger": {
 "u": "x97EbUqUNjnmpt7z0UXDsrqlXgXIZjA1ihgqSQXOKeaEFmWQnjDh7Hvt4DLQPYTjvBbMkgINCMkcmQF_Dy8a",
+"checked": "2026-11-23"
+},
+"sn.demdikk.reservation.ddd_reservation": {
+"u": "0gBbNUq03EsxLZobOlIx5x2l94rKAj5ZlZYsDmYquuhFVdVV3T8VuomkXCl2NPSKBI2zM4cn0PpUsOSL-toN2w",
+"checked": "2026-11-23"
+},
+"so.geeye.geeyeclient": {
+"u": "o_BYs5tB2WuCAOBRfP3XbpfdSshUVwRjWnE96eluFi7h0WbMoqzmKEbyRS7VC29cgKQT5Ml2ExOvLXFZe47-hA",
+"checked": "2026-11-23"
+},
+"socar.Socar": {
+"u": "fWe5koYXqlAq1ofSIKZnL6wgRl3B6ox1LtsxrFNXwALoegHU9TP8Jg-dbJVEB6cjqK4Lp4dBljdEIHKuE1H5-g",
+"checked": "2026-11-23"
+},
+"solutions.gochap.user": {
+"u": "OUHiXfu1-Trl8OV9H9rLq-4nZ4pBsPEIbBhGg0SeVPYDivUHYlR8Fbugs4KZ1yBPDWBAjKONosN3prO790v8TA",
 "checked": "2026-11-23"
 },
 "sorotrans.passenger": {
@@ -5853,8 +7633,20 @@
 "u": "0dyFTXdF-cJWDFM6Qi3rigtYAlCbk0aoe8gHqO9T_VPpYQs-RpmSFIXyOk6UGyYmc5zVt-t0KPqKDffkXFsTy2M",
 "checked": "2026-11-23"
 },
+"ssd.com.shilu.ana.juba.passenger": {
+"u": "TUfzW4I1t4VRTgKKHl3jQCUtjGAUXC0qfo5YKebOLe0lZ08B9LSIGjTp1CYFNCdvL5uGLrpa3mGZBVV79Bw",
+"checked": "2026-11-23"
+},
+"straus.mobile": {
+"u": "9jzR9BkgeAy0LNvB7uMngTVmlmmfu2PN3hrLGQvDHejDfGQQZjVMj7QaTEdB1YHjSEMFW-QNYW2AEV2WgXpb",
+"checked": "2026-11-23"
+},
 "stroll.guam.customer": {
 "u": "3Fo_GIaiPTaDflTblGQci87pvZi3RUzvpSYfa7dlXDEUjwVeaiKJ5MTH-5kPC0Ll5BXT-TMtFPPGIVwhxHFiT0o",
+"checked": "2026-11-23"
+},
+"t2company.mobile.multiparking": {
+"u": "1nPQjz35LwDc1Au2A90kbSDYgBjwWmUJCvQf8gmG_iYufmC8s6iqfa5l3Y2aqFNtusPWguQMko-G3Pygg1W3XFY",
 "checked": "2026-11-23"
 },
 "taxi.android.client": {
@@ -5872,12 +7664,28 @@
 "u": "2MjpmCFpo-kzTfNiNJno9O41yUaY0emylkzyb1gGOdGp_8f9pinanXEpylwUihs5N8960VPwmT4VScJDvGR5A78",
 "checked": "2026-11-23"
 },
+"td.moovmoney.mmpaysp": {
+"u": "EpFbUBEzkY9M3ZJSDFL5WtttDjn_Cmp1AG_c8Ypb96m35m77YS0pFC4PvN3KEIPr2g0m8xy4SM4nOGQkOwWP",
+"checked": "2026-11-23"
+},
 "tech.bumerang.sunrent": {
 "u": "oNDcn_--aih6Q3ssCx-IWwpZ3w6jZb1EOtE1bsmKzLHds44mr_NbgRTlzzSoZM7EFAHrmaS7lj05UC41FmlXkgw",
 "checked": "2026-11-23"
 },
 "tfigo.app": {
 "u": "Ag3HmH8ApV6Fu4n5LQNUyUZXGXRGQjJtxtXFKaRW9oSI20riyJCO2cW8iwY4U8-jvXOwJ040CTDlZqvr0YVQ5w",
+"checked": "2026-11-23"
+},
+"tg.tmye.kaba.brave.one": {
+"u": "OMODyL0XDHhpZv47ol6YYY74qY1ct7ErF4C9VikappVaTu39chU25GxWbTWLeZu9dd6IaBehVdLH92jO4BAwSw",
+"checked": "2026-11-23"
+},
+"tg.togocom.tmoney": {
+"u": "OPMkOUH2zRXVuyDwVxgf6WMK5TPQ12c8GdUX9TkmVt7_PIej2uKfxmQnpr4YnzMfhD0Jm91Gin43zYPVm0T_6Q",
+"checked": "2026-11-23"
+},
+"th.btsc.theskytrains": {
+"u": "UoWwpUcnqPhCaMOOBdWesmZm5lGFA5LDWbJq8m8PzBUXx6PPoTHzi-4OgJVJIbowdhzeoVZPG46k_U12_n6g2Q",
 "checked": "2026-11-23"
 },
 "th.co.truemoney.wallet": {
@@ -5892,7 +7700,15 @@
 "u": "uZEIUVfMpU8BPrAZm3q9irXD3ikCF-sDNspLV0-j80tQePh3ssiqMZJcHzKKPXzsjzKOJCVcxqiP9hSvVFYx",
 "checked": "2026-11-23"
 },
+"tj.tourism.rebuss": {
+"u": "AYizVUDiuwAwnUCUR1qajG_gQiq1fpiSMYE62C5nXCVS7DXtTDOMMs0_ALjfhd9lczZKfw2DrmqXJ9ksIvd1",
+"checked": "2026-11-23"
+},
 "tm.gayguide": {
+"checked": "2026-11-23"
+},
+"tm.gov.customs": {
+"u": "xrVT6NgarJJdrzna6ZOPjtocBUneBoe-aXgegRcuvDPldUda4lJYdUaTfHnq149ar_U_KAuW0A8hxMXsXm3J",
 "checked": "2026-11-23"
 },
 "tm.railway.turkmenistanrailways": {
@@ -5905,6 +7721,10 @@
 },
 "tn.keyrus.nouvelair": {
 "u": "QqvRKS-5v3zTxHT1xAsqaomjunYNrIpzrHzXqyiwF1kmNTMvX50p5m_f3EczK3luzxVveYDeJVc62TCtNU-rKw",
+"checked": "2026-11-23"
+},
+"torrezmartin.tubondi": {
+"u": "ErU8sNsnDYpadaPQxP7LXE3j3H531r2JmB00By5bmeCAAwB2_UmLpK82JDq86lU0xNlk6DsbFmjNXiHEw-BQYA",
 "checked": "2026-11-23"
 },
 "tourist.police.app": {
@@ -5939,12 +7759,24 @@
 "u": "uUDO_xATAQnEsa9qSj_EG5ZDyhQ71atDsivH-jUKnmAIp49oOb1qce35HgnFvZ0OqDWnL0BPSGFWcKHfNrruyQ",
 "checked": "2026-11-23"
 },
+"tw.com.TTn2012.techmore.android": {
+"u": "UJtl4thfrmwvTOutVpCU5Bj0qiF5UdVGVTmYNWEcibHOa2_vDPyfPL58S_iO0JtWUGtgAXauGKlfvOpm0cTC7X8",
+"checked": "2026-11-23"
+},
+"tw.com.fontrip.citypass.taipei.production": {
+"u": "5ybGQCEcdAE1c9ys79gcVxUsVhuuWPW6NIaFo345w-q-1nQwKe7goi3clxHwQTFHwbkyLYdANkhzz-wkis3czcM",
+"checked": "2026-11-23"
+},
 "tw.com.sundance.app.tainan": {
 "u": "UQR0Ace3uRTVck2R2z7du4ANeHfUTq-jqYT-OtelBkknaLgHPmZxcGUA4jlMHcxRqOhXMDrMfkDA6aHpmZBMcw",
 "checked": "2026-11-23"
 },
 "tw.com.thsrc.texpress": {
 "u": "w-gFAl4YDqgeJC8vVk40GnnuGY369ImuzufJQonBiYtr-kmfWld_Ooxlq7w3Iz-NKEZB2Khp0zSmcJv-kwNlCA",
+"checked": "2026-11-23"
+},
+"tw.com.tmrt.app": {
+"u": "MpUcNHcVBCFml_4qleWN2mKB-E6S6jHfeVm7lQWxKj6Qd0VeF8bDz8yvhj97JLQDLoPDkr7iI_f7B2a-5Tuj",
 "checked": "2026-11-23"
 },
 "tw.com.trtc.is.android05": {
@@ -5975,12 +7807,24 @@
 "u": "hKj86BeyKOmkAdrYtLhsLrq0GIys_pyW3B_sXolgQrL6Nu8Eur2VQ2YBUsPsVEx3NBuPMa7vK1Ytd0P_zeNQ",
 "checked": "2026-11-23"
 },
+"ua.gov.diia.app": {
+"u": "0CYhKMFekNcjx_PzQJ2hOgSymMq2iuSZ0hKSkemjNJxrV_5BVWI6rwVYGObetFnsfBK7QN4O_2sBHsDDkwjskg",
+"checked": "2026-11-23"
+},
 "ua.gov.uz": {
 "u": "lyyfwEOEvLeRuBoSkfszKTvhM1_7TTGrhrz58wsDzVsuKATGhcE6p9DnZ1h39amvOqAH9fqAp9uthyEg6Mnl",
 "checked": "2026-11-23"
 },
 "ua.in.citybus.lviv": {
 "u": "I8rVZkdXtcGhXoec_GXcoGeAIWE0HL2ISvUvPQ44CznrH974JuIdA3ZhLSg4mEZe0OO-3aotNiE_Y7gh1MDNht4",
+"checked": "2026-11-23"
+},
+"ua.privatbank.ap24": {
+"u": "shFwgVjJ9b3JO2W6tGzdxrnC4NtXXWL_fJNuE334gDBLq0c8WTsv7V7l6nnxzil1wLcyXJGni4mGdwSEFjBtSug",
+"checked": "2026-11-23"
+},
+"uk.co.hungrrr.subwayantigua": {
+"u": "ZUIIg6rbiOgs2771pxrsjwyrAjG93IbroNhC7L4wQrgA9bL1VP7o98tmtYFEsj6hllnFXYkQPiVXdTgW7wtmLA",
 "checked": "2026-11-23"
 },
 "uk.co.icectoc.customer": {
@@ -6031,6 +7875,10 @@
 "u": "y6v4KOQk3GRmbYx4klvOzH_Njln09BdVxIEpYJvOkgWXd5fD30hQ4h-xQSfGB7O70gOGblA69VGg03Qap7it",
 "checked": "2026-11-23"
 },
+"ulstrell.taxi": {
+"u": "fbMCULRiPThPGHqXP6N-M3WzYqpXQZJG9vdhHVHyyZd5hfP6wXDY3GEtCBCZ_bidg-0lEzOD29roivQiqAOYNUY",
+"checked": "2026-11-23"
+},
 "uy.gub.imm.stm.mobile.comoir": {
 "u": "JwEAbjKqSOsxDSCsuHAEeK683mDV1Kuj5_XJR728FDUI56Ua1ExWN1xJG2mcr5Sc-SFnc00V0ST32JqLG3WanA",
 "checked": "2026-11-23"
@@ -6039,8 +7887,16 @@
 "u": "YR9TjKiM65mDaFKRVuBFKKBovVzbnTSLQCN98XJdNoJnA_nS8KpB1z1TE_mG6BKA2edb4HVY5TiNjZ6siV8i",
 "checked": "2026-11-23"
 },
+"uz.dida.payme": {
+"u": "034aljpgwQaMpJ7-n_4H6_6TsXqC2SBhL3HC5dGDq5rDQlEDMDvYG7Z93xS9Vse9zjyZ1RBXck4NYS2nzgPjtw",
+"checked": "2026-11-23"
+},
 "uz.genesis.asop": {
 "u": "lkfuzw3r-OrwYz9k9Ckx8CrXo67RsU9jsGVVkWFHXa1kUThC0LvBmyX8_XXQ-qLUSoidZ_et40bCBTTEwzJY",
+"checked": "2026-11-23"
+},
+"uz.kapitalbank.android": {
+"u": "0u3I6QX-_u6P6ghgBDfJj3IZuaLBdtaz8ruPyLLRaLFJxBUqG4KAjdnz7lDlBHzV7yQSUeWGbspqeeAbQ1ET6A",
 "checked": "2026-11-23"
 },
 "uz.uzairways": {
@@ -6059,12 +7915,36 @@
 "u": "Id9ktmOYfMUUebxiSflxfC84FLdOpIbIyjvvI3465TcZOsT0XthFsIcAlFze4Yqzv30Py-s74RQM2q0gWzA0cQ",
 "checked": "2026-11-23"
 },
+"vi.myvirginislands": {
+"u": "64qMtRPwpBHFtzciUrShYNTUimulestjFvzANq4YsunhsION1yLN02sGF6Su1A4E55aetZfbXantB3k7VDmF8g",
+"checked": "2026-11-23"
+},
+"vn.com.vng.zalopay": {
+"u": "rvpjYf8EqoCsOFG7IpSpzgmKt820BZpWDpCW2u6gaIAFsfHOIqvk8eGXhgvJLLymIlo0rqzWUjeyG_JqevNogA",
+"checked": "2026-11-23"
+},
+"vnpay.smartacccount": {
+"u": "AtYsTFSOHpfVcP_N68foG7QWhwC0y9ZYMWUe9hMtF5YCBiTM3AlEMNmAWoqMr2Kd0W97g18L0CeFwgaXP1DRZA",
+"checked": "2026-11-23"
+},
 "waltti.com.mobiili": {
 "u": "6AJARPMuboR0_UhYgI5rL5LKomiJJaD_cOPl8v88BLw5nXMb9dQff4RsRDj_hheZ0mbpZVEBoQC5Y-3tJSWN",
 "checked": "2026-11-23"
 },
+"whatsoncayman.acorn.ky": {
+"u": "3xaSmZlAMeVKMq6Ps3eiFvVH1fZqLsWIJ2Wn_LIYWiRN5YQ4EGZDzf-dPVxkpsZiTRGgN5KI5UEbMtqYpBoTGA",
+"checked": "2026-11-23"
+},
+"www.mymoov.ne": {
+"u": "XcgOvdt_8IuB34oOosc5LZw0bwVZ3gb1A1kbsXARswuCyT2OPEYCqVbGUmEHW7Ut3_NYo8aXsb_Y4KliH4hiww",
+"checked": "2026-11-23"
+},
 "xyz.be.customer": {
 "u": "IbASTpjZkBl5TncXji8ecZ7s5F_bpD2QTf05uYUKlBTHhbixlxrWKVyRXOHDdA6Kzcyl8L0WfsUY0IjtrIdebw",
+"checked": "2026-11-23"
+},
+"yoboresto.release.customers": {
+"u": "ZEFmcIqKHKiuZnTC5Bqh4scVk0ueM6W9B0QSz-JNO6Msmf_l0KpFfoIH9fHxTOA_DG8iYIq9TGc5vI3InsGzrf8",
 "checked": "2026-11-23"
 },
 "za.co.intercape.app": {
