@@ -1,13 +1,13 @@
 {
- "vc": 46,
- "vn": "1.0.46",
+ "vc": 47,
+ "vn": "1.0.47",
  "changes": [
   "Festivals eigens gekennzeichnet (🎉 Festival · Ski-Woche, Bear Week, Fetisch & Leder, Lesben-Festival, Circuit-Party) und getrennt von Pride & CSD",
   "Neue Festivals, z. B. auf Gran Canaria, Ibiza und Mykonos, jeweils mit Link zum Veranstalter",
   "Eigener Abo-Kalender nur für Festivals",
   "Jetzt über 820 Termine, davon 169 mit festem Datum"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=3565e7834ef0f3aa",
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=74aafc5a04802fc6",
  "size": 3655896,
- "sha256": "3565e7834ef0f3aa15491af27394bebdd948fae5759977e7da43419dd5d4c816"
+ "sha256": "74aafc5a04802fc662a6944b43a0b145cfd76a89d588e3ce537f210418dc8860"
 }
