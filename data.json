@@ -47966,9 +47966,9 @@
      "note": "E-Scooter über die Bolt App, Minutenpreis oder Pass",
      "ess": true,
      "src": "https://bolt.eu/en-az/scooters/",
+     "ios": 675033630,
      "use": "limited",
-     "req": "Bankkarte in der Bolt App hinterlegen",
-     "ios": 675033630
+     "req": "Bankkarte in der Bolt App hinterlegen"
     },
     {
      "name": "Heetch AZ",
