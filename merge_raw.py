@@ -21,7 +21,7 @@ Format raw/<ISO>.json:
  "apps": [{"name": "", "cat": "", "pkg": "", "ess": true, "note": "", "city": "",
            "use": "ok", "req": ""}]}
 """
-import glob, json, os, sys
+import glob, json, os, re, sys
 
 import pycountry, gettext  # pip install pycountry
 
@@ -254,6 +254,19 @@ def add_continents_and_info(data):
         else:
             c.pop("info", None)
 
+    # Fehlende Paketnamen (info/pkg.json, erzeugt von tools/pkg_suche.py, nur mit Beleg oder von Hand "fix")
+    p = os.path.join(HERE, "info", "pkg.json")
+    found = json.load(open(p, encoding="utf-8")).get("apps", {}) if os.path.exists(p) else {}
+    pkg_ok = re.compile(r"^[A-Za-z][A-Za-z0-9_]*(\.[A-Za-z0-9_]+)+$")
+    for c in data["countries"]:
+        for lst in [c["apps"]] + [ci["apps"] for ci in c.get("cities", [])]:
+            for a in lst:
+                if a.get("pkg") or a.get("nostore") or a.get("dl"):
+                    continue
+                f = found.get(a["name"] + "|" + c["code"], {}).get("pkg", "")
+                if f and pkg_ok.match(f):
+                    a["pkg"] = f
+
     # iPhone-Version (info/ios.json, erzeugt von tools/ios_ids.py): App-Store-ID je Paket oder Name|Land
     p = os.path.join(HERE, "info", "ios.json")
     ios = json.load(open(p, encoding="utf-8")).get("apps", {}) if os.path.exists(p) else {}
@@ -261,7 +274,7 @@ def add_continents_and_info(data):
         for lst in [c["apps"]] + [ci["apps"] for ci in c.get("cities", [])]:
             for a in lst:
                 key = a.get("pkg") or (a["name"] + "|" + c["code"])
-                i = ios.get(key, {}).get("id", 0)
+                i = ios.get(key, {}).get("id", 0) or ios.get(a["name"] + "|" + c["code"], {}).get("id", 0)
                 if i:
                     a["ios"] = i
                 else:
@@ -278,6 +291,52 @@ def add_continents_and_info(data):
                     a["ic"] = u
                 else:
                     a.pop("ic", None)
+
+
+def add_prides(data):
+    """Pride-/CSD-Termine aus info/prides.json (gepflegt von Hand bzw. von der monatlichen Prüfung) als data["prides"].
+    Vergangene Termine fallen weg; "lc" = Stadt der App im Umkreis von 40 km (für die Anzeige auf der Stadtseite)."""
+    import datetime as _dt, math
+    p = os.path.join(HERE, "info", "prides.json")
+    if not os.path.exists(p):
+        data.pop("prides", None)
+        return
+    items = json.load(open(p, encoding="utf-8")).get("items", [])
+    geo = {}
+    gp = os.path.join(HERE, "info", "stadt-koordinaten.json")
+    if os.path.exists(gp):
+        geo = json.load(open(gp, encoding="utf-8")).get("cities", {})
+    names = {c["code"]: {ci["name"] for ci in c.get("cities", [])} for c in data["countries"]}
+
+    def km(a, b, c, d):
+        r = math.pi / 180
+        h = math.sin((c - a) * r / 2) ** 2 + math.cos(a * r) * math.cos(c * r) * math.sin((d - b) * r / 2) ** 2
+        return 12742 * math.asin(math.sqrt(h))
+
+    today = (_dt.date.today() - _dt.timedelta(days=1)).isoformat()
+    out = []
+    for e in items:
+        if e.get("drop"):
+            continue
+        st, en = e.get("start") or "", e.get("end") or e.get("start") or ""
+        if st and en < today:
+            continue
+        if not st and not (1 <= int(e.get("month") or 0) <= 12):
+            continue
+        x = {k: e[k] for k in ("name", "city", "cc", "lat", "lon", "start", "end", "month", "url", "last") if e.get(k) not in (None, "")}
+        best = None
+        for key, ll in geo.items():
+            cc, nm = key.split("|", 1)
+            if cc == e["cc"] and nm in names.get(cc, ()):
+                d = km(e["lat"], e["lon"], ll[0], ll[1])
+                if d <= 40 and (best is None or d < best[0]):
+                    best = (d, nm)
+        if best:
+            x["lc"] = best[1]
+        out.append(x)
+    out.sort(key=lambda x: x.get("start") or "9999")
+    data["prides"] = out
+    data["prides_src"] = "Webseiten der Veranstalter"
 
 
 def main():
@@ -297,6 +356,7 @@ def main():
         total += n
         print(f"{code}: +{n}")
     add_continents_and_info(data)
+    add_prides(data)
     if version:
         data["version"] = version
     # Grundprüfung
