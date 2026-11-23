@@ -65,7 +65,11 @@
    "lon": 16.374,
    "month": 6,
    "url": "https://www.viennapride.at",
-   "src": "https://www.viennapride.at"
+   "src": "https://www.viennapride.at",
+   "alt": [
+    "Vienna",
+    "Vienne"
+   ]
   },
   {
    "name": "Feast Festival Adelaide",
@@ -142,7 +146,11 @@
    "lon": 4.402,
    "month": 8,
    "url": "https://www.antwerppride.be",
-   "src": "https://www.antwerppride.be"
+   "src": "https://www.antwerppride.be",
+   "alt": [
+    "Antwerp",
+    "Anvers"
+   ]
   },
   {
    "name": "Brussels Pride",
@@ -152,7 +160,12 @@
    "lon": 4.352,
    "month": 5,
    "url": "https://www.pride.be",
-   "src": "https://www.pride.be"
+   "src": "https://www.pride.be",
+   "alt": [
+    "Brussel",
+    "Brussels",
+    "Bruxelles"
+   ]
   },
   {
    "name": "Gent Pride",
@@ -162,7 +175,11 @@
    "lon": 3.722,
    "month": 8,
    "url": "https://ghentpride.be",
-   "unsure": true
+   "unsure": true,
+   "alt": [
+    "Gand",
+    "Ghent"
+   ]
   },
   {
    "name": "Liège Pride",
@@ -172,7 +189,11 @@
    "lon": 5.568,
    "month": 5,
    "url": "https://www.liegepride.be",
-   "src": "https://www.liegepride.be"
+   "src": "https://www.liegepride.be",
+   "alt": [
+    "Luik",
+    "Lüttich"
+   ]
   },
   {
    "name": "Sofia Pride",
@@ -182,7 +203,10 @@
    "lon": 23.322,
    "month": 6,
    "url": "https://sofiapride.org",
-   "src": "https://sofiapride.org"
+   "src": "https://sofiapride.org",
+   "alt": [
+    "Sofija"
+   ]
   },
   {
    "name": "Marcha del Orgullo La Paz",
@@ -202,7 +226,10 @@
    "lon": -47.882,
    "month": 6,
    "url": "https://es.wikipedia.org/wiki/Bras%C3%ADlia",
-   "src": "https://es.wikipedia.org/wiki/Bras%C3%ADlia"
+   "src": "https://es.wikipedia.org/wiki/Bras%C3%ADlia",
+   "alt": [
+    "Brasília"
+   ]
   },
   {
    "name": "Parada LGBTI+ Rio de Janeiro (Copacabana)",
@@ -213,7 +240,10 @@
    "month": 11,
    "url": "https://en.wikipedia.org/wiki/Rio_LGBTI_Pride_Parade",
    "last": "2026-11-22",
-   "src": "https://diariodorio.com/agenda/2026/11/16/grupo-arco-iris-abre-programacao-da-parada-lgbti-rio-com-concerto-gratuito-no-centro.html"
+   "src": "https://diariodorio.com/agenda/2026/11/16/grupo-arco-iris-abre-programacao-da-parada-lgbti-rio-com-concerto-gratuito-no-centro.html",
+   "alt": [
+    "Rio"
+   ]
   },
   {
    "name": "Parada do Orgulho LGBT+ Salvador",
@@ -234,7 +264,10 @@
    "month": 6,
    "url": "https://www.paradasp.org.br",
    "last": "2026-06-07",
-   "src": "https://www.brasildefato.com.br/2026/06/07/parada-lgbt-de-sao-paulo-celebra-30-anos-com-defesa-da-memoria-dos-direitos-e-da-participacao-politica/"
+   "src": "https://www.brasildefato.com.br/2026/06/07/parada-lgbt-de-sao-paulo-celebra-30-anos-com-defesa-da-memoria-dos-direitos-e-da-participacao-politica/",
+   "alt": [
+    "São Paulo"
+   ]
   },
   {
    "name": "Calgary Pride",
@@ -265,7 +298,10 @@
    "month": 8,
    "url": "https://www.fiertemontrealpride.com",
    "last": "2025-08-17",
-   "src": "https://www.fiertemontrealpride.com"
+   "src": "https://www.fiertemontrealpride.com",
+   "alt": [
+    "Montréal"
+   ]
   },
   {
    "name": "Fierté Capitale-Nationale",
@@ -276,7 +312,11 @@
    "month": 9,
    "url": "https://fiertedequebec.com",
    "src": "https://www.bonjourquebec.com/fr/repertoire/evenements/fierte-de-quebec/0oq5",
-   "unsure": true
+   "unsure": true,
+   "alt": [
+    "Quebec",
+    "Québec"
+   ]
   },
   {
    "name": "Toronto Pride",
@@ -330,7 +370,11 @@
    "lon": 7.589,
    "month": 9,
    "url": "https://www.baselpride.ch",
-   "src": "https://www.baselpride.ch"
+   "src": "https://www.baselpride.ch",
+   "alt": [
+    "Basle",
+    "Bâle"
+   ]
   },
   {
    "name": "Bern Pride",
@@ -340,7 +384,10 @@
    "lon": 7.447,
    "month": 8,
    "url": "https://bernpride.ch",
-   "src": "https://bernpride.ch"
+   "src": "https://bernpride.ch",
+   "alt": [
+    "Berne"
+   ]
   },
   {
    "name": "Geneva Pride",
@@ -353,7 +400,12 @@
    "month": 7,
    "url": "https://www.genevapride.ch",
    "src": "https://www.genevapride.ch",
-   "unsure": true
+   "unsure": true,
+   "alt": [
+    "Geneva",
+    "Genève",
+    "Ginevra"
+   ]
   },
   {
    "name": "Luzern Pride",
@@ -364,7 +416,10 @@
    "month": 8,
    "url": "https://pride-zentralschweiz.ch",
    "last": "2026-08-22",
-   "src": "https://pride-zentralschweiz.ch"
+   "src": "https://pride-zentralschweiz.ch",
+   "alt": [
+    "Luzern"
+   ]
   },
   {
    "name": "Zurich Pride",
@@ -374,7 +429,10 @@
    "lon": 8.541,
    "month": 6,
    "url": "https://zurichpridefestival.ch",
-   "src": "https://zurichpridefestival.ch"
+   "src": "https://zurichpridefestival.ch",
+   "alt": [
+    "Zurich"
+   ]
   },
   {
    "name": "Marcha del Orgullo Santiago",
@@ -385,7 +443,10 @@
    "month": 6,
    "url": "https://movilh.cl",
    "last": "2026-06-27",
-   "src": "https://www.meganoticias.cl/nacional/525670-marcha-orgullo-santiago-mas-100-mil-personas-demandas-movilh-discriminacion-27-06-2026.html"
+   "src": "https://www.meganoticias.cl/nacional/525670-marcha-orgullo-santiago-mas-100-mil-personas-demandas-movilh-discriminacion-27-06-2026.html",
+   "alt": [
+    "Santiago de Chile"
+   ]
   },
   {
    "name": "Marcha de la Ciudadanía LGBTI Bogotá",
@@ -396,7 +457,10 @@
    "month": 6,
    "url": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/marchas-del-orgullo-lgbti-en-bogota-14-de-junio-y-4-julio-de-2026",
    "last": "2026-06-28",
-   "src": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/marchas-del-orgullo-lgbti-en-bogota-14-de-junio-y-4-julio-de-2026"
+   "src": "https://bogota.gov.co/mi-ciudad/cultura-recreacion-y-deporte/marchas-del-orgullo-lgbti-en-bogota-14-de-junio-y-4-julio-de-2026",
+   "alt": [
+    "Bogotá"
+   ]
   },
   {
    "name": "Desfile del Orgullo Medellín",
@@ -406,7 +470,10 @@
    "lon": -75.581,
    "month": 6,
    "url": "https://es.wikipedia.org/wiki/Medell%C3%ADn",
-   "src": "https://es.wikipedia.org/wiki/Medell%C3%ADn"
+   "src": "https://es.wikipedia.org/wiki/Medell%C3%ADn",
+   "alt": [
+    "Medellín"
+   ]
   },
   {
    "name": "Marcha de la Diversidad Costa Rica",
@@ -417,7 +484,10 @@
    "month": 6,
    "url": "https://en.wikipedia.org/wiki/San_Jos%C3%A9_Pride",
    "last": "2026-06-28",
-   "src": "https://www.teletica.com/nacional/entre-consignas-de-igualdad-y-mucho-color-marcha-de-la-diversidad-toma-san-jose-y-pide-frenar-la-dis_412520"
+   "src": "https://www.teletica.com/nacional/entre-consignas-de-igualdad-y-mucho-color-marcha-de-la-diversidad-toma-san-jose-y-pide-frenar-la-dis_412520",
+   "alt": [
+    "San Jose"
+   ]
   },
   {
    "name": "Cyprus Pride Nicosia",
@@ -427,7 +497,11 @@
    "lon": 33.382,
    "month": 6,
    "last": "2026-06-06",
-   "src": "https://en.sigmalive.com/cyprus-pride-2026-sets-new-attendance-record/"
+   "src": "https://en.sigmalive.com/cyprus-pride-2026-sets-new-attendance-record/",
+   "alt": [
+    "Lefkosia",
+    "Nikosia"
+   ]
   },
   {
    "name": "Brno Pride",
@@ -437,7 +511,10 @@
    "lon": 16.608,
    "month": 6,
    "url": "https://www.brnopride.cz",
-   "src": "https://www.brnopride.cz"
+   "src": "https://www.brnopride.cz",
+   "alt": [
+    "Brünn"
+   ]
   },
   {
    "name": "Prague Pride",
@@ -447,7 +524,11 @@
    "lon": 14.438,
    "month": 8,
    "url": "https://www.praguepride.cz",
-   "src": "https://www.praguepride.cz"
+   "src": "https://www.praguepride.cz",
+   "alt": [
+    "Prague",
+    "Praha"
+   ]
   },
   {
    "name": "CSD Aachen",
@@ -575,7 +656,10 @@
    "end": "2027-08-14",
    "month": 8,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "src": "https://csd-deutschland.de/csd-saison/csd-termine/"
+   "src": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "alt": [
+    "Brunswick"
+   ]
   },
   {
    "name": "CSD Bremen",
@@ -690,7 +774,10 @@
    "month": 6,
    "url": "https://www.csd-duesseldorf.de",
    "last": "2026-06-04",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.queer.de/csd-termine.php",
+   "alt": [
+    "Dusseldorf"
+   ]
   },
   {
    "name": "CSD Eckernförde",
@@ -770,7 +857,10 @@
    "end": "2027-07-18",
    "month": 7,
    "url": "https://csd-frankfurt.de",
-   "src": "https://csd-frankfurt.de/"
+   "src": "https://csd-frankfurt.de/",
+   "alt": [
+    "Frankfurt"
+   ]
   },
   {
    "name": "CSD Freiburg",
@@ -781,7 +871,10 @@
    "month": 6,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
    "last": "2026-06-20",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.queer.de/csd-termine.php",
+   "alt": [
+    "Freiburg"
+   ]
   },
   {
    "name": "CSD Fulda",
@@ -871,7 +964,10 @@
    "month": 9,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
    "last": "2026-09-12",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.queer.de/csd-termine.php",
+   "alt": [
+    "Halle"
+   ]
   },
   {
    "name": "CSD Hamburg (Hamburg Pride)",
@@ -918,7 +1014,10 @@
    "month": 5,
    "url": "https://hannovercsd.de",
    "last": "2026-05-23",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.queer.de/csd-termine.php",
+   "alt": [
+    "Hanover"
+   ]
   },
   {
    "name": "CSD Heilbronn",
@@ -1055,7 +1154,11 @@
    "end": "2027-07-04",
    "month": 7,
    "url": "https://www.colognepride.de",
-   "src": "https://csd-deutschland.de/csd-saison/csd-termine/"
+   "src": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "alt": [
+    "Cologne",
+    "Colonia"
+   ]
   },
   {
    "name": "CSD Köthen",
@@ -1100,7 +1203,10 @@
    "month": 8,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
    "last": "2026-08-14",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.queer.de/csd-termine.php",
+   "alt": [
+    "Luebeck"
+   ]
   },
   {
    "name": "CSD Lüneburg",
@@ -1171,7 +1277,11 @@
    "end": "2027-06-26",
    "month": 6,
    "url": "https://csdmuenchen.de",
-   "src": "https://csd-deutschland.de/csd-saison/csd-termine/"
+   "src": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "alt": [
+    "Monaco di Baviera",
+    "Munich"
+   ]
   },
   {
    "name": "CSD Münster",
@@ -1219,7 +1329,10 @@
    "end": "2027-08-07",
    "month": 8,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "src": "https://csd-deutschland.de/csd-saison/csd-termine/"
+   "src": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "alt": [
+    "Nuremberg"
+   ]
   },
   {
    "name": "CSD Offenbach",
@@ -1230,7 +1343,10 @@
    "month": 9,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
    "last": "2026-09-19",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.queer.de/csd-termine.php",
+   "alt": [
+    "Offenbach"
+   ]
   },
   {
    "name": "CSD Oldenburg",
@@ -1392,7 +1508,10 @@
    "end": "2027-06-05",
    "month": 6,
    "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
-   "src": "https://csd-deutschland.de/csd-saison/csd-termine/"
+   "src": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "alt": [
+    "Saarbruecken"
+   ]
   },
   {
    "name": "CSD Schwerin",
@@ -1610,7 +1729,11 @@
    "lon": 12.568,
    "month": 8,
    "url": "https://copenhagenpride.dk",
-   "src": "https://copenhagenpride.dk"
+   "src": "https://copenhagenpride.dk",
+   "alt": [
+    "Copenhagen",
+    "København"
+   ]
   },
   {
    "name": "Marcha del Orgullo Quito",
@@ -1630,7 +1753,10 @@
    "lon": 24.754,
    "month": 6,
    "url": "https://pride.ee",
-   "src": "https://pride.ee"
+   "src": "https://pride.ee",
+   "alt": [
+    "Reval"
+   ]
   },
   {
    "name": "Alicante Pride",
@@ -1682,7 +1808,10 @@
    "lon": 1.432,
    "month": 9,
    "url": "https://ibizapride.com",
-   "src": "https://ibizapride.com"
+   "src": "https://ibizapride.com",
+   "alt": [
+    "Eivissa"
+   ]
   },
   {
    "name": "Maspalomas Pride (Gran Canaria)",
@@ -1693,7 +1822,11 @@
    "month": 5,
    "url": "https://www.maspalomaspride.com",
    "last": "2026-05-09",
-   "src": "https://www.maspalomas24h.uk/Article/10471/Maspalomas-Pride-returns-for-its-25th-anniversary-with-an-edition-marked-by-diversity--culture-and-advocacy."
+   "src": "https://www.maspalomas24h.uk/Article/10471/Maspalomas-Pride-returns-for-its-25th-anniversary-with-an-edition-marked-by-diversity--culture-and-advocacy.",
+   "alt": [
+    "Gran Canaria",
+    "Las Palmas"
+   ]
   },
   {
    "name": "Orgullo Madrid (MADO)",
@@ -1714,7 +1847,10 @@
    "lon": -4.421,
    "month": 6,
    "last": "2026-06-27",
-   "src": "https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/179537/COMUNICADO.pdf"
+   "src": "https://www.malaga.eu/visorcontenido/ANUDocumentDisplayer/179537/COMUNICADO.pdf",
+   "alt": [
+    "Málaga"
+   ]
   },
   {
    "name": "Orgullo Palma / Mallorca Pride",
@@ -1725,7 +1861,12 @@
    "month": 6,
    "url": "https://benamics.com",
    "last": "2026-06-28",
-   "src": "https://www.mallorcadiario.com/manifestaciones-orgullo-lgtbiq-palma-2026"
+   "src": "https://www.mallorcadiario.com/manifestaciones-orgullo-lgtbiq-palma-2026",
+   "alt": [
+    "Majorca",
+    "Mallorca",
+    "Palma de Mallorca"
+   ]
   },
   {
    "name": "Orgullo Sevilla",
@@ -1735,7 +1876,10 @@
    "lon": -5.984,
    "month": 6,
    "last": "2026-06-27",
-   "src": "https://madridinforma.eldiario.es/?p=57732"
+   "src": "https://madridinforma.eldiario.es/?p=57732",
+   "alt": [
+    "Seville"
+   ]
   },
   {
    "name": "Tenerife Pride",
@@ -1745,7 +1889,10 @@
    "lon": -16.252,
    "month": 6,
    "last": "2026-06-27",
-   "src": "https://diariodeavisos.elespanol.com/2026/06/manifestacion-orgullo-lgtbiqa/"
+   "src": "https://diariodeavisos.elespanol.com/2026/06/manifestacion-orgullo-lgtbiqa/",
+   "alt": [
+    "Teneriffa"
+   ]
   },
   {
    "name": "Orgull València",
@@ -1769,7 +1916,10 @@
    "month": 6,
    "url": "https://pride.fi",
    "last": "2026-06-27",
-   "src": "https://pride.fi/en/helsinki-pride-2026/helsinki-pride-parade-2026/"
+   "src": "https://pride.fi/en/helsinki-pride-2026/helsinki-pride-parade-2026/",
+   "alt": [
+    "Helsingfors"
+   ]
   },
   {
    "name": "Tampere Pride",
@@ -1789,7 +1939,10 @@
    "lon": 22.267,
    "month": 8,
    "url": "https://www.turkupride.fi",
-   "src": "https://www.turkupride.fi"
+   "src": "https://www.turkupride.fi",
+   "alt": [
+    "Åbo"
+   ]
   },
   {
    "name": "Marche des Fiertés Bordeaux",
@@ -1810,7 +1963,10 @@
    "month": 5,
    "url": "https://lillepride.fr",
    "last": "2026-05-30",
-   "src": "https://info.fr/lille-29e-pride-fiertes-30-mai-2026-place-francois-mitterrand/"
+   "src": "https://info.fr/lille-29e-pride-fiertes-30-mai-2026-place-francois-mitterrand/",
+   "alt": [
+    "Rijsel"
+   ]
   },
   {
    "name": "Marche des Fiertés Lyon",
@@ -1832,7 +1988,10 @@
    "month": 7,
    "url": "https://pride-marseille.com",
    "last": "2026-07-04",
-   "src": "https://www.marseille.fr/solidarite/actualites/marche-des-fiertes"
+   "src": "https://www.marseille.fr/solidarite/actualites/marche-des-fiertes",
+   "alt": [
+    "Marseilles"
+   ]
   },
   {
    "name": "Marche des Fiertés Montpellier",
@@ -1864,7 +2023,10 @@
    "lon": 7.262,
    "month": 7,
    "last": "2026-07-11",
-   "src": "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/pink-parade-nice-fr-6551482/"
+   "src": "https://provence-alpes-cotedazur.com/que-faire/sortir/toutes-les-sorties/pink-parade-nice-fr-6551482/",
+   "alt": [
+    "Nizza"
+   ]
   },
   {
    "name": "Marche des Fiertés Paris",
@@ -1885,7 +2047,10 @@
    "month": 6,
    "url": "https://festiqueer.fr",
    "last": "2026-06-20",
-   "src": "https://www.lagazettefrance.fr/article/strasbourg-des-milliers-de-personnes-bravent-la-canicule-pour-les-droits-des-lgbt"
+   "src": "https://www.lagazettefrance.fr/article/strasbourg-des-milliers-de-personnes-bravent-la-canicule-pour-les-droits-des-lgbt",
+   "alt": [
+    "Straßburg"
+   ]
   },
   {
    "name": "Marche des Fiertés Toulouse",
@@ -1988,7 +2153,11 @@
    "lon": 23.728,
    "month": 6,
    "url": "https://www.athenspride.eu",
-   "src": "https://www.athenspride.eu"
+   "src": "https://www.athenspride.eu",
+   "alt": [
+    "Athens",
+    "Athina"
+   ]
   },
   {
    "name": "Thessaloniki Pride",
@@ -1999,7 +2168,10 @@
    "month": 6,
    "url": "https://thessalonikipride.com",
    "last": "2026-06-20",
-   "src": "https://thessalonikipride.com/program-of-the-festival/?lang=en"
+   "src": "https://thessalonikipride.com/program-of-the-festival/?lang=en",
+   "alt": [
+    "Saloniki"
+   ]
   },
   {
    "name": "Desfile de la Diversidad Guatemala",
@@ -2009,7 +2181,11 @@
    "lon": -90.507,
    "month": 6,
    "url": "https://es.wikipedia.org/wiki/Ciudad_de_Guatemala",
-   "src": "https://es.wikipedia.org/wiki/Ciudad_de_Guatemala"
+   "src": "https://es.wikipedia.org/wiki/Ciudad_de_Guatemala",
+   "alt": [
+    "Ciudad de Guatemala",
+    "Guatemala-Stadt"
+   ]
   },
   {
    "name": "Split Pride",
@@ -2029,7 +2205,10 @@
    "lon": 15.982,
    "month": 6,
    "url": "https://zagreb-pride.net",
-   "src": "https://zagreb-pride.net"
+   "src": "https://zagreb-pride.net",
+   "alt": [
+    "Agram"
+   ]
   },
   {
    "name": "Budapest Pride",
@@ -2091,7 +2270,10 @@
    "month": 6,
    "url": "https://en.wikipedia.org/wiki/Tel_Aviv_Pride",
    "last": "2026-06-12",
-   "src": "https://www.africanews.com/amp/2026/06/12/israel-tel-aviv-pride-marchers-push-for-lgbtq-equality-amid-tensions-and-war/"
+   "src": "https://www.africanews.com/amp/2026/06/12/israel-tel-aviv-pride-marchers-push-for-lgbtq-equality-amid-tensions-and-war/",
+   "alt": [
+    "Tel Aviv-Jaffa"
+   ]
   },
   {
    "name": "Delhi Queer Pride Parade",
@@ -2101,7 +2283,11 @@
    "lon": 77.209,
    "month": 11,
    "url": "https://en.wikipedia.org/wiki/Delhi_Queer_Pride_Parade",
-   "src": "https://www.newsgram.com/amp/story/delhi/2026/11/19/delhi-queer-pride-march-postponed"
+   "src": "https://www.newsgram.com/amp/story/delhi/2026/11/19/delhi-queer-pride-march-postponed",
+   "alt": [
+    "Neu-Delhi",
+    "New Delhi"
+   ]
   },
   {
    "name": "Kolkata Rainbow Pride Walk",
@@ -2111,7 +2297,11 @@
    "lon": 88.364,
    "month": 12,
    "url": "https://en.wikipedia.org/wiki/Kolkata_Rainbow_Pride_Walk",
-   "src": "https://t2online.in/goodlife/lifestyle/26th-kolkata-rainbow-pride-walk--a-river-of-colours--music-and-defiant-movement-through-the-heart-of-the-city/2003013"
+   "src": "https://t2online.in/goodlife/lifestyle/26th-kolkata-rainbow-pride-walk--a-river-of-colours--music-and-defiant-movement-through-the-heart-of-the-city/2003013",
+   "alt": [
+    "Calcutta",
+    "Kalkutta"
+   ]
   },
   {
    "name": "Mumbai Queer Azaadi Pride March",
@@ -2122,7 +2312,10 @@
    "month": 2,
    "url": "https://www.instagram.com/queerazaadimumbai",
    "last": "2026-02-20",
-   "src": "https://www.lokmattimes.com/mumbai/mumbai-queer-pride-2026-on-february-20-check-route-parade-time-and-why-the-rainbow-march-matters-a525"
+   "src": "https://www.lokmattimes.com/mumbai/mumbai-queer-pride-2026-on-february-20-check-route-parade-time-and-why-the-rainbow-march-matters-a525",
+   "alt": [
+    "Bombay"
+   ]
   },
   {
    "name": "Akureyri Pride",
@@ -2142,7 +2335,10 @@
    "lon": -21.942,
    "month": 8,
    "url": "https://www.hinsegindagar.is",
-   "src": "https://www.hinsegindagar.is"
+   "src": "https://www.hinsegindagar.is",
+   "alt": [
+    "Reykjavik"
+   ]
   },
   {
    "name": "Puglia Pride",
@@ -2184,7 +2380,11 @@
    "month": 6,
    "url": "https://toscanapride.eu",
    "last": "2026-06-13",
-   "src": "https://www.gonews.it/2026/06/13/grosseto-toscana-pride/amp/"
+   "src": "https://www.gonews.it/2026/06/13/grosseto-toscana-pride/amp/",
+   "alt": [
+    "Firenze",
+    "Florence"
+   ]
   },
   {
    "name": "Genova Pride",
@@ -2194,7 +2394,11 @@
    "lon": 8.934,
    "month": 6,
    "url": "https://www.genovapride.it",
-   "src": "https://www.genovapride.it"
+   "src": "https://www.genovapride.it",
+   "alt": [
+    "Genoa",
+    "Genova"
+   ]
   },
   {
    "name": "Milano Pride",
@@ -2204,7 +2408,11 @@
    "lon": 9.19,
    "month": 6,
    "url": "https://www.milanopride.it",
-   "src": "https://www.milanopride.it"
+   "src": "https://www.milanopride.it",
+   "alt": [
+    "Milan",
+    "Milano"
+   ]
   },
   {
    "name": "Napoli Pride",
@@ -2214,7 +2422,11 @@
    "lon": 14.268,
    "month": 6,
    "url": "https://www.napolipride.it",
-   "src": "https://www.napolipride.it"
+   "src": "https://www.napolipride.it",
+   "alt": [
+    "Naples",
+    "Napoli"
+   ]
   },
   {
    "name": "Palermo Pride",
@@ -2234,7 +2446,11 @@
    "lon": 12.496,
    "month": 6,
    "url": "https://www.romapride.it",
-   "src": "https://www.romapride.it"
+   "src": "https://www.romapride.it",
+   "alt": [
+    "Roma",
+    "Rome"
+   ]
   },
   {
    "name": "EuroPride 2027 Torino / Torino Pride",
@@ -2246,7 +2462,10 @@
    "end": "2027-06-26",
    "month": 6,
    "url": "https://epoa.eu/europride/europride-2027",
-   "src": "https://epoa.eu/europride/europride-2027"
+   "src": "https://epoa.eu/europride/europride-2027",
+   "alt": [
+    "Torino"
+   ]
   },
   {
    "name": "Venezia Pride",
@@ -2255,7 +2474,11 @@
    "lat": 45.438,
    "lon": 12.327,
    "month": 6,
-   "unsure": true
+   "unsure": true,
+   "alt": [
+    "Venezia",
+    "Venice"
+   ]
   },
   {
    "name": "Verona Pride",
@@ -2278,7 +2501,10 @@
    "month": 6,
    "url": "https://pride.tokyo",
    "last": "2026-06-07",
-   "src": "https://pride.tokyo"
+   "src": "https://pride.tokyo",
+   "alt": [
+    "Tokyo"
+   ]
   },
   {
    "name": "Seoul Queer Culture Festival",
@@ -2288,7 +2514,10 @@
    "lon": 126.978,
    "month": 6,
    "url": "https://sqcf.org",
-   "src": "https://www.gayout.com/asia-aus/south-korea/seoul/mega-events/korea-queer-culture-festival"
+   "src": "https://www.gayout.com/asia-aus/south-korea/seoul/mega-events/korea-queer-culture-festival",
+   "alt": [
+    "Söul"
+   ]
   },
   {
    "name": "Kaunas Pride",
@@ -2298,7 +2527,10 @@
    "lon": 23.912,
    "month": 6,
    "url": "https://www.lgl.lt",
-   "src": "https://www.lgl.lt"
+   "src": "https://www.lgl.lt",
+   "alt": [
+    "Kauen"
+   ]
   },
   {
    "name": "Vilnius Pride",
@@ -2308,7 +2540,10 @@
    "lon": 25.28,
    "month": 6,
    "url": "https://www.lgl.lt",
-   "src": "https://www.lgl.lt"
+   "src": "https://www.lgl.lt",
+   "alt": [
+    "Wilna"
+   ]
   },
   {
    "name": "Luxembourg Pride",
@@ -2320,7 +2555,12 @@
    "end": "2027-07-12",
    "month": 7,
    "last": "2026-07-11",
-   "src": "https://www.luxembourg-city.com/en/what-s-on/event/luxembourg-pride-week"
+   "src": "https://www.luxembourg-city.com/en/what-s-on/event/luxembourg-pride-week",
+   "alt": [
+    "Luxembourg",
+    "Luxembourg City",
+    "Luxemburg"
+   ]
   },
   {
    "name": "Riga Pride",
@@ -2350,7 +2590,12 @@
    "lon": -86.851,
    "month": 6,
    "url": "https://es.wikipedia.org/wiki/Canc%C3%BAn",
-   "src": "https://es.wikipedia.org/wiki/Canc%C3%BAn"
+   "src": "https://es.wikipedia.org/wiki/Canc%C3%BAn",
+   "alt": [
+    "Cancun",
+    "Cancún",
+    "Riviera Maya"
+   ]
   },
   {
    "name": "Marcha del Orgullo LGBT Guadalajara",
@@ -2370,7 +2615,10 @@
    "lon": -89.592,
    "month": 6,
    "url": "https://es.wikipedia.org/wiki/M%C3%A9rida_(Yucat%C3%A1n)",
-   "src": "https://es.wikipedia.org/wiki/M%C3%A9rida_(Yucat%C3%A1n)"
+   "src": "https://es.wikipedia.org/wiki/M%C3%A9rida_(Yucat%C3%A1n)",
+   "alt": [
+    "Mérida"
+   ]
   },
   {
    "name": "Marcha del Orgullo LGBT+ CDMX",
@@ -2381,7 +2629,12 @@
    "month": 6,
    "url": "https://es.wikipedia.org/wiki/Marcha_del_Orgullo_LGBT_de_la_Ciudad_de_M%C3%A9xico",
    "last": "2026-06-27",
-   "src": "https://www.nmas.com.mx/ciudad-de-mexico/cuando-es-marcha-lgbt-2026-cdmx-fecha-movilizacion-dia-orgullo-gay/"
+   "src": "https://www.nmas.com.mx/ciudad-de-mexico/cuando-es-marcha-lgbt-2026-cdmx-fecha-movilizacion-dia-orgullo-gay/",
+   "alt": [
+    "CDMX",
+    "Ciudad de México",
+    "Mexico City"
+   ]
   },
   {
    "name": "Marcha del Orgullo LGBT Monterrey",
@@ -2414,7 +2667,12 @@
    "month": 5,
    "url": "https://pridethehague.nl",
    "last": "2026-05-16",
-   "src": "https://denhaag.com/nl/agenda/pride-the-hague"
+   "src": "https://denhaag.com/nl/agenda/pride-the-hague",
+   "alt": [
+    "'s-Gravenhage",
+    "La Haye",
+    "The Hague"
+   ]
   },
   {
    "name": "Rotterdam Pride",
@@ -2480,7 +2738,10 @@
    "lon": 18.956,
    "month": 11,
    "url": "https://arcticpride.no",
-   "unsure": true
+   "unsure": true,
+   "alt": [
+    "Tromso"
+   ]
   },
   {
    "name": "Trondheim Pride",
@@ -2521,7 +2782,11 @@
    "lon": -79.517,
    "month": 6,
    "url": "https://es.wikipedia.org/wiki/Ciudad_de_Panam%C3%A1",
-   "src": "https://es.wikipedia.org/wiki/Ciudad_de_Panam%C3%A1"
+   "src": "https://es.wikipedia.org/wiki/Ciudad_de_Panam%C3%A1",
+   "alt": [
+    "Ciudad de Panamá",
+    "Panama-Stadt"
+   ]
   },
   {
    "name": "Marcha del Orgullo Lima",
@@ -2552,7 +2817,11 @@
    "lon": 18.646,
    "month": 6,
    "url": "https://tolerado.org",
-   "unsure": true
+   "unsure": true,
+   "alt": [
+    "Danzig",
+    "Gdańsk"
+   ]
   },
   {
    "name": "Marsz Równości Kraków",
@@ -2563,7 +2832,11 @@
    "month": 5,
    "url": "https://queerowymaj.org",
    "last": "2026-05-23",
-   "src": "https://www.radiokrakow.pl/audycje/marsz-rownosci-w-krakowie-po-raz-22-to-celebracja-bycia-razem-i-naszej-roznorodnosci/"
+   "src": "https://www.radiokrakow.pl/audycje/marsz-rownosci-w-krakowie-po-raz-22-to-celebracja-bycia-razem-i-naszej-roznorodnosci/",
+   "alt": [
+    "Krakow",
+    "Kraków"
+   ]
   },
   {
    "name": "Marsz Równości Poznań",
@@ -2574,7 +2847,11 @@
    "month": 6,
    "url": "https://poznanpride.pl",
    "last": "2026-06-20",
-   "src": "https://poznanpride.pl"
+   "src": "https://poznanpride.pl",
+   "alt": [
+    "Posen",
+    "Poznań"
+   ]
   },
   {
    "name": "Parada Równości Warszawa",
@@ -2587,7 +2864,11 @@
    "month": 6,
    "url": "https://paradarownosci.pl",
    "last": "2026-06-13",
-   "src": "https://pik.warszawa.pl/inne/happenig/parada-rownosci-w-warszawie/"
+   "src": "https://pik.warszawa.pl/inne/happenig/parada-rownosci-w-warszawie/",
+   "alt": [
+    "Warsaw",
+    "Warszawa"
+   ]
   },
   {
    "name": "Marsz Równości Wrocław",
@@ -2597,7 +2878,11 @@
    "lon": 17.039,
    "month": 6,
    "url": "https://www.facebook.com/marszrownosciwroclaw",
-   "src": "https://www.facebook.com/marszrownosciwroclaw"
+   "src": "https://www.facebook.com/marszrownosciwroclaw",
+   "alt": [
+    "Breslau",
+    "Wrocław"
+   ]
   },
   {
    "name": "Parada del Orgullo Puerto Rico",
@@ -2630,7 +2915,11 @@
    "month": 6,
    "url": "https://en.wikipedia.org/wiki/Lisbon_Pride",
    "last": "2026-06-06",
-   "src": "https://www.rtp.pt/noticias/pais/milhares-de-pessoas-marcham-em-lisboa-pelos-direitos-lgbti-e-contra-retrocessos_n1745638"
+   "src": "https://www.rtp.pt/noticias/pais/milhares-de-pessoas-marcham-em-lisboa-pelos-direitos-lgbti-e-contra-retrocessos_n1745638",
+   "alt": [
+    "Lisboa",
+    "Lisbon"
+   ]
   },
   {
    "name": "Porto Pride",
@@ -2652,7 +2941,11 @@
    "month": 6,
    "url": "https://www.accept-romania.ro",
    "last": "2026-06-13",
-   "src": "https://www.digi24.ro/stiri/actualitate/social/all-of-us-tema-bucharest-pride-2026-marsul-va-fi-pe-13-iunie-organizatorii-pregatesc-un-manifest-cu-revendicari-pentru-politicieni-3760383"
+   "src": "https://www.digi24.ro/stiri/actualitate/social/all-of-us-tema-bucharest-pride-2026-marsul-va-fi-pe-13-iunie-organizatorii-pregatesc-un-manifest-cu-revendicari-pentru-politicieni-3760383",
+   "alt": [
+    "Bucharest",
+    "București"
+   ]
   },
   {
    "name": "Belgrade Pride",
@@ -2662,7 +2955,11 @@
    "lon": 20.457,
    "month": 9,
    "url": "https://www.belgradepride.rs",
-   "src": "https://www.belgradepride.rs"
+   "src": "https://www.belgradepride.rs",
+   "alt": [
+    "Belgrade",
+    "Beograd"
+   ]
   },
   {
    "name": "West Pride Göteborg",
@@ -2672,7 +2969,11 @@
    "lon": 11.975,
    "month": 6,
    "url": "https://www.westpride.se",
-   "src": "https://www.westpride.se"
+   "src": "https://www.westpride.se",
+   "alt": [
+    "Goteborg",
+    "Gothenburg"
+   ]
   },
   {
    "name": "Malmö Pride",
@@ -2682,7 +2983,10 @@
    "lon": 13.004,
    "month": 8,
    "url": "https://www.malmopride.se",
-   "src": "https://www.malmopride.se"
+   "src": "https://www.malmopride.se",
+   "alt": [
+    "Malmo"
+   ]
   },
   {
    "name": "Stockholm Pride",
@@ -2714,7 +3018,10 @@
    "month": 6,
    "url": "https://pinkdot.sg",
    "last": "2026-06-27",
-   "src": "https://pinkdot.sg/2026/06/come-get-personal-a-brand-new-interactive-pink-dot-experience-focusing-on-stories-from-the-community/"
+   "src": "https://pinkdot.sg/2026/06/come-get-personal-a-brand-new-interactive-pink-dot-experience-focusing-on-stories-from-the-community/",
+   "alt": [
+    "Singapur"
+   ]
   },
   {
    "name": "Ljubljana Pride",
@@ -2724,7 +3031,10 @@
    "lon": 14.506,
    "month": 6,
    "url": "https://ljubljanapride.org",
-   "src": "https://ljubljanapride.org"
+   "src": "https://ljubljanapride.org",
+   "alt": [
+    "Laibach"
+   ]
   },
   {
    "name": "Dúhový Pride Bratislava",
@@ -2734,7 +3044,10 @@
    "lon": 17.107,
    "month": 6,
    "url": "https://www.duhovypride.sk",
-   "src": "https://www.duhovypride.sk"
+   "src": "https://www.duhovypride.sk",
+   "alt": [
+    "Pressburg"
+   ]
   },
   {
    "name": "Bangkok Pride Festival",
@@ -2756,7 +3069,10 @@
    "month": 10,
    "url": "https://taiwanpride.lgbt",
    "last": "2026-10-31",
-   "src": "https://focustaiwan.tw/society/202610310002"
+   "src": "https://focustaiwan.tw/society/202610310002",
+   "alt": [
+    "Taipeh"
+   ]
   },
   {
    "name": "Kyiv Pride",
@@ -2766,7 +3082,12 @@
    "lon": 30.523,
    "month": 6,
    "url": "https://kyivpride.org",
-   "src": "https://kyivpride.org"
+   "src": "https://kyivpride.org",
+   "alt": [
+    "Kiev",
+    "Kyiv",
+    "Kyjiw"
+   ]
   },
   {
    "name": "Atlanta Pride Festival",
@@ -2872,7 +3193,10 @@
    "lon": -118.244,
    "month": 6,
    "url": "https://www.lapride.org",
-   "src": "https://www.lapride.org"
+   "src": "https://www.lapride.org",
+   "alt": [
+    "LA"
+   ]
   },
   {
    "name": "Miami Beach Pride",
@@ -2925,7 +3249,11 @@
    "month": 6,
    "url": "https://www.nycpride.org",
    "last": "2025-06-29",
-   "src": "https://www.nycpride.org"
+   "src": "https://www.nycpride.org",
+   "alt": [
+    "NYC",
+    "New York City"
+   ]
   },
   {
    "name": "Come Out With Pride Orlando",
@@ -3041,7 +3369,10 @@
    "month": 6,
    "url": "https://www.sfpride.org",
    "last": "2025-06-29",
-   "src": "https://www.sfpride.org"
+   "src": "https://www.sfpride.org",
+   "alt": [
+    "SF"
+   ]
   },
   {
    "name": "Seattle Pride Parade",
@@ -3064,7 +3395,11 @@
    "end": "2027-06-13",
    "month": 6,
    "url": "https://www.capitalpride.org",
-   "src": "https://washington.org/visit-dc/capital-pride-events-washington-dc"
+   "src": "https://washington.org/visit-dc/capital-pride-events-washington-dc",
+   "alt": [
+    "Washington DC",
+    "Washington, D.C."
+   ]
   },
   {
    "name": "WeHo Pride",
@@ -3097,7 +3432,11 @@
    "end": "2027-02-28",
    "month": 2,
    "url": "https://capetownpride.co.za",
-   "src": "https://www.timeout.com/cape-town/news/cape-town-pride-announces-month-long-jol-for-2027-102226"
+   "src": "https://www.timeout.com/cape-town/news/cape-town-pride-announces-month-long-jol-for-2027-102226",
+   "alt": [
+    "Kaapstad",
+    "Kapstadt"
+   ]
   },
   {
    "name": "Johannesburg Pride",
@@ -3108,7 +3447,10 @@
    "month": 10,
    "url": "https://en.wikipedia.org/wiki/Johannesburg_Pride",
    "last": "2026-10-31",
-   "src": "https://www.bizcommunity.com/article/johannesburgs-pride-of-africa-month-2026-blends-culture-and-activism-070615a"
+   "src": "https://www.bizcommunity.com/article/johannesburgs-pride-of-africa-month-2026-blends-culture-and-activism-070615a",
+   "alt": [
+    "Jo'burg"
+   ]
   }
  ]
 }
