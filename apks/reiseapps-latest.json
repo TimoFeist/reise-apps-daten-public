@@ -1,11 +1,14 @@
 {
- "vc": 44,
- "vn": "1.0.44",
+ "vc": 45,
+ "vn": "1.0.45",
  "changes": [
-  "Apps zeigen jetzt ihr echtes Logo (direkt von Google Play, danach auf dem Handy gespeichert) statt eines Buchstabens",
-  "LGBTQ+-Orte: Pride- und CSD-Termine im Land, deine Stadt zuerst, dazu „Pride während der Reise“"
+  "Pride-Kalender: Suche nach Stadt, Land oder Name (auch „Munich“ findet München), mit Link zur Homepage",
+  "Monatsansicht mit Filtern: Land, weltweit, deine Reisen oder Umkreis",
+  "Kalender abonnieren (Google Kalender oder andere Kalender-App), neue Termine kommen von selbst",
+  "Jetzt rund 780 Pride- und CSD-Termine in 69 Ländern",
+  "Dänisch, Isländisch, Norwegisch, Niederländisch und Schwedisch: Zahlen vor den Texten entfernt"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=ad5076c7f38f1d8d",
- "size": 3501516,
- "sha256": "ad5076c7f38f1d8d371af27784d6de7adc73add17063cbd71fb2fe73db21b9a4"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=7de17f7022ea92da",
+ "size": 3600472,
+ "sha256": "7de17f7022ea92dae465d76fa5495fc5d7ca8248d842adac8e366f7698dc4baf"
 }
