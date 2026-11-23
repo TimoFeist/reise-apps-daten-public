@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 13:19",
+ "version": "2026-11-23 13:30",
  "categories": [
   {
    "id": "entry",
@@ -803,7 +803,8 @@
      "cat": "micro",
      "note": "Räder, E-Bikes und E-Scooter, z. B. Manchester und Birmingham",
      "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes",
-     "ios": 1386768364
+     "ios": 1386768364,
+     "pkg": "cc.beryl.basis"
     },
     {
      "name": "PayByPhone",
@@ -972,7 +973,8 @@
        "cat": "micro",
        "note": "E-Bikes in vielen Londoner Bezirken, Parken in grünen Zonen",
        "src": "https://www.cyclinguk.org/article/guide-cycle-share-schemes",
-       "ios": 6443626172
+       "ios": 6443626172,
+       "pkg": "app.humanforest"
       }
      ],
      "ll": [
@@ -2970,7 +2972,8 @@
      "use": "limited",
      "req": "Volljährig, Motorradführerschein oder Autoführerschein seit 3 Jahren, Kreditkarte",
      "src": "https://www.ifema.es/visita-madrid/guias/alquiler-motos-madrid",
-     "ios": 1423637618
+     "ios": 1423637618,
+     "pkg": "com.acciona.mobility.app"
     },
     {
      "name": "Cooltra",
@@ -3939,7 +3942,8 @@
        "cat": "tourism",
        "note": "Digitale Museumskarte für über 60 Museen",
        "src": "https://apps.apple.com/us/app/firenzecard/id1276107302",
-       "ios": 1276107302
+       "ios": 1276107302,
+       "pkg": "org.lineacomune.firenzecard"
       }
      ],
      "ll": [
@@ -4484,7 +4488,8 @@
        "cat": "transit",
        "note": "Echtzeit für Busse im Umland von Lissabon",
        "src": "https://apps.apple.com/us/app/id6553675889",
-       "ios": 6553675889
+       "ios": 6553675889,
+       "pkg": "pt.carrismetropolitana.mobile"
       },
       {
        "name": "navegante",
@@ -4493,7 +4498,8 @@
        "src": "https://apps.apple.com/app/id6484591306",
        "use": "limited",
        "req": "Physische navegante Karte und Handy mit NFC nötig",
-       "ios": 6484591306
+       "ios": 6484591306,
+       "pkg": "pt.card4b.navegante"
       },
       {
        "name": "Citymapper",
@@ -6313,7 +6319,8 @@
      "use": "limited",
      "req": "EU-Führerschein oder internationaler Führerschein, Kredit- oder Debitkarte",
      "src": "https://www.24rent.fi/en/helsinki-city-car-rental/",
-     "ios": 1070267611
+     "ios": 1070267611,
+     "pkg": "fi.twentyfourrent.app"
     }
    ],
    "cities": [
@@ -6800,7 +6807,8 @@
        "use": "limited",
        "req": "Konto mit internetfähiger Bankkarte, Tages- oder Saisonticket",
        "src": "https://tartu.ee/en/news/tartu-bike-share-system-to-launch-on-8-june",
-       "ios": 1458482220
+       "ios": 1458482220,
+       "pkg": "com.bewegen.tartu"
       }
      ],
      "ll": [
@@ -7139,7 +7147,8 @@
        "use": "limited",
        "req": "Gültiger Führerschein nötig",
        "src": "https://www.liveriga.com/en/11941-micromobility-transportation",
-       "ios": 1480384239
+       "ios": 1480384239,
+       "pkg": "com.skoksharing.app"
       },
       {
        "name": "Rīgas satiksme",
@@ -8727,7 +8736,8 @@
        "cat": "tourism",
        "note": "Stadt-App mit Bussen, Vël'Ok-Stationen und Parkplätzen",
        "src": "https://apps.apple.com/us/app/id601306163",
-       "ios": 601306163
+       "ios": 601306163,
+       "pkg": "lu.vde"
       }
      ],
      "ll": [
@@ -9732,7 +9742,8 @@
      "cat": "safety",
      "note": "Offizieller Wetterdienst mit Unwetterwarnungen",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/irland-node/irlandsicherheit-211460",
-     "ios": 592109880
+     "ios": 592109880,
+     "pkg": "net.fusio.meteireann"
     }
    ],
    "cities": [
@@ -9749,7 +9760,8 @@
        "use": "limited",
        "req": "Konto mit Kontaktdaten und Kennzeichen nötig",
        "src": "https://apps.apple.com/app/id1084312534",
-       "ios": 1084312534
+       "ios": 1084312534,
+       "pkg": "com.parkmagic.corkpark"
       }
      ],
      "ll": [
@@ -9827,7 +9839,8 @@
        "cat": "parking",
        "note": "Offizielle Park-App der Stadt, ohne Zusatzgebühr",
        "src": "https://www.galwaycity.ie/news/2024/galway-city-council-introduces-app-and-online-parking-payment-solutions",
-       "ios": 6737975507
+       "ios": 6737975507,
+       "pkg": "com.parkmagic.galway"
       }
      ],
      "ll": [
@@ -9848,7 +9861,8 @@
        "use": "limited",
        "req": "Registrierung in App oder online vor dem Bezahlen nötig",
        "src": "https://www.limerick.ie/council/parking",
-       "ios": 1052177334
+       "ios": 1052177334,
+       "pkg": "com.parkmagic.mobile.limerick"
       }
      ],
      "ll": [
@@ -10405,7 +10419,8 @@
        "cat": "tourism",
        "note": "Veranstaltungskalender des Gozo-Ministeriums",
        "src": "https://apps.apple.com/app/id6466782863",
-       "ios": 6466782863
+       "ios": 6466782863,
+       "pkg": "mt.gov.eventsingozo"
       }
      ],
      "ll": [
@@ -11517,7 +11532,8 @@
      "use": "no",
      "req": "Verifizierung und lokale Einzahlung nötig, für Einwohner gedacht",
      "src": "https://www.bento.travel/mexico/payments",
-     "ios": 1511764877
+     "ios": 1511764877,
+     "pkg": "com.pagopopmobile"
     },
     {
      "name": "Wise",
@@ -13971,7 +13987,8 @@
        "cat": "transit",
        "note": "ÖPNV-Tickets in Plzeň, Einzelfahrschein ohne Registrierung",
        "src": "https://www.visitplzen.eu/en/useful-information/transport-around-pilsen/",
-       "ios": 6738981261
+       "ios": 6738981261,
+       "pkg": "cz.odp.vpkng"
       }
      ],
      "ll": [
@@ -16581,7 +16598,8 @@
      "note": "Kartenzahlung in Bus und Bahn verwalten",
      "use": "limited",
      "req": "Kontaktlose Bankkarte nötig, nicht auf allen Linien",
-     "src": "https://apps.apple.com/co/app/sinpe-tp-pasajero/id1612109967"
+     "src": "https://apps.apple.com/co/app/sinpe-tp-pasajero/id1612109967",
+     "pkg": "com.sinpetp.appMovilCliente"
     },
     {
      "name": "Incofer CR",
@@ -17004,7 +17022,8 @@
        "cat": "transit",
        "note": "Empfohlene Bus-App, Fahrt nur mit SUBE-Karte",
        "src": "https://turismo.cordoba.gob.ar/wp-content/uploads/2026/07/DATOS-UTILES-CIUDAD-DE-CORDOBA.pdf",
-       "ios": 6756852729
+       "ios": 6756852729,
+       "pkg": "torrezmartin.tubondi"
       }
      ],
      "ll": [
@@ -17270,7 +17289,8 @@
      "use": "limited",
      "req": "Anmeldung mit Reisepass, ausländische Karte nicht immer ok",
      "src": "https://caminhoslanguages.com/blog/rent-bike-rio-de-janeiro",
-     "ios": 1270864475
+     "ios": 1270864475,
+     "pkg": "pbsc.cyclefinder.tembici"
     },
     {
      "name": "Whoosh",
@@ -17683,7 +17703,9 @@
      "use": "limited",
      "req": "Vorab Registrierung mit Daten und Zahlungsmittel",
      "src": "https://chocale.cl/2025/01/boom-arriendos-de-auto-rent-a-car-flexibles-verano/",
-     "ios": 1436690858
+     "ios": 1436690858,
+     "pkg": "com.goodtravelsoftware.sharecar.toyotaargentina",
+     "ic": "4H8f5FMGUvsq2Mcb8kmo5EIjRSeYShpiiJnkvcLe7L-vHQ2aO88iV6yCYmkn4Y02AXkvy0ibWb7L3tb3Elv2RGg"
     },
     {
      "name": "Lolocar",
@@ -17757,7 +17779,8 @@
        "use": "limited",
        "req": "Annahme ausländischer Karten nicht belegt",
        "src": "https://chocale.cl/2026/06/bike-itau-ofrecera-servicio-de-bicicletas-gratis-en-santiago-por-un-mes/",
-       "ios": 1270864475
+       "ios": 1270864475,
+       "pkg": "pbsc.cyclefinder.tembici"
       }
      ],
      "ll": [
@@ -18992,7 +19015,8 @@
      "note": "Verbreitetste Fahrdienst-App der Insel, bar oder Karte",
      "ess": true,
      "src": "https://apps.apple.com/mu/app/yugo/id1410764129",
-     "ios": 1410764129
+     "ios": 1410764129,
+     "pkg": "com.yugo.app"
     },
     {
      "name": "MoKabb",
@@ -19067,7 +19091,8 @@
      "use": "no",
      "req": "Konto bei der MCB auf Mauritius nötig",
      "src": "https://appgoblin.info/apps/com.mcbmu.juice",
-     "ios": 1525428458
+     "ios": 1525428458,
+     "pkg": "com.mcbmu.juice"
     },
     {
      "name": "MAPS.ME",
@@ -19891,7 +19916,8 @@
      "cat": "delivery",
      "note": "Vorbestellen und in der Filiale abholen",
      "src": "https://apps.apple.com/ag/app/subway-antigua/id1613950773",
-     "ios": 1613950773
+     "ios": 1613950773,
+     "pkg": "uk.co.hungrrr.subwayantigua"
     },
     {
      "name": "ArriveAntigua",
@@ -20467,7 +20493,8 @@
      "cat": "safety",
      "note": "Notruf-App der Touristenpolizei mit Chat, auch Deutsch",
      "src": "https://apps.apple.com/do/app/politurapp/id1607779696",
-     "ios": 1607779696
+     "ios": 1607779696,
+     "pkg": "drpn.politur.app"
     },
     {
      "name": "Alerta COE",
@@ -20706,7 +20733,8 @@
      "cat": "misc",
      "note": "Zeigt Tankstellen mit verfügbarem Benzin oder Diesel",
      "src": "https://www.bento.travel/bolivia",
-     "ios": 6818706015
+     "ios": 6818706015,
+     "pkg": "com.tanqueo.app"
     },
     {
      "name": "Hertz",
@@ -21849,7 +21877,8 @@
      "use": "no",
      "req": "Registrierte Digicel-Fiji-SIM und fidschianische Steuernummer (TIN) nötig",
      "src": "https://www.digicelpacific.com/mobile/fj/mycash-account-updates-and-requirements",
-     "ios": 1531250064
+     "ios": 1531250064,
+     "pkg": "com.digicelfs.mycash"
     },
     {
      "name": "eTransport Fiji",
@@ -22008,7 +22037,8 @@
      "use": "limited",
      "req": "Registrierung mit Telefonnummer, ob ausländische Nummern gehen, ist unklar",
      "src": "https://apps.apple.com/us/app/id1496388213",
-     "ios": 1496388213
+     "ios": 1496388213,
+     "pkg": "com.deliverlogic.goodtogo"
     },
     {
      "name": "Grab N Grub",
@@ -22021,7 +22051,8 @@
      "cat": "tourism",
      "note": "Offizielle App des Guam Visitors Bureau mit Events und Reiseplaner",
      "src": "https://apps.apple.com/mx/app/visit-guam/id6748750533",
-     "ios": 6748750533
+     "ios": 6748750533,
+     "pkg": "com.visitwidget.guam"
     }
    ],
    "cities": [
@@ -22395,7 +22426,8 @@
      "use": "limited",
      "req": "Laut bento.travel Übersetzung, Auswahl und Adresssuche noch lückenhaft",
      "src": "https://www.bento.travel/japan/food-delivery",
-     "ios": 6739188587
+     "ios": 6739188587,
+     "pkg": "com.cpone.customer"
     },
     {
      "name": "Demae-can",
@@ -23297,7 +23329,8 @@
      "use": "no",
      "req": "Angolanisches Bankkonto mit IBAN nötig",
      "src": "https://www.expansao.co.ao/empresas/detalhe/entre-ter-ou-nao-conta-no-banco-kwik-e-multicaixa-express-aceleram-61905.html",
-     "ios": 1433675921
+     "ios": 1433675921,
+     "pkg": "com.sibsint.mcxwallet"
     },
     {
      "name": "Unitel Money",
@@ -23501,7 +23534,8 @@
      "use": "limited",
      "req": "Nur für Kunden mit beninischer MTN-SIM",
      "src": "https://apps.apple.com/be/app/mymtn-bn/id6480581002",
-     "ios": 6480581002
+     "ios": 6480581002,
+     "pkg": "com.mtn.mtnbjnextgen"
     },
     {
      "name": "Sicher Reisen",
@@ -24110,7 +24144,8 @@
        "use": "limited",
        "req": "Konto nötig, Zahlungswege laut Quelle unklar, Bargeld bereithalten",
        "src": "https://apps.apple.com/dk/app/letsgo-bf/id6741215667",
-       "ios": 6741215667
+       "ios": 6741215667,
+       "pkg": "com.bazarsoftech.letsgo"
       },
       {
        "name": "GoChap",
@@ -24136,7 +24171,8 @@
        "use": "limited",
        "req": "Registrierung und Zahlungswege laut Quelle unklar",
        "src": "https://www.sidwaya.info/carrefour/2025/09/03/digitalisation-du-commerce-des-repas-une-opportunite-de-job-pour-des-etudiants/",
-       "ios": 1462750263
+       "ios": 1462750263,
+       "pkg": "bonbizfood.bonbiz.brisco.isma.bf.com.restaurant"
       },
       {
        "name": "Ecomove",
@@ -24443,7 +24479,8 @@
      "use": "limited",
      "req": "An lokale Banken gebunden, Nutzung mit deutscher Karte nicht belegt",
      "src": "https://apps.apple.com/ly/app/pagali/id6449363463",
-     "ios": 6449363463
+     "ios": 6449363463,
+     "pkg": "cv.isone.pagali"
     },
     {
      "name": "Maps.me",
@@ -25222,7 +25259,8 @@
      "use": "limited",
      "req": "Registrierung in der App nötig",
      "src": "https://apps.apple.com/us/app/runman-bz/id6504531841",
-     "ios": 6504531841
+     "ios": 6504531841,
+     "pkg": "com.runman.orders"
     },
     {
      "name": "AccuWeather",
@@ -25608,7 +25646,8 @@
      "cat": "taxi",
      "note": "Fahrten buchen, Zahlung per Karte oder PayPal",
      "src": "https://apps.apple.com/us/app/bookaridegy/id1541296701?l=fr-FR",
-     "ios": 1541296701
+     "ios": 1541296701,
+     "pkg": "com.bookride.passenger"
     },
     {
      "name": "RideGY",
@@ -25665,7 +25704,8 @@
        "use": "limited",
        "req": "Telefonnummer muss per Code bestätigt werden",
        "src": "https://apps.apple.com/gy/app/lehweride/id1497001909",
-       "ios": 1497001909
+       "ios": 1497001909,
+       "pkg": "com.lehweride.passengerapp"
       },
       {
        "name": "GTEats",
@@ -26781,7 +26821,8 @@
        "note": "QR Tickets und Routen für Busse, MRT, LRT und Bahn",
        "use": "limited",
        "req": "Konto mit Telefonnummer nötig, Zahlung meist über QRIS oder lokale Wallets",
-       "src": "https://apps.apple.com/sg/app/jaklingko/id1579262471"
+       "src": "https://apps.apple.com/sg/app/jaklingko/id1579262471",
+       "pkg": "com.jaklingkoindonesia.app"
       }
      ],
      "ll": [
@@ -26799,7 +26840,8 @@
        "name": "Gobis Suroboyo",
        "cat": "transit",
        "note": "Suroboyo Bus live verfolgen, Linien und Haltestellen",
-       "src": "https://apps.apple.com/app/id6745028056"
+       "src": "https://apps.apple.com/app/id6745028056",
+       "pkg": "com.nginovasi.gobis"
       }
      ],
      "ll": [
@@ -27126,7 +27168,8 @@
      "name": "SWING",
      "cat": "micro",
      "note": "Leih-E-Scooter, E-Bikes und Fahrräder",
-     "src": "https://apps.apple.com/us/app/id1459344011"
+     "src": "https://apps.apple.com/us/app/id1459344011",
+     "pkg": "com.co.swing"
     }
    ],
    "cities": [
@@ -27212,13 +27255,15 @@
        "name": "Visit Seoul",
        "cat": "tourism",
        "note": "Offizieller Reiseführer der Seoul Tourism Organization",
-       "src": "https://apps.apple.com/app/id360156429"
+       "src": "https://apps.apple.com/app/id360156429",
+       "pkg": "com.sto.android.client.itourseoul"
       },
       {
        "name": "Discover Seoul Pass",
        "cat": "tourism",
        "note": "Offizieller Sehenswürdigkeitenpass für Seoul",
-       "src": "https://apps.apple.com/app/id1131125136"
+       "src": "https://apps.apple.com/app/id1131125136",
+       "pkg": "com.travolution.discover"
       }
      ],
      "ll": [
@@ -27521,7 +27566,8 @@
        "name": "THE SKYTRAINs",
        "cat": "transit",
        "note": "Offizielle BTS-App für Routen, Preise und Stationen",
-       "src": "https://apps.apple.com/app/id6446191311"
+       "src": "https://apps.apple.com/app/id6446191311",
+       "pkg": "th.btsc.theskytrains"
       }
      ],
      "ll": [
@@ -28304,7 +28350,9 @@
      "note": "Airtel Money für Überweisung, QR-Zahlung und Guthaben",
      "use": "no",
      "req": "Tschadische Airtel-SIM mit Airtel-Money-Konto nötig",
-     "src": "https://apps.apple.com/app/id1462268018"
+     "src": "https://apps.apple.com/app/id1462268018",
+     "pkg": "com.airtel.africa.selfcare",
+     "ic": "6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w"
     },
     {
      "name": "Grindr",
@@ -28474,7 +28522,8 @@
      "note": "Leih-E-Bikes für Besucher und Einheimische",
      "use": "limited",
      "req": "Registrierung in der App nötig",
-     "src": "https://apps.apple.com/us/app/id6443602549"
+     "src": "https://apps.apple.com/us/app/id6443602549",
+     "pkg": "com.bewegen.bermuda"
     },
     {
      "name": "Whip Rideshare",
@@ -28851,7 +28900,8 @@
      "name": "ABC Curaçao",
      "cat": "transit",
      "note": "Fahrpläne, Haltestellen und Echtzeit-Ankünfte der Busse",
-     "src": "https://apps.apple.com/app/id1570156545"
+     "src": "https://apps.apple.com/app/id1570156545",
+     "pkg": "com.autobusbedrijf"
     },
     {
      "name": "Click Curaçao",
@@ -28869,7 +28919,8 @@
      "note": "Taxi mit Festpreis buchen, Fahrer live verfolgen",
      "use": "limited",
      "req": "Registrierung mit Telefonnummer nötig",
-     "src": "https://apps.apple.com/us/app/id1571466170"
+     "src": "https://apps.apple.com/us/app/id1571466170",
+     "pkg": "com.taxicaller.TAXICURACAO247.app"
     },
     {
      "name": "Bob Delivery",
@@ -29319,7 +29370,8 @@
      "name": "Suriname App",
      "cat": "tourism",
      "note": "Reiseführer mit Orten, Touren, Lokalen und Unterkünften",
-     "src": "https://apps.apple.com/app/id6639612442"
+     "src": "https://apps.apple.com/app/id6639612442",
+     "pkg": "com.ast.thesurinameapp"
     },
     {
      "name": "Uni5Pay+",
@@ -29327,7 +29379,8 @@
      "note": "Lokales Wallet für Zahlungen per QR-Code und Telefonnummer",
      "use": "limited",
      "req": "Für Einheimische gedacht, Bedingungen für Ausländer nicht belegt",
-     "src": "https://apps.apple.com/us/app/uni5pay/id1464144473"
+     "src": "https://apps.apple.com/us/app/uni5pay/id1464144473",
+     "pkg": "com.unionpay.scomapp"
     }
    ],
    "cities": [
@@ -30452,7 +30505,8 @@
      "note": "Orange Money, Guthaben und Datenpakete in einer App",
      "use": "limited",
      "req": "Für Orange Money lokale Orange-SIM nötig",
-     "src": "https://apps.apple.com/app/id1061120855"
+     "src": "https://apps.apple.com/app/id1061120855",
+     "pkg": "com.orange.myorange.oci"
     },
     {
      "name": "Sicher Reisen",
@@ -30483,7 +30537,8 @@
        "note": "Linien und Routen der SOTRA-Busse in Abidjan",
        "use": "limited",
        "req": "Bezahlung in der App nur per Wave mit ivorischer Nummer",
-       "src": "https://apps.apple.com/app/id6443695261"
+       "src": "https://apps.apple.com/app/id6443695261",
+       "pkg": "com.asis.sotraandroid"
       }
      ],
      "ll": [
@@ -30919,7 +30974,8 @@
      "note": "Fahrdienst mit Preisschätzung vor der Buchung",
      "use": "limited",
      "req": "Konto in der App nötig, Bedingungen nicht angegeben",
-     "src": "https://apps.apple.com/us/app/id6756010815"
+     "src": "https://apps.apple.com/us/app/id6756010815",
+     "pkg": "com.dash.ride"
     },
     {
      "name": "Kiwitaxi",
@@ -31086,7 +31142,8 @@
      "note": "Essen von Restaurants und Cafés liefern lassen",
      "use": "limited",
      "req": "Liefergebiet und Anmeldung laut Quelle unklar",
-     "src": "https://apps.apple.com/dk/app/pajussi/id1620340068"
+     "src": "https://apps.apple.com/dk/app/pajussi/id1620340068",
+     "pkg": "com.customer.pajussi"
     },
     {
      "name": "maps.me",
@@ -31546,7 +31603,8 @@
      "name": "Plan NC",
      "cat": "maps",
      "note": "Lokaler Stadtplan und Adresssuche für Neukaledonien",
-     "src": "https://apps.apple.com/st/app/plan-nc/id1426105729"
+     "src": "https://apps.apple.com/st/app/plan-nc/id1426105729",
+     "pkg": "com.lafabrik.plan"
     },
     {
      "name": "BNC MaCarte",
@@ -31554,7 +31612,8 @@
      "note": "Kartenverwaltung der Banque de Nouvelle-Calédonie",
      "use": "no",
      "req": "Nur mit Konto und Karte der BNC",
-     "src": "https://apps.apple.com/us/app/bnc-macarte/id6449153469"
+     "src": "https://apps.apple.com/us/app/bnc-macarte/id6449153469",
+     "pkg": "com.bncmacarte"
     }
    ],
    "cities": [
@@ -31603,7 +31662,8 @@
        "name": "Grall",
        "cat": "tourism",
        "note": "Audiotouren durch Nouméa und das Bagno auf Île Nou",
-       "src": "https://au.newcaledonia.travel/offers/parcours-historique-du-bagne-de-lile-nou-appli-grall-noumea-en-au-4117362"
+       "src": "https://au.newcaledonia.travel/offers/parcours-historique-du-bagne-de-lile-nou-appli-grall-noumea-en-au-4117362",
+       "pkg": "io.glorytech.grall"
       }
      ],
      "ll": [
@@ -33367,7 +33427,8 @@
      "note": "Privatautos zum Selbstfahren mieten",
      "use": "limited",
      "req": "Identitätsprüfung in der App, Bedingungen für Ausländer unklar",
-     "src": "https://apps.apple.com/us/app/id6759645309"
+     "src": "https://apps.apple.com/us/app/id6759645309",
+     "pkg": "ph.oopa.app"
     }
    ],
    "cities": [
@@ -33971,7 +34032,8 @@
        "note": "Fahrdienst mit Festpreis und Live-Verfolgung",
        "use": "limited",
        "req": "Registrierung mit Telefonnummer, lokale Nummer kann nötig sein",
-       "src": "https://apps.apple.com/app/id6745259668"
+       "src": "https://apps.apple.com/app/id6745259668",
+       "pkg": "com.buris.buga"
       },
       {
        "name": "Avis",
@@ -34120,7 +34182,8 @@
      "note": "Guthaben und Datenpakete für MTN-SIM verwalten",
      "use": "limited",
      "req": "Lokale MTN-SIM nötig",
-     "src": "https://apps.apple.com/us/app/id1509957641"
+     "src": "https://apps.apple.com/us/app/id1509957641",
+     "pkg": "com.mymtnnextgen"
     },
     {
      "name": "eMali",
@@ -34291,7 +34354,8 @@
        "note": "Lieferung von Essen, Lebensmitteln und Medikamenten",
        "use": "limited",
        "req": "Konto mit Telefonnummer und Lieferadresse nötig",
-       "src": "https://apps.apple.com/us/app/id1635958341"
+       "src": "https://apps.apple.com/us/app/id1635958341",
+       "pkg": "com.bakoai.fastbox"
       },
       {
        "name": "Avis",
@@ -34698,7 +34762,8 @@
      "ess": true,
      "use": "limited",
      "req": "Telefonnummer vermutlich nötig; Zahlung bar oder per lokalem Mobile Money",
-     "src": "https://apps.apple.com/app/id6746125541"
+     "src": "https://apps.apple.com/app/id6746125541",
+     "pkg": "gamride.taxi.gambia.passenger"
     },
     {
      "name": "Tardem",
@@ -34884,7 +34949,8 @@
      "name": "Rando Guadeloupe",
      "cat": "tourism",
      "note": "Wanderwege des Nationalparks, auch offline mit GPS",
-     "src": "https://apps.apple.com/us/app/id1261275189"
+     "src": "https://apps.apple.com/us/app/id1261275189",
+     "pkg": "com.guadeloupe.rando"
     },
     {
      "name": "Nav&Co",
@@ -34937,7 +35003,8 @@
        "name": "Karu'Vélo",
        "cat": "micro",
        "note": "E-Leihräder im Selbstverleih in Pointe-à-Pitre",
-       "src": "https://apps.apple.com/us/app/karuvelo/id1632440617?l=en"
+       "src": "https://apps.apple.com/us/app/karuvelo/id1632440617?l=en",
+       "pkg": "com.ecovelo.karuvelo"
       }
      ],
      "ll": [
@@ -35167,7 +35234,8 @@
        "note": "App der Stadt, Karte aufladen und Guthaben sehen",
        "use": "limited",
        "req": "Eigene Karte nötig, Konto mit Name, E-Mail und Telefon",
-       "src": "https://apps.apple.com/hn/app/tciudadana/id1572346788?l=en-GB"
+       "src": "https://apps.apple.com/hn/app/tciudadana/id1572346788?l=en-GB",
+       "pkg": "cl.solem.pocae"
       }
      ],
      "ll": [
@@ -35335,13 +35403,15 @@
      "note": "Guthaben und Datenpakete für Tigo aufladen",
      "use": "limited",
      "req": "Nur mit Tigo SIM-Karte sinnvoll",
-     "src": "https://apps.apple.com/hn/app/mi-tigo-honduras/id925903504"
+     "src": "https://apps.apple.com/hn/app/mi-tigo-honduras/id925903504",
+     "pkg": "com.directoriotigo.hwm"
     },
     {
      "name": "Galaxy Wave App",
      "cat": "rail",
      "note": "Fähre La Ceiba, Roatán, Utila, Guanaja (nur iPhone)",
-     "src": "https://apps.apple.com/mx/app/galaxy-wave-app/id6746731402"
+     "src": "https://apps.apple.com/mx/app/galaxy-wave-app/id6746731402",
+     "pkg": "com.roatanferry.waveapp"
     }
    ],
    "cities": [],
@@ -35879,7 +35949,8 @@
      "name": "GoFood (PNG) Customer",
      "cat": "delivery",
      "note": "Essen und Lebensmittel liefern lassen, Bar oder Karte",
-     "src": "https://apps.apple.com/us/app/id1613894170"
+     "src": "https://apps.apple.com/us/app/id1613894170",
+     "pkg": "com.wlf.gofood"
     },
     {
      "name": "Avis",
@@ -35906,7 +35977,8 @@
      "note": "Mobile-Banking der größten Bank des Landes",
      "use": "no",
      "req": "Nur mit BSP-Konto und Internetbanking-Zugang",
-     "src": "https://apps.apple.com/gr/app/bsp-png/id6445806515"
+     "src": "https://apps.apple.com/gr/app/bsp-png/id6445806515",
+     "pkg": "com.bsp.png.production"
     }
    ],
    "cities": [
@@ -36864,7 +36936,8 @@
      "cat": "rail",
      "note": "Reservierte Sitzplätze bis 30 Tage vorher buchen",
      "ess": true,
-     "src": "https://seatreservation.railway.gov.lk/"
+     "src": "https://seatreservation.railway.gov.lk/",
+     "pkg": "sl.railway.reservation"
     },
     {
      "name": "NTC Bus Information",
@@ -37355,7 +37428,8 @@
        "name": "Taichung MRT",
        "cat": "transit",
        "note": "Offizielle Metro-App, nur auf Chinesisch",
-       "src": "https://apps.apple.com/app/id1532866812"
+       "src": "https://apps.apple.com/app/id1532866812",
+       "pkg": "tw.com.tmrt.app"
       }
      ],
      "ll": [
@@ -37415,7 +37489,8 @@
        "name": "Taipei FunPASS",
        "cat": "tourism",
        "note": "Begleitapp zum Pass für ÖPNV und Attraktionen",
-       "src": "https://apps.apple.com/us/app/taipei-funpass-easy-taipei/id6479234920"
+       "src": "https://apps.apple.com/us/app/taipei-funpass-easy-taipei/id6479234920",
+       "pkg": "tw.com.fontrip.citypass.taipei.production"
       }
      ],
      "ll": [
@@ -37748,7 +37823,8 @@
      "note": "Fahrdienst mit Auto in mehreren Städten Liberias",
      "use": "limited",
      "req": "Zahlungsweg in der Quelle nicht genannt, US-Dollar bar bereithalten",
-     "src": "https://apps.apple.com/lr/app/ormuta/id6740851035"
+     "src": "https://apps.apple.com/lr/app/ormuta/id6740851035",
+     "pkg": "com.ormuta.rider"
     },
     {
      "name": "Quickpick Delivery",
@@ -37756,7 +37832,8 @@
      "note": "Essen, Einkäufe und Pakete liefern lassen",
      "use": "limited",
      "req": "Zahlungsweg in der Quelle nicht genannt",
-     "src": "https://apps.apple.com/app/id6743645138"
+     "src": "https://apps.apple.com/app/id6743645138",
+     "pkg": "quickpick.customer.app"
     },
     {
      "name": "MyMTN Liberia",
@@ -37774,7 +37851,8 @@
      "note": "Orange Money und Guthaben in einer App",
      "use": "no",
      "req": "Orange-Liberia-Nummer mit Orange-Money-Konto nötig",
-     "src": "https://apps.apple.com/lr/app/orange-max-it-liberia/id6746187327"
+     "src": "https://apps.apple.com/lr/app/orange-max-it-liberia/id6746187327",
+     "pkg": "com.orange.myorange.olr"
     },
     {
      "name": "Grindr",
@@ -37920,7 +37998,8 @@
      "note": "Mobile Money von Econet für Händler und Rechnungen",
      "use": "no",
      "req": "Aktive Econet-Lesotho-SIM und Ausweis nötig",
-     "src": "https://apps.apple.com/us/app/id6476985469"
+     "src": "https://apps.apple.com/us/app/id6476985469",
+     "pkg": "com.ecocash.ecocashapp"
     }
    ],
    "cities": [
@@ -38894,7 +38973,8 @@
      "note": "Fahrten und Transporte in Tripolis und Misrata",
      "use": "limited",
      "req": "Konto mit Telefonnummer nötig",
-     "src": "https://apps.apple.com/us/app/id6754839570"
+     "src": "https://apps.apple.com/us/app/id6754839570",
+     "pkg": "hubbir.taxi.libya.passenger"
     },
     {
      "name": "Presto",
@@ -38914,7 +38994,8 @@
      "note": "Leih-E-Scooter per QR-Code in festen Zonen",
      "use": "limited",
      "req": "Bediengebiete nicht genannt, vorab in der App prüfen",
-     "src": "https://apps.apple.com/us/app/-/id6747382211"
+     "src": "https://apps.apple.com/us/app/-/id6747382211",
+     "pkg": "app.luna.micromobility.customer"
     },
     {
      "name": "Grindr",
@@ -38941,7 +39022,8 @@
        "note": "Fahrdienst mit Fahrerinnen nur für Frauen",
        "use": "limited",
        "req": "Nur für Frauen als Fahrgäste",
-       "src": "https://apps.apple.com/us/app/id6738202787"
+       "src": "https://apps.apple.com/us/app/id6738202787",
+       "pkg": "eilda.rides.passenger"
       },
       {
        "name": "Sixt",
@@ -39218,7 +39300,8 @@
      "note": "Orange-Money-Wallet, Guthaben und QR-Zahlungen",
      "use": "limited",
      "req": "Für die meisten Funktionen Orange-Mali-Anschluss nötig",
-     "src": "https://apps.apple.com/ml/app/orange-max-it-mali/id1494321079?l=fr-FR"
+     "src": "https://apps.apple.com/ml/app/orange-max-it-mali/id1494321079?l=fr-FR",
+     "pkg": "com.oml.dsi.orangemobile"
     },
     {
      "name": "Grindr",
@@ -40845,7 +40928,8 @@
      "name": "Discover Samoa",
      "cat": "tourism",
      "note": "Reiseführer mit Stränden, Restaurants und Events, offline",
-     "src": "https://apps.apple.com/ph/app/id6752038091"
+     "src": "https://apps.apple.com/ph/app/id6752038091",
+     "pkg": "com.discover.samoa"
     },
     {
      "name": "Samoa Airways",
@@ -41150,7 +41234,8 @@
      "note": "Carsharing der Shlomo-Gruppe, Abrechnung pro Kilometer",
      "use": "limited",
      "req": "Mindestens ein Jahr Führerschein, Annahme ausländischer Führerscheine nicht bestätigt",
-     "src": "https://apps.apple.com/us/app/share-israel-car-sharing/id1434638857"
+     "src": "https://apps.apple.com/us/app/share-israel-car-sharing/id1434638857",
+     "pkg": "com.positive_apps.buzz_car.prod"
     },
     {
      "name": "GoTo (CAR2GO) Shared Mobility",
@@ -41390,7 +41475,8 @@
      "note": "Mietwagen am Flughafen Queen Alia, in Amman und Aqaba",
      "use": "limited",
      "req": "Mietbedingungen wie Führerschein und Mindestalter beim Anbieter prüfen",
-     "src": "https://apps.apple.com/mx/app/dollar-jo/id6566177509"
+     "src": "https://apps.apple.com/mx/app/dollar-jo/id6566177509",
+     "pkg": "com.dollar.rentguruz.b2c"
     },
     {
      "name": "Grindr",
@@ -41823,7 +41909,8 @@
      "name": "Visit Saudi",
      "cat": "tourism",
      "note": "Offizielle App der Tourismusbehörde mit Karte und Events",
-     "src": "https://apps.apple.com/us/app/visit-saudi/id818179871"
+     "src": "https://apps.apple.com/us/app/visit-saudi/id818179871",
+     "pkg": "sa.gov.apps.sauditourism"
     },
     {
      "name": "Saudi Events",
@@ -41948,7 +42035,8 @@
        "note": "Busnetz Dschidda per App, seit 2025",
        "use": "limited",
        "req": "Ausländer berichten von Sperren ohne saudische Telefonnummer",
-       "src": "https://www.bento.travel/saudi-arabia/transit"
+       "src": "https://www.bento.travel/saudi-arabia/transit",
+       "pkg": "com.saptco.android.afcjd"
       }
      ],
      "ll": [
@@ -42043,7 +42131,8 @@
        "name": "Riyadh Season",
        "cat": "tourism",
        "note": "Offizielle App der Riyadh Season mit Tickets und Zonen",
-       "src": "https://apps.apple.com/app/id6467569767"
+       "src": "https://apps.apple.com/app/id6467569767",
+       "pkg": "sa.gea.riyadhseason.main"
       }
      ],
      "ll": [
@@ -42658,7 +42747,8 @@
      "name": "GariCo Mobilités à Mayotte",
      "cat": "taxi",
      "note": "Mitfahrten, Taxi, Fährzeiten und M'Safara-Busse",
-     "src": "https://apps.apple.com/us/app/id1587471999"
+     "src": "https://apps.apple.com/us/app/id1587471999",
+     "pkg": "fr.sirel976.garicomayotte"
     },
     {
      "name": "ChronoCourse",
@@ -42763,7 +42853,8 @@
      "name": "Tropicab",
      "cat": "taxi",
      "note": "Fahrdienst für St. Lucia, Fahrten vorab planbar",
-     "src": "https://apps.apple.com/app/id6737500741"
+     "src": "https://apps.apple.com/app/id6737500741",
+     "pkg": "com.tropicab.user"
     },
     {
      "name": "Uber",
@@ -45618,7 +45709,8 @@
        "name": "Tpark",
        "cat": "parking",
        "note": "Parkgebühren in den zentralen Zonen per App zahlen",
-       "src": "https://visit-timisoara.com/useful-info/"
+       "src": "https://visit-timisoara.com/useful-info/",
+       "pkg": "eu.innovaapps.tpark.ro"
       }
      ],
      "ll": [
@@ -46287,7 +46379,8 @@
        "name": "PAAS",
        "cat": "parking",
        "note": "Städtische Park App für die Bratislaver Parkzonen",
-       "src": "https://touchit.sk/aplikacia-paas-platenie-cez-sms/625055/"
+       "src": "https://touchit.sk/aplikacia-paas-platenie-cez-sms/625055/",
+       "pkg": "com.bratislava.paas"
       },
       {
        "name": "EasyPark",
@@ -46302,7 +46395,8 @@
        "name": "Bratislava CARD",
        "cat": "tourism",
        "note": "Digitaler Stadtpass mit Museen, wahlweise mit ÖPNV",
-       "src": "https://apps.apple.com/app/id1621769001"
+       "src": "https://apps.apple.com/app/id1621769001",
+       "pkg": "com.cardberg.bratislavacard"
       }
      ],
      "ll": [
@@ -46968,7 +47062,8 @@
      "cat": "tourism",
      "note": "Offizielle Tourismus-App mit Events, Karte und Visumantrag",
      "ess": true,
-     "src": "https://apps.apple.com/us/app/-/id6753739605"
+     "src": "https://apps.apple.com/us/app/-/id6753739605",
+     "pkg": "kw.gov.visitkuwait"
     },
     {
      "name": "Uber",
@@ -47039,7 +47134,8 @@
      "note": "Busnetz von CityBus mit Planer, Ankunftszeiten und QR-Tickets",
      "use": "limited",
      "req": "Für Tickets Registrierung mit Telefonnummer nötig, Live-Daten oft ungenau",
-     "src": "https://apps.apple.com/app/id6448910217"
+     "src": "https://apps.apple.com/app/id6448910217",
+     "pkg": "com.citybuskw.app"
     },
     {
      "name": "Kuwait Finder",
@@ -47269,7 +47365,8 @@
      "note": "Polizei-App mit Notruf 9999, Visumstatus und Verkehrsstrafen",
      "use": "limited",
      "req": "Anmeldebedingungen für Besucher laut Quelle unklar",
-     "src": "https://apps.apple.com/app/id603143280"
+     "src": "https://apps.apple.com/app/id603143280",
+     "pkg": "pkg.rop"
     },
     {
      "name": "Oman Ministry of Foreign Affairs",
@@ -47771,7 +47868,8 @@
        "ess": true,
        "use": "limited",
        "req": "Nur auf Französisch; Ticketkauf vermutlich per Mobile Money",
-       "src": "https://apps.apple.com/ge/app/sunubrt/id6476969132"
+       "src": "https://apps.apple.com/ge/app/sunubrt/id6476969132",
+       "pkg": "prod.maasify.dakar"
       }
      ],
      "ll": [
@@ -47871,7 +47969,8 @@
      "note": "Lokale Wallet, Zahlen per QR-Code bei Händlern",
      "use": "limited",
      "req": "Registrierung laut Quelle unklar; Aufladung per Visa oder Bank",
-     "src": "https://apps.apple.com/st/app/dobra-digital/id1557688732"
+     "src": "https://apps.apple.com/st/app/dobra-digital/id1557688732",
+     "pkg": "io.ionic.dobra.digital"
     },
     {
      "name": "Maps.me",
@@ -48018,7 +48117,8 @@
      "note": "Essen und Einkäufe von lokalen Partnern liefern lassen",
      "use": "limited",
      "req": "Konto mit E-Mail nötig, Android Version in der Quelle nicht belegt",
-     "src": "https://apps.apple.com/us/app/isleat/id6755629800"
+     "src": "https://apps.apple.com/us/app/isleat/id6755629800",
+     "pkg": "com.Isleat.app.food"
     },
     {
      "name": "Boomerang Express",
@@ -48032,7 +48132,8 @@
      "name": "My Virgin Islands",
      "cat": "tourism",
      "note": "Inselguide mit Events, Karten und Verzeichnis aller drei Inseln",
-     "src": "https://apps.apple.com/us/app/my-virgin-islands/id345832106"
+     "src": "https://apps.apple.com/us/app/my-virgin-islands/id345832106",
+     "pkg": "vi.myvirginislands"
     },
     {
      "name": "Hertz",
@@ -48902,7 +49003,8 @@
        "name": "Parking Servis Herceg Novi",
        "cat": "parking",
        "note": "Parktickets stunden- oder tageweise per Karte",
-       "src": "https://apps.apple.com/us/app/id6762288363"
+       "src": "https://apps.apple.com/us/app/id6762288363",
+       "pkg": "com.scanCard"
       }
      ],
      "ll": [
@@ -49631,7 +49733,8 @@
      "note": "Elektroautos im Carsharing, Abrechnung pro Minute",
      "use": "limited",
      "req": "Dokumente hochladen, Gesichtsscan und Guthaben aufladen nötig",
-     "src": "https://apps.apple.com/md/app/amigo-car/id1573478882"
+     "src": "https://apps.apple.com/md/app/amigo-car/id1573478882",
+     "pkg": "ru.amigo.app"
     },
     {
      "name": "Glovo",
@@ -49724,7 +49827,8 @@
        "note": "Lokaler Lieferdienst für Restaurantessen",
        "use": "limited",
        "req": "Telefonnummer für Bestellungen nötig, ausländische Nummer nicht bestätigt",
-       "src": "https://apps.apple.com/us/app/straus/id1438722558"
+       "src": "https://apps.apple.com/us/app/straus/id1438722558",
+       "pkg": "straus.mobile"
       },
       {
        "name": "Transit",
@@ -50565,7 +50669,8 @@
        "name": "Visit Yerevan",
        "cat": "tourism",
        "note": "Offizielle Tourismus App der Stadt mit Orten und Aktivitäten",
-       "src": "https://apps.apple.com/sk/app/visit-yerevan/id1599576201"
+       "src": "https://apps.apple.com/sk/app/visit-yerevan/id1599576201",
+       "pkg": "com.VisitYerevan.TheOnlyGroup"
       },
       {
        "name": "Yerevan Card",
@@ -50827,7 +50932,8 @@
      "note": "Staatliches Portal für Fernbustickets von Baku in die Regionen",
      "use": "limited",
      "req": "Registrierung auf biletim.az vor dem Kauf nötig",
-     "src": "https://mincom.gov.az/en/projects/biletimaz-portal"
+     "src": "https://mincom.gov.az/en/projects/biletimaz-portal",
+     "pkg": "com.sinam.Biletim"
     },
     {
      "name": "Waze",
@@ -50844,7 +50950,8 @@
      "note": "Notruf App des Katastrophenschutzministeriums",
      "use": "limited",
      "req": "Telefonnummer und Standort werden verlangt, Registrierung für Ausländer nicht belegt",
-     "src": "https://apps.apple.com/dk/app/112-az/id6737355694"
+     "src": "https://apps.apple.com/dk/app/112-az/id6737355694",
+     "pkg": "az.gov.fhn.app112"
     },
     {
      "name": "Grindr",
@@ -50888,7 +50995,8 @@
        "note": "Carsharing per App, Abrechnung pro Minute oder Tag",
        "use": "limited",
        "req": "Führerschein und Bankkarte nötig, genaue Bedingungen für Ausländer nicht genannt",
-       "src": "https://apps.apple.com/us/app/befree-carsharing-in-baku/id6748035214"
+       "src": "https://apps.apple.com/us/app/befree-carsharing-in-baku/id6748035214",
+       "pkg": "befree.ct.ms"
       },
       {
        "name": "Rentbutik",
@@ -51429,7 +51537,8 @@
      "name": "CamPark",
      "cat": "parking",
      "note": "Staatliche App zeigt freie Parkplätze in Echtzeit",
-     "src": "https://apps.apple.com/app/id6756403958"
+     "src": "https://apps.apple.com/app/id6756403958",
+     "pkg": "com.mef.gdde.cam.park"
     }
    ],
    "cities": [
@@ -51497,7 +51606,8 @@
        "name": "Visit Sihanoukville",
        "cat": "tourism",
        "note": "Reiseführer und News des Tourismusamts der Provinz",
-       "src": "https://apps.apple.com/us/app/id6751818603"
+       "src": "https://apps.apple.com/us/app/id6751818603",
+       "pkg": "com.app.sihanouktourism"
       }
      ],
      "ll": [
@@ -51877,7 +51987,8 @@
      "note": "Dahabshiil-Konten und eDahab-Wallet verwalten",
      "use": "limited",
      "req": "Konto bei Dahabshiil bzw. eDahab nötig",
-     "src": "https://apps.apple.com/td/app/dahabplus/id1498782612"
+     "src": "https://apps.apple.com/td/app/dahabplus/id1498782612",
+     "pkg": "com.dahabplus.dahabplus"
     },
     {
      "name": "Grindr",
@@ -52064,7 +52175,8 @@
        "note": "Essen aus Restaurants in vielen Vierteln von Juba",
        "use": "limited",
        "req": "Konto mit Telefonnummer nötig",
-       "src": "https://apps.apple.com/us/app/id1529546231"
+       "src": "https://apps.apple.com/us/app/id1529546231",
+       "pkg": "com.kajou.bonjour"
       }
      ],
      "ll": [
@@ -52187,7 +52299,8 @@
      "note": "App für Flooz, das Mobile Money von Moov Africa Togo",
      "use": "no",
      "req": "Moov-Togo-SIM mit Flooz-Konto nötig",
-     "src": "https://apps.apple.com/us/app/-/id6747830756"
+     "src": "https://apps.apple.com/us/app/-/id6747830756",
+     "pkg": "com.huawei.moovmoney.tg.uat"
     },
     {
      "name": "Gozem Money",
@@ -52251,7 +52364,8 @@
        "note": "Lieferung von Restaurantessen, Supermarkt und Waren",
        "use": "limited",
        "req": "Am einfachsten mit Barzahlung bei Lieferung, erreichbare Nummer nötig",
-       "src": "https://apps.apple.com/to/app/kaba/id1513025430"
+       "src": "https://apps.apple.com/to/app/kaba/id1513025430",
+       "pkg": "tg.tmye.kaba.brave.one"
       },
       {
        "name": "e-SOTRAL",
@@ -52386,13 +52500,15 @@
      "cat": "delivery",
      "note": "Essen von über 160 Lokalen, Einkäufe und Fahrten",
      "ess": true,
-     "src": "https://apps.apple.com/app/id1175500027"
+     "src": "https://apps.apple.com/app/id1175500027",
+     "pkg": "es.dae.cityxerpa"
     },
     {
      "name": "Mobilitat Andorra",
      "cat": "maps",
      "note": "Straßenlage, Sperrungen und Webcams der Regierung",
-     "src": "https://apps.apple.com/es/app/id1448483075"
+     "src": "https://apps.apple.com/es/app/id1448483075",
+     "pkg": "com.andornet.mobilitat"
     },
     {
      "name": "Andbus",
@@ -52473,7 +52589,8 @@
        "name": "Apparcand Clic&Aparca",
        "cat": "parking",
        "note": "Blaue Parkzonen per App bezahlen",
-       "src": "https://apps.apple.com/cg/app/apparcand-clic-aparca/id6738283256"
+       "src": "https://apps.apple.com/cg/app/apparcand-clic-aparca/id6738283256",
+       "pkg": "es.studiogenesis.innpark.innpark"
       }
      ],
      "ll": [
@@ -53028,7 +53145,8 @@
        "name": "Hungry Monkey Gibraltar",
        "cat": "delivery",
        "note": "Essen von über 75 Lokalen in Gibraltar liefern lassen",
-       "src": "https://apps.apple.com/app/id1461733862"
+       "src": "https://apps.apple.com/app/id1461733862",
+       "pkg": "com.preoday.mobile.hungrymonkey"
       },
       {
        "name": "NomNoms",
@@ -53367,7 +53485,8 @@
      "name": "Hello Tourists",
      "cat": "safety",
      "note": "App der Touristenpolizei mit Kontakten in allen 64 Bezirken",
-     "src": "https://apps.apple.com/us/app/id1563627967"
+     "src": "https://apps.apple.com/us/app/id1563627967",
+     "pkg": "com.police.hellotourist"
     },
     {
      "name": "Grindr",
@@ -53558,7 +53677,8 @@
      "note": "Touristen-Wallet der BCEL für Zahlungen per Lao QR",
      "use": "limited",
      "req": "Passchip-Scan nötig, Aufladen per Karte, laut Bewertungen unzuverlässig",
-     "src": "https://apps.apple.com/app/ezykip/id6473516286"
+     "src": "https://apps.apple.com/app/ezykip/id6473516286",
+     "pkg": "la.bcel.ezykip"
     },
     {
      "name": "BCEL One",
@@ -54741,7 +54861,8 @@
      "name": "Condor Ferries",
      "cat": "rail",
      "note": "Fähren buchen, Bordkarte und Live-Status der Abfahrten",
-     "src": "https://apps.apple.com/md/app/id1451504867?l=en-gb"
+     "src": "https://apps.apple.com/md/app/id1451504867?l=en-gb",
+     "pkg": "com.condorferries.mobile"
     },
     {
      "name": "Aurigny",
@@ -54755,13 +54876,15 @@
      "name": "Takeout.gg",
      "cat": "delivery",
      "note": "Essen von Lokalen, Cafés und Metzgern liefern lassen",
-     "src": "https://apps.apple.com/us/app/id1519386182"
+     "src": "https://apps.apple.com/us/app/id1519386182",
+     "pkg": "gg.donkeydelivers"
     },
     {
      "name": "Food.gg",
      "cat": "delivery",
      "note": "Takeaway von über 30 Lokalen, seit 2022 ohne Update",
-     "src": "https://apps.apple.com/us/app/id1501608248"
+     "src": "https://apps.apple.com/us/app/id1501608248",
+     "pkg": "gg.food.app"
     },
     {
      "name": "Snappy Shopper",
@@ -55089,7 +55212,8 @@
      "name": "Jersey Zoo",
      "cat": "tourism",
      "note": "Offizielle Zoo-App mit Karte, Pflegerzeiten und Rallyes",
-     "src": "https://apps.apple.com/us/app/id6478955756"
+     "src": "https://apps.apple.com/us/app/id6478955756",
+     "pkg": "io.ngage.jersey"
     }
    ],
    "cities": [],
@@ -55219,7 +55343,8 @@
      "name": "LIstory",
      "cat": "tourism",
      "note": "Gratis Begleiter für den Liechtenstein-Weg mit Infostationen",
-     "src": "https://tourismus.li/en/the-liechtenstein-trail/the-listory-app/"
+     "src": "https://tourismus.li/en/the-liechtenstein-trail/the-listory-app/",
+     "pkg": "li.listory.app"
     },
     {
      "name": "Sicher Reisen",
@@ -55450,7 +55575,8 @@
      "name": "TransportBN",
      "cat": "transit",
      "note": "Busverbindungen und Fahrzeiten im Land",
-     "src": "https://apps.apple.com/us/app/transportbn/id1483564880"
+     "src": "https://apps.apple.com/us/app/transportbn/id1483564880",
+     "pkg": "com.ishajaya.transportbn"
     },
     {
      "name": "GoMamam",
@@ -55542,13 +55668,15 @@
      "cat": "payment",
      "note": "Wallet der Bank of Bhutan, Anmeldung per E-Mail ohne SIM",
      "ess": true,
-     "src": "https://www.bhutanhimalaya.com/news/in-bhutan-a-bank-app-widens-the-door-to-cashless-travel"
+     "src": "https://www.bhutanhimalaya.com/news/in-bhutan-a-bank-app-widens-the-door-to-cashless-travel",
+     "pkg": "com.mode.chharo"
     },
     {
      "name": "Drukair",
      "cat": "flights",
      "note": "Flüge der Nationalairline buchen und einchecken",
-     "src": "https://apps.apple.com/us/app/drukair/id1345535182?uo=4"
+     "src": "https://apps.apple.com/us/app/drukair/id1345535182?uo=4",
+     "pkg": "aero.developer.iTravel.drukair"
     },
     {
      "name": "Tourism Bhutan",
@@ -55796,7 +55924,8 @@
      "note": "Essen, Einkäufe und Blumen nach Monaco liefern",
      "use": "limited",
      "req": "Konto nötig, App nur auf Französisch",
-     "src": "https://apps.apple.com/app/id1454440520"
+     "src": "https://apps.apple.com/app/id1454440520",
+     "pkg": "com.eatin.android"
     },
     {
      "name": "Your Monaco",
@@ -56026,13 +56155,15 @@
      "name": "Ostrovok",
      "cat": "hotels",
      "note": "Hotels und Wohnungen, oft Barzahlung vor Ort",
-     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025"
+     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025",
+     "pkg": "ru.ostrovok.android"
     },
     {
      "name": "ZenHotels",
      "cat": "hotels",
      "note": "Hotelbuchung, nimmt ausländische Visa und Mastercard",
-     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025"
+     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025",
+     "pkg": "com.zenhotels.android"
     },
     {
      "name": "Sutochno",
@@ -56048,7 +56179,8 @@
      "note": "Offizieller Reiseplaner mit Touren und Tickets",
      "use": "limited",
      "req": "Käufe mit deutscher Karte nicht möglich",
-     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025"
+     "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025",
+     "pkg": "ru.russpass.tourist"
     },
     {
      "name": "Yandex Afisha",
@@ -56148,7 +56280,8 @@
      "note": "Carsharing in 18 Städten",
      "use": "no",
      "req": "Russische Bankkarte und Führerscheinprüfung nötig",
-     "src": "https://apps.apple.com/app/id1038254296"
+     "src": "https://apps.apple.com/app/id1038254296",
+     "pkg": "com.carshering"
     },
     {
      "name": "Whoosh",
@@ -56607,7 +56740,8 @@
      "note": "Banking der Banca di San Marino",
      "use": "no",
      "req": "Girokonto bei Banca di San Marino nötig",
-     "src": "https://apps.apple.com/app/id977161425"
+     "src": "https://apps.apple.com/app/id977161425",
+     "pkg": "com.aurigaspa.bsmmobile"
     }
    ],
    "cities": [],
@@ -56882,7 +57016,8 @@
      "note": "Taxi und Lieferung in Bagdad, Nadschaf, Babil, Kerbela",
      "use": "limited",
      "req": "Anmeldung per Telefonnummer, ausländische Nummer unklar",
-     "src": "https://apps.apple.com/app/id1447501346"
+     "src": "https://apps.apple.com/app/id1447501346",
+     "pkg": "iq.com.amin.karbala.client"
     },
     {
      "name": "Lezzoo",
@@ -56917,7 +57052,8 @@
      "name": "Iraqi Airways",
      "cat": "flights",
      "note": "Flüge der Nationalairline buchen, Zahlung per Karte",
-     "src": "https://apps.apple.com/lt/app/iraqi-airways/id1455860304"
+     "src": "https://apps.apple.com/lt/app/iraqi-airways/id1455860304",
+     "pkg": "aero.developer.iTravel.iraqiairways"
     },
     {
      "name": "First Iraqi Bank (FIB)",
@@ -57372,7 +57508,8 @@
      "name": "Kazakhstan.travel Guides",
      "cat": "tourism",
      "note": "Register offizieller Guides und Routen",
-     "src": "https://apps.apple.com/us/app/id1610058507"
+     "src": "https://apps.apple.com/us/app/id1610058507",
+     "pkg": "kazakhstan.travel"
     }
    ],
    "cities": [
@@ -58098,14 +58235,16 @@
        "note": "Lieferung von Essen und Einkäufen in Ulaanbaatar",
        "use": "limited",
        "req": "Zahlung über Bank oder E-Payment, ausländische Karte unsicher",
-       "src": "https://apps.apple.com/us/app/id1450600616"
+       "src": "https://apps.apple.com/us/app/id1450600616",
+       "pkg": "com.digitalaggregator.toktok"
       },
       {
        "name": "UB Smart Bus",
        "cat": "transit",
        "note": "Buslinien und Ankunftszeiten live, auf Englisch",
        "ess": true,
-       "src": "https://apps.apple.com/us/app/ub-smart-bus/id1076088335"
+       "src": "https://apps.apple.com/us/app/ub-smart-bus/id1076088335",
+       "pkg": "com.uscc.ubbus"
       },
       {
        "name": "U money",
@@ -58521,7 +58660,8 @@
      "note": "Mietwagen zum Selbstfahren per App",
      "use": "no",
      "req": "Deutscher und internationaler Führerschein nicht anerkannt",
-     "src": "https://apps.apple.com/app/id1607268398"
+     "src": "https://apps.apple.com/app/id1607268398",
+     "pkg": "com.yomafleet.carshare"
     },
     {
      "name": "Viber",
@@ -58715,7 +58855,8 @@
      "note": "Offizielle Buchungs-App der Pakistan Railways",
      "use": "no",
      "req": "Laut Nutzerbewertung CNIC je Fahrgast nötig",
-     "src": "https://apps.apple.com/pk/app/rabta/id6446243993"
+     "src": "https://apps.apple.com/pk/app/rabta/id6446243993",
+     "pkg": "com.easyway.ticket.app"
     },
     {
      "name": "Grindr",
@@ -58804,7 +58945,8 @@
        "note": "Orange Line und Metrobus: Fahrplan live, T-Cash",
        "use": "limited",
        "req": "Kontofunktionen mit Identitätsprüfung, Fahrt auch mit T-Cash-Karte",
-       "src": "https://apps.apple.com/us/app/id1638285980"
+       "src": "https://apps.apple.com/us/app/id1638285980",
+       "pkg": "pk.pitb.punjab.masstransit.punjab_masstransit_authority"
       },
       {
        "name": "Avis",
@@ -58947,7 +59089,8 @@
        "name": "Bethlehem Gate",
        "cat": "tourism",
        "note": "Sehenswürdigkeiten, Öffnungszeiten und Hotels in Bethlehem",
-       "src": "https://apps.apple.com/us/app/bethlehem-gate/id1644048648"
+       "src": "https://apps.apple.com/us/app/bethlehem-gate/id1644048648",
+       "pkg": "com.intertech.bethlehem"
       }
      ],
      "ll": [
@@ -59437,7 +59580,8 @@
      "note": "Mobile Bezahl-App von Telkomcel",
      "use": "no",
      "req": "Registrierung mit Telkomcel-Nummer nötig",
-     "src": "https://apps.apple.com/us/app/tpay-timor-pay/id1514336290"
+     "src": "https://apps.apple.com/us/app/tpay-timor-pay/id1514336290",
+     "pkg": "com.dokuwallettpay.android"
     }
    ],
    "cities": [
@@ -59535,7 +59679,8 @@
      "note": "Fahrer in der Nähe bestellen und live verfolgen",
      "use": "limited",
      "req": "Telefonnummer wird erfasst, Zahlung bar oder per Karte",
-     "src": "https://apps.apple.com/kz/app/ynamly-taksi/id6456042670"
+     "src": "https://apps.apple.com/kz/app/ynamly-taksi/id6456042670",
+     "pkg": "com.takyktilsimaty.ynamlytaxi"
     },
     {
      "name": "Turkmenistan Railway",
@@ -59602,7 +59747,8 @@
        "cat": "transit",
        "note": "Stadtbusse live, Haltestellen und Routen, auch offline",
        "ess": true,
-       "src": "https://apps.apple.com/gd/app/duralga/id1607990462"
+       "src": "https://apps.apple.com/gd/app/duralga/id1607990462",
+       "pkg": "com.takykcheshme.gps"
       },
       {
        "name": "Ýolagçy",
@@ -59786,7 +59932,8 @@
      "note": "Onlinebank mit virtueller Karte, QR-Zahlung und Umtausch",
      "use": "limited",
      "req": "Karte erst nach Identitätsprüfung, Eignung für Ausländer offen",
-     "src": "https://apps.apple.com/us/app/uzum-bank-online/id1492307726"
+     "src": "https://apps.apple.com/us/app/uzum-bank-online/id1492307726",
+     "pkg": "uz.kapitalbank.android"
     },
     {
      "name": "Telegram",
