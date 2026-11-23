@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 14:31",
+ "version": "2026-11-23 17:44",
  "categories": [
   {
    "id": "entry",
@@ -61188,6 +61188,20 @@
  ],
  "prides": [
   {
+   "name": "Naughty St. Nicholas Closing Party",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.94,
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "month": 11,
+   "url": "https://naughtyparty.ticket.io/hUPAkL9C/",
+   "type": "fest",
+   "cat": "party",
+   "lc": "Köln"
+  },
+  {
    "name": "MAD.BEAR Madrid",
    "city": "Madrid",
    "cc": "ES",
@@ -61280,6 +61294,20 @@
     "Kapstadt"
    ],
    "lc": "Cape Town"
+  },
+  {
+   "name": "Naughty Carnival Closing Party",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.94,
+   "start": "2027-02-07",
+   "end": "2027-02-07",
+   "month": 2,
+   "url": "https://naughtyparty.ticket.io/0Rm3YhHG/",
+   "type": "fest",
+   "cat": "party",
+   "lc": "Köln"
   },
   {
    "name": "TasPride Parade & Party in the Park",
@@ -62409,6 +62437,20 @@
    "url": "https://limburgpride.be",
    "last": "2026-07-12",
    "lc": "Liège"
+  },
+  {
+   "name": "Naughty Pride Closing Party",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.94,
+   "start": "2027-07-04",
+   "end": "2027-07-04",
+   "month": 7,
+   "url": "https://naughtyparty.ticket.io/82xN73sV/",
+   "type": "fest",
+   "cat": "party",
+   "lc": "Köln"
   },
   {
    "name": "Geneva Pride",
