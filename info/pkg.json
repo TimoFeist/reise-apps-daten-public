@@ -1,7 +1,8 @@
 {
 "apps": {
 "112 AZ|AZ": {
-"pkg": "",
+"pkg": "az.gov.fhn.app112",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "112MD|MD": {
@@ -9,11 +10,13 @@
 "checked": "2026-11-23"
 },
 "24-7 Taxi Curaçao|CW": {
-"pkg": "",
+"pkg": "com.taxicaller.TAXICURACAO247.app",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "24Rent|FI": {
-"pkg": "",
+"pkg": "fi.twentyfourrent.app",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "2M Scooter|ME": {
@@ -40,7 +43,8 @@
 "checked": "2026-11-23"
 },
 "ABC Curaçao|CW": {
-"pkg": "",
+"pkg": "com.autobusbedrijf",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "AC Parking|NZ": {
@@ -92,7 +96,9 @@
 "checked": "2026-11-23"
 },
 "Acciona|ES": {
-"pkg": "",
+"pkg": "com.acciona.mobility.app",
+"how": "hand",
+"fix": true,
 "checked": "2026-11-23"
 },
 "AccuWeather|BZ": {
@@ -224,7 +230,8 @@
 "checked": "2026-11-23"
 },
 "Amin|IQ": {
-"pkg": "",
+"pkg": "iq.com.amin.karbala.client",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Andbus|AD": {
@@ -275,7 +282,8 @@
 "checked": "2026-11-23"
 },
 "Apparcand Clic&Aparca|AD": {
-"pkg": "",
+"pkg": "es.studiogenesis.innpark.innpark",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Apple Pay, Google Pay, Samsung Wallet|AE": {
@@ -322,7 +330,9 @@
 },
 "Ashgabat (Hypermarkt)|TM": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.takykcheshme.turkmenportal"
 },
 "Ataya|SN": {
 "pkg": "com.activtips.activtip",
@@ -510,15 +520,18 @@
 "checked": "2026-11-23"
 },
 "BNC MaCarte|NC": {
-"pkg": "",
+"pkg": "com.bncmacarte",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "BSM Mobile|SM": {
-"pkg": "",
+"pkg": "com.aurigaspa.bsmmobile",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "BSP PNG|PG": {
-"pkg": "",
+"pkg": "com.bsp.png.production",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Bafa|CV": {
@@ -549,7 +562,9 @@
 },
 "Baladiyeti|OM": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.moi.app.omanobserver"
 },
 "Baly|IQ": {
 "pkg": "",
@@ -573,7 +588,8 @@
 "checked": "2026-11-23"
 },
 "BeFree|AZ": {
-"pkg": "",
+"pkg": "befree.ct.ms",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Beam|NZ": {
@@ -612,19 +628,23 @@
 "checked": "2026-11-23"
 },
 "Beryl|GB": {
-"pkg": "",
+"pkg": "cc.beryl.basis",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Bethlehem Gate|PS": {
-"pkg": "",
+"pkg": "com.intertech.bethlehem",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Bike Itaú|BR": {
-"pkg": "",
+"pkg": "pbsc.cyclefinder.tembici",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Bike Itaú|CL": {
-"pkg": "",
+"pkg": "pbsc.cyclefinder.tembici",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Bike Share Toronto|CA": {
@@ -642,7 +662,8 @@
 "checked": "2026-11-23"
 },
 "Biletim|AZ": {
-"pkg": "",
+"pkg": "com.sinam.Biletim",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "Bimride|BB": {
@@ -704,11 +725,15 @@
 },
 "Blued|CN": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.mylocaltv.krdo"
 },
 "Blued|ID": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.thejakartapost.ndroid"
 },
 "Blued|MY": {
 "pkg": "",
@@ -807,7 +832,8 @@
 "checked": "2026-11-23"
 },
 "BonBiz FooD|BF": {
-"pkg": "",
+"pkg": "bonbizfood.bonbiz.brisco.isma.bf.com.restaurant",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Bonaire Map|BQ": {
@@ -823,7 +849,8 @@
 "checked": "2026-11-23"
 },
 "BookARideGY|GY": {
-"pkg": "",
+"pkg": "com.bookride.passenger",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Booking.com|SB": {
@@ -844,7 +871,8 @@
 "checked": "2026-11-23"
 },
 "Bratislava CARD|SK": {
-"pkg": "",
+"pkg": "com.cardberg.bratislavacard",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "BruHealth|BN": {
@@ -864,7 +892,8 @@
 "checked": "2026-11-23"
 },
 "Buga|GQ": {
-"pkg": "",
+"pkg": "com.buris.buga",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "BusTicket4.me|ME": {
@@ -892,7 +921,8 @@
 "checked": "2026-11-23"
 },
 "CamPark|KH": {
-"pkg": "",
+"pkg": "com.mef.gdde.cam.park",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Cambodia Tourist Police|KH": {
@@ -931,7 +961,8 @@
 "checked": "2026-11-23"
 },
 "Carris Metropolitana|PT": {
-"pkg": "",
+"pkg": "pt.carrismetropolitana.mobile",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Cayman Airways|KY": {
@@ -1003,11 +1034,13 @@
 "checked": "2026-11-23"
 },
 "CityXerpa|AD": {
-"pkg": "",
+"pkg": "es.dae.cityxerpa",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Citybuskw|KW": {
-"pkg": "",
+"pkg": "com.citybuskw.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Citymapper|MC": {
@@ -1040,7 +1073,8 @@
 "checked": "2026-11-23"
 },
 "Condor Ferries|GG": {
-"pkg": "",
+"pkg": "com.condorferries.mobile",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Cooltra|ES": {
@@ -1054,7 +1088,8 @@
 "checked": "2026-11-23"
 },
 "Cork Park by Phone|IE": {
-"pkg": "",
+"pkg": "com.parkmagic.corkpark",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Coupang Eats|KR": {
@@ -1077,7 +1112,9 @@
 },
 "Cyclocity|LT": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.judu"
 },
 "Cyprus Bus|CY": {
 "pkg": "",
@@ -1108,7 +1145,8 @@
 "checked": "2026-11-23"
 },
 "DahabPlus|SO": {
-"pkg": "",
+"pkg": "com.dahabplus.dahabplus",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Dakar Dem Dikk|SN": {
@@ -1121,7 +1159,8 @@
 "checked": "2026-11-23"
 },
 "Dash GND|GD": {
-"pkg": "",
+"pkg": "com.dash.ride",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Daviplata|CO": {
@@ -1138,7 +1177,8 @@
 "checked": "2026-11-23"
 },
 "Delimobil|RU": {
-"pkg": "",
+"pkg": "com.carshering",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Deliveroo|KW": {
@@ -1162,7 +1202,9 @@
 },
 "Dhofar Seasons|OM": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.moi.app.omanobserver"
 },
 "Diaango FOOD|MR": {
 "pkg": "",
@@ -1223,11 +1265,13 @@
 "checked": "2026-11-23"
 },
 "Discover Samoa|WS": {
-"pkg": "",
+"pkg": "com.discover.samoa",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Discover Seoul Pass|KR": {
-"pkg": "",
+"pkg": "com.travolution.discover",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "DiscoverCars|BW": {
@@ -1260,11 +1304,13 @@
 "checked": "2026-11-23"
 },
 "Dobra Digital|ST": {
-"pkg": "",
+"pkg": "io.ionic.dobra.digital",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Dollar-Jo|JO": {
-"pkg": "",
+"pkg": "com.dollar.rentguruz.b2c",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Donkey Republic|BE": {
@@ -1352,7 +1398,8 @@
 "checked": "2026-11-23"
 },
 "Drukair|BT": {
-"pkg": "",
+"pkg": "aero.developer.iTravel.drukair",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Dubai Police|AE": {
@@ -1365,7 +1412,8 @@
 "checked": "2026-11-23"
 },
 "Duralga|TM": {
-"pkg": "",
+"pkg": "com.takykcheshme.gps",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "E-run Cyprus|CY": {
@@ -1438,7 +1486,8 @@
 "checked": "2026-11-23"
 },
 "EZyKip|LA": {
-"pkg": "",
+"pkg": "la.bcel.ezykip",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "EasyPark|CH": {
@@ -1477,11 +1526,13 @@
 "checked": "2026-11-23"
 },
 "EatIn Monaco|MC": {
-"pkg": "",
+"pkg": "com.eatin.android",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "EcoCash App Lesotho|LS": {
-"pkg": "",
+"pkg": "com.ecocash.ecocashapp",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "EcoCash|ZW": {
@@ -1495,7 +1546,9 @@
 },
 "Ecomove|BF": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.burkina24.mafromedia"
 },
 "Ehrana|SI": {
 "pkg": "si.ehrana",
@@ -1503,7 +1556,8 @@
 "checked": "2026-11-23"
 },
 "Eilda|LY": {
-"pkg": "",
+"pkg": "eilda.rides.passenger",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Einreiseformular MINT|NI": {
@@ -1552,7 +1606,9 @@
 },
 "Enjoy|IT": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "ai.enjoy.world"
 },
 "Enterprise|BQ": {
 "pkg": "",
@@ -1582,7 +1638,8 @@
 "checked": "2026-11-23"
 },
 "Esch|LU": {
-"pkg": "",
+"pkg": "lu.vde",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Ethiopia e-Visa|ET": {
@@ -1625,7 +1682,8 @@
 "checked": "2026-11-23"
 },
 "Events in Gozo|MT": {
-"pkg": "",
+"pkg": "mt.gov.eventsingozo",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Evo Car Share|CA": {
@@ -1666,7 +1724,9 @@
 },
 "FNMIS (Foreign Nationals Management Information System)|NP": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.kathmandupost"
 },
 "FR-Alert|BL": {
 "pkg": "",
@@ -1695,7 +1755,8 @@
 "checked": "2026-11-23"
 },
 "Firenzecard|IT": {
-"pkg": "",
+"pkg": "org.lineacomune.firenzecard",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "First Iraqi Bank (FIB)|IQ": {
@@ -1748,7 +1809,8 @@
 "checked": "2026-11-23"
 },
 "Food.gg|GG": {
-"pkg": "",
+"pkg": "gg.food.app",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Food.je|JE": {
@@ -1765,7 +1827,8 @@
 "checked": "2026-11-23"
 },
 "Forest|GB": {
-"pkg": "",
+"pkg": "app.humanforest",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Free2Move|ES": {
@@ -1821,19 +1884,23 @@
 "checked": "2026-11-23"
 },
 "Galaxy Wave App|HN": {
-"pkg": "",
+"pkg": "com.roatanferry.waveapp",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Galway City Parking|IE": {
-"pkg": "",
+"pkg": "com.parkmagic.galway",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Gamride|GM": {
-"pkg": "",
+"pkg": "gamride.taxi.gambia.passenger",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "GariCo Mobilités à Mayotte|YT": {
-"pkg": "",
+"pkg": "fr.sirel976.garicomayotte",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Garinmou|NE": {
@@ -1891,7 +1958,9 @@
 },
 "Ghana e-Visa|GH": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.multimedia.joyonline"
 },
 "Gibraltar Upper Rock Paths|GI": {
 "pkg": "",
@@ -1899,7 +1968,9 @@
 },
 "Gira|PT": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "pt.rtp.noticias.android"
 },
 "Gjirafa Travel|AL": {
 "pkg": "",
@@ -1934,14 +2005,17 @@
 },
 "GoChap Food|BF": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.burkina24.mafromedia"
 },
 "GoChap|BF": {
 "pkg": "",
 "checked": "2026-11-23"
 },
 "GoFood (PNG) Customer|PG": {
-"pkg": "",
+"pkg": "com.wlf.gofood",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "GoKL|MY": {
@@ -1982,15 +2056,18 @@
 "checked": "2026-11-23"
 },
 "Gobis Suroboyo|ID": {
-"pkg": "",
+"pkg": "com.nginovasi.gobis",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Gogo Africa|GA": {
-"pkg": "",
+"pkg": "com.bakoai.fastbox",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Good to Go We Deliver|GU": {
-"pkg": "",
+"pkg": "com.deliverlogic.goodtogo",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Google Pay India|IN": {
@@ -2014,7 +2091,8 @@
 "checked": "2026-11-23"
 },
 "Grall|NC": {
-"pkg": "",
+"pkg": "io.glorytech.grall",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "GrazMobil|AT": {
@@ -2274,11 +2352,15 @@
 },
 "HCMC Metro HURC|VN": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "fo.vnexpress.eng"
 },
 "HKeMeter|HK": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.octopuscards.nfc_reader"
 },
 "HOLEB|GA": {
 "pkg": "",
@@ -2353,7 +2435,8 @@
 "checked": "2026-11-23"
 },
 "Hello Tourists|BD": {
-"pkg": "",
+"pkg": "com.police.hellotourist",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "HelloBike|CN": {
@@ -2372,7 +2455,9 @@
 },
 "Hello|BY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "ru.cmtt.dtf"
 },
 "Here and there Svalbard|SJ": {
 "pkg": "",
@@ -2439,7 +2524,8 @@
 "checked": "2026-11-23"
 },
 "Hubbir|LY": {
-"pkg": "",
+"pkg": "hubbir.taxi.libya.passenger",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Hungry Dodo|MU": {
@@ -2448,7 +2534,8 @@
 "checked": "2026-11-23"
 },
 "Hungry Monkey Gibraltar|GI": {
-"pkg": "",
+"pkg": "com.preoday.mobile.hungrymonkey",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Huri Money|KM": {
@@ -2529,7 +2616,8 @@
 "checked": "2026-11-23"
 },
 "Iraqi Airways|IQ": {
-"pkg": "",
+"pkg": "aero.developer.iTravel.iraqiairways",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Island Go|BM": {
@@ -2541,7 +2629,8 @@
 "checked": "2026-11-23"
 },
 "Isleat|VI": {
-"pkg": "",
+"pkg": "com.Isleat.app.food",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "JET|BR": {
@@ -2565,7 +2654,8 @@
 "checked": "2026-11-23"
 },
 "JakLingko|ID": {
-"pkg": "",
+"pkg": "com.jaklingkoindonesia.app",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "JazzCash|PK": {
@@ -2573,7 +2663,8 @@
 "checked": "2026-11-23"
 },
 "Jeddah Buses|SA": {
-"pkg": "",
+"pkg": "com.saptco.android.afcjd",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "Jersey Bus Tracker|JE": {
@@ -2585,7 +2676,8 @@
 "checked": "2026-11-23"
 },
 "Jersey Zoo|JE": {
-"pkg": "",
+"pkg": "io.ngage.jersey",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Jet|CL": {
@@ -2626,7 +2718,8 @@
 "checked": "2026-11-23"
 },
 "KABA|TG": {
-"pkg": "",
+"pkg": "tg.tmye.kaba.brave.one",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "KARULIS|GP": {
@@ -2664,11 +2757,13 @@
 "checked": "2026-11-23"
 },
 "Karibu App|SS": {
-"pkg": "",
+"pkg": "com.kajou.bonjour",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Karu'Vélo|GP": {
-"pkg": "",
+"pkg": "com.ecovelo.karuvelo",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Kaspi.kz|KZ": {
@@ -2677,7 +2772,8 @@
 "checked": "2026-11-23"
 },
 "Kazakhstan.travel Guides|KZ": {
-"pkg": "",
+"pkg": "kazakhstan.travel",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Keeta|KW": {
@@ -2698,7 +2794,8 @@
 "checked": "2026-11-23"
 },
 "Kinto Share Latam|CL": {
-"pkg": "",
+"pkg": "com.goodtravelsoftware.sharecar.toyotaargentina",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Kiwitaxi|GD": {
@@ -2753,7 +2850,9 @@
 },
 "Kwik Rides|ZM": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "kwik.rides.zambia.taxi.driver"
 },
 "L'Express des Îles|LC": {
 "pkg": "",
@@ -2764,7 +2863,8 @@
 "checked": "2026-11-23"
 },
 "LIstory|LI": {
-"pkg": "",
+"pkg": "li.listory.app",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "LUUP|JP": {
@@ -2799,7 +2899,8 @@
 "checked": "2026-11-23"
 },
 "LehWeRide|GY": {
-"pkg": "",
+"pkg": "com.lehweride.passengerapp",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Let's Eat|KY": {
@@ -2807,7 +2908,8 @@
 "checked": "2026-11-23"
 },
 "LetsGo BF|BF": {
-"pkg": "",
+"pkg": "com.bazarsoftech.letsgo",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Letz|MD": {
@@ -2825,7 +2927,8 @@
 "checked": "2026-11-23"
 },
 "Limerick e-Parking|IE": {
-"pkg": "",
+"pkg": "com.parkmagic.mobile.limerick",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Lime|AE": {
@@ -2980,7 +3083,8 @@
 "checked": "2026-11-23"
 },
 "Luna Scooter Libya|LY": {
-"pkg": "",
+"pkg": "app.luna.micromobility.customer",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "M mobilnost|SI": {
@@ -3031,7 +3135,8 @@
 "checked": "2026-11-23"
 },
 "MCB Juice|MU": {
-"pkg": "",
+"pkg": "com.mcbmu.juice",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "MIO App|CO": {
@@ -3128,7 +3233,9 @@
 },
 "Mawaqif Qatar|QA": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.qatarliving.classifieds"
 },
 "Mawqif|KW": {
 "pkg": "com.mawqif",
@@ -3179,7 +3286,8 @@
 "checked": "2026-11-23"
 },
 "Met Éireann Weather Ireland|IE": {
-"pkg": "",
+"pkg": "net.fusio.meteireann",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Metro de Madrid|ES": {
@@ -3198,7 +3306,8 @@
 "checked": "2026-11-23"
 },
 "Mi Tigo Honduras|HN": {
-"pkg": "",
+"pkg": "com.directoriotigo.hwm",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Mi Tigo|NI": {
@@ -3269,7 +3378,8 @@
 "checked": "2026-11-23"
 },
 "Mobilitat Andorra|AD": {
-"pkg": "",
+"pkg": "com.andornet.mobilitat",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Mobility Carsharing|CH": {
@@ -3301,7 +3411,8 @@
 "checked": "2026-11-23"
 },
 "Moov Money TG|TG": {
-"pkg": "",
+"pkg": "com.huawei.moovmoney.tg.uat",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Moov Money Tchad|TD": {
@@ -3370,7 +3481,8 @@
 "checked": "2026-11-23"
 },
 "Multicaixa Express|AO": {
-"pkg": "",
+"pkg": "com.sibsint.mcxwallet",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Mushwaar|QA": {
@@ -3378,7 +3490,8 @@
 "checked": "2026-11-23"
 },
 "My Airtel Africa|TD": {
-"pkg": "",
+"pkg": "com.airtel.africa.selfcare",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "My M-Pesa Lesotho|LS": {
@@ -3395,10 +3508,13 @@
 },
 "My Syria|SY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.khaleejtimes"
 },
 "My Virgin Islands|VI": {
-"pkg": "",
+"pkg": "vi.myvirginislands",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "My.t Cab|MU": {
@@ -3414,7 +3530,8 @@
 "checked": "2026-11-23"
 },
 "MyCash Digicel|FJ": {
-"pkg": "",
+"pkg": "com.digicelfs.mycash",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "MyCash Digicel|TO": {
@@ -3457,7 +3574,8 @@
 "checked": "2026-11-23"
 },
 "MyMTN Eswatini|SZ": {
-"pkg": "",
+"pkg": "com.mymtnnextgen",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "MyMoov Niger|NE": {
@@ -3600,7 +3718,8 @@
 "checked": "2026-11-23"
 },
 "OOPA|PH": {
-"pkg": "",
+"pkg": "ph.oopa.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "ORTP Myanma Railways|MM": {
@@ -3625,12 +3744,15 @@
 "checked": "2026-11-23"
 },
 "Oleander E-Bikes|BM": {
-"pkg": "",
+"pkg": "com.bewegen.bermuda",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Oman Ministry of Foreign Affairs|OM": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "me.gupoman"
 },
 "Omio|EH": {
 "pkg": "com.goeuro.rosie",
@@ -3659,11 +3781,13 @@
 "checked": "2026-11-23"
 },
 "Orange Max it Liberia|LR": {
-"pkg": "",
+"pkg": "com.orange.myorange.olr",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Orange Max it Mali|ML": {
-"pkg": "",
+"pkg": "com.oml.dsi.orangemobile",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Orange Max it|BF": {
@@ -3673,7 +3797,8 @@
 "abgelehnt": "com.orange.myorange.oci"
 },
 "Orange Max it|CI": {
-"pkg": "",
+"pkg": "com.orange.myorange.oci",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Orange Max it|SN": {
@@ -3689,7 +3814,8 @@
 "checked": "2026-11-23"
 },
 "Ormuta|LR": {
-"pkg": "",
+"pkg": "com.ormuta.rider",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Osaka Amazing Pass (Digital)|JP": {
@@ -3701,7 +3827,8 @@
 "checked": "2026-11-23"
 },
 "Ostrovok|RU": {
-"pkg": "",
+"pkg": "ru.ostrovok.android",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "Outdooractive|SH": {
@@ -3713,7 +3840,8 @@
 "checked": "2026-11-23"
 },
 "PAAS|SK": {
-"pkg": "",
+"pkg": "com.bratislava.paas",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "PICA Enter Jamaica|JM": {
@@ -3738,10 +3866,13 @@
 },
 "Pafos Smart Parking|CY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.cymailapp"
 },
 "Pagali|CV": {
-"pkg": "",
+"pkg": "cv.isone.pagali",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Pago Móvil|VE": {
@@ -3749,7 +3880,8 @@
 "checked": "2026-11-23"
 },
 "Pajussi|GL": {
-"pkg": "",
+"pkg": "com.customer.pajussi",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Pakistan Online Visa (NADRA)|PK": {
@@ -3774,7 +3906,9 @@
 },
 "Pango Parking|BM": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.royalgazette.android.prod"
 },
 "Pango|IL": {
 "pkg": "com.unicell.pangoandroid",
@@ -3807,7 +3941,8 @@
 "checked": "2026-11-23"
 },
 "Parking Servis Herceg Novi|ME": {
-"pkg": "",
+"pkg": "com.scanCard",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Parking Servis Podgorica|ME": {
@@ -3817,7 +3952,9 @@
 },
 "Parking Servis|RS": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "rs.novosti"
 },
 "Parking Tag|IE": {
 "pkg": "",
@@ -3922,15 +4059,21 @@
 },
 "Penang Hill Hiking Trails|MY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.knx.thestarmobile"
 },
 "Penang Smart Parking|MY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.knx.thestarmobile"
 },
 "Peoples Bus Service|PK": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.aryservices.arynews.en"
 },
 "PeruRail eTicket|PE": {
 "pkg": "",
@@ -3963,7 +4106,8 @@
 "checked": "2026-11-23"
 },
 "Plan NC|NC": {
-"pkg": "",
+"pkg": "com.lafabrik.plan",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Plin|PE": {
@@ -3971,7 +4115,8 @@
 "checked": "2026-11-23"
 },
 "PoliturApp|DO": {
-"pkg": "",
+"pkg": "drpn.politur.app",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Poznań City Card|PL": {
@@ -4005,11 +4150,13 @@
 "checked": "2026-11-23"
 },
 "Quickpick Delivery|LR": {
-"pkg": "",
+"pkg": "quickpick.customer.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "RABTA|PK": {
-"pkg": "",
+"pkg": "com.easyway.ticket.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "RET|NL": {
@@ -4022,7 +4169,8 @@
 "checked": "2026-11-23"
 },
 "ROP - Royal Oman Police|OM": {
-"pkg": "",
+"pkg": "pkg.rop",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "RTA Sharjah|AE": {
@@ -4031,7 +4179,8 @@
 "checked": "2026-11-23"
 },
 "RUNMAN BZ|BZ": {
-"pkg": "",
+"pkg": "com.runman.orders",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Railway 12306|CN": {
@@ -4043,12 +4192,15 @@
 "checked": "2026-11-23"
 },
 "Rando Guadeloupe|GP": {
-"pkg": "",
+"pkg": "com.guadeloupe.rando",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Rapid On-Demand|MY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.malaymail.news"
 },
 "Rav-Kav Online|IL": {
 "pkg": "",
@@ -4129,7 +4281,8 @@
 "checked": "2026-11-23"
 },
 "Riyadh Season|SA": {
-"pkg": "",
+"pkg": "sa.gea.riyadhseason.main",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Robinhood|TH": {
@@ -4139,11 +4292,13 @@
 "abgelehnt": "com.robinhood.gateway"
 },
 "Rocket Now|JP": {
-"pkg": "",
+"pkg": "com.cpone.customer",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Russpass|RU": {
-"pkg": "",
+"pkg": "ru.russpass.tourist",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "Ryde Grenada|GD": {
@@ -4174,7 +4329,8 @@
 "abgelehnt": "nu.sejfa.android"
 },
 "SINPE TP Pasajero|CR": {
-"pkg": "",
+"pkg": "com.sinpetp.appMovilCliente",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "SIXT share|DE": {
@@ -4238,7 +4394,8 @@
 "checked": "2026-11-23"
 },
 "SOTRA Mobile|CI": {
-"pkg": "",
+"pkg": "com.asis.sotraandroid",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "SPARK|BG": {
@@ -4271,16 +4428,21 @@
 "checked": "2026-11-23"
 },
 "SWING|KR": {
-"pkg": "",
+"pkg": "com.co.swing",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Safarjala|OM": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.moi.app.omanobserver"
 },
 "SafeCY|CY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.cymailapp"
 },
 "Sahaal Ride|DJ": {
 "pkg": "",
@@ -4350,7 +4512,8 @@
 "abgelehnt": "com.getserra.app.personal"
 },
 "Share - Israel Car Sharing|IL": {
-"pkg": "",
+"pkg": "com.positive_apps.buzz_car.prod",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Shilu ANA|SS": {
@@ -4678,7 +4841,8 @@
 "abgelehnt": "se.skaffahund"
 },
 "Skok|LV": {
-"pkg": "",
+"pkg": "com.skoksharing.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Skootel|PR": {
@@ -4759,7 +4923,8 @@
 "checked": "2026-11-23"
 },
 "Spin by OXXO|MX": {
-"pkg": "",
+"pkg": "com.pagopopmobile",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Split Parking|HR": {
@@ -4784,7 +4949,8 @@
 "checked": "2026-11-23"
 },
 "Sri Lanka Railways Seat Reservation|LK": {
-"pkg": "",
+"pkg": "sl.railway.reservation",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "Sri Lanka Tourism 1912|LK": {
@@ -4804,7 +4970,8 @@
 "checked": "2026-11-23"
 },
 "Straus|MD": {
-"pkg": "",
+"pkg": "straus.mobile",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "StreetNav|MC": {
@@ -4812,7 +4979,8 @@
 "checked": "2026-11-23"
 },
 "Subway Antigua|AG": {
-"pkg": "",
+"pkg": "uk.co.hungrrr.subwayantigua",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "SudLib|MQ": {
@@ -4836,11 +5004,13 @@
 "checked": "2026-11-23"
 },
 "SunuBRT|SN": {
-"pkg": "",
+"pkg": "prod.maasify.dakar",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Suriname App|SR": {
-"pkg": "",
+"pkg": "com.ast.thesurinameapp",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Suriname e-Tourist Card|SR": {
@@ -4897,7 +5067,8 @@
 "checked": "2026-11-23"
 },
 "TCiudadana|GT": {
-"pkg": "",
+"pkg": "cl.solem.pocae",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "TENGO App|HN": {
@@ -4909,7 +5080,8 @@
 "checked": "2026-11-23"
 },
 "THE SKYTRAINs|TH": {
-"pkg": "",
+"pkg": "th.btsc.theskytrains",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "TM DONE|OM": {
@@ -4930,7 +5102,8 @@
 "checked": "2026-11-23"
 },
 "TPAY Timor Pay|TL": {
-"pkg": "",
+"pkg": "com.dokuwallettpay.android",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "TRANS SUD|GP": {
@@ -4938,11 +5111,13 @@
 "checked": "2026-11-23"
 },
 "Taichung MRT|TW": {
-"pkg": "",
+"pkg": "tw.com.tmrt.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Taipei FunPASS|TW": {
-"pkg": "",
+"pkg": "tw.com.fontrip.citypass.taipei.production",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Tajikistan e-Visa|TJ": {
@@ -4950,7 +5125,8 @@
 "checked": "2026-11-23"
 },
 "Takeout.gg|GG": {
-"pkg": "",
+"pkg": "gg.donkeydelivers",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Talabak|SD": {
@@ -4963,7 +5139,8 @@
 "checked": "2026-11-23"
 },
 "Tanqueo|BO": {
-"pkg": "",
+"pkg": "com.tanqueo.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Taobao Shangou|CN": {
@@ -4971,7 +5148,8 @@
 "checked": "2026-11-23"
 },
 "Tartu Smart Bike|EE": {
-"pkg": "",
+"pkg": "com.bewegen.tartu",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Taxi 135|BY": {
@@ -5060,7 +5238,8 @@
 "checked": "2026-11-23"
 },
 "TokTok Delivery|MN": {
-"pkg": "",
+"pkg": "com.digitalaggregator.toktok",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Toki|MN": {
@@ -5093,7 +5272,8 @@
 "checked": "2026-11-23"
 },
 "Tpark|RO": {
-"pkg": "",
+"pkg": "eu.innovaapps.tpark.ro",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "Trafic Watch|MU": {
@@ -5124,7 +5304,8 @@
 "checked": "2026-11-23"
 },
 "TransportBN|BN": {
-"pkg": "",
+"pkg": "com.ishajaya.transportbn",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Tranzy|MD": {
@@ -5158,7 +5339,8 @@
 "checked": "2026-11-23"
 },
 "Tropicab|LC": {
-"pkg": "",
+"pkg": "com.tropicab.user",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "TrueMoney|TH": {
@@ -5167,7 +5349,8 @@
 "checked": "2026-11-23"
 },
 "Tu Bondi|AR": {
-"pkg": "",
+"pkg": "torrezmartin.tubondi",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Tucu|AR": {
@@ -5225,7 +5408,8 @@
 "checked": "2026-11-23"
 },
 "UB Smart Bus|MN": {
-"pkg": "",
+"pkg": "com.uscc.ubbus",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "UBCab Eats|MN": {
@@ -5338,7 +5522,9 @@
 },
 "Udrive|AE": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.gulfnews.newsapp"
 },
 "Udrive|SA": {
 "pkg": "",
@@ -5353,7 +5539,8 @@
 "checked": "2026-11-23"
 },
 "Uni5Pay+|SR": {
-"pkg": "",
+"pkg": "com.unionpay.scomapp",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Unitel Money|AO": {
@@ -5375,7 +5562,8 @@
 "checked": "2026-11-23"
 },
 "Uzum Bank|UZ": {
-"pkg": "",
+"pkg": "uz.kapitalbank.android",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "VI Hail|VI": {
@@ -5430,7 +5618,9 @@
 },
 "Vezukha|BY": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "ru.cmtt.dtf"
 },
 "ViaBus|LA": {
 "pkg": "com.indyzalab.transitia",
@@ -5439,7 +5629,9 @@
 },
 "Viajando|CU": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "appdirectoriocubanoinfo.wpapp"
 },
 "Vietnam E-Visa|VN": {
 "pkg": "",
@@ -5451,7 +5643,8 @@
 "checked": "2026-11-23"
 },
 "Virtuální Plzeňská karta|CZ": {
-"pkg": "",
+"pkg": "cz.odp.vpkng",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Visa On Arrival|EG": {
@@ -5464,7 +5657,9 @@
 },
 "Visit Angkor|KH": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.knx.thestarmobile"
 },
 "Visit Busan Pass|KR": {
 "pkg": "",
@@ -5479,7 +5674,8 @@
 "checked": "2026-11-23"
 },
 "Visit Guam|GU": {
-"pkg": "",
+"pkg": "com.visitwidget.guam",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Visit Japan Web|JP": {
@@ -5487,7 +5683,8 @@
 "checked": "2026-11-23"
 },
 "Visit Kuwait|KW": {
-"pkg": "",
+"pkg": "kw.gov.visitkuwait",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Visit La Paz|BO": {
@@ -5503,11 +5700,13 @@
 "checked": "2026-11-23"
 },
 "Visit Saudi|SA": {
-"pkg": "",
+"pkg": "sa.gov.apps.sauditourism",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Visit Seoul|KR": {
-"pkg": "",
+"pkg": "com.sto.android.client.itourseoul",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Visit Seychelles|SC": {
@@ -5516,11 +5715,13 @@
 "checked": "2026-11-23"
 },
 "Visit Sihanoukville|KH": {
-"pkg": "",
+"pkg": "com.app.sihanouktourism",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "Visit Yerevan|AM": {
-"pkg": "",
+"pkg": "com.VisitYerevan.TheOnlyGroup",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "VisitMalta+|MT": {
@@ -5780,7 +5981,9 @@
 },
 "WowNow|KH": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "kh.com.techoairport"
 },
 "Woyo|ML": {
 "pkg": "",
@@ -5792,7 +5995,9 @@
 },
 "Yaldi|AE": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.gulfnews.newsapp"
 },
 "Yandex Afisha|RU": {
 "pkg": "",
@@ -5840,7 +6045,9 @@
 },
 "Yango Food Delivery|SN": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.nextwebart.senego"
 },
 "Yango|BJ": {
 "pkg": "com.yandex.yango",
@@ -5898,7 +6105,8 @@
 "checked": "2026-11-23"
 },
 "Ynamly taksi|TM": {
-"pkg": "",
+"pkg": "com.takyktilsimaty.ynamlytaxi",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Yoboresto|GA": {
@@ -5906,7 +6114,8 @@
 "checked": "2026-11-23"
 },
 "Yoma Car Share|MM": {
-"pkg": "",
+"pkg": "com.yomafleet.carshare",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "YooMoney|RU": {
@@ -5928,7 +6137,8 @@
 "checked": "2026-11-23"
 },
 "Yugo|MU": {
-"pkg": "",
+"pkg": "com.yugo.app",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "Yulu|IN": {
@@ -5962,7 +6172,8 @@
 "checked": "2026-11-23"
 },
 "ZenHotels|RU": {
-"pkg": "",
+"pkg": "com.zenhotels.android",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "Zhabtog|BT": {
@@ -6022,7 +6233,8 @@
 "checked": "2026-11-23"
 },
 "amiGO carsharing|MD": {
-"pkg": "",
+"pkg": "ru.amigo.app",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "at bus|IT": {
@@ -6084,7 +6296,8 @@
 "checked": "2026-11-23"
 },
 "eTransit Punjab|PK": {
-"pkg": "",
+"pkg": "pk.pitb.punjab.masstransit.punjab_masstransit_authority",
+"how": "apple",
 "checked": "2026-11-23"
 },
 "eVisa Moçambique|MZ": {
@@ -6097,7 +6310,9 @@
 },
 "eVisitor (ImmiAccount, Web)|AU": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "au.gov.homeaffairs.ameponline"
 },
 "easypaisa|PK": {
 "pkg": "pk.com.telenor.phoenix",
@@ -6127,7 +6342,8 @@
 "checked": "2026-11-23"
 },
 "goBoB|BT": {
-"pkg": "",
+"pkg": "com.mode.chharo",
+"how": "quelle",
 "checked": "2026-11-23"
 },
 "gu-yoyo|GU": {
@@ -6234,7 +6450,8 @@
 "checked": "2026-11-23"
 },
 "myMTN BN|BJ": {
-"pkg": "",
+"pkg": "com.mtn.mtnbjnextgen",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "nSpark|RS": {
@@ -6242,7 +6459,8 @@
 "checked": "2026-11-23"
 },
 "navegante|PT": {
-"pkg": "",
+"pkg": "pt.card4b.navegante",
+"how": "bundle",
 "checked": "2026-11-23"
 },
 "nextbike|BA": {
@@ -6296,7 +6514,9 @@
 },
 "İzmirim Kart Mobil|TR": {
 "pkg": "",
-"checked": "2026-11-23"
+"fix": true,
+"checked": "2026-11-23",
+"abgelehnt": "com.izmirbb.bizizmir"
 },
 "ŽPCG|ME": {
 "pkg": "",
