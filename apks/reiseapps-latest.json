@@ -1,11 +1,10 @@
 {
- "vc": 41,
- "vn": "1.0.41",
+ "vc": 42,
+ "vn": "1.0.42",
  "changes": [
-  "Feiertage: die nächsten Feiertage unter „Gut zu wissen“, bei geplanten Reisen alle Feiertage im Reisezeitraum",
-  "„Jetzt geöffnet“ beachtet Feiertags-Öffnungszeiten aus OpenStreetMap"
+  "LGBTQ+-Orte: Filter heißen jetzt „⚣ Gay“ und „⚢ Lesbisch“"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=f217ee81460e6e86",
- "size": 3273696,
- "sha256": "f217ee81460e6e869d0015501676f7ccf34deee4bcc9f151b74fb45fe98eaf4e"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=494c9416c55443ec",
+ "size": 3345564,
+ "sha256": "494c9416c55443ec4b4408d84d6397ad08ee9038bed82f92af430fe16f8916cc"
 }
