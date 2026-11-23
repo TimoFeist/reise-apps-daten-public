@@ -1,10 +1,10 @@
 {
- "vc": 49,
- "vn": "1.0.49",
+ "vc": 50,
+ "vn": "1.0.50",
  "changes": [
-  "Kopfbereich der Startseite schmaler, damit mehr auf einen Blick passt"
+  "Kopfbereich bei Ländern und Städten schmaler, mit Flagge und kleinen Knöpfen"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=022e147c9973e412",
- "size": 3692000,
- "sha256": "022e147c9973e412ba89408e36c903d6953f2106055949d1015aeeedf2565d11"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=0cbcc5e539c8eca2",
+ "size": 3693888,
+ "sha256": "0cbcc5e539c8eca2fb8f3a3376849e3acf7ac4d8d1c9de9baf7fd15f90192128"
 }
