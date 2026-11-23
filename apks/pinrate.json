@@ -1,10 +1,10 @@
 {
     "app":  "PinRate",
     "pkg":  "app.roamrate",
-    "versionCode":  8,
-    "versionName":  "1.7",
+    "versionCode":  9,
+    "versionName":  "1.8",
     "url":  "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/PinRate.apk",
-    "sha256":  "3aa9e38d39993fead42b2917c482cd58e554b7112784d774ad057af027f9dea5",
-    "notes":  "Neu: ☕ Unterstützen in den Einstellungen. Ganz freiwillig, alle Funktionen bleiben für alle frei.",
+    "sha256":  "045b3ce208631e40c7ce19842c1c55471110c2a89a88de0229db05643612f74e",
+    "notes":  "PinRate spricht jetzt deine Sprache: 31 Sprachen, Zahlen und Währungsnamen passend zum Handy.",
     "date":  "2026-11-23"
 }
