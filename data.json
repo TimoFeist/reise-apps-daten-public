@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 10:13",
+ "version": "2026-11-23 10:48",
  "categories": [
   {
    "id": "entry",
@@ -12341,14 +12341,59 @@
      "use": "limited",
      "req": "Führerschein seit 2 Jahren, Mindestalter 21, Pass",
      "src": "https://www.sixt.ca/car-rental/mauritius/"
+    },
+    {
+     "name": "DodoGo",
+     "cat": "taxi",
+     "pkg": "com.dodotaxi.rider",
+     "note": "Taxi und Flughafentransfer mit Festpreis",
+     "src": "https://play.google.com/store/apps/details?id=com.dodotaxi.rider"
+    },
+    {
+     "name": "Taxi Service Mauritius",
+     "cat": "taxi",
+     "pkg": "com.wapp.taxiservicemauritius",
+     "note": "Taxi, Transfers und Ausflüge für Urlauber",
+     "src": "https://play.google.com/store/apps/details?id=com.wapp.taxiservicemauritius"
+    },
+    {
+     "name": "MoMove",
+     "cat": "transit",
+     "pkg": "com.mur.mo_move_flutter",
+     "note": "Routenplaner für Busse auf Mauritius",
+     "src": "https://play.google.com/store/apps/details?id=com.mur.mo_move_flutter"
+    },
+    {
+     "name": "MoNatir",
+     "cat": "safety",
+     "pkg": "com.naveo.moe",
+     "note": "Luftqualität und Umweltinfos der Regierung",
+     "src": "https://play.google.com/store/apps/details?id=com.naveo.moe"
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Port Louis",
+     "match": [
+      "Port Louis"
+     ],
+     "apps": [
+      {
+       "name": "Metro Express",
+       "cat": "transit",
+       "note": "Stadtbahn Port Louis bis Curepipe, Karte MECard",
+       "url": "https://mauritiusmetroexpress.mu/my-journey/?lang=en",
+       "nostore": true,
+       "src": "https://mauritiusmetroexpress.mu/my-journey/?lang=en"
+      }
+     ]
+    }
+   ],
    "note": "Deutsche brauchen kein Visum, müssen aber vor dem Boarding das All in One Travel Form ausfüllen; Pass 6 Monate gültig.",
    "src": "https://www.expat.com/en/expat-mag/11858-useful-apps-for-everyday-life-in-mauritius.html",
    "lgbtq_note": "Paragraph 250 wurde 2023 vom Obersten Gericht für verfassungswidrig erklärt, gilt aber formal weiter; Zurückhaltung in der Öffentlichkeit wird empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mauritiussicherheit/206994",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -13685,7 +13730,8 @@
      "note": "Guthaben, Datenpakete und WLAN Gutscheine verwalten",
      "use": "limited",
      "req": "Nur mit SIM von Vodafone Cook Islands sinnvoll",
-     "src": "https://apps.apple.com/nz/app/my-vodafone-cook-islands/id1498749506"
+     "src": "https://apps.apple.com/nz/app/my-vodafone-cook-islands/id1498749506",
+     "pkg": "ck.vodafone.apps.myvodafoneapp"
     },
     {
      "name": "Air NZ",
@@ -14957,6 +15003,13 @@
        "use": "limited",
        "req": "Zahlungswege laut Quelle unklar, Bargeld bereithalten",
        "src": "https://yango.com/cotonou/tariff/"
+      },
+      {
+       "name": "Kangoo",
+       "cat": "delivery",
+       "pkg": "kangoo.africa.delivery",
+       "note": "Essen bestellen und Pakete in Cotonou verschicken",
+       "src": "https://apps.apple.com/bj/app/kangoo-benin-food-delivery/id6738387504"
       }
      ]
     }
@@ -15501,6 +15554,20 @@
      "pkg": "com.morabexcaboverde",
      "note": "Reiseführer mit Audioguides und Orten auf der Karte",
      "src": "https://appgoblin.info/apps/com.morabexcaboverde"
+    },
+    {
+     "name": "Taxi Seguro",
+     "cat": "taxi",
+     "pkg": "com.taxicv",
+     "note": "Taxi per App mit Fahrpreis und Fahrerdaten vorab",
+     "src": "https://play.google.com/store/apps/details?id=com.taxicv"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Routenplaner für Busse",
+     "src": "https://moovitapp.com/index/en/public_transit-countries"
     }
    ],
    "cities": [
@@ -15530,7 +15597,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
    "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind legal und Diskriminierung ist verboten, gleichgeschlechtliche Partnerschaften werden aber nicht anerkannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/caboverde-sicherheit/208824",
-   "checked": "2026-11-17",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -17635,6 +17702,13 @@
        "cat": "taxi",
        "note": "Neue Fahrdienst-App für Bangui, auch Paketversand",
        "src": "https://mwm.ai/apps/sango-taxi/6755672456"
+      },
+      {
+       "name": "BanguiEats",
+       "cat": "delivery",
+       "pkg": "com.banguieats.app",
+       "note": "Essen, Einkäufe und Fahrten in Bangui",
+       "src": "https://play.google.com/store/apps/details?id=com.banguieats.app"
       }
      ]
     }
@@ -17643,7 +17717,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
    "lgbtq_note": "Homosexuelle Handlungen sind mit bis zu zwei Jahren Haft und Geldstrafe bedroht, verfolgt wird meist nach Anzeigen von Einheimischen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zentralafrikanischerepublik-node/zentralafrikanischerepubliksicherheit-226450",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -18963,6 +19037,14 @@
      "use": "no",
      "req": "Willkürliche Verhaftungen wegen homosexueller Handlungen möglich",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/kongorepublik-node/kongorepubliksicherheit-208542"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrdienst mit Festpreis vor der Fahrt",
+     "ess": true,
+     "src": "https://yango.com/en_int/"
     }
    ],
    "cities": [
@@ -19170,7 +19252,8 @@
      "note": "D-Money von Djibouti Telecom für Zahlungen und Transfers",
      "use": "no",
      "req": "Nur für Kunden von Djibouti Telecom, lokale SIM nötig",
-     "src": "https://apps.apple.com/us/app/id1581317470"
+     "src": "https://apps.apple.com/us/app/id1581317470",
+     "pkg": "com.djiboutitelecom.dmoney.customer"
     },
     {
      "name": "WAAFI",
@@ -19199,7 +19282,8 @@
        "name": "Limo",
        "cat": "delivery",
        "note": "Marktplatz mit Lieferung von Läden und Restaurants",
-       "src": "https://wearetech.africa/en/fils-uk/solutions/limo-brings-online-marketplace-and-home-delivery-services-to-djibouti"
+       "src": "https://wearetech.africa/en/fils-uk/solutions/limo-brings-online-marketplace-and-home-delivery-services-to-djibouti",
+       "pkg": "com.customer.limoo"
       },
       {
        "name": "Kikidrop",
@@ -19214,7 +19298,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
    "lgbtq_note": "Keine Fälle strafrechtlicher Verfolgung bekannt, gleichgeschlechtliche Partnerschaften werden gesellschaftlich aber nicht toleriert; Zurückhaltung ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dschibuti-node/dschibutisicherheit-212168",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -19756,7 +19840,8 @@
      "cat": "tourism",
      "note": "Offizielle Park-App mit Offline Karten und Vogelführer",
      "ess": true,
-     "src": "https://norfolkislandnationalpark.gov.au/plan/plan-your-trip/download-official-norfolk-island-national-park-app/"
+     "src": "https://norfolkislandnationalpark.gov.au/plan/plan-your-trip/download-official-norfolk-island-national-park-app/",
+     "pkg": "com.parksaustralia.ninp"
     },
     {
      "name": "Explore Norfolk Island",
@@ -19779,6 +19864,22 @@
      "use": "no",
      "req": "Auf Norfolk Island kein Angebot, Taxis vorab telefonisch buchen",
      "src": "https://www.milehacker.com/travel/australia/norfolk-island/getting-around-norfolk-island-public-transport-tax/"
+    },
+    {
+     "name": "Norfolk Telecom",
+     "cat": "misc",
+     "pkg": "com.zlxn.dl.bossapp",
+     "note": "Guthaben aufladen und Verbrauch im Inselnetz prüfen",
+     "use": "limited",
+     "req": "Norfolk Telecom SIM-Karte nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.zlxn.dl.bossapp&hl=en&gl=NF"
+    },
+    {
+     "name": "BOM Weather",
+     "cat": "safety",
+     "pkg": "au.gov.bom.metview",
+     "note": "Wetter und Warnungen des australischen Wetterdienstes",
+     "src": "https://www.bom.gov.au/nsw/forecasts/index.shtml"
     }
    ],
    "cities": [],
@@ -19786,7 +19887,7 @@
    "src": "https://www.norfolkisland.com.au/travel-essentials/faqs/",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/norfolk-island",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "currency": [
@@ -19833,6 +19934,15 @@
      "use": "limited",
      "req": "Nur mit Digicel Nauru SIM und Digicel ID",
      "src": "https://www.digicelpacific.com/mobile/nr/prime-bundles"
+    },
+    {
+     "name": "My Neotel",
+     "cat": "misc",
+     "pkg": "com.neotel",
+     "note": "Guthaben und Datenpakete im Neotel Netz verwalten",
+     "use": "limited",
+     "req": "Neotel SIM-Karte nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.neotel&hl=en&gl=NR"
     }
    ],
    "cities": [],
@@ -19840,7 +19950,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
    "lgbtq_note": "Homosexuelle Handlungen sind entkriminalisiert, Partnerschaften werden aber nicht anerkannt und es gibt keinen Diskriminierungsschutz.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nauru-node/naurusicherheit-220416",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -21320,11 +21430,12 @@
      "src": "https://apps.apple.com/lu/app/leap-taxi-app/id6475029322"
     },
     {
-     "name": "Thumo",
+     "name": "Swoop",
      "cat": "delivery",
-     "note": "Essenslieferung in Mbabane und Ezulwini; Bar, Karte, Mobile Money",
+     "note": "Essenslieferung, früher Thumo",
      "ess": true,
-     "src": "https://app.newsonafrica.com/sz/article/thumo-app-in-eswatini-a-young-delivery-platforms-early-traction-growing-pains-and-regulatory-questions-ahead-3266"
+     "src": "https://play.google.com/store/apps/details?id=com.thumoapp.users",
+     "pkg": "com.thumoapp.users"
     },
     {
      "name": "Avis",
@@ -21362,7 +21473,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, aktuelle Verfolgungen sind nicht bekannt; Zärtlichkeiten in der Öffentlichkeit können geahndet werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/eswatini-node/eswatinisicherheit-226240",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -22495,6 +22606,15 @@
      "pkg": "com.aa_app.ui",
      "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958"
+    },
+    {
+     "name": "PNCC",
+     "cat": "misc",
+     "pkg": "com.ninthdesign.pnccapp",
+     "note": "Internet- und Guthabenkarten von PNCC in Palau kaufen",
+     "use": "limited",
+     "req": "PNCC SIM-Karte oder Anschluss nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.ninthdesign.pnccapp&hl=en&gl=PW"
     }
    ],
    "cities": [
@@ -23711,6 +23831,13 @@
        "cat": "taxi",
        "note": "Lokaler Fahrdienst mit Festpreis, auch E-Autos",
        "src": "https://guineenews.org/2025/08/02/taxi-ville-wonsiga-introduit-sa-premiere-flotte-de-vtc-electriques-a-conakry/"
+      },
+      {
+       "name": "Tictac Drive",
+       "cat": "taxi",
+       "pkg": "com.tictacdrive.app",
+       "note": "Fahrten per Auto oder Moto, auch Flughafentransfer",
+       "src": "https://play.google.com/store/apps/details?id=com.tictacdrive.app"
       }
      ]
     }
@@ -23852,6 +23979,14 @@
      "use": "no",
      "req": "Gleichgeschlechtliche Beziehungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
      "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+    },
+    {
+     "name": "Unforgettable Liberia",
+     "cat": "tourism",
+     "pkg": "com.lnta.unforgettableliberia",
+     "note": "Offizielle Tourismus-App: Touren, Unterkünfte, Planung",
+     "ess": true,
+     "src": "https://apps.apple.com/us/app/unforgettable-liberia/id6829475956"
     }
    ],
    "cities": [],
@@ -23859,7 +23994,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/liberia-node/liberiasicherheit-222378",
    "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Beziehungen sind strafbar und gesellschaftlich nicht akzeptiert, Zurückhaltung wird empfohlen.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/liberia-node/liberiasicherheit-222378",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -24601,6 +24736,20 @@
      "use": "limited",
      "req": "Madagassische SIM-Karte, Ausweisdokument und Foto nötig",
      "src": "https://www.wearetech.africa/fr/fils/actualites/telecom/le-service-orange-money-ouvert-a-tous-a-madagascar-sans-distinction-d-operateurs-telecoms"
+    },
+    {
+     "name": "Météo Madagascar Officielle",
+     "cat": "safety",
+     "pkg": "mg.dgm.gizgp",
+     "note": "Offizielle Wettervorhersage des Wetterdienstes",
+     "src": "https://play.google.com/store/apps/details?id=mg.dgm.gizgp"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Routenplaner für Busse in Antananarivo",
+     "src": "https://moovitapp.com/index/en/public_transit-countries"
     }
    ],
    "cities": [
@@ -24637,7 +24786,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/madagaskar-node/madagaskarsicherheit-207960",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, das Schutzalter ist aber ungleich, gleichgeschlechtliche Ehen sind verboten und es gibt kaum Schutz vor Diskriminierung.",
    "lgbtq_src": "https://equaldex.com/region/madagascar",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -24687,6 +24836,13 @@
      "use": "no",
      "req": "Homosexuelle Handlungen sind strafbar",
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258"
+    },
+    {
+     "name": "MOUV",
+     "cat": "taxi",
+     "pkg": "product.customer.mouv",
+     "note": "Fahrten und Kurierdienst per App",
+     "src": "https://play.google.com/store/apps/details?id=product.customer.mouv"
     }
    ],
    "cities": [
@@ -24731,6 +24887,13 @@
        "use": "limited",
        "req": "Führerschein nötig, Standardtarif für Fahrer ab 25 Jahren",
        "src": "https://www.avis.fr/services-avis/location-voiture/afrique/mali/bamako/bamako-location-de-voiture"
+      },
+      {
+       "name": "SoRo Service",
+       "cat": "taxi",
+       "pkg": "sorotrans.passenger",
+       "note": "Taxi per App in Bamako mit Festpreis",
+       "src": "https://apps.apple.com/us/app/soro-service-bamako-taxi/id1599737105"
       }
      ]
     }
@@ -24739,7 +24902,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258",
    "lgbtq_note": "Homosexuelle Handlungen sind in Mali ausdrücklich mit Geld- oder Haftstrafen bedroht und sollten in der Öffentlichkeit unbedingt vermieden werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/malisicherheit-208258",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -25380,7 +25543,8 @@
      "note": "Mobile Geldbörse von Our Telekom für Zahlungen",
      "use": "no",
      "req": "Our-Telekom-SIM und Anmeldung mit Ausweis bei Agent oder Shop nötig",
-     "src": "https://www.ourtelekom.com.sb/m-selen/"
+     "src": "https://www.ourtelekom.com.sb/m-selen/",
+     "pkg": "com.eclectics.mobilemoney.ourtelekom"
     }
    ],
    "cities": [
@@ -25405,7 +25569,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
    "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt strafbar und können mit Gefängnis bestraft werden, daher ist große Zurückhaltung ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/salomonen-node/salomonensicherheit-220650",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -25475,6 +25639,15 @@
      "use": "no",
      "req": "Digicel-Tonga-Nummer und Registrierung mit Name, Adresse und Foto nötig",
      "src": "https://www.digicelpacific.com/news/digicel-tonga-pioneers-financial-inclusion-with-innovative-two-tier-kyc-for-mycas"
+    },
+    {
+     "name": "MyDigicel Pacific",
+     "cat": "misc",
+     "pkg": "com.digicelpacific.selfcare.mobile",
+     "note": "Guthaben aufladen und Datenpakete von Digicel kaufen",
+     "use": "limited",
+     "req": "Digicel SIM-Karte nötig",
+     "src": "https://support-to.digicelpacific.com/hc/en-us/articles/6454980648335-How-to-download-MyDigicel-app"
     }
    ],
    "cities": [],
@@ -25482,7 +25655,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, laut Auswärtigem Amt sind aber keine Fälle strafrechtlicher Verfolgung bekannt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit/213790",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -26796,6 +26969,13 @@
      "use": "limited",
      "req": "Movitel-SIM nötig, SIM-Karten werden mit Ausweis registriert",
      "src": "https://enjoymoz.com/mobile-phone/"
+    },
+    {
+     "name": "TáAqui Delivery",
+     "cat": "delivery",
+     "pkg": "co.mz.taaqui",
+     "note": "Essen, Supermarkt und Apotheke nach Hause",
+     "src": "https://apps.apple.com/us/app/t%C3%A1aqui-delivery/id6760764291"
     }
    ],
    "cities": [
@@ -26818,6 +26998,13 @@
        "use": "limited",
        "req": "Kreditkarte auf den Fahrer, Führerschein und internationaler Führerschein nötig",
        "src": "https://www.europcar.co.uk/en-gb/stations/mozambique/maputo-airport"
+      },
+      {
+       "name": "GrupGo Taxi",
+       "cat": "taxi",
+       "pkg": "grupgo.taxi.passenger",
+       "note": "Taxi per App in Maputo",
+       "src": "https://apps.apple.com/us/app/grupgo-taxi-mozambique/id6758156232"
       }
      ]
     }
@@ -26826,7 +27013,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mosambiksicherheit-221782",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die liberale Rechtslage ist in der Gesellschaft aber wenig verankert, daher Zurückhaltung ratsam.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mosambiksicherheit-221782",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -27459,6 +27646,13 @@
        "use": "limited",
        "req": "Führerschein und Karte; Vollkasko und Diebstahlschutz Pflicht",
        "src": "https://www.avis.com/en/locations/af/nr/niamey/nim"
+      },
+      {
+       "name": "Salam-Taxi",
+       "cat": "taxi",
+       "pkg": "product.customer.salamtaxi",
+       "note": "Taxi per App, Preis vorab, bar oder Karte",
+       "src": "https://apps.apple.com/us/app/salam-taxi/id6449077196"
       }
      ]
     }
@@ -27467,7 +27661,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/226384",
    "lgbtq_note": "Seit Juni 2026 sind gleichgeschlechtliche Handlungen mit fünf bis zehn Jahren Haft strafbar, LGBTQ+ Vereinigungen ebenfalls.",
    "lgbtq_src": "https://76crimes.com/2026/06/12/niger-adopts-anti-lgbtq-law-threatens-up-to-20-years-in-prison/",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -28436,6 +28630,24 @@
      "cat": "tourism",
      "note": "Offizielle Tourismusseite mit Unterkünften und Touren",
      "src": "https://www.timelesstuvalu.com/travel-to-the-tuvalu-islands/"
+    },
+    {
+     "name": "Tuvalu Telecom",
+     "cat": "misc",
+     "pkg": "com.tuvalu.user",
+     "note": "Guthaben, Verbrauch und Rechnungen im 4G Netz von TTC",
+     "use": "limited",
+     "req": "SIM-Karte von Tuvalu Telecom nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.tuvalu.user&hl=en&gl=TV"
+    },
+    {
+     "name": "M-Tupe Customer",
+     "cat": "payment",
+     "pkg": "com.tuvalu.consumer",
+     "note": "Mobile Geldbörse von TTC für Zahlungen in Läden",
+     "use": "no",
+     "req": "TTC Mobilnummer und Wallet-Registrierung nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.tuvalu.consumer&hl=en&gl=TV"
     }
    ],
    "cities": [],
@@ -28443,7 +28655,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
    "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind laut Auswärtigem Amt verboten und können mit Haftstrafen belegt werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tuvalu-node/tuvalusicherheit-220666",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "OC",
    "info": {
     "emergency": [
@@ -30027,6 +30239,16 @@
      "note": "Flüge der Airlink buchen, einchecken, Status prüfen",
      "ess": true,
      "src": "https://atcnews.org/airlink-launches-app-for-passenger-convenience/"
+    },
+    {
+     "name": "St Helena Tourist Card",
+     "cat": "payment",
+     "pkg": "com.banking.mBankTC",
+     "note": "Virtuelle Prepaidkarte der Bank, Zahlung per QR",
+     "ess": true,
+     "use": "limited",
+     "req": "Vorab online registrieren, Freischaltung dauert 24 Std.",
+     "src": "https://www.sainthelenabank.com/tourist-card/tourist-card-app/"
     }
    ],
    "cities": [],
@@ -30034,7 +30256,7 @@
    "src": "https://sthelenaairport.com/at-the-airport/directions-and-transport/",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2017 erlaubt.",
    "lgbtq_src": "https://thepinknews.com/2017/12/20/this-tiny-island-just-passed-same-sex-marriage/",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -30350,6 +30572,13 @@
      "cat": "flights",
      "note": "Flüge über Lissabon nach São Tomé",
      "src": "https://www.flytap.com/pt_pt/voos-para-sao-tome-e-principe"
+    },
+    {
+     "name": "popgostp",
+     "cat": "taxi",
+     "pkg": "popgostp.taxi.sao.tome.passenger",
+     "note": "Fahrten, Flughafentransfer und Inselrundfahrten",
+     "src": "https://apps.apple.com/us/app/popgostp-ride-taxi-sao-tome/id6800326858"
     }
    ],
    "cities": [],
@@ -30357,7 +30586,7 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saotomeundprincipesicherheit-220434",
-   "checked": "2026-11-18",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -32770,6 +32999,13 @@
      "use": "no",
      "req": "Homosexuelle Handlungen werden mit Haft bestraft",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/203266"
+    },
+    {
+     "name": "Musafir",
+     "cat": "rail",
+     "pkg": "app.musafir.musafir",
+     "note": "Bus, Flug und Hotel im Sudan buchen",
+     "src": "https://play.google.com/store/apps/details?id=app.musafir.musafir"
     }
    ],
    "cities": [],
@@ -32777,7 +33013,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
    "lgbtq_note": "Homosexuelle Handlungen sind strafbar, bei Wiederholung droht lebenslange Haft, das Recht ist stark von der Scharia geprägt.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/203266",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AF",
    "info": {
     "emergency": [
@@ -33476,7 +33712,8 @@
      "cat": "tourism",
      "note": "Audioguides zu vielen Orten, offline nutzbar, auch Deutsch",
      "ess": true,
-     "src": "https://visitfaroeislands.com/en/whatson/places/place/explore-foroyar-app00"
+     "src": "https://visitfaroeislands.com/en/whatson/places/place/explore-foroyar-app00",
+     "pkg": "fo.exploreforoyar"
     },
     {
      "name": "Skaffa",
@@ -33556,7 +33793,8 @@
        "cat": "taxi",
        "note": "Taxi bestellen, Preis schätzen, Wagen mit Kartenleser",
        "ess": true,
-       "src": "https://www.chronicle.gi/?p=142834"
+       "src": "https://www.chronicle.gi/?p=142834",
+       "pkg": "com.gibraltar.android.CustomerApp"
       },
       {
        "name": "Hoppy",
@@ -33581,6 +33819,14 @@
        "cat": "maps",
        "note": "Wanderwege am Upper Rock mit Karte, seit 2018 ohne Update",
        "src": "https://apps.apple.com/us/app/id902352662"
+      },
+      {
+       "name": "Gibraltar Pay & Display",
+       "cat": "parking",
+       "note": "Parken in Pay und Display Zonen online zahlen, auch als Gast",
+       "url": "https://parking.gibcarparks.com",
+       "nostore": true,
+       "src": "https://www.gibraltar.gov.gi/press-releases/launch-of-new-pay-display-pay-by-phone-qr-code-2222022-7824"
       }
      ]
     }
@@ -33589,7 +33835,7 @@
    "src": "https://www.visitgibraltar.gi/driving-and-park",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2000 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://www.equaldex.com/region/gibraltar",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -33646,7 +33892,8 @@
      "note": "Essen von lokalen Restaurants bestellen, auch bar",
      "use": "limited",
      "req": "Registrierung in der Quelle nicht beschrieben, Kartenzahlung im Land kaum verbreitet",
-     "src": "https://apps.apple.com/app/id6741681717"
+     "src": "https://apps.apple.com/app/id6741681717",
+     "pkg": "com.order.mz"
     },
     {
      "name": "Ariana Afghan Airlines",
@@ -33663,6 +33910,15 @@
      "pkg": "com.kamair.ticketing",
      "note": "Flüge buchen, ändern und online einchecken",
      "src": "https://mwm.ai/apps/kam-air-trustable-wings/1451184763"
+    },
+    {
+     "name": "HesabPay",
+     "cat": "payment",
+     "pkg": "af.hesab.app",
+     "note": "Mobile Geldbörse für Zahlungen und Überweisungen",
+     "use": "limited",
+     "req": "Registrierung mit Telefonnummer, Bedingungen für Ausländer unklar",
+     "src": "https://play.google.com/store/apps/details?id=af.hesab.app&hl=en&gl=AF"
     }
    ],
    "cities": [
@@ -33678,7 +33934,8 @@
        "note": "Lokaler Fahrdienst, Fahrpreis wird ausgehandelt, Barzahlung",
        "use": "limited",
        "req": "Registrierung nicht beschrieben, nur Barzahlung, Sicherheit lokaler Fahrdienste schwankt",
-       "src": "https://raftar.app/about"
+       "src": "https://raftar.app/about",
+       "pkg": "com.raftarrides.com"
       }
      ]
     }
@@ -33687,7 +33944,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692",
    "lgbtq_note": "Homosexualität und Transsexualität sind verboten und strafbar, Betroffenen droht Gewalt in Haft, Handys und soziale Medien werden bei Kontrollen durchsucht.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/afghanistan-node/afghanistansicherheit-204692",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
@@ -34882,13 +35139,15 @@
      "cat": "transit",
      "note": "Rufbus connectVILLAGES im Norden um Ramsey buchen",
      "ess": true,
-     "src": "https://apps.apple.com/us/app/id1572640935"
+     "src": "https://apps.apple.com/us/app/id1572640935",
+     "pkg": "isleofman.rider"
     },
     {
      "name": "Kivoon: Isle of Man Bus Times",
      "cat": "transit",
      "note": "Inoffiziell: Live-Abfahrten für Bus und historische Bahnen",
-     "src": "https://apps.apple.com/app/id6760610031"
+     "src": "https://apps.apple.com/app/id6760610031",
+     "pkg": "im.kivoon.app"
     },
     {
      "name": "One Island",
@@ -34937,7 +35196,7 @@
    "src": "https://www.iombusandrail.im/explore-our-island/visitor-guide/",
    "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1992 legal, die Ehe für alle gilt seit 2016, Diskriminierung ist gesetzlich verboten.",
    "lgbtq_src": "https://equaldex.com/region/isle-of-man",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -35377,7 +35636,32 @@
      "cat": "tourism",
      "note": "Offline-Karten, Wanderwege, Tierwelt und Besucherinfos",
      "ess": true,
-     "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/"
+     "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
+     "pkg": "com.parksaustralia.cinp"
+    },
+    {
+     "name": "Qantas Airways",
+     "cat": "flights",
+     "pkg": "au.com.qantas.qantas",
+     "note": "Einzige Flugverbindung ab Perth buchen und einchecken",
+     "ess": true,
+     "src": "https://www.christmas.net.au/flights"
+    },
+    {
+     "name": "BOM Weather",
+     "cat": "safety",
+     "pkg": "au.gov.bom.metview",
+     "note": "Wetter und Warnungen des australischen Wetterdienstes",
+     "src": "https://www.bom.gov.au/wa/forecasts/index.shtml"
+    },
+    {
+     "name": "Christmas Island Car Hire",
+     "cat": "carshare",
+     "note": "Keine Taxis oder Busse, Mietwagen hier früh buchen",
+     "ess": true,
+     "url": "https://bookings.christmas.net.au/car-hire",
+     "nostore": true,
+     "src": "https://www.christmas.net.au/getting-around"
     }
    ],
    "cities": [],
@@ -35385,7 +35669,7 @@
    "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
    "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Bundesrecht mit Ehe für alle und Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/christmas-island",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "currency": [
@@ -35928,6 +36212,13 @@
        "pkg": "no.lokalstyre.app",
        "note": "Gemeinde-App mit Flugzeiten und Lawinenwarnung",
        "src": "https://www.lokalstyre.no/engelsk/longyearbyen-local-council/services/resident-information/new-in-longyearbyen"
+      },
+      {
+       "name": "Svalbard Audio",
+       "cat": "tourism",
+       "pkg": "com.spitzbergenreisenas.svalbardaudio",
+       "note": "Audioguide mit Karte für Longyearbyen von lokalem Anbieter",
+       "src": "https://play.google.com/store/apps/details?id=com.spitzbergenreisenas.svalbardaudio&hl=en&gl=NO"
       }
      ]
     }
@@ -35966,7 +36257,8 @@
      "cat": "tourism",
      "note": "Stadtführer mit Karte, Wetter und freien Parkplätzen",
      "ess": true,
-     "src": "https://apps.apple.com/us/app/liveinsm/id1002024149?l=en"
+     "src": "https://apps.apple.com/us/app/liveinsm/id1002024149?l=en",
+     "pkg": "sm.telecomitalia.liveinsm"
     },
     {
      "name": "VoiceMap",
@@ -36000,7 +36292,7 @@
    "src": "https://www.unirsm.sm/en/segreteria-studenti/studiare-unirsm/raggiungere-san-marino/",
    "lgbtq_note": "Keine Strafbarkeit, eingetragene Partnerschaft seit 2018, Schutz vor Diskriminierung wegen Orientierung in der Verfassung.",
    "lgbtq_src": "https://www.equaldex.com/region/san-marino",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "EU",
    "info": {
     "emergency": [
@@ -36041,6 +36333,21 @@
      "note": "Flüge buchen, Sitzplatz wählen und Bordkarte abrufen",
      "ess": true,
      "src": "https://www.virginaustralia.com/eu/en/travel-info/on-the-move/virgin-australia-app/"
+    },
+    {
+     "name": "Qantas Airways",
+     "cat": "flights",
+     "pkg": "au.com.qantas.qantas",
+     "note": "Flüge ab Perth über die Weihnachtsinsel buchen",
+     "ess": true,
+     "src": "https://www.christmas.net.au/flights"
+    },
+    {
+     "name": "BOM Weather",
+     "cat": "safety",
+     "pkg": "au.gov.bom.metview",
+     "note": "Wetter und Warnungen des australischen Wetterdienstes",
+     "src": "https://www.bom.gov.au/wa/forecasts/index.shtml"
     }
    ],
    "cities": [],
@@ -36048,7 +36355,7 @@
    "src": "https://www.infrastructure.gov.au/territories-regions-cities/territories/indian-ocean-territories/cocos-keeling-islands/travel-information",
    "lgbtq_note": "Keine Strafbarkeit, es gilt australisches Recht mit Ehe für alle und Schutz vor Diskriminierung.",
    "lgbtq_src": "https://www.equaldex.com/region/cocos-keeling-islands",
-   "checked": "2026-11-20",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "currency": [
@@ -36590,7 +36897,8 @@
      "name": "Viking Line",
      "cat": "rail",
      "note": "Fährbuchung und digitale Bordkarte, Fähren halten in Mariehamn",
-     "src": "https://sourceforge.net/app/viking-line/android/"
+     "src": "https://sourceforge.net/app/viking-line/android/",
+     "pkg": "com.vikingline.owapp"
     },
     {
      "name": "Matkahuolto Matkat",
@@ -36605,6 +36913,13 @@
      "note": "Schärenfähren und Busse online buchen, mit QR-Code",
      "url": "https://www.alandstrafiken.ax/",
      "src": "https://www.aland.com/en/artikel/discover-aland-with-alandstrafiken"
+    },
+    {
+     "name": "Tallink Silja Line",
+     "cat": "rail",
+     "pkg": "com.tallink.mikiandroid",
+     "note": "Fähren von Helsinki und Turku nach Stockholm über Åland",
+     "src": "https://www.tallink.com/travelling/one-way/aland-ferry"
     }
    ],
    "cities": [
@@ -36618,7 +36933,8 @@
        "name": "Mariehamn Taxi",
        "cat": "taxi",
        "note": "Taxi in Mariehamn sofort oder vorab bestellen",
-       "src": "https://apps.apple.com/fi/app/mariehamn-taxi/id1600054379"
+       "src": "https://apps.apple.com/fi/app/mariehamn-taxi/id1600054379",
+       "pkg": "se.mariehamn.bookingapp"
       },
       {
        "name": "Wolt",
@@ -37651,7 +37967,24 @@
      "name": "Yummy",
      "cat": "delivery",
      "note": "Lieferdienst für Essen und Einkäufe im Westjordanland",
-     "src": "https://apps.apple.com/us/app/id1448247070"
+     "src": "https://apps.apple.com/us/app/id1448247070",
+     "pkg": "app.yummy.ps"
+    },
+    {
+     "name": "Wheels NOW",
+     "cat": "delivery",
+     "pkg": "ps.wheels.delivery.order",
+     "note": "Essen von Restaurants in Palästina liefern lassen",
+     "use": "limited",
+     "req": "Registrierung und Zahlung in der Quelle nicht beschrieben",
+     "src": "https://play.google.com/store/apps/details?id=ps.wheels.delivery.order&hl=en&gl=PS"
+    },
+    {
+     "name": "Moovit",
+     "cat": "transit",
+     "pkg": "com.tranzmate",
+     "note": "Busverbindungen, etwa Ostjerusalem nach Ramallah",
+     "src": "https://moovitapp.com/index/en/public_transit-Ramallah_Bireh_Bus_Station-Israel-site_33036823-1"
     }
    ],
    "cities": [
@@ -37681,6 +38014,13 @@
        "pkg": "com.intertech.visitramallah",
        "note": "Sehenswertes, Wanderwege und Kultur in Ramallah",
        "src": "https://play.google.com/store/apps/details?id=com.intertech.visitramallah&hl=en&gl=US"
+      },
+      {
+       "name": "Ramallah Municipality",
+       "cat": "misc",
+       "pkg": "app.intertech.ramallah",
+       "note": "Stadtinfos, Veranstaltungen und Kontakt der Stadt Ramallah",
+       "src": "https://play.google.com/store/apps/details?id=app.intertech.ramallah&hl=en&gl=PS"
       }
      ]
     }
@@ -38520,9 +38860,35 @@
      "use": "limited",
      "req": "Registrierung in der Quelle nicht beschrieben, Barzahlung möglich",
      "src": "https://mwm.ai/apps/krm-twsyl-t-m-f-lymn/6736373743"
+    },
+    {
+     "name": "Al-Fakhama: Taxi Yemen",
+     "cat": "taxi",
+     "pkg": "fakhama.passenger",
+     "note": "Taxi im Jemen per App bestellen",
+     "use": "limited",
+     "req": "Funktionierende Telefonnummer für das Konto nötig",
+     "src": "https://play.google.com/store/apps/details?id=fakhama.passenger&hl=en&gl=YE"
     }
    ],
    "cities": [
+    {
+     "name": "Aden",
+     "match": [
+      "Aden"
+     ],
+     "apps": [
+      {
+       "name": "Yemen Taxi Trahal",
+       "cat": "taxi",
+       "pkg": "trahal.taxi.yemen.passenger",
+       "note": "Taxi in Aden per App bestellen, auch zum Flughafen",
+       "use": "limited",
+       "req": "Telefonnummer nötig, Zahlung meist bar",
+       "src": "https://play.google.com/store/apps/details?id=trahal.taxi.yemen.passenger&hl=en&gl=YE"
+      }
+     ]
+    },
     {
      "name": "Sanaa",
      "match": [
@@ -38543,7 +38909,8 @@
        "note": "Taxi, Economy oder Familienbus in Sanaa bestellen",
        "use": "limited",
        "req": "Zahlung bar oder per Überweisung mit lokaler Banking-App",
-       "src": "https://apps.apple.com/app/id1616629462"
+       "src": "https://apps.apple.com/app/id1616629462",
+       "pkg": "smartrahal.passenger"
       },
       {
        "name": "Wagbat",
@@ -38560,7 +38927,7 @@
    "src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260",
    "lgbtq_note": "Homosexuelle Handlungen sind nach islamischem Recht verboten und können mit dem Tod bestraft werden.",
    "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/jemen-node/jemensicherheit-202260",
-   "checked": "2026-11-21",
+   "checked": "2026-11-23",
    "cont": "AS",
    "info": {
     "emergency": [
