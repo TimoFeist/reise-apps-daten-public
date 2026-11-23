@@ -1,1 +1,369 @@
-{"src": "https://www.bento.travel/canada", "fetched": "2026-11-17", "updated": "August 2026", "note": "Deutsche brauchen für Flüge eine eTA für 7 CAD, nur über canada.ca, eine offizielle App gibt es nicht. Bezahlt wird meist per Kreditkarte.", "discontinued": [], "apps": [{"name": "Transit App", "cat": "transit", "pkg": "com.thetransitapp.droid", "ess": true, "note": "Echtzeit-Abfahrten, Störungen und Routen in vielen Städten", "city": "", "use": "ok", "req": ""}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": false, "note": "Größter Fahrdienst, Abholpunkte an Flughäfen beachten", "city": "", "use": "ok", "req": ""}, {"name": "Lyft", "cat": "taxi", "pkg": "me.lyft.android", "ess": false, "note": "Fahrdienst als Alternative, nicht überall vertreten", "city": "", "use": "ok", "req": ""}, {"name": "DoorDash", "cat": "delivery", "pkg": "com.dd.doordash", "ess": false, "note": "Essen und Einkäufe liefern lassen", "city": "", "use": "ok", "req": ""}, {"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": false, "note": "Lieferdienst mit dem vorhandenen Uber-Konto", "city": "", "use": "ok", "req": ""}, {"name": "Skip", "cat": "delivery", "pkg": "com.ncconsulting.skipthedishes_android", "ess": false, "note": "Kanadischer Lieferdienst, auch in kleineren Orten", "city": "", "use": "ok", "req": ""}, {"name": "WeatherCAN", "cat": "safety", "pkg": "ca.gc.ec.weather_app_android.ops", "ess": false, "note": "Amtliche Wetterwarnungen und Radar", "city": "", "use": "ok", "req": ""}, {"name": "PRESTO", "cat": "transit", "pkg": "com.metrolinx.presto.android.consumerapp", "ess": false, "note": "Guthaben und Pässe der PRESTO-Karte in Ontario verwalten", "city": "", "use": "limited", "req": "PRESTO-Karte nötig, alternativ Kreditkarte antippen", "src": "https://www.ttc.ca/riding-the-ttc/Updates/Pay-your-fare-with-your-debit-or-credit-card"}, {"name": "Chrono", "cat": "transit", "pkg": "quebec.artm.chrono", "ess": false, "note": "Fahrpläne und Tickets für Bus und Metro", "city": "Montreal", "use": "ok", "req": ""}, {"name": "Calgary Transit My Fare", "cat": "transit", "pkg": "com.justride.calgary", "ess": false, "note": "Offizielle Ticket-App für Bus und CTrain", "city": "Calgary", "use": "ok", "req": ""}, {"name": "HFXGO", "cat": "transit", "pkg": "com.justride.halifax", "ess": false, "note": "Tickets für Busse und Fähre in Halifax", "city": "Halifax", "use": "ok", "req": ""}, {"name": "Flair Airlines", "cat": "flights", "pkg": "com.flyflair.mobile", "ess": false, "note": "Buchung und Check-in beim Billigflieger", "city": "", "use": "ok", "req": ""}, {"name": "ArriveCAN", "cat": "entry", "pkg": "ca.gc.cbsa.coronavirus", "ess": false, "note": "Freiwillige Zollerklärung vorab an 10 Flughäfen", "city": "", "use": "ok", "req": "", "src": "https://www.canada.ca/en/border-services-agency/services/arrivecan.htm"}, {"name": "Parks Canada App", "cat": "tourism", "pkg": "com.parkscanada.mobile", "ess": false, "note": "Nationalparks mit Offline-Infos und Touren", "city": "", "use": "ok", "req": ""}, {"name": "Tim Hortons", "cat": "delivery", "pkg": "digital.rbi.timhortons", "ess": false, "note": "Kaffee vorbestellen, bezahlen und Punkte sammeln", "city": "", "use": "ok", "req": ""}, {"name": "Wise", "cat": "payment", "pkg": "com.transferwise.android", "ess": false, "note": "Kanadische Dollar halten und günstig tauschen", "city": "", "use": "ok", "req": "", "src": "https://wise.com/help/articles/2813542/where-do-i-need-to-live-to-hold-money-with-wise"}, {"name": "Via Rail", "cat": "rail", "pkg": "com.viarail.reservia", "ess": false, "note": "Fernzüge buchen und Zugstatus abrufen", "city": "", "use": "ok", "req": ""}, {"name": "Evo Car Share", "cat": "carshare", "pkg": "", "ess": false, "note": "Freefloating-Carsharing im Raum Vancouver", "city": "Vancouver", "use": "limited", "req": "Fahrpraxis 3 Jahre, beglaubigt übersetzter Fahrerauszug", "src": "https://evo.ca/vulogfaq"}, {"name": "Turo", "cat": "carshare", "pkg": "com.relayrides.android.relayrides", "ess": false, "note": "Autos von Privatleuten mieten", "city": "", "use": "limited", "req": "Mindestalter 23, Fahrerprüfung bei erster Buchung", "src": "https://turo.com/ca/en/car-rental/canada/how-turo-works"}, {"name": "Lime", "cat": "micro", "pkg": "", "ess": false, "note": "Leih-E-Scooter und E-Bikes in mehreren Städten", "city": "", "use": "limited", "req": "Mindestalter 18", "src": "https://www.calgary.ca/bike-walk-roll/electric-scooters.html"}, {"name": "Bird", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter-Verleih, etwa in Calgary", "city": "", "use": "limited", "req": "Mindestalter 18", "src": "https://www.calgary.ca/bike-walk-roll/electric-scooters.html"}, {"name": "Green P", "cat": "parking", "pkg": "com.passportparking.mobile.toronto", "ess": false, "note": "Offizielle Park-App der Stadt Toronto", "city": "Toronto", "use": "ok", "req": "", "src": "https://mobilepay.greenp.com/faq/how-do-i-get-the-green-p-app/"}, {"name": "Bike Share Toronto", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder mit Tagespass oder Minutenpreis", "city": "Toronto", "use": "ok", "req": "", "src": "https://bikesharetoronto.com/pricing/"}, {"name": "PayByPhone", "cat": "parking", "pkg": "", "ess": false, "note": "Straßenparken per Handy bezahlen", "city": "Vancouver", "use": "ok", "req": "", "src": "https://vancouver.ca/streets-transportation/pay-for-parking.aspx"}, {"name": "HotSpot", "cat": "parking", "pkg": "", "ess": false, "note": "Zweite offizielle Option fürs Straßenparken", "city": "Vancouver", "use": "ok", "req": "", "src": "https://vancouver.ca/streets-transportation/pay-for-parking.aspx"}, {"name": "Mobi", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder und E-Bikes mit Minutentarif", "city": "Vancouver", "use": "ok", "req": "", "src": "https://www.mobibikes.ca/en/offers-subscription"}, {"name": "Mobicité", "cat": "parking", "pkg": "ca.agencemobilitedurable.mobicite", "ess": false, "note": "Offizielle Park-App für Straße und städtische Plätze", "city": "Montreal", "use": "limited", "req": "Konto und Kreditkarte nötig", "src": "https://www.agencemobilitedurable.ca/en/practical-info/pmobileservice"}, {"name": "BIXI", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder und E-Bikes mit Stationskarte", "city": "Montreal", "use": "ok", "req": "", "src": "https://bixi.com/en/mobile-application/"}, {"name": "RTC Nomade temps réel", "cat": "transit", "pkg": "ca.rtcquebec.nomade", "ess": false, "note": "Busse in Echtzeit, Haltestellen und Störungen", "city": "Quebec City", "use": "ok", "req": "", "src": "https://www.rtcquebec.ca/informations-pratiques/pour-rester-informe/rtc-nomade-temps-reel"}, {"name": "RTC Nomade paiement", "cat": "transit", "pkg": "com.rtc.ticket", "ess": false, "note": "Bustickets kaufen und im Handy entwerten", "city": "Quebec City", "use": "limited", "req": "Konto und Visa oder Mastercard nötig", "src": "https://www.rtcquebec.ca/tarifs-et-achat/achat-et-points-de-vente/rtc-nomade-paiement"}, {"name": "MyParking", "cat": "parking", "pkg": "com.cpa.accountManagement", "ess": false, "note": "Offizielle ParkPlus-App, Zahlung auch als Gast", "city": "Calgary", "use": "ok", "req": "", "src": "https://www.calgaryparking.com/paying-for-parking/mobile-app.html"}]}
+{
+ "src": "https://www.bento.travel/canada",
+ "fetched": "2026-11-23",
+ "updated": "August 2026",
+ "note": "Deutsche brauchen für Flüge eine eTA für 7 CAD, nur über canada.ca, eine offizielle App gibt es nicht. Bezahlt wird meist per Kreditkarte.",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Transit App",
+   "cat": "transit",
+   "pkg": "com.thetransitapp.droid",
+   "ess": true,
+   "note": "Echtzeit-Abfahrten, Störungen und Routen in vielen Städten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Größter Fahrdienst, Abholpunkte an Flughäfen beachten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Lyft",
+   "cat": "taxi",
+   "pkg": "me.lyft.android",
+   "ess": false,
+   "note": "Fahrdienst als Alternative, nicht überall vertreten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DoorDash",
+   "cat": "delivery",
+   "pkg": "com.dd.doordash",
+   "ess": false,
+   "note": "Essen und Einkäufe liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": false,
+   "note": "Lieferdienst mit dem vorhandenen Uber-Konto",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Skip",
+   "cat": "delivery",
+   "pkg": "com.ncconsulting.skipthedishes_android",
+   "ess": false,
+   "note": "Kanadischer Lieferdienst, auch in kleineren Orten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "WeatherCAN",
+   "cat": "safety",
+   "pkg": "ca.gc.ec.weather_app_android.ops",
+   "ess": false,
+   "note": "Amtliche Wetterwarnungen und Radar",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "PRESTO",
+   "cat": "transit",
+   "pkg": "com.metrolinx.presto.android.consumerapp",
+   "ess": false,
+   "note": "Guthaben und Pässe der PRESTO-Karte in Ontario verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "PRESTO-Karte nötig, alternativ Kreditkarte antippen",
+   "src": "https://www.ttc.ca/riding-the-ttc/Updates/Pay-your-fare-with-your-debit-or-credit-card"
+  },
+  {
+   "name": "Chrono",
+   "cat": "transit",
+   "pkg": "quebec.artm.chrono",
+   "ess": false,
+   "note": "Fahrpläne und Tickets für Bus und Metro",
+   "city": "Montreal",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Calgary Transit My Fare",
+   "cat": "transit",
+   "pkg": "com.justride.calgary",
+   "ess": false,
+   "note": "Offizielle Ticket-App für Bus und CTrain",
+   "city": "Calgary",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "HFXGO",
+   "cat": "transit",
+   "pkg": "com.justride.halifax",
+   "ess": false,
+   "note": "Tickets für Busse und Fähre in Halifax",
+   "city": "Halifax",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Flair Airlines",
+   "cat": "flights",
+   "pkg": "com.flyflair.mobile",
+   "ess": false,
+   "note": "Buchung und Check-in beim Billigflieger",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "ArriveCAN",
+   "cat": "entry",
+   "pkg": "ca.gc.cbsa.coronavirus",
+   "ess": false,
+   "note": "Freiwillige Zollerklärung vorab an 10 Flughäfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.canada.ca/en/border-services-agency/services/arrivecan.htm"
+  },
+  {
+   "name": "Parks Canada App",
+   "cat": "tourism",
+   "pkg": "com.parkscanada.mobile",
+   "ess": false,
+   "note": "Nationalparks mit Offline-Infos und Touren",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Tim Hortons",
+   "cat": "delivery",
+   "pkg": "digital.rbi.timhortons",
+   "ess": false,
+   "note": "Kaffee vorbestellen, bezahlen und Punkte sammeln",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Wise",
+   "cat": "payment",
+   "pkg": "com.transferwise.android",
+   "ess": false,
+   "note": "Kanadische Dollar halten und günstig tauschen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://wise.com/help/articles/2813542/where-do-i-need-to-live-to-hold-money-with-wise"
+  },
+  {
+   "name": "Via Rail",
+   "cat": "rail",
+   "pkg": "com.viarail.reservia",
+   "ess": false,
+   "note": "Fernzüge buchen und Zugstatus abrufen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Evo Car Share",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Freefloating-Carsharing im Raum Vancouver",
+   "city": "Vancouver",
+   "use": "limited",
+   "req": "Fahrpraxis 3 Jahre, beglaubigt übersetzter Fahrerauszug",
+   "src": "https://evo.ca/vulogfaq"
+  },
+  {
+   "name": "Turo",
+   "cat": "carshare",
+   "pkg": "com.relayrides.android.relayrides",
+   "ess": false,
+   "note": "Autos von Privatleuten mieten",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 23, Fahrerprüfung bei erster Buchung",
+   "src": "https://turo.com/ca/en/car-rental/canada/how-turo-works"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Scooter und E-Bikes in mehreren Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 18",
+   "src": "https://www.calgary.ca/bike-walk-roll/electric-scooters.html"
+  },
+  {
+   "name": "Bird",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter-Verleih, etwa in Calgary",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 18",
+   "src": "https://www.calgary.ca/bike-walk-roll/electric-scooters.html"
+  },
+  {
+   "name": "Green P",
+   "cat": "parking",
+   "pkg": "com.passportparking.mobile.toronto",
+   "ess": false,
+   "note": "Offizielle Park-App der Stadt Toronto",
+   "city": "Toronto",
+   "use": "ok",
+   "req": "",
+   "src": "https://mobilepay.greenp.com/faq/how-do-i-get-the-green-p-app/"
+  },
+  {
+   "name": "Bike Share Toronto",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder mit Tagespass oder Minutenpreis",
+   "city": "Toronto",
+   "use": "ok",
+   "req": "",
+   "src": "https://bikesharetoronto.com/pricing/"
+  },
+  {
+   "name": "PayByPhone",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Straßenparken per Handy bezahlen",
+   "city": "Vancouver",
+   "use": "ok",
+   "req": "",
+   "src": "https://vancouver.ca/streets-transportation/pay-for-parking.aspx"
+  },
+  {
+   "name": "HotSpot",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Zweite offizielle Option fürs Straßenparken",
+   "city": "Vancouver",
+   "use": "ok",
+   "req": "",
+   "src": "https://vancouver.ca/streets-transportation/pay-for-parking.aspx"
+  },
+  {
+   "name": "Mobi",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder und E-Bikes mit Minutentarif",
+   "city": "Vancouver",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.mobibikes.ca/en/offers-subscription"
+  },
+  {
+   "name": "Mobicité",
+   "cat": "parking",
+   "pkg": "ca.agencemobilitedurable.mobicite",
+   "ess": false,
+   "note": "Offizielle Park-App für Straße und städtische Plätze",
+   "city": "Montreal",
+   "use": "limited",
+   "req": "Konto und Kreditkarte nötig",
+   "src": "https://www.agencemobilitedurable.ca/en/practical-info/pmobileservice"
+  },
+  {
+   "name": "BIXI",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder und E-Bikes mit Stationskarte",
+   "city": "Montreal",
+   "use": "ok",
+   "req": "",
+   "src": "https://bixi.com/en/mobile-application/"
+  },
+  {
+   "name": "RTC Nomade temps réel",
+   "cat": "transit",
+   "pkg": "ca.rtcquebec.nomade",
+   "ess": false,
+   "note": "Busse in Echtzeit, Haltestellen und Störungen",
+   "city": "Quebec City",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rtcquebec.ca/informations-pratiques/pour-rester-informe/rtc-nomade-temps-reel"
+  },
+  {
+   "name": "RTC Nomade paiement",
+   "cat": "transit",
+   "pkg": "com.rtc.ticket",
+   "ess": false,
+   "note": "Bustickets kaufen und im Handy entwerten",
+   "city": "Quebec City",
+   "use": "limited",
+   "req": "Konto und Visa oder Mastercard nötig",
+   "src": "https://www.rtcquebec.ca/tarifs-et-achat/achat-et-points-de-vente/rtc-nomade-paiement"
+  },
+  {
+   "name": "MyParking",
+   "cat": "parking",
+   "pkg": "com.cpa.accountManagement",
+   "ess": false,
+   "note": "Offizielle ParkPlus-App, Zahlung auch als Gast",
+   "city": "Calgary",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.calgaryparking.com/paying-for-parking/mobile-app.html"
+  },
+  {
+   "name": "Token Transit",
+   "cat": "transit",
+   "pkg": "com.tokentransit.tokentransit",
+   "ess": false,
+   "note": "Roam-Transit-Tickets aufs Handy, nur per Kreditkarte",
+   "city": "Banff",
+   "use": "ok",
+   "req": "",
+   "src": "https://roamtransit.com/tokentransit/"
+  },
+  {
+   "name": "Umo Mobility",
+   "cat": "transit",
+   "pkg": "com.cubic.ctp.app",
+   "ess": false,
+   "note": "Digitale Fahrkarte für BC Transit per QR-Code",
+   "city": "Victoria",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bctransit.com/umo/"
+  },
+  {
+   "name": "Umo Mobility",
+   "cat": "transit",
+   "pkg": "com.cubic.ctp.app",
+   "ess": false,
+   "note": "Busfahren per QR-Code, Tagespass wird automatisch",
+   "city": "Whistler",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bctransit.com/whistler/fares/how-fares-work/umo/"
+  }
+ ]
+}

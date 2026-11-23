@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/india",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "Paytm- und Google-Pay-Konten funktionieren für Besucher meist nicht; Bargeld und funktionierende physische Karten mitnehmen.",
  "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, wegen geringer gesellschaftlicher Akzeptanz wird Zurückhaltung in der Öffentlichkeit empfohlen.",
@@ -424,6 +424,94 @@
    "use": "limited",
    "req": "Ob eine ausländische Nummer und Karte gehen, ist unklar",
    "src": "https://www.storyboard18.com/brand-marketing/govt-of-goa-urges-taxi-operators-to-join-app-based-platforms-to-enhance-tourist-mobility-and-livelihood-opportunities-68686.htm"
+  },
+  {
+   "name": "TSavaari",
+   "cat": "transit",
+   "pkg": "com.minfy.tsavaari",
+   "ess": false,
+   "note": "Offizielle Metro-App, QR-Tickets und Kartenaufladung",
+   "city": "Hyderabad",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://www.siasat.com/hyderabad-metro-upgrades-t-savaari-app-enhances-passenger-experience-3200962/amp/"
+  },
+  {
+   "name": "Pune Metro (Official App)",
+   "cat": "transit",
+   "pkg": "org.mahametro.punemobileapp",
+   "ess": false,
+   "note": "QR-Tickets, Fahrpreise und Infos zur Metro Pune",
+   "city": "Pune",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://www.punemetrorail.org/download/Maha-Metros-Pune-Metro-Mobile-App-For-Seamless-Travel-And-Contactless-Ticketing.pdf"
+  },
+  {
+   "name": "Apli PMPML",
+   "cat": "transit",
+   "pkg": "in.chartr.pmpml",
+   "ess": false,
+   "note": "Stadtbusse Pune: Livekarte, Tickets und Tagespässe",
+   "city": "Pune",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://www.thebridgechronicle.com/news/aapli-pmpml-app-turns-one-digital-bus-ticketing-growth-challenges"
+  },
+  {
+   "name": "Ahmedabad Metro (Official)",
+   "cat": "transit",
+   "pkg": "com.gujaratmetrorail.gmrcamddigitalticketing",
+   "ess": false,
+   "note": "QR-Tickets für die Metro, Zahlung per UPI oder Karte",
+   "city": "Ahmedabad",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://deshgujarat.com/2025/01/18/gmrc-launches-ahmedabad-metro-mobile-app-for-ios-users-for-online-ticket-booking"
+  },
+  {
+   "name": "Kochi1",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Metro-App, QR-Tickets per Karte oder UPI",
+   "city": "Kochi",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://a2622016.axisbank.com/docs/default-source/default-document-library/kmrl-axis-bank-kochi1-app-faqs.pdf"
+  },
+  {
+   "name": "Agra Metro (Official)",
+   "cat": "transit",
+   "pkg": "com.upmetrorail.agradigitalticketing",
+   "ess": false,
+   "note": "QR-Tickets für die Metro zum Taj Mahal",
+   "city": "Agra",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.upmetrorail.agradigitalticketing&hl=en&gl=IN"
+  },
+  {
+   "name": "Lucknow Metro (Official)",
+   "cat": "transit",
+   "pkg": "com.prod.upmrc_lucknow",
+   "ess": false,
+   "note": "QR-Tickets für die Metro Lucknow buchen",
+   "city": "Lucknow",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://www.indiatvnews.com/uttar-pradesh/lucknow-metro-launches-qr-based-ticketing-system-know-how-it-works-and-other-details-2026-02-16-1030520"
+  },
+  {
+   "name": "CRUT Ama Bus",
+   "cat": "transit",
+   "pkg": "com.chalo.crut",
+   "ess": false,
+   "note": "Stadtbusse Bhubaneswar und Puri: Live und E-Tickets",
+   "city": "Bhubaneswar",
+   "use": "limited",
+   "req": "Anmeldung per OTP, meist indische Nummer nötig",
+   "src": "https://www.capitalregiontransport.in/know-moreriders-services"
   }
  ]
 }

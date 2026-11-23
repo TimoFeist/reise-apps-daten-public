@@ -1,6 +1,6 @@
 {
  "src": "https://visitfaroeislands.com/en/plan-your-stay/getting-around",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Tunnelmaut nur online auf tunnil.fo binnen drei Tagen zahlen. In vielen Orten parkt man mit Parkscheibe, nicht per App.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
@@ -61,6 +61,18 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/at/app/skaffa/id6444051786?l=en-GB"
+  },
+  {
+   "name": "SSL Booking",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähren und Busse von Strandfaraskip online buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.ssl.fo/en/news/explore-the-faroe-islands-by-public-transport",
+   "url": "https://booking.ssl.fo/Booking"
   }
  ]
 }

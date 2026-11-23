@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/china",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "Deutsche bis 30 Tage visafrei (Regel bis Ende 2026). Google und WhatsApp sind gesperrt, Alipay oder WeChat Pay vorab einrichten.",
  "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, ein rechtlicher Schutz fehlt aber und gleichgeschlechtliche Paare sollten sich in der Öffentlichkeit zurückhalten.",
@@ -292,6 +292,17 @@
    "use": "limited",
    "req": "Bezahlfunktion nur mit chinesischen Zahlungsmitteln belegt",
    "src": "https://apps.apple.com/py/app/%E8%A5%BF%E5%AE%89%E5%9C%B0%E9%93%81-%E5%AE%98%E6%96%B9app/id1325483350?l=en-GB"
+  },
+  {
+   "name": "Yutongxing (渝通行)",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Virtuelle Verkehrskarte für Metro und Bus Chongqing",
+   "city": "Chongqing",
+   "use": "limited",
+   "req": "Chinesische App, Fahrcode per Alipay oft einfacher",
+   "src": "https://english.cq.gov.cn/specials/getaround/PublicTransport/CityBuses/202608/t20260807_15905586.html"
   }
  ]
 }

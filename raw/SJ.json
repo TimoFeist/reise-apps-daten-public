@@ -1,6 +1,6 @@
 {
  "src": "https://www.sysselmesteren.no/en/travel-in-svalbard/application-and-registration-requirement-for-trips-to-svalbard/",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Private Touren außerhalb des freien Reisegebiets mindestens vier Wochen vorher beim Sysselmesteren beantragen.",
  "lgbtq_note": "Es gilt norwegisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2009, Schutz vor Diskriminierung.",
@@ -50,6 +50,39 @@
    "use": "ok",
    "req": "",
    "src": "https://www.avinor.no/en/practical-info/app"
+  },
+  {
+   "name": "Yr",
+   "cat": "safety",
+   "pkg": "no.nrk.yr",
+   "ess": false,
+   "note": "Norwegischer Wetterdienst, auch für Svalbard",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://en.visitsvalbard.com/visitor-information/faq"
+  },
+  {
+   "name": "Aurora Forecast 3D",
+   "cat": "tourism",
+   "pkg": "com.embarcadero.AuroraForecast3D",
+   "ess": false,
+   "note": "Nordlicht-Vorhersage, von Visit Svalbard empfohlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://en.visitsvalbard.com/visitor-information/faq"
+  },
+  {
+   "name": "Longyearbyen innbygger",
+   "cat": "safety",
+   "pkg": "no.lokalstyre.app",
+   "ess": false,
+   "note": "Gemeinde-App mit Flugzeiten und Lawinenwarnung",
+   "city": "Longyearbyen",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.lokalstyre.no/engelsk/longyearbyen-local-council/services/resident-information/new-in-longyearbyen"
   }
  ]
 }

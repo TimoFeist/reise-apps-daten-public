@@ -1,9 +1,112 @@
-{"src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202", "fetched": "2026-11-18", "updated": "17.11.2026", "note": "Visum vorab bei der Botschaft beantragen, Gelbfieberimpfung ist Pflicht, neue US-Dollar-Scheine mitnehmen; Teilreisewarnung beachten.", "lgbtq_note": "Homosexuelle Handlungen sind nicht ausdrücklich strafbar, werden aber als Verstoß gegen die Sittlichkeit mit Haft geahndet; ein Verbotsgesetz wird debattiert.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202", "discontinued": [], "apps": [
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reisehinweise des Auswärtigen Amts mit Krisenwarnungen", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"},
-{"name": "Yango", "cat": "taxi", "pkg": "", "ess": true, "note": "Fahrdienst und Lieferdienst, verbreitet in Kinshasa", "city": "", "use": "ok", "req": "", "src": "https://ecomatin.net/cameroun-congo-rdc-yango-lance-un-hub-regional-en-afrique-centrale-pour-deployer-ses-services-financiers"},
-{"name": "Bolt", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrdienst, seit 2024 in Kinshasa aktiv", "city": "Kinshasa", "use": "ok", "req": "", "src": "https://kolonell.com/fr/blog/app-gestion-flotte-taxi-vtc-kinshasa-2026"},
-{"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Kinshasa N'djili buchen", "city": "Kinshasa", "use": "limited", "req": "Internationaler Führerschein nur zusammen mit deutschem Führerschein gültig", "src": "https://www.avis.com/fr/locations/af/zm/kinshasa/fih"},
-{"name": "M-Pesa DRC", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money von Vodacom für Zahlungen und Überweisungen", "city": "", "use": "no", "req": "Vodacom-Nummer und Ausweis nötig, Ausländer brauchen eine Aufenthaltskarte", "src": "https://blog.iambeezy.app/fr/ouvrir-compte-m-pesa-rdc-2026/"},
-{"name": "Orange Max it RDC", "cat": "payment", "pkg": "com.orange.sugu.ocd", "ess": false, "note": "Orange Money, Guthaben und Datenpakete in einer App", "city": "", "use": "limited", "req": "Für Orange Money kongolesische Orange-SIM nötig", "src": "https://appgoblin.info/apps/com.orange.sugu.ocd"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, in der DR Kongo riskant", "city": "", "use": "no", "req": "Homosexuelle Handlungen können als Sittlichkeitsverstoß mit Haft bestraft werden", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
+ "fetched": "2026-11-23",
+ "updated": "17.11.2026",
+ "note": "Visum vorab bei der Botschaft beantragen, Gelbfieberimpfung ist Pflicht, neue US-Dollar-Scheine mitnehmen; Teilreisewarnung beachten.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht ausdrücklich strafbar, werden aber als Verstoß gegen die Sittlichkeit mit Haft geahndet; ein Verbotsgesetz wird debattiert.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts mit Krisenwarnungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Fahrdienst und Lieferdienst, verbreitet in Kinshasa",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://ecomatin.net/cameroun-congo-rdc-yango-lance-un-hub-regional-en-afrique-centrale-pour-deployer-ses-services-financiers"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst, seit 2024 in Kinshasa aktiv",
+   "city": "Kinshasa",
+   "use": "ok",
+   "req": "",
+   "src": "https://kolonell.com/fr/blog/app-gestion-flotte-taxi-vtc-kinshasa-2026"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Kinshasa N'djili buchen",
+   "city": "Kinshasa",
+   "use": "limited",
+   "req": "Internationaler Führerschein nur zusammen mit deutschem Führerschein gültig",
+   "src": "https://www.avis.com/fr/locations/af/zm/kinshasa/fih"
+  },
+  {
+   "name": "M-Pesa DRC",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money von Vodacom für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Vodacom-Nummer und Ausweis nötig, Ausländer brauchen eine Aufenthaltskarte",
+   "src": "https://blog.iambeezy.app/fr/ouvrir-compte-m-pesa-rdc-2026/"
+  },
+  {
+   "name": "Orange Max it RDC",
+   "cat": "payment",
+   "pkg": "com.orange.sugu.ocd",
+   "ess": false,
+   "note": "Orange Money, Guthaben und Datenpakete in einer App",
+   "city": "",
+   "use": "limited",
+   "req": "Für Orange Money kongolesische Orange-SIM nötig",
+   "src": "https://appgoblin.info/apps/com.orange.sugu.ocd"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in der DR Kongo riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen können als Sittlichkeitsverstoß mit Haft bestraft werden",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202"
+  },
+  {
+   "name": "RDC e-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Online-Visum nur für Kurzaufenthalte bis 7 Tage",
+   "city": "",
+   "use": "limited",
+   "req": "Nur bis 7 Tage und teurer, sonst Visum über Botschaft Berlin",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kongodemokratischerepubliksicherheit-203202",
+   "url": "https://evisa.gouv.cd/",
+   "nostore": true
+  },
+  {
+   "name": "Air Congo",
+   "cat": "flights",
+   "pkg": "com.aircongo.aircongo",
+   "ess": false,
+   "note": "Neue Nationalairline: Buchung und Verwaltung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://allafrica.com/stories/202602270117.html"
+  }
+ ]
+}

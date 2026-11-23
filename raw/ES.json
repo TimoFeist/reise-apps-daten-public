@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/spain",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "Immer eine Ersatzkarte und etwas Bargeld dabeihaben; ETIAS ist noch nicht nötig, also nichts dafür zahlen.",
  "discontinued": [
@@ -393,6 +393,116 @@
    "use": "limited",
    "req": "Virtuelle Karte nur mit physischer Tarjeta Única",
    "src": "https://www.tib.org/es/nuevaapp-tarjetavirtual"
+  },
+  {
+   "name": "Bilbobus",
+   "cat": "transit",
+   "pkg": "net.bilbao.bilbobusapp",
+   "ess": false,
+   "note": "Offizielle Stadtbus-App mit Linien und Ankunftszeiten",
+   "city": "Bilbao",
+   "use": "ok",
+   "req": "",
+   "src": "https://datos.gob.es/en/aplicaciones/bilbobus"
+  },
+  {
+   "name": "Barik",
+   "cat": "transit",
+   "pkg": "eus.ctb.barikmobile",
+   "ess": false,
+   "note": "Barik-Karte aufs Handy, Fahrten per NFC entwerten",
+   "city": "Bilbao",
+   "use": "limited",
+   "req": "Personalisierte Karte und NFC-Handy nötig",
+   "src": "https://www.emta.com/news/the-barik-contactless-topping-up-your-card-by-an-app-on-your-smartphone/"
+  },
+  {
+   "name": "Transporte Urbano de Granada",
+   "cat": "transit",
+   "pkg": "com.alsa.app.granada",
+   "ess": false,
+   "note": "Stadtbusse von Alsa mit Fahrplänen und Haltestellen",
+   "city": "Granada",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.alsa.com/ca-ES-VALENCIA/urbanos/granada"
+  },
+  {
+   "name": "GuaguasLPA",
+   "cat": "transit",
+   "pkg": "com.desicsl.milinea",
+   "ess": false,
+   "note": "Offizielle App der Stadtbusse mit Live-Zeiten",
+   "city": "Las Palmas de Gran Canaria",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.guaguas.com/genera_pdf_prensa/genera_noticia_pdf.php?id=3385"
+  },
+  {
+   "name": "LPA Park",
+   "cat": "parking",
+   "pkg": "com.inventiaplus.lpapark",
+   "ess": false,
+   "note": "Blaue Zone per App zahlen, freie Parkhausplätze",
+   "city": "Las Palmas de Gran Canaria",
+   "use": "ok",
+   "req": "",
+   "src": "https://sagulpa.com/portal-transparencia-documentos/245-pdf-condiciones-de-uso-de-lpa-park"
+  },
+  {
+   "name": "ten+móvil",
+   "cat": "transit",
+   "pkg": "com.metrotenerife.viamovil",
+   "ess": false,
+   "note": "Tickets für Busse und Tram auf Teneriffa per Handy",
+   "city": "Tenerife",
+   "use": "ok",
+   "req": "",
+   "src": "https://metrotenerife.com/en/tenmovil-is-the-new-app-for-the-public-transport/"
+  },
+  {
+   "name": "TITSA",
+   "cat": "transit",
+   "pkg": "com.titsa.app.android",
+   "ess": false,
+   "note": "Inselbusse mit Wartezeiten an der Haltestelle",
+   "city": "Tenerife",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.titsa.com/en/your-buses/fares-and-discounts"
+  },
+  {
+   "name": "Alicante Bus",
+   "cat": "transit",
+   "pkg": "com.cuatroochenta.subusalicante",
+   "ess": false,
+   "note": "Stadtbusse mit Live-Zeiten, QR-Ticket und Aufladen",
+   "city": "Alicante",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.alicante.es/es/noticias/alicante-lanza-nueva-plataforma-digital-del-transporte-urbano-facilitar-recarga"
+  },
+  {
+   "name": "TRAM d'Alacant",
+   "cat": "transit",
+   "pkg": "com.fgv.tram",
+   "ess": false,
+   "note": "Offizielle App der Straßenbahn Alicante",
+   "city": "Alicante",
+   "use": "ok",
+   "req": "",
+   "src": "https://alicanteturismo.com/en/?p=175278"
+  },
+  {
+   "name": "Alsa Mobi4U",
+   "cat": "transit",
+   "pkg": "com.alsa.app.maas",
+   "ess": false,
+   "note": "Inselbusse auf Ibiza mit Tickets und Live-Karte",
+   "city": "Ibiza",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.alsa.com/en/passes/ibiza-pass"
   }
  ],
  "replace": [
@@ -404,6 +514,11 @@
    "url": "",
    "nostore": false,
    "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/"
+  },
+  {
+   "old": "com.crtm.integrated",
+   "pkg": "com.crtm.integrated",
+   "city": "Madrid"
   }
  ]
 }

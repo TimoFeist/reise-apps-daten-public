@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/united-kingdom",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "Deutsche brauchen vor der Reise eine UK ETA, am einfachsten über die offizielle App beantragen.",
  "discontinued": [],
@@ -345,6 +345,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.firstbus.co.uk/greater-glasgow/tickets/where-buy/mtickets-faqs"
+  },
+  {
+   "name": "Translink mLink",
+   "cat": "transit",
+   "pkg": "uk.core.translink.mlink",
+   "ess": false,
+   "note": "Tickets für Metro, Glider, Ulsterbus und Züge in NI",
+   "city": "Belfast",
+   "use": "limited",
+   "req": "Konto zum Ticketkauf nötig",
+   "src": "https://www.4ni.co.uk/northern-ireland-news/318907/mlink-surpasses-11m-passenger-journeys"
   }
  ],
  "replace": [
@@ -365,6 +376,18 @@
    "url": "",
    "nostore": false,
    "src": "https://play.google.com/store/apps/details?id=uk.co.scotrail.app&hl=en&gl=GB"
+  },
+  {
+   "old": "uk.co.walkinapp.prod",
+   "note": "Restaurants finden, Tisch buchen und in der App zahlen",
+   "cat": "delivery",
+   "city": ""
+  },
+  {
+   "old": "com.slics.joos",
+   "note": "Powerbanks unterwegs ausleihen",
+   "cat": "misc",
+   "city": ""
   }
  ]
 }

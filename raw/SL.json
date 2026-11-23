@@ -1,8 +1,116 @@
-{"src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500", "fetched": "2026-11-18", "updated": "Stand: 18.11.2026 (Auswärtiges Amt)", "note": "eVisum vorab auf evisa.sl beantragen, 25 USD Sicherheitsgebühr über securipass.sl zahlen; Gelbfieberimpfung ist Pflicht.", "lgbtq_note": "Männliche homosexuelle Handlungen sind formal strafbar, das Gesetz wird kaum angewendet; Homosexualität stößt aber auf breite Ablehnung.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500", "discontinued": [], "apps": [
-{"name": "KargoSL", "cat": "taxi", "pkg": "", "ess": true, "note": "Keke, Moto oder Taxi buchen, dazu Pakete und Einkäufe", "city": "Freetown", "use": "limited", "req": "Zahlung per Orange Money oder App-Wallet, lokale Nummer üblich", "src": "https://apps.apple.com/app/id6761107673"},
-{"name": "Jisnor4U", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung von Restaurants, Supermärkten und Apotheken", "city": "Freetown", "use": "limited", "req": "Zahlungswege nicht angegeben, lokale Nummer wahrscheinlich nötig", "src": "https://apps.apple.com/bo/app/jisnor4u/id6475585867"},
-{"name": "Way-Li", "cat": "delivery", "pkg": "", "ess": false, "note": "Bestell-App eines Restaurants mit Abholung oder Lieferung", "city": "Freetown", "use": "limited", "req": "In-App-Zahlung über lokales Mobile Money", "src": "https://mwm.ai/apps/way-li/6765676969"},
-{"name": "Orange Max it - Sierra Leone", "cat": "payment", "pkg": "", "ess": false, "note": "Orange Money und Guthaben in einer App verwalten", "city": "", "use": "limited", "req": "Nur für Kunden mit Orange-SIM aus Sierra Leone", "src": "https://apps.apple.com/us/app/-/id6443607903"},
-{"name": "MyAfricell SL", "cat": "payment", "pkg": "", "ess": false, "note": "Africell-Konto und Afrimoney-Wallet, Rechnungen zahlen", "city": "", "use": "limited", "req": "Africell-SIM aus Sierra Leone nötig, Afrimoney per SMS oder Agent", "src": "https://apps.apple.com/us/app/myafricell-sl/id1572635366"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Dating-App, in Sierra Leone nur mit Vorsicht nutzen", "city": "", "use": "limited", "req": "Gesellschaftliche Ablehnung, große Diskretion geboten", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
+ "fetched": "2026-11-23",
+ "updated": "Stand: 18.11.2026 (Auswärtiges Amt)",
+ "note": "eVisum vorab auf evisa.sl beantragen, 25 USD Sicherheitsgebühr über securipass.sl zahlen; Gelbfieberimpfung ist Pflicht.",
+ "lgbtq_note": "Männliche homosexuelle Handlungen sind formal strafbar, das Gesetz wird kaum angewendet; Homosexualität stößt aber auf breite Ablehnung.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "KargoSL",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Keke, Moto oder Taxi buchen, dazu Pakete und Einkäufe",
+   "city": "Freetown",
+   "use": "limited",
+   "req": "Zahlung per Orange Money oder App-Wallet, lokale Nummer üblich",
+   "src": "https://apps.apple.com/app/id6761107673"
+  },
+  {
+   "name": "Jisnor4U",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von Restaurants, Supermärkten und Apotheken",
+   "city": "Freetown",
+   "use": "limited",
+   "req": "Zahlungswege nicht angegeben, lokale Nummer wahrscheinlich nötig",
+   "src": "https://apps.apple.com/bo/app/jisnor4u/id6475585867"
+  },
+  {
+   "name": "Way-Li",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Bestell-App eines Restaurants mit Abholung oder Lieferung",
+   "city": "Freetown",
+   "use": "limited",
+   "req": "In-App-Zahlung über lokales Mobile Money",
+   "src": "https://mwm.ai/apps/way-li/6765676969"
+  },
+  {
+   "name": "Orange Max it - Sierra Leone",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Orange Money und Guthaben in einer App verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Nur für Kunden mit Orange-SIM aus Sierra Leone",
+   "src": "https://apps.apple.com/us/app/-/id6443607903"
+  },
+  {
+   "name": "MyAfricell SL",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Africell-Konto und Afrimoney-Wallet, Rechnungen zahlen",
+   "city": "",
+   "use": "limited",
+   "req": "Africell-SIM aus Sierra Leone nötig, Afrimoney per SMS oder Agent",
+   "src": "https://apps.apple.com/us/app/myafricell-sl/id1572635366"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, in Sierra Leone nur mit Vorsicht nutzen",
+   "city": "",
+   "use": "limited",
+   "req": "Gesellschaftliche Ablehnung, große Diskretion geboten",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/sierraleonesicherheit/203500"
+  },
+  {
+   "name": "Sierra Leone eVisa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "eVisum vorab online beantragen und bezahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500",
+   "url": "https://evisa.sl",
+   "nostore": true
+  },
+  {
+   "name": "Securipass",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Sicherheitsgebühr 25 USD für Flugreisende vorab zahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500",
+   "url": "https://securipass.sl/",
+   "nostore": true
+  },
+  {
+   "name": "Gesundheitserklärung (NPHA)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Online-Gesundheitserklärung binnen 72 Std. vor Reise",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500",
+   "url": "https://poep.npha.gov.sl/",
+   "nostore": true
+  }
+ ]
+}

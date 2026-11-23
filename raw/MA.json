@@ -1,1 +1,173 @@
-{"src": "https://www.bento.travel/morocco", "updated": "August 2026", "note": "Dirham in bar mitnehmen, da Souks, Cafés und Taxis oft nur Bargeld nehmen.", "apps": [{"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": true, "note": "Fahrpreis wird ausgehandelt, oft bar bezahlt", "city": "", "use": "ok", "req": ""}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Fahrten in ausgewählten Großstädten", "city": "", "use": "ok", "req": ""}, {"name": "Careem", "cat": "taxi", "pkg": "com.careem.acma", "ess": false, "note": "Zweite Fahrdienst-Option in größeren Städten", "city": "", "use": "ok", "req": ""}, {"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": false, "note": "Fahrdienst, laut Quelle nur in Marrakesch", "city": "Marrakesh", "use": "ok", "req": ""}, {"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": true, "note": "Größte Lieferabdeckung in Touristenstädten", "city": "", "use": "ok", "req": ""}, {"name": "Kooul", "cat": "delivery", "pkg": "com.ora.customer", "ess": false, "note": "Lieferalternative in mehreren Großstädten", "city": "", "use": "ok", "req": ""}, {"name": "Bolt Food", "cat": "delivery", "pkg": "com.bolt.deliveryclient", "ess": false, "note": "Essenslieferung, laut Quelle nur in Marrakesch", "city": "Marrakesh", "use": "ok", "req": ""}, {"name": "Blassty", "cat": "transit", "pkg": "com.transitloop.rrm", "ess": false, "note": "Offizielle Planung für Bus und Tram um Rabat", "city": "Rabat", "use": "ok", "req": ""}, {"name": "CASABUS", "cat": "transit", "pkg": "com.casabus.android.app", "ess": false, "note": "Buslinien und Ankunftszeiten in Casablanca", "city": "Casablanca", "use": "ok", "req": ""}, {"name": "ONCF Voyages", "cat": "rail", "pkg": "ma.oncf.oncfmobileapp", "ess": true, "note": "Offizielle Bahn-App, auch für Al Boraq", "city": "", "use": "ok", "req": ""}, {"name": "marKoub.ma", "cat": "rail", "pkg": "com.marKoub.app", "ess": false, "note": "Fernbustickets vergleichen und buchen", "city": "", "use": "ok", "req": ""}, {"name": "Tram Mobile", "cat": "transit", "pkg": "", "ess": false, "note": "Tramtickets Rabat-Salé als QR-Code", "city": "Rabat", "use": "limited", "req": "Zahlung per Bankkarte, nicht jede ausländische Karte wird angenommen", "src": "https://apps.apple.com/app/id1588746412"}, {"name": "Mobi4U", "cat": "transit", "pkg": "", "ess": false, "note": "Alsa-Stadtbusse in Rabat und Agadir mit Tickets", "city": "", "use": "ok", "req": "", "src": "https://www.alsa.com/en/mobi4u-download"}, {"name": "GetRentacar", "cat": "carshare", "pkg": "getrentacar.app", "ess": false, "note": "Mietwagen von lokalen Anbietern in vielen Städten", "city": "", "use": "limited", "req": "Ab 21 Jahren, Führerschein, Reisepass, Visa oder Mastercard Debitkarte, Kaution bei Abholung", "src": "https://getrentacar.com/en-US/morocco?p=9"}, {"name": "Allobike", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder stundenweise und Radtouren", "city": "Casablanca", "use": "ok", "req": "", "src": "https://apps.apple.com/ma/app/allobike/id6505114588"}], "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/morocco",
+ "updated": "August 2026",
+ "note": "Dirham in bar mitnehmen, da Souks, Cafés und Taxis oft nur Bargeld nehmen.",
+ "apps": [
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": true,
+   "note": "Fahrpreis wird ausgehandelt, oft bar bezahlt",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrten in ausgewählten Großstädten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "com.careem.acma",
+   "ess": false,
+   "note": "Zweite Fahrdienst-Option in größeren Städten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Fahrdienst, laut Quelle nur in Marrakesch",
+   "city": "Marrakesh",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": true,
+   "note": "Größte Lieferabdeckung in Touristenstädten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Kooul",
+   "cat": "delivery",
+   "pkg": "com.ora.customer",
+   "ess": false,
+   "note": "Lieferalternative in mehreren Großstädten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Essenslieferung, laut Quelle nur in Marrakesch",
+   "city": "Marrakesh",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Blassty",
+   "cat": "transit",
+   "pkg": "com.transitloop.rrm",
+   "ess": false,
+   "note": "Offizielle Planung für Bus und Tram um Rabat",
+   "city": "Rabat",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "CASABUS",
+   "cat": "transit",
+   "pkg": "com.casabus.android.app",
+   "ess": false,
+   "note": "Buslinien und Ankunftszeiten in Casablanca",
+   "city": "Casablanca",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "ONCF Voyages",
+   "cat": "rail",
+   "pkg": "ma.oncf.oncfmobileapp",
+   "ess": true,
+   "note": "Offizielle Bahn-App, auch für Al Boraq",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "marKoub.ma",
+   "cat": "rail",
+   "pkg": "com.marKoub.app",
+   "ess": false,
+   "note": "Fernbustickets vergleichen und buchen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Tram Mobile",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Tramtickets Rabat-Salé als QR-Code",
+   "city": "Rabat",
+   "use": "limited",
+   "req": "Zahlung per Bankkarte, nicht jede ausländische Karte wird angenommen",
+   "src": "https://apps.apple.com/app/id1588746412"
+  },
+  {
+   "name": "Mobi4U",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Alsa-Stadtbusse in Rabat und Agadir mit Tickets",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.alsa.com/en/mobi4u-download"
+  },
+  {
+   "name": "GetRentacar",
+   "cat": "carshare",
+   "pkg": "getrentacar.app",
+   "ess": false,
+   "note": "Mietwagen von lokalen Anbietern in vielen Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 21 Jahren, Führerschein, Reisepass, Visa oder Mastercard Debitkarte, Kaution bei Abholung",
+   "src": "https://getrentacar.com/en-US/morocco?p=9"
+  },
+  {
+   "name": "Allobike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder stundenweise und Radtouren",
+   "city": "Casablanca",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/ma/app/allobike/id6505114588"
+  },
+  {
+   "name": "Tanger Med Passenger Journey",
+   "cat": "rail",
+   "pkg": "com.tangermed.passengers",
+   "ess": false,
+   "note": "Hafen-App für Fährpassagiere: Wege, Abläufe, Verkehrslage",
+   "city": "Tangier",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tangermed.ma/en/new-version-of-the-passenger-mobile-solution-tanger-med-passenger-journey/"
+  }
+ ],
+ "fetched": "2026-11-23"
+}

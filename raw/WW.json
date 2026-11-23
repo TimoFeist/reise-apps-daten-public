@@ -1,0 +1,24 @@
+{
+ "replace": [
+  {
+   "old": "tm.gayguide",
+   "note": "Gay Travel Guide, App eingestellt, Webseite läuft weiter",
+   "city": ""
+  },
+  {
+   "old": "com.everywhereisqueer.app",
+   "note": "Weltweite Karte queerfreundlicher Orte, kostenlos",
+   "city": ""
+  },
+  {
+   "old": "de.feist.nahbar",
+   "note": "Eigene App zum Kennenlernen, APK direkt laden",
+   "city": ""
+  },
+  {
+   "old": "app.roamrate",
+   "note": "Eigene App: Währungsrechner, APK direkt laden",
+   "city": ""
+  }
+ ]
+}

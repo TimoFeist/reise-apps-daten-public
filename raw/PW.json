@@ -1,8 +1,88 @@
-{"src": "https://pristineparadisepalau.com/travelers-tips/", "fetched": "2026-11-18", "updated": "", "note": "Kein Visum bis 90 Tage, Pass 6 Monate gültig. Einreiseformular 72 Std. vorher online ausfüllen, Busse nur bar mit passendem Betrag.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, werden laut Auswärtigem Amt gesellschaftlich aber nicht überall akzeptiert.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958", "discontinued": [], "apps": [
-{"name": "Palau Entry Form", "cat": "entry", "pkg": "", "ess": true, "note": "Pflicht-Einreiseformular online, QR-Code mitbringen", "city": "", "use": "ok", "req": "", "src": "https://pristineparadisepalau.com/travelers-tips/"},
-{"name": "AliiPass", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle PVA-App: Touren, Aktivitäten und Hotels buchen", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/aliipass/id1476941794"},
-{"name": "AliiRide", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokale Fahrdienst-App mit geprüften Fahrern, bargeldlos", "city": "", "use": "limited", "req": "Nur iOS-Eintrag gefunden, Zahlungsarten nicht angegeben", "src": "https://apps.apple.com/us/app/aliiride/id6476977244"},
-{"name": "Palau Taxi Guide", "cat": "taxi", "pkg": "", "ess": false, "note": "Verzeichnis lizenzierter Taxifahrer, nur Webseite", "city": "", "use": "ok", "req": "", "src": "https://pristineparadisepalau.com/palau-taxi-guide/"},
-{"name": "Palau Bus Trip Planner", "cat": "transit", "pkg": "", "ess": false, "note": "Web-Fahrtplaner der Nationalbusse Koror und Babeldaob", "city": "", "use": "ok", "req": "", "src": "https://pristineparadisepalau.com/happenings/palau-launches-phase-2-of-public-bus-service-expanding-connectivity-and-accessibility/"},
-{"name": "Enterprise", "cat": "carshare", "pkg": "com.ehi.enterprise.android", "ess": false, "note": "Mietwagen der Filiale in Koror per App reservieren", "city": "Koror", "use": "limited", "req": "Ab 18, Kreditkarte auf eigenen Namen, Pass und Führerschein", "src": "https://www.enterprise.com/en/car-rental-locations/pw/koror-j6n1.html"}
-]}
+{
+ "src": "https://pristineparadisepalau.com/travelers-tips/",
+ "fetched": "2026-11-23",
+ "updated": "",
+ "note": "Kein Visum bis 90 Tage, Pass 6 Monate gültig. Einreiseformular 72 Std. vorher online ausfüllen, Busse nur bar mit passendem Betrag.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, werden laut Auswärtigem Amt gesellschaftlich aber nicht überall akzeptiert.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Palau Entry Form",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Einreiseformular online, QR-Code mitbringen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://pristineparadisepalau.com/travelers-tips/"
+  },
+  {
+   "name": "AliiPass",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle PVA-App: Touren, Aktivitäten und Hotels buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/aliipass/id1476941794"
+  },
+  {
+   "name": "AliiRide",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Fahrdienst-App mit geprüften Fahrern, bargeldlos",
+   "city": "",
+   "use": "limited",
+   "req": "Nur iOS-Eintrag gefunden, Zahlungsarten nicht angegeben",
+   "src": "https://apps.apple.com/us/app/aliiride/id6476977244"
+  },
+  {
+   "name": "Palau Taxi Guide",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Verzeichnis lizenzierter Taxifahrer, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://pristineparadisepalau.com/palau-taxi-guide/"
+  },
+  {
+   "name": "Palau Bus Trip Planner",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Web-Fahrtplaner der Nationalbusse Koror und Babeldaob",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://pristineparadisepalau.com/happenings/palau-launches-phase-2-of-public-bus-service-expanding-connectivity-and-accessibility/"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "com.ehi.enterprise.android",
+   "ess": false,
+   "note": "Mietwagen der Filiale in Koror per App reservieren",
+   "city": "Koror",
+   "use": "limited",
+   "req": "Ab 18, Kreditkarte auf eigenen Namen, Pass und Führerschein",
+   "src": "https://www.enterprise.com/en/car-rental-locations/pw/koror-j6n1.html"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/palau-node/palausicherheit/220958"
+  }
+ ]
+}

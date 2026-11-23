@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/belize-node/belizesicherheit/220284",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Ein- und Zollerklärung vorab online ausfüllen, bei Ausreise per Flug fallen 37,50 USD Gebühr an.",
  "lgbtq_note": "Homosexuelle Handlungen sind nicht verboten, die Akzeptanz in der Bevölkerung ist aber sehr gering.",
@@ -83,6 +83,17 @@
    "use": "ok",
    "req": "",
    "src": "https://caribbeanlifestyle.com/?p=20190"
+  },
+  {
+   "name": "Tropic Air",
+   "cat": "flights",
+   "pkg": "com.TropicAir.Belize",
+   "ess": false,
+   "note": "Inlandsflüge zu den Cayes und nach Placencia buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tropicair.com/?p=10569"
   }
  ]
 }

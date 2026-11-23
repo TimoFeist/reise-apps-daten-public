@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/south-korea",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "Deutsche brauchen bis Ende 2026 keine K-ETA. Für Bus und U-Bahn eine Tmoney-Karte nutzen, Bankkarten gehen an den Sperren nicht.",
  "lgbtq_note": "Homosexuelle Handlungen sind legal, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die gesellschaftliche Akzeptanz ist eher gering.",
@@ -358,6 +358,17 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/au/app/visit-jeju/id1114314789"
+  },
+  {
+   "name": "Incheon Airport+",
+   "cat": "flights",
+   "pkg": "com.ubivelox.icairport",
+   "ess": false,
+   "note": "Offizielle App des Flughafens Incheon",
+   "city": "Incheon",
+   "use": "ok",
+   "req": "",
+   "src": "https://airport.kr/ap_en/1416/subview.do"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/france",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "In Paris Fahrkarten per App Île-de-France Mobilités oder Navigo Easy Karte kaufen, die Bankkarte gilt nicht als Ticket.",
  "discontinued": [],
@@ -332,6 +332,50 @@
    "use": "ok",
    "req": "",
    "src": "https://cts-strasbourg.eu/en/faq/mobile-application/"
+  },
+  {
+   "name": "Tisséo",
+   "cat": "transit",
+   "pkg": "fr.tisseo.android",
+   "ess": false,
+   "note": "Offizielle ÖPNV-App mit Tickets und Echtzeit",
+   "city": "Toulouse",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.toulouse-tourisme.com/?p=4086"
+  },
+  {
+   "name": "Naolib",
+   "cat": "transit",
+   "pkg": "com.semitan.tan",
+   "ess": false,
+   "note": "Tram- und Bustickets kaufen und entwerten",
+   "city": "Nantes",
+   "use": "ok",
+   "req": "",
+   "src": "https://naolib.fr/en/application-naolib-tram-bus"
+  },
+  {
+   "name": "ilévia",
+   "cat": "transit",
+   "pkg": "com.transpole.mobi",
+   "ess": false,
+   "note": "M-Ticket für Metro, Tram und Bus in Lille",
+   "city": "Lille",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id429143032"
+  },
+  {
+   "name": "M'Ticket TaM",
+   "cat": "transit",
+   "pkg": "com.tam_way.mobiletickets",
+   "ess": false,
+   "note": "Tram- und Bustickets als QR-Code auf dem Handy",
+   "city": "Montpellier",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/FR/app/id1454637089"
   }
  ]
 }

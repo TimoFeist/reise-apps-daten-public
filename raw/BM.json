@@ -5,7 +5,13 @@
  "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; Mietwagen gibt es nicht, nur Elektro-Kleinwagen, Roller und Busse.",
  "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, Rechtsschutz und gesellschaftliche Akzeptanz sind aber geringer als im Vereinigten Königreich.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408",
- "discontinued": [],
+ "discontinued": [
+  {
+   "name": "",
+   "pkg": "journi",
+   "src": "Duplikat zu com.BTOA_Connect"
+  }
+ ],
  "apps": [
   {
    "name": "Bermuda Arrival Card",
@@ -171,6 +177,13 @@
    "use": "limited",
    "req": "Kreditkarte oder Pango-Guthaben mit Kennzeichen verknüpfen",
    "src": "https://www.royalgazette.com/?p=515305"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.BTOA_Connect",
+   "name": "Journi",
+   "city": ""
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/mexico",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "August 2026",
  "note": "Uber und DiDi dürfen an Flughäfen oft nicht abholen, dort offizielle Taxis nutzen und Pesos bar dabeihaben.",
  "discontinued": [],
@@ -213,6 +213,28 @@
    "use": "ok",
    "req": "",
    "src": "https://www.nl.gob.mx/es/boletines/lanzan-samuel-y-mariana-pasaporte-nuevo-leon-rumbo-al-mundial-2026"
+  },
+  {
+   "name": "Tren Maya Tickets",
+   "cat": "rail",
+   "pkg": "com.indra.trenmaya.pro",
+   "ess": false,
+   "note": "Offizielle App für Tickets und Fahrpläne des Tren Maya",
+   "city": "",
+   "use": "limited",
+   "req": "Laut Nutzern Zahlung teils nur mit mexikanischer Nummer",
+   "src": "https://trenmaya.gob.mx/pdf/Dossier_Tianguis_Turistico_2026.pdf"
+  },
+  {
+   "name": "Va-y-Ven",
+   "cat": "transit",
+   "pkg": "gob.yucatan.vayven",
+   "ess": false,
+   "note": "Busse in Mérida: Echtzeit, virtuelle Karte, Aufladen",
+   "city": "Merida",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.yucatan.com.mx/merida/2026/10/25/se-actualiza-la-app-del-va-y-ven-estas-son-las-nuevas-herramientas-para-los-usuarios.html"
   }
  ]
 }

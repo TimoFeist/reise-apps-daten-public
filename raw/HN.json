@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/honduras-node/hondurassicherheit-221078",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Taxis nicht am Straßenrand heranwinken, Radiotaxis bevorzugen und bei Flugreisen die digitale Zollerklärung ausfüllen.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1899 legal, die Verfassung verbietet aber die gleichgeschlechtliche Ehe und Gewalt gegen LGBTQ+ Menschen ist häufig.",
@@ -83,6 +83,17 @@
    "use": "limited",
    "req": "Nur mit Tigo SIM-Karte sinnvoll",
    "src": "https://apps.apple.com/hn/app/mi-tigo-honduras/id925903504"
+  },
+  {
+   "name": "Galaxy Wave App",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähre La Ceiba, Roatán, Utila, Guanaja (nur iPhone)",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mx/app/galaxy-wave-app/id6746731402"
   }
  ]
 }

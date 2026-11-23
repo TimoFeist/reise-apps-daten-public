@@ -204,6 +204,10 @@
    "url": "",
    "nostore": false,
    "src": "https://chronicle.lu/category/rail/61157-cfl-launches-redesigned-cfl-go-mobile-app"
+  },
+  {
+   "old": "lu.cfl.cflgo",
+   "pkg": "lu.cfl.cflgo"
   }
  ]
 }

@@ -345,6 +345,11 @@
    "url": "",
    "nostore": false,
    "src": "https://www.brusselstimes.com/2194282/stib-set-to-scrap-floya-transport-app-following-scooter-ban-in-brussels"
+  },
+  {
+   "old": "com.tomorrowland.oneworldradio",
+   "note": "Offizielle Festival-App mit Programm, Karte und Radio",
+   "city": ""
   }
  ]
 }

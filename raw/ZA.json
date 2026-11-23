@@ -159,5 +159,27 @@
    "src": "https://joburg.org.za/media_/Newsroom/Pages/2025-News-Articles/City-of-Joburg-expands-Rea-Vaya-BRT-network-with-Phase-1C-rollout.aspx"
   }
  ],
- "fetched": "2026-11-17"
+ "fetched": "2026-11-17",
+ "replace": [
+  {
+   "old": "ee.mtakso.client",
+   "note": "Fahrdienst in den großen Städten",
+   "city": ""
+  },
+  {
+   "old": "com.bolt.deliveryclient",
+   "note": "Essen und Einkäufe liefern lassen",
+   "city": ""
+  },
+  {
+   "old": "com.ubercab",
+   "note": "Fahrdienst in den großen Städten",
+   "city": ""
+  },
+  {
+   "old": "com.food.ordering",
+   "note": "Lieferdienst für Essen, Einkäufe und Getränke",
+   "city": ""
+  }
+ ]
 }

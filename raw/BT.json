@@ -1,6 +1,6 @@
 {
  "src": "https://bhutan.travel/visa",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Visum online über immi.gov.bt beantragen, die Tourismusgebühr SDF beträgt 100 US-Dollar pro Tag und Erwachsenem.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 2021 nicht mehr strafbar, eine offene Szene gibt es kaum, Zurückhaltung in der Öffentlichkeit ist ratsam.",
@@ -83,6 +83,28 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bbs.bt/news/?p=145665"
+  },
+  {
+   "name": "Tourism Bhutan",
+   "cat": "tourism",
+   "pkg": "bt.gov.tourism",
+   "ess": false,
+   "note": "Offizielle Tourismus-App mit Events, Wetter, Verkehr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bbs.bt/news/?p=209386"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/bhutan-node/bhutansicherheit-226702"
   }
  ]
 }

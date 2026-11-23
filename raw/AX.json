@@ -1,14 +1,67 @@
 {
  "src": "https://visitaland.com/?p=17161",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Parken in Mariehamn ist mit Parkscheibe kostenlos. Schärenfähren für Fahrzeuge vorab bei Ålandstrafiken online buchen.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, die Ehe für alle gilt seit 2017, Diskriminierung ist gesetzlich verboten.",
  "lgbtq_src": "https://www.equaldex.com/region/aland",
  "discontinued": [],
  "apps": [
-  {"name": "Mariehamn Taxi", "cat": "taxi", "pkg": "", "ess": false, "note": "Taxi in Mariehamn sofort oder vorab bestellen", "city": "Mariehamn", "use": "ok", "req": "", "src": "https://apps.apple.com/fi/app/mariehamn-taxi/id1600054379"},
-  {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen von Lokalen in Mariehamn liefern lassen", "city": "Mariehamn", "use": "ok", "req": "", "src": "https://wolt.com/en/fin/maarianhamina"},
-  {"name": "Viking Line", "cat": "rail", "pkg": "", "ess": false, "note": "Fährbuchung und digitale Bordkarte, Fähren halten in Mariehamn", "city": "", "use": "ok", "req": "", "src": "https://sourceforge.net/app/viking-line/android/"}
+  {
+   "name": "Mariehamn Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi in Mariehamn sofort oder vorab bestellen",
+   "city": "Mariehamn",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/fi/app/mariehamn-taxi/id1600054379"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen von Lokalen in Mariehamn liefern lassen",
+   "city": "Mariehamn",
+   "use": "ok",
+   "req": "",
+   "src": "https://wolt.com/en/fin/maarianhamina"
+  },
+  {
+   "name": "Viking Line",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fährbuchung und digitale Bordkarte, Fähren halten in Mariehamn",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://sourceforge.net/app/viking-line/android/"
+  },
+  {
+   "name": "Matkahuolto Matkat",
+   "cat": "rail",
+   "pkg": "com.kyyti.ride.matkahuolto",
+   "ess": false,
+   "note": "Fährtickets von Viking Line nach Åland plus Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.matkahuolto.fi/news/one-app-for-public-transport-plan-every-trip-with-the-matkat-app"
+  },
+  {
+   "name": "Ålandstrafiken",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Schärenfähren und Busse online buchen, mit QR-Code",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.aland.com/en/artikel/discover-aland-with-alandstrafiken",
+   "url": "https://www.alandstrafiken.ax/"
+  }
  ]
 }

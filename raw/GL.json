@@ -106,5 +106,12 @@
    "req": "Dänische CPR-Nummer, MitID, dänische oder grönländische Nummer und Bankkarte nötig",
    "src": "https://mobilepay.dk/app/legal/private-terms-en"
   }
+ ],
+ "replace": [
+  {
+   "old": "com.aurora_alerts.auroraalerts",
+   "name": "Aurora Alerts",
+   "city": ""
+  }
  ]
 }

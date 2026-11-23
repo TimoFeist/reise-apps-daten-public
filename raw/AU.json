@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/australia",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "August 2026",
  "note": "Transit- und Warn-Apps passend zur Route laden und in Melbourne die laufende myki-Umstellung beachten.",
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Ehe für alle ist eingeführt, Rechte für trans Personen variieren je Bundesstaat.",
@@ -497,6 +497,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.cityofadelaide.com.au/transport-parking/parking/pay-for-parking-in-the-city"
+  },
+  {
+   "name": "My G:",
+   "cat": "transit",
+   "pkg": "com.kdr.glink",
+   "ess": false,
+   "note": "Straßenbahn G:link mit Live-Abfahrten und Störungen",
+   "city": "Gold Coast",
+   "use": "ok",
+   "req": "",
+   "src": "https://ridetheg.com.au/"
   }
  ],
  "replace": [
@@ -508,6 +519,11 @@
    "url": "https://www.times24.com.au/en-au/",
    "nostore": true,
    "src": "https://www.times24.com.au/en-au/"
+  },
+  {
+   "old": "eVisitor (ImmiAccount, Web)",
+   "note": "eVisitor 651 kostenlos über ImmiAccount, nicht ETA-App",
+   "city": ""
   }
  ]
 }

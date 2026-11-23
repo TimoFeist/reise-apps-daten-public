@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "Stand: 17.11.2026 (Auswärtiges Amt)",
  "note": "Das e-Visum mindestens sieben Tage vor der Reise online beantragen, an Grenze und Flughafen gibt es keine Visa mehr.",
  "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar, werden in der Gesellschaft aber eher toleriert als wertgeschätzt.",
@@ -49,6 +49,19 @@
    "use": "ok",
    "req": "",
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984"
+  },
+  {
+   "name": "Bénin e-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Visum mindestens 7 Tage vor Reise online",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984",
+   "url": "https://evisa.bj",
+   "nostore": true
   }
  ]
 }

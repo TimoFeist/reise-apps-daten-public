@@ -260,5 +260,37 @@
    "req": "",
    "src": "https://visitparnu.com/en/tourist-information-frequently-asked-questions/"
   }
+ ],
+ "replace": [
+  {
+   "old": "ride.app",
+   "note": "E-Scooter und E-Bikes per App leihen",
+   "cat": "micro"
+  },
+  {
+   "old": "com.redmadrobot.pins",
+   "note": "Lettische Airline, Buchung und Check-in",
+   "city": ""
+  },
+  {
+   "old": "ee.mtakso.client",
+   "note": "Estnischer Fahrdienst, in vielen Städten",
+   "city": ""
+  },
+  {
+   "old": "lv.mobilly.android",
+   "note": "Parken und Nahverkehrstickets per App bezahlen",
+   "city": ""
+  },
+  {
+   "old": "com.mobi.passenger",
+   "note": "Fahrdienst mit Fahrer, vor allem in Riga",
+   "city": ""
+  },
+  {
+   "old": "com.aurorareach.app",
+   "note": "Polarlicht-Vorhersage mit Benachrichtigungen",
+   "city": ""
+  }
  ]
 }

@@ -1,21 +1,228 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888", "fetched": "2026-11-20", "updated": "", "note": "Deutsche brauchen ein Visum, für bis zu 30 Tage online über das offizielle Portal evisa.gov.az, nur mit Reisepass. Einreise derzeit nur per Flug, Landgrenzen sind für den regulären Personenverkehr zu. Ab 15 Tagen Aufenthalt Registrierung beim Migrationsdienst, meist über das Hotel.", "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gesellschaftlich aber stark tabuisiert; die Polizei nutzt nach Berichten gefälschte Profile auf Dating Apps zur Erpressung und nahm im Dezember 2025 bei einer Razzia in einem queerfreundlichen Lokal in Baku über 100 Menschen fest.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888", "discontinued": [], "apps": [
-{"name": "evisa.gov.az", "cat": "entry", "pkg": "", "ess": true, "note": "Offizielles Portal für das e-Visum bis 30 Tage, Fake Seiten meiden", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888"},
-{"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": true, "note": "Verbreiteter Fahrdienst in Baku, auch günstig ab dem Flughafen", "city": "", "use": "ok", "req": "", "src": "https://www.travelwithhello.com/blog/azerbaijan-transport-guide"},
-{"name": "Uber AZ", "cat": "taxi", "pkg": "com.mlubv.uber.az", "ess": true, "note": "Eigene Uber App für Aserbaidschan, die normale Uber App geht nicht", "city": "", "use": "ok", "req": "", "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"},
-{"name": "Yango", "cat": "taxi", "pkg": "com.yandex.yango", "ess": false, "note": "Fahrdienst mit guter Navigation, meist etwas teurer", "city": "", "use": "ok", "req": "", "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"},
-{"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen und Supermarkt mit Live Verfolgung, in Baku sehr beliebt", "city": "", "use": "ok", "req": "", "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"},
-{"name": "Bolt Food", "cat": "delivery", "pkg": "com.bolt.deliveryclient", "ess": false, "note": "Essen und Einkäufe, Zahlung online oder bar", "city": "", "use": "ok", "req": "", "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"},
-{"name": "Araz Market Online", "cat": "delivery", "pkg": "com.araz", "ess": false, "note": "Online Supermarkt der Kette Araz mit Lieferung", "city": "", "use": "limited", "req": "Lieferadresse nötig, Registrierung mit ausländischer Nummer nicht belegt", "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"},
-{"name": "BakıKart", "cat": "transit", "pkg": "", "ess": true, "note": "Offizielle App für Bus und Metro, Routen, Live Busse, QR Tickets", "city": "Baku", "use": "limited", "req": "Konto mit Handynummer und Passwort, ob ausländische Nummern gehen, ist nicht belegt; physische BakıKart als Reserve", "src": "https://mincom.gov.az/en/media-en/news/new-mobile-app-for-cashless-payments-on-buses-launched1853"},
-{"name": "AYNA MaaS", "cat": "transit", "pkg": "", "ess": false, "note": "Staatlicher Routenplaner für Bus, Metro, Bahn, Scooter und Rad", "city": "Baku", "use": "limited", "req": "Registrierung mit Handynummer und SMS Code nötig", "src": "https://tech.az/en/posts/ayna-maas-mobility-app-launched-6262"},
-{"name": "ADY Mobile", "cat": "rail", "pkg": "com.ady", "ess": true, "note": "Zugtickets der Staatsbahn für Inland und Vorortstrecken", "city": "", "use": "limited", "req": "Zahlung per Bankkarte, Annahme ausländischer Karten nicht belegt; Zug nach Tiflis nur für visumfreie Staatsangehörige", "src": "https://ticket.ady.az/en/i-have-a-question/ady-mobile-en"},
-{"name": "Biletim", "cat": "rail", "pkg": "", "ess": false, "note": "Staatliches Portal für Fernbustickets von Baku in die Regionen", "city": "", "use": "limited", "req": "Registrierung auf biletim.az vor dem Kauf nötig", "src": "https://mincom.gov.az/en/projects/biletimaz-portal"},
-{"name": "Waze", "cat": "maps", "pkg": "", "ess": false, "note": "Beliebteste Navi App, warnt vor Blitzern und Polizeiposten", "city": "", "use": "ok", "req": "", "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"},
-{"name": "112 AZ", "cat": "safety", "pkg": "", "ess": false, "note": "Notruf App des Katastrophenschutzministeriums", "city": "", "use": "limited", "req": "Telefonnummer und Standort werden verlangt, Registrierung für Ausländer nicht belegt", "src": "https://apps.apple.com/dk/app/112-az/id6737355694"},
-{"name": "BeFree", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing per App, Abrechnung pro Minute oder Tag", "city": "Baku", "use": "limited", "req": "Führerschein und Bankkarte nötig, genaue Bedingungen für Ausländer nicht genannt", "src": "https://apps.apple.com/us/app/befree-carsharing-in-baku/id6748035214"},
-{"name": "Rentbutik", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektroautos von BYD pro Minute, Stunde oder Monat mieten", "city": "Baku", "use": "limited", "req": "Führerschein nötig, Bedingungen für Ausländer in der Quelle nicht genannt", "src": "https://1news.az/en/news/20260331122024478-Car-sharing-with-electric-vehicles-is-coming-to-Baku-a-new-service-from-Rentbutik"},
-{"name": "Bolt Scooter", "cat": "micro", "pkg": "ee.mtakso.client", "ess": false, "note": "E-Scooter über die Bolt App, Minutenpreis oder Pass", "city": "", "use": "limited", "req": "Bankkarte in der Bolt App hinterlegen", "src": "https://bolt.eu/en-az/scooters/"},
-{"name": "JET (in Yango)", "cat": "micro", "pkg": "com.yandex.yango", "ess": false, "note": "Über 2000 JET Scooter direkt in der Yango App ausleihen", "city": "Baku", "use": "limited", "req": "Bargeldlose Zahlung über Yango, Karte hinterlegen", "src": "https://yango.com/career/en_int/news/jet-scooter-rentals-are-now-available-in-yango-app-in-baku"},
-{"name": "AzParking", "cat": "parking", "pkg": "", "ess": false, "note": "App zum Bezahlen von Straßenparkplätzen", "city": "Baku", "use": "no", "req": "Lokale Telefonnummer nötig, sonst Parkhäuser mit Schranke und Kartenzahlung nutzen", "src": "https://www.localrent.com/en/journal/azerbaijan/articles/parking-azerbaijan"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Polizei legt laut Berichten Fake Profile zur Erpressung an", "city": "", "use": "no", "req": "Von Nutzung wird abgeraten, Polizei nutzt die App zur Verfolgung und Erpressung", "src": "https://theworld.org/segments/2025/02/13/in-azerbaijan-police-use-lgbtq-dating-apps-to-extort-money"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Deutsche brauchen ein Visum, für bis zu 30 Tage online über das offizielle Portal evisa.gov.az, nur mit Reisepass. Einreise derzeit nur per Flug, Landgrenzen sind für den regulären Personenverkehr zu. Ab 15 Tagen Aufenthalt Registrierung beim Migrationsdienst, meist über das Hotel.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gesellschaftlich aber stark tabuisiert; die Polizei nutzt nach Berichten gefälschte Profile auf Dating Apps zur Erpressung und nahm im Dezember 2025 bei einer Razzia in einem queerfreundlichen Lokal in Baku über 100 Menschen fest.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "evisa.gov.az",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielles Portal für das e-Visum bis 30 Tage, Fake Seiten meiden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/aserbaidschan-node/aserbaidschansicherheit/201888"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Verbreiteter Fahrdienst in Baku, auch günstig ab dem Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.travelwithhello.com/blog/azerbaijan-transport-guide"
+  },
+  {
+   "name": "Uber AZ",
+   "cat": "taxi",
+   "pkg": "com.mlubv.uber.az",
+   "ess": true,
+   "note": "Eigene Uber App für Aserbaidschan, die normale Uber App geht nicht",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": false,
+   "note": "Fahrdienst mit guter Navigation, meist etwas teurer",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Supermarkt mit Live Verfolgung, in Baku sehr beliebt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Essen und Einkäufe, Zahlung online oder bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"
+  },
+  {
+   "name": "Araz Market Online",
+   "cat": "delivery",
+   "pkg": "com.araz",
+   "ess": false,
+   "note": "Online Supermarkt der Kette Araz mit Lieferung",
+   "city": "",
+   "use": "limited",
+   "req": "Lieferadresse nötig, Registrierung mit ausländischer Nummer nicht belegt",
+   "src": "https://the-tech.kz/servisy-dostavki-v-azerbajdzhane-gde-zakazat-edu-i-produkty-onlajn/"
+  },
+  {
+   "name": "BakıKart",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle App für Bus und Metro, Routen, Live Busse, QR Tickets",
+   "city": "Baku",
+   "use": "limited",
+   "req": "Konto mit Handynummer und Passwort, ob ausländische Nummern gehen, ist nicht belegt; physische BakıKart als Reserve",
+   "src": "https://mincom.gov.az/en/media-en/news/new-mobile-app-for-cashless-payments-on-buses-launched1853"
+  },
+  {
+   "name": "AYNA MaaS",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatlicher Routenplaner für Bus, Metro, Bahn, Scooter und Rad",
+   "city": "Baku",
+   "use": "limited",
+   "req": "Registrierung mit Handynummer und SMS Code nötig",
+   "src": "https://tech.az/en/posts/ayna-maas-mobility-app-launched-6262"
+  },
+  {
+   "name": "ADY Mobile",
+   "cat": "rail",
+   "pkg": "com.ady",
+   "ess": true,
+   "note": "Zugtickets der Staatsbahn für Inland und Vorortstrecken",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlung per Bankkarte, Annahme ausländischer Karten nicht belegt; Zug nach Tiflis nur für visumfreie Staatsangehörige",
+   "src": "https://ticket.ady.az/en/i-have-a-question/ady-mobile-en"
+  },
+  {
+   "name": "Biletim",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliches Portal für Fernbustickets von Baku in die Regionen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung auf biletim.az vor dem Kauf nötig",
+   "src": "https://mincom.gov.az/en/projects/biletimaz-portal"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Beliebteste Navi App, warnt vor Blitzern und Polizeiposten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/"
+  },
+  {
+   "name": "112 AZ",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Notruf App des Katastrophenschutzministeriums",
+   "city": "",
+   "use": "limited",
+   "req": "Telefonnummer und Standort werden verlangt, Registrierung für Ausländer nicht belegt",
+   "src": "https://apps.apple.com/dk/app/112-az/id6737355694"
+  },
+  {
+   "name": "BeFree",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing per App, Abrechnung pro Minute oder Tag",
+   "city": "Baku",
+   "use": "limited",
+   "req": "Führerschein und Bankkarte nötig, genaue Bedingungen für Ausländer nicht genannt",
+   "src": "https://apps.apple.com/us/app/befree-carsharing-in-baku/id6748035214"
+  },
+  {
+   "name": "Rentbutik",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektroautos von BYD pro Minute, Stunde oder Monat mieten",
+   "city": "Baku",
+   "use": "limited",
+   "req": "Führerschein nötig, Bedingungen für Ausländer in der Quelle nicht genannt",
+   "src": "https://1news.az/en/news/20260331122024478-Car-sharing-with-electric-vehicles-is-coming-to-Baku-a-new-service-from-Rentbutik"
+  },
+  {
+   "name": "Bolt Scooter",
+   "cat": "micro",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "E-Scooter über die Bolt App, Minutenpreis oder Pass",
+   "city": "",
+   "use": "limited",
+   "req": "Bankkarte in der Bolt App hinterlegen",
+   "src": "https://bolt.eu/en-az/scooters/"
+  },
+  {
+   "name": "JET (in Yango)",
+   "cat": "micro",
+   "pkg": "com.yandex.yango",
+   "ess": false,
+   "note": "Über 2000 JET Scooter direkt in der Yango App ausleihen",
+   "city": "Baku",
+   "use": "limited",
+   "req": "Bargeldlose Zahlung über Yango, Karte hinterlegen",
+   "src": "https://yango.com/career/en_int/news/jet-scooter-rentals-are-now-available-in-yango-app-in-baku"
+  },
+  {
+   "name": "AzParking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "App zum Bezahlen von Straßenparkplätzen",
+   "city": "Baku",
+   "use": "no",
+   "req": "Lokale Telefonnummer nötig, sonst Parkhäuser mit Schranke und Kartenzahlung nutzen",
+   "src": "https://www.localrent.com/en/journal/azerbaijan/articles/parking-azerbaijan"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Polizei legt laut Berichten Fake Profile zur Erpressung an",
+   "city": "",
+   "use": "no",
+   "req": "Von Nutzung wird abgeraten, Polizei nutzt die App zur Verfolgung und Erpressung",
+   "src": "https://theworld.org/segments/2025/02/13/in-azerbaijan-police-use-lgbtq-dating-apps-to-extort-money"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.mlubv.uber.az",
+   "name": "Heetch AZ",
+   "note": "Fahrten und Lieferungen in Aserbaidschan, eigene lokale App",
+   "city": ""
+  }
+ ]
+}

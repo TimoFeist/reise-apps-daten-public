@@ -236,9 +236,31 @@
    "use": "limited",
    "req": "Aufladen nur per Pix mit brasilianischem Konto",
    "src": "https://www.pmf.sc.gov.br/noticias/index.php?pagina=notpagina&noti=25747"
+  },
+  {
+   "name": "BHBUS+",
+   "cat": "transit",
+   "pkg": "br.com.transfacil",
+   "ess": false,
+   "note": "Offizielle Bus-App: QR-Tickets, Echtzeit, Aufladen",
+   "city": "Belo Horizonte",
+   "use": "ok",
+   "req": "",
+   "src": "https://prefeitura.pbh.gov.br/sumob/onibus/cartao-bhbus"
+  },
+  {
+   "name": "Curitiba App",
+   "cat": "transit",
+   "pkg": "br.org.curitiba.ici.appcuritiba",
+   "ess": false,
+   "note": "Stadt-App mit Buslinien, Routen und Diensten",
+   "city": "Curitiba",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.curitiba.pr.gov.br/noticias/curitiba-app-traz-inovacoes-na-area-do-transporte-e-facilita-vida-dos-passageiros/82605"
   }
  ],
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "replace": [
   {
    "old": "com.ionicframework.visitrioapp832818",

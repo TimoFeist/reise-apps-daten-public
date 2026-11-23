@@ -1,126 +1,137 @@
 {
-"src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
-"fetched": "2026-11-17",
-"updated": "",
-"note": "Nur mit Reisepass einreisen, der Personalausweis reicht nicht; Dinar erst vor Ort tauschen oder abheben, die Einfuhr ist verboten.",
-"lgbtq_note": "Gleichgeschlechtliche Handlungen sind nach Artikel 230 mit bis zu drei Jahren Haft strafbar, die Polizei nutzt Dating-Apps für Festnahmen.",
-"lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
-"discontinued": [
-{
-"name": "Bolt",
-"pkg": "ee.mtakso.client",
-"src": "https://osiris.sn/l-application-bolt-quitte-la-tunisie-apres-une-suspension-contestee.html"
-},
-{
-"name": "inDrive",
-"pkg": "sinet.startup.inDriver",
-"src": "https://businessnews.com.tn/2026/04/20/taxis-le-ministre-promet-une-regulation-un-an-apres-le-seisme-des-vtc/1397477/"
-},
-{
-"name": "Heetch",
-"pkg": "",
-"src": "https://businessnews.com.tn/2026/04/20/taxis-le-ministre-promet-une-regulation-un-an-apres-le-seisme-des-vtc/1397477/"
-}
-],
-"apps": [
-{
-"name": "Yassir",
-"cat": "taxi",
-"pkg": "com.yatechnologies.yassir_rider",
-"ess": false,
-"note": "Fahrten, Essen und Einkäufe aus einer App",
-"city": "",
-"use": "limited",
-"req": "Fahrdienste seit 2025 rechtlich unklar, Fahrt meist bar beim Fahrer zahlen",
-"src": "https://yassir.com/tunisia/faq"
-},
-{
-"name": "Glovo",
-"cat": "delivery",
-"pkg": "com.glovo",
-"ess": true,
-"note": "Essen, Supermarkt und Apotheke liefern lassen",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://glovoapp.com/tn/en/"
-},
-{
-"name": "Yassir Food",
-"cat": "delivery",
-"pkg": "",
-"ess": false,
-"note": "Essenslieferung in der Yassir App (früher Kool)",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.leconomistemaghrebin.com/2024/06/22/yassir-acquiert-la-start-up-tunisienne-kool/"
-},
-{
-"name": "RNTT (bus, train, batah)",
-"cat": "transit",
-"pkg": "com.djerbabus.rntt",
-"ess": false,
-"note": "Fahrpläne für Bahn, Bus, Metro und Djerba Fähre",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://similarweb.com/app/google/com.djerbabus.rntt/vs/uk.co.mxdata.parismetro"
-},
-{
-"name": "Nouvelair",
-"cat": "flights",
-"pkg": "tn.keyrus.nouvelair",
-"ess": false,
-"note": "Flüge buchen und E-Tickets der Airline verwalten",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://appgoblin.info/apps/tn.keyrus.nouvelair"
-},
-{
-"name": "Tunisair",
-"cat": "flights",
-"pkg": "",
-"ess": false,
-"note": "App der Nationalairline, Check-in auch mobil",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.tunisair.com/en/guide-utilisateur/online-check"
-},
-{
-"name": "SIXT",
-"cat": "carshare",
-"pkg": "",
-"ess": false,
-"note": "Mietwagen an den Flughäfen Tunis, Monastir, Enfidha",
-"city": "",
-"use": "limited",
-"req": "Führerschein und Kreditkarte nötig, Mindestalter beachten",
-"src": "https://www.tunisienumerique.com/sixt-sinstalle-en-tunisie-avec-tunifleet-et-ouvre-dans-trois-aeroports/"
-},
-{
-"name": "Sicher Reisen",
-"cat": "safety",
-"pkg": "",
-"ess": false,
-"note": "Reisehinweise des Auswärtigen Amts mit Warnungen",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024"
-},
-{
-"name": "Grindr",
-"cat": "lgbtq",
-"pkg": "com.grindrapp.android",
-"ess": false,
-"note": "Polizei lockt Nutzer über Dating-Apps in Fallen",
-"city": "",
-"use": "no",
-"req": "Gleichgeschlechtliche Handlungen strafbar, Nutzung riskant",
-"src": "https://www.amnesty.org/en/latest/news/2025/02/tunisia-authorities-step-up-crackdown-on-lgbti-individuals-with-wave-of-arrests/"
-}
-]
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
+ "fetched": "2026-11-23",
+ "updated": "",
+ "note": "Nur mit Reisepass einreisen, der Personalausweis reicht nicht; Dinar erst vor Ort tauschen oder abheben, die Einfuhr ist verboten.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nach Artikel 230 mit bis zu drei Jahren Haft strafbar, die Polizei nutzt Dating-Apps für Festnahmen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024",
+ "discontinued": [
+  {
+   "name": "Bolt",
+   "pkg": "ee.mtakso.client",
+   "src": "https://osiris.sn/l-application-bolt-quitte-la-tunisie-apres-une-suspension-contestee.html"
+  },
+  {
+   "name": "inDrive",
+   "pkg": "sinet.startup.inDriver",
+   "src": "https://businessnews.com.tn/2026/04/20/taxis-le-ministre-promet-une-regulation-un-an-apres-le-seisme-des-vtc/1397477/"
+  },
+  {
+   "name": "Heetch",
+   "pkg": "",
+   "src": "https://businessnews.com.tn/2026/04/20/taxis-le-ministre-promet-une-regulation-un-an-apres-le-seisme-des-vtc/1397477/"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Yassir",
+   "cat": "taxi",
+   "pkg": "com.yatechnologies.yassir_rider",
+   "ess": false,
+   "note": "Fahrten, Essen und Einkäufe aus einer App",
+   "city": "",
+   "use": "limited",
+   "req": "Fahrdienste seit 2025 rechtlich unklar, Fahrt meist bar beim Fahrer zahlen",
+   "src": "https://yassir.com/tunisia/faq"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": true,
+   "note": "Essen, Supermarkt und Apotheke liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://glovoapp.com/tn/en/"
+  },
+  {
+   "name": "Yassir Food",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung in der Yassir App (früher Kool)",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.leconomistemaghrebin.com/2024/06/22/yassir-acquiert-la-start-up-tunisienne-kool/"
+  },
+  {
+   "name": "RNTT (bus, train, batah)",
+   "cat": "transit",
+   "pkg": "com.djerbabus.rntt",
+   "ess": false,
+   "note": "Fahrpläne für Bahn, Bus, Metro und Djerba Fähre",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://similarweb.com/app/google/com.djerbabus.rntt/vs/uk.co.mxdata.parismetro"
+  },
+  {
+   "name": "Nouvelair",
+   "cat": "flights",
+   "pkg": "tn.keyrus.nouvelair",
+   "ess": false,
+   "note": "Flüge buchen und E-Tickets der Airline verwalten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/tn.keyrus.nouvelair"
+  },
+  {
+   "name": "Tunisair",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "App der Nationalairline, Check-in auch mobil",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tunisair.com/en/guide-utilisateur/online-check"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen an den Flughäfen Tunis, Monastir, Enfidha",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig, Mindestalter beachten",
+   "src": "https://www.tunisienumerique.com/sixt-sinstalle-en-tunisie-avec-tunifleet-et-ouvre-dans-trois-aeroports/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reisehinweise des Auswärtigen Amts mit Warnungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tunesien-node/tunesiensicherheit/219024"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "com.grindrapp.android",
+   "ess": false,
+   "note": "Polizei lockt Nutzer über Dating-Apps in Fallen",
+   "city": "",
+   "use": "no",
+   "req": "Gleichgeschlechtliche Handlungen strafbar, Nutzung riskant",
+   "src": "https://www.amnesty.org/en/latest/news/2025/02/tunisia-authorities-step-up-crackdown-on-lgbti-individuals-with-wave-of-arrests/"
+  },
+  {
+   "name": "Thnity",
+   "cat": "transit",
+   "pkg": "com.maas.thnity",
+   "ess": false,
+   "note": "Routenplaner für Metro, Bus, TGM und Louage in Tunis",
+   "city": "Tunis",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.jarniascyril.com/?p=14603"
+  }
+ ]
 }

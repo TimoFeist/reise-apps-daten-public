@@ -1,26 +1,258 @@
-{"src": "https://www.bento.travel/vietnam/ride-hailing", "fetched": "2026-11-18", "updated": "Last updated: August 2026", "note": "Deutsche reisen bis 45 Tage visumfrei ein, für längere Aufenthalte gibt es ein E-Visum bis 90 Tage über das offizielle Portal.", "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die Gesellschaft gilt als eher konservativ.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274", "discontinued": [
-{"name": "Uber", "pkg": "", "src": "https://www.bento.travel/vietnam/ride-hailing"},
-{"name": "BAEMIN", "pkg": "", "src": "https://www.bento.travel/vietnam/food-delivery"},
-{"name": "GoFood", "pkg": "", "src": "https://www.bento.travel/vietnam/food-delivery"}
-], "apps": [
-{"name": "Vietnam E-Visa", "cat": "entry", "pkg": "", "ess": false, "note": "Offizielles Portal für das E-Visum bis 90 Tage", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274"},
-{"name": "Grab", "cat": "taxi", "pkg": "com.grabtaxi.passenger", "ess": false, "note": "Autos und Mopeds landesweit, Auslandskarte mit 4% Gebühr", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/vietnam/ride-hailing"},
-{"name": "Green SM", "cat": "taxi", "pkg": "com.gsm.customer", "ess": false, "note": "Elektroautos und E-Mopeds, früher Xanh SM", "city": "", "use": "limited", "req": "Ausländische Zahlungsmittel teils nicht möglich, Bargeld bereithalten", "src": "https://www.bento.travel/vietnam/ride-hailing"},
-{"name": "Be", "cat": "taxi", "pkg": "xyz.be.customer", "ess": false, "note": "Vietnamesischer Fahrdienst in vielen Städten", "city": "", "use": "limited", "req": "Anmeldung als Besucher und ausländische Karten klappen nicht immer", "src": "https://www.bento.travel/vietnam/ride-hailing"},
-{"name": "Mai Linh Taxi", "cat": "taxi", "pkg": "ml.online.passenger", "ess": false, "note": "Große Taxifirma mit Netz in vielen Provinzen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/vietnam/ride-hailing"},
-{"name": "Vinasun Taxi", "cat": "taxi", "pkg": "com.vinasuntaxi.clientapp", "ess": false, "note": "Taxis vor allem in Ho Chi Minh City und im Süden", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/vietnam/ride-hailing"},
-{"name": "ShopeeFood", "cat": "delivery", "pkg": "com.deliverynow", "ess": false, "note": "Großer Lieferdienst, besonders stark in Hanoi", "city": "", "use": "limited", "req": "Ausländische Karten werden nicht sicher akzeptiert", "src": "https://www.bento.travel/vietnam/food-delivery"},
-{"name": "GrabFood", "cat": "delivery", "pkg": "", "ess": false, "note": "Essenslieferung in der Grab-App, Barzahlung möglich", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/vietnam/food-delivery"},
-{"name": "beFood", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferdienst in der Be-App, vor allem Hanoi und Saigon", "city": "", "use": "limited", "req": "Ausländische Karten und SMS-Anmeldung nicht geprüft", "src": "https://www.bento.travel/vietnam/food-delivery"},
-{"name": "Moreta Pay", "cat": "payment", "pkg": "com.moreta.moretamobile", "ess": false, "note": "Wallet für Besucher, zahlt an vietnamesischen QR-Codes", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/vietnam/payments"},
-{"name": "VNPAY", "cat": "payment", "pkg": "", "ess": false, "note": "QR-Zahlungen, Anmeldung mit Reisepass und Visa-Karte", "city": "", "use": "ok", "req": "", "src": "https://danangfantasticity.com/discovery/how-to-use-the-vnpay-app-for-international-visitors"},
-{"name": "MoMo", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitetste Wallet in Vietnam", "city": "", "use": "no", "req": "Vietnamesische Nummer, Identitätsprüfung und lokales Bankkonto nötig", "src": "https://www.bento.travel/vietnam/payments"},
-{"name": "ZaloPay", "cat": "payment", "pkg": "", "ess": false, "note": "Bezahl-Wallet aus dem Zalo-Umfeld", "city": "", "use": "no", "req": "Vietnamesische Nummer, Identitätsprüfung und lokales Bankkonto nötig", "src": "https://www.bento.travel/vietnam/payments"},
-{"name": "Zalo", "cat": "misc", "pkg": "com.zing.zalo", "ess": false, "note": "Wichtigster Messenger, auch für Hotels und Läden", "city": "", "use": "limited", "req": "Anmeldung mit ausländischer Nummer klappt nicht immer, vor der Reise testen", "src": "https://www.bento.travel/vietnam/messaging"},
-{"name": "Mioto", "cat": "carshare", "pkg": "", "ess": false, "note": "Plattform für Mietwagen zum Selbstfahren", "city": "", "use": "limited", "req": "Führerschein und Ausweis in der App, Kaution, ausländische Papiere unklar", "src": "https://news.tuoitre.vn/self-drive-car-rentals-see-strong-demand-ahead-of-vietnam-national-day-holiday-103260826184539842.htm"},
-{"name": "BonbonCar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen per App, Lieferung zum Flughafen möglich", "city": "", "use": "limited", "req": "Führerschein und Ausweis in der App, Kaution, ausländische Papiere unklar", "src": "https://news.tuoitre.vn/self-drive-car-rentals-see-strong-demand-ahead-of-vietnam-national-day-holiday-103260826184539842.htm"},
-{"name": "TNGo-HCM", "cat": "micro", "pkg": "", "ess": false, "note": "Öffentliche Leihräder und E-Bikes im Zentrum", "city": "Ho Chi Minh City", "use": "limited", "req": "Ob ausländische Nummer und Karte gehen, ist unklar", "src": "https://news.tuoitre.vn/print/ho-chi-minh-city-launches-public-e-bike-service-with-free-trial-rides-103260315095350025.htm"},
-{"name": "TNGo", "cat": "micro", "pkg": "", "ess": false, "note": "Öffentliche Leihräder, Entsperren per QR-Code", "city": "Hanoi", "use": "limited", "req": "Ob ausländische Nummer und Karte gehen, ist unklar", "src": "https://hanoitimes.vn/hanoi-launches-public-bike-share-service.590443.html"},
-{"name": "HCMC Metro HURC", "cat": "transit", "pkg": "", "ess": false, "note": "QR-Tickets für die Metrolinie 1", "city": "Ho Chi Minh City", "use": "limited", "req": "Nutzung durch Ausländer unklar, Bankkarte an der Sperre als Alternative", "src": "https://e.vnexpress.net/news/news/traffic/no-more-paper-tickets-at-4-ho-chi-minh-city-metro-stations-as-cashless-push-begins-4939300.html"},
-{"name": "Hanoi Metro", "cat": "transit", "pkg": "", "ess": false, "note": "Einzel-, Tages- und Wochentickets mit QR-Code", "city": "Hanoi", "use": "limited", "req": "Registrierung am Schalter im Bahnhof, Nutzung durch Ausländer unklar", "src": "https://hanoicapital.chinhphu.vn/ha-noi-metro-pilots-weekly-tickets-via-mobile-app-110251104171644555.htm"}
-]}
+{
+ "src": "https://www.bento.travel/vietnam/ride-hailing",
+ "fetched": "2026-11-23",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche reisen bis 45 Tage visumfrei ein, für längere Aufenthalte gibt es ein E-Visum bis 90 Tage über das offizielle Portal.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Ehen oder Partnerschaften gibt es nicht, die Gesellschaft gilt als eher konservativ.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274",
+ "discontinued": [
+  {
+   "name": "Uber",
+   "pkg": "",
+   "src": "https://www.bento.travel/vietnam/ride-hailing"
+  },
+  {
+   "name": "BAEMIN",
+   "pkg": "",
+   "src": "https://www.bento.travel/vietnam/food-delivery"
+  },
+  {
+   "name": "GoFood",
+   "pkg": "",
+   "src": "https://www.bento.travel/vietnam/food-delivery"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Vietnam E-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielles Portal für das E-Visum bis 90 Tage",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/korearepublik-node/vietnam-node/vietnamsicherheit-217274"
+  },
+  {
+   "name": "Grab",
+   "cat": "taxi",
+   "pkg": "com.grabtaxi.passenger",
+   "ess": false,
+   "note": "Autos und Mopeds landesweit, Auslandskarte mit 4% Gebühr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/vietnam/ride-hailing"
+  },
+  {
+   "name": "Green SM",
+   "cat": "taxi",
+   "pkg": "com.gsm.customer",
+   "ess": false,
+   "note": "Elektroautos und E-Mopeds, früher Xanh SM",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Zahlungsmittel teils nicht möglich, Bargeld bereithalten",
+   "src": "https://www.bento.travel/vietnam/ride-hailing"
+  },
+  {
+   "name": "Be",
+   "cat": "taxi",
+   "pkg": "xyz.be.customer",
+   "ess": false,
+   "note": "Vietnamesischer Fahrdienst in vielen Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung als Besucher und ausländische Karten klappen nicht immer",
+   "src": "https://www.bento.travel/vietnam/ride-hailing"
+  },
+  {
+   "name": "Mai Linh Taxi",
+   "cat": "taxi",
+   "pkg": "ml.online.passenger",
+   "ess": false,
+   "note": "Große Taxifirma mit Netz in vielen Provinzen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/vietnam/ride-hailing"
+  },
+  {
+   "name": "Vinasun Taxi",
+   "cat": "taxi",
+   "pkg": "com.vinasuntaxi.clientapp",
+   "ess": false,
+   "note": "Taxis vor allem in Ho Chi Minh City und im Süden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/vietnam/ride-hailing"
+  },
+  {
+   "name": "ShopeeFood",
+   "cat": "delivery",
+   "pkg": "com.deliverynow",
+   "ess": false,
+   "note": "Großer Lieferdienst, besonders stark in Hanoi",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten werden nicht sicher akzeptiert",
+   "src": "https://www.bento.travel/vietnam/food-delivery"
+  },
+  {
+   "name": "GrabFood",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung in der Grab-App, Barzahlung möglich",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/vietnam/food-delivery"
+  },
+  {
+   "name": "beFood",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst in der Be-App, vor allem Hanoi und Saigon",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten und SMS-Anmeldung nicht geprüft",
+   "src": "https://www.bento.travel/vietnam/food-delivery"
+  },
+  {
+   "name": "Moreta Pay",
+   "cat": "payment",
+   "pkg": "com.moreta.moretamobile",
+   "ess": false,
+   "note": "Wallet für Besucher, zahlt an vietnamesischen QR-Codes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/vietnam/payments"
+  },
+  {
+   "name": "VNPAY",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "QR-Zahlungen, Anmeldung mit Reisepass und Visa-Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://danangfantasticity.com/discovery/how-to-use-the-vnpay-app-for-international-visitors"
+  },
+  {
+   "name": "MoMo",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitetste Wallet in Vietnam",
+   "city": "",
+   "use": "no",
+   "req": "Vietnamesische Nummer, Identitätsprüfung und lokales Bankkonto nötig",
+   "src": "https://www.bento.travel/vietnam/payments"
+  },
+  {
+   "name": "ZaloPay",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Bezahl-Wallet aus dem Zalo-Umfeld",
+   "city": "",
+   "use": "no",
+   "req": "Vietnamesische Nummer, Identitätsprüfung und lokales Bankkonto nötig",
+   "src": "https://www.bento.travel/vietnam/payments"
+  },
+  {
+   "name": "Zalo",
+   "cat": "misc",
+   "pkg": "com.zing.zalo",
+   "ess": false,
+   "note": "Wichtigster Messenger, auch für Hotels und Läden",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung mit ausländischer Nummer klappt nicht immer, vor der Reise testen",
+   "src": "https://www.bento.travel/vietnam/messaging"
+  },
+  {
+   "name": "Mioto",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Plattform für Mietwagen zum Selbstfahren",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Ausweis in der App, Kaution, ausländische Papiere unklar",
+   "src": "https://news.tuoitre.vn/self-drive-car-rentals-see-strong-demand-ahead-of-vietnam-national-day-holiday-103260826184539842.htm"
+  },
+  {
+   "name": "BonbonCar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen per App, Lieferung zum Flughafen möglich",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Ausweis in der App, Kaution, ausländische Papiere unklar",
+   "src": "https://news.tuoitre.vn/self-drive-car-rentals-see-strong-demand-ahead-of-vietnam-national-day-holiday-103260826184539842.htm"
+  },
+  {
+   "name": "TNGo-HCM",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Öffentliche Leihräder und E-Bikes im Zentrum",
+   "city": "Ho Chi Minh City",
+   "use": "limited",
+   "req": "Ob ausländische Nummer und Karte gehen, ist unklar",
+   "src": "https://news.tuoitre.vn/print/ho-chi-minh-city-launches-public-e-bike-service-with-free-trial-rides-103260315095350025.htm"
+  },
+  {
+   "name": "TNGo",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Öffentliche Leihräder, Entsperren per QR-Code",
+   "city": "Hanoi",
+   "use": "limited",
+   "req": "Ob ausländische Nummer und Karte gehen, ist unklar",
+   "src": "https://hanoitimes.vn/hanoi-launches-public-bike-share-service.590443.html"
+  },
+  {
+   "name": "HCMC Metro HURC",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "QR-Tickets für die Metrolinie 1",
+   "city": "Ho Chi Minh City",
+   "use": "limited",
+   "req": "Nutzung durch Ausländer unklar, Bankkarte an der Sperre als Alternative",
+   "src": "https://e.vnexpress.net/news/news/traffic/no-more-paper-tickets-at-4-ho-chi-minh-city-metro-stations-as-cashless-push-begins-4939300.html"
+  },
+  {
+   "name": "Hanoi Metro",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Einzel-, Tages- und Wochentickets mit QR-Code",
+   "city": "Hanoi",
+   "use": "limited",
+   "req": "Registrierung am Schalter im Bahnhof, Nutzung durch Ausländer unklar",
+   "src": "https://hanoicapital.chinhphu.vn/ha-noi-metro-pilots-weekly-tickets-via-mobile-app-110251104171644555.htm"
+  },
+  {
+   "name": "Visit Huế",
+   "cat": "tourism",
+   "pkg": "com.visithue",
+   "ess": false,
+   "note": "Offizielle Touristen-App mit Audioguide und Karte",
+   "city": "Hue",
+   "use": "ok",
+   "req": "",
+   "src": "https://news.huengaynay.vn/travel/launching-tourism-narration-app-a-smart-way-to-experience-heritage-146003.html"
+  }
+ ]
+}

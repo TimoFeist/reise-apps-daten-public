@@ -1,1 +1,244 @@
-{"src": "https://www.bento.travel/egypt", "updated": "August 2026", "note": "Fahrten immer in der App halten, Kennzeichen prüfen und kleine EGP-Scheine bereithalten.", "apps": [{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Einfachster Fahrdienst, vor dem Einsteigen Kennzeichen prüfen", "city": "", "use": "ok", "req": ""}, {"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": true, "note": "Fahrpreis selbst vorschlagen und Angebote vergleichen", "city": "", "use": "ok", "req": ""}, {"name": "Careem", "cat": "taxi", "pkg": "com.careem.acma", "ess": false, "note": "Zum Vergleich von Preis und Wartezeit", "city": "", "use": "ok", "req": ""}, {"name": "DiDi", "cat": "taxi", "pkg": "com.didiglobal.passenger", "ess": false, "note": "Ausweichoption, Verfügbarkeit vor Ort prüfen", "city": "", "use": "ok", "req": ""}, {"name": "talabat", "cat": "delivery", "pkg": "com.talabat", "ess": true, "note": "Größte Lieferplattform für Essen und Einkäufe", "city": "", "use": "ok", "req": ""}, {"name": "elmenus", "cat": "delivery", "pkg": "com.elmenus.app", "ess": false, "note": "Restaurants und Lieferung, Menüs auch auf Englisch", "city": "", "use": "ok", "req": ""}, {"name": "MRSOOL", "cat": "delivery", "pkg": "com.mrsool", "ess": false, "note": "Kurierdienst für Sonderwünsche", "city": "", "use": "ok", "req": ""}, {"name": "Breadfast", "cat": "delivery", "pkg": "com.breadfast", "ess": false, "note": "Lebensmittel und Drogerieartikel, Lieferzone prüfen", "city": "", "use": "ok", "req": ""}, {"name": "InstaShop", "cat": "delivery", "pkg": "com.stedor.instashop", "ess": false, "note": "Lieferung aus Supermärkten in der Nähe", "city": "", "use": "ok", "req": ""}, {"name": "Rabbit", "cat": "delivery", "pkg": "com.rabbit.mart", "ess": false, "note": "Schnelle Lieferung von Einkäufen", "city": "", "use": "ok", "req": ""}, {"name": "Amazon Shopping", "cat": "shopping", "pkg": "com.amazon.mShop.android.shopping", "ess": false, "note": "Onlineshop, Amazon Now nur in einzelnen Stadtteilen", "city": "", "use": "ok", "req": ""}, {"name": "Cairo Metro", "cat": "transit", "pkg": "com.cairo.metro.app", "ess": false, "note": "Offizieller Metroplaner, Tickets am Bahnhof", "city": "Cairo", "use": "ok", "req": ""}, {"name": "Experience Egypt", "cat": "tourism", "pkg": "com.easwaaqmisr.myegypt", "ess": false, "note": "Offizielle Tickets für Museen und Ausgrabungsstätten", "city": "", "use": "ok", "req": ""}, {"name": "GoBus", "cat": "rail", "pkg": "com.gobuseg", "ess": true, "note": "Fernbusse, Abfahrtsterminal und Klasse prüfen", "city": "", "use": "ok", "req": ""}, {"name": "Blue-Bus", "cat": "rail", "pkg": "com.nativeapp.bluebusmobile", "ess": false, "note": "Weiterer Fernbusanbieter zum Fahrplanvergleich", "city": "", "use": "ok", "req": ""}, {"name": "ABELA", "cat": "rail", "pkg": "com.ernst.app", "ess": false, "note": "Buchung der Schlafwagenzüge", "city": "", "use": "ok", "req": ""}, {"name": "ReGo BUS", "cat": "rail", "pkg": "com.engx.regoride", "ess": false, "note": "Vergleicht mehrere Busunternehmen", "city": "", "use": "ok", "req": ""}, {"name": "Vodafone Cash", "cat": "payment", "pkg": "", "ess": false, "note": "Mobiles Bezahlen für Einheimische", "city": "", "use": "no", "req": "Ägyptischer Personalausweis und darauf registrierte Mobilnummer nötig", "src": "https://www.bento.travel/egypt/payments"}, {"name": "InstaPay", "cat": "payment", "pkg": "", "ess": false, "note": "Sofortüberweisungen zwischen ägyptischen Banken", "city": "", "use": "no", "req": "Nur mit Konto bei einer ägyptischen Bank", "src": "https://www.bento.travel/egypt/payments"}, {"name": "myFawry", "cat": "payment", "pkg": "", "ess": false, "note": "Rechnungen, Aufladungen und Zahlungen im Inland", "city": "", "use": "limited", "req": "Vor allem für Einheimische gedacht, für Besucher kaum nötig", "src": "https://www.bento.travel/egypt/payments"}, {"name": "Egyptian National Railway", "cat": "rail", "pkg": "enr.transit.maf", "ess": false, "note": "Offizielle Bahn-App mit Fahrplänen und E-Tickets", "city": "", "use": "limited", "req": "Fahrplanauskunft für alle, Ticketkauf nur für ägyptische Staatsbürger", "src": "https://www.seat61.com/Egypt.htm"}, {"name": "Visa On Arrival", "cat": "entry", "pkg": "", "ess": false, "note": "Offizielles Visum bei Ankunft als QR-Code", "city": "", "use": "limited", "req": "Pilotphase seit August 2026, zunächst nur Flughafen Kairo", "src": "https://kyodonewsprwire.jp/release/202607233028"}], "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/egypt",
+ "updated": "August 2026",
+ "note": "Fahrten immer in der App halten, Kennzeichen prüfen und kleine EGP-Scheine bereithalten.",
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Einfachster Fahrdienst, vor dem Einsteigen Kennzeichen prüfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": true,
+   "note": "Fahrpreis selbst vorschlagen und Angebote vergleichen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "com.careem.acma",
+   "ess": false,
+   "note": "Zum Vergleich von Preis und Wartezeit",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "ess": false,
+   "note": "Ausweichoption, Verfügbarkeit vor Ort prüfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "talabat",
+   "cat": "delivery",
+   "pkg": "com.talabat",
+   "ess": true,
+   "note": "Größte Lieferplattform für Essen und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "elmenus",
+   "cat": "delivery",
+   "pkg": "com.elmenus.app",
+   "ess": false,
+   "note": "Restaurants und Lieferung, Menüs auch auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "MRSOOL",
+   "cat": "delivery",
+   "pkg": "com.mrsool",
+   "ess": false,
+   "note": "Kurierdienst für Sonderwünsche",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Breadfast",
+   "cat": "delivery",
+   "pkg": "com.breadfast",
+   "ess": false,
+   "note": "Lebensmittel und Drogerieartikel, Lieferzone prüfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "InstaShop",
+   "cat": "delivery",
+   "pkg": "com.stedor.instashop",
+   "ess": false,
+   "note": "Lieferung aus Supermärkten in der Nähe",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Rabbit",
+   "cat": "delivery",
+   "pkg": "com.rabbit.mart",
+   "ess": false,
+   "note": "Schnelle Lieferung von Einkäufen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Amazon Shopping",
+   "cat": "shopping",
+   "pkg": "com.amazon.mShop.android.shopping",
+   "ess": false,
+   "note": "Onlineshop, Amazon Now nur in einzelnen Stadtteilen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Cairo Metro",
+   "cat": "transit",
+   "pkg": "com.cairo.metro.app",
+   "ess": false,
+   "note": "Offizieller Metroplaner, Tickets am Bahnhof",
+   "city": "Cairo",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Experience Egypt",
+   "cat": "tourism",
+   "pkg": "com.easwaaqmisr.myegypt",
+   "ess": false,
+   "note": "Offizielle Tickets für Museen und Ausgrabungsstätten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "GoBus",
+   "cat": "rail",
+   "pkg": "com.gobuseg",
+   "ess": true,
+   "note": "Fernbusse, Abfahrtsterminal und Klasse prüfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Blue-Bus",
+   "cat": "rail",
+   "pkg": "com.nativeapp.bluebusmobile",
+   "ess": false,
+   "note": "Weiterer Fernbusanbieter zum Fahrplanvergleich",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "ABELA",
+   "cat": "rail",
+   "pkg": "com.ernst.app",
+   "ess": false,
+   "note": "Buchung der Schlafwagenzüge",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "ReGo BUS",
+   "cat": "rail",
+   "pkg": "com.engx.regoride",
+   "ess": false,
+   "note": "Vergleicht mehrere Busunternehmen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Vodafone Cash",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobiles Bezahlen für Einheimische",
+   "city": "",
+   "use": "no",
+   "req": "Ägyptischer Personalausweis und darauf registrierte Mobilnummer nötig",
+   "src": "https://www.bento.travel/egypt/payments"
+  },
+  {
+   "name": "InstaPay",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Sofortüberweisungen zwischen ägyptischen Banken",
+   "city": "",
+   "use": "no",
+   "req": "Nur mit Konto bei einer ägyptischen Bank",
+   "src": "https://www.bento.travel/egypt/payments"
+  },
+  {
+   "name": "myFawry",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Rechnungen, Aufladungen und Zahlungen im Inland",
+   "city": "",
+   "use": "limited",
+   "req": "Vor allem für Einheimische gedacht, für Besucher kaum nötig",
+   "src": "https://www.bento.travel/egypt/payments"
+  },
+  {
+   "name": "Egyptian National Railway",
+   "cat": "rail",
+   "pkg": "enr.transit.maf",
+   "ess": false,
+   "note": "Offizielle Bahn-App mit Fahrplänen und E-Tickets",
+   "city": "",
+   "use": "limited",
+   "req": "Fahrplanauskunft für alle, Ticketkauf nur für ägyptische Staatsbürger",
+   "src": "https://www.seat61.com/Egypt.htm"
+  },
+  {
+   "name": "Visa On Arrival",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielles Visum bei Ankunft als QR-Code",
+   "city": "",
+   "use": "limited",
+   "req": "Pilotphase seit August 2026, zunächst nur Flughafen Kairo",
+   "src": "https://kyodonewsprwire.jp/release/202607233028"
+  },
+  {
+   "name": "El Gouna",
+   "cat": "tourism",
+   "pkg": "com.appventure.elgouna",
+   "ess": false,
+   "note": "Offizielle Ortsapp mit Busplan, Tickets und Events",
+   "city": "El Gouna",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.elgouna.com/visit-el-gouna/faqs"
+  }
+ ],
+ "fetched": "2026-11-23"
+}

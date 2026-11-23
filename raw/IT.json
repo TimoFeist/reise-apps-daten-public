@@ -443,11 +443,66 @@
    "use": "ok",
    "req": "",
    "src": "https://gtt.to.it/cms/en/fares"
+  },
+  {
+   "name": "MyAMAT",
+   "cat": "transit",
+   "pkg": "net.pluservice.amatpalermo",
+   "ess": false,
+   "note": "Bus- und Tramtickets der AMAT Palermo",
+   "city": "Palermo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.balarm.it/news/dall-aeroporto-al-mare-col-bus-e-il-treno-come-funziona-la-nuova-app-a-palermo-164895"
+  },
+  {
+   "name": "Ticket Bus Verona",
+   "cat": "transit",
+   "pkg": "net.pluservice.ticketbv",
+   "ess": false,
+   "note": "ATV-Tickets für Stadtbus und Flughafenbus",
+   "city": "Verona",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.atv.verona.it/App_Ticketbus"
+  },
+  {
+   "name": "AMT Genova",
+   "cat": "transit",
+   "pkg": "it.genova.amt.app",
+   "ess": false,
+   "note": "Offizielle App von AMT mit Tickets für Bus und Metro",
+   "city": "Genoa",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.amt.genova.it/amt/wp-content/uploads/2024/01/12-2023-70X25-REGOLAMENTO-BUS.pdf"
+  },
+  {
+   "name": "AMTS Smart Ticketing",
+   "cat": "transit",
+   "pkg": "it.amts.mobile.customer",
+   "ess": false,
+   "note": "Bustickets für Catania als QR-Code",
+   "city": "Catania",
+   "use": "ok",
+   "req": "",
+   "src": "https://catania.liveuniversity.it/2024/09/16/amts-titoli-di-viaggio-ora-acquistabili-anche-tramite-app/"
+  },
+  {
+   "name": "MUVT",
+   "cat": "transit",
+   "pkg": "net.pluservice.muvt",
+   "ess": false,
+   "note": "App von Stadt und AMTAB mit Bustickets für Bari",
+   "city": "Bari",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1456106022"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/italiensicherheit-211322",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "replace": [
   {
    "old": "com.rsm.muoversiaroma",
@@ -457,6 +512,18 @@
    "url": "https://romamobilita.it/",
    "nostore": true,
    "src": "https://romamobilita.it/"
+  },
+  {
+   "old": "it.prometheus.onepass",
+   "note": "Mitgliedskarte für One Pass, I Club und ARCO Partner",
+   "cat": "misc",
+   "city": ""
+  },
+  {
+   "old": "com.yourvoice.ccApp",
+   "note": "An Kaffee- und Snackautomaten per Handy bezahlen",
+   "cat": "payment",
+   "city": ""
   }
  ]
 }

@@ -1,7 +1,78 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614", "fetched": "2026-11-17", "updated": "14.11.2026", "note": "Visum vorab auf migration.gov.bi beantragen und am Flughafen Bujumbura abholen; genug US-Dollar bar mitnehmen.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar (bis zu zwei Jahre Haft oder Geldstrafe), der Präsident hetzt offen gegen LGBTQ+-Personen.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614", "apps": [
-{"name": "Wasili", "cat": "taxi", "pkg": "com.mediabox.wasilirider", "ess": true, "note": "Fahrdienst in Bujumbura, Zahlung bar oder per App", "city": "Bujumbura", "use": "ok", "req": "", "src": "https://burunditravel.bi/en/wasili-burundi/"},
-{"name": "Baza Burundi", "cat": "delivery", "pkg": "com.baza.baza_customer", "ess": false, "note": "Essen von Restaurants in der Nähe bestellen", "city": "", "use": "limited", "req": "Zahlung nur bar bei Lieferung in Burundi-Franc", "src": "https://mwm.ai/apps/baza-burundi/1659178968"},
-{"name": "Lumicash Channel", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money von Lumitel für Überweisung und QR-Zahlung", "city": "", "use": "limited", "req": "Lumitel-SIM mit Lumicash-Konto nötig, Codes per SMS", "src": "https://apps.apple.com/np/app/lumicash-channel/id1625524767"},
-{"name": "GetRentacar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen von lokalen Anbietern in Bujumbura", "city": "Bujumbura", "use": "limited", "req": "Ab 18, ein Jahr Fahrpraxis, Führerschein, internationaler Führerschein und Reisepass", "src": "https://getrentacar.com/en-US//5045118"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, in Burundi riskant", "city": "", "use": "no", "req": "Gleichgeschlechtliche Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen", "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
+ "fetched": "2026-11-23",
+ "updated": "14.11.2026",
+ "note": "Visum vorab auf migration.gov.bi beantragen und am Flughafen Bujumbura abholen; genug US-Dollar bar mitnehmen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar (bis zu zwei Jahre Haft oder Geldstrafe), der Präsident hetzt offen gegen LGBTQ+-Personen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/burundi-node/burundisicherheit-222614",
+ "apps": [
+  {
+   "name": "Wasili",
+   "cat": "taxi",
+   "pkg": "com.mediabox.wasilirider",
+   "ess": true,
+   "note": "Fahrdienst in Bujumbura, Zahlung bar oder per App",
+   "city": "Bujumbura",
+   "use": "ok",
+   "req": "",
+   "src": "https://burunditravel.bi/en/wasili-burundi/"
+  },
+  {
+   "name": "Baza Burundi",
+   "cat": "delivery",
+   "pkg": "com.baza.baza_customer",
+   "ess": false,
+   "note": "Essen von Restaurants in der Nähe bestellen",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlung nur bar bei Lieferung in Burundi-Franc",
+   "src": "https://mwm.ai/apps/baza-burundi/1659178968"
+  },
+  {
+   "name": "Lumicash Channel",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money von Lumitel für Überweisung und QR-Zahlung",
+   "city": "",
+   "use": "limited",
+   "req": "Lumitel-SIM mit Lumicash-Konto nötig, Codes per SMS",
+   "src": "https://apps.apple.com/np/app/lumicash-channel/id1625524767"
+  },
+  {
+   "name": "GetRentacar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen von lokalen Anbietern in Bujumbura",
+   "city": "Bujumbura",
+   "use": "limited",
+   "req": "Ab 18, ein Jahr Fahrpraxis, Führerschein, internationaler Führerschein und Reisepass",
+   "src": "https://getrentacar.com/en-US//5045118"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in Burundi riskant",
+   "city": "",
+   "use": "no",
+   "req": "Gleichgeschlechtliche Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+   "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+  },
+  {
+   "name": "Burundi Visa online",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Visumantrag vorab ausfüllen, Gebühr per Kreditkarte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burundisicherheit-222614",
+   "url": "https://migration.gov.bi/Apply/step1/2",
+   "nostore": true
+  }
+ ]
+}

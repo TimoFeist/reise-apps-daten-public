@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/germany",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "Das Deutschlandticket ist ein Abo, Kündigung bis zum 10. des Monats; es gilt nicht in ICE, IC, EC oder FlixTrain.",
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen; seit November 2024 lassen sich Name und Geschlechtseintrag per Selbstauskunft ändern.",
@@ -380,6 +380,28 @@
    "use": "limited",
    "req": "Konto nötig, Zahlung per PayPal oder Lastschrift",
    "src": "https://www.l.de/verkehrsbetriebe/produkte/leipzigmove/"
+  },
+  {
+   "name": "NürnbergMOBIL",
+   "cat": "transit",
+   "pkg": "de.nuernbergmobil",
+   "ess": false,
+   "note": "VAG-Tickets, VAG_Rad und E-Scooter in einer App",
+   "city": "Nuremberg",
+   "use": "ok",
+   "req": "",
+   "src": "https://nuernbergmobil.de/?lang=en"
+  },
+  {
+   "name": "ÜSTRA",
+   "cat": "transit",
+   "pkg": "de.hafas.android.gvh",
+   "ess": false,
+   "note": "Fahrplan und Tickets für Hannover, früher GVH-App",
+   "city": "Hanover",
+   "use": "ok",
+   "req": "",
+   "src": "https://uestra.de/en/tickets-prices/where-to-get-tickets"
   }
  ]
 }

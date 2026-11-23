@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Kein Visum nötig, aber Reisepass 6 Monate über den Aufenthalt gültig und Rückflugticket; ab 30 Tagen Aufenthalt HIV-Test Pflicht.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht verboten, Ehe und Lebenspartnerschaft werden aber nicht anerkannt.",
@@ -39,6 +39,17 @@
    "use": "limited",
    "req": "Nur Gebiet Rita bis Flughafen, Bezahlweg und Konto unklar",
    "src": "https://marshallislandsjournal.com/meals-and-more-on-wheels/"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400"
   }
  ]
 }

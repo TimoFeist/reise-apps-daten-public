@@ -1,8 +1,89 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098", "fetched": "2026-11-18", "updated": "15.11.2026", "note": "Visum vorab online über paf.gov.gn/visa beantragen; USD oder EUR bar mitnehmen, es herrscht akute Bargeldknappheit.", "lgbtq_note": "Homosexuelle Handlungen sind strafbar (sechs Monate bis drei Jahre Haft und Geldstrafe).", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098", "apps": [
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reisehinweise des Auswärtigen Amts, dazu ELEFAND nutzen", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098"},
-{"name": "Wonsiga", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokaler Fahrdienst mit Festpreis, auch E-Autos", "city": "Conakry", "use": "ok", "req": "", "src": "https://guineenews.org/2025/08/02/taxi-ville-wonsiga-introduit-sa-premiere-flotte-de-vtc-electriques-a-conakry/"},
-{"name": "Dineroo", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen von Restaurants bestellen und liefern lassen", "city": "", "use": "limited", "req": "Bezahlwege laut Quelle unklar, vorab prüfen", "src": "https://www.wearetech.africa/fr/fils/solutions/guinee-avec-son-application-mobile-dineroo-numerise-la-livraison-de-repas"},
-{"name": "Orange Max it - Guinée", "cat": "payment", "pkg": "com.orange.myorange.ogn", "ess": false, "note": "Orange Money, Guthaben und Datenpakete in einer App", "city": "", "use": "no", "req": "Guineische Orange-SIM mit Orange-Money-Konto nötig", "src": "https://appgoblin.info/apps/com.orange.myorange.ogn"},
-{"name": "GetRentacar", "cat": "carshare", "pkg": "getrentacar.app", "ess": false, "note": "Mietwagen von lokalen Anbietern in Guinea", "city": "", "use": "limited", "req": "Ab 18, Führerschein, Reisepass und Visa- oder Mastercard-Debitkarte", "src": "https://getrentacar.com/en-US/guinea"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, in Guinea riskant", "city": "", "use": "no", "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen", "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
+ "fetched": "2026-11-23",
+ "updated": "15.11.2026",
+ "note": "Visum vorab online über paf.gov.gn/visa beantragen; USD oder EUR bar mitnehmen, es herrscht akute Bargeldknappheit.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar (sechs Monate bis drei Jahre Haft und Geldstrafe).",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise des Auswärtigen Amts, dazu ELEFAND nutzen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098"
+  },
+  {
+   "name": "Wonsiga",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Fahrdienst mit Festpreis, auch E-Autos",
+   "city": "Conakry",
+   "use": "ok",
+   "req": "",
+   "src": "https://guineenews.org/2025/08/02/taxi-ville-wonsiga-introduit-sa-premiere-flotte-de-vtc-electriques-a-conakry/"
+  },
+  {
+   "name": "Dineroo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von Restaurants bestellen und liefern lassen",
+   "city": "",
+   "use": "limited",
+   "req": "Bezahlwege laut Quelle unklar, vorab prüfen",
+   "src": "https://www.wearetech.africa/fr/fils/solutions/guinee-avec-son-application-mobile-dineroo-numerise-la-livraison-de-repas"
+  },
+  {
+   "name": "Orange Max it - Guinée",
+   "cat": "payment",
+   "pkg": "com.orange.myorange.ogn",
+   "ess": false,
+   "note": "Orange Money, Guthaben und Datenpakete in einer App",
+   "city": "",
+   "use": "no",
+   "req": "Guineische Orange-SIM mit Orange-Money-Konto nötig",
+   "src": "https://appgoblin.info/apps/com.orange.myorange.ogn"
+  },
+  {
+   "name": "GetRentacar",
+   "cat": "carshare",
+   "pkg": "getrentacar.app",
+   "ess": false,
+   "note": "Mietwagen von lokalen Anbietern in Guinea",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18, Führerschein, Reisepass und Visa- oder Mastercard-Debitkarte",
+   "src": "https://getrentacar.com/en-US/guinea"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in Guinea riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+   "src": "https://help.grindr.com/hc/en-us/articles/53095536624787-Travel-Safety-Considerations-for-LGBTQ-People"
+  },
+  {
+   "name": "Visa Guinée (PAF)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Visum vorab online bei der Grenzpolizei beantragen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098",
+   "url": "https://www.paf.gov.gn/visa",
+   "nostore": true
+  }
+ ]
+}

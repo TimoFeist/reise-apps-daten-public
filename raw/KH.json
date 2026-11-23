@@ -1,23 +1,233 @@
-{"src": "https://www.bento.travel/cambodia", "fetched": "2026-11-20", "updated": "Last updated: August 2026", "note": "Deutsche brauchen ein Visum, entweder vorab als E-Visum über evisa.gov.kh oder gegen Gebühr bei Ankunft. Der Reisepass muss noch sechs Monate gültig sein, der Personalausweis reicht nicht. Bei Ankunft per Flug ist die kostenlose e-Arrival Erklärung bis sieben Tage vorher Pflicht. Alle Landgrenzen zu Thailand sind derzeit geschlossen.", "lgbtq_note": "Homosexuelle Handlungen sind weder verboten noch strafbar, die Akzeptanz wächst besonders in Phnom Penh und bei Jüngeren, bleibt aber oft verdeckt.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kambodschasicherheit-220008", "discontinued": [
-{"name": "Nham24", "pkg": "", "src": "https://www.bento.travel/cambodia/food-delivery"}
-], "apps": [
-{"name": "Cambodia e-Arrival", "cat": "entry", "pkg": "cambodiaarrivalform.immigration.gov.kh", "ess": true, "note": "Kostenlose Einreiseerklärung, ersetzt die Papierkarte", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "Cambodia eVisa", "cat": "entry", "pkg": "", "ess": true, "note": "Offizielle Website für das E-Visum, mindestens zwei Wochen vorher beantragen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "Grab", "cat": "taxi", "pkg": "com.grabtaxi.passenger", "ess": true, "note": "Autos und Tuk-Tuks mit Festpreis, auch Essenslieferung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia/ride-hailing"},
-{"name": "PassApp", "cat": "taxi", "pkg": "kh.com.passapp.passenger", "ess": true, "note": "Lokaler Fahrdienst für Tuk-Tuks, Rikschas und Autos", "city": "", "use": "limited", "req": "Aktive Mobilnummer nötig, SMS Codes an ausländische Nummern kommen teils nicht an, Bargeld in Riel bereithalten", "src": "https://www.bento.travel/cambodia/ride-hailing"},
-{"name": "WowNow", "cat": "taxi", "pkg": "", "ess": false, "note": "Weitere App für Fahrten, vom Flughafen Techo empfohlen", "city": "", "use": "ok", "req": "", "src": "https://www.techoairport.com.kh/transportation/car-rental-taxi"},
-{"name": "Foodpanda", "cat": "delivery", "pkg": "com.global.foodpanda.android", "ess": true, "note": "Essen und Einkäufe in Phnom Penh und Touristenorten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia/food-delivery"},
-{"name": "Bakong Tourists", "cat": "payment", "pkg": "kh.gov.nbc.bakong.tourist", "ess": false, "note": "Wallet der Nationalbank zum Zahlen per KHQR Code", "city": "", "use": "limited", "req": "Identitätsprüfung und Guthaben nötig, Aufladen per Visa oder Mastercard klappt nicht immer, Restguthaben evtl. nicht erstattbar", "src": "https://www.bento.travel/blog/how-to-pay-in-cambodia"},
-{"name": "ABA Mobile", "cat": "payment", "pkg": "", "ess": false, "note": "Banking App der größten kambodschanischen Bank", "city": "", "use": "no", "req": "Kontoeröffnung in der App nur für kambodschanische Staatsangehörige, sonst Konto bei ABA nötig", "src": "https://www.ababank.com/instant-account/"},
-{"name": "Telegram", "cat": "misc", "pkg": "org.telegram.messenger", "ess": false, "note": "Viele Läden, Gruppen und Ämter kommunizieren hierüber", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Offline Karte als Reserve bei schwachem Netz", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia/navigation"},
-{"name": "BookMeBus", "cat": "rail", "pkg": "com.bookmebus.bookmebus", "ess": true, "note": "Busse, Minivans und Fähren vergleichen und buchen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "redBus", "cat": "rail", "pkg": "in.redbus.android", "ess": false, "note": "Zweite Buchungsplattform für Bus und Fähre, Kartenzahlung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "Cambodia Tourist Police", "cat": "safety", "pkg": "", "ess": false, "note": "Website der Touristenpolizei mit Notrufnummern und Kontakten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "CamPark", "cat": "parking", "pkg": "", "ess": false, "note": "Staatliche App zeigt freie Parkplätze in Echtzeit", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id6756403958"},
-{"name": "City Bus Official App", "cat": "transit", "pkg": "kh.gov.ppcba.citybus", "ess": false, "note": "Offizielle Stadtbus App mit Linien, Haltestellen und Live Ortung", "city": "Phnom Penh", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "Techo Airport", "cat": "misc", "pkg": "kh.com.techoairport", "ess": false, "note": "Offizielle App des neuen Flughafens von Phnom Penh", "city": "Phnom Penh", "use": "ok", "req": "", "src": "https://www.techoairport.com.kh/transportation/car-rental-taxi"},
-{"name": "Angkor-Pass", "cat": "tourism", "pkg": "com.angkor_pass.app", "ess": false, "note": "Offizielle Eintrittskarten für den Archäologiepark Angkor", "city": "Siem Reap", "use": "ok", "req": "", "src": "https://www.bento.travel/cambodia"},
-{"name": "Visit Angkor", "cat": "tourism", "pkg": "", "ess": false, "note": "App der APSARA Behörde mit Tempelkarten, Routen und Verhaltensregeln", "city": "Siem Reap", "use": "ok", "req": "", "src": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/10/visit-angkor-app-launched-as-just-one-third-of-international-tourists-visit-temples"},
-{"name": "Visit Sihanoukville", "cat": "tourism", "pkg": "", "ess": false, "note": "Reiseführer und News des Tourismusamts der Provinz", "city": "Sihanoukville", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id6751818603"}
-]}
+{
+ "src": "https://www.bento.travel/cambodia",
+ "fetched": "2026-11-20",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche brauchen ein Visum, entweder vorab als E-Visum über evisa.gov.kh oder gegen Gebühr bei Ankunft. Der Reisepass muss noch sechs Monate gültig sein, der Personalausweis reicht nicht. Bei Ankunft per Flug ist die kostenlose e-Arrival Erklärung bis sieben Tage vorher Pflicht. Alle Landgrenzen zu Thailand sind derzeit geschlossen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind weder verboten noch strafbar, die Akzeptanz wächst besonders in Phnom Penh und bei Jüngeren, bleibt aber oft verdeckt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kambodschasicherheit-220008",
+ "discontinued": [
+  {
+   "name": "Nham24",
+   "pkg": "",
+   "src": "https://www.bento.travel/cambodia/food-delivery"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Cambodia e-Arrival",
+   "cat": "entry",
+   "pkg": "cambodiaarrivalform.immigration.gov.kh",
+   "ess": true,
+   "note": "Kostenlose Einreiseerklärung, ersetzt die Papierkarte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "Cambodia eVisa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle Website für das E-Visum, mindestens zwei Wochen vorher beantragen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "Grab",
+   "cat": "taxi",
+   "pkg": "com.grabtaxi.passenger",
+   "ess": true,
+   "note": "Autos und Tuk-Tuks mit Festpreis, auch Essenslieferung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia/ride-hailing"
+  },
+  {
+   "name": "PassApp",
+   "cat": "taxi",
+   "pkg": "kh.com.passapp.passenger",
+   "ess": true,
+   "note": "Lokaler Fahrdienst für Tuk-Tuks, Rikschas und Autos",
+   "city": "",
+   "use": "limited",
+   "req": "Aktive Mobilnummer nötig, SMS Codes an ausländische Nummern kommen teils nicht an, Bargeld in Riel bereithalten",
+   "src": "https://www.bento.travel/cambodia/ride-hailing"
+  },
+  {
+   "name": "WowNow",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Weitere App für Fahrten, vom Flughafen Techo empfohlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.techoairport.com.kh/transportation/car-rental-taxi"
+  },
+  {
+   "name": "Foodpanda",
+   "cat": "delivery",
+   "pkg": "com.global.foodpanda.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in Phnom Penh und Touristenorten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia/food-delivery"
+  },
+  {
+   "name": "Bakong Tourists",
+   "cat": "payment",
+   "pkg": "kh.gov.nbc.bakong.tourist",
+   "ess": false,
+   "note": "Wallet der Nationalbank zum Zahlen per KHQR Code",
+   "city": "",
+   "use": "limited",
+   "req": "Identitätsprüfung und Guthaben nötig, Aufladen per Visa oder Mastercard klappt nicht immer, Restguthaben evtl. nicht erstattbar",
+   "src": "https://www.bento.travel/blog/how-to-pay-in-cambodia"
+  },
+  {
+   "name": "ABA Mobile",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Banking App der größten kambodschanischen Bank",
+   "city": "",
+   "use": "no",
+   "req": "Kontoeröffnung in der App nur für kambodschanische Staatsangehörige, sonst Konto bei ABA nötig",
+   "src": "https://www.ababank.com/instant-account/"
+  },
+  {
+   "name": "Telegram",
+   "cat": "misc",
+   "pkg": "org.telegram.messenger",
+   "ess": false,
+   "note": "Viele Läden, Gruppen und Ämter kommunizieren hierüber",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Offline Karte als Reserve bei schwachem Netz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia/navigation"
+  },
+  {
+   "name": "BookMeBus",
+   "cat": "rail",
+   "pkg": "com.bookmebus.bookmebus",
+   "ess": true,
+   "note": "Busse, Minivans und Fähren vergleichen und buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "redBus",
+   "cat": "rail",
+   "pkg": "in.redbus.android",
+   "ess": false,
+   "note": "Zweite Buchungsplattform für Bus und Fähre, Kartenzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "Cambodia Tourist Police",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Website der Touristenpolizei mit Notrufnummern und Kontakten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "CamPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche App zeigt freie Parkplätze in Echtzeit",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6756403958"
+  },
+  {
+   "name": "City Bus Official App",
+   "cat": "transit",
+   "pkg": "kh.gov.ppcba.citybus",
+   "ess": false,
+   "note": "Offizielle Stadtbus App mit Linien, Haltestellen und Live Ortung",
+   "city": "Phnom Penh",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "Techo Airport",
+   "cat": "misc",
+   "pkg": "kh.com.techoairport",
+   "ess": false,
+   "note": "Offizielle App des neuen Flughafens von Phnom Penh",
+   "city": "Phnom Penh",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.techoairport.com.kh/transportation/car-rental-taxi"
+  },
+  {
+   "name": "Angkor-Pass",
+   "cat": "tourism",
+   "pkg": "com.angkor_pass.app",
+   "ess": false,
+   "note": "Offizielle Eintrittskarten für den Archäologiepark Angkor",
+   "city": "Siem Reap",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/cambodia"
+  },
+  {
+   "name": "Visit Angkor",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "App der APSARA Behörde mit Tempelkarten, Routen und Verhaltensregeln",
+   "city": "Siem Reap",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/10/visit-angkor-app-launched-as-just-one-third-of-international-tourists-visit-temples"
+  },
+  {
+   "name": "Visit Sihanoukville",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Reiseführer und News des Tourismusamts der Provinz",
+   "city": "Sihanoukville",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id6751818603"
+  }
+ ],
+ "replace": [
+  {
+   "old": "Cambodia eVisa",
+   "note": "Offizielles E-Visum online, zwei Wochen vorher beantragen",
+   "city": ""
+  }
+ ]
+}

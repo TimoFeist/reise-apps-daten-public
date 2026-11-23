@@ -17,7 +17,7 @@ Normalerweise läuft das automatisch per GitHub Action nach jedem Push.
 Format raw/<ISO>.json:
 {"src": "https://...", "fetched": "JJJJ-MM-TT", "updated": "...", "note": "Tipp für das Land",
  "discontinued": [{"name": "", "pkg": "", "src": ""}],
- "replace": [{"old": "<alter pkg>", "pkg": "<neuer pkg oder leer>", "name": "", "note": "", "url": "", "nostore": false, "src": ""}],
+ "replace": [{"old": "<alter pkg oder Name>", "pkg": "<neuer pkg oder leer>", "name": "", "cat": "", "note": "", "url": "", "nostore": false, "city": "<nur diese Stadt; leer = nur Landes-Eintrag; fehlt = überall>", "src": ""}],
  "apps": [{"name": "", "cat": "", "pkg": "", "ess": true, "note": "", "city": "",
            "use": "ok", "req": ""}]}
 """
@@ -64,6 +64,8 @@ def clean_app(a, src):
         out["ess"] = True
     if a.get("url"):
         out["url"] = a["url"]
+    if a.get("nostore") and out.get("url"):
+        out["nostore"] = True
     use = (a.get("use") or "ok").strip().lower()
     out["use"] = use if use in ("ok", "limited", "no") else "ok"
     if a.get("req"):
@@ -167,20 +169,40 @@ def merge(data, code, raw):
         new = (rep.get("pkg") or "").strip()
         for lst in [country["apps"]] + [ci["apps"] for ci in country["cities"]]:
             for x in list(lst):
-                if (x.get("pkg") or "").lower() != old:
+                if (x.get("pkg") or "").lower() != old and not (not x.get("pkg") and x["name"].strip().lower() == old):
                     continue
-                if new and any((y.get("pkg") or "").lower() == new.lower() for y in lst):
-                    lst.remove(x)  # Nachfolger steht schon in der Liste
+                if "city" in rep and not rep["city"] and lst is not country["apps"]:
+                    continue  # "city": "" = nur der Landes-Eintrag
+                if rep.get("city") and lst is country["apps"]:
                     continue
+                if rep.get("city") and not any(lst is ci["apps"] and ci["name"].lower() == rep["city"].lower() for ci in country["cities"]):
+                    continue
+                names = {x["name"].strip().lower(), (rep.get("name") or "").strip().lower()} - {""}
+                succ = None
+                if new:
+                    succ = next((y for y in lst if y is not x and ((y.get("pkg") or "").lower() == new.lower()
+                                 or (not y.get("pkg") and y["name"].strip().lower() in names))), None)
+                if succ is not None:
+                    # Nachfolger steht schon in der Liste: Paket nachtragen, alten Eintrag entfernen
+                    if not succ.get("pkg"):
+                        succ["pkg"] = new
+                    lst.remove(x)
+                    continue
+                if new and x.get("req") == "Laut Quelle eingestellt":
+                    x.pop("use", None)
+                    x.pop("req", None)
                 if new:
                     x["pkg"] = new
                 for f in ("name", "note", "url", "src"):
                     if rep.get(f):
                         x[f] = rep[f]
-                if rep.get("nostore"):
-                    x["nostore"] = True
-                else:
-                    x.pop("nostore", None)
+                if rep.get("cat") in VALID_CATS:
+                    x["cat"] = rep["cat"]
+                if "nostore" in rep:
+                    if rep["nostore"]:
+                        x["nostore"] = True
+                    else:
+                        x.pop("nostore", None)
     country["cities"].sort(key=lambda c: c["name"])
     return added
 

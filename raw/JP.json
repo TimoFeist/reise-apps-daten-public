@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/japan",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "Last updated: October 2026",
  "note": "Deutsche reisen bis 90 Tage visumfrei mit Reisepass ein. Visit Japan Web nur über die offizielle Seite der Digital Agency nutzen, es kursieren Fälschungen.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe oder eingetragene Partnerschaft gibt es aber nicht, die Tokyo Rainbow Pride läuft seit Jahren ohne Zwischenfälle.",
@@ -309,6 +309,47 @@
    "use": "no",
    "req": "Digitale Version nur für Besucher aus Korea, Taiwan und Thailand, sonst Papierpass",
    "src": "https://gofukuoka.jp/citypass.html"
+  },
+  {
+   "name": "my route",
+   "cat": "transit",
+   "pkg": "jp.co.toyota.myroute",
+   "ess": false,
+   "note": "Digitale Tagespässe für U-Bahn und Bus Yokohama",
+   "city": "Yokohama",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.city.yokohama.lg.jp/lang/residents/en/bus-subway/bus/fares-bus/my-route.html"
+  },
+  {
+   "name": "Japan Transit Planner",
+   "cat": "transit",
+   "pkg": "jp.co.jorudan.nrkj",
+   "ess": false,
+   "note": "Digitale Yui-Rail-Pässe kaufen und am Gate zeigen",
+   "city": "Naha",
+   "use": "ok",
+   "req": "",
+   "src": "https://ticket.jorudan.co.jp/yui-rail/en/"
+  },
+  {
+   "name": "EMot Online Tickets",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Digitaler Hakone Freepass im Browser, ohne App",
+   "city": "Hakone",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.odakyu.jp/english/passes/digital_tickets/",
+   "url": "https://www.odakyu.jp/english/passes/digital_tickets/"
+  }
+ ],
+ "replace": [
+  {
+   "old": "jp.co.mediamagic.sapporokanko",
+   "name": "Sapporo Gourmet Coupon",
+   "city": "Sapporo"
   }
  ]
 }

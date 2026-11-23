@@ -1,6 +1,6 @@
 {
  "src": "https://en.reunion.fr/organize/holiday-tips/questions-answers/transport-on-the-island/",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Personalausweis genügt, bei Umstieg etwa über Mauritius aber Reisepass nötig; Mietwagen vorab buchen, Zyklonsaison Januar bis April.",
  "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
@@ -149,6 +149,17 @@
    "use": "limited",
    "req": "Mindestalter 23, Führerschein seit drei Jahren",
    "src": "https://serenitrip.fr/?p=16697"
+  },
+  {
+   "name": "M-ticket Citalis",
+   "cat": "transit",
+   "pkg": "com.actoll.tpass.citalis",
+   "ess": false,
+   "note": "Bustickets für Citalis in Saint-Denis kaufen und entwerten",
+   "city": "Saint-Denis",
+   "use": "limited",
+   "req": "Konto in der App und Bankkarte nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.citalis"
   }
  ],
  "replace": [

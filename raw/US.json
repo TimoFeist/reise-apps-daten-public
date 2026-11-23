@@ -1,6 +1,6 @@
 {
  "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Deutsche brauchen vor der Reise eine ESTA-Genehmigung, am besten über die offizielle CBP-App oder Website beantragen.",
  "discontinued": [],
@@ -411,6 +411,160 @@
    "use": "ok",
    "req": "",
    "src": "https://www.sdmts.com/PRONTO"
+  },
+  {
+   "name": "SEPTA",
+   "cat": "transit",
+   "pkg": "org.septa.android.app",
+   "ess": false,
+   "note": "Offizielle App: Fahrpläne, Echtzeit, SEPTA Key",
+   "city": "Philadelphia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.septa.org/app/"
+  },
+  {
+   "name": "SEPTA Park",
+   "cat": "parking",
+   "pkg": "com.flowbird.septapark",
+   "ess": false,
+   "note": "Parken an SEPTA-Parkplätzen per Kennzeichen zahlen",
+   "city": "Philadelphia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.septa.org/parking/"
+  },
+  {
+   "name": "Hop Fastpass",
+   "cat": "transit",
+   "pkg": "org.trimet.mt.accounts",
+   "ess": false,
+   "note": "Hop-Karte verwalten, Bankkarte antippen geht auch",
+   "city": "Portland",
+   "use": "ok",
+   "req": "",
+   "src": "https://trimet.org/app/index.htm"
+  },
+  {
+   "name": "RTD NextRide",
+   "cat": "transit",
+   "pkg": "com.rtddenver.nextride",
+   "ess": false,
+   "note": "Neue RTD-App: Tickets, Echtzeit, Routenplaner",
+   "city": "Denver",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rtd-denver.com/community/news/2026/rtd-launches-single-app-for-trip-planning-fares-and-security-tools"
+  },
+  {
+   "name": "MARTA",
+   "cat": "transit",
+   "pkg": "com.itsmarta.martaapp",
+   "ess": false,
+   "note": "Offizielle MARTA-App: Echtzeit, Routen, Störungen",
+   "city": "Atlanta",
+   "use": "ok",
+   "req": "",
+   "src": "https://itsmarta.com/marta-on-the-go.aspx"
+  },
+  {
+   "name": "Valley Metro",
+   "cat": "transit",
+   "pkg": "org.valleymetro.app",
+   "ess": false,
+   "note": "Tickets, Echtzeit und Routen für Bus und Stadtbahn",
+   "city": "Phoenix",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.valleymetro.org/how-to-ride/online-tools/app"
+  },
+  {
+   "name": "Umo Mobility",
+   "cat": "transit",
+   "pkg": "com.cubic.ctp.app",
+   "ess": false,
+   "note": "Digitale CapMetro-Tickets, in der App CapMetro wählen",
+   "city": "Austin",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.capmetro.org/fares-passes/app"
+  },
+  {
+   "name": "Metro Transit",
+   "cat": "transit",
+   "pkg": "org.metrotransit.mt.mobiletickets",
+   "ess": false,
+   "note": "Handytickets und Abfahrten für Bus und Stadtbahn",
+   "city": "Minneapolis",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.metrotransit.org/app"
+  },
+  {
+   "name": "GoPass",
+   "cat": "transit",
+   "pkg": "dk.unwire.projects.dart",
+   "ess": false,
+   "note": "DART-Tickets und Routenplaner für Dallas",
+   "city": "Dallas",
+   "use": "ok",
+   "req": "",
+   "src": "https://pass.dart.org/gopass-app"
+  },
+  {
+   "name": "RideMETRO",
+   "cat": "transit",
+   "pkg": "com.ridemetro.houstontrip",
+   "ess": false,
+   "note": "Routen und virtuelle Fahrkarte für METRO Houston",
+   "city": "Houston",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.ridemetro.org/riding-metro/apps/ridemetro-app"
+  },
+  {
+   "name": "QuickTicket by WeGo",
+   "cat": "transit",
+   "pkg": "co.bytemark.nash",
+   "ess": false,
+   "note": "Fahrkarte und Pässe für WeGo-Busse und Züge",
+   "city": "Nashville",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.wegotransit.com/wego-now-accepts-credit-card-mobile-wallet-contactless-payment/"
+  },
+  {
+   "name": "Transit",
+   "cat": "transit",
+   "pkg": "com.thetransitapp.droid",
+   "ess": false,
+   "note": "Offizielle Tickets für UTA Bus, TRAX und FrontRunner",
+   "city": "Salt Lake City",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rideuta.com/fares-and-passes/individual-fares/transit-mobile-ticketing"
+  },
+  {
+   "name": "VIA goMobile+",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Handytickets und Tagespässe für VIA-Busse",
+   "city": "San Antonio",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.viainfo.net/goMobileplus/"
+  },
+  {
+   "name": "PRT Ready2Ride",
+   "cat": "transit",
+   "pkg": "com.justride.pgh",
+   "ess": false,
+   "note": "Handytickets für Bus, Stadtbahn und Inclines",
+   "city": "Pittsburgh",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rideprt.org/fares-and-payment/ready2ride/"
   }
  ],
  "replace": [

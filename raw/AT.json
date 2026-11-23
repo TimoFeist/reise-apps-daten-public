@@ -282,5 +282,13 @@
    "req": "Lichtbildausweis mitführen, Ticket ist personengebunden",
    "src": "https://support.fairtiq.com/hc/en-us/articles/19373507232402--FAIRTIQ-in-Linz-LINZ-AG-Overview"
   }
+ ],
+ "replace": [
+  {
+   "old": "hr.infoart.epk",
+   "note": "Parken und Garagen per App bezahlen",
+   "cat": "parking",
+   "city": ""
+  }
  ]
 }

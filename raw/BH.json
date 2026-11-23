@@ -1,13 +1,145 @@
-{"src": "https://www.bento.travel/bahrain", "fetched": "2026-11-18", "updated": "Last updated: August 2026", "note": "Deutsche brauchen ein Visum (bei Ankunft, vorab als eVisa online oder bei der Botschaft), der Reisepass muss noch 6 Monate gültig sein, der Personalausweis wird nicht akzeptiert. Das Auswärtige Amt rät derzeit dringend von Reisen ab. Physische Karten und etwas Bargeld in Dinar mitnehmen.", "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, aber Unzucht und Cross-Dressing können bestraft werden, es gibt keinen Diskriminierungsschutz und Zurückhaltung in der Öffentlichkeit ist ratsam.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node/bahrainsicherheit-204112", "discontinued": [{"name": "Uber Eats", "pkg": "", "src": "https://www.bento.travel/bahrain/food-delivery"}], "apps": [
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Bekannter Fahrdienst mit Abholpunkt am Flughafen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bahrain"},
-{"name": "Careem", "cat": "taxi", "pkg": "com.careem.acma", "ess": false, "note": "Lizenzierter Fahrdienst zum Preisvergleich, auch ab Flughafen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bahrain/ride-hailing"},
-{"name": "Bahrain Taxi", "cat": "taxi", "pkg": "com.multibrains.taxi.passenger.bto", "ess": false, "note": "Lokale Vermittlung lizenzierter Taxis, für frühe Flüge vorbestellen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bahrain/ride-hailing"},
-{"name": "talabat", "cat": "delivery", "pkg": "com.talabat", "ess": true, "note": "Restaurants, Lebensmittel und Alltagsartikel per Lieferung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bahrain"},
-{"name": "Keeta", "cat": "delivery", "pkg": "com.sankuai.sailor.afooddelivery", "ess": false, "note": "Zweite Liefer-App mit anderen Restaurants und Rabatten", "city": "", "use": "limited", "req": "Ausländische Karte wird teils abgelehnt, Ersatzkarte bereithalten", "src": "https://www.bento.travel/bahrain/food-delivery"},
-{"name": "Bahrain Bus", "cat": "transit", "pkg": "com.bahbusv2.app", "ess": true, "note": "Offizielle Bus-App mit Fahrplan, Live-Zeiten und GO-Card-Aufladung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bahrain"},
-{"name": "JESR", "cat": "rail", "pkg": "com.kfca.sa.jesr", "ess": false, "note": "Offizielle App des King Fahd Causeway für Wartezeiten und Maut", "city": "", "use": "limited", "req": "Einreiseerlaubnis für Saudi-Arabien, Fahrzeugfreigabe und Versicherung vorher klären", "src": "https://www.bento.travel/bahrain"},
-{"name": "Visit Bahrain", "cat": "tourism", "pkg": "com.btea.tg", "ess": false, "note": "Offizielle Tourismus-App für Sehenswürdigkeiten und Planung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bahrain"},
-{"name": "BenefitPay", "cat": "payment", "pkg": "", "ess": false, "note": "Nationale Geldbörse für Zahlungen und Überweisungen", "city": "", "use": "no", "req": "Identitätsprüfung und Freigabe durch eine teilnehmende bahrainische Bank nötig", "src": "https://www.bento.travel/apps/benefitpay"},
-{"name": "MyGOV", "cat": "safety", "pkg": "", "ess": false, "note": "Staatliche App mit Sirenen- und Warnmeldungen des Zivilschutzes", "city": "", "use": "limited", "req": "Richtet sich an Bürger und Einwohner, Warnfunktion in den Einstellungen aktivieren", "src": "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node/bahrainsicherheit-204112"},
-{"name": "Selfdrive", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen per App, Website oder Telefon buchen", "city": "", "use": "limited", "req": "Internationaler Führerschein, Reisepass mit Visum, Karte auf eigenen Namen, Mindestalter 23", "src": "https://www.selfdrive.bh/faqs.php"}
-]}
+{
+ "src": "https://www.bento.travel/bahrain",
+ "fetched": "2026-11-18",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche brauchen ein Visum (bei Ankunft, vorab als eVisa online oder bei der Botschaft), der Reisepass muss noch 6 Monate gültig sein, der Personalausweis wird nicht akzeptiert. Das Auswärtige Amt rät derzeit dringend von Reisen ab. Physische Karten und etwas Bargeld in Dinar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, aber Unzucht und Cross-Dressing können bestraft werden, es gibt keinen Diskriminierungsschutz und Zurückhaltung in der Öffentlichkeit ist ratsam.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node/bahrainsicherheit-204112",
+ "discontinued": [
+  {
+   "name": "Uber Eats",
+   "pkg": "",
+   "src": "https://www.bento.travel/bahrain/food-delivery"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Bekannter Fahrdienst mit Abholpunkt am Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bahrain"
+  },
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "com.careem.acma",
+   "ess": false,
+   "note": "Lizenzierter Fahrdienst zum Preisvergleich, auch ab Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bahrain/ride-hailing"
+  },
+  {
+   "name": "Bahrain Taxi",
+   "cat": "taxi",
+   "pkg": "com.multibrains.taxi.passenger.bto",
+   "ess": false,
+   "note": "Lokale Vermittlung lizenzierter Taxis, für frühe Flüge vorbestellen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bahrain/ride-hailing"
+  },
+  {
+   "name": "talabat",
+   "cat": "delivery",
+   "pkg": "com.talabat",
+   "ess": true,
+   "note": "Restaurants, Lebensmittel und Alltagsartikel per Lieferung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bahrain"
+  },
+  {
+   "name": "Keeta",
+   "cat": "delivery",
+   "pkg": "com.sankuai.sailor.afooddelivery",
+   "ess": false,
+   "note": "Zweite Liefer-App mit anderen Restaurants und Rabatten",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karte wird teils abgelehnt, Ersatzkarte bereithalten",
+   "src": "https://www.bento.travel/bahrain/food-delivery"
+  },
+  {
+   "name": "Bahrain Bus",
+   "cat": "transit",
+   "pkg": "com.bahbusv2.app",
+   "ess": true,
+   "note": "Offizielle Bus-App mit Fahrplan, Live-Zeiten und GO-Card-Aufladung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bahrain"
+  },
+  {
+   "name": "JESR",
+   "cat": "rail",
+   "pkg": "com.kfca.sa.jesr",
+   "ess": false,
+   "note": "Offizielle App des King Fahd Causeway für Wartezeiten und Maut",
+   "city": "",
+   "use": "limited",
+   "req": "Einreiseerlaubnis für Saudi-Arabien, Fahrzeugfreigabe und Versicherung vorher klären",
+   "src": "https://www.bento.travel/bahrain"
+  },
+  {
+   "name": "Visit Bahrain",
+   "cat": "tourism",
+   "pkg": "com.btea.tg",
+   "ess": false,
+   "note": "Offizielle Tourismus-App für Sehenswürdigkeiten und Planung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bahrain"
+  },
+  {
+   "name": "BenefitPay",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Nationale Geldbörse für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Identitätsprüfung und Freigabe durch eine teilnehmende bahrainische Bank nötig",
+   "src": "https://www.bento.travel/apps/benefitpay"
+  },
+  {
+   "name": "MyGOV",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche App mit Sirenen- und Warnmeldungen des Zivilschutzes",
+   "city": "",
+   "use": "limited",
+   "req": "Richtet sich an Bürger und Einwohner, Warnfunktion in den Einstellungen aktivieren",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/bahrain-node/bahrainsicherheit-204112"
+  },
+  {
+   "name": "Selfdrive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen per App, Website oder Telefon buchen",
+   "city": "",
+   "use": "limited",
+   "req": "Internationaler Führerschein, Reisepass mit Visum, Karte auf eigenen Namen, Mindestalter 23",
+   "src": "https://www.selfdrive.bh/faqs.php"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.kfca.sa.jesr",
+   "cat": "misc",
+   "city": ""
+  }
+ ]
+}

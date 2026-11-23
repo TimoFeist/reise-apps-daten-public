@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Reisewarnung fürs Westjordanland; Einreise mit CoGAT-Genehmigung über Jordanien, israelische Mietwagen dort nicht versichert.",
  "lgbtq_note": "Homosexuelle Handlungen zwischen Männern sind strafbar und gesellschaftlich ein Tabu, Fälle gegen Ausländer sind bisher nicht bekannt.",
@@ -61,6 +61,17 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/bethlehem-gate/id1644048648"
+  },
+  {
+   "name": "Visit Ramallah",
+   "cat": "tourism",
+   "pkg": "com.intertech.visitramallah",
+   "ess": false,
+   "note": "Sehenswertes, Wanderwege und Kultur in Ramallah",
+   "city": "Ramallah",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.intertech.visitramallah&hl=en&gl=US"
   }
  ]
 }

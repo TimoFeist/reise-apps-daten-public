@@ -271,5 +271,13 @@
    "req": "",
    "src": "https://www.foli.fi/en/tickets/föli-application"
   }
+ ],
+ "replace": [
+  {
+   "old": "com.solinor.loyaltybeacon",
+   "note": "Mitgliedskarte für Bars und Restaurants",
+   "cat": "misc",
+   "city": ""
+  }
  ]
 }

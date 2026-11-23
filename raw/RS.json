@@ -1,1 +1,205 @@
-{"src": "https://www.bento.travel/serbia/payments", "updated": "August 2026", "note": "Etwas Bargeld in Dinar und eine zweite Karte mitnehmen, am Terminal immer in RSD statt in Euro zahlen.", "apps": [{"name": "Yandex Go", "cat": "taxi", "pkg": "ru.yandex.taxi", "ess": true, "note": "Fahrten mit lizenzierten Flotten, Preis vorab", "city": "", "use": "limited", "req": "Bestätigung mit ausländischer Nummer oder Karte scheitert teils", "src": "https://www.bento.travel/serbia/ride-hailing"}, {"name": "CAR:GO", "cat": "taxi", "pkg": "com.appcargo.user", "ess": false, "note": "Fahrdienst mit Live-Tracking und Flughafentransfer", "city": "Belgrade", "use": "limited", "req": "Bestätigung oder ausländische Karte klappen nicht immer", "src": "https://www.bento.travel/serbia/ride-hailing"}, {"name": "Naxis Taxi", "cat": "taxi", "pkg": "", "ess": false, "note": "Lizenzierte Taxis mit Taxameter, auch zum Flughafen", "city": "Belgrade", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/ride-hailing"}, {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen und Einkäufe in über 30 serbischen Städten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/food-delivery"}, {"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": true, "note": "Essen, Supermarkt und Läden, je nach Adresse", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/food-delivery"}, {"name": "Mister D", "cat": "delivery", "pkg": "", "ess": false, "note": "Lokaler Essenslieferdienst in einigen Orten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/food-delivery"}, {"name": "Beograd Plus", "cat": "transit", "pkg": "buslogic.beogradplus", "ess": false, "note": "Offizielle Live-Daten zu Bus und Tram, ÖPNV gratis", "city": "Belgrade", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/transit"}, {"name": "Moovit", "cat": "maps", "pkg": "", "ess": false, "note": "Routenplanung für Bus und Bahn", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/transit"}, {"name": "Yandex Maps", "cat": "maps", "pkg": "", "ess": false, "note": "Karte mit Live-Positionen der Belgrader Busse", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/navigation"}, {"name": "Viber", "cat": "misc", "pkg": "com.viber.voip", "ess": false, "note": "Messenger, den Gastgeber und Taxis oft nutzen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/serbia/messaging"}, {"name": "Srbijavoz", "cat": "rail", "pkg": "", "ess": false, "note": "Zugtickets per App, 10 % günstiger als am Schalter", "city": "", "use": "ok", "req": "", "src": "https://biznis.kurir.rs/info-biz/9536606/srbijavoz-preporucuje-putnicima-da-karte-kupuju-putem-mobilne-aplikacije"}, {"name": "Anygo", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing pro Minute, Rückgabe in Belgrad", "city": "Belgrade", "use": "limited", "req": "Führerschein, Ausweis oder Pass, Kreditkarte und Selfie nötig", "src": "https://apps.apple.com/app/id6473706004"}, {"name": "Parking Servis", "cat": "parking", "pkg": "", "ess": false, "note": "Parken in Zonen und Garagen zahlen, freie Plätze", "city": "Belgrade", "use": "limited", "req": "Kartenzahlung nur nach Registrierung, als Gast nur SMS", "src": "https://www.novosti.rs/beograd/vesti/908845/nova-aplikacija-jkp-parking-servis-slobodno-mesto-navodjenje-jos-mnostvo-mogucnosti-foto"}, {"name": "Belgrade Fortress (Cultural Places)", "cat": "tourism", "pkg": "", "ess": false, "note": "Kostenloser Audioguide für 29 Orte der Festung", "city": "Belgrade", "use": "ok", "req": "", "src": "https://www.beogradskatvrdjava.co.rs/%d0%b1%d0%b5%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b0-%d1%82%d0%b2%d1%80%d1%92%d0%b0%d0%b2%d0%b0-%d0%bd%d0%b0-%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d1%98%d0%b8-cultural-places/?lang=en"}, {"name": "Nsmart JGSP", "cat": "transit", "pkg": "", "ess": false, "note": "Linien, Haltestellen und E-Wallet für Busse", "city": "Novi Sad", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1557928546"}, {"name": "nSpark", "cat": "parking", "pkg": "", "ess": false, "note": "Parken per Karte, IPS oder SMS zahlen", "city": "Novi Sad", "use": "ok", "req": "", "src": "https://www.021.rs/story/Novi-Sad/Vesti/382373/Novosadski-Parking-servis-ima-novu-mobilnu-aplikaciju-Sve-usluge-na-jednom-mestu.html"}, {"name": "NiCard JGP Niš", "cat": "transit", "pkg": "", "ess": false, "note": "Offizielle App mit Haltestellen und Ankunftszeiten", "city": "Nis", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1567012481"}], "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/serbien-node/serbiensicherheit-207502", "discontinued": [], "fetched": "2026-11-18"}
+{
+ "src": "https://www.bento.travel/serbia/payments",
+ "updated": "August 2026",
+ "note": "Etwas Bargeld in Dinar und eine zweite Karte mitnehmen, am Terminal immer in RSD statt in Euro zahlen.",
+ "apps": [
+  {
+   "name": "Yandex Go",
+   "cat": "taxi",
+   "pkg": "ru.yandex.taxi",
+   "ess": true,
+   "note": "Fahrten mit lizenzierten Flotten, Preis vorab",
+   "city": "",
+   "use": "limited",
+   "req": "Bestätigung mit ausländischer Nummer oder Karte scheitert teils",
+   "src": "https://www.bento.travel/serbia/ride-hailing"
+  },
+  {
+   "name": "CAR:GO",
+   "cat": "taxi",
+   "pkg": "com.appcargo.user",
+   "ess": false,
+   "note": "Fahrdienst mit Live-Tracking und Flughafentransfer",
+   "city": "Belgrade",
+   "use": "limited",
+   "req": "Bestätigung oder ausländische Karte klappen nicht immer",
+   "src": "https://www.bento.travel/serbia/ride-hailing"
+  },
+  {
+   "name": "Naxis Taxi",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lizenzierte Taxis mit Taxameter, auch zum Flughafen",
+   "city": "Belgrade",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/ride-hailing"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in über 30 serbischen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/food-delivery"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": true,
+   "note": "Essen, Supermarkt und Läden, je nach Adresse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/food-delivery"
+  },
+  {
+   "name": "Mister D",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Essenslieferdienst in einigen Orten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/food-delivery"
+  },
+  {
+   "name": "Beograd Plus",
+   "cat": "transit",
+   "pkg": "buslogic.beogradplus",
+   "ess": false,
+   "note": "Offizielle Live-Daten zu Bus und Tram, ÖPNV gratis",
+   "city": "Belgrade",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/transit"
+  },
+  {
+   "name": "Moovit",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Routenplanung für Bus und Bahn",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/transit"
+  },
+  {
+   "name": "Yandex Maps",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Karte mit Live-Positionen der Belgrader Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/navigation"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": false,
+   "note": "Messenger, den Gastgeber und Taxis oft nutzen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/serbia/messaging"
+  },
+  {
+   "name": "Srbijavoz",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Zugtickets per App, 10 % günstiger als am Schalter",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://biznis.kurir.rs/info-biz/9536606/srbijavoz-preporucuje-putnicima-da-karte-kupuju-putem-mobilne-aplikacije"
+  },
+  {
+   "name": "Anygo",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing pro Minute, Rückgabe in Belgrad",
+   "city": "Belgrade",
+   "use": "limited",
+   "req": "Führerschein, Ausweis oder Pass, Kreditkarte und Selfie nötig",
+   "src": "https://apps.apple.com/app/id6473706004"
+  },
+  {
+   "name": "Parking Servis",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken in Zonen und Garagen zahlen, freie Plätze",
+   "city": "Belgrade",
+   "use": "limited",
+   "req": "Kartenzahlung nur nach Registrierung, als Gast nur SMS",
+   "src": "https://www.novosti.rs/beograd/vesti/908845/nova-aplikacija-jkp-parking-servis-slobodno-mesto-navodjenje-jos-mnostvo-mogucnosti-foto"
+  },
+  {
+   "name": "Belgrade Fortress (Cultural Places)",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Kostenloser Audioguide für 29 Orte der Festung",
+   "city": "Belgrade",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.beogradskatvrdjava.co.rs/%d0%b1%d0%b5%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b0-%d1%82%d0%b2%d1%80%d1%92%d0%b0%d0%b2%d0%b0-%d0%bd%d0%b0-%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d1%98%d0%b8-cultural-places/?lang=en"
+  },
+  {
+   "name": "Nsmart JGSP",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Linien, Haltestellen und E-Wallet für Busse",
+   "city": "Novi Sad",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1557928546"
+  },
+  {
+   "name": "nSpark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken per Karte, IPS oder SMS zahlen",
+   "city": "Novi Sad",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.021.rs/story/Novi-Sad/Vesti/382373/Novosadski-Parking-servis-ima-novu-mobilnu-aplikaciju-Sve-usluge-na-jednom-mestu.html"
+  },
+  {
+   "name": "NiCard JGP Niš",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App mit Haltestellen und Ankunftszeiten",
+   "city": "Nis",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1567012481"
+  }
+ ],
+ "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/serbien-node/serbiensicherheit-207502",
+ "discontinued": [],
+ "fetched": "2026-11-18",
+ "replace": [
+  {
+   "old": "Moovit",
+   "cat": "transit",
+   "city": ""
+  }
+ ]
+}

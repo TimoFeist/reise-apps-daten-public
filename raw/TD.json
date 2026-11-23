@@ -1,55 +1,68 @@
 {
-"src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
-"fetched": "2026-11-18",
-"updated": "28.10.2026",
-"note": "Visum mindestens 7 Tage vorab online beantragen, Gelbfieberimpfung ist Pflicht; Euro oder US-Dollar bar mitnehmen.",
-"lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden mit drei Monaten bis zwei Jahren Haft sowie Geldstrafe geahndet.",
-"lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
-"discontinued": [],
-"apps": [
-{
-"name": "Mossosouk Shopping",
-"cat": "shopping",
-"pkg": "",
-"ess": false,
-"note": "Onlineshop für Elektronik, Mode und Haushalt",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://tchadinfos.com/2024/10/10/mossosouk-com-lance-le-paiement-par-carte-visa-et-mastercard-sur-son-application-mobile-mossosouk-shopping/"
-},
-{
-"name": "Moov Money Tchad",
-"cat": "payment",
-"pkg": "",
-"ess": false,
-"note": "Mobile Money Wallet von Moov Africa Tchad",
-"city": "",
-"use": "no",
-"req": "Tschadische Moov-SIM mit Moov-Money-Konto nötig",
-"src": "https://apps.apple.com/td/app/moov-money-tchad/id1672266714"
-},
-{
-"name": "My Airtel Africa",
-"cat": "payment",
-"pkg": "",
-"ess": false,
-"note": "Airtel Money für Überweisung, QR-Zahlung und Guthaben",
-"city": "",
-"use": "no",
-"req": "Tschadische Airtel-SIM mit Airtel-Money-Konto nötig",
-"src": "https://apps.apple.com/app/id1462268018"
-},
-{
-"name": "Grindr",
-"cat": "lgbtq",
-"pkg": "",
-"ess": false,
-"note": "Weltweite Dating-App, im Tschad riskant",
-"city": "",
-"use": "no",
-"req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
-"src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774"
-}
-]
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
+ "fetched": "2026-11-23",
+ "updated": "28.10.2026",
+ "note": "Visum mindestens 7 Tage vorab online beantragen, Gelbfieberimpfung ist Pflicht; Euro oder US-Dollar bar mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar und werden mit drei Monaten bis zwei Jahren Haft sowie Geldstrafe geahndet.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Mossosouk Shopping",
+   "cat": "shopping",
+   "pkg": "",
+   "ess": false,
+   "note": "Onlineshop für Elektronik, Mode und Haushalt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://tchadinfos.com/2024/10/10/mossosouk-com-lance-le-paiement-par-carte-visa-et-mastercard-sur-son-application-mobile-mossosouk-shopping/"
+  },
+  {
+   "name": "Moov Money Tchad",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money Wallet von Moov Africa Tchad",
+   "city": "",
+   "use": "no",
+   "req": "Tschadische Moov-SIM mit Moov-Money-Konto nötig",
+   "src": "https://apps.apple.com/td/app/moov-money-tchad/id1672266714"
+  },
+  {
+   "name": "My Airtel Africa",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Airtel Money für Überweisung, QR-Zahlung und Guthaben",
+   "city": "",
+   "use": "no",
+   "req": "Tschadische Airtel-SIM mit Airtel-Money-Konto nötig",
+   "src": "https://apps.apple.com/app/id1462268018"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, im Tschad riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen sind strafbar, Nutzung kann zu Strafverfolgung führen",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tschad-node/tschadsicherheit/225774"
+  },
+  {
+   "name": "Tchad e-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Visum mindestens 7 Tage vor Reise online beantragen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tschadsicherheit-225774",
+   "url": "https://evisa.td/",
+   "nostore": true
+  }
+ ]
 }

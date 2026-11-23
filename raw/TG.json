@@ -1,21 +1,132 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
- "fetched": "2026-11-20",
+ "fetched": "2026-11-23",
  "updated": "Stand: 19.11.2026 (Auswärtiges Amt)",
  "note": "Das e-Visum spätestens fünf Tage vor der Reise über voyage.gouv.tg beantragen, ein Visum bei Ankunft gibt es nicht.",
  "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu drei Jahren Haft und Geldstrafe geahndet werden.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850",
  "discontinued": [],
  "apps": [
-  {"name": "Voyage Togo e-Visa", "cat": "entry", "pkg": "", "ess": true, "note": "Offizielles Portal voyage.gouv.tg für Registrierung und e-Visum", "city": "", "use": "ok", "req": "Antrag mindestens fünf Tage vor Einreise, Gelbfieberimpfung Pflicht", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"},
-  {"name": "Gozem", "cat": "taxi", "pkg": "com.gozem", "ess": true, "note": "Super-App für Zem, Taxi, Tricycle, Essen und Kurier", "city": "Lomé", "use": "limited", "req": "Lokale SIM für Anmeldung und Fahrerkontakt ratsam, Bargeld bereithalten", "src": "https://gozem.co/tg/en/"},
-  {"name": "KABA", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung von Restaurantessen, Supermarkt und Waren", "city": "Lomé", "use": "limited", "req": "Am einfachsten mit Barzahlung bei Lieferung, erreichbare Nummer nötig", "src": "https://apps.apple.com/to/app/kaba/id1513025430"},
-  {"name": "e-SOTRAL", "cat": "transit", "pkg": "com.bhkkonsulting.e_sotral", "ess": false, "note": "Fahrscheine für die Stadtbusse der SOTRAL vorab zahlen", "city": "Lomé", "use": "limited", "req": "Chip vom SOTRAL-Kiosk nötig, Zahlungswege laut Quelle unklar", "src": "https://appgoblin.info/apps/com.bhkkonsulting.e_sotral"},
-  {"name": "Europcar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen mit Station am Flughafen Lomé", "city": "Lomé", "use": "limited", "req": "Führerschein und Kreditkarte nötig, Bedingungen vorab prüfen", "src": "https://www.europcar.com/en-cy/places/car-rental-togo/lome/lome-international-airport"},
-  {"name": "Mixx Togo", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money von Yas (früher T-Money) für Zahlungen und Überweisungen", "city": "", "use": "no", "req": "Togoische Mobilnummer mit registrierter SIM nötig", "src": "https://apps.apple.com/us/app/mixx-togo/id6443914936"},
-  {"name": "Moov Money TG", "cat": "payment", "pkg": "", "ess": false, "note": "App für Flooz, das Mobile Money von Moov Africa Togo", "city": "", "use": "no", "req": "Moov-Togo-SIM mit Flooz-Konto nötig", "src": "https://apps.apple.com/us/app/-/id6747830756"},
-  {"name": "Gozem Money", "cat": "payment", "pkg": "", "ess": false, "note": "Wallet in der Gozem-App, mit allen Mobile-Money-Anbietern verknüpft", "city": "", "use": "no", "req": "Togoische Nummer und lokales Mobile Money zum Aufladen nötig", "src": "https://techcabal.com/?p=170498"},
-  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"},
-  {"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Dating-App, in Togo riskant", "city": "", "use": "no", "req": "Homosexuelle Handlungen strafbar, bis zu drei Jahre Haft möglich", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"}
+  {
+   "name": "Voyage Togo e-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielles Portal voyage.gouv.tg für Registrierung und e-Visum",
+   "city": "",
+   "use": "ok",
+   "req": "Antrag mindestens fünf Tage vor Einreise, Gelbfieberimpfung Pflicht",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"
+  },
+  {
+   "name": "Gozem",
+   "cat": "taxi",
+   "pkg": "com.gozem",
+   "ess": true,
+   "note": "Super-App für Zem, Taxi, Tricycle, Essen und Kurier",
+   "city": "Lomé",
+   "use": "limited",
+   "req": "Lokale SIM für Anmeldung und Fahrerkontakt ratsam, Bargeld bereithalten",
+   "src": "https://gozem.co/tg/en/"
+  },
+  {
+   "name": "KABA",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von Restaurantessen, Supermarkt und Waren",
+   "city": "Lomé",
+   "use": "limited",
+   "req": "Am einfachsten mit Barzahlung bei Lieferung, erreichbare Nummer nötig",
+   "src": "https://apps.apple.com/to/app/kaba/id1513025430"
+  },
+  {
+   "name": "e-SOTRAL",
+   "cat": "transit",
+   "pkg": "com.bhkkonsulting.e_sotral",
+   "ess": false,
+   "note": "Fahrscheine für die Stadtbusse der SOTRAL vorab zahlen",
+   "city": "Lomé",
+   "use": "limited",
+   "req": "Chip vom SOTRAL-Kiosk nötig, Zahlungswege laut Quelle unklar",
+   "src": "https://appgoblin.info/apps/com.bhkkonsulting.e_sotral"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit Station am Flughafen Lomé",
+   "city": "Lomé",
+   "use": "limited",
+   "req": "Führerschein und Kreditkarte nötig, Bedingungen vorab prüfen",
+   "src": "https://www.europcar.com/en-cy/places/car-rental-togo/lome/lome-international-airport"
+  },
+  {
+   "name": "Mixx Togo",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money von Yas (früher T-Money) für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Togoische Mobilnummer mit registrierter SIM nötig",
+   "src": "https://apps.apple.com/us/app/mixx-togo/id6443914936"
+  },
+  {
+   "name": "Moov Money TG",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "App für Flooz, das Mobile Money von Moov Africa Togo",
+   "city": "",
+   "use": "no",
+   "req": "Moov-Togo-SIM mit Flooz-Konto nötig",
+   "src": "https://apps.apple.com/us/app/-/id6747830756"
+  },
+  {
+   "name": "Gozem Money",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Wallet in der Gozem-App, mit allen Mobile-Money-Anbietern verknüpft",
+   "city": "",
+   "use": "no",
+   "req": "Togoische Nummer und lokales Mobile Money zum Aufladen nötig",
+   "src": "https://techcabal.com/?p=170498"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, in Togo riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen strafbar, bis zu drei Jahre Haft möglich",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/togosicherheit-213850"
+  },
+  {
+   "name": "ASKY",
+   "cat": "flights",
+   "pkg": "com.askymobileapp.askyairlines",
+   "ess": false,
+   "note": "Regionalairline mit Drehkreuz Lomé, rund 30 Ziele",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.togofirst.com/en/transport/0508-16872-lome-to-nouakchott-asky-airlines-expands-network-with-30th-route-in-africa"
+  }
  ]
 }

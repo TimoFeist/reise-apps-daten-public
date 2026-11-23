@@ -1,6 +1,6 @@
 {
  "src": "https://www.bento.travel/tanzania",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "Last updated: August 2026",
  "note": "Für Sansibar ist eine ZIC-Einreiseversicherung Pflicht, andere Reiseversicherungen werden nicht anerkannt.",
  "lgbtq_note": "Homosexuelle Handlungen werden mit sehr hohen Gefängnisstrafen bestraft, das gilt auch für Ausländer.",
@@ -111,6 +111,32 @@
    "use": "no",
    "req": "Gleichgeschlechtliche Handlungen strafbar, Nutzung riskant",
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tansaniasicherheit/208662"
+  },
+  {
+   "name": "Zanzibar Inbound Travel Insurance",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Reiseversicherung für Sansibar online kaufen",
+   "city": "Zanzibar",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.norway.no/en/tanzania/norway-tanzania/news-events/mandatory-travel-insurance/",
+   "url": "https://inbound.visitzanzibar.go.tz/",
+   "nostore": true
+  },
+  {
+   "name": "NIC Inbound Travel Insurance",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflichtversicherung für Festland ab 1.10.2026, online",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.norway.no/en/tanzania/norway-tanzania/news-events/mandatory-travel-insurance/",
+   "url": "https://inbound.nicinsurance.co.tz/",
+   "nostore": true
   }
  ]
 }
