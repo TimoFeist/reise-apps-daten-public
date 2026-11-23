@@ -1,10 +1,11 @@
 {
- "vc": 50,
- "vn": "1.0.50",
+ "vc": 51,
+ "vn": "1.0.51",
  "changes": [
-  "Kopfbereich bei Ländern und Städten schmaler, mit Flagge und kleinen Knöpfen"
+  "Kopfbereich bei Reisen schmaler, wie bei Ländern und Städten",
+  "Eigene Apps PinRate und Rangr zeigen ihr Logo"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=0cbcc5e539c8eca2",
- "size": 3693888,
- "sha256": "0cbcc5e539c8eca2fb8f3a3376849e3acf7ac4d8d1c9de9baf7fd15f90192128"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=22c5bbb6a3552fe1",
+ "size": 3727081,
+ "sha256": "22c5bbb6a3552fe161ef145c34fe2ad365c2c553824bbbecf37cfa93bee1f077"
 }
