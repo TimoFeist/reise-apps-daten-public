@@ -9761,6 +9761,525 @@
    "last": "2026-08-08",
    "src": "https://www.berlin.de/en/events/2993388-2842498-lgbt-parkfest-friedrichshain.en.html",
    "type": "fest"
+  },
+  {
+   "name": "International Prague Bear Summer",
+   "city": "Prag",
+   "cc": "CZ",
+   "lat": 50.088,
+   "lon": 14.42,
+   "start": "2027-08-03",
+   "end": "2027-08-09",
+   "month": 8,
+   "url": "https://praguebears.cz/",
+   "src": "https://praguebears.cz/BearSummer/",
+   "type": "fest",
+   "cat": "bear",
+   "alt": [
+    "Prague",
+    "Praha"
+   ]
+  },
+  {
+   "name": "Mezipatra Queer Film Festival",
+   "city": "Prag",
+   "cc": "CZ",
+   "lat": 50.088,
+   "lon": 14.42,
+   "month": 11,
+   "url": "https://www.mezipatra.cz/en",
+   "last": "2026-11-05",
+   "src": "https://www.mezipatra.cz/cs/program/program-po-dnech.html",
+   "type": "fest",
+   "alt": [
+    "Prague",
+    "Praha"
+   ]
+  },
+  {
+   "name": "BearSawa",
+   "city": "Warschau",
+   "cc": "PL",
+   "lat": 52.23,
+   "lon": 21.012,
+   "start": "2027-02-04",
+   "end": "2027-02-07",
+   "month": 2,
+   "url": "https://bearsofpoland.pl/",
+   "src": "https://bearsofpoland.pl/wydarzenia/",
+   "type": "fest",
+   "cat": "bear",
+   "alt": [
+    "Warsaw",
+    "Warszawa"
+   ]
+  },
+  {
+   "name": "WrocLoveBears",
+   "city": "Breslau",
+   "cc": "PL",
+   "lat": 51.108,
+   "lon": 17.039,
+   "start": "2027-04-22",
+   "end": "2027-04-25",
+   "month": 4,
+   "url": "https://bearsofpoland.pl/",
+   "src": "https://bearsofpoland.pl/wydarzenia/",
+   "type": "fest",
+   "cat": "bear",
+   "alt": [
+    "Wroclaw",
+    "Wrocław"
+   ]
+  },
+  {
+   "name": "Bear Pride Poland",
+   "city": "Posen",
+   "cc": "PL",
+   "lat": 52.406,
+   "lon": 16.925,
+   "start": "2027-10-14",
+   "end": "2027-10-17",
+   "month": 10,
+   "url": "https://bearsofpoland.pl/",
+   "src": "https://bearsofpoland.pl/wydarzenia/",
+   "type": "fest",
+   "cat": "bear",
+   "alt": [
+    "Poznan",
+    "Poznań"
+   ]
+  },
+  {
+   "name": "amBears Dreistadt",
+   "city": "Danzig",
+   "cc": "PL",
+   "lat": 54.352,
+   "lon": 18.646,
+   "start": "2027-08-13",
+   "end": "2027-08-15",
+   "month": 8,
+   "url": "https://bearsofpoland.pl/",
+   "src": "https://bearsofpoland.pl/wydarzenia/",
+   "type": "fest",
+   "cat": "bear",
+   "alt": [
+    "Gdansk",
+    "Gdańsk"
+   ]
+  },
+  {
+   "name": "LGBT Film Festival Ljubljana",
+   "city": "Ljubljana",
+   "cc": "SI",
+   "lat": 46.056,
+   "lon": 14.506,
+   "month": 12,
+   "url": "https://www.lgbtfilmfest.si/en/",
+   "last": "2026-12-07",
+   "src": "https://www.lgbtfilmfest.si/en/",
+   "type": "fest",
+   "alt": [
+    "Laibach"
+   ]
+  },
+  {
+   "name": "Wiener Regenbogenball",
+   "city": "Wien",
+   "cc": "AT",
+   "lat": 48.208,
+   "lon": 16.373,
+   "start": "2027-01-23",
+   "end": "2027-01-23",
+   "month": 1,
+   "url": "https://www.regenbogenball.at",
+   "src": "https://www.regenbogenball.at",
+   "type": "fest",
+   "alt": [
+    "Vienna",
+    "Vienne"
+   ]
+  },
+  {
+   "name": "Vienna Fetish Spring",
+   "city": "Wien",
+   "cc": "AT",
+   "lat": 48.208,
+   "lon": 16.373,
+   "month": 5,
+   "url": "https://www.lmc-vienna.at",
+   "src": "https://www.lmc-vienna.at/@/page/gmrjmnmrsbfyqkkj",
+   "type": "fest",
+   "cat": "fetish",
+   "alt": [
+    "Vienna",
+    "Vienne"
+   ]
+  },
+  {
+   "name": "Wien in Schwarz",
+   "city": "Wien",
+   "cc": "AT",
+   "lat": 48.208,
+   "lon": 16.373,
+   "month": 10,
+   "url": "https://www.lmc-vienna.at",
+   "src": "https://www.lmc-vienna.at/highlights/wien-in-schwarz",
+   "type": "fest",
+   "cat": "fetish",
+   "alt": [
+    "Vienna",
+    "Vienne"
+   ]
+  },
+  {
+   "name": "Pink Christmas",
+   "city": "München",
+   "cc": "DE",
+   "lat": 48.133,
+   "lon": 11.567,
+   "month": 11,
+   "url": "https://www.pink-christmas.de",
+   "last": "2026-11-20",
+   "src": "https://www.pink-christmas.de",
+   "type": "fest",
+   "alt": [
+    "Monaco di Baviera",
+    "Munich"
+   ]
+  },
+  {
+   "name": "Rosa Wiesn",
+   "city": "München",
+   "cc": "DE",
+   "lat": 48.131,
+   "lon": 11.55,
+   "month": 9,
+   "url": "https://www.muenchen.de/veranstaltungen/oktoberfest/queere-events-auf-der-wiesn",
+   "last": "2026-09-19",
+   "src": "https://www.muenchen.de/veranstaltungen/oktoberfest/queere-events-auf-der-wiesn",
+   "type": "fest",
+   "alt": [
+    "Monaco di Baviera",
+    "Munich"
+   ]
+  },
+  {
+   "name": "Hamburg International Queer Film Festival",
+   "city": "Hamburg",
+   "cc": "DE",
+   "lat": 53.551,
+   "lon": 9.993,
+   "start": "2027-10-19",
+   "end": "2027-10-24",
+   "month": 10,
+   "url": "https://www.hiqff.de",
+   "src": "https://www.hiqff.de/news/jetzt-urlaub-planen-save-the-date-hiqff-2027?locale=en",
+   "type": "fest"
+  },
+  {
+   "name": "Lesbenfrühlingstreffen (LFT)",
+   "city": "Joachimsthal",
+   "cc": "DE",
+   "lat": 52.979,
+   "lon": 13.745,
+   "month": 5,
+   "url": "https://lft2026.de",
+   "last": "2026-05-22",
+   "src": "https://lft2026.de",
+   "type": "fest",
+   "cat": "lesbian"
+  },
+  {
+   "name": "Pink Apple Filmfestival",
+   "city": "Zürich",
+   "cc": "CH",
+   "lat": 47.377,
+   "lon": 8.541,
+   "month": 4,
+   "url": "https://www.pinkapple.ch",
+   "last": "2026-04-28",
+   "src": "https://www.zuerich.com/de/pink-apple",
+   "type": "fest",
+   "alt": [
+    "Zurich"
+   ]
+  },
+  {
+   "name": "European Gay Ski Week",
+   "city": "Val Thorens",
+   "cc": "FR",
+   "lat": 45.297,
+   "lon": 6.58,
+   "start": "2027-03-13",
+   "end": "2027-03-20",
+   "month": 3,
+   "url": "https://www.europeangayskiweek.com/",
+   "src": "https://www.europeangayskiweek.com/",
+   "type": "fest",
+   "cat": "ski"
+  },
+  {
+   "name": "Alp'Gay Ski Week",
+   "city": "Alpe d'Huez",
+   "cc": "FR",
+   "lat": 45.092,
+   "lon": 6.069,
+   "start": "2027-03-13",
+   "end": "2027-03-20",
+   "month": 3,
+   "url": "https://alpgayskiweek.com/",
+   "src": "https://alpgayskiweek.com/",
+   "type": "fest",
+   "cat": "ski"
+  },
+  {
+   "name": "MADBEAR Beach Torremolinos",
+   "city": "Torremolinos",
+   "cc": "ES",
+   "lat": 36.622,
+   "lon": -4.5,
+   "start": "2027-08-06",
+   "end": "2027-08-17",
+   "month": 8,
+   "url": "https://www.madbear.org/",
+   "src": "https://www.madbear.org/madbear-beach-torremolinos",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "MADBEAR Valencia",
+   "city": "Valencia",
+   "cc": "ES",
+   "lat": 39.47,
+   "lon": -0.376,
+   "month": 3,
+   "url": "https://www.madbear.org/",
+   "last": "2026-03-05",
+   "src": "https://www.madbear.org/valencia",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "Fierté Ours Paris (Paris Bear Pride)",
+   "city": "Paris",
+   "cc": "FR",
+   "lat": 48.857,
+   "lon": 2.352,
+   "month": 5,
+   "url": "https://lesoursdeparis.fr/",
+   "last": "2026-05-13",
+   "src": "https://lesoursdeparis.fr/galerie/demarrage-fierte-ours-paris-2026",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "International Eressos Women's Festival",
+   "city": "Skala Eresou (Lesbos)",
+   "cc": "GR",
+   "lat": 39.14,
+   "lon": 25.935,
+   "month": 9,
+   "url": "https://festival.lesvos.com/",
+   "src": "https://www.visitgreece.gr/en/events/festival/international-eressos-womens-festival-2026",
+   "type": "fest",
+   "cat": "lesbian"
+  },
+  {
+   "name": "Lovers Film Festival Torino",
+   "city": "Turin",
+   "cc": "IT",
+   "lat": 45.07,
+   "lon": 7.687,
+   "start": "2027-04-15",
+   "end": "2027-04-20",
+   "month": 4,
+   "url": "https://www.loversff.com/en/",
+   "src": "https://www.loversff.com/en/",
+   "type": "fest",
+   "alt": [
+    "Torino"
+   ]
+  },
+  {
+   "name": "Queer Lisboa",
+   "city": "Lissabon",
+   "cc": "PT",
+   "lat": 38.722,
+   "lon": -9.139,
+   "start": "2027-09-17",
+   "end": "2027-09-25",
+   "month": 9,
+   "url": "https://queerlisboa.pt/",
+   "src": "https://queerlisboa.pt/en/call-for-entries",
+   "type": "fest",
+   "alt": [
+    "Lisboa",
+    "Lisbon"
+   ]
+  },
+  {
+   "name": "Chéries-Chéris (Filmfestival)",
+   "city": "Paris",
+   "cc": "FR",
+   "lat": 48.857,
+   "lon": 2.352,
+   "month": 11,
+   "url": "https://www.cheries-cheris.com/",
+   "last": "2026-11-14",
+   "src": "https://www.cheries-cheris.com/",
+   "type": "fest"
+  },
+  {
+   "name": "Rainbow Reykjavík (Winter Pride)",
+   "city": "Reykjavík",
+   "cc": "IS",
+   "lat": 64.146,
+   "lon": -21.942,
+   "start": "2027-03-04",
+   "end": "2027-03-07",
+   "month": 3,
+   "url": "https://www.pinkiceland.is",
+   "src": "https://www.pinkiceland.is/rainbow-reykjavik",
+   "type": "fest",
+   "alt": [
+    "Reykjavik"
+   ]
+  },
+  {
+   "name": "Mighty Hoopla",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.451,
+   "lon": -0.106,
+   "start": "2027-06-05",
+   "end": "2027-06-06",
+   "month": 6,
+   "url": "https://www.mightyhoopla.com",
+   "src": "https://www.mightyhoopla.com",
+   "type": "fest"
+  },
+  {
+   "name": "Fetish Week London",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.531,
+   "lon": -0.105,
+   "start": "2027-07-04",
+   "end": "2027-07-11",
+   "month": 7,
+   "url": "https://fetishweek.com",
+   "src": "https://fetishweek.com/",
+   "type": "fest",
+   "cat": "fetish"
+  },
+  {
+   "name": "BFI Flare (Filmfestival)",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.507,
+   "lon": -0.115,
+   "month": 3,
+   "url": "https://www.bfi.org.uk/flare",
+   "src": "https://www.bfi.org.uk/explore-our-festivals/submissions-are-now-open-2027-edition-bfi-flare-london-lgbtqia-film-festival",
+   "type": "fest"
+  },
+  {
+   "name": "Wilde Stages – Dublin Queer Theatre Festival",
+   "city": "Dublin",
+   "cc": "IE",
+   "lat": 53.35,
+   "lon": -6.26,
+   "start": "2027-05-03",
+   "end": "2027-05-16",
+   "month": 5,
+   "url": "https://www.gaytheatre.ie",
+   "src": "https://www.gaytheatre.ie/",
+   "type": "fest"
+  },
+  {
+   "name": "Sparkle Weekend",
+   "city": "Manchester",
+   "cc": "GB",
+   "lat": 53.476,
+   "lon": -2.236,
+   "month": 6,
+   "url": "https://www.sparkle.org.uk",
+   "last": "2026-06-26",
+   "src": "https://www.sparkle.org.uk/sparkleweekend",
+   "type": "fest"
+  },
+  {
+   "name": "L Fest",
+   "city": "Uttoxeter",
+   "cc": "GB",
+   "lat": 52.894,
+   "lon": -1.851,
+   "month": 7,
+   "url": "https://www.lfest.co.uk",
+   "last": "2026-07-17",
+   "src": "https://www.lfest.co.uk/basecamp-line-up",
+   "type": "fest",
+   "cat": "lesbian"
+  },
+  {
+   "name": "Brighton Bear Weekend",
+   "city": "Brighton",
+   "cc": "GB",
+   "lat": 50.822,
+   "lon": -0.137,
+   "month": 7,
+   "url": "https://brightonbearweekend.com",
+   "src": "https://brightonbearweekend.com/pages/about",
+   "type": "fest",
+   "cat": "bear"
+  },
+  {
+   "name": "Bastille Weekend (SLM København)",
+   "city": "Kopenhagen",
+   "cc": "DK",
+   "lat": 55.675,
+   "lon": 12.57,
+   "start": "2027-04-16",
+   "end": "2027-04-17",
+   "month": 4,
+   "url": "http://slm-cph.dk",
+   "src": "http://slm-cph.dk/event;158;Bastille_XXXVII",
+   "type": "fest",
+   "cat": "fetish",
+   "alt": [
+    "Copenhagen",
+    "København"
+   ]
+  },
+  {
+   "name": "Baltic Battle (SLM Stockholm)",
+   "city": "Stockholm",
+   "cc": "SE",
+   "lat": 59.329,
+   "lon": 18.069,
+   "month": 10,
+   "url": "https://balticbattle.se",
+   "last": "2026-10-07",
+   "src": "https://balticbattle.se",
+   "type": "fest",
+   "cat": "fetish"
+  },
+  {
+   "name": "Tallinn Bearty (Superbear)",
+   "city": "Tallinn",
+   "cc": "EE",
+   "lat": 59.437,
+   "lon": 24.754,
+   "month": 4,
+   "url": "https://www.bearty.org",
+   "last": "2026-04-16",
+   "src": "https://www.bearty.org/superbear-2027",
+   "type": "fest",
+   "cat": "bear",
+   "alt": [
+    "Reval"
+   ]
   }
  ]
 }
