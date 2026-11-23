@@ -1,12 +1,10 @@
 {
- "vc": 48,
- "vn": "1.0.48",
+ "vc": 49,
+ "vn": "1.0.49",
  "changes": [
-  "Neu und freiwillig: Konto unter Mehr › Konto. Anmelden mit Passkey oder Google, ohne E-Mail und Namen",
-  "Mit Konto werden deine Angaben zu Apps, Reisen, Favoriten und ausgeblendete Orte mit der Web-Version und deinen anderen Handys abgeglichen",
-  "Ohne Konto bleibt wie bisher alles nur auf dem Handy"
+  "Kopfbereich der Startseite schmaler, damit mehr auf einen Blick passt"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=1a6376fa5fc1934e",
- "size": 3690476,
- "sha256": "1a6376fa5fc1934e934722c4c0bce9af88c180d9f7ebc80c1cc172db63ba47bd"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=022e147c9973e412",
+ "size": 3692000,
+ "sha256": "022e147c9973e412ba89408e36c903d6953f2106055949d1015aeeedf2565d11"
 }
