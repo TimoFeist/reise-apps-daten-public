@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-22 21:33",
+ "version": "2026-11-23 09:49",
  "categories": [
   {
    "id": "entry",
@@ -525,10 +525,12 @@
      "mine": true
     },
     {
-     "name": "TicketmasterUK",
+     "name": "Ticketmaster",
      "cat": "tourism",
-     "pkg": "com.ticketmaster.mobile.android.uk",
-     "mine": true
+     "pkg": "com.ticketmaster.mobile.android.na",
+     "mine": true,
+     "note": "Globale Ticketmaster-App, Land UK wählbar",
+     "src": "https://www.ticketmaster.co.uk"
     },
     {
      "name": "Avanti West Coast",
@@ -537,10 +539,12 @@
      "mine": true
     },
     {
-     "name": "ScotRail",
+     "name": "ScotRail Trains",
      "cat": "rail",
-     "pkg": "com.firstscotrail",
-     "mine": true
+     "pkg": "uk.co.scotrail.app",
+     "mine": true,
+     "note": "Offizielle ScotRail-App",
+     "src": "https://play.google.com/store/apps/details?id=uk.co.scotrail.app&hl=en&gl=GB"
     },
     {
      "name": "UK ETA",
@@ -1679,18 +1683,18 @@
      ],
      "apps": [
       {
-       "name": "tpg+",
-       "cat": "transit",
-       "pkg": "ch.tpg.boldor",
-       "note": "Offizielle App der Genfer Verkehrsbetriebe mit E-Tickets",
-       "ess": true,
-       "src": "https://tpg.ch/en/tpgpreview-your-new-travel-assistant"
-      },
-      {
        "name": "Hello Geneva",
        "cat": "tourism",
        "note": "Offizielle Genf-App mit City Pass und Transport Card",
        "src": "https://www.geneve.com/fr/votre-sejour/hello-geneva-app"
+      },
+      {
+       "name": "tpg",
+       "cat": "transit",
+       "pkg": "ch.tpg.android",
+       "note": "Neue tpg-App mit Fahrplan und Ticketkauf",
+       "ess": true,
+       "src": "https://www.tpg.ch/fr/voyager/plus-de-mobilite/app"
       }
      ]
     },
@@ -2035,13 +2039,14 @@
      ],
      "apps": [
       {
-       "name": "Tarjeta Transporte Virtual",
+       "name": "Mi Tarjeta Transporte",
        "cat": "transit",
-       "pkg": "com.crtm.virtual",
-       "note": "Virtuelle Madrider ÖPNV-Karte",
+       "pkg": "com.crtm.integrated",
+       "note": "Neue CRTM-App für die Tarjeta Transporte",
        "mine": true,
        "use": "no",
-       "req": "Laut Quelle eingestellt"
+       "req": "Laut Quelle eingestellt",
+       "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/"
       },
       {
        "name": "Metro de Madrid",
@@ -2485,7 +2490,11 @@
        "name": "Roma Mobilità",
        "cat": "transit",
        "pkg": "com.rsm.muoversiaroma",
-       "mine": true
+       "mine": true,
+       "note": "Offizielle Webseite: ZTL, Verkehr, Streiks",
+       "url": "https://romamobilita.it/",
+       "src": "https://romamobilita.it/",
+       "nostore": true
       },
       {
        "name": "Cooltra",
@@ -5146,15 +5155,8 @@
        "name": "STIB-MIVB",
        "cat": "transit",
        "pkg": "be.stib.mivb.mobile",
-       "note": "Metro, Tram und Bus in Brüssel mit Live Abfahrten",
-       "src": "https://www.bento.travel/belgium"
-      },
-      {
-       "name": "Floya",
-       "cat": "transit",
-       "pkg": "brussels.stib_mivb.floya",
-       "note": "Routen planen und Tickets für Tram, Bus, Bahn und Räder",
-       "src": "https://www.kbcbrussels.be/retail/en/information/vehicle/apps-to-get-around-brussels.html"
+       "note": "Offizielle STIB-App, übernimmt Floya (endet 2026)",
+       "src": "https://www.brusselstimes.com/2194282/stib-set-to-scrap-floya-transport-app-following-scooter-ban-in-brussels"
       },
       {
        "name": "Poppy",
@@ -5322,12 +5324,14 @@
      "req": "Buchung und Fahrzeugzugang nur über die App"
     },
     {
-     "name": "CFL mobile",
+     "name": "CFL go",
      "cat": "rail",
-     "pkg": "de.hafas.android.cfl",
+     "pkg": "lu.cfl.cflgo",
      "mine": true,
      "use": "no",
-     "req": "Laut Quelle eingestellt"
+     "req": "Laut Quelle eingestellt",
+     "note": "Neue App der Luxemburger Bahn CFL",
+     "src": "https://chronicle.lu/category/rail/61157-cfl-launches-redesigned-cfl-go-mobile-app"
     },
     {
      "name": "LetzRide",
@@ -5465,10 +5469,14 @@
      "mine": true
     },
     {
-     "name": "My Polferries",
+     "name": "Polferries",
      "cat": "rail",
      "pkg": "pl.loyaltyclub.polferriescard",
-     "mine": true
+     "mine": true,
+     "note": "Keine App mehr, Buchung über die Webseite",
+     "url": "https://polferries.pl/",
+     "src": "https://polferries.pl/",
+     "nostore": true
     },
     {
      "name": "Uber",
@@ -6240,18 +6248,20 @@
      ],
      "apps": [
       {
-       "name": "Iraklio City Bus",
-       "cat": "transit",
-       "pkg": "com.threepi.android.iraklioinfo",
-       "note": "Stadtbusse in Heraklion mit Echtzeit und Routen",
-       "src": "https://www.heraklion.gr/en/ourplace/web-mobile-apps-for-heraklion"
-      },
-      {
-       "name": "Modern City Guide",
+       "name": "Heraklion Visitor",
        "cat": "tourism",
        "pkg": "com.Municipality.HeraklionGuide",
-       "note": "Städtischer Stadtführer mit Audiotouren",
-       "src": "https://www.heraklion.gr/en/ourplace/web-mobile-apps-for-heraklion"
+       "note": "Besucherportal der Gemeinde Heraklion",
+       "src": "https://www.heraklion.gr/en/ourplace/her-mobile-apps",
+       "url": "https://www.heraklion.gr/en/visitor",
+       "nostore": true
+      },
+      {
+       "name": "Astikes Syngoinonies Irakleiou",
+       "cat": "transit",
+       "pkg": "gr.citybus.urbantransit.irakleio",
+       "note": "Offizielle App des Stadtbus-Betreibers",
+       "src": "https://www.astiko-irakleiou.gr/"
       }
      ]
     },
@@ -6262,11 +6272,13 @@
      ],
      "apps": [
       {
-       "name": "Rhodes Public Transport",
+       "name": "Rhodes Bus Routes",
        "cat": "transit",
        "pkg": "gr.noveltech.cityguide.motivate",
-       "note": "Städtische App mit Busankünften und Routen",
-       "src": "https://site.rhodes.gr/?p=5410"
+       "note": "Gemeindeseite mit RODA-Linien und Fahrplänen",
+       "src": "https://site.rhodes.gr/bus-routes/",
+       "url": "https://site.rhodes.gr/bus-routes/",
+       "nostore": true
       }
      ]
     },
@@ -6621,11 +6633,11 @@
      ],
      "apps": [
       {
-       "name": "DaBus2",
+       "name": "HEA-TheBus",
        "cat": "transit",
-       "pkg": "gov.honolulu.dabus2",
-       "note": "Ankunftszeiten von TheBus auf Oahu",
-       "src": "https://manoa.hawaii.edu/commuter/thebus/"
+       "pkg": "org.thebus.hea.nteves",
+       "note": "Offizielle TheBus-App mit Live-Ankunftszeiten",
+       "src": "https://www.thebus.org/"
       }
      ]
     },
@@ -7091,8 +7103,8 @@
      "cat": "carshare",
      "pkg": "au.com.carnextdoor.app",
      "mine": true,
-     "use": "limited",
-     "req": "Führerschein vorab in der App prüfen lassen, Übersetzung falls nicht englisch"
+     "use": "no",
+     "req": "Laut Quelle eingestellt"
     },
     {
      "name": "Go City",
@@ -7120,10 +7132,14 @@
      "mine": true
     },
     {
-     "name": "Secure Parking",
+     "name": "Times PARKING",
      "cat": "parking",
      "pkg": "au.com.secureparking.production",
-     "mine": true
+     "mine": true,
+     "note": "Früher Secure Parking, Parkplätze online buchen",
+     "url": "https://www.times24.com.au/en-au/",
+     "src": "https://www.times24.com.au/en-au/",
+     "nostore": true
     },
     {
      "name": "eVisitor (ImmiAccount, Web)",
@@ -7672,11 +7688,13 @@
      "src": "https://ask.gov.sg/parkingsg/questions/clgok0nrb0003mk08hz8o8xy6"
     },
     {
-     "name": "Visit Singapore Travel Guide",
+     "name": "VisitSingapore.com",
      "cat": "tourism",
      "pkg": "sg.gov.stb.visitsingapore",
-     "note": "Offizieller Guide des Tourismusamts mit Routenideen",
-     "src": "https://appwisp.com/app/android/sg.gov.stb.visitsingapore"
+     "note": "Offizieller Reiseführer als Webseite",
+     "src": "https://www.visitsingapore.com/travel-guide-tips/visit-singapore-travel-guide-app/",
+     "url": "https://www.visitsingapore.com/",
+     "nostore": true
     },
     {
      "name": "myENV",
@@ -10620,11 +10638,13 @@
        "src": "https://www.metrorio.com.br/como-pagar/meios-e-tarifas"
       },
       {
-       "name": "visit.rio",
+       "name": "Visit Rio",
        "cat": "tourism",
        "pkg": "com.ionicframework.visitrioapp832818",
-       "note": "Offizielle Tourismus-App der Stadt Rio",
-       "src": "https://riotur.rio/app/"
+       "note": "Offizielles Tourismusportal von Rio",
+       "src": "https://www.panrotas.com.br/mercado/destinos/2023/09/visit-rio-lanca-nova-marca-na-abav-expo-e-aposta-no-digital_199998.html",
+       "url": "https://visitrio.com.br/",
+       "nostore": true
       },
       {
        "name": "Passeio Carioca",
@@ -11044,16 +11064,9 @@
      "name": "IAATO Antarctic Expedition App",
      "cat": "tourism",
      "pkg": "com.iaatoprod",
-     "note": "Offizielle Besucherregeln und Infos, auch offline",
+     "note": "Offizielle App des Antarktis-Reiseverbands IAATO",
      "ess": true,
-     "src": "https://play.google.com/store/apps/details?id=com.iaatoprod&hl=en_US"
-    },
-    {
-     "name": "IAATO Polar Guide: Antarctica",
-     "cat": "tourism",
-     "pkg": "com.softwarethinking.iaato.guideantarctica",
-     "note": "Ältere IAATO-Referenz zu Regeln und Tieren, Stand 2024",
-     "src": "https://appwisp.com/app/android/com.softwarethinking.iaato.guideantarctica"
+     "src": "https://iaato.org/node/76988"
     },
     {
      "name": "HX",
@@ -11108,17 +11121,17 @@
      "src": "https://www.nps.gov/subjects/digital/nps-apps.htm"
     },
     {
-     "name": "Hawaiian Airlines",
-     "cat": "flights",
-     "pkg": "com.hawaiianairlines.app",
-     "note": "Buchung, Check-in und Bordkarte für Flüge nach Pago Pago",
-     "src": "https://play.google.com/store/apps/details?id=com.hawaiianairlines.app&hl=en_NZ"
-    },
-    {
      "name": "Talofa Eats",
      "cat": "delivery",
      "note": "Lokaler Essenslieferdienst auf Tutuila, Zahlung per Karte",
      "src": "https://apps.apple.com/us/app/talofa-eats/id1621982780"
+    },
+    {
+     "name": "Alaska Hawaiian",
+     "cat": "flights",
+     "pkg": "com.alaskaairlines.android",
+     "note": "Gemeinsame App von Alaska und Hawaiian Airlines",
+     "src": "https://news.alaskaair.com/guest-experience/alaska-airlines-and-hawaiian-airlines-app/"
     }
    ],
    "cities": [],
@@ -12714,11 +12727,11 @@
        "src": "https://colombiamove.com/blog/es/colombia-city-bike-share-encicla-tembici-expat-guide/"
       },
       {
-       "name": "Metro de Medellín",
+       "name": "Cívica (Metro de Medellín)",
        "cat": "transit",
-       "pkg": "co.gov.metrodemedellin",
-       "note": "Offizielle Metro-App: Routen, Linienstatus, Cívica-Saldo",
-       "src": "https://metrodemedellin.gov.co/en/al-dia/descarga-nuestra-app"
+       "pkg": "co.gov.metromedellin.appCivicanew",
+       "note": "Offizielle Metro-App: QR-Fahrkarte und Infos",
+       "src": "https://www.metrodemedellin.gov.co/"
       }
      ]
     }
@@ -13695,13 +13708,6 @@
       "Tokyo"
      ],
      "apps": [
-      {
-       "name": "Tokyo Metro For Tourists",
-       "cat": "transit",
-       "pkg": "li.yapp.app2FB432B4",
-       "note": "Ausflugsziele entlang der Tokyo Metro nach Interessen",
-       "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
-      },
       {
        "name": "Disaster Preparedness Tokyo",
        "cat": "safety",
@@ -15966,9 +15972,9 @@
       {
        "name": "Visiting Jogja",
        "cat": "tourism",
-       "pkg": "com.visitingjogja",
-       "note": "Offizieller Reiseführer mit Ticketreservierung",
-       "src": "https://visitingjogja.jogjaprov.go.id/en/17959/a-guide-to-using-jogja-apps/"
+       "pkg": "id.go.jogjaprov.visitingjogja",
+       "note": "Tourismus-App der Provinz Yogyakarta",
+       "src": "https://play.google.com/store/apps/details?id=id.go.jogjaprov.visitingjogja&hl=en&gl=ID"
       }
      ]
     }
@@ -18787,16 +18793,20 @@
        "name": "Tanéo",
        "cat": "transit",
        "pkg": "nc.smtu.taneo",
-       "note": "Offizielle Bus-App für den Großraum Nouméa",
+       "note": "Netzplan, Fahrpläne und Echtzeit im Web",
        "ess": true,
-       "src": "https://www.taneo.nc/application-mobile/"
+       "src": "https://www.taneo.nc/",
+       "url": "https://www.taneo.nc/",
+       "nostore": true
       },
       {
-       "name": "Taneo e-ticket",
+       "name": "Tanéo Boutique en ligne",
        "cat": "transit",
        "pkg": "com.actoll.tpass.taneo",
-       "note": "Bustickets für das Tanéo-Netz auf dem Handy kaufen",
-       "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.taneo&hl=en_US"
+       "note": "PASS-Karte online aufladen",
+       "src": "https://www.taneo.nc/taneo-et-vous/faq",
+       "url": "https://www.taneo.nc/boutique-en-ligne",
+       "nostore": true
       },
       {
        "name": "Zygo",
@@ -21378,13 +21388,6 @@
        "src": "https://nationalcar.com/en/car-rental-locations/mp/garapan-grandvrio-resort-j9m2.html"
       },
       {
-       "name": "Walt's DiscoverSaipan Tour App",
-       "cat": "tourism",
-       "pkg": "com.discoversaipan.saipanwaysidestour",
-       "note": "Selbstgeführte GPS-Tour zu historischen Stätten auf Saipan",
-       "src": "https://www.mvariety.com/?p=51311"
-      },
-      {
        "name": "Saipan Travels",
        "cat": "tourism",
        "pkg": "com.ldi.saipan",
@@ -21400,11 +21403,13 @@
      ],
      "apps": [
       {
-       "name": "DiscoverTinian Waysides Tour",
+       "name": "DiscoverTinian Tour (Web-App)",
        "cat": "tourism",
        "pkg": "com.discoversaipan.tinianwaysidestour",
-       "note": "Infotafeln und GPS-Punkte der Sehenswürdigkeiten auf Tinian",
-       "src": "https://www.discoversaipan.com/tourapps/"
+       "note": "Tinian-Rundgang als Web-App ohne Download",
+       "src": "https://www.discoversaipan.com/shop/tinian-tour-app/",
+       "url": "https://www.discoversaipan.com/shop/tinian-tour-app/",
+       "nostore": true
       }
      ]
     }
@@ -25274,10 +25279,12 @@
      "name": "Kaiian",
      "cat": "taxi",
      "pkg": "com.multibrains.taxi.passenger.kayantaxi",
-     "note": "Regionale Taxi-App in über 60 Orten, nur als Notlösung",
+     "note": "Taxi in Saudi-Arabien, Buchung über die Webseite",
      "use": "limited",
      "req": "Bestätigungscode an ausländische Nummer kann scheitern, Fahrer verlangen teils Bargeld",
-     "src": "https://www.bento.travel/saudi-arabia/ride-hailing"
+     "src": "https://appgoblin.info/apps/com.multibrains.taxi.passenger.kayantaxi",
+     "url": "https://kaiian.com",
+     "nostore": true
     },
     {
      "name": "HungerStation",
@@ -26714,19 +26721,19 @@
      ],
      "apps": [
       {
-       "name": "Alternéo",
-       "cat": "transit",
-       "pkg": "fr.cityway.android_v2.alterneo",
-       "note": "Stadtbusse im Süden mit Fahrplänen und Routen",
-       "src": "https://appgoblin.info/apps/fr.cityway.android_v2.alterneo"
-      },
-      {
        "name": "alterVélo libre service",
        "cat": "micro",
        "note": "E-Leihräder an Stationen, per Handy entsperren",
        "use": "limited",
        "req": "Konto und Abo in der App nötig",
        "src": "https://apps.apple.com/us/app/id6469518435"
+      },
+      {
+       "name": "M-Ticket Alternéo",
+       "cat": "transit",
+       "pkg": "com.actoll.tpass.alterneo",
+       "note": "Offizielle Handyticket-App des Alternéo-Netzes",
+       "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.alterneo&hl=fr&gl=FR"
       }
      ]
     }
@@ -30125,14 +30132,6 @@
      "pkg": "ba.promotim.centrotrans",
      "note": "Fernbustickets dieses Busunternehmens online kaufen",
      "src": "https://www.bento.travel/bosnia-and-herzegovina"
-    },
-    {
-     "name": "BH Mine Suspected Areas",
-     "cat": "safety",
-     "pkg": "com.bhminesuspectedareas",
-     "note": "Offizielle Karte minenverdächtiger Gebiete, nur zur Orientierung",
-     "ess": true,
-     "src": "https://www.bento.travel/bosnia-and-herzegovina"
     }
    ],
    "cities": [
@@ -30890,13 +30889,6 @@
      ],
      "apps": [
       {
-       "name": "Dinebook",
-       "cat": "delivery",
-       "pkg": "com.braind.dinebook",
-       "note": "Restaurants und Cafés finden und Tische reservieren",
-       "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
-      },
-      {
        "name": "Telcell Wallet",
        "cat": "transit",
        "note": "Digitale QR Tickets für Bus und Metro in Jerewan",
@@ -31238,13 +31230,6 @@
      "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
     },
     {
-     "name": "Viva Cy",
-     "cat": "taxi",
-     "pkg": "vivacy.taxi",
-     "note": "Lokaler Taxidienst mit Büro in Limassol",
-     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
-    },
-    {
      "name": "inDrive",
      "cat": "taxi",
      "note": "Fahrdienst, bei dem man den Preis vorschlägt",
@@ -31315,15 +31300,6 @@
      "src": "https://cyprus.nextbike.com.cy/about"
     },
     {
-     "name": "Take A Ride",
-     "cat": "micro",
-     "pkg": "com.hemed.takeride",
-     "note": "E-Scooter zum Ausleihen innerhalb einer Zone",
-     "use": "limited",
-     "req": "Mindestalter 17, Helm ist Pflicht",
-     "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
-    },
-    {
      "name": "Samokat",
      "cat": "micro",
      "note": "E-Scooter mit festen Stationen in Limassol und Nikosia",
@@ -31345,6 +31321,13 @@
      "note": "Staatliche App mit Schutzräumen und Warnungen des Zivilschutzes",
      "ess": true,
      "src": "https://cyprus-mail.com/2026/03/11/safecy-app-upgraded-to-send-urgent-alerts-170000-downloads-so-far"
+    },
+    {
+     "name": "VivaCy Taxi",
+     "cat": "taxi",
+     "pkg": "taxi.vivacy.client",
+     "note": "Taxi-App für Zypern",
+     "src": "https://vivacy.taxi/"
     }
    ],
    "cities": [
@@ -31369,17 +31352,7 @@
      "match": [
       "Limassol"
      ],
-     "apps": [
-      {
-       "name": "ScooBee",
-       "cat": "micro",
-       "pkg": "com.myscoobee",
-       "note": "E-Scooter Verleih nur in Limassol",
-       "use": "limited",
-       "req": "Mindestalter 17, Helm ist Pflicht",
-       "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
-      }
-     ]
+     "apps": []
     },
     {
      "name": "Nicosia",
@@ -32557,8 +32530,10 @@
      "name": "Ariana Afghan Airlines",
      "cat": "flights",
      "pkg": "com.ariana.ariana",
-     "note": "Flüge der staatlichen Airline suchen, buchen, Status",
-     "src": "https://appgoblin.info/apps/com.ariana.ariana"
+     "note": "Offizielle Airline-Webseite mit Buchung",
+     "src": "https://flyariana.af/",
+     "url": "https://flyariana.af/",
+     "nostore": true
     },
     {
      "name": "Kam Air",
@@ -33682,14 +33657,6 @@
    "flag": "🇬🇬",
    "apps": [
     {
-     "name": "buses.gg",
-     "cat": "transit",
-     "pkg": "travel.ticketless.app.busesgg",
-     "note": "Busplaner mit Live-Positionen und Haltestelleninfos",
-     "ess": true,
-     "src": "https://www.visitguernsey.com/planning/getting-around/buses-and-coaches/"
-    },
-    {
      "name": "Guernsey Taxi App",
      "cat": "taxi",
      "pkg": "com.taxicaller.GuernseyTaxiApp.app",
@@ -33742,6 +33709,14 @@
      "cat": "delivery",
      "note": "Lebensmittel am selben oder nächsten Tag geliefert",
      "src": "https://retailtechinnovationhub.com/category/grocery-delivery/snappy-shopper-and-alliance-supermarket-team-up-to-launch-same-day-delivery-service-in-guernsey"
+    },
+    {
+     "name": "Buses gg",
+     "cat": "transit",
+     "pkg": "travel.ticketless.app.guernsey",
+     "note": "Neue offizielle Bus-App für Guernsey",
+     "ess": true,
+     "src": "https://buses.gg/"
     }
    ],
    "cities": [],
@@ -35109,23 +35084,27 @@
    "flag": "🇮🇷",
    "apps": [
     {
-     "name": "Snapp!",
+     "name": "Snapp",
      "cat": "taxi",
      "pkg": "cab.snapp.passenger.play",
-     "note": "Größter Fahrdienst, englisches Menü, Zahlung auch bar",
+     "note": "Snapp-Web-App, Android über Bazaar oder Myket",
      "ess": true,
      "use": "no",
      "req": "Iranische Telefonnummer zur Bestätigung nötig",
-     "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+     "src": "https://app.snapp.taxi/",
+     "url": "https://app.snapp.taxi/",
+     "nostore": true
     },
     {
      "name": "Tapsi",
      "cat": "taxi",
      "pkg": "taxi.tap30.passenger.play",
-     "note": "Fahrdienst mit englischer Oberfläche",
+     "note": "Tapsi-Webseite und Web-App app.tapsi.cab",
      "use": "no",
      "req": "Iranische Telefonnummer für SMS-Code nötig",
-     "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+     "src": "https://app.tapsi.cab/",
+     "url": "https://tapsi.cab/",
+     "nostore": true
     },
     {
      "name": "Maxim",
@@ -35139,19 +35118,23 @@
      "name": "SnappFood",
      "cat": "delivery",
      "pkg": "com.zoodfood.android",
-     "note": "Essen aus vielen Läden bestellen, Bezahlung auch bar",
+     "note": "Essenslieferung im Web, App über Bazaar",
      "use": "limited",
      "req": "Onlinezahlung nur mit iranischer Bankkarte",
-     "src": "https://cafebazaar.ir/app/com.zoodfood.android?l=en"
+     "src": "https://snappfood.ir/",
+     "url": "https://snappfood.ir/",
+     "nostore": true
     },
     {
      "name": "Alibaba",
      "cat": "rail",
      "pkg": "ir.alibaba",
-     "note": "Zug, Bus, Inlandsflüge und Hotels in Iran buchen",
+     "note": "Bahn-, Flug- und Busbuchung im Web",
      "use": "no",
      "req": "Zahlung nur online in Rial mit iranischer Karte",
-     "src": "https://cafebazaar.ir/app/ir.alibaba?l=en"
+     "src": "https://www.alibaba.ir/",
+     "url": "https://www.alibaba.ir/",
+     "nostore": true
     },
     {
      "name": "Neshan Map",
@@ -35176,13 +35159,15 @@
      ],
      "apps": [
       {
-       "name": "MyTehran",
+       "name": "MyTehran (Tehran-e Man)",
        "cat": "transit",
        "pkg": "com.mytehran",
-       "note": "App der Stadt: Metrotickets, Fahrkarte aufladen, Parken",
+       "note": "Stadtdienste Teheran, App über Cafe Bazaar",
        "use": "limited",
        "req": "Zahlungen nur mit iranischer Bankkarte",
-       "src": "https://cafebazaar.ir/app/com.mytehran?l=en"
+       "src": "https://cafebazaar.ir/app/com.mytehran?l=en",
+       "url": "https://mytehran.ir/",
+       "nostore": true
       }
      ]
     }
@@ -35242,24 +35227,15 @@
      "name": "Yandex Go",
      "cat": "taxi",
      "pkg": "ru.yandex.taxi",
-     "note": "Wichtigste Taxi-App, auch Lieferung, Englisch",
+     "note": "Uber KZ ist in Yandex Go aufgegangen",
      "ess": true,
-     "use": "limited",
-     "req": "SMS-Bestätigung nötig, mit reiner Daten-eSIM schwierig",
-     "src": "https://www.bento.travel/kazakhstan"
+     "src": "https://www.themoscowtimes.com/2017/07/13/tech-giant-yandex-mergers-uber-a58386/pdf"
     },
     {
      "name": "inDrive",
      "cat": "taxi",
      "pkg": "sinet.startup.inDriver",
      "note": "Taxi mit eigenem Preisvorschlag",
-     "src": "https://www.bento.travel/kazakhstan"
-    },
-    {
-     "name": "Uber KZ",
-     "cat": "taxi",
-     "pkg": "ru.yandex.uber_kz",
-     "note": "Eigene Uber-App für Kasachstan",
      "src": "https://www.bento.travel/kazakhstan"
     },
     {
@@ -36190,15 +36166,6 @@
      ],
      "apps": [
       {
-       "name": "CaCa Taxi",
-       "cat": "taxi",
-       "pkg": "com.myan.caca",
-       "note": "Lokale Taxi-App als Ersatz in Yangon",
-       "use": "limited",
-       "req": "Registrierung laut Quelle unklar, Zahlung bar in Kyat",
-       "src": "https://bento.travel/myanmar/ride-hailing"
-      },
-      {
        "name": "GrabFood",
        "cat": "delivery",
        "note": "Essenslieferung in zentralen Stadtteilen",
@@ -36212,6 +36179,15 @@
        "pkg": "com.linndev.easyybs",
        "note": "Busrouten und Haltestellen in Yangon",
        "src": "https://www.bento.travel/myanmar"
+      },
+      {
+       "name": "GoBee",
+       "cat": "taxi",
+       "pkg": "app.gobee.user",
+       "note": "CaCa Taxi heißt jetzt GoBee",
+       "use": "limited",
+       "req": "Registrierung laut Quelle unklar, Zahlung bar in Kyat",
+       "src": "https://cacataxi.com/"
       }
      ]
     }
