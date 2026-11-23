@@ -1,12 +1,13 @@
 {
- "vc": 57,
- "vn": "1.0.57",
+ "vc": 58,
+ "vn": "1.0.58",
  "changes": [
-  "Unten zwei eigene Knöpfe: „Events“ (Veranstaltungen und Pride & CSD mit Umschalter) und „Räume“",
-  "„Räume“ zeigt alle Chaträume, in denen in den letzten 24 Stunden geschrieben wurde",
-  "Beide Knöpfe erscheinen nur, wenn LGBTQ+ nicht ausgeblendet ist"
+  "Events: Suche direkt über der Liste und Anzahl der Treffer, mit Knopf „Filter zurücksetzen“",
+  "Neue Filter: Zeitraum (7 Tage, 30 Tage, 3 Monate), Region nach Kontinent und Umkreis bis 100, 300 oder 1000 km",
+  "Neue Sortierung nach Name und „Aktive Chats zuerst“, der Chat-Knopf zeigt die Zahl der Nachrichten",
+  "Liste nach Datum mit Monats-Überschriften"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=68fdd0c738dbc8ff",
- "size": 3844689,
- "sha256": "68fdd0c738dbc8ff97203ea504cf3d653589ce5f8e1540a6284d421e12084908"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=c2475aba2c891910",
+ "size": 3871681,
+ "sha256": "c2475aba2c89191046542bdad1fdec396886b1c541d27346b866c1a33b2653be"
 }
