@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/dominicasicherheit-220300",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Nur mit Reisepass einreisen und die ED Card online ausfüllen. Zum Autofahren ist eine lokale Fahrerlaubnis nötig.",
  "lgbtq_note": "Seit einem Gerichtsurteil von 2024 sind einvernehmliche gleichgeschlechtliche Handlungen unter Erwachsenen nicht mehr strafbar.",
@@ -21,7 +21,7 @@
   {
    "name": "Shaufa",
    "cat": "taxi",
-   "pkg": "",
+   "pkg": "com.meemcolart.shuafa.passenger",
    "ess": false,
    "note": "Lokale Taxi-App mit GPS-Verfolgung der Fahrt",
    "city": "",
@@ -43,7 +43,7 @@
   {
    "name": "MLajan Wallet",
    "cat": "payment",
-   "pkg": "",
+   "pkg": "com.mlajan.wallet",
    "ess": false,
    "note": "Erste mobile Geldbörse der Insel, Zahlen per QR-Code",
    "city": "",
@@ -61,6 +61,65 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/app/id1152864475"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/dominica-node/dominicasicherheit-220300"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "de.diplo.elefand",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/dominica-node/dominicasicherheit-220300"
+  },
+  {
+   "name": "National Hurricane Center",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Hurrikanwarnungen und Sturmbahnen, englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.nhc.noaa.gov/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/dominica-node/dominicasicherheit-220300"
+  },
+  {
+   "name": "Ride767",
+   "cat": "taxi",
+   "pkg": "com.ride767.app",
+   "ess": false,
+   "note": "Fahrdienst mit vorab vereinbartem Preis, Barzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.ride767.app"
+  },
+  {
+   "name": "FRS Express des Îles",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Schnellfähre nach Guadeloupe, Martinique, St. Lucia",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.frs-express.com/",
+   "nostore": true,
+   "src": "https://www.frs-express.com/"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Einreise nur mit Reisepass, nicht mit Personalausweis; auf Bonaire die Visitor Entry Tax von 75 USD vorab online zahlen.",
  "lgbtq_note": "Laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende und keine strafrechtlichen Einschränkungen.",
@@ -65,13 +65,74 @@
   {
    "name": "Bonaire Cruisers",
    "cat": "tourism",
-   "pkg": "",
+   "pkg": "com.bonaire.cruiser",
    "ess": false,
    "note": "Audio-Inseltour mit Offline-Karte, nur für iPhone",
    "city": "",
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/nl/app/id6745404102"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "de.diplo.elefand",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084"
+  },
+  {
+   "name": "National Hurricane Center",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Hurrikanwarnungen und Sturmbahnen, englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.nhc.noaa.gov/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084"
+  },
+  {
+   "name": "Winair",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge nach Saba und Statia ab Sint Maarten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.winair.sx/",
+   "nostore": true,
+   "src": "https://www.sabatourism.com/getting-here"
+  },
+  {
+   "name": "Makana Ferry",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähre zwischen Saba, Statia, St. Kitts und Sint Maarten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://makanaferryservice.com/",
+   "nostore": true,
+   "src": "https://www.sabatourism.com/getting-here"
   }
  ]
 }

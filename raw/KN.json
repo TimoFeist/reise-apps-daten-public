@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stkittsundnevissicherheit-226596",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Vor der Reise ist eine kostenpflichtige eTA nötig, am besten etwa 14 Tage vorher online beantragen.",
  "lgbtq_note": "Das gesetzliche Verbot homosexueller Handlungen wurde 2022 vom Eastern Caribbean Supreme Court für einvernehmliche Handlungen Erwachsener im privaten Raum für verfassungswidrig erklärt, Strafverfolgungen sind seit Jahren nicht bekannt.",
@@ -21,7 +21,7 @@
   {
    "name": "Sicher Reisen",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "com.aa_app.ui",
    "ess": false,
    "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
    "city": "",
@@ -32,7 +32,7 @@
   {
    "name": "Elefand",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "de.diplo.elefand",
    "ess": false,
    "note": "Krisenvorsorgeliste für Deutsche im Ausland",
    "city": "",
@@ -43,7 +43,7 @@
   {
    "name": "SKN Transit",
    "cat": "rail",
-   "pkg": "",
+   "pkg": "skntransit.com",
    "ess": true,
    "note": "Fährpläne zwischen St. Kitts und Nevis, Plätze buchen",
    "city": "",
@@ -54,7 +54,7 @@
   {
    "name": "DROP: SKN Ride Hailing",
    "cat": "taxi",
-   "pkg": "",
+   "pkg": "dropskn.ride.hailing.caribbean.passenger",
    "ess": false,
    "note": "Lokaler Fahrdienst mit Festpreis, bar oder per Karte",
    "city": "",
@@ -65,7 +65,7 @@
   {
    "name": "SKNCabs",
    "cat": "taxi",
-   "pkg": "",
+   "pkg": "com.sknCabs.android",
    "ess": false,
    "note": "Fahrten und Flughafentransfers auf ganz St. Kitts",
    "city": "",
@@ -83,6 +83,17 @@
    "use": "limited",
    "req": "Lokale Fahrerlaubnis für 25 USD am Schalter nötig",
    "src": "https://www.hertz.com/us/en/location/saintkittsandnevis/basseterre/skbo60"
+  },
+  {
+   "name": "CaribeEats",
+   "cat": "delivery",
+   "pkg": "com.caribeeats.consumer",
+   "ess": false,
+   "note": "Lieferdienst für Restaurants und Supermärkte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/kn/app/caribeeats/id1462589124"
   }
  ]
 }

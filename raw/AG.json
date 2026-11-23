@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Der deutsche Führerschein reicht nicht, ein Urlaubsführerschein kostet etwa 50 XCD bei Polizei oder Mietwagenfirma.",
  "lgbtq_note": "Einvernehmliche gleichgeschlechtliche Handlungen sind nicht mehr strafbar, offene Zärtlichkeiten in der Öffentlichkeit können aber negative Aufmerksamkeit erregen.",
@@ -10,7 +10,7 @@
   {
    "name": "Swyft Taxi",
    "cat": "taxi",
-   "pkg": "",
+   "pkg": "com.getweys.swyft",
    "ess": true,
    "note": "Erste Fahrdienst-App, Fahrer mit Taxilizenz",
    "city": "",
@@ -32,7 +32,7 @@
   {
    "name": "AllMart",
    "cat": "delivery",
-   "pkg": "",
+   "pkg": "com.allmart.customer",
    "ess": false,
    "note": "Lokaler Lieferdienst für Essen und Einkäufe",
    "city": "",
@@ -61,6 +61,76 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/ag/app/subway-antigua/id1613950773"
+  },
+  {
+   "name": "ArriveAntigua",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Einreiseformular online, ab 72 h vor Ankunft",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://arriveantigua.com/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "de.diplo.elefand",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042"
+  },
+  {
+   "name": "National Hurricane Center",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Hurrikanwarnungen und Sturmbahnen, englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.nhc.noaa.gov/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/antiguaundbarbuda-node/antiguaundbarbudasicherheit-227042"
+  },
+  {
+   "name": "AllMart Rides",
+   "cat": "taxi",
+   "pkg": "com.product.allmart",
+   "ess": false,
+   "note": "Taxi per App auf Antigua bestellen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/ag/app/allmart-rides-book-taxis/id6759591646"
+  },
+  {
+   "name": "Liat Air",
+   "cat": "flights",
+   "pkg": "com.hititcs.liat20",
+   "ess": false,
+   "note": "Regionalflüge ab Antigua in der Karibik buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.caribjournal.com/2026/05/10/antigua-guadeloupe-flights-liat/"
   }
  ]
 }

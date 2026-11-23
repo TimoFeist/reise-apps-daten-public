@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "Stand: 18.11.2026 (Auswärtiges Amt)",
  "note": "Das Auswärtige Amt warnt vor Reisen nach Haiti. Der Flughafen Port-au-Prince ist geschlossen, Flüge nur eingeschränkt über Cap-Haïtien.",
  "lgbtq_note": "Laut Auswärtigem Amt herrscht latente Homophobie, gegen Ausländer gerichtete Diskriminierung im Alltag ist aber nicht bekannt.",
@@ -21,7 +21,7 @@
   {
    "name": "Sicher Reisen",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "com.aa_app.ui",
    "ess": true,
    "note": "Reisewarnung und Hinweise des Auswärtigen Amts",
    "city": "",
@@ -43,7 +43,7 @@
   {
    "name": "PlopPlop",
    "cat": "taxi",
-   "pkg": "",
+   "pkg": "product.customer.plop",
    "ess": false,
    "note": "Taxi, Motorrad und Lieferung in Jacmel, Cap und Les Cayes",
    "city": "",
@@ -65,13 +65,37 @@
   {
    "name": "Natcash (Natcom)",
    "cat": "payment",
-   "pkg": "",
+   "pkg": "com.natcash",
    "ess": false,
    "note": "Mobiles Geld von Natcom, auch QR-Zahlung bei Händlern",
    "city": "",
    "use": "limited",
    "req": "Identitätsprüfung nötig, Bedingungen für Ausländer unklar",
    "src": "https://apps.apple.com/app/id1613464862"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "de.diplo.elefand",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048"
+  },
+  {
+   "name": "National Hurricane Center",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Hurrikanwarnungen und Sturmbahnen, englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.nhc.noaa.gov/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048"
   }
  ]
 }

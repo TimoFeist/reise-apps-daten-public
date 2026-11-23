@@ -1,6 +1,6 @@
 {
  "src": "https://visitmontserrat.com/sea",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Die Fähre ab Antigua ist bis auf Weiteres eingestellt. Taxis haben kein Taxameter, daher den Preis vor der Fahrt vereinbaren.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, gleichgeschlechtliche Ehen werden nicht anerkannt und die Gesellschaft gilt als sehr konservativ.",
@@ -50,6 +50,41 @@
    "use": "no",
    "req": "Ausweis aus Montserrat nötig",
    "src": "https://apps.apple.com/app/id1580826404"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "de.diplo.elefand",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/grossbritanniensicherheit-206408"
+  },
+  {
+   "name": "Montserrat Volcano Observatory",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Vulkanwarnstufe und Sperrzonen des Soufrière Hills",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.mvo.ms/",
+   "nostore": true,
+   "src": "https://www.mvo.ms/"
   }
  ]
 }

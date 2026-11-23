@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Bei Anreise über Kanada ist eine eTA nötig, seit Juni 2026 auch für die Fähre nach Fortune.",
  "lgbtq_note": "Es gelten keine besonderen Strafbestimmungen, das Auswärtige Amt nennt für Frankreich und seine Überseegebiete keine besonderen Schwierigkeiten.",
@@ -10,7 +10,7 @@
   {
    "name": "SPM Exceptions",
    "cat": "tourism",
-   "pkg": "",
+   "pkg": "francetouristic.saintpierre2.activities",
    "ess": true,
    "note": "Offizielle Inselinfos, Touren, Events und Fährhinweise",
    "city": "",
@@ -54,7 +54,7 @@
   {
    "name": "Sicher Reisen",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "com.aa_app.ui",
    "ess": false,
    "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
    "city": "",
@@ -65,13 +65,37 @@
   {
    "name": "Elefand",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "de.diplo.elefand",
    "ess": false,
    "note": "Krisenvorsorgeliste für Deutsche im Ausland",
    "city": "",
    "use": "ok",
    "req": "",
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/frankreichsicherheit-209524"
+  },
+  {
+   "name": "SPM Ferries",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fähren nach Fortune und Miquelon, Online-Billetterie",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.spm-ferries.fr/",
+   "nostore": true,
+   "src": "https://en.spm-tourisme.fr/stay/getting-here/"
+  },
+  {
+   "name": "Météo-France",
+   "cat": "safety",
+   "pkg": "fr.meteo",
+   "ess": false,
+   "note": "Wetter und Unwetterwarnungen für die Überseegebiete",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://meteofrance.com/actualites-et-dossiers/la-vigilance-meteorologique-en-outre-mer"
   }
  ]
 }

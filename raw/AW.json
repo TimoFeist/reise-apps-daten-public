@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Vor der Reise die digitale ED-Karte ausfüllen, Einreise nur mit Reisepass, nicht mit Personalausweis.",
  "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
@@ -21,7 +21,7 @@
   {
    "name": "Aruba Taxi App",
    "cat": "taxi",
-   "pkg": "",
+   "pkg": "product.customer.aruba",
    "ess": true,
    "note": "Lizenzierte Taxis buchen, offizieller Tarif plus 4 USD",
    "city": "",
@@ -32,7 +32,7 @@
   {
    "name": "Aruba To You",
    "cat": "delivery",
-   "pkg": "",
+   "pkg": "com.customer.aruba",
    "ess": false,
    "note": "Essenslieferung von Restaurants der Insel, nur bargeldlos",
    "city": "",
@@ -43,7 +43,7 @@
   {
    "name": "Vapvap Eats",
    "cat": "delivery",
-   "pkg": "",
+   "pkg": "com.vapvap.eats",
    "ess": false,
    "note": "Essen und Einkäufe liefern lassen oder abholen",
    "city": "",
@@ -54,7 +54,7 @@
   {
    "name": "Ride Green Bike",
    "cat": "micro",
-   "pkg": "",
+   "pkg": "com.greenbike.android",
    "ess": false,
    "note": "Leih-E-Fahrzeuge per QR-Code entsperren, auch Tagespass",
    "city": "",
@@ -76,13 +76,61 @@
   {
    "name": "myAruba",
    "cat": "tourism",
-   "pkg": "",
+   "pkg": "com.visitwidget.aruba",
    "ess": false,
    "note": "Offizielle Reiseplanungs-App der Tourismusbehörde",
    "city": "",
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/myaruba/id1616045046"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "de.diplo.elefand",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084"
+  },
+  {
+   "name": "National Hurricane Center",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Hurrikanwarnungen und Sturmbahnen, englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://www.nhc.noaa.gov/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084"
+  },
+  {
+   "name": "Taxi.aw",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizieller Taxipreisrechner der Regierung Arubas",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "url": "https://taxi.aw/",
+   "nostore": true,
+   "src": "https://www.gobierno.aw/en/taxiaw-the-official-government-platform-for-taxi-fares"
   }
  ]
 }

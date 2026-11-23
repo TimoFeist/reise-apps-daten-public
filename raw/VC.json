@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/stvincentunddiegrenadinensicherheit-226268",
- "fetched": "2026-11-18",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Einreise visumfrei bis 6 Monate mit Reisepass, der 6 Monate gültig ist; Rück- oder Weiterflug nötig.",
  "lgbtq_note": "Homosexuelle Handlungen sind strafbar, der High Court hat die Gesetze 2024 bestätigt; Fälle von Strafverfolgung sind laut Auswärtigem Amt nicht bekannt.",
@@ -10,7 +10,7 @@
   {
    "name": "Sicher Reisen",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "com.aa_app.ui",
    "ess": false,
    "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
    "city": "",
@@ -21,7 +21,7 @@
   {
    "name": "Elefand",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "de.diplo.elefand",
    "ess": false,
    "note": "Krisenvorsorgeliste für Deutsche im Ausland",
    "city": "",
@@ -32,7 +32,7 @@
   {
    "name": "BeamX",
    "cat": "taxi",
-   "pkg": "",
+   "pkg": "com.beamx.app",
    "ess": true,
    "note": "Lokaler Fahrdienst, nur auf St. Vincent verfügbar",
    "city": "",
@@ -65,13 +65,35 @@
   {
    "name": "KariBites",
    "cat": "delivery",
-   "pkg": "",
+   "pkg": "com.karibites",
    "ess": false,
    "note": "Essen liefern lassen oder vorab bestellen",
    "city": "",
    "use": "limited",
    "req": "Konto und Kartenzahlung nötig",
    "src": "https://apps.apple.com/us/app/karibites/id1577340566"
+  },
+  {
+   "name": "Explore SVG",
+   "cat": "tourism",
+   "pkg": "vc.ntrc.exploresvg",
+   "ess": false,
+   "note": "Staatlicher Reiseführer zu Stränden, Sehenswertem, Hotels",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=vc.ntrc.exploresvg"
+  },
+  {
+   "name": "Island Eats",
+   "cat": "delivery",
+   "pkg": "com.islandEats.customer",
+   "ess": false,
+   "note": "Essenslieferung auf Bequia",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/vc/app/island-eats/id6745320887"
   }
  ]
 }

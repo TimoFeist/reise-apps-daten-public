@@ -1,6 +1,6 @@
 {
  "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit/209524",
- "fetched": "2026-11-17",
+ "fetched": "2026-11-23",
  "updated": "",
  "note": "Gelbfieberimpfung ist zur Einreise Pflicht, Mietwagen ist fast nötig und außerhalb der Städte Bargeld mitnehmen.",
  "lgbtq_note": "Es gilt französisches Recht ohne strafrechtliche Einschränkungen, laut Auswärtigem Amt keine besonderen Schwierigkeiten bekannt.",
@@ -10,7 +10,7 @@
   {
    "name": "SMART MOOV",
    "cat": "transit",
-   "pkg": "",
+   "pkg": "prod.maasify.cayenne",
    "ess": false,
    "note": "Busnetz der CACL: Routen, Echtzeit, Tickets kaufen",
    "city": "Cayenne",
@@ -21,7 +21,7 @@
   {
    "name": "CACL 6-en-1",
    "cat": "misc",
-   "pkg": "",
+   "pkg": "com.lumiplan.sixenun",
    "ess": false,
    "note": "Stadtinfos Großraum Cayenne: Busplan, Verkehr, Wetter",
    "city": "Cayenne",
@@ -43,7 +43,7 @@
   {
    "name": "AlloJeffrey",
    "cat": "delivery",
-   "pkg": "",
+   "pkg": "sr.bitdynamics.allojeffreyapp",
    "ess": false,
    "note": "Essenslieferung von Partnerrestaurants, aus Guyane",
    "city": "",
@@ -76,13 +76,68 @@
   {
    "name": "Météo-France",
    "cat": "safety",
-   "pkg": "",
+   "pkg": "fr.meteo",
    "ess": false,
    "note": "Offizielle Wetterwarnungen (Vigilance) auch für Guyane",
    "city": "",
    "use": "ok",
    "req": "",
    "src": "https://meteofrance.com/actualites-et-dossiers/la-vigilance-meteorologique-en-outre-mer"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "com.aa_app.ui",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "Elefand",
+   "cat": "safety",
+   "pkg": "de.diplo.elefand",
+   "ess": false,
+   "note": "Krisenvorsorgeliste für Deutsche im Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "Smart Pass",
+   "cat": "transit",
+   "pkg": "fr.airweb.guyane",
+   "ess": false,
+   "note": "Digitale Agglo'bus-Tickets der CACL",
+   "city": "Cayenne",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=fr.airweb.guyane"
+  },
+  {
+   "name": "Guyane Découvertes",
+   "cat": "tourism",
+   "pkg": "net.ateliernature.android.explorrandoguyane",
+   "ess": false,
+   "note": "Wanderwege im Regenwald mit Karte, vom ONF",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=net.ateliernature.android.explorrandoguyane"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "ess": false,
+   "note": "Routenplaner für Busse in Cayenne",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://moovitapp.com/index/fr/transport_en_commun-Cayenne-5565"
   }
  ]
 }

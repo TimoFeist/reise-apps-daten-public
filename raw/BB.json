@@ -105,6 +105,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/es/barbados"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "ess": false,
+   "note": "Routenplaner für Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://moovitapp.com/index/en/public_transit-Barbados-4331"
   }
  ]
 }
