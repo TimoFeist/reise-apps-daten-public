@@ -1,1 +1,244 @@
-{"src": "https://www.bento.travel/greece", "updated": "August 2026", "note": "Keine App deckt ganz Griechenland ab, für Inseln und späte Fähren den Transfer über die Unterkunft planen.", "apps": [{"name": "Freenow", "cat": "taxi", "pkg": "taxi.android.client", "ess": true, "note": "Lizenzierte Taxis, Zahlung per App oder bar", "city": "", "use": "ok", "req": ""}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": false, "note": "Vermittelt lizenzierte Taxis, kein UberX", "city": "", "use": "ok", "req": ""}, {"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": false, "note": "Taxi Alternative in Athen und auf einigen Inseln", "city": "", "use": "ok", "req": ""}, {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen und Einkäufe in Städten und auf Inseln", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/greece"}, {"name": "efood", "cat": "delivery", "pkg": "com.venturegeeks.efood", "ess": false, "note": "Lokaler Lieferdienst, Anmeldung vorab testen", "city": "", "use": "limited", "req": "Registrierung mit ausländischer Nummer kann scheitern"}, {"name": "Viber", "cat": "misc", "pkg": "com.viber.voip", "ess": false, "note": "Messenger, den viele Griechen und Anbieter nutzen", "city": "", "use": "ok", "req": ""}, {"name": "OASA Telematics", "cat": "transit", "pkg": "com.att.android.tfa", "ess": false, "note": "Busse und Trolleybusse in Athen live", "city": "Athens", "use": "ok", "req": "", "src": "https://www.bento.travel/greece"}, {"name": "Ferryhopper", "cat": "rail", "pkg": "com.mobileferryhopperapp", "ess": true, "note": "Fähren vergleichen, buchen und live verfolgen", "city": "", "use": "ok", "req": ""}, {"name": "VISIT GREECE", "cat": "tourism", "pkg": "com.visit_greece", "ess": false, "note": "Offizielle App der Tourismusbehörde mit Karten", "city": "", "use": "ok", "req": "", "src": "https://visitgreece.gr/before-travelling-to-greece/visit-greece-app"}, {"name": "Avis Go Now", "cat": "carshare", "pkg": "", "ess": false, "note": "Autos stundenweise in Athen, Rückgabe an Partnerorten", "city": "Athens", "use": "ok", "req": "", "src": "https://myavis.gr/en/avis-go-now/athina"}, {"name": "Dott", "cat": "micro", "pkg": "", "ess": false, "note": "Leih E-Scooter im Zentrum, nur ab 18, Helmpflicht", "city": "Athens", "use": "ok", "req": "", "src": "https://ridedott.com/press-release/athens-launch/"}, {"name": "Lime", "cat": "micro", "pkg": "", "ess": false, "note": "Leih E-Scooter in Athen und Thessaloniki", "city": "", "use": "ok", "req": "", "src": "https://electricscooterguide.com/lime-electric-scooters-return-to-greece/"}, {"name": "ATH.ENA GO", "cat": "transit", "pkg": "", "ess": false, "note": "Offizielle Ticket App für Bus, Metro und Tram in Athen", "city": "Athens", "use": "limited", "req": "Virtuelle Karte im Handy nur auf Android mit NFC", "src": "https://www.tovima.com/society/greece-the-digital-ticket-era-arrives-with-ath-ena-go/amp/"}, {"name": "AthensWay", "cat": "parking", "pkg": "", "ess": false, "note": "Städtische App für Parkzonen und Busankünfte", "city": "Athens", "use": "ok", "req": "", "src": "https://www.tovima.com/society/athens-launches-new-app-for-parking-and-city-mobility/amp/"}, {"name": "Culture is Athens", "cat": "tourism", "pkg": "services.epsilon.cultureisathens", "ess": false, "note": "Kulturkalender und Museen der Stadt Athen", "city": "Athens", "use": "ok", "req": "", "src": "https://cultureisathens.gr/en/?p=11003"}, {"name": "OSETH Bus", "cat": "transit", "pkg": "com.amco.city.thessaloniki", "ess": false, "note": "Offizielle Bus App für Thessaloniki, QR Tickets", "city": "Thessaloniki", "use": "ok", "req": "", "src": "https://oseth.com.gr/en/frequently-asked-questions?page=1"}, {"name": "Iraklio City Bus", "cat": "transit", "pkg": "com.threepi.android.iraklioinfo", "ess": false, "note": "Stadtbusse in Heraklion mit Echtzeit und Routen", "city": "Heraklion", "use": "ok", "req": "", "src": "https://www.heraklion.gr/en/ourplace/web-mobile-apps-for-heraklion"}, {"name": "Modern City Guide", "cat": "tourism", "pkg": "com.Municipality.HeraklionGuide", "ess": false, "note": "Städtischer Stadtführer mit Audiotouren", "city": "Heraklion", "use": "ok", "req": "", "src": "https://www.heraklion.gr/en/ourplace/web-mobile-apps-for-heraklion"}, {"name": "Rhodes Public Transport", "cat": "transit", "pkg": "gr.noveltech.cityguide.motivate", "ess": false, "note": "Städtische App mit Busankünften und Routen", "city": "Rhodes", "use": "ok", "req": "", "src": "https://site.rhodes.gr/?p=5410"}], "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/greece-node/greecesicherheit-211534", "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/greece",
+ "updated": "August 2026",
+ "note": "Keine App deckt ganz Griechenland ab, für Inseln und späte Fähren den Transfer über die Unterkunft planen.",
+ "apps": [
+  {
+   "name": "Freenow",
+   "cat": "taxi",
+   "pkg": "taxi.android.client",
+   "ess": true,
+   "note": "Lizenzierte Taxis, Zahlung per App oder bar",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Vermittelt lizenzierte Taxis, kein UberX",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Taxi Alternative in Athen und auf einigen Inseln",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in Städten und auf Inseln",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/greece"
+  },
+  {
+   "name": "efood",
+   "cat": "delivery",
+   "pkg": "com.venturegeeks.efood",
+   "ess": false,
+   "note": "Lokaler Lieferdienst, Anmeldung vorab testen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit ausländischer Nummer kann scheitern"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": false,
+   "note": "Messenger, den viele Griechen und Anbieter nutzen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "OASA Telematics",
+   "cat": "transit",
+   "pkg": "com.att.android.tfa",
+   "ess": false,
+   "note": "Busse und Trolleybusse in Athen live",
+   "city": "Athens",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/greece"
+  },
+  {
+   "name": "Ferryhopper",
+   "cat": "rail",
+   "pkg": "com.mobileferryhopperapp",
+   "ess": true,
+   "note": "Fähren vergleichen, buchen und live verfolgen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "VISIT GREECE",
+   "cat": "tourism",
+   "pkg": "com.visit_greece",
+   "ess": false,
+   "note": "Offizielle App der Tourismusbehörde mit Karten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://visitgreece.gr/before-travelling-to-greece/visit-greece-app"
+  },
+  {
+   "name": "Avis Go Now",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos stundenweise in Athen, Rückgabe an Partnerorten",
+   "city": "Athens",
+   "use": "ok",
+   "req": "",
+   "src": "https://myavis.gr/en/avis-go-now/athina"
+  },
+  {
+   "name": "Dott",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih E-Scooter im Zentrum, nur ab 18, Helmpflicht",
+   "city": "Athens",
+   "use": "ok",
+   "req": "",
+   "src": "https://ridedott.com/press-release/athens-launch/"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih E-Scooter in Athen und Thessaloniki",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://electricscooterguide.com/lime-electric-scooters-return-to-greece/"
+  },
+  {
+   "name": "ATH.ENA GO",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Ticket App für Bus, Metro und Tram in Athen",
+   "city": "Athens",
+   "use": "limited",
+   "req": "Virtuelle Karte im Handy nur auf Android mit NFC",
+   "src": "https://www.tovima.com/society/greece-the-digital-ticket-era-arrives-with-ath-ena-go/amp/"
+  },
+  {
+   "name": "AthensWay",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Städtische App für Parkzonen und Busankünfte",
+   "city": "Athens",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tovima.com/society/athens-launches-new-app-for-parking-and-city-mobility/amp/"
+  },
+  {
+   "name": "Culture is Athens",
+   "cat": "tourism",
+   "pkg": "services.epsilon.cultureisathens",
+   "ess": false,
+   "note": "Kulturkalender und Museen der Stadt Athen",
+   "city": "Athens",
+   "use": "ok",
+   "req": "",
+   "src": "https://cultureisathens.gr/en/?p=11003"
+  },
+  {
+   "name": "OSETH Bus",
+   "cat": "transit",
+   "pkg": "com.amco.city.thessaloniki",
+   "ess": false,
+   "note": "Offizielle Bus App für Thessaloniki, QR Tickets",
+   "city": "Thessaloniki",
+   "use": "ok",
+   "req": "",
+   "src": "https://oseth.com.gr/en/frequently-asked-questions?page=1"
+  },
+  {
+   "name": "Astikes Syngoinonies Irakleiou",
+   "cat": "transit",
+   "pkg": "gr.citybus.urbantransit.irakleio",
+   "ess": false,
+   "note": "Offizielle App des Stadtbus-Betreibers",
+   "city": "Heraklion",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.astiko-irakleiou.gr/"
+  },
+  {
+   "name": "Heraklion Visitor",
+   "cat": "tourism",
+   "pkg": "com.Municipality.HeraklionGuide",
+   "ess": false,
+   "note": "Besucherportal der Gemeinde Heraklion",
+   "city": "Heraklion",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.heraklion.gr/en/ourplace/her-mobile-apps",
+   "url": "https://www.heraklion.gr/en/visitor"
+  },
+  {
+   "name": "Rhodes Bus Routes",
+   "cat": "transit",
+   "pkg": "gr.noveltech.cityguide.motivate",
+   "ess": false,
+   "note": "Gemeindeseite mit RODA-Linien und Fahrplänen",
+   "city": "Rhodes",
+   "use": "ok",
+   "req": "",
+   "src": "https://site.rhodes.gr/bus-routes/",
+   "url": "https://site.rhodes.gr/bus-routes/"
+  }
+ ],
+ "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/greece-node/greecesicherheit-211534",
+ "fetched": "2026-11-17",
+ "replace": [
+  {
+   "old": "com.threepi.android.iraklioinfo",
+   "pkg": "gr.citybus.urbantransit.irakleio",
+   "name": "Astikes Syngoinonies Irakleiou",
+   "note": "Offizielle App des Stadtbus-Betreibers",
+   "url": "",
+   "nostore": false,
+   "src": "https://www.astiko-irakleiou.gr/"
+  },
+  {
+   "old": "com.Municipality.HeraklionGuide",
+   "pkg": "",
+   "name": "Heraklion Visitor",
+   "note": "Besucherportal der Gemeinde Heraklion",
+   "url": "https://www.heraklion.gr/en/visitor",
+   "nostore": true,
+   "src": "https://www.heraklion.gr/en/ourplace/her-mobile-apps"
+  },
+  {
+   "old": "gr.noveltech.cityguide.motivate",
+   "pkg": "",
+   "name": "Rhodes Bus Routes",
+   "note": "Gemeindeseite mit RODA-Linien und Fahrplänen",
+   "url": "https://site.rhodes.gr/bus-routes/",
+   "nostore": true,
+   "src": "https://site.rhodes.gr/bus-routes/"
+  }
+ ]
+}

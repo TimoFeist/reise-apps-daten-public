@@ -6,25 +6,204 @@
  "lgbtq_note": "Das Auswärtige Amt sieht keine besonderen Schwierigkeiten für LGBTQ+ Reisende, die gesellschaftliche Akzeptanz ist gut.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/luxemburg-node/luxemburgsicherheit-211256",
  "discontinued": [
-  {"name": "Goosty", "pkg": "com.customer.goosty", "src": "https://lequotidien.lu/a-la-une/la-plateforme-de-livraison-goosty-a-fait-faillite/"},
-  {"name": "CFL mobile", "pkg": "de.hafas.android.cfl", "src": "https://chronicle.lu/category/rail/61157-cfl-launches-redesigned-cfl-go-mobile-app"}
+  {
+   "name": "Goosty",
+   "pkg": "com.customer.goosty",
+   "src": "https://lequotidien.lu/a-la-une/la-plateforme-de-livraison-goosty-a-fait-faillite/"
+  },
+  {
+   "name": "CFL mobile",
+   "pkg": "de.hafas.android.cfl",
+   "src": "https://chronicle.lu/category/rail/61157-cfl-launches-redesigned-cfl-go-mobile-app"
+  }
  ],
  "apps": [
-  {"name": "mobiliteit.lu", "cat": "transit", "pkg": "de.hafas.android.cdt", "ess": true, "note": "Landesweite Fahrplanauskunft für Bus, Tram und Zug", "city": "", "use": "ok", "req": "", "src": "https://www.mobiliteit.lu/en/profiles/tourists/"},
-  {"name": "CFL go", "cat": "rail", "pkg": "", "ess": false, "note": "Neue CFL-App mit Echtzeit, Tickets für 1. Klasse und Ausland", "city": "", "use": "ok", "req": "", "src": "https://blogcfl.lu/?p=24594"},
-  {"name": "CFL International", "cat": "rail", "pkg": "com.cflint", "ess": false, "note": "Zugtickets in Nachbarländer und weiter durch Europa", "city": "", "use": "ok", "req": "", "src": "https://blogcfl.lu/en/simply-explained/cfl-applications"},
-  {"name": "Uber", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrten über lizenzierte lokale Partner, rund um die Uhr", "city": "", "use": "ok", "req": "", "src": "https://www.uber.com/global/en/r/cities/luxembourg-lu-lu/"},
-  {"name": "WEBTAXI", "cat": "taxi", "pkg": "", "ess": false, "note": "Taxi bestellen bei großem landesweitem Netz von Emile Weber", "city": "", "use": "ok", "req": "", "src": "https://www.justarrived.lu/en/informations-thematiques/mobility-luxembourg/travel-by-taxi"},
-  {"name": "LetzRide", "cat": "taxi", "pkg": "com.letzride", "ess": false, "note": "Geteilte Fahrten und HelloTAXI in einer App", "city": "", "use": "ok", "req": "", "src": "https://www.chronicle.lu/category/mobility/51188-letzride-becomes-one-stop-mobility-app-with-hellotaxi-partnership"},
-  {"name": "FLEX", "cat": "carshare", "pkg": "com.mobilityinternational.classic.client103", "ess": false, "note": "Carsharing der CFL an Stationen, auch am Flughafen", "city": "", "use": "limited", "req": "In Luxemburg gültiger Führerschein, Ausweis und Visa oder Mastercard nötig", "src": "https://www.lux-airport.lu/flex-carsharing-arrived-at-lux-airport/"},
-  {"name": "UFODRIVE", "cat": "carshare", "pkg": "com.ufodrive.app", "ess": false, "note": "Elektroauto am Flughafen mieten, Handy dient als Schlüssel", "city": "", "use": "limited", "req": "Buchung und Fahrzeugzugang nur über die App", "src": "https://ufodrive.com/en/locations/luxembourg-airport"},
-  {"name": "Wolt", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen und Läden liefern lassen, fast im ganzen Land", "city": "", "use": "ok", "req": "", "src": "https://press.wolt.com/en-LU/265847-wolt-expands-into-the-echternach-and-the-moselle-region-now-covering-nearly-the-entire-country/"},
-  {"name": "Takeaway", "cat": "delivery", "pkg": "uk.takeaway.android", "ess": false, "note": "Essen und Lebensmittel aus über 200 Restaurants", "city": "", "use": "ok", "req": "", "src": "https://webcatalog.io/en/apps/takeaway-com-lu/mobile"},
-  {"name": "Wedely", "cat": "delivery", "pkg": "com.wedely", "ess": false, "note": "Lokaler Lieferdienst für Restaurants und Geschäfte", "city": "", "use": "ok", "req": "", "src": "https://www.wedely.com/about"},
-  {"name": "VisitLuxembourg", "cat": "tourism", "pkg": "com.visitluxembourg.app", "ess": false, "note": "Offizielle Reise-App, verkauft auch den LuxembourgPass", "city": "", "use": "ok", "req": "", "src": "https://visitluxembourg.com/plan-your-stay/visitluxembourg-app"},
-  {"name": "cityapp – VDL", "cat": "tourism", "pkg": "lu.vdl", "ess": false, "note": "Stadt-App mit Agenda, Bussen, Parkhäusern und Touren", "city": "Luxembourg", "use": "ok", "req": "", "src": "https://paperjam.lu/article/communique-city-app-vdl-nouvelle-application-mobile-de-la-ville-de-luxembourg"},
-  {"name": "Indigo Neo", "cat": "parking", "pkg": "com.opngo.live", "ess": false, "note": "Straßenparken in der Hauptstadt per Handy bezahlen", "city": "Luxembourg", "use": "limited", "req": "Kostenlose Registrierung in der App nötig", "src": "https://vdl.lu/en/node/166565"},
-  {"name": "vel'OH! official", "cat": "micro", "pkg": "com.jcdecaux.vls.luxembourg", "ess": false, "note": "Leihräder der Stadt, Tagespass 2 Euro, drei Tage 5 Euro", "city": "Luxembourg", "use": "limited", "req": "Konto auf myveloh.lu und Pass nötig", "src": "https://www.vdl.lu/en/node/69640"},
-  {"name": "Esch", "cat": "tourism", "pkg": "", "ess": false, "note": "Stadt-App mit Bussen, Vël'Ok-Stationen und Parkplätzen", "city": "Esch-sur-Alzette", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id601306163"}
+  {
+   "name": "mobiliteit.lu",
+   "cat": "transit",
+   "pkg": "de.hafas.android.cdt",
+   "ess": true,
+   "note": "Landesweite Fahrplanauskunft für Bus, Tram und Zug",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.mobiliteit.lu/en/profiles/tourists/"
+  },
+  {
+   "name": "CFL go",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Neue CFL-App mit Echtzeit, Tickets für 1. Klasse und Ausland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://blogcfl.lu/?p=24594"
+  },
+  {
+   "name": "CFL International",
+   "cat": "rail",
+   "pkg": "com.cflint",
+   "ess": false,
+   "note": "Zugtickets in Nachbarländer und weiter durch Europa",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://blogcfl.lu/en/simply-explained/cfl-applications"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrten über lizenzierte lokale Partner, rund um die Uhr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.uber.com/global/en/r/cities/luxembourg-lu-lu/"
+  },
+  {
+   "name": "WEBTAXI",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi bestellen bei großem landesweitem Netz von Emile Weber",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.justarrived.lu/en/informations-thematiques/mobility-luxembourg/travel-by-taxi"
+  },
+  {
+   "name": "LetzRide",
+   "cat": "taxi",
+   "pkg": "com.letzride",
+   "ess": false,
+   "note": "Geteilte Fahrten und HelloTAXI in einer App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.chronicle.lu/category/mobility/51188-letzride-becomes-one-stop-mobility-app-with-hellotaxi-partnership"
+  },
+  {
+   "name": "FLEX",
+   "cat": "carshare",
+   "pkg": "com.mobilityinternational.classic.client103",
+   "ess": false,
+   "note": "Carsharing der CFL an Stationen, auch am Flughafen",
+   "city": "",
+   "use": "limited",
+   "req": "In Luxemburg gültiger Führerschein, Ausweis und Visa oder Mastercard nötig",
+   "src": "https://www.lux-airport.lu/flex-carsharing-arrived-at-lux-airport/"
+  },
+  {
+   "name": "UFODRIVE",
+   "cat": "carshare",
+   "pkg": "com.ufodrive.app",
+   "ess": false,
+   "note": "Elektroauto am Flughafen mieten, Handy dient als Schlüssel",
+   "city": "",
+   "use": "limited",
+   "req": "Buchung und Fahrzeugzugang nur über die App",
+   "src": "https://ufodrive.com/en/locations/luxembourg-airport"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen und Läden liefern lassen, fast im ganzen Land",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://press.wolt.com/en-LU/265847-wolt-expands-into-the-echternach-and-the-moselle-region-now-covering-nearly-the-entire-country/"
+  },
+  {
+   "name": "Takeaway",
+   "cat": "delivery",
+   "pkg": "uk.takeaway.android",
+   "ess": false,
+   "note": "Essen und Lebensmittel aus über 200 Restaurants",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://webcatalog.io/en/apps/takeaway-com-lu/mobile"
+  },
+  {
+   "name": "Wedely",
+   "cat": "delivery",
+   "pkg": "com.wedely",
+   "ess": false,
+   "note": "Lokaler Lieferdienst für Restaurants und Geschäfte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.wedely.com/about"
+  },
+  {
+   "name": "VisitLuxembourg",
+   "cat": "tourism",
+   "pkg": "com.visitluxembourg.app",
+   "ess": false,
+   "note": "Offizielle Reise-App, verkauft auch den LuxembourgPass",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://visitluxembourg.com/plan-your-stay/visitluxembourg-app"
+  },
+  {
+   "name": "cityapp – VDL",
+   "cat": "tourism",
+   "pkg": "lu.vdl",
+   "ess": false,
+   "note": "Stadt-App mit Agenda, Bussen, Parkhäusern und Touren",
+   "city": "Luxembourg",
+   "use": "ok",
+   "req": "",
+   "src": "https://paperjam.lu/article/communique-city-app-vdl-nouvelle-application-mobile-de-la-ville-de-luxembourg"
+  },
+  {
+   "name": "Indigo Neo",
+   "cat": "parking",
+   "pkg": "com.opngo.live",
+   "ess": false,
+   "note": "Straßenparken in der Hauptstadt per Handy bezahlen",
+   "city": "Luxembourg",
+   "use": "limited",
+   "req": "Kostenlose Registrierung in der App nötig",
+   "src": "https://vdl.lu/en/node/166565"
+  },
+  {
+   "name": "vel'OH! official",
+   "cat": "micro",
+   "pkg": "com.jcdecaux.vls.luxembourg",
+   "ess": false,
+   "note": "Leihräder der Stadt, Tagespass 2 Euro, drei Tage 5 Euro",
+   "city": "Luxembourg",
+   "use": "limited",
+   "req": "Konto auf myveloh.lu und Pass nötig",
+   "src": "https://www.vdl.lu/en/node/69640"
+  },
+  {
+   "name": "Esch",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadt-App mit Bussen, Vël'Ok-Stationen und Parkplätzen",
+   "city": "Esch-sur-Alzette",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id601306163"
+  }
+ ],
+ "replace": [
+  {
+   "old": "de.hafas.android.cfl",
+   "pkg": "lu.cfl.cflgo",
+   "name": "CFL go",
+   "note": "Neue App der Luxemburger Bahn CFL",
+   "url": "",
+   "nostore": false,
+   "src": "https://chronicle.lu/category/rail/61157-cfl-launches-redesigned-cfl-go-mobile-app"
+  }
  ]
 }

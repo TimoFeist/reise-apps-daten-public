@@ -1,36 +1,381 @@
-{"src": "https://www.bento.travel/saudi-arabia", "fetched": "2026-11-18", "updated": "Last updated: August 2026", "note": "Deutsche brauchen ein Visum, am besten vorab als eVisum, der Reisepass muss 6 Monate gültig sein. Das Auswärtige Amt warnt derzeit vor Reisen wegen Huthi-Angriffen.", "lgbtq_note": "Homosexuelle Handlungen werden strafrechtlich verfolgt und mit Geld- oder Freiheitsstrafe geahndet, im Einzelfall droht die Todesstrafe, gesellschaftlich sind sie nicht akzeptiert.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298", "discontinued": [
-{"name": "Uber Eats", "pkg": "", "src": "https://www.bento.travel/saudi-arabia/food-delivery"}
-], "apps": [
-{"name": "Careem", "cat": "taxi", "pkg": "com.careem.acma", "ess": true, "note": "Saudische Fahrdienst-App, Preis mit Uber vergleichen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia"},
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Einfachste Fahrdienst-App für Besucher, landesweit", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia"},
-{"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": false, "note": "Zusätzlicher Preisvergleich, auch Abholung am Flughafen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia/ride-hailing"},
-{"name": "Jeeny", "cat": "taxi", "pkg": "me.com.easytaxi", "ess": false, "note": "Oft günstiger als Uber oder Careem", "city": "", "use": "no", "req": "Viele ausländische Nummern lassen sich nicht registrieren, saudische Telefonnummer nötig", "src": "https://www.bento.travel/saudi-arabia/ride-hailing"},
-{"name": "Kaiian", "cat": "taxi", "pkg": "com.multibrains.taxi.passenger.kayantaxi", "ess": false, "note": "Regionale Taxi-App in über 60 Orten, nur als Notlösung", "city": "", "use": "limited", "req": "Bestätigungscode an ausländische Nummer kann scheitern, Fahrer verlangen teils Bargeld", "src": "https://www.bento.travel/saudi-arabia/ride-hailing"},
-{"name": "HungerStation", "cat": "delivery", "pkg": "com.hungerstation.android.web", "ess": true, "note": "Größtes Liefernetz für Essen, Einkäufe und Apotheken", "city": "", "use": "limited", "req": "Manche ausländische Nummern sind bei der Registrierung nicht wählbar", "src": "https://www.bento.travel/saudi-arabia/food-delivery"},
-{"name": "Keeta", "cat": "delivery", "pkg": "com.sankuai.sailor.afooddelivery", "ess": true, "note": "Beliebte Liefer-App auf Englisch mit vielen Rabatten", "city": "", "use": "limited", "req": "Nur manche ausländische Nummern lassen sich registrieren, vorher testen", "src": "https://www.bento.travel/saudi-arabia/food-delivery"},
-{"name": "Jahez", "cat": "delivery", "pkg": "net.jahez", "ess": false, "note": "Restaurants und Lebensmittel, Bestellabschluss prüfen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia/food-delivery"},
-{"name": "Ninja", "cat": "delivery", "pkg": "com.ananinja.lava", "ess": false, "note": "Essen und Einkäufe in einer Bestellung, Kartenzahlung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia/food-delivery"},
-{"name": "Nusuk", "cat": "tourism", "pkg": "com.moh.nusukapp", "ess": true, "note": "Offizielle Umrah-Genehmigungen und Rawdah-Termine", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia"},
-{"name": "webook.com", "cat": "tourism", "pkg": "com.webook.android", "ess": false, "note": "Autorisierte Tickets für Konzerte und Attraktionen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia"},
-{"name": "Visit Saudi", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle App der Tourismusbehörde mit Karte und Events", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/visit-saudi/id818179871"},
-{"name": "Saudi Events", "cat": "tourism", "pkg": "", "ess": false, "note": "Veranstaltungskalender des National Events Center", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/sa/app/jeddah-season/id1481514428"},
-{"name": "HHR Train", "cat": "rail", "pkg": "com.indra.haramain.pro", "ess": true, "note": "Haramain-Schnellzug Medina, Dschidda und Mekka buchen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia"},
-{"name": "SAR North East", "cat": "rail", "pkg": "com.sar.north.east.app", "ess": false, "note": "Offizielle Bahn-App, etwa für Riad und Dammam", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia"},
-{"name": "SAT Transportation", "cat": "rail", "pkg": "com.sat.passenger", "ess": false, "note": "Fernbusse auf südlichen Strecken, Route vorher prüfen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia"},
-{"name": "HudHud", "cat": "maps", "pkg": "sa.hudhud.maps", "ess": false, "note": "Saudische Karten-App, laut Quelle oft ungenau", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia/navigation"},
-{"name": "Waze", "cat": "maps", "pkg": "", "ess": false, "note": "Verkehrslage, Sperrungen werden teils nicht erkannt", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/saudi-arabia/navigation"},
-{"name": "Apple Pay, Google Pay, Samsung Wallet", "cat": "payment", "pkg": "", "ess": false, "note": "Kontaktlos mit eigener Karte zahlen, Karte als Reserve", "city": "", "use": "limited", "req": "Heimische Bank und Kartennetz müssen das Wallet unterstützen", "src": "https://www.bento.travel/saudi-arabia/payments"},
-{"name": "STC Bank", "cat": "payment", "pkg": "", "ess": false, "note": "Lokale digitale Bank und Wallet", "city": "", "use": "no", "req": "Saudische Identität oder Aufenthaltsstatus für die Anmeldung nötig", "src": "https://www.bento.travel/saudi-arabia/payments"},
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reisehinweise und Warnungen des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298"},
-{"name": "ekar Car Rental", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing und Mietwagen per App in Riad und Dschidda", "city": "", "use": "limited", "req": "Registrierung und Prüfung des Führerscheins in der App nötig", "src": "https://apps.apple.com/sa/app/id1068848847"},
-{"name": "Udrive", "cat": "carshare", "pkg": "", "ess": false, "note": "Free-Floating-Carsharing in festen Zonen", "city": "Riyadh", "use": "limited", "req": "Touristen brauchen einen internationalen Führerschein, Mindestalter 21 und ein Jahr Fahrpraxis", "src": "https://getmancar.com/blogs/carsharing-udrive-riyadh"},
-{"name": "Careem Bike", "cat": "micro", "pkg": "", "ess": false, "note": "E-Bikes und E-Scooter zum Leihen in der Careem-App", "city": "Madinah", "use": "ok", "req": "", "src": "https://help.careem.com/hc/en-us/articles/23473499456787-What-is-e-Bike-e-Scooter-sharing-and-where-is-it-available"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, in Saudi-Arabien gesperrt", "city": "", "use": "no", "req": "Im Land seit Jahren gesperrt, Nutzung kann zu Strafverfolgung führen", "src": "https://techradar.com/vpn/grindr-is-the-second-most-banned-social-apphow-to-unblock-it"},
-{"name": "darb", "cat": "transit", "pkg": "com.rcrc.riyadhjourneyplanner", "ess": true, "note": "Offizieller Planer für Metro und Bus in Riad", "city": "Riyadh", "use": "limited", "req": "Ticketkauf in der App oft fehlerhaft, kontaktlose Bankkarte als Reserve", "src": "https://www.bento.travel/saudi-arabia/transit"},
-{"name": "Riyadh Parking", "cat": "parking", "pkg": "com.remat.riyadhparking", "ess": false, "note": "Offizielle App für öffentliche Parkplätze in Riad", "city": "Riyadh", "use": "ok", "req": "", "src": "https://rmp.alriyadh.gov.sa/en/initiatives/riyadh-parking"},
-{"name": "Riyadh Season", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle App der Riyadh Season mit Tickets und Zonen", "city": "Riyadh", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id6467569767"},
-{"name": "Makkah Bus", "cat": "transit", "pkg": "sa.mbco.makkahbuses", "ess": false, "note": "Offizielle Bus-App für Mekka mit Ankunftszeiten", "city": "Makkah", "use": "limited", "req": "Login und Ticketanzeige oft fehlerhaft, besser Bankkarte im Bus nutzen", "src": "https://www.bento.travel/saudi-arabia/transit"},
-{"name": "Madinah Bus", "cat": "transit", "pkg": "com.saptco.android.afcm", "ess": false, "note": "Elektronische Bustickets für Medina", "city": "Madinah", "use": "limited", "req": "Registrierung nötig, Visa, Mastercard und Apple Pay gehen auch direkt im Bus", "src": "https://appgoblin.info/apps/com.saptco.android.afcm"},
-{"name": "Jeddah Buses", "cat": "transit", "pkg": "", "ess": false, "note": "Busnetz Dschidda per App, seit 2025", "city": "Jeddah", "use": "limited", "req": "Ausländer berichten von Sperren ohne saudische Telefonnummer", "src": "https://www.bento.travel/saudi-arabia/transit"},
-{"name": "Experience AlUla", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle App für Erlebnisse, Tickets und Karte in AlUla", "city": "AlUla", "use": "ok", "req": "", "src": "https://apps.apple.com/sa/app/id1487571928"}
-]}
+{
+ "src": "https://www.bento.travel/saudi-arabia",
+ "fetched": "2026-11-18",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche brauchen ein Visum, am besten vorab als eVisum, der Reisepass muss 6 Monate gültig sein. Das Auswärtige Amt warnt derzeit vor Reisen wegen Huthi-Angriffen.",
+ "lgbtq_note": "Homosexuelle Handlungen werden strafrechtlich verfolgt und mit Geld- oder Freiheitsstrafe geahndet, im Einzelfall droht die Todesstrafe, gesellschaftlich sind sie nicht akzeptiert.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298",
+ "discontinued": [
+  {
+   "name": "Uber Eats",
+   "pkg": "",
+   "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "com.careem.acma",
+   "ess": true,
+   "note": "Saudische Fahrdienst-App, Preis mit Uber vergleichen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Einfachste Fahrdienst-App für Besucher, landesweit",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Zusätzlicher Preisvergleich, auch Abholung am Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia/ride-hailing"
+  },
+  {
+   "name": "Jeeny",
+   "cat": "taxi",
+   "pkg": "me.com.easytaxi",
+   "ess": false,
+   "note": "Oft günstiger als Uber oder Careem",
+   "city": "",
+   "use": "no",
+   "req": "Viele ausländische Nummern lassen sich nicht registrieren, saudische Telefonnummer nötig",
+   "src": "https://www.bento.travel/saudi-arabia/ride-hailing"
+  },
+  {
+   "name": "Kaiian",
+   "cat": "taxi",
+   "pkg": "com.multibrains.taxi.passenger.kayantaxi",
+   "ess": false,
+   "note": "Taxi in Saudi-Arabien, Buchung über die Webseite",
+   "city": "",
+   "use": "limited",
+   "req": "Bestätigungscode an ausländische Nummer kann scheitern, Fahrer verlangen teils Bargeld",
+   "src": "https://appgoblin.info/apps/com.multibrains.taxi.passenger.kayantaxi",
+   "url": "https://kaiian.com"
+  },
+  {
+   "name": "HungerStation",
+   "cat": "delivery",
+   "pkg": "com.hungerstation.android.web",
+   "ess": true,
+   "note": "Größtes Liefernetz für Essen, Einkäufe und Apotheken",
+   "city": "",
+   "use": "limited",
+   "req": "Manche ausländische Nummern sind bei der Registrierung nicht wählbar",
+   "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+  },
+  {
+   "name": "Keeta",
+   "cat": "delivery",
+   "pkg": "com.sankuai.sailor.afooddelivery",
+   "ess": true,
+   "note": "Beliebte Liefer-App auf Englisch mit vielen Rabatten",
+   "city": "",
+   "use": "limited",
+   "req": "Nur manche ausländische Nummern lassen sich registrieren, vorher testen",
+   "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+  },
+  {
+   "name": "Jahez",
+   "cat": "delivery",
+   "pkg": "net.jahez",
+   "ess": false,
+   "note": "Restaurants und Lebensmittel, Bestellabschluss prüfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+  },
+  {
+   "name": "Ninja",
+   "cat": "delivery",
+   "pkg": "com.ananinja.lava",
+   "ess": false,
+   "note": "Essen und Einkäufe in einer Bestellung, Kartenzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia/food-delivery"
+  },
+  {
+   "name": "Nusuk",
+   "cat": "tourism",
+   "pkg": "com.moh.nusukapp",
+   "ess": true,
+   "note": "Offizielle Umrah-Genehmigungen und Rawdah-Termine",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia"
+  },
+  {
+   "name": "webook.com",
+   "cat": "tourism",
+   "pkg": "com.webook.android",
+   "ess": false,
+   "note": "Autorisierte Tickets für Konzerte und Attraktionen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia"
+  },
+  {
+   "name": "Visit Saudi",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App der Tourismusbehörde mit Karte und Events",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/visit-saudi/id818179871"
+  },
+  {
+   "name": "Saudi Events",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Veranstaltungskalender des National Events Center",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/sa/app/jeddah-season/id1481514428"
+  },
+  {
+   "name": "HHR Train",
+   "cat": "rail",
+   "pkg": "com.indra.haramain.pro",
+   "ess": true,
+   "note": "Haramain-Schnellzug Medina, Dschidda und Mekka buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia"
+  },
+  {
+   "name": "SAR North East",
+   "cat": "rail",
+   "pkg": "com.sar.north.east.app",
+   "ess": false,
+   "note": "Offizielle Bahn-App, etwa für Riad und Dammam",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia"
+  },
+  {
+   "name": "SAT Transportation",
+   "cat": "rail",
+   "pkg": "com.sat.passenger",
+   "ess": false,
+   "note": "Fernbusse auf südlichen Strecken, Route vorher prüfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia"
+  },
+  {
+   "name": "HudHud",
+   "cat": "maps",
+   "pkg": "sa.hudhud.maps",
+   "ess": false,
+   "note": "Saudische Karten-App, laut Quelle oft ungenau",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia/navigation"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Verkehrslage, Sperrungen werden teils nicht erkannt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/saudi-arabia/navigation"
+  },
+  {
+   "name": "Apple Pay, Google Pay, Samsung Wallet",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Kontaktlos mit eigener Karte zahlen, Karte als Reserve",
+   "city": "",
+   "use": "limited",
+   "req": "Heimische Bank und Kartennetz müssen das Wallet unterstützen",
+   "src": "https://www.bento.travel/saudi-arabia/payments"
+  },
+  {
+   "name": "STC Bank",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale digitale Bank und Wallet",
+   "city": "",
+   "use": "no",
+   "req": "Saudische Identität oder Aufenthaltsstatus für die Anmeldung nötig",
+   "src": "https://www.bento.travel/saudi-arabia/payments"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/saudiarabiensicherheit-202298"
+  },
+  {
+   "name": "ekar Car Rental",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing und Mietwagen per App in Riad und Dschidda",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung und Prüfung des Führerscheins in der App nötig",
+   "src": "https://apps.apple.com/sa/app/id1068848847"
+  },
+  {
+   "name": "Udrive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Free-Floating-Carsharing in festen Zonen",
+   "city": "Riyadh",
+   "use": "limited",
+   "req": "Touristen brauchen einen internationalen Führerschein, Mindestalter 21 und ein Jahr Fahrpraxis",
+   "src": "https://getmancar.com/blogs/carsharing-udrive-riyadh"
+  },
+  {
+   "name": "Careem Bike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Bikes und E-Scooter zum Leihen in der Careem-App",
+   "city": "Madinah",
+   "use": "ok",
+   "req": "",
+   "src": "https://help.careem.com/hc/en-us/articles/23473499456787-What-is-e-Bike-e-Scooter-sharing-and-where-is-it-available"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in Saudi-Arabien gesperrt",
+   "city": "",
+   "use": "no",
+   "req": "Im Land seit Jahren gesperrt, Nutzung kann zu Strafverfolgung führen",
+   "src": "https://techradar.com/vpn/grindr-is-the-second-most-banned-social-apphow-to-unblock-it"
+  },
+  {
+   "name": "darb",
+   "cat": "transit",
+   "pkg": "com.rcrc.riyadhjourneyplanner",
+   "ess": true,
+   "note": "Offizieller Planer für Metro und Bus in Riad",
+   "city": "Riyadh",
+   "use": "limited",
+   "req": "Ticketkauf in der App oft fehlerhaft, kontaktlose Bankkarte als Reserve",
+   "src": "https://www.bento.travel/saudi-arabia/transit"
+  },
+  {
+   "name": "Riyadh Parking",
+   "cat": "parking",
+   "pkg": "com.remat.riyadhparking",
+   "ess": false,
+   "note": "Offizielle App für öffentliche Parkplätze in Riad",
+   "city": "Riyadh",
+   "use": "ok",
+   "req": "",
+   "src": "https://rmp.alriyadh.gov.sa/en/initiatives/riyadh-parking"
+  },
+  {
+   "name": "Riyadh Season",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App der Riyadh Season mit Tickets und Zonen",
+   "city": "Riyadh",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6467569767"
+  },
+  {
+   "name": "Makkah Bus",
+   "cat": "transit",
+   "pkg": "sa.mbco.makkahbuses",
+   "ess": false,
+   "note": "Offizielle Bus-App für Mekka mit Ankunftszeiten",
+   "city": "Makkah",
+   "use": "limited",
+   "req": "Login und Ticketanzeige oft fehlerhaft, besser Bankkarte im Bus nutzen",
+   "src": "https://www.bento.travel/saudi-arabia/transit"
+  },
+  {
+   "name": "Madinah Bus",
+   "cat": "transit",
+   "pkg": "com.saptco.android.afcm",
+   "ess": false,
+   "note": "Elektronische Bustickets für Medina",
+   "city": "Madinah",
+   "use": "limited",
+   "req": "Registrierung nötig, Visa, Mastercard und Apple Pay gehen auch direkt im Bus",
+   "src": "https://appgoblin.info/apps/com.saptco.android.afcm"
+  },
+  {
+   "name": "Jeddah Buses",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busnetz Dschidda per App, seit 2025",
+   "city": "Jeddah",
+   "use": "limited",
+   "req": "Ausländer berichten von Sperren ohne saudische Telefonnummer",
+   "src": "https://www.bento.travel/saudi-arabia/transit"
+  },
+  {
+   "name": "Experience AlUla",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App für Erlebnisse, Tickets und Karte in AlUla",
+   "city": "AlUla",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/sa/app/id1487571928"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.multibrains.taxi.passenger.kayantaxi",
+   "pkg": "",
+   "name": "Kaiian",
+   "note": "Taxi in Saudi-Arabien, Buchung über die Webseite",
+   "url": "https://kaiian.com",
+   "nostore": true,
+   "src": "https://appgoblin.info/apps/com.multibrains.taxi.passenger.kayantaxi"
+  }
+ ]
+}

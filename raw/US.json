@@ -391,15 +391,15 @@
    "src": "https://www.norta.com/ride-with-us/how-to-pay/lepass"
   },
   {
-   "name": "DaBus2",
+   "name": "HEA-TheBus",
    "cat": "transit",
-   "pkg": "gov.honolulu.dabus2",
+   "pkg": "org.thebus.hea.nteves",
    "ess": false,
-   "note": "Ankunftszeiten von TheBus auf Oahu",
+   "note": "Offizielle TheBus-App mit Live-Ankunftszeiten",
    "city": "Honolulu",
    "use": "ok",
    "req": "",
-   "src": "https://manoa.hawaii.edu/commuter/thebus/"
+   "src": "https://www.thebus.org/"
   },
   {
    "name": "PRONTO",
@@ -411,6 +411,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.sdmts.com/PRONTO"
+  }
+ ],
+ "replace": [
+  {
+   "old": "gov.honolulu.dabus2",
+   "pkg": "org.thebus.hea.nteves",
+   "name": "HEA-TheBus",
+   "note": "Offizielle TheBus-App mit Live-Ankunftszeiten",
+   "url": "",
+   "nostore": false,
+   "src": "https://www.thebus.org/"
   }
  ]
 }

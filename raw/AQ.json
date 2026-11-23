@@ -1,1 +1,77 @@
-{"src": "https://www.umweltbundesamt.de/themen/nachhaltigkeit-strategien-internationales/antarktis/antarktisreisende", "fetched": "2026-11-17", "updated": "", "note": "Bei Pauschalreisen holt der Veranstalter die Genehmigung ein, Individualreisende beantragen sie selbst beim Umweltbundesamt.", "lgbtq_note": "", "lgbtq_src": "", "discontinued": [], "apps": [{"name": "IAATO Antarctic Expedition App", "cat": "tourism", "pkg": "com.iaatoprod", "ess": true, "note": "Offizielle Besucherregeln und Infos, auch offline", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.iaatoprod&hl=en_US"}, {"name": "IAATO Polar Guide: Antarctica", "cat": "tourism", "pkg": "com.softwarethinking.iaato.guideantarctica", "ess": false, "note": "Ältere IAATO-Referenz zu Regeln und Tieren, Stand 2024", "city": "", "use": "ok", "req": "", "src": "https://appwisp.com/app/android/com.softwarethinking.iaato.guideantarctica"}, {"name": "HX", "cat": "misc", "pkg": "com.travelhx.guestapp", "ess": false, "note": "Bord-App von HX mit Tagesprogramm und Ausflügen", "city": "", "use": "limited", "req": "Nur mit HX-Buchung, volle Funktion im Bord-WLAN", "src": "https://play.google.com/store/apps/details?id=com.travelhx.guestapp&hl=en_IN"}, {"name": "Quark Expeditions", "cat": "misc", "pkg": "com.vamoos.apps.quarkexpeditions", "ess": false, "note": "Begleit-App für Polarreisen mit Quark", "city": "", "use": "limited", "req": "Nur mit Buchung bei Quark Expeditions", "src": "https://play.google.com/store/apps/details?id=com.vamoos.apps.quarkexpeditions"}, {"name": "Antarctica21", "cat": "misc", "pkg": "com.mcoms.hotstream.antarctica21", "ess": false, "note": "Reise-App mit Programm, Wetter und Schiffsposition", "city": "", "use": "limited", "req": "Nur mit Buchung bei Antarctica21", "src": "https://prod.antarctica21.com/journal/introducing-the-antarctica21-app"}]}
+{
+ "src": "https://www.umweltbundesamt.de/themen/nachhaltigkeit-strategien-internationales/antarktis/antarktisreisende",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Bei Pauschalreisen holt der Veranstalter die Genehmigung ein, Individualreisende beantragen sie selbst beim Umweltbundesamt.",
+ "lgbtq_note": "",
+ "lgbtq_src": "",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "IAATO Antarctic Expedition App",
+   "cat": "tourism",
+   "pkg": "com.iaatoprod",
+   "ess": true,
+   "note": "Offizielle Besucherregeln und Infos, auch offline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.iaatoprod&hl=en_US"
+  },
+  {
+   "name": "IAATO Antarctic Expedition App",
+   "cat": "tourism",
+   "pkg": "com.iaatoprod",
+   "ess": false,
+   "note": "Offizielle App des Antarktis-Reiseverbands IAATO",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://iaato.org/node/76988"
+  },
+  {
+   "name": "HX",
+   "cat": "misc",
+   "pkg": "com.travelhx.guestapp",
+   "ess": false,
+   "note": "Bord-App von HX mit Tagesprogramm und Ausflügen",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit HX-Buchung, volle Funktion im Bord-WLAN",
+   "src": "https://play.google.com/store/apps/details?id=com.travelhx.guestapp&hl=en_IN"
+  },
+  {
+   "name": "Quark Expeditions",
+   "cat": "misc",
+   "pkg": "com.vamoos.apps.quarkexpeditions",
+   "ess": false,
+   "note": "Begleit-App für Polarreisen mit Quark",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit Buchung bei Quark Expeditions",
+   "src": "https://play.google.com/store/apps/details?id=com.vamoos.apps.quarkexpeditions"
+  },
+  {
+   "name": "Antarctica21",
+   "cat": "misc",
+   "pkg": "com.mcoms.hotstream.antarctica21",
+   "ess": false,
+   "note": "Reise-App mit Programm, Wetter und Schiffsposition",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit Buchung bei Antarctica21",
+   "src": "https://prod.antarctica21.com/journal/introducing-the-antarctica21-app"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.softwarethinking.iaato.guideantarctica",
+   "pkg": "com.iaatoprod",
+   "name": "IAATO Antarctic Expedition App",
+   "note": "Offizielle App des Antarktis-Reiseverbands IAATO",
+   "url": "",
+   "nostore": false,
+   "src": "https://iaato.org/node/76988"
+  }
+ ]
+}

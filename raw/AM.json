@@ -1,25 +1,259 @@
-{"src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872", "fetched": "2026-11-20", "updated": "Stand: 18.11.2026", "note": "Deutsche reisen bis zu 180 Tage pro Kalenderjahr ohne Visum ein, nötig ist ein Reisepass, der Personalausweis reicht nicht. Die Landgrenzen zur Türkei und nach Aserbaidschan sind geschlossen.", "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind nicht strafbar, LGBTIQ Personen stehen aber unter starkem gesellschaftlichem Druck und es gibt vereinzelt Übergriffe, Angriffe auf Reisende sind nicht bekannt.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872", "discontinued": [], "apps": [
-{"name": "Yandex Go", "cat": "taxi", "pkg": "ru.yandex.taxi", "ess": true, "note": "Fahrdienst mit den meisten Autos, fast überall im Land", "city": "", "use": "limited", "req": "Ausländische Karten lassen sich oft nicht hinterlegen, Bargeld in kleinen Scheinen mitnehmen; manche ausländische Nummern lassen sich nicht registrieren", "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"},
-{"name": "GG Taxi", "cat": "taxi", "pkg": "am.ggtaxi.main", "ess": false, "note": "Armenischer Fahrdienst, bei Einheimischen beliebt", "city": "", "use": "limited", "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; bei Problemen mit der eigenen Nummer ist eine armenische SIM nötig", "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"},
-{"name": "UVO", "cat": "taxi", "pkg": "taxi.u.client", "ess": false, "note": "Armenischer Fahrdienst mit Lieferservice, früher UTaxi", "city": "", "use": "limited", "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; eventuell armenische Nummer nötig", "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"},
-{"name": "Menu.am", "cat": "delivery", "pkg": "am.menu.app", "ess": true, "note": "Essenslieferung und Abholung, auch auf Englisch", "city": "", "use": "ok", "req": "", "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"},
-{"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": false, "note": "Essen, Lebensmittel, Blumen und Apotheke nach Hause", "city": "", "use": "ok", "req": "", "src": "https://glovoapp.com/ru/am/glovo-delivery"},
-{"name": "Yandex Eats", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung von fertigen Gerichten aus Restaurants", "city": "", "use": "ok", "req": "", "src": "https://onewaytour.com/best-delivery-services-yerevan/"},
-{"name": "Dinebook", "cat": "delivery", "pkg": "com.braind.dinebook", "ess": false, "note": "Restaurants und Cafés finden und Tische reservieren", "city": "Yerevan", "use": "ok", "req": "", "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"},
-{"name": "Telcell Wallet", "cat": "transit", "pkg": "", "ess": true, "note": "Digitale QR Tickets für Bus und Metro in Jerewan", "city": "Yerevan", "use": "limited", "req": "Registrierung mit SMS Code an die Telefonnummer, ob ausländische Nummern gehen ist nicht belegt; Tickets mit verknüpfter Bankkarte auch ohne Ausweisprüfung", "src": "https://telcell.am/en/blog/unified-ticket-system"},
-{"name": "Apple Pay, Google Pay", "cat": "payment", "pkg": "", "ess": false, "note": "Seit Juli 2026 an Bus und Metro in Jerewan kontaktlos nutzbar", "city": "Yerevan", "use": "limited", "req": "Belegt sind nur Karten armenischer Banken, ob ausländische Karten funktionieren ist offen; Bargeld oder QR Ticket als Reserve", "src": "https://arkatelecom.am/en/news/telecom/payments-for-yerevan-public-transportation-are-now-available-via-apple-pay-and-google-pay/"},
-{"name": "Yes Parking", "cat": "parking", "pkg": "", "ess": false, "note": "Parken bezahlen mit Karte statt SMS, Karte freier Plätze", "city": "Yerevan", "use": "limited", "req": "Im April 2026 nur für iOS verfügbar, Android noch im Test; Zahlung per SMS geht nur über Guthaben einer armenischen SIM", "src": "https://arkatelecom.am/en/news/telecom/yes-parking-mobile-app-will-be-launched-in-yerevan-deputy-mayor"},
-{"name": "Visit Yerevan", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle Tourismus App der Stadt mit Orten und Aktivitäten", "city": "Yerevan", "use": "ok", "req": "", "src": "https://apps.apple.com/sk/app/visit-yerevan/id1599576201"},
-{"name": "Yerevan Card", "cat": "tourism", "pkg": "", "ess": false, "note": "Stadtpass mit Museen, Rabatten und Flughafentaxi", "city": "Yerevan", "use": "ok", "req": "", "src": "https://absolutearmenia.com/?p=2891"},
-{"name": "HIKE Armenia", "cat": "tourism", "pkg": "com.hikearmenia", "ess": false, "note": "Wanderwege mit Karten und Schwierigkeitsgrad, Dorfunterkünfte", "city": "", "use": "ok", "req": "", "src": "https://absolutearmenia.com/?p=2891"},
-{"name": "Maps.me", "cat": "maps", "pkg": "com.mapswithme.maps.pro", "ess": false, "note": "Offline Karten, vorher im WLAN herunterladen", "city": "", "use": "ok", "req": "", "src": "https://absolutearmenia.com/?p=2891"},
-{"name": "YerevanRide", "cat": "micro", "pkg": "app.com.velvioo", "ess": false, "note": "Leihräder, E-Bikes und E-Scooter in Jerewan", "city": "Yerevan", "use": "limited", "req": "Anmeldung mit Google Konto oder Apple ID, Visa oder Mastercard hinterlegen", "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"},
-{"name": "Jet", "cat": "micro", "pkg": "com.jetscooters", "ess": false, "note": "Größter E-Scooter Verleih in Jerewan", "city": "Yerevan", "use": "limited", "req": "Bankkarte hinterlegen oder Guthaben aufladen, Mindestalter 18", "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"},
-{"name": "Mimo", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder und E-Scooter in Jerewan", "city": "Yerevan", "use": "limited", "req": "Visa, Mastercard oder Amex hinterlegen, Aufladung mindestens 5.000 AMD, Registrierung teils fehlerhaft", "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"},
-{"name": "Busy Fly", "cat": "micro", "pkg": "", "ess": false, "note": "Saisonaler E-Scooter Verleih ab dem Frühjahr", "city": "Yerevan", "use": "limited", "req": "Visa oder Mastercard hinterlegen oder Guthaben in der App aufladen", "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"},
-{"name": "EcoDrive", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing nur mit Elektroautos in Jerewan", "city": "Yerevan", "use": "no", "req": "Anmeldung nur per SMS, viele ausländische Nummern erhalten sie nicht; Wohnsitznachweis, Mindestalter 21 und 2 Jahre Fahrpraxis nötig", "src": "https://getmancar.com/blogs/eco-drive-carsharing-erevan"},
-{"name": "Zvartnots Airport", "cat": "flights", "pkg": "com.aero.zvartnots", "ess": false, "note": "Ankünfte und Abflüge am Flughafen Jerewan in Echtzeit", "city": "Yerevan", "use": "ok", "req": "", "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"},
-{"name": "Rate.am", "cat": "payment", "pkg": "com.sflpro.rateam", "ess": false, "note": "Aktuelle Wechselkurse der armenischen Banken vergleichen", "city": "", "use": "ok", "req": "", "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"},
-{"name": "Spyur", "cat": "misc", "pkg": "com.vavianlabs.spyur", "ess": false, "note": "Branchenbuch mit Kontakten offline, auch auf Englisch", "city": "", "use": "ok", "req": "", "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"},
-{"name": "AYOlingo", "cat": "misc", "pkg": "org.birthrightarmenia.ayolingo", "ess": false, "note": "Grundlegende armenische Sätze lernen", "city": "", "use": "ok", "req": "", "src": "https://absolutearmenia.com/?p=2891"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872",
+ "fetched": "2026-11-20",
+ "updated": "Stand: 18.11.2026",
+ "note": "Deutsche reisen bis zu 180 Tage pro Kalenderjahr ohne Visum ein, nötig ist ein Reisepass, der Personalausweis reicht nicht. Die Landgrenzen zur Türkei und nach Aserbaidschan sind geschlossen.",
+ "lgbtq_note": "Homosexuelle Handlungen zwischen Erwachsenen sind nicht strafbar, LGBTIQ Personen stehen aber unter starkem gesellschaftlichem Druck und es gibt vereinzelt Übergriffe, Angriffe auf Reisende sind nicht bekannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/armeniensicherheit-201872",
+ "discontinued": [
+  {
+   "name": "",
+   "pkg": "com.braind.dinebook",
+   "src": "https://play.google.com/store/apps/details?id=com.braind.dinebook&hl=en&gl=AM"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Yandex Go",
+   "cat": "taxi",
+   "pkg": "ru.yandex.taxi",
+   "ess": true,
+   "note": "Fahrdienst mit den meisten Autos, fast überall im Land",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten lassen sich oft nicht hinterlegen, Bargeld in kleinen Scheinen mitnehmen; manche ausländische Nummern lassen sich nicht registrieren",
+   "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"
+  },
+  {
+   "name": "GG Taxi",
+   "cat": "taxi",
+   "pkg": "am.ggtaxi.main",
+   "ess": false,
+   "note": "Armenischer Fahrdienst, bei Einheimischen beliebt",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; bei Problemen mit der eigenen Nummer ist eine armenische SIM nötig",
+   "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"
+  },
+  {
+   "name": "UVO",
+   "cat": "taxi",
+   "pkg": "taxi.u.client",
+   "ess": false,
+   "note": "Armenischer Fahrdienst mit Lieferservice, früher UTaxi",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; eventuell armenische Nummer nötig",
+   "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/"
+  },
+  {
+   "name": "Menu.am",
+   "cat": "delivery",
+   "pkg": "am.menu.app",
+   "ess": true,
+   "note": "Essenslieferung und Abholung, auch auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": false,
+   "note": "Essen, Lebensmittel, Blumen und Apotheke nach Hause",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://glovoapp.com/ru/am/glovo-delivery"
+  },
+  {
+   "name": "Yandex Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von fertigen Gerichten aus Restaurants",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://onewaytour.com/best-delivery-services-yerevan/"
+  },
+  {
+   "name": "Telcell Wallet",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Digitale QR Tickets für Bus und Metro in Jerewan",
+   "city": "Yerevan",
+   "use": "limited",
+   "req": "Registrierung mit SMS Code an die Telefonnummer, ob ausländische Nummern gehen ist nicht belegt; Tickets mit verknüpfter Bankkarte auch ohne Ausweisprüfung",
+   "src": "https://telcell.am/en/blog/unified-ticket-system"
+  },
+  {
+   "name": "Apple Pay, Google Pay",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Seit Juli 2026 an Bus und Metro in Jerewan kontaktlos nutzbar",
+   "city": "Yerevan",
+   "use": "limited",
+   "req": "Belegt sind nur Karten armenischer Banken, ob ausländische Karten funktionieren ist offen; Bargeld oder QR Ticket als Reserve",
+   "src": "https://arkatelecom.am/en/news/telecom/payments-for-yerevan-public-transportation-are-now-available-via-apple-pay-and-google-pay/"
+  },
+  {
+   "name": "Yes Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken bezahlen mit Karte statt SMS, Karte freier Plätze",
+   "city": "Yerevan",
+   "use": "limited",
+   "req": "Im April 2026 nur für iOS verfügbar, Android noch im Test; Zahlung per SMS geht nur über Guthaben einer armenischen SIM",
+   "src": "https://arkatelecom.am/en/news/telecom/yes-parking-mobile-app-will-be-launched-in-yerevan-deputy-mayor"
+  },
+  {
+   "name": "Visit Yerevan",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Tourismus App der Stadt mit Orten und Aktivitäten",
+   "city": "Yerevan",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/sk/app/visit-yerevan/id1599576201"
+  },
+  {
+   "name": "Yerevan Card",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtpass mit Museen, Rabatten und Flughafentaxi",
+   "city": "Yerevan",
+   "use": "ok",
+   "req": "",
+   "src": "https://absolutearmenia.com/?p=2891"
+  },
+  {
+   "name": "HIKE Armenia",
+   "cat": "tourism",
+   "pkg": "com.hikearmenia",
+   "ess": false,
+   "note": "Wanderwege mit Karten und Schwierigkeitsgrad, Dorfunterkünfte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://absolutearmenia.com/?p=2891"
+  },
+  {
+   "name": "Maps.me",
+   "cat": "maps",
+   "pkg": "com.mapswithme.maps.pro",
+   "ess": false,
+   "note": "Offline Karten, vorher im WLAN herunterladen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://absolutearmenia.com/?p=2891"
+  },
+  {
+   "name": "YerevanRide",
+   "cat": "micro",
+   "pkg": "app.com.velvioo",
+   "ess": false,
+   "note": "Leihräder, E-Bikes und E-Scooter in Jerewan",
+   "city": "Yerevan",
+   "use": "limited",
+   "req": "Anmeldung mit Google Konto oder Apple ID, Visa oder Mastercard hinterlegen",
+   "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+  },
+  {
+   "name": "Jet",
+   "cat": "micro",
+   "pkg": "com.jetscooters",
+   "ess": false,
+   "note": "Größter E-Scooter Verleih in Jerewan",
+   "city": "Yerevan",
+   "use": "limited",
+   "req": "Bankkarte hinterlegen oder Guthaben aufladen, Mindestalter 18",
+   "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+  },
+  {
+   "name": "Mimo",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder und E-Scooter in Jerewan",
+   "city": "Yerevan",
+   "use": "limited",
+   "req": "Visa, Mastercard oder Amex hinterlegen, Aufladung mindestens 5.000 AMD, Registrierung teils fehlerhaft",
+   "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+  },
+  {
+   "name": "Busy Fly",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Saisonaler E-Scooter Verleih ab dem Frühjahr",
+   "city": "Yerevan",
+   "use": "limited",
+   "req": "Visa oder Mastercard hinterlegen oder Guthaben in der App aufladen",
+   "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+  },
+  {
+   "name": "EcoDrive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing nur mit Elektroautos in Jerewan",
+   "city": "Yerevan",
+   "use": "no",
+   "req": "Anmeldung nur per SMS, viele ausländische Nummern erhalten sie nicht; Wohnsitznachweis, Mindestalter 21 und 2 Jahre Fahrpraxis nötig",
+   "src": "https://getmancar.com/blogs/eco-drive-carsharing-erevan"
+  },
+  {
+   "name": "Zvartnots Airport",
+   "cat": "flights",
+   "pkg": "com.aero.zvartnots",
+   "ess": false,
+   "note": "Ankünfte und Abflüge am Flughafen Jerewan in Echtzeit",
+   "city": "Yerevan",
+   "use": "ok",
+   "req": "",
+   "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+  },
+  {
+   "name": "Rate.am",
+   "cat": "payment",
+   "pkg": "com.sflpro.rateam",
+   "ess": false,
+   "note": "Aktuelle Wechselkurse der armenischen Banken vergleichen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+  },
+  {
+   "name": "Spyur",
+   "cat": "misc",
+   "pkg": "com.vavianlabs.spyur",
+   "ess": false,
+   "note": "Branchenbuch mit Kontakten offline, auch auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia"
+  },
+  {
+   "name": "AYOlingo",
+   "cat": "misc",
+   "pkg": "org.birthrightarmenia.ayolingo",
+   "ess": false,
+   "note": "Grundlegende armenische Sätze lernen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://absolutearmenia.com/?p=2891"
+  }
+ ]
+}

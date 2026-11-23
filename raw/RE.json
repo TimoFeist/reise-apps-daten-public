@@ -1,15 +1,165 @@
-{"src": "https://en.reunion.fr/organize/holiday-tips/questions-answers/transport-on-the-island/", "fetched": "2026-11-18", "updated": "", "note": "Personalausweis genügt, bei Umstieg etwa über Mauritius aber Reisepass nötig; Mietwagen vorab buchen, Zyklonsaison Januar bis April.", "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524", "discontinued": [], "apps": [
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"},
-{"name": "FR-Alert", "cat": "safety", "pkg": "", "ess": false, "note": "Behördliche Warnungen bei Zyklon oder Vulkanausbruch", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"},
-{"name": "M-Ticket Car Jaune", "cat": "transit", "pkg": "com.actoll.tpass.carjaune", "ess": true, "note": "Handytickets für Car Jaune, Citalis, Alternéo, Kar'Ouest", "city": "", "use": "limited", "req": "Konto mit E-Mail und Kreditkarte nötig, NFC beim Scannen ausschalten", "src": "https://tsi.carjaune3.cityway.fr/setlang/en/9/0"},
-{"name": "Car Jaune", "cat": "rail", "pkg": "fr.cityway.android_v2.carjaune", "ess": true, "note": "Inselweites Busnetz: Fahrpläne, Routen und Störungen", "city": "", "use": "ok", "req": "", "src": "https://appgoblin.info/apps/fr.cityway.android_v2.carjaune"},
-{"name": "Île de La Réunion Mobilités", "cat": "transit", "pkg": "", "ess": false, "note": "Routenplaner für alle Busnetze, Rad und Mitfahrten", "city": "", "use": "ok", "req": "", "src": "https://www.leaderreunion.fr/en/une-application-pour-mieux-se-deplacer/"},
-{"name": "Alternéo", "cat": "transit", "pkg": "fr.cityway.android_v2.alterneo", "ess": false, "note": "Stadtbusse im Süden mit Fahrplänen und Routen", "city": "Saint-Pierre", "use": "ok", "req": "", "src": "https://appgoblin.info/apps/fr.cityway.android_v2.alterneo"},
-{"name": "KAR'OUEST", "cat": "transit", "pkg": "", "ess": false, "note": "Busnetz der Westküste mit Abfahrten und Störungen", "city": "Saint-Paul", "use": "ok", "req": "", "src": "https://apps.apple.com/jp/app/karouest/id1475766354?l=en"},
-{"name": "alterVélo libre service", "cat": "micro", "pkg": "", "ess": false, "note": "E-Leihräder an Stationen, per Handy entsperren", "city": "Saint-Pierre", "use": "limited", "req": "Konto und Abo in der App nötig", "src": "https://apps.apple.com/us/app/id6469518435"},
-{"name": "Pup", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrer auf Abruf, Essenslieferung und Paketdienst", "city": "", "use": "ok", "req": "", "src": "https://www.pupapp.re/"},
-{"name": "EasyMove VTC/Taxi à La Réunion", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrer mit Mietwagen in der Nähe auf der ganzen Insel", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/fr/app/id6496204636"},
-{"name": "Pup", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen von Imbiss bis Hausmannskost liefern lassen", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/be/app/pup/id6741674344"},
-{"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Roland Garros, täglich geöffnet", "city": "", "use": "limited", "req": "Führerschein nötig, Bedingungen für Fahrer unter 25 vorab prüfen", "src": "https://avis.fr/services-avis/location-voiture/afrique/reunion/sainte-marie/aeroport-de-saint-denis"},
-{"name": "Zotcar", "cat": "carshare", "pkg": "", "ess": false, "note": "Autos von Privatleuten mieten, ohne Papiervertrag", "city": "", "use": "limited", "req": "Mindestalter 23, Führerschein seit drei Jahren", "src": "https://serenitrip.fr/?p=16697"}
-]}
+{
+ "src": "https://en.reunion.fr/organize/holiday-tips/questions-answers/transport-on-the-island/",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Personalausweis genügt, bei Umstieg etwa über Mauritius aber Reisepass nötig; Mietwagen vorab buchen, Zyklonsaison Januar bis April.",
+ "lgbtq_note": "Es gilt französisches Recht ohne besondere Strafbestimmungen, laut Auswärtigem Amt gibt es keine Hinweise auf besondere Schwierigkeiten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "FR-Alert",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Behördliche Warnungen bei Zyklon oder Vulkanausbruch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524"
+  },
+  {
+   "name": "M-Ticket Car Jaune",
+   "cat": "transit",
+   "pkg": "com.actoll.tpass.carjaune",
+   "ess": true,
+   "note": "Handytickets für Car Jaune, Citalis, Alternéo, Kar'Ouest",
+   "city": "",
+   "use": "limited",
+   "req": "Konto mit E-Mail und Kreditkarte nötig, NFC beim Scannen ausschalten",
+   "src": "https://tsi.carjaune3.cityway.fr/setlang/en/9/0"
+  },
+  {
+   "name": "Car Jaune",
+   "cat": "rail",
+   "pkg": "fr.cityway.android_v2.carjaune",
+   "ess": true,
+   "note": "Inselweites Busnetz: Fahrpläne, Routen und Störungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/fr.cityway.android_v2.carjaune"
+  },
+  {
+   "name": "Île de La Réunion Mobilités",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Routenplaner für alle Busnetze, Rad und Mitfahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.leaderreunion.fr/en/une-application-pour-mieux-se-deplacer/"
+  },
+  {
+   "name": "M-Ticket Alternéo",
+   "cat": "transit",
+   "pkg": "com.actoll.tpass.alterneo",
+   "ess": false,
+   "note": "Offizielle Handyticket-App des Alternéo-Netzes",
+   "city": "Saint-Pierre",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.alterneo&hl=fr&gl=FR"
+  },
+  {
+   "name": "KAR'OUEST",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busnetz der Westküste mit Abfahrten und Störungen",
+   "city": "Saint-Paul",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/jp/app/karouest/id1475766354?l=en"
+  },
+  {
+   "name": "alterVélo libre service",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Leihräder an Stationen, per Handy entsperren",
+   "city": "Saint-Pierre",
+   "use": "limited",
+   "req": "Konto und Abo in der App nötig",
+   "src": "https://apps.apple.com/us/app/id6469518435"
+  },
+  {
+   "name": "Pup",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrer auf Abruf, Essenslieferung und Paketdienst",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.pupapp.re/"
+  },
+  {
+   "name": "EasyMove VTC/Taxi à La Réunion",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrer mit Mietwagen in der Nähe auf der ganzen Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/fr/app/id6496204636"
+  },
+  {
+   "name": "Pup",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von Imbiss bis Hausmannskost liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/be/app/pup/id6741674344"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Roland Garros, täglich geöffnet",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein nötig, Bedingungen für Fahrer unter 25 vorab prüfen",
+   "src": "https://avis.fr/services-avis/location-voiture/afrique/reunion/sainte-marie/aeroport-de-saint-denis"
+  },
+  {
+   "name": "Zotcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Autos von Privatleuten mieten, ohne Papiervertrag",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 23, Führerschein seit drei Jahren",
+   "src": "https://serenitrip.fr/?p=16697"
+  }
+ ],
+ "replace": [
+  {
+   "old": "fr.cityway.android_v2.alterneo",
+   "pkg": "com.actoll.tpass.alterneo",
+   "name": "M-Ticket Alternéo",
+   "note": "Offizielle Handyticket-App des Alternéo-Netzes",
+   "url": "",
+   "nostore": false,
+   "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.alterneo&hl=fr&gl=FR"
+  }
+ ]
+}

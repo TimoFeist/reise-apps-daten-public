@@ -41,15 +41,15 @@
    "src": "https://bento.travel/myanmar/ride-hailing"
   },
   {
-   "name": "CaCa Taxi",
+   "name": "GoBee",
    "cat": "taxi",
-   "pkg": "com.myan.caca",
+   "pkg": "app.gobee.user",
    "ess": false,
-   "note": "Lokale Taxi-App als Ersatz in Yangon",
+   "note": "CaCa Taxi heißt jetzt GoBee",
    "city": "Yangon",
    "use": "limited",
    "req": "Registrierung laut Quelle unklar, Zahlung bar in Kyat",
-   "src": "https://bento.travel/myanmar/ride-hailing"
+   "src": "https://cacataxi.com/"
   },
   {
    "name": "KBZPay",
@@ -182,6 +182,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/myanmar"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.myan.caca",
+   "pkg": "app.gobee.user",
+   "name": "GoBee",
+   "note": "CaCa Taxi heißt jetzt GoBee",
+   "url": "",
+   "nostore": false,
+   "src": "https://cacataxi.com/"
   }
  ]
 }

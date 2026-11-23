@@ -1,16 +1,160 @@
-{"src": "https://www.bento.travel/bosnia-and-herzegovina", "fetched": "2026-11-20", "updated": "August 2026", "note": "Bargeld in Konvertibler Mark (BAM) mitnehmen, Taxis und kleine Läden wollen oft bar, Uber und Bolt gibt es nicht.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, große Teile der Gesellschaft sind aber ablehnend und es gab vereinzelt Angriffe.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bosnienundherzegowina-node/bosnienundherzegowinasicherheit-207694", "discontinued": [], "apps": [
-{"name": "mojTaxi", "cat": "taxi", "pkg": "moj.taxi.touchngo", "ess": true, "note": "Lizenzierte Taxis bestellen, Fahrt live verfolgen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Holand", "cat": "taxi", "pkg": "ba.holand", "ess": false, "note": "Weitere Taxi-App in Sarajevo, vorab ausprobieren", "city": "Sarajevo", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Korpa", "cat": "delivery", "pkg": "ba.korpa.user", "ess": true, "note": "Essen und Einkäufe in den größeren Städten liefern lassen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Zapp", "cat": "delivery", "pkg": "com.goteso.gpg", "ess": false, "note": "Lieferdienst als Alternative, vor allem in der Herzegowina", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Viber", "cat": "misc", "pkg": "com.viber.voip", "ess": false, "note": "Verbreiteter Messenger, auch für Taxis und Geschäfte", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Arrivo Sarajevo", "cat": "transit", "pkg": "com.omchiii.arrivo", "ess": true, "note": "Linien, Fahrpläne und Live-Standorte in Sarajevo", "city": "Sarajevo", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Javni Prevoz KS", "cat": "transit", "pkg": "org.msks.ticketsMobileApp", "ess": false, "note": "Offizielle QR-Tickets für Bus und Tram im Kanton Sarajevo", "city": "Sarajevo", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Mostar Bus", "cat": "transit", "pkg": "com.firio_solutions.mostar_bus", "ess": false, "note": "Stadtbusse in Mostar mit Handy-Tickets per QR-Code", "city": "Mostar", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Centrotrans", "cat": "rail", "pkg": "ba.promotim.centrotrans", "ess": false, "note": "Fernbustickets dieses Busunternehmens online kaufen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "BH Mine Suspected Areas", "cat": "safety", "pkg": "com.bhminesuspectedareas", "ess": true, "note": "Offizielle Karte minenverdächtiger Gebiete, nur zur Orientierung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bosnia-and-herzegovina"},
-{"name": "Beebee", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter per QR-Code entsperren, Guthaben in der App", "city": "Sarajevo", "use": "limited", "req": "Registrierung mit Handynummer und Bankkarte, Guthaben vorab kaufen", "src": "https://www.visitsarajevo.ba/moving-around-town/"},
-{"name": "nextbike", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder in Sarajevo, täglich 30 Minuten gratis", "city": "Sarajevo", "use": "ok", "req": "", "src": "https://www.visitsarajevo.ba/moving-around-town/"},
-{"name": "e-GO Pure motion Carsharing", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektroautos in Sarajevo teilen, Öffnen per App", "city": "Sarajevo", "use": "limited", "req": "Bedingungen für ausländische Führerscheine nicht angegeben, vorab prüfen", "src": "https://apps.apple.com/us/app/e-go-pure-motion-carsharing/id6448946295"},
-{"name": "GoParking by Lanaco", "cat": "parking", "pkg": "", "ess": false, "note": "Parken in Banja Luka per hinterlegter Bankkarte zahlen", "city": "Banja Luka", "use": "ok", "req": "", "src": "https://en.banjaluka.rs.ba/banja-luka-introduces-payment-of-parking-service-with-bank-card-through-go-parking-application/"}
-]}
+{
+ "src": "https://www.bento.travel/bosnia-and-herzegovina",
+ "fetched": "2026-11-20",
+ "updated": "August 2026",
+ "note": "Bargeld in Konvertibler Mark (BAM) mitnehmen, Taxis und kleine Läden wollen oft bar, Uber und Bolt gibt es nicht.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, große Teile der Gesellschaft sind aber ablehnend und es gab vereinzelt Angriffe.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bosnienundherzegowina-node/bosnienundherzegowinasicherheit-207694",
+ "discontinued": [
+  {
+   "name": "",
+   "pkg": "com.bhminesuspectedareas",
+   "src": "https://www.bhmac.org/"
+  }
+ ],
+ "apps": [
+  {
+   "name": "mojTaxi",
+   "cat": "taxi",
+   "pkg": "moj.taxi.touchngo",
+   "ess": true,
+   "note": "Lizenzierte Taxis bestellen, Fahrt live verfolgen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Holand",
+   "cat": "taxi",
+   "pkg": "ba.holand",
+   "ess": false,
+   "note": "Weitere Taxi-App in Sarajevo, vorab ausprobieren",
+   "city": "Sarajevo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Korpa",
+   "cat": "delivery",
+   "pkg": "ba.korpa.user",
+   "ess": true,
+   "note": "Essen und Einkäufe in den größeren Städten liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Zapp",
+   "cat": "delivery",
+   "pkg": "com.goteso.gpg",
+   "ess": false,
+   "note": "Lieferdienst als Alternative, vor allem in der Herzegowina",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": false,
+   "note": "Verbreiteter Messenger, auch für Taxis und Geschäfte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Arrivo Sarajevo",
+   "cat": "transit",
+   "pkg": "com.omchiii.arrivo",
+   "ess": true,
+   "note": "Linien, Fahrpläne und Live-Standorte in Sarajevo",
+   "city": "Sarajevo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Javni Prevoz KS",
+   "cat": "transit",
+   "pkg": "org.msks.ticketsMobileApp",
+   "ess": false,
+   "note": "Offizielle QR-Tickets für Bus und Tram im Kanton Sarajevo",
+   "city": "Sarajevo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Mostar Bus",
+   "cat": "transit",
+   "pkg": "com.firio_solutions.mostar_bus",
+   "ess": false,
+   "note": "Stadtbusse in Mostar mit Handy-Tickets per QR-Code",
+   "city": "Mostar",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Centrotrans",
+   "cat": "rail",
+   "pkg": "ba.promotim.centrotrans",
+   "ess": false,
+   "note": "Fernbustickets dieses Busunternehmens online kaufen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bosnia-and-herzegovina"
+  },
+  {
+   "name": "Beebee",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter per QR-Code entsperren, Guthaben in der App",
+   "city": "Sarajevo",
+   "use": "limited",
+   "req": "Registrierung mit Handynummer und Bankkarte, Guthaben vorab kaufen",
+   "src": "https://www.visitsarajevo.ba/moving-around-town/"
+  },
+  {
+   "name": "nextbike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder in Sarajevo, täglich 30 Minuten gratis",
+   "city": "Sarajevo",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitsarajevo.ba/moving-around-town/"
+  },
+  {
+   "name": "e-GO Pure motion Carsharing",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektroautos in Sarajevo teilen, Öffnen per App",
+   "city": "Sarajevo",
+   "use": "limited",
+   "req": "Bedingungen für ausländische Führerscheine nicht angegeben, vorab prüfen",
+   "src": "https://apps.apple.com/us/app/e-go-pure-motion-carsharing/id6448946295"
+  },
+  {
+   "name": "GoParking by Lanaco",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken in Banja Luka per hinterlegter Bankkarte zahlen",
+   "city": "Banja Luka",
+   "use": "ok",
+   "req": "",
+   "src": "https://en.banjaluka.rs.ba/banja-luka-introduces-payment-of-parking-service-with-bank-card-through-go-parking-application/"
+  }
+ ]
+}

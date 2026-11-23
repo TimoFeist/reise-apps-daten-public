@@ -394,5 +394,16 @@
    "req": "Virtuelle Karte nur mit physischer Tarjeta Única",
    "src": "https://www.tib.org/es/nuevaapp-tarjetavirtual"
   }
+ ],
+ "replace": [
+  {
+   "old": "com.crtm.virtual",
+   "pkg": "com.crtm.integrated",
+   "name": "Mi Tarjeta Transporte",
+   "note": "Neue CRTM-App für die Tarjeta Transporte",
+   "url": "",
+   "nostore": false,
+   "src": "https://crtm.es/billetes-y-tarifas/apps-crtm/"
+  }
  ]
 }

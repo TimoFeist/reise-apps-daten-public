@@ -1,10 +1,106 @@
-{"src": "https://www.mymarianas.com/?p=1528", "fetched": "2026-11-18", "updated": "", "note": "Deutsche brauchen eine ESTA, da sie nicht zum Guam-CNMI Visa Waiver Program gehören. Zollerklärung vorab online ausfüllen.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1983 legal, die Ehe ist seit 2015 geöffnet, ein allgemeiner Diskriminierungsschutz fehlt.", "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_Northern_Mariana_Islands", "discontinued": [], "apps": [
-{"name": "ESTA Mobile", "cat": "entry", "pkg": "gov.dhs.cbp.esta", "ess": true, "note": "Offizielle CBP-App für den ESTA-Antrag zur US-Einreise", "city": "", "use": "ok", "req": "", "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"},
-{"name": "Hertz", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Saipan, Station rund um die Uhr offen", "city": "Saipan", "use": "limited", "req": "Gültiger Führerschein nötig, Mindestalter beim Anbieter prüfen", "src": "https://www.hertz.com/us/en/location/northernmarianaislands/dan-dan/spnt50"},
-{"name": "National Car Rental", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Saipan per App buchen und verwalten", "city": "Saipan", "use": "limited", "req": "Mindestalter 18, unter 21 Pflicht zur Vollkasko (LDW)", "src": "https://nationalcar.com/en/car-rental-locations/mp/garapan-grandvrio-resort-j9m2.html"},
-{"name": "Star Marianas Air", "cat": "flights", "pkg": "", "ess": false, "note": "Inselflüge nach Tinian und Rota, nur Webseite und Telefon", "city": "", "use": "ok", "req": "", "src": "https://www.starmarianasair.com/frequently-asked-questions"},
-{"name": "MAPS.ME", "cat": "maps", "pkg": "", "ess": false, "note": "Offline-Karten mit GPS-Navigation für Mietwagenfahrten", "city": "", "use": "ok", "req": "", "src": "https://www.milehacker.com/travel/northern-mariana-islands/saipan/getting-around-saipan-public-transport-taxis-car-r/"},
-{"name": "Walt's DiscoverSaipan Tour App", "cat": "tourism", "pkg": "com.discoversaipan.saipanwaysidestour", "ess": false, "note": "Selbstgeführte GPS-Tour zu historischen Stätten auf Saipan", "city": "Saipan", "use": "ok", "req": "", "src": "https://www.mvariety.com/?p=51311"},
-{"name": "DiscoverTinian Waysides Tour", "cat": "tourism", "pkg": "com.discoversaipan.tinianwaysidestour", "ess": false, "note": "Infotafeln und GPS-Punkte der Sehenswürdigkeiten auf Tinian", "city": "Tinian", "use": "ok", "req": "", "src": "https://www.discoversaipan.com/tourapps/"},
-{"name": "Saipan Travels", "cat": "tourism", "pkg": "com.ldi.saipan", "ess": false, "note": "Reiseführer zu Kultur, Geschichte und Natur auf Saipan", "city": "Saipan", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.ldi.saipan&hl=en_US"}
-]}
+{
+ "src": "https://www.mymarianas.com/?p=1528",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Deutsche brauchen eine ESTA, da sie nicht zum Guam-CNMI Visa Waiver Program gehören. Zollerklärung vorab online ausfüllen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1983 legal, die Ehe ist seit 2015 geöffnet, ein allgemeiner Diskriminierungsschutz fehlt.",
+ "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_the_Northern_Mariana_Islands",
+ "discontinued": [
+  {
+   "name": "",
+   "pkg": "com.discoversaipan.saipanwaysidestour",
+   "src": "https://www.discoversaipan.com/shop/tinian-tour-app/"
+  }
+ ],
+ "apps": [
+  {
+   "name": "ESTA Mobile",
+   "cat": "entry",
+   "pkg": "gov.dhs.cbp.esta",
+   "ess": true,
+   "note": "Offizielle CBP-App für den ESTA-Antrag zur US-Einreise",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Saipan, Station rund um die Uhr offen",
+   "city": "Saipan",
+   "use": "limited",
+   "req": "Gültiger Führerschein nötig, Mindestalter beim Anbieter prüfen",
+   "src": "https://www.hertz.com/us/en/location/northernmarianaislands/dan-dan/spnt50"
+  },
+  {
+   "name": "National Car Rental",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Saipan per App buchen und verwalten",
+   "city": "Saipan",
+   "use": "limited",
+   "req": "Mindestalter 18, unter 21 Pflicht zur Vollkasko (LDW)",
+   "src": "https://nationalcar.com/en/car-rental-locations/mp/garapan-grandvrio-resort-j9m2.html"
+  },
+  {
+   "name": "Star Marianas Air",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Inselflüge nach Tinian und Rota, nur Webseite und Telefon",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.starmarianasair.com/frequently-asked-questions"
+  },
+  {
+   "name": "MAPS.ME",
+   "cat": "maps",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline-Karten mit GPS-Navigation für Mietwagenfahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.milehacker.com/travel/northern-mariana-islands/saipan/getting-around-saipan-public-transport-taxis-car-r/"
+  },
+  {
+   "name": "DiscoverTinian Tour (Web-App)",
+   "cat": "tourism",
+   "pkg": "com.discoversaipan.tinianwaysidestour",
+   "ess": false,
+   "note": "Tinian-Rundgang als Web-App ohne Download",
+   "city": "Tinian",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discoversaipan.com/shop/tinian-tour-app/",
+   "url": "https://www.discoversaipan.com/shop/tinian-tour-app/"
+  },
+  {
+   "name": "Saipan Travels",
+   "cat": "tourism",
+   "pkg": "com.ldi.saipan",
+   "ess": false,
+   "note": "Reiseführer zu Kultur, Geschichte und Natur auf Saipan",
+   "city": "Saipan",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.ldi.saipan&hl=en_US"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.discoversaipan.tinianwaysidestour",
+   "pkg": "",
+   "name": "DiscoverTinian Tour (Web-App)",
+   "note": "Tinian-Rundgang als Web-App ohne Download",
+   "url": "https://www.discoversaipan.com/shop/tinian-tour-app/",
+   "nostore": true,
+   "src": "https://www.discoversaipan.com/shop/tinian-tour-app/"
+  }
+ ]
+}

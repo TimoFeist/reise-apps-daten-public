@@ -8,26 +8,28 @@
  "discontinued": [],
  "apps": [
   {
-   "name": "Snapp!",
+   "name": "Snapp",
    "cat": "taxi",
    "pkg": "cab.snapp.passenger.play",
    "ess": true,
-   "note": "Größter Fahrdienst, englisches Menü, Zahlung auch bar",
+   "note": "Snapp-Web-App, Android über Bazaar oder Myket",
    "city": "",
    "use": "no",
    "req": "Iranische Telefonnummer zur Bestätigung nötig",
-   "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+   "src": "https://app.snapp.taxi/",
+   "url": "https://app.snapp.taxi/"
   },
   {
    "name": "Tapsi",
    "cat": "taxi",
    "pkg": "taxi.tap30.passenger.play",
    "ess": false,
-   "note": "Fahrdienst mit englischer Oberfläche",
+   "note": "Tapsi-Webseite und Web-App app.tapsi.cab",
    "city": "",
    "use": "no",
    "req": "Iranische Telefonnummer für SMS-Code nötig",
-   "src": "https://legendaryiran.com/blog/a-complete-guide-to-online-taxi-in-iran-snapp-and-tapsi/"
+   "src": "https://app.tapsi.cab/",
+   "url": "https://tapsi.cab/"
   },
   {
    "name": "Maxim",
@@ -45,22 +47,24 @@
    "cat": "delivery",
    "pkg": "com.zoodfood.android",
    "ess": false,
-   "note": "Essen aus vielen Läden bestellen, Bezahlung auch bar",
+   "note": "Essenslieferung im Web, App über Bazaar",
    "city": "",
    "use": "limited",
    "req": "Onlinezahlung nur mit iranischer Bankkarte",
-   "src": "https://cafebazaar.ir/app/com.zoodfood.android?l=en"
+   "src": "https://snappfood.ir/",
+   "url": "https://snappfood.ir/"
   },
   {
    "name": "Alibaba",
    "cat": "rail",
    "pkg": "ir.alibaba",
    "ess": false,
-   "note": "Zug, Bus, Inlandsflüge und Hotels in Iran buchen",
+   "note": "Bahn-, Flug- und Busbuchung im Web",
    "city": "",
    "use": "no",
    "req": "Zahlung nur online in Rial mit iranischer Karte",
-   "src": "https://cafebazaar.ir/app/ir.alibaba?l=en"
+   "src": "https://www.alibaba.ir/",
+   "url": "https://www.alibaba.ir/"
   },
   {
    "name": "Neshan Map",
@@ -74,15 +78,16 @@
    "src": "https://apps.apple.com/gb/app/neshan-map/id1548188093"
   },
   {
-   "name": "MyTehran",
+   "name": "MyTehran (Tehran-e Man)",
    "cat": "transit",
    "pkg": "com.mytehran",
    "ess": false,
-   "note": "App der Stadt: Metrotickets, Fahrkarte aufladen, Parken",
+   "note": "Stadtdienste Teheran, App über Cafe Bazaar",
    "city": "Tehran",
    "use": "limited",
    "req": "Zahlungen nur mit iranischer Bankkarte",
-   "src": "https://cafebazaar.ir/app/com.mytehran?l=en"
+   "src": "https://cafebazaar.ir/app/com.mytehran?l=en",
+   "url": "https://mytehran.ir/"
   },
   {
    "name": "Grindr",
@@ -94,6 +99,53 @@
    "use": "no",
    "req": "Gesperrt, Homosexualität strafbar, Überwachung möglich",
    "src": "https://techradar.com/vpn/grindr-is-the-second-most-banned-social-apphow-to-unblock-it"
+  }
+ ],
+ "replace": [
+  {
+   "old": "cab.snapp.passenger.play",
+   "pkg": "",
+   "name": "Snapp",
+   "note": "Snapp-Web-App, Android über Bazaar oder Myket",
+   "url": "https://app.snapp.taxi/",
+   "nostore": true,
+   "src": "https://app.snapp.taxi/"
+  },
+  {
+   "old": "taxi.tap30.passenger.play",
+   "pkg": "",
+   "name": "Tapsi",
+   "note": "Tapsi-Webseite und Web-App app.tapsi.cab",
+   "url": "https://tapsi.cab/",
+   "nostore": true,
+   "src": "https://app.tapsi.cab/"
+  },
+  {
+   "old": "com.zoodfood.android",
+   "pkg": "",
+   "name": "SnappFood",
+   "note": "Essenslieferung im Web, App über Bazaar",
+   "url": "https://snappfood.ir/",
+   "nostore": true,
+   "src": "https://snappfood.ir/"
+  },
+  {
+   "old": "ir.alibaba",
+   "pkg": "",
+   "name": "Alibaba",
+   "note": "Bahn-, Flug- und Busbuchung im Web",
+   "url": "https://www.alibaba.ir/",
+   "nostore": true,
+   "src": "https://www.alibaba.ir/"
+  },
+  {
+   "old": "com.mytehran",
+   "pkg": "",
+   "name": "MyTehran (Tehran-e Man)",
+   "note": "Stadtdienste Teheran, App über Cafe Bazaar",
+   "url": "https://mytehran.ir/",
+   "nostore": true,
+   "src": "https://cafebazaar.ir/app/com.mytehran?l=en"
   }
  ]
 }

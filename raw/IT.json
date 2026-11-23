@@ -305,11 +305,12 @@
    "cat": "transit",
    "pkg": "com.rsm.muoversiaroma",
    "ess": false,
-   "note": "Routen und Wartezeiten für Bus und Tram",
+   "note": "Offizielle Webseite: ZTL, Verkehr, Streiks",
    "city": "Rome",
    "use": "ok",
    "req": "",
-   "src": "https://it.northleg.com/roma/trasporto/strumenti-utili/roma-mobilita/"
+   "src": "https://romamobilita.it/",
+   "url": "https://romamobilita.it/"
   },
   {
    "name": "ATAC ROMA",
@@ -446,5 +447,16 @@
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/italiensicherheit-211322",
- "fetched": "2026-11-17"
+ "fetched": "2026-11-17",
+ "replace": [
+  {
+   "old": "com.rsm.muoversiaroma",
+   "pkg": "",
+   "name": "Roma Mobilità",
+   "note": "Offizielle Webseite: ZTL, Verkehr, Streiks",
+   "url": "https://romamobilita.it/",
+   "nostore": true,
+   "src": "https://romamobilita.it/"
+  }
+ ]
 }

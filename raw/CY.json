@@ -5,7 +5,18 @@
  "note": "Deutsche reisen mit Reisepass oder Personalausweis ein. Zypern gehört nicht zum Schengen-Raum, daher wird an der Grenze kontrolliert. Die Einreise über Häfen und Flughäfen im Norden gilt in der Republik als illegale Einreise.",
  "lgbtq_note": "Homosexuelle Handlungen sind auf der ganzen Insel nicht strafbar, die gesellschaftliche Akzeptanz offen gelebter Homosexualität ist aber gering.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/zypern-node/zypernsicherheit-210258",
- "discontinued": [],
+ "discontinued": [
+  {
+   "name": "",
+   "pkg": "com.hemed.takeride",
+   "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+  },
+  {
+   "name": "",
+   "pkg": "com.myscoobee",
+   "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+  }
+ ],
  "apps": [
   {
    "name": "Bolt",
@@ -41,15 +52,15 @@
    "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
   },
   {
-   "name": "Viva Cy",
+   "name": "VivaCy Taxi",
    "cat": "taxi",
-   "pkg": "vivacy.taxi",
+   "pkg": "taxi.vivacy.client",
    "ess": false,
-   "note": "Lokaler Taxidienst mit Büro in Limassol",
+   "note": "Taxi-App für Zypern",
    "city": "",
    "use": "ok",
    "req": "",
-   "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+   "src": "https://vivacy.taxi/"
   },
   {
    "name": "inDrive",
@@ -162,28 +173,6 @@
    "src": "https://cyprus.nextbike.com.cy/about"
   },
   {
-   "name": "Take A Ride",
-   "cat": "micro",
-   "pkg": "com.hemed.takeride",
-   "ess": false,
-   "note": "E-Scooter zum Ausleihen innerhalb einer Zone",
-   "city": "",
-   "use": "limited",
-   "req": "Mindestalter 17, Helm ist Pflicht",
-   "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
-  },
-  {
-   "name": "ScooBee",
-   "cat": "micro",
-   "pkg": "com.myscoobee",
-   "ess": false,
-   "note": "E-Scooter Verleih nur in Limassol",
-   "city": "Limassol",
-   "use": "limited",
-   "req": "Mindestalter 17, Helm ist Pflicht",
-   "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
-  },
-  {
    "name": "Samokat",
    "cat": "micro",
    "pkg": "",
@@ -248,6 +237,17 @@
    "use": "ok",
    "req": "",
    "src": "https://smartnicosia.eu/"
+  }
+ ],
+ "replace": [
+  {
+   "old": "vivacy.taxi",
+   "pkg": "taxi.vivacy.client",
+   "name": "VivaCy Taxi",
+   "note": "Taxi-App für Zypern",
+   "url": "",
+   "nostore": false,
+   "src": "https://vivacy.taxi/"
   }
  ]
 }

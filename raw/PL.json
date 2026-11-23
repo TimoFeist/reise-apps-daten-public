@@ -227,5 +227,16 @@
    "req": "",
    "src": "https://visitpoznan.pl/en/poznan-city-card"
   }
+ ],
+ "replace": [
+  {
+   "old": "pl.loyaltyclub.polferriescard",
+   "pkg": "",
+   "name": "Polferries",
+   "note": "Keine App mehr, Buchung über die Webseite",
+   "url": "https://polferries.pl/",
+   "nostore": true,
+   "src": "https://polferries.pl/"
+  }
  ]
 }

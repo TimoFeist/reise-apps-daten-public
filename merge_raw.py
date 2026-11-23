@@ -17,6 +17,7 @@ Normalerweise läuft das automatisch per GitHub Action nach jedem Push.
 Format raw/<ISO>.json:
 {"src": "https://...", "fetched": "JJJJ-MM-TT", "updated": "...", "note": "Tipp für das Land",
  "discontinued": [{"name": "", "pkg": "", "src": ""}],
+ "replace": [{"old": "<alter pkg>", "pkg": "<neuer pkg oder leer>", "name": "", "note": "", "url": "", "nostore": false, "src": ""}],
  "apps": [{"name": "", "cat": "", "pkg": "", "ess": true, "note": "", "city": "",
            "use": "ok", "req": ""}]}
 """
@@ -158,6 +159,28 @@ def merge(data, code, raw):
                         x["req"] = "Laut Quelle eingestellt"
                     else:
                         lst.remove(x)
+    # Geänderte Paketnamen oder Wechsel auf Web/APK: gilt auch für eigene Einträge
+    for rep in raw.get("replace", []):
+        old = (rep.get("old") or "").strip().lower()
+        if not old:
+            continue
+        new = (rep.get("pkg") or "").strip()
+        for lst in [country["apps"]] + [ci["apps"] for ci in country["cities"]]:
+            for x in list(lst):
+                if (x.get("pkg") or "").lower() != old:
+                    continue
+                if new and any((y.get("pkg") or "").lower() == new.lower() for y in lst):
+                    lst.remove(x)  # Nachfolger steht schon in der Liste
+                    continue
+                if new:
+                    x["pkg"] = new
+                for f in ("name", "note", "url", "src"):
+                    if rep.get(f):
+                        x[f] = rep[f]
+                if rep.get("nostore"):
+                    x["nostore"] = True
+                else:
+                    x.pop("nostore", None)
     country["cities"].sort(key=lambda c: c["name"])
     return added
 

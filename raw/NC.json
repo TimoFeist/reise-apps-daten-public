@@ -12,22 +12,24 @@
    "cat": "transit",
    "pkg": "nc.smtu.taneo",
    "ess": true,
-   "note": "Offizielle Bus-App für den Großraum Nouméa",
+   "note": "Netzplan, Fahrpläne und Echtzeit im Web",
    "city": "Noumea",
    "use": "ok",
    "req": "",
-   "src": "https://www.taneo.nc/application-mobile/"
+   "src": "https://www.taneo.nc/",
+   "url": "https://www.taneo.nc/"
   },
   {
-   "name": "Taneo e-ticket",
+   "name": "Tanéo Boutique en ligne",
    "cat": "transit",
    "pkg": "com.actoll.tpass.taneo",
    "ess": false,
-   "note": "Bustickets für das Tanéo-Netz auf dem Handy kaufen",
+   "note": "PASS-Karte online aufladen",
    "city": "Noumea",
    "use": "ok",
    "req": "",
-   "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.taneo&hl=en_US"
+   "src": "https://www.taneo.nc/taneo-et-vous/faq",
+   "url": "https://www.taneo.nc/boutique-en-ligne"
   },
   {
    "name": "Zygo",
@@ -94,6 +96,26 @@
    "use": "no",
    "req": "Nur mit Konto und Karte der BNC",
    "src": "https://apps.apple.com/us/app/bnc-macarte/id6449153469"
+  }
+ ],
+ "replace": [
+  {
+   "old": "nc.smtu.taneo",
+   "pkg": "",
+   "name": "Tanéo",
+   "note": "Netzplan, Fahrpläne und Echtzeit im Web",
+   "url": "https://www.taneo.nc/",
+   "nostore": true,
+   "src": "https://www.taneo.nc/"
+  },
+  {
+   "old": "com.actoll.tpass.taneo",
+   "pkg": "",
+   "name": "Tanéo Boutique en ligne",
+   "note": "PASS-Karte online aufladen",
+   "url": "https://www.taneo.nc/boutique-en-ligne",
+   "nostore": true,
+   "src": "https://www.taneo.nc/taneo-et-vous/faq"
   }
  ]
 }

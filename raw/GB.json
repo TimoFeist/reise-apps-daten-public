@@ -346,5 +346,25 @@
    "req": "",
    "src": "https://www.firstbus.co.uk/greater-glasgow/tickets/where-buy/mtickets-faqs"
   }
+ ],
+ "replace": [
+  {
+   "old": "com.ticketmaster.mobile.android.uk",
+   "pkg": "com.ticketmaster.mobile.android.na",
+   "name": "Ticketmaster",
+   "note": "Globale Ticketmaster-App, Land UK wählbar",
+   "url": "",
+   "nostore": false,
+   "src": "https://www.ticketmaster.co.uk"
+  },
+  {
+   "old": "com.firstscotrail",
+   "pkg": "uk.co.scotrail.app",
+   "name": "ScotRail Trains",
+   "note": "Offizielle ScotRail-App",
+   "url": "",
+   "nostore": false,
+   "src": "https://play.google.com/store/apps/details?id=uk.co.scotrail.app&hl=en&gl=GB"
+  }
  ]
 }

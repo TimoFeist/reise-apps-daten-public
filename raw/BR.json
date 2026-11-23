@@ -171,15 +171,16 @@
    "src": "https://www.metrorio.com.br/como-pagar/meios-e-tarifas"
   },
   {
-   "name": "visit.rio",
+   "name": "Visit Rio",
    "cat": "tourism",
    "pkg": "com.ionicframework.visitrioapp832818",
    "ess": false,
-   "note": "Offizielle Tourismus-App der Stadt Rio",
+   "note": "Offizielles Tourismusportal von Rio",
    "city": "Rio de Janeiro",
    "use": "ok",
    "req": "",
-   "src": "https://riotur.rio/app/"
+   "src": "https://www.panrotas.com.br/mercado/destinos/2023/09/visit-rio-lanca-nova-marca-na-abav-expo-e-aposta-no-digital_199998.html",
+   "url": "https://visitrio.com.br/"
   },
   {
    "name": "Passeio Carioca",
@@ -237,5 +238,16 @@
    "src": "https://www.pmf.sc.gov.br/noticias/index.php?pagina=notpagina&noti=25747"
   }
  ],
- "fetched": "2026-11-17"
+ "fetched": "2026-11-17",
+ "replace": [
+  {
+   "old": "com.ionicframework.visitrioapp832818",
+   "pkg": "",
+   "name": "Visit Rio",
+   "note": "Offizielles Tourismusportal von Rio",
+   "url": "https://visitrio.com.br/",
+   "nostore": true,
+   "src": "https://www.panrotas.com.br/mercado/destinos/2023/09/visit-rio-lanca-nova-marca-na-abav-expo-e-aposta-no-digital_199998.html"
+  }
+ ]
 }

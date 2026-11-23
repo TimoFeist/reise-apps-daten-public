@@ -1,1 +1,513 @@
-{"src": "https://www.bento.travel/australia", "fetched": "2026-11-17", "updated": "August 2026", "note": "Transit- und Warn-Apps passend zur Route laden und in Melbourne die laufende myki-Umstellung beachten.", "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Ehe für alle ist eingeführt, Rechte für trans Personen variieren je Bundesstaat.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/australien-sicherheit/213920", "discontinued": [{"name": "Popcar Car Share", "pkg": "au.popcar.classic.client101", "src": "https://www.goget.com.au/blog/popcar-closure-what-you-need-to-know"}], "apps": [{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Verbreiteter Fahrdienst in Städten und an Flughäfen", "city": "", "use": "ok", "req": ""}, {"name": "DiDi", "cat": "taxi", "pkg": "com.didiglobal.passenger", "ess": false, "note": "Fahrdienst als Alternative, nur in einigen Städten", "city": "", "use": "ok", "req": ""}, {"name": "13cabs", "cat": "taxi", "pkg": "com.cabs", "ess": false, "note": "Lizenzierte Taxis in den großen Städten buchen", "city": "", "use": "ok", "req": ""}, {"name": "Shebah", "cat": "taxi", "pkg": "au.com.shebah.rider", "ess": false, "note": "Vorbestellte Fahrten für Frauen und Kinder", "city": "", "use": "ok", "req": ""}, {"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": true, "note": "Essen und Kleinkram in vielen Städten liefern lassen", "city": "", "use": "ok", "req": ""}, {"name": "DoorDash", "cat": "delivery", "pkg": "com.dd.doordash", "ess": false, "note": "Lieferung von Restaurants und Supermärkten", "city": "", "use": "ok", "req": ""}, {"name": "HungryPanda", "cat": "delivery", "pkg": "com.hungrypanda.waimai", "ess": false, "note": "Asiatisches Essen, nur in Großstädten", "city": "", "use": "ok", "req": ""}, {"name": "OpenTable", "cat": "delivery", "pkg": "com.opentable", "ess": false, "note": "Restaurants finden und Tische reservieren", "city": "", "use": "ok", "req": ""}, {"name": "EatClub", "cat": "delivery", "pkg": "dinnerdeal.android.customer", "ess": false, "note": "Rabatte bei Restaurants zu bestimmten Zeiten", "city": "", "use": "ok", "req": ""}, {"name": "Waze", "cat": "maps", "pkg": "com.waze", "ess": false, "note": "Navigation mit Verkehrs- und Gefahrenmeldungen", "city": "", "use": "ok", "req": ""}, {"name": "Opal Travel", "cat": "transit", "pkg": "au.com.opal.travel", "ess": false, "note": "Offizielle NSW-App mit Fahrplan und Opal-Konto", "city": "Sydney", "use": "ok", "req": "", "src": "https://transportnsw.info/apps/opal-travel"}, {"name": "Public Transport Victoria app", "cat": "transit", "pkg": "au.gov.vic.ptv", "ess": false, "note": "Fahrplan für Zug, Tram und Bus, myki aufladen", "city": "Melbourne", "use": "ok", "req": "", "src": "https://ptv.vic.gov.au/tickets/myki-upgrade"}, {"name": "Translink", "cat": "transit", "pkg": "de.hafas.android.translink", "ess": false, "note": "Offizieller Routenplaner für Südost-Queensland", "city": "Brisbane", "use": "ok", "req": "", "src": "https://translink.com.au/news-and-media/articles/817366"}, {"name": "Transperth", "cat": "transit", "pkg": "au.gov.wa.pta.transperth", "ess": false, "note": "Fahrplan mit Live-Abfahrten und Störungen", "city": "Perth", "use": "ok", "req": "", "src": "https://www.transperth.wa.gov.au/App"}, {"name": "Adelaide Metro Buy & Go", "cat": "transit", "pkg": "au.gov.sa.adelaidemetroapp", "ess": false, "note": "Handytickets und Besucherpässe für Adelaide", "city": "Adelaide", "use": "ok", "req": ""}, {"name": "MyWay+", "cat": "transit", "pkg": "au.gov.act.transport.mywayplus", "ess": false, "note": "Fahrplan und Tarifkonto, Bankkarte genügt", "city": "Canberra", "use": "ok", "req": ""}, {"name": "Metro Tasmania", "cat": "transit", "pkg": "au.com.metrotas.tripplanner", "ess": false, "note": "Busse in Hobart, Launceston und Burnie planen", "city": "", "use": "ok", "req": ""}, {"name": "NT Bus Tracker", "cat": "transit", "pkg": "au.gov.nec.nt.bustracker", "ess": false, "note": "Busse in Darwin und Alice Springs live verfolgen", "city": "", "use": "ok", "req": ""}, {"name": "Rome2Rio", "cat": "rail", "pkg": "com.rome2rio.www.rome2rio", "ess": false, "note": "Flug, Zug, Bus und Fähre vergleichen", "city": "", "use": "ok", "req": ""}, {"name": "Woolworths", "cat": "shopping", "pkg": "com.woolworths", "ess": false, "note": "Supermarkt mit Lieferung und Abholung", "city": "", "use": "ok", "req": ""}, {"name": "Coles", "cat": "shopping", "pkg": "com.coles.android.shopmate", "ess": false, "note": "Supermarkt mit Lieferung und Einkaufslisten", "city": "", "use": "limited", "req": "Handynummer mit Bestätigungscode für Konto nötig"}, {"name": "Tourist Refund Scheme", "cat": "entry", "pkg": "au.gov.customs.trs", "ess": false, "note": "Steuerrückerstattung vor Ausreise per QR vorbereiten", "city": "", "use": "ok", "req": ""}, {"name": "AustralianETA", "cat": "entry", "pkg": "au.gov.homeaffairs.eta", "ess": true, "note": "Offizielle ETA-App für berechtigte Pässe", "city": "", "use": "limited", "req": "Nur für berechtigte Pässe, Deutsche nutzen meist eVisitor 651"}, {"name": "WikiCamps Australia", "cat": "tourism", "pkg": "au.com.angryrobot.wikicamps", "ess": false, "note": "Camping, Rastplätze und Versorgung finden", "city": "", "use": "ok", "req": ""}, {"name": "BOM Weather", "cat": "safety", "pkg": "au.gov.bom.metview", "ess": true, "note": "Offizielles Wetter mit Radar und Warnungen", "city": "", "use": "ok", "req": ""}, {"name": "Emergency Plus", "cat": "safety", "pkg": "com.threesixtyentertainment.nesn", "ess": true, "note": "Zeigt Standort für den Notruf, ruft nicht selbst", "city": "", "use": "ok", "req": ""}, {"name": "Hazards Near Me NSW", "cat": "safety", "pkg": "au.gov.nsw.rfs.firesnearme.nsw", "ess": false, "note": "Warnungen zu Buschfeuer, Flut und Tsunami in NSW", "city": "", "use": "ok", "req": ""}, {"name": "VicEmergency", "cat": "safety", "pkg": "com.naturallybeing.fireready", "ess": false, "note": "Offizielle Notfallwarnungen für Victoria", "city": "", "use": "ok", "req": ""}, {"name": "Emergency WA", "cat": "safety", "pkg": "au.gov.wa.dfes.emergencywa", "ess": false, "note": "Warnungen und Einsätze in Westaustralien", "city": "", "use": "ok", "req": ""}, {"name": "Alert SA", "cat": "safety", "pkg": "au.gov.sa.safecom.alertsa", "ess": false, "note": "Warnungen und Einsätze in Südaustralien", "city": "", "use": "ok", "req": ""}, {"name": "TasALERT", "cat": "safety", "pkg": "au.gov.tas.alert.app", "ess": false, "note": "Warnungen für Tasmanien mit gespeicherten Orten", "city": "", "use": "ok", "req": ""}, {"name": "GoGet", "cat": "carshare", "pkg": "com.goget.goget", "ess": false, "note": "Carsharing pro Stunde oder Tag", "city": "", "use": "limited", "req": "Ab 18, ein Jahr Fahrpraxis, Übersetzung bei nicht englischem Führerschein", "src": "https://intercom.help/goget-support/en/articles/4806552-i-have-a-foreign-driver-s-license-can-i-still-join"}, {"name": "Flexicar", "cat": "carshare", "pkg": "com.flexicar.app", "ess": false, "note": "Carsharing mit Autos an festen Stellplätzen", "city": "", "use": "limited", "req": "Ab 18, Antrag muss freigegeben werden, Passdaten können verlangt werden", "src": "https://flexicar.com.au/frequently-asked-questions"}, {"name": "Uber Carshare", "cat": "carshare", "pkg": "au.com.carnextdoor.app", "ess": false, "note": "Privatautos von Nachbarn stundenweise mieten", "city": "", "use": "limited", "req": "Führerschein vorab in der App prüfen lassen, Übersetzung falls nicht englisch", "src": "https://blog.ubercarshare.com/car-sharing/driving-in-australia-with-an-overseas-licence/"}, {"name": "Lime", "cat": "micro", "pkg": "", "ess": false, "note": "Leih-E-Bikes und E-Scooter, ab 16 Jahren", "city": "", "use": "ok", "req": "", "src": "https://www.li.me/en-au/locations/melbourne"}, {"name": "Beam", "cat": "micro", "pkg": "", "ess": false, "note": "Leih-E-Scooter, ab 16 und mit Helm", "city": "Adelaide", "use": "ok", "req": "", "src": "https://www.cityofadelaide.com.au/transport-parking/public-transport/e-scooters/"}, {"name": "Neuron Mobility", "cat": "micro", "pkg": "", "ess": false, "note": "Leih-E-Scooter, ab 16 und mit Helm", "city": "Adelaide", "use": "ok", "req": "", "src": "https://www.cityofadelaide.com.au/transport-parking/public-transport/e-scooters/"}, {"name": "Go City", "cat": "tourism", "pkg": "com.gocitypass", "ess": false, "note": "Digitaler Sydney-Pass für viele Attraktionen", "city": "", "use": "ok", "req": "", "src": "https://gocity.com/en/sydney/things-to-do/complete-guide-to-using-go-city-sydney-passes"}, {"name": "Fever", "cat": "tourism", "pkg": "com.feverup.fever", "ess": false, "note": "Tickets für Konzerte, Ausstellungen und Events", "city": "", "use": "ok", "req": "", "src": "https://feverup.com/en/sydney/search"}, {"name": "NaviLens GO", "cat": "transit", "pkg": "com.neosistec.navilensgo", "ess": false, "note": "Codes an Haltestellen vorlesen lassen, kostenlos", "city": "", "use": "ok", "req": "", "src": "https://www.navilens.com/en/case-studies/yarra-trams-melbourne"}, {"name": "Secure Parking", "cat": "parking", "pkg": "au.com.secureparking.production", "ess": false, "note": "Parkhäuser buchen, Einfahrt per QR-Code", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/au/app/secure-parking/id1552083105"}, {"name": "ParknPay", "cat": "parking", "pkg": "au.gov.nsw.onegov.parknpay.release", "ess": false, "note": "Parken in NSW zahlen, auch als Gast", "city": "Sydney", "use": "ok", "req": "", "src": "https://parknpay.nsw.gov.au/faqs"}, {"name": "EasyPark", "cat": "parking", "pkg": "", "ess": false, "note": "Straßenparken der Stadt per App zahlen", "city": "Melbourne", "use": "ok", "req": "", "src": "https://www.melbourne.vic.gov.au/parking-and-transport/parking/Pages/kerbside-parking-fees.aspx"}, {"name": "EasyPark", "cat": "parking", "pkg": "", "ess": false, "note": "Städtische Parkplätze per App zahlen", "city": "Perth", "use": "ok", "req": "", "src": "https://perth.wa.gov.au/news-and-updates/all-news/new-parking-payment-app-rolling-out-in-the-city-of-perth"}, {"name": "CellOPark", "cat": "parking", "pkg": "air.com.cellopark.au", "ess": false, "note": "Zugelassene Park-App der Stadt Brisbane", "city": "Brisbane", "use": "ok", "req": "", "src": "https://brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-meters-and-fees/pay-by-app-zones"}, {"name": "PayStay", "cat": "parking", "pkg": "au.com.paystay", "ess": false, "note": "Zweite zugelassene Park-App in Brisbane", "city": "Brisbane", "use": "ok", "req": "", "src": "https://brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-meters-and-fees/pay-by-app-zones"}, {"name": "UPark", "cat": "parking", "pkg": "", "ess": false, "note": "Web-App per QR am Automaten, auch als Gast", "city": "Adelaide", "use": "ok", "req": "", "src": "https://www.cityofadelaide.com.au/transport-parking/parking/pay-for-parking-in-the-city"}]}
+{
+ "src": "https://www.bento.travel/australia",
+ "fetched": "2026-11-17",
+ "updated": "August 2026",
+ "note": "Transit- und Warn-Apps passend zur Route laden und in Melbourne die laufende myki-Umstellung beachten.",
+ "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Ehe für alle ist eingeführt, Rechte für trans Personen variieren je Bundesstaat.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/australien-sicherheit/213920",
+ "discontinued": [
+  {
+   "name": "Popcar Car Share",
+   "pkg": "au.popcar.classic.client101",
+   "src": "https://www.goget.com.au/blog/popcar-closure-what-you-need-to-know"
+  },
+  {
+   "name": "",
+   "pkg": "au.com.carnextdoor.app",
+   "src": "https://carexpert.com.au/car-news/uber-carshare-folds-due-to-close-by-end-of-this-week-report"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Verbreiteter Fahrdienst in Städten und an Flughäfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "ess": false,
+   "note": "Fahrdienst als Alternative, nur in einigen Städten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "13cabs",
+   "cat": "taxi",
+   "pkg": "com.cabs",
+   "ess": false,
+   "note": "Lizenzierte Taxis in den großen Städten buchen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Shebah",
+   "cat": "taxi",
+   "pkg": "au.com.shebah.rider",
+   "ess": false,
+   "note": "Vorbestellte Fahrten für Frauen und Kinder",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": true,
+   "note": "Essen und Kleinkram in vielen Städten liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DoorDash",
+   "cat": "delivery",
+   "pkg": "com.dd.doordash",
+   "ess": false,
+   "note": "Lieferung von Restaurants und Supermärkten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "HungryPanda",
+   "cat": "delivery",
+   "pkg": "com.hungrypanda.waimai",
+   "ess": false,
+   "note": "Asiatisches Essen, nur in Großstädten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "OpenTable",
+   "cat": "delivery",
+   "pkg": "com.opentable",
+   "ess": false,
+   "note": "Restaurants finden und Tische reservieren",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "EatClub",
+   "cat": "delivery",
+   "pkg": "dinnerdeal.android.customer",
+   "ess": false,
+   "note": "Rabatte bei Restaurants zu bestimmten Zeiten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Navigation mit Verkehrs- und Gefahrenmeldungen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Opal Travel",
+   "cat": "transit",
+   "pkg": "au.com.opal.travel",
+   "ess": false,
+   "note": "Offizielle NSW-App mit Fahrplan und Opal-Konto",
+   "city": "Sydney",
+   "use": "ok",
+   "req": "",
+   "src": "https://transportnsw.info/apps/opal-travel"
+  },
+  {
+   "name": "Public Transport Victoria app",
+   "cat": "transit",
+   "pkg": "au.gov.vic.ptv",
+   "ess": false,
+   "note": "Fahrplan für Zug, Tram und Bus, myki aufladen",
+   "city": "Melbourne",
+   "use": "ok",
+   "req": "",
+   "src": "https://ptv.vic.gov.au/tickets/myki-upgrade"
+  },
+  {
+   "name": "Translink",
+   "cat": "transit",
+   "pkg": "de.hafas.android.translink",
+   "ess": false,
+   "note": "Offizieller Routenplaner für Südost-Queensland",
+   "city": "Brisbane",
+   "use": "ok",
+   "req": "",
+   "src": "https://translink.com.au/news-and-media/articles/817366"
+  },
+  {
+   "name": "Transperth",
+   "cat": "transit",
+   "pkg": "au.gov.wa.pta.transperth",
+   "ess": false,
+   "note": "Fahrplan mit Live-Abfahrten und Störungen",
+   "city": "Perth",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.transperth.wa.gov.au/App"
+  },
+  {
+   "name": "Adelaide Metro Buy & Go",
+   "cat": "transit",
+   "pkg": "au.gov.sa.adelaidemetroapp",
+   "ess": false,
+   "note": "Handytickets und Besucherpässe für Adelaide",
+   "city": "Adelaide",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "MyWay+",
+   "cat": "transit",
+   "pkg": "au.gov.act.transport.mywayplus",
+   "ess": false,
+   "note": "Fahrplan und Tarifkonto, Bankkarte genügt",
+   "city": "Canberra",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Metro Tasmania",
+   "cat": "transit",
+   "pkg": "au.com.metrotas.tripplanner",
+   "ess": false,
+   "note": "Busse in Hobart, Launceston und Burnie planen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "NT Bus Tracker",
+   "cat": "transit",
+   "pkg": "au.gov.nec.nt.bustracker",
+   "ess": false,
+   "note": "Busse in Darwin und Alice Springs live verfolgen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Rome2Rio",
+   "cat": "rail",
+   "pkg": "com.rome2rio.www.rome2rio",
+   "ess": false,
+   "note": "Flug, Zug, Bus und Fähre vergleichen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Woolworths",
+   "cat": "shopping",
+   "pkg": "com.woolworths",
+   "ess": false,
+   "note": "Supermarkt mit Lieferung und Abholung",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Coles",
+   "cat": "shopping",
+   "pkg": "com.coles.android.shopmate",
+   "ess": false,
+   "note": "Supermarkt mit Lieferung und Einkaufslisten",
+   "city": "",
+   "use": "limited",
+   "req": "Handynummer mit Bestätigungscode für Konto nötig"
+  },
+  {
+   "name": "Tourist Refund Scheme",
+   "cat": "entry",
+   "pkg": "au.gov.customs.trs",
+   "ess": false,
+   "note": "Steuerrückerstattung vor Ausreise per QR vorbereiten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "AustralianETA",
+   "cat": "entry",
+   "pkg": "au.gov.homeaffairs.eta",
+   "ess": true,
+   "note": "Offizielle ETA-App für berechtigte Pässe",
+   "city": "",
+   "use": "limited",
+   "req": "Nur für berechtigte Pässe, Deutsche nutzen meist eVisitor 651"
+  },
+  {
+   "name": "WikiCamps Australia",
+   "cat": "tourism",
+   "pkg": "au.com.angryrobot.wikicamps",
+   "ess": false,
+   "note": "Camping, Rastplätze und Versorgung finden",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "BOM Weather",
+   "cat": "safety",
+   "pkg": "au.gov.bom.metview",
+   "ess": true,
+   "note": "Offizielles Wetter mit Radar und Warnungen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Emergency Plus",
+   "cat": "safety",
+   "pkg": "com.threesixtyentertainment.nesn",
+   "ess": true,
+   "note": "Zeigt Standort für den Notruf, ruft nicht selbst",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Hazards Near Me NSW",
+   "cat": "safety",
+   "pkg": "au.gov.nsw.rfs.firesnearme.nsw",
+   "ess": false,
+   "note": "Warnungen zu Buschfeuer, Flut und Tsunami in NSW",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "VicEmergency",
+   "cat": "safety",
+   "pkg": "com.naturallybeing.fireready",
+   "ess": false,
+   "note": "Offizielle Notfallwarnungen für Victoria",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Emergency WA",
+   "cat": "safety",
+   "pkg": "au.gov.wa.dfes.emergencywa",
+   "ess": false,
+   "note": "Warnungen und Einsätze in Westaustralien",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Alert SA",
+   "cat": "safety",
+   "pkg": "au.gov.sa.safecom.alertsa",
+   "ess": false,
+   "note": "Warnungen und Einsätze in Südaustralien",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "TasALERT",
+   "cat": "safety",
+   "pkg": "au.gov.tas.alert.app",
+   "ess": false,
+   "note": "Warnungen für Tasmanien mit gespeicherten Orten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "GoGet",
+   "cat": "carshare",
+   "pkg": "com.goget.goget",
+   "ess": false,
+   "note": "Carsharing pro Stunde oder Tag",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18, ein Jahr Fahrpraxis, Übersetzung bei nicht englischem Führerschein",
+   "src": "https://intercom.help/goget-support/en/articles/4806552-i-have-a-foreign-driver-s-license-can-i-still-join"
+  },
+  {
+   "name": "Flexicar",
+   "cat": "carshare",
+   "pkg": "com.flexicar.app",
+   "ess": false,
+   "note": "Carsharing mit Autos an festen Stellplätzen",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18, Antrag muss freigegeben werden, Passdaten können verlangt werden",
+   "src": "https://flexicar.com.au/frequently-asked-questions"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Bikes und E-Scooter, ab 16 Jahren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.li.me/en-au/locations/melbourne"
+  },
+  {
+   "name": "Beam",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Scooter, ab 16 und mit Helm",
+   "city": "Adelaide",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cityofadelaide.com.au/transport-parking/public-transport/e-scooters/"
+  },
+  {
+   "name": "Neuron Mobility",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Scooter, ab 16 und mit Helm",
+   "city": "Adelaide",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cityofadelaide.com.au/transport-parking/public-transport/e-scooters/"
+  },
+  {
+   "name": "Go City",
+   "cat": "tourism",
+   "pkg": "com.gocitypass",
+   "ess": false,
+   "note": "Digitaler Sydney-Pass für viele Attraktionen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://gocity.com/en/sydney/things-to-do/complete-guide-to-using-go-city-sydney-passes"
+  },
+  {
+   "name": "Fever",
+   "cat": "tourism",
+   "pkg": "com.feverup.fever",
+   "ess": false,
+   "note": "Tickets für Konzerte, Ausstellungen und Events",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://feverup.com/en/sydney/search"
+  },
+  {
+   "name": "NaviLens GO",
+   "cat": "transit",
+   "pkg": "com.neosistec.navilensgo",
+   "ess": false,
+   "note": "Codes an Haltestellen vorlesen lassen, kostenlos",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.navilens.com/en/case-studies/yarra-trams-melbourne"
+  },
+  {
+   "name": "Times PARKING",
+   "cat": "parking",
+   "pkg": "au.com.secureparking.production",
+   "ess": false,
+   "note": "Früher Secure Parking, Parkplätze online buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.times24.com.au/en-au/",
+   "url": "https://www.times24.com.au/en-au/"
+  },
+  {
+   "name": "ParknPay",
+   "cat": "parking",
+   "pkg": "au.gov.nsw.onegov.parknpay.release",
+   "ess": false,
+   "note": "Parken in NSW zahlen, auch als Gast",
+   "city": "Sydney",
+   "use": "ok",
+   "req": "",
+   "src": "https://parknpay.nsw.gov.au/faqs"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Straßenparken der Stadt per App zahlen",
+   "city": "Melbourne",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.melbourne.vic.gov.au/parking-and-transport/parking/Pages/kerbside-parking-fees.aspx"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Städtische Parkplätze per App zahlen",
+   "city": "Perth",
+   "use": "ok",
+   "req": "",
+   "src": "https://perth.wa.gov.au/news-and-updates/all-news/new-parking-payment-app-rolling-out-in-the-city-of-perth"
+  },
+  {
+   "name": "CellOPark",
+   "cat": "parking",
+   "pkg": "air.com.cellopark.au",
+   "ess": false,
+   "note": "Zugelassene Park-App der Stadt Brisbane",
+   "city": "Brisbane",
+   "use": "ok",
+   "req": "",
+   "src": "https://brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-meters-and-fees/pay-by-app-zones"
+  },
+  {
+   "name": "PayStay",
+   "cat": "parking",
+   "pkg": "au.com.paystay",
+   "ess": false,
+   "note": "Zweite zugelassene Park-App in Brisbane",
+   "city": "Brisbane",
+   "use": "ok",
+   "req": "",
+   "src": "https://brisbane.qld.gov.au/traffic-and-transport/parking-in-brisbane/parking-meters-and-fees/pay-by-app-zones"
+  },
+  {
+   "name": "UPark",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Web-App per QR am Automaten, auch als Gast",
+   "city": "Adelaide",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.cityofadelaide.com.au/transport-parking/parking/pay-for-parking-in-the-city"
+  }
+ ],
+ "replace": [
+  {
+   "old": "au.com.secureparking.production",
+   "pkg": "",
+   "name": "Times PARKING",
+   "note": "Früher Secure Parking, Parkplätze online buchen",
+   "url": "https://www.times24.com.au/en-au/",
+   "nostore": true,
+   "src": "https://www.times24.com.au/en-au/"
+  }
+ ]
+}

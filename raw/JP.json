@@ -5,7 +5,13 @@
  "note": "Deutsche reisen bis 90 Tage visumfrei mit Reisepass ein. Visit Japan Web nur über die offizielle Seite der Digital Agency nutzen, es kursieren Fälschungen.",
  "lgbtq_note": "Gleichgeschlechtliche Handlungen sind legal, Ehe oder eingetragene Partnerschaft gibt es aber nicht, die Tokyo Rainbow Pride läuft seit Jahren ohne Zwischenfälle.",
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/japan-node/japansicherheit/213032",
- "discontinued": [],
+ "discontinued": [
+  {
+   "name": "",
+   "pkg": "li.yapp.app2FB432B4",
+   "src": "https://apps.apple.com/jp/app/id6654900993"
+  }
+ ],
  "apps": [
   {
    "name": "Visit Japan Web",
@@ -237,17 +243,6 @@
    "use": "limited",
    "req": "SMS-fähige Nummer nötig, ausländische Nummern und Karten klappen nicht immer",
    "src": "https://www.docomo-cycle.jp/registration?lang=en"
-  },
-  {
-   "name": "Tokyo Metro For Tourists",
-   "cat": "transit",
-   "pkg": "li.yapp.app2FB432B4",
-   "ess": false,
-   "note": "Ausflugsziele entlang der Tokyo Metro nach Interessen",
-   "city": "Tokyo",
-   "use": "ok",
-   "req": "",
-   "src": "https://www.gotokyo.org/en/tourists/info/appli.html"
   },
   {
    "name": "Disaster Preparedness Tokyo",

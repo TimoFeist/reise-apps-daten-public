@@ -52,15 +52,15 @@
    "src": "https://www.bento.travel/kazakhstan"
   },
   {
-   "name": "Uber KZ",
+   "name": "Yandex Go",
    "cat": "taxi",
-   "pkg": "ru.yandex.uber_kz",
+   "pkg": "ru.yandex.taxi",
    "ess": false,
-   "note": "Eigene Uber-App für Kasachstan",
+   "note": "Uber KZ ist in Yandex Go aufgegangen",
    "city": "",
    "use": "ok",
    "req": "",
-   "src": "https://www.bento.travel/kazakhstan"
+   "src": "https://www.themoscowtimes.com/2017/07/13/tech-giant-yandex-mergers-uber-a58386/pdf"
   },
   {
    "name": "Glovo",
@@ -248,6 +248,17 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/id6461822030"
+  }
+ ],
+ "replace": [
+  {
+   "old": "ru.yandex.uber_kz",
+   "pkg": "ru.yandex.taxi",
+   "name": "Yandex Go",
+   "note": "Uber KZ ist in Yandex Go aufgegangen",
+   "url": "",
+   "nostore": false,
+   "src": "https://www.themoscowtimes.com/2017/07/13/tech-giant-yandex-mergers-uber-a58386/pdf"
   }
  ]
 }

@@ -1,1 +1,55 @@
-{"src": "https://www.legalaffairs.as.gov/copy-of-entry-permit-waiver-program", "fetched": "2026-11-17", "updated": "", "note": "Deutsche brauchen vorab eine Online-Genehmigung (Entry Permit Waiver), mindestens 48 Stunden vor Abflug, gilt bis 30 Tage.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1980 legal, Ehen werden vor Ort nicht geschlossen, die Gesellschaft ist religiös und eher konservativ.", "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_American_Samoa", "discontinued": [], "apps": [{"name": "NPS App", "cat": "tourism", "pkg": "gov.nps.mobileapp", "ess": true, "note": "Offizielle Nationalpark-App, Inhalte offline speicherbar", "city": "", "use": "ok", "req": "", "src": "https://www.nps.gov/subjects/digital/nps-apps.htm"}, {"name": "Hawaiian Airlines", "cat": "flights", "pkg": "com.hawaiianairlines.app", "ess": false, "note": "Buchung, Check-in und Bordkarte für Flüge nach Pago Pago", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.hawaiianairlines.app&hl=en_NZ"}, {"name": "Talofa Eats", "cat": "delivery", "pkg": "", "ess": false, "note": "Lokaler Essenslieferdienst auf Tutuila, Zahlung per Karte", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/talofa-eats/id1621982780"}]}
+{
+ "src": "https://www.legalaffairs.as.gov/copy-of-entry-permit-waiver-program",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Deutsche brauchen vorab eine Online-Genehmigung (Entry Permit Waiver), mindestens 48 Stunden vor Abflug, gilt bis 30 Tage.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1980 legal, Ehen werden vor Ort nicht geschlossen, die Gesellschaft ist religiös und eher konservativ.",
+ "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_American_Samoa",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "NPS App",
+   "cat": "tourism",
+   "pkg": "gov.nps.mobileapp",
+   "ess": true,
+   "note": "Offizielle Nationalpark-App, Inhalte offline speicherbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.nps.gov/subjects/digital/nps-apps.htm"
+  },
+  {
+   "name": "Alaska Hawaiian",
+   "cat": "flights",
+   "pkg": "com.alaskaairlines.android",
+   "ess": false,
+   "note": "Gemeinsame App von Alaska und Hawaiian Airlines",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://news.alaskaair.com/guest-experience/alaska-airlines-and-hawaiian-airlines-app/"
+  },
+  {
+   "name": "Talofa Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Essenslieferdienst auf Tutuila, Zahlung per Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/talofa-eats/id1621982780"
+  }
+ ],
+ "replace": [
+  {
+   "old": "com.hawaiianairlines.app",
+   "pkg": "com.alaskaairlines.android",
+   "name": "Alaska Hawaiian",
+   "note": "Gemeinsame App von Alaska und Hawaiian Airlines",
+   "url": "",
+   "nostore": false,
+   "src": "https://news.alaskaair.com/guest-experience/alaska-airlines-and-hawaiian-airlines-app/"
+  }
+ ]
+}
