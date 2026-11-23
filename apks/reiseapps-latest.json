@@ -1,10 +1,11 @@
 {
- "vc": 43,
- "vn": "1.0.43",
+ "vc": 44,
+ "vn": "1.0.44",
  "changes": [
-  "Apps zeigen jetzt ihr echtes Logo (direkt von Google Play, danach auf dem Handy gespeichert) statt eines Buchstabens"
+  "Apps zeigen jetzt ihr echtes Logo (direkt von Google Play, danach auf dem Handy gespeichert) statt eines Buchstabens",
+  "LGBTQ+-Orte: Pride- und CSD-Termine im Land, deine Stadt zuerst, dazu „Pride während der Reise“"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=f2660f2a2c52d9ac",
- "size": 3481968,
- "sha256": "f2660f2a2c52d9ac4e021a92b178aed5c73fc25b7700c68ac33ad8cb925cd283"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=ad5076c7f38f1d8d",
+ "size": 3501516,
+ "sha256": "ad5076c7f38f1d8d371af27784d6de7adc73add17063cbd71fb2fe73db21b9a4"
 }
