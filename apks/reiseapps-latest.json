@@ -1,11 +1,12 @@
 {
- "vc": 38,
- "vn": "1.0.38",
+ "vc": 39,
+ "vn": "1.0.39",
  "changes": [
+  "Geöffnet/geschlossen stimmt jetzt auch in anderen Zeitzonen: genaue Zeit vom Zeitserver, umgerechnet auf die Ortszeit der Bar oder des Clubs",
   "LGBTQ+-Orte in der Nähe: neue Karte mit allen Orten, grün geöffnet, grau geschlossen, antippen für Google Maps oder Webseite",
   "Orte zeigen „Geöffnet bis …“ oder „Geschlossen, öffnet …“ laut OpenStreetMap, dazu der Filter „Jetzt geöffnet“"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=3e1b4a38290e9582",
- "size": 2720593,
- "sha256": "3e1b4a38290e9582d49e2bf9a9c9144257fdbc831aed3b3d9016f5bf92357522"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=83c5af6ece063fc9",
+ "size": 2725341,
+ "sha256": "83c5af6ece063fc9f6389b6e3a5fff635e4ed83ebdf5d5508f29a1bdbad49444"
 }
