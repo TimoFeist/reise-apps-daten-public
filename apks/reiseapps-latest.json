@@ -1,13 +1,13 @@
 {
- "vc": 55,
- "vn": "1.0.55",
+ "vc": 56,
+ "vn": "1.0.56",
  "changes": [
   "Neue Rubrik „Veranstaltungen“ (Partys, Festivals, Ski- und Bear-Wochen), getrennt von Pride & CSD, auf der Startseite und je Land",
   "Veranstaltungen nach Art filtern und nach Datum oder Entfernung sortieren",
   "Chatraum zu jedem Pride-Termin und jeder Veranstaltung: Lesen für alle, Schreiben mit Konto, Nachrichten verschwinden nach 24 Stunden, Melden-Knopf",
   "Monatskalender: zum nächsten oder vorigen Monat wischen"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=34b74d58b7aa8f28",
- "size": 3825845,
- "sha256": "34b74d58b7aa8f28e9747319e877fd26a23d83fc9a73882240857f9c7880cbac"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=13ab343a055f2aee",
+ "size": 3827741,
+ "sha256": "13ab343a055f2aeed262de5b65a3b01d88e890c847ea6c39ae67c5be65b80f80"
 }
