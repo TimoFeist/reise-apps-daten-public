@@ -19,9 +19,11 @@
    "cc": "AT",
    "lat": 47.071,
    "lon": 15.439,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
    "month": 6,
-   "url": "https://www.regenbogenparade.at",
-   "src": "https://www.regenbogenparade.at"
+   "url": "https://www.csd-graz.at/",
+   "src": "https://www.csd-graz.at/"
   },
   {
    "name": "Innsbruck Pride",
@@ -42,6 +44,8 @@
    "cc": "AT",
    "lat": 48.306,
    "lon": 14.286,
+   "start": "2027-06-19",
+   "end": "2027-06-19",
    "month": 6,
    "url": "https://www.linzpride.at",
    "src": "https://www.linzpride.at"
@@ -175,11 +179,11 @@
    "lon": 3.722,
    "month": 8,
    "url": "https://ghentpride.be",
-   "unsure": true,
    "alt": [
     "Gand",
     "Ghent"
-   ]
+   ],
+   "unsure": true
   },
   {
    "name": "Liège Pride",
@@ -261,10 +265,12 @@
    "cc": "BR",
    "lat": -23.551,
    "lon": -46.633,
-   "month": 6,
+   "start": "2027-05-30",
+   "end": "2027-05-30",
+   "month": 5,
    "url": "https://www.paradasp.org.br",
    "last": "2026-06-07",
-   "src": "https://www.brasildefato.com.br/2026/06/07/parada-lgbt-de-sao-paulo-celebra-30-anos-com-defesa-da-memoria-dos-direitos-e-da-participacao-politica/",
+   "src": "https://www.paradasp.org.br",
    "alt": [
     "São Paulo"
    ]
@@ -285,9 +291,11 @@
    "cc": "CA",
    "lat": 44.649,
    "lon": -63.575,
+   "start": "2027-07-15",
+   "end": "2027-07-25",
    "month": 7,
-   "url": "https://www.halifaxpride.com",
-   "src": "https://www.thecoast.ca/news-opinion/halifax-to-host-the-next-canada-pride-festival-33356155/"
+   "url": "https://canadapride.ca",
+   "src": "https://canadapride.ca/"
   },
   {
    "name": "Fierté Montréal",
@@ -312,11 +320,11 @@
    "month": 9,
    "url": "https://fiertedequebec.com",
    "src": "https://www.bonjourquebec.com/fr/repertoire/evenements/fierte-de-quebec/0oq5",
-   "unsure": true,
    "alt": [
     "Quebec",
     "Québec"
-   ]
+   ],
+   "unsure": true
   },
   {
    "name": "Toronto Pride",
@@ -368,7 +376,9 @@
    "cc": "CH",
    "lat": 47.56,
    "lon": 7.589,
-   "month": 9,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
+   "month": 6,
    "url": "https://www.baselpride.ch",
    "src": "https://www.baselpride.ch",
    "alt": [
@@ -382,7 +392,9 @@
    "cc": "CH",
    "lat": 46.948,
    "lon": 7.447,
-   "month": 8,
+   "start": "2027-07-31",
+   "end": "2027-07-31",
+   "month": 7,
    "url": "https://bernpride.ch",
    "src": "https://bernpride.ch",
    "alt": [
@@ -400,12 +412,12 @@
    "month": 7,
    "url": "https://www.genevapride.ch",
    "src": "https://www.genevapride.ch",
-   "unsure": true,
    "alt": [
     "Geneva",
     "Genève",
     "Ginevra"
-   ]
+   ],
+   "unsure": true
   },
   {
    "name": "Luzern Pride",
@@ -427,6 +439,8 @@
    "cc": "CH",
    "lat": 47.377,
    "lon": 8.541,
+   "start": "2027-06-11",
+   "end": "2027-06-12",
    "month": 6,
    "url": "https://zurichpridefestival.ch",
    "src": "https://zurichpridefestival.ch",
@@ -522,9 +536,11 @@
    "cc": "CZ",
    "lat": 50.075,
    "lon": 14.438,
+   "start": "2027-08-02",
+   "end": "2027-08-08",
    "month": 8,
    "url": "https://www.praguepride.cz",
-   "src": "https://www.praguepride.cz",
+   "src": "https://festival.praguepride.com/en",
    "alt": [
     "Prague",
     "Praha"
@@ -537,7 +553,7 @@
    "lat": 50.776,
    "lon": 6.084,
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-aachen.de/",
    "last": "2026-08-28",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -584,7 +600,7 @@
    "lat": 49.892,
    "lon": 10.887,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-bamberg.de/",
    "last": "2026-07-11",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -606,10 +622,12 @@
    "cc": "DE",
    "lat": 52.021,
    "lon": 8.532,
+   "start": "2027-06-12",
+   "end": "2027-06-12",
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-bielefeld.de/",
    "last": "2026-06-13",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://csd-bielefeld.de/"
   },
   {
    "name": "CSD Bocholt",
@@ -738,7 +756,7 @@
    "lat": 51.514,
    "lon": 7.466,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-dortmund.de/",
    "last": "2026-09-05",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -748,10 +766,12 @@
    "cc": "DE",
    "lat": 51.051,
    "lon": 13.738,
-   "month": 6,
+   "start": "2027-05-27",
+   "end": "2027-05-29",
+   "month": 5,
    "url": "https://csd-dresden.de",
    "last": "2026-06-04",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://csd-dresden.de/"
   },
   {
    "name": "CSD Duisburg",
@@ -771,10 +791,12 @@
    "cc": "DE",
    "lat": 51.228,
    "lon": 6.774,
-   "month": 6,
-   "url": "https://www.csd-duesseldorf.de",
+   "start": "2027-05-29",
+   "end": "2027-05-29",
+   "month": 5,
+   "url": "https://www.csd-d.de/de/",
    "last": "2026-06-04",
-   "src": "https://www.queer.de/csd-termine.php",
+   "src": "https://www.csd-d.de/de/demo-405.html",
    "alt": [
     "Dusseldorf"
    ]
@@ -810,7 +832,7 @@
    "lat": 50.978,
    "lon": 11.029,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csderfurt.de/",
    "last": "2026-09-05",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -821,7 +843,7 @@
    "lat": 49.597,
    "lon": 11.005,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://makeyourtownqueer.de/csd-erlangen/",
    "last": "2026-09-19",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -831,10 +853,12 @@
    "cc": "DE",
    "lat": 51.455,
    "lon": 7.012,
+   "start": "2027-08-14",
+   "end": "2027-08-14",
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.ruhrpride.de/",
    "last": "2026-08-08",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://www.ruhrpride.de/"
   },
   {
    "name": "CSD Flensburg",
@@ -869,7 +893,7 @@
    "lat": 47.999,
    "lon": 7.842,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://freiburg-pride.de/",
    "last": "2026-06-20",
    "src": "https://www.queer.de/csd-termine.php",
    "alt": [
@@ -882,10 +906,12 @@
    "cc": "DE",
    "lat": 50.553,
    "lon": 9.676,
+   "start": "2027-08-28",
+   "end": "2027-08-28",
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://foll-bunt.de/csd/",
    "last": "2026-08-29",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://foll-bunt.de/csd/"
   },
   {
    "name": "CSD Fürth",
@@ -894,7 +920,7 @@
    "lat": 49.477,
    "lon": 10.989,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://frankenpride.de/csd-fuerth/",
    "last": "2026-07-04",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -905,7 +931,7 @@
    "lat": 50.881,
    "lon": 12.083,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-gera.de/",
    "last": "2026-09-26",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -939,7 +965,7 @@
    "lat": 51.534,
    "lon": 9.935,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-goettingen.de/",
    "last": "2026-06-20",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -961,10 +987,12 @@
    "cc": "DE",
    "lat": 51.482,
    "lon": 11.97,
+   "start": "2027-09-11",
+   "end": "2027-09-11",
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csdhalle.de/",
    "last": "2026-09-12",
-   "src": "https://www.queer.de/csd-termine.php",
+   "src": "https://csdhalle.de/",
    "alt": [
     "Halle"
    ]
@@ -1026,7 +1054,7 @@
    "lat": 49.142,
    "lon": 9.219,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csdheilbronn.de/",
    "last": "2026-07-11",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1060,7 +1088,7 @@
    "lat": 50.927,
    "lon": 11.589,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-jena.de/",
    "last": "2026-06-20",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1178,10 +1206,12 @@
    "cc": "DE",
    "lat": 51.34,
    "lon": 12.375,
+   "start": "2027-07-17",
+   "end": "2027-07-17",
    "month": 7,
    "url": "https://csd-leipzig.de",
    "last": "2026-07-18",
-   "src": "https://www.queer.de/csd-termine.php"
+   "src": "https://csd-leipzig.de/"
   },
   {
    "name": "CSD Leverkusen",
@@ -1201,7 +1231,7 @@
    "lat": 53.866,
    "lon": 10.686,
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://luebeck-pride.de/",
    "last": "2026-08-14",
    "src": "https://www.queer.de/csd-termine.php",
    "alt": [
@@ -1263,7 +1293,7 @@
    "lat": 51.195,
    "lon": 6.443,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-mg.de/",
    "last": "2026-07-18",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1341,7 +1371,7 @@
    "lat": 50.095,
    "lon": 8.766,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-offenbach.de/",
    "last": "2026-09-19",
    "src": "https://www.queer.de/csd-termine.php",
    "alt": [
@@ -1355,7 +1385,7 @@
    "lat": 53.143,
    "lon": 8.214,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-nordwest.de/",
    "last": "2026-06-20",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1378,7 +1408,7 @@
    "lat": 52.279,
    "lon": 8.047,
    "month": 5,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-osnabrueck.de/",
    "last": "2026-05-30",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1459,7 +1489,7 @@
    "lat": 49.013,
    "lon": 12.102,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.queeresregensburg.de/csd/",
    "last": "2026-07-04",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1494,7 +1524,7 @@
    "lat": 54.092,
    "lon": 12.099,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-hro.de/",
    "last": "2026-07-18",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1554,7 +1584,7 @@
    "lat": 51.172,
    "lon": 7.083,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.csd-solingen.de/",
    "last": "2026-07-25",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1589,7 +1619,7 @@
    "lat": 49.75,
    "lon": 6.637,
    "month": 7,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://www.schmit-z.de/verein/csd",
    "last": "2026-07-18",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1600,7 +1630,7 @@
    "lat": 48.521,
    "lon": 9.054,
    "month": 6,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csdtuebingen.de/",
    "last": "2026-06-21",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1694,7 +1724,7 @@
    "lat": 51.256,
    "lon": 7.15,
    "month": 9,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-wuppertal.de/",
    "last": "2026-09-12",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1717,7 +1747,7 @@
    "lat": 50.719,
    "lon": 12.492,
    "month": 8,
-   "url": "https://csd-deutschland.de/csd-saison/csd-termine/",
+   "url": "https://csd-zwickau.de/",
    "last": "2026-08-22",
    "src": "https://www.queer.de/csd-termine.php"
   },
@@ -1727,9 +1757,11 @@
    "cc": "DK",
    "lat": 55.676,
    "lon": 12.568,
+   "start": "2027-08-14",
+   "end": "2027-08-22",
    "month": 8,
    "url": "https://copenhagenpride.dk",
-   "src": "https://copenhagenpride.dk",
+   "src": "https://www.visitdenmark.com/denmark/plan-your-trip/copenhagen-pride-week-gdk474741",
    "alt": [
     "Copenhagen",
     "København"
@@ -2079,10 +2111,12 @@
    "cc": "GB",
    "lat": 52.486,
    "lon": -1.89,
+   "start": "2027-05-28",
+   "end": "2027-05-30",
    "month": 5,
    "url": "https://birminghampride.com",
    "last": "2026-05-23",
-   "src": "https://www.birmingham.gov.uk/events/event/5273/birmingham_pride"
+   "src": "https://birminghampride.com/"
   },
   {
    "name": "Edinburgh Pride",
@@ -2121,6 +2155,8 @@
    "cc": "GB",
    "lat": 51.507,
    "lon": -0.128,
+   "start": "2027-07-03",
+   "end": "2027-07-03",
    "month": 7,
    "url": "https://prideinlondon.org",
    "src": "https://prideinlondon.org"
@@ -2165,10 +2201,12 @@
    "cc": "GR",
    "lat": 40.64,
    "lon": 22.944,
+   "start": "2027-06-22",
+   "end": "2027-06-26",
    "month": 6,
    "url": "https://thessalonikipride.com",
    "last": "2026-06-20",
-   "src": "https://thessalonikipride.com/program-of-the-festival/?lang=en",
+   "src": "https://thessalonikipride.com",
    "alt": [
     "Saloniki"
    ]
@@ -2237,6 +2275,8 @@
    "cc": "IE",
    "lat": 53.35,
    "lon": -6.26,
+   "start": "2027-06-23",
+   "end": "2027-06-27",
    "month": 6,
    "url": "https://dublinpride.ie",
    "src": "https://dublinpride.ie"
@@ -2474,11 +2514,11 @@
    "lat": 45.438,
    "lon": 12.327,
    "month": 6,
-   "unsure": true,
    "alt": [
     "Venezia",
     "Venice"
-   ]
+   ],
+   "unsure": true
   },
   {
    "name": "Verona Pride",
@@ -2703,7 +2743,9 @@
    "cc": "NO",
    "lat": 60.392,
    "lon": 5.324,
-   "month": 6,
+   "start": "2027-05-28",
+   "end": "2027-06-05",
+   "month": 5,
    "url": "https://bergenpride.no",
    "src": "https://bergenpride.no"
   },
@@ -2713,9 +2755,11 @@
    "cc": "NO",
    "lat": 59.914,
    "lon": 10.752,
+   "start": "2027-06-16",
+   "end": "2027-06-26",
    "month": 6,
    "url": "https://oslopride.no",
-   "src": "https://oslopride.no"
+   "src": "https://www.oslopride.no"
   },
   {
    "name": "Stavanger Pride",
@@ -2738,10 +2782,10 @@
    "lon": 18.956,
    "month": 11,
    "url": "https://arcticpride.no",
-   "unsure": true,
    "alt": [
     "Tromso"
-   ]
+   ],
+   "unsure": true
   },
   {
    "name": "Trondheim Pride",
@@ -2759,9 +2803,11 @@
    "cc": "NZ",
    "lat": -36.849,
    "lon": 174.763,
+   "start": "2027-02-01",
+   "end": "2027-02-28",
    "month": 2,
    "url": "https://aucklandpride.org.nz",
-   "src": "https://www.gaytravel4u.com/event/auckland-pride-festival/"
+   "src": "https://www.thebigidea.co.nz/stories/everything-you-need-to-know-about-being-part-of-auckland-pride"
   },
   {
    "name": "Wellington Pride Festival",
@@ -2769,10 +2815,12 @@
    "cc": "NZ",
    "lat": -41.286,
    "lon": 174.776,
+   "start": "2027-03-05",
+   "end": "2027-03-21",
    "month": 3,
    "url": "https://www.wellingtonpridefestival.com",
    "last": "2026-03-21",
-   "src": "https://www.wellingtonpridefestival.com/important-dates-26"
+   "src": "https://www.wellingtonpridefestival.com/about-wpf"
   },
   {
    "name": "Marcha del Orgullo Panamá",
@@ -2817,11 +2865,11 @@
    "lon": 18.646,
    "month": 6,
    "url": "https://tolerado.org",
-   "unsure": true,
    "alt": [
     "Danzig",
     "Gdańsk"
-   ]
+   ],
+   "unsure": true
   },
   {
    "name": "Marsz Równości Kraków",
@@ -2967,6 +3015,8 @@
    "cc": "SE",
    "lat": 57.709,
    "lon": 11.975,
+   "start": "2027-06-07",
+   "end": "2027-06-13",
    "month": 6,
    "url": "https://www.westpride.se",
    "src": "https://www.westpride.se",
@@ -2994,6 +3044,8 @@
    "cc": "SE",
    "lat": 59.329,
    "lon": 18.069,
+   "start": "2027-08-02",
+   "end": "2027-08-08",
    "month": 8,
    "url": "https://www.stockholmpride.org",
    "src": "https://www.stockholmpride.org"
@@ -3042,7 +3094,9 @@
    "cc": "SK",
    "lat": 48.149,
    "lon": 17.107,
-   "month": 6,
+   "start": "2027-07-17",
+   "end": "2027-07-17",
+   "month": 7,
    "url": "https://www.duhovypride.sk",
    "src": "https://www.duhovypride.sk",
    "alt": [
@@ -3116,7 +3170,7 @@
    "lat": 42.36,
    "lon": -71.058,
    "month": 6,
-   "url": "https://www.bostonpride.org",
+   "url": "https://www.bostonprideforthepeople.org",
    "last": "2025-06-14",
    "src": "https://www.bostonpride.org"
   },
@@ -3126,10 +3180,12 @@
    "cc": "US",
    "lat": 41.878,
    "lon": -87.63,
+   "start": "2027-06-27",
+   "end": "2027-06-27",
    "month": 6,
-   "url": "https://www.chicagopridecalendar.org",
+   "url": "https://pridechicago.org",
    "last": "2025-06-29",
-   "src": "https://www.chicagopridecalendar.org"
+   "src": "https://pridechicago.org/events/list/"
   },
   {
    "name": "Dallas Pride",
@@ -3137,9 +3193,11 @@
    "cc": "US",
    "lat": 32.777,
    "lon": -96.797,
+   "start": "2027-06-05",
+   "end": "2027-06-05",
    "month": 6,
    "url": "https://www.dallaspride.org",
-   "src": "https://www.dallaspride.org"
+   "src": "https://dallaspride.org/"
   },
   {
    "name": "Denver PrideFest",
@@ -3169,10 +3227,12 @@
    "cc": "US",
    "lat": 29.76,
    "lon": -95.37,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
    "month": 6,
    "url": "https://pridehouston.org",
    "last": "2025-06-28",
-   "src": "https://pridehouston.org"
+   "src": "https://pridehouston.org/"
   },
   {
    "name": "Las Vegas Pride",
@@ -3204,9 +3264,11 @@
    "cc": "US",
    "lat": 25.79,
    "lon": -80.13,
+   "start": "2027-04-10",
+   "end": "2027-04-11",
    "month": 4,
    "url": "https://www.miamibeachpride.com",
-   "src": "https://www.miamibeachpride.com"
+   "src": "https://www.miamibeachpride.com/"
   },
   {
    "name": "Twin Cities Pride",
@@ -3302,10 +3364,12 @@
    "cc": "US",
    "lat": 40.441,
    "lon": -79.996,
+   "start": "2027-06-04",
+   "end": "2027-06-06",
    "month": 6,
    "url": "https://pittsburghpride.com",
    "last": "2026-06-07",
-   "src": "https://calendar.pitt.edu/event/pittsburgh-pride-march-2026"
+   "src": "https://pittsburghpride.com/"
   },
   {
    "name": "Portland Pride Waterfront Festival",
@@ -3366,10 +3430,12 @@
    "cc": "US",
    "lat": 37.775,
    "lon": -122.419,
+   "start": "2027-06-26",
+   "end": "2027-06-27",
    "month": 6,
    "url": "https://www.sfpride.org",
    "last": "2025-06-29",
-   "src": "https://www.sfpride.org",
+   "src": "https://sfpride.org/",
    "alt": [
     "SF"
    ]
@@ -3840,10 +3906,12 @@
    "cc": "GB",
    "lat": 53.8,
    "lon": -1.549,
+   "start": "2027-07-17",
+   "end": "2027-07-18",
    "month": 7,
    "url": "https://www.leedspride.com",
    "last": "2026-07-19",
-   "src": "https://www.leedspride.com (20th anniversary, 18-19 July 2026; Wayback 2026-09-13)"
+   "src": "https://www.leedspride.com"
   },
   {
    "name": "Bristol Pride",
@@ -3938,10 +4006,12 @@
    "cc": "GB",
    "lat": 50.909,
    "lon": -1.404,
+   "start": "2027-08-28",
+   "end": "2027-08-29",
    "month": 8,
    "url": "https://www.southamptonpride.org",
    "last": "2026-08-29",
-   "src": "https://www.southamptonpride.org (29-30 Aug 2026; Wayback 2026-08-27)"
+   "src": "https://www.attitude.co.uk/news/southampton-to-host-uk-pride-2027-515268/"
   },
   {
    "name": "Norwich Pride",
@@ -4025,10 +4095,12 @@
    "cc": "GB",
    "lat": 53.959,
    "lon": -1.082,
-   "month": 5,
+   "start": "2027-06-05",
+   "end": "2027-06-05",
+   "month": 6,
    "url": "https://yorkpride.org.uk",
    "last": "2026-05-30",
-   "src": "https://yorkpride.org.uk (Sat 30 May 2026, Knavesmire)"
+   "src": "https://yorkpride.org.uk/"
   },
   {
    "name": "Salford Pride",
@@ -4514,10 +4586,12 @@
    "cc": "BE",
    "lat": 50.931,
    "lon": 5.338,
+   "start": "2027-07-04",
+   "end": "2027-07-04",
    "month": 7,
    "url": "https://limburgpride.be",
    "last": "2026-07-12",
-   "src": "https://tripbytrip.org/2026/07/10/2026-limburg-pride-expects-record-25000-visitors-as-hasselt-prepares-for-expanded-celebration-featuring-heat-measures-and-a-family-friendly-dress-code/"
+   "src": "https://limburgpride.be"
   },
   {
    "name": "Leuven Pride",
@@ -6791,10 +6865,12 @@
    "cc": "US",
    "lat": 41.661,
    "lon": -91.53,
+   "start": "2027-06-19",
+   "end": "2027-06-19",
    "month": 6,
    "url": "https://www.iowacitypride.org",
    "last": "2026-06-20",
-   "src": "https://www.aclu-ia.org/iowa-pride-2026/"
+   "src": "https://www.iowacitypride.org/"
   },
   {
    "name": "Heartland Pride",
@@ -6846,10 +6922,12 @@
    "cc": "US",
    "lat": 42.331,
    "lon": -83.046,
+   "start": "2027-06-12",
+   "end": "2027-06-13",
    "month": 6,
    "url": "https://www.motorcitypride.org",
    "last": "2026-06-07",
-   "src": "https://detroitmi.gov/events/motor-city-pride-festival-and-parade-0"
+   "src": "https://motorcitypride.org/"
   },
   {
    "name": "Grand Rapids Pride Festival",
@@ -6879,10 +6957,12 @@
    "cc": "US",
    "lat": 42.281,
    "lon": -83.743,
+   "start": "2027-08-07",
+   "end": "2027-08-07",
    "month": 8,
-   "url": "",
+   "url": "https://www.annarborpride.com",
    "last": "2026-08-01",
-   "src": "https://www.eventeny.com/events/annarborpride-25616/"
+   "src": "https://www.annarborpride.com/"
   },
   {
    "name": "Milwaukee PrideFest",
@@ -6913,7 +6993,7 @@
    "lat": 43.801,
    "lon": -91.239,
    "month": 9,
-   "url": "",
+   "url": "https://www.7riverslgbtq.org/pride-in-the-park",
    "last": "2026-09-05",
    "src": "https://www.travelwisconsin.com/events/la-crosse-pride-in-the-park"
   },
@@ -6923,10 +7003,12 @@
    "cc": "US",
    "lat": 41.499,
    "lon": -81.694,
+   "start": "2027-06-05",
+   "end": "2027-06-05",
    "month": 6,
    "url": "https://prideinthecle.org",
    "last": "2026-06-06",
-   "src": "https://thebuckeyeflame.com/2026/06/04/2026-ohio-lgbtq-pride-guide"
+   "src": "https://lgbtcleveland.org/pride/"
   },
   {
    "name": "Cincinnati Pride Parade & Festival",
@@ -7011,10 +7093,12 @@
    "cc": "US",
    "lat": 43.048,
    "lon": -76.147,
+   "start": "2027-06-26",
+   "end": "2027-06-26",
    "month": 6,
-   "url": "",
+   "url": "https://www.cnypride.org",
    "last": "2026-06-13",
-   "src": "https://nysmusic.com/2026/06/01/2026-new-york-state-pride-guide/"
+   "src": "https://www.cnypride.org/"
   },
   {
    "name": "Charlotte Pride Festival & Parade",
@@ -7044,10 +7128,12 @@
    "cc": "US",
    "lat": 46.877,
    "lon": -96.79,
+   "start": "2027-08-12",
+   "end": "2027-08-15",
    "month": 8,
    "url": "https://fmpride.org",
    "last": "2026-08-09",
-   "src": "https://fmpride.org/events/list/"
+   "src": "https://fmpride.org/"
   },
   {
    "name": "Sioux Falls Pride",
@@ -7154,10 +7240,12 @@
    "cc": "US",
    "lat": 41.76,
    "lon": -88.32,
+   "start": "2027-06-13",
+   "end": "2027-06-13",
    "month": 6,
    "url": "https://aurorapride.org",
    "last": "2026-06-14",
-   "src": "https://www.dailyherald.com/?p=1350929"
+   "src": "https://www.aurorapride.org/"
   },
   {
    "name": "Woodstock PrideFest & Parade",
@@ -7221,7 +7309,7 @@
    "lat": 47.038,
    "lon": -122.9,
    "month": 6,
-   "url": "",
+   "url": "https://www.capitalcitypride.net",
    "last": "2026-06-27",
    "src": "https://www.kgyfm.com/contestsevents/calendar/event/capital-city-pride-2026/"
   },
@@ -7331,7 +7419,7 @@
    "lat": 38.253,
    "lon": -85.759,
    "month": 6,
-   "url": "",
+   "url": "https://kypride.com",
    "last": "2026-06-20",
    "src": "https://spectrumnews1.com/ky/louisville/news/2026/06/15/kentuckiana-pride"
   },
@@ -7374,10 +7462,12 @@
    "cc": "CA",
    "lat": 49.895,
    "lon": -97.138,
+   "start": "2027-06-04",
+   "end": "2027-06-06",
    "month": 6,
    "url": "https://www.pridewinnipeg.com/",
    "last": "2026-06-07",
-   "src": "https://www.unifor.org/node/14015"
+   "src": "https://www.pridewinnipeg.com/"
   },
   {
    "name": "Brandon Pride Parade",
@@ -7441,7 +7531,7 @@
    "lat": 42.984,
    "lon": -81.246,
    "month": 7,
-   "url": "",
+   "url": "https://pridelondon.ca",
    "last": "2026-07-19",
    "src": "https://www.unifor.org/node/14015"
   },
@@ -7463,7 +7553,7 @@
    "lat": 44.177,
    "lon": -81.633,
    "month": 6,
-   "url": "",
+   "url": "https://kincardinepride.ca",
    "last": "2026-06-20",
    "src": "https://www.unifor.org/node/14015"
   },
@@ -7473,10 +7563,12 @@
    "cc": "CA",
    "lat": 42.317,
    "lon": -83.035,
-   "month": 8,
+   "start": "2027-07-30",
+   "end": "2027-08-08",
+   "month": 7,
    "url": "https://www.wepridefest.com/",
    "last": "2026-08-09",
-   "src": "https://www.unifor.org/node/14015"
+   "src": "https://www.wepridefest.com/"
   },
   {
    "name": "CK Pride",
@@ -8683,10 +8775,12 @@
    "cc": "AU",
    "lat": -42.882,
    "lon": 147.327,
+   "start": "2027-02-13",
+   "end": "2027-02-13",
    "month": 2,
    "url": "https://www.taspride.com/",
    "last": "2026-02-14",
-   "src": "https://www.unitingagewell.org/events/tas-pride-parade/"
+   "src": "https://www.taspride.com/"
   },
   {
    "name": "ChillOut Festival Street Parade",
@@ -8694,10 +8788,12 @@
    "cc": "AU",
    "lat": -37.345,
    "lon": 144.147,
-   "month": 3,
+   "start": "2027-02-27",
+   "end": "2027-03-08",
+   "month": 2,
    "url": "https://chilloutfestival.au/",
    "last": "2026-03-08",
-   "src": "https://www.weekendnotes.com/chillout-festival-2026-planet-love/"
+   "src": "https://chilloutfestival.au/"
   },
   {
    "name": "Geelong Rainbow Festival Pride March",
@@ -8705,10 +8801,12 @@
    "cc": "AU",
    "lat": -38.147,
    "lon": 144.361,
+   "start": "2027-02-20",
+   "end": "2027-02-20",
    "month": 2,
    "url": "https://geelongrainbow.org.au/",
    "last": "2026-02-07",
-   "src": "https://www.thegordon.edu.au/whatson/geelong-rainbow-festival-pride-parade-and-rally"
+   "src": "https://geelongrainbow.org.au/"
   },
   {
    "name": "Gold Coast Pride March and Fair Day",
