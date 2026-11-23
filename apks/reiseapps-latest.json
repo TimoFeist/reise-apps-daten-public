@@ -1,15 +1,10 @@
 {
- "vc": 52,
- "vn": "1.0.52",
+ "vc": 53,
+ "vn": "1.0.53",
  "changes": [
-  "Kopfbereich bei Reisen schmaler, wie bei Ländern und Städten",
-  "Eigene Apps PinRate und Rangr zeigen ihr Logo",
-  "Schalter „Nur fehlende Apps“ bei Ländern und Städten",
-  "App-Liste eines Ortes als Bild teilen",
-  "Zusätzliche Erinnerung drei Tage vor der Reise",
-  "Neues Widget „Nächste Reise“ für den Startbildschirm"
+  "NAUGHTY-Partys in Köln im Pride- und Festival-Kalender, mit Ticket-Link"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=2a80ac5292fd1462",
- "size": 3754633,
- "sha256": "2a80ac5292fd146285ed2a2ab835f3c6561a685bdf101b3b5fba0fa4550b7da9"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=14e7310e8735c5c0",
+ "size": 3755061,
+ "sha256": "14e7310e8735c5c01b466b1b64684647f6a20d97f205bf847d18dfa1a7bdb84d"
 }
