@@ -10385,6 +10385,295 @@
    "src": "https://naughtyparty.ticket.io/dkxjqz/",
    "type": "fest",
    "cat": "party"
+  },
+  {
+   "name": "New Year's Eve BOOM! Welcome 2027",
+   "city": "Hamburg",
+   "cc": "DE",
+   "lat": 53.55,
+   "lon": 9.963,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "http://gaypartyhamburg.de/events/new-years-eve-boom-welcome-2027-do-31-12-2026-2026-12-31",
+   "type": "fest",
+   "cat": "nye",
+   "src": "http://gaypartyhamburg.de/events/new-years-eve-boom-welcome-2027-do-31-12-2026-2026-12-31"
+  },
+  {
+   "name": "Kiki's New Year's Affair",
+   "city": "Zürich",
+   "cc": "CH",
+   "lat": 47.378,
+   "lon": 8.528,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://kiki.events/kiki-calendar/kiki-x-klaus-nye",
+   "type": "fest",
+   "cat": "nye",
+   "alt": [
+    "Zurich"
+   ],
+   "src": "https://kiki.events/kiki-calendar/kiki-x-klaus-nye"
+  },
+  {
+   "name": "Silvester Gala NY.Club",
+   "city": "München",
+   "cc": "DE",
+   "lat": 48.142,
+   "lon": 11.563,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://www.nyclub.de/details-registrierung/silvester-gala-new-years-eve-party-2027",
+   "type": "fest",
+   "cat": "nye",
+   "alt": [
+    "Munich"
+   ],
+   "src": "https://www.nyclub.de/details-registrierung/silvester-gala-new-years-eve-party-2027"
+  },
+  {
+   "name": "New Year Fetish Party MLC",
+   "city": "München",
+   "cc": "DE",
+   "lat": 48.098,
+   "lon": 11.531,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://www.mlc-munich.de/web/veranstaltung/new-year-fetish-party-4/",
+   "type": "fest",
+   "cat": "nye",
+   "alt": [
+    "Munich"
+   ],
+   "src": "https://www.mlc-munich.de/web/veranstaltung/new-year-fetish-party-4/"
+  },
+  {
+   "name": "HomOriental Silvester",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.938,
+   "lon": 6.957,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://homoriental.de/party/2026-12-31/",
+   "type": "fest",
+   "cat": "nye",
+   "alt": [
+    "Cologne"
+   ],
+   "src": "https://homoriental.de/party/2026-12-31/"
+  },
+  {
+   "name": "PEAK&DEEP Cologne NYE",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.938,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://www.peakanddeep.de/",
+   "type": "fest",
+   "cat": "nye",
+   "alt": [
+    "Cologne"
+   ],
+   "src": "https://www.peakanddeep.de/"
+  },
+  {
+   "name": "Queer Futures 2026 (WORM)",
+   "city": "Rotterdam",
+   "cc": "NL",
+   "lat": 51.919,
+   "lon": 4.472,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://worm.org/2026/11/13/queer-futures-2026/",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://worm.org/2026/11/13/queer-futures-2026/"
+  },
+  {
+   "name": "Happy New Queer (EKKO)",
+   "city": "Utrecht",
+   "cc": "NL",
+   "lat": 52.097,
+   "lon": 5.118,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://ekko.nl/event/happy-new-queer-2027/",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://ekko.nl/event/happy-new-queer-2027/"
+  },
+  {
+   "name": "Happy New Queer: Disco Royale",
+   "city": "Prag",
+   "cc": "CZ",
+   "lat": 50.086,
+   "lon": 14.426,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://www.praguepride.com/en/what-do-we-do/happy-new-queer/",
+   "type": "fest",
+   "cat": "nye",
+   "alt": [
+    "Prague",
+    "Praha"
+   ],
+   "src": "https://www.praguepride.com/en/what-do-we-do/happy-new-queer/"
+  },
+  {
+   "name": "Mother NYE",
+   "city": "Dublin",
+   "cc": "IE",
+   "lat": 53.341,
+   "lon": -6.26,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://motherclub.ie/events/2026/12/31/mother-new-years-eve-party-2026",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://motherclub.ie/events/2026/12/31/mother-new-years-eve-party-2026"
+  },
+  {
+   "name": "Comptons of Soho NYE",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.513,
+   "lon": -0.132,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://www.comptonsofsoho.co.uk/new-years-eve",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://www.comptonsofsoho.co.uk/new-years-eve"
+  },
+  {
+   "name": "Admiral Duncan NYE",
+   "city": "London",
+   "cc": "GB",
+   "lat": 51.513,
+   "lon": -0.132,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://www.admiral-duncan.co.uk/soho/new-years-eve",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://www.admiral-duncan.co.uk/soho/new-years-eve"
+  },
+  {
+   "name": "WE New Year Festival",
+   "city": "Madrid",
+   "cc": "ES",
+   "lat": 40.416,
+   "lon": -3.703,
+   "start": "2026-12-29",
+   "end": "2027-01-02",
+   "month": 12,
+   "url": "https://wepartyontour.com/new-year-festival-2027",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://wepartyontour.com/new-year-festival-2027"
+  },
+  {
+   "name": "¡Fin de Año Arena!",
+   "city": "Barcelona",
+   "cc": "ES",
+   "lat": 41.39,
+   "lon": 2.172,
+   "start": "2026-12-31",
+   "end": "2026-12-31",
+   "month": 12,
+   "url": "https://www.arenadisco.com/",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://www.arenadisco.com/"
+  },
+  {
+   "name": "Welcome 2027 (Arena)",
+   "city": "Barcelona",
+   "cc": "ES",
+   "lat": 41.39,
+   "lon": 2.172,
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "month": 1,
+   "url": "https://www.arenadisco.com/",
+   "type": "fest",
+   "cat": "nye",
+   "src": "https://www.arenadisco.com/"
+  },
+  {
+   "name": "La Démence New Year Party",
+   "city": "Brüssel",
+   "cc": "BE",
+   "lat": 50.836,
+   "lon": 4.343,
+   "start": "2027-01-01",
+   "end": "2027-01-01",
+   "month": 1,
+   "url": "https://www.lademence.com/?post_type=events&p=114881",
+   "type": "fest",
+   "cat": "nye",
+   "alt": [
+    "Brussels",
+    "Bruxelles",
+    "Brussel"
+   ],
+   "src": "https://www.lademence.com/?post_type=events&p=114881"
+  },
+  {
+   "name": "GAYnachtsmarkt",
+   "city": "Stuttgart",
+   "cc": "DE",
+   "lat": 48.776,
+   "lon": 9.177,
+   "start": "2026-11-26",
+   "end": "2026-12-17",
+   "days": [
+    "2026-11-26",
+    "2026-12-03",
+    "2026-12-10",
+    "2026-12-17"
+   ],
+   "month": 11,
+   "url": "https://www.stuttgart-pride.de/event/gaynachtsmarkt-2/2026-12-03/",
+   "type": "fest",
+   "cat": "xmas",
+   "src": "https://www.stuttgart-pride.de/event/gaynachtsmarkt-2/2026-12-03/"
+  },
+  {
+   "name": "Pink Tuesday am Wasserturm",
+   "city": "Mannheim",
+   "cc": "DE",
+   "lat": 49.484,
+   "lon": 8.476,
+   "start": "2026-11-24",
+   "end": "2026-12-22",
+   "days": [
+    "2026-11-24",
+    "2026-12-01",
+    "2026-12-08",
+    "2026-12-15",
+    "2026-12-22"
+   ],
+   "month": 11,
+   "url": "https://www.regenbogenfest.de/",
+   "type": "fest",
+   "cat": "xmas",
+   "src": "https://www.regenbogenfest.de/"
   }
  ]
 }
