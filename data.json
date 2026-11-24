@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-24 14:21",
+ "version": "2026-11-24 16:23",
  "categories": [
   {
    "id": "entry",
@@ -62093,10 +62093,6 @@
    "end": "2026-11-29",
    "month": 11,
    "url": "https://naughtyparty.ticket.io/hUPAkL9C/",
-   "alt": [
-    "Cologne",
-    "Colonia"
-   ],
    "type": "fest",
    "cat": "party",
    "lc": "Köln"
@@ -62279,10 +62275,6 @@
    "end": "2027-02-07",
    "month": 2,
    "url": "https://naughtyparty.ticket.io/0Rm3YhHG/",
-   "alt": [
-    "Cologne",
-    "Colonia"
-   ],
    "type": "fest",
    "cat": "party",
    "lc": "Köln"
@@ -63563,24 +63555,6 @@
    "lc": "Liège"
   },
   {
-   "name": "Naughty Pride Closing Party",
-   "city": "Köln",
-   "cc": "DE",
-   "lat": 50.942,
-   "lon": 6.94,
-   "start": "2027-07-04",
-   "end": "2027-07-04",
-   "month": 7,
-   "url": "https://naughtyparty.ticket.io/82xN73sV/",
-   "alt": [
-    "Cologne",
-    "Colonia"
-   ],
-   "type": "fest",
-   "cat": "party",
-   "lc": "Köln"
-  },
-  {
    "name": "Fetish Week London",
    "city": "London",
    "cc": "GB",
@@ -63593,6 +63567,20 @@
    "type": "fest",
    "cat": "fetish",
    "lc": "London"
+  },
+  {
+   "name": "Naughty Pride Closing Party",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.942,
+   "lon": 6.94,
+   "start": "2027-07-04",
+   "end": "2027-07-04",
+   "month": 7,
+   "url": "https://naughtyparty.ticket.io/82xN73sV/",
+   "type": "fest",
+   "cat": "party",
+   "lc": "Köln"
   },
   {
    "name": "Geneva Pride",
