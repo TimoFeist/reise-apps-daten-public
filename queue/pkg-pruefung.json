@@ -206,6 +206,43 @@
     ]
    }
   ],
+  "Aelan Express|VU": [
+   {
+    "pkg": "com.x6i.mobileapp",
+    "title": "Alsie Express",
+    "dev": "Alsie Express",
+    "web": [
+     "alsieexpress.dk"
+    ]
+   },
+   {
+    "pkg": "com.alencustomer",
+    "title": "Alen Express",
+    "dev": "Alen Ethiopia Express",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.tzlogi.track",
+    "title": "EA Express",
+    "dev": "YM EXPRESS",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "bz.spbe.belizeexpressplus",
+    "title": "Belize Express Plus",
+    "dev": "San Pedro Belize Express",
+    "web": [
+     "about",
+     "ezzywifinetworks.com"
+    ]
+   }
+  ],
   "Afrimoney|GM": [
    {
     "recherche": "2026-11-23",
@@ -287,6 +324,112 @@
     "web": [
      "dotlab.dev",
      "dotlab.rs"
+    ]
+   }
+  ],
+  "Air Taxi Vanuatu|VU": [
+   {
+    "pkg": "com.lymo.airtaxi.rider",
+    "title": "Air Taxi Egypt",
+    "dev": "ONE LYMO",
+    "web": [
+     "airtaxi.lymo.online",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.southpacificdomains.vanuatu",
+    "title": "Vanuatu Music",
+    "dev": "South Pacific Domains, LLC",
+    "web": [
+     "southpacificdomains.com"
+    ]
+   },
+   {
+    "pkg": "com.vrapon.rider_app",
+    "title": "VrapOn Taxi",
+    "dev": "VrapOn Taxi Albania",
+    "web": [
+     "gmail.com",
+     "vrapon.al"
+    ]
+   },
+   {
+    "pkg": "fi.intoit.vantaantaksi",
+    "title": "Vantaan Taksi",
+    "dev": "intoit oy",
+    "web": [
+     "vantaantaksi.fi"
+    ]
+   }
+  ],
+  "Air Vanuatu|VU": [
+   {
+    "pkg": "com.southpacificdomains.vanuatu",
+    "title": "Vanuatu Music",
+    "dev": "South Pacific Domains, LLC",
+    "web": [
+     "southpacificdomains.com"
+    ]
+   },
+   {
+    "pkg": "bw.co.airbotswana.app",
+    "title": "Air Botswana",
+    "dev": "Air_Botswana",
+    "web": [
+     "airbotswana.co.bw"
+    ]
+   },
+   {
+    "pkg": "net.pluservice.airc",
+    "title": "AIR Campania",
+    "dev": "myCicero Srl",
+    "web": [
+     "aircampania.it",
+     "mycicero.it"
+    ]
+   },
+   {
+    "pkg": "com.vantune.app",
+    "title": "Vantune",
+    "dev": "Charley Kautea",
+    "web": [
+     "gmail.com",
+     "lokol-music.web.app"
+    ]
+   }
+  ],
+  "Aircalin|WF": [
+   {
+    "pkg": "com.airfrance.android.dinamoprd",
+    "title": "Air France - Book a flight",
+    "dev": "AIRFRANCE S.A.",
+    "web": [
+     "airfrance.fr"
+    ]
+   },
+   {
+    "pkg": "net.skyscanner.android.main",
+    "title": "Skyscanner Flights Hotels Cars",
+    "dev": "Skyscanner Ltd",
+    "web": [
+     "skyscanner.net"
+    ]
+   },
+   {
+    "pkg": "com.expedia.bookings",
+    "title": "Expedia: Hotels, Flights, Cars",
+    "dev": "Expedia",
+    "web": [
+     "expedia.com"
+    ]
+   },
+   {
+    "pkg": "com.kayak.android",
+    "title": "KAYAK: Flights, Hotels & Cars",
+    "dev": "KAYAK.com",
+    "web": [
+     "kayak.com"
     ]
    }
   ],
@@ -458,6 +601,7 @@
     ]
    }
   ],
+  "Alamo|SX": [],
   "Alerta COE|DO": [
    {
     "recherche": "2026-11-23",
@@ -999,6 +1143,94 @@
     ]
    }
   ],
+  "Ashgabat (Hypermarkt)|TM": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg gefunden",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.takykcheshme.turkmenportal",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
+  "Avis|NG": [
+   {
+    "vorschlag": "com.avis.mobile",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.avis.mobile",
+    "title": "Avis Car Hire",
+    "dev": "Avis Budget EMEA Ltd",
+    "web": [
+     "abg.com",
+     "avis.co.uk"
+    ]
+   }
+  ],
+  "Avis|RE": [
+   {
+    "vorschlag": "com.avis.mobile",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.avis.mobile",
+    "title": "Avis Car Hire",
+    "dev": "Avis Budget EMEA Ltd",
+    "web": [
+     "abg.com",
+     "avis.co.uk"
+    ]
+   }
+  ],
+  "Avis|TC": [
+   {
+    "vorschlag": "com.avis.mobile",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.avis.mobile",
+    "title": "Avis Car Hire",
+    "dev": "Avis Budget EMEA Ltd",
+    "web": [
+     "abg.com",
+     "avis.co.uk"
+    ]
+   }
+  ],
+  "Avis|TT": [
+   {
+    "vorschlag": "com.avis.mobile",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.avis.mobile",
+    "title": "Avis Car Hire",
+    "dev": "Avis Budget EMEA Ltd",
+    "web": [
+     "abg.com",
+     "avis.co.uk"
+    ]
+   }
+  ],
+  "Avis|VG": [
+   {
+    "vorschlag": "com.avis.mobile",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.avis.mobile",
+    "title": "Avis Car Hire",
+    "dev": "Avis Budget EMEA Ltd",
+    "web": [
+     "abg.com",
+     "avis.co.uk"
+    ]
+   }
+  ],
   "Axa Eats|AI": [
    {
     "recherche": "2026-11-23",
@@ -1125,6 +1357,43 @@
     ]
    }
   ],
+  "BVI ED Card|VG": [
+   {
+    "pkg": "com.openlluna.cardnd",
+    "title": "Cardnd",
+    "dev": "VCTRUM",
+    "web": [
+     "cardnd.com",
+     "openlluna.com"
+    ]
+   },
+   {
+    "pkg": "com.cardb.app",
+    "title": "CardB",
+    "dev": "VERUM PAYMENTS LIMITED, CHK",
+    "web": [
+     "cardb.finance"
+    ]
+   },
+   {
+    "pkg": "com.evry.android.cardcompanion.bea",
+    "title": "BEA UK MyCard",
+    "dev": "The Bank of East Asia, Limited",
+    "web": [
+     "hkbea.co.uk",
+     "hkbea.com"
+    ]
+   },
+   {
+    "pkg": "cl.payca.bcard",
+    "title": "Bcard : Tarjeta presentación",
+    "dev": "PAYCA SPA",
+    "web": [
+     "bcard.cl",
+     "payca.cl"
+    ]
+   }
+  ],
   "Bahamasair|BS": [
    {
     "recherche": "2026-11-23",
@@ -1244,6 +1513,20 @@
     "dev": "My Erba",
     "web": [
      "erbasupermarkt.com"
+    ]
+   }
+  ],
+  "Beam|AU": [
+   {
+    "vorschlag": "com.escooterapp",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.escooterapp",
+    "title": "Beam - Escooter sharing",
+    "dev": "Ride Beam",
+    "web": [
+     "ridebeam.com"
     ]
    }
   ],
@@ -1450,6 +1733,32 @@
     ]
    }
   ],
+  "Blued|CN": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "Kein sicherer Beleg fuer eine Android-App (Web/iOS/kein Treffer/unklar)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.mylocaltv.krdo",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
+  "Blued|ID": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.thejakartapost.ndroid",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Blued|MY": [
    {
     "recherche": "2026-11-23",
@@ -1614,6 +1923,20 @@
     "web": [
      "bolt.eu",
      "food.bolt.eu"
+    ]
+   }
+  ],
+  "Bolt|SX": [
+   {
+    "vorschlag": "ee.mtakso.client",
+    "how": "daten"
+   },
+   {
+    "pkg": "ee.mtakso.client",
+    "title": "Bolt: Request a Ride",
+    "dev": "Bolt Technology",
+    "web": [
+     "bolt.eu"
     ]
    }
   ],
@@ -1821,6 +2144,44 @@
     "dev": "Budgex",
     "web": [
      "simplebudget.online"
+    ]
+   }
+  ],
+  "Budget Rent A Car|VU": [
+   {
+    "pkg": "com.rentals.caronline",
+    "title": "Car Rental・Budget Rent A Car",
+    "dev": "Hotels, Flights & Cars Booking by Traveldealo",
+    "web": [
+     "about",
+     "lmstay.com"
+    ]
+   },
+   {
+    "pkg": "com.rent80.rentalcars",
+    "title": "Rent a Car・Rent80",
+    "dev": "Booking70 - Flights, Hotels, Rental Cars",
+    "web": [
+     "discounts70.com",
+     "rent80.com"
+    ]
+   },
+   {
+    "pkg": "com.vistatravel.budgetrentalcar",
+    "title": "Budget Rental Car",
+    "dev": "VistaTravel",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.vistatravel.budgetcarrentalapp",
+    "title": "Budget Car Rental App",
+    "dev": "VistaTravel",
+    "web": [
+     "about",
+     "gmail.com"
     ]
    }
   ],
@@ -2069,6 +2430,42 @@
     ]
    }
   ],
+  "Chengdu Metro (官方APP)|CN": [
+   {
+    "pkg": "com.xinlukou.metroman",
+    "title": "MetroMan China",
+    "dev": "MetroMan",
+    "web": [
+     "gmail.com",
+     "metroman.cn"
+    ]
+   },
+   {
+    "pkg": "com.mapway.guangzhoumetro",
+    "title": "Guangzhou Metro App",
+    "dev": "Mapways",
+    "web": [
+     "mapway.ai"
+    ]
+   },
+   {
+    "pkg": "com.mapway.beijingmetro",
+    "title": "Beijing Subway - MTRC Map",
+    "dev": "Mapways",
+    "web": [
+     "mapway.ai"
+    ]
+   },
+   {
+    "pkg": "com.transtaiwan.railwayapp",
+    "title": "TransTaiwan: Railway Navigator",
+    "dev": "Chi-Hsuan Wu",
+    "web": [
+     "blog.transtaiwan.com",
+     "gmail.com"
+    ]
+   }
+  ],
   "ChronoCourse|YT": [
    {
     "recherche": "2026-11-23",
@@ -2249,6 +2646,19 @@
     ]
    }
   ],
+  "Cyclocity|LT": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.judu",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "DC Bus Tracker|PH": [
    {
     "recherche": "2026-11-23",
@@ -2368,6 +2778,41 @@
     ]
    }
   ],
+  "DROP Ride|TT": [
+   {
+    "pkg": "com.qupworld.droptaxi",
+    "title": "DROP Ride",
+    "dev": "DROP TT",
+    "web": [
+     "droptaxiservice.com"
+    ]
+   },
+   {
+    "pkg": "mv.dropme.passenger",
+    "title": "Dropme - Request a ride",
+    "dev": "Loopcraft",
+    "web": [
+     "dropme.app",
+     "theloopcraft.com"
+    ]
+   },
+   {
+    "pkg": "com.qupworld.droptaxidriver",
+    "title": "DROP Driver",
+    "dev": "DROP TT",
+    "web": [
+     "droptaxiservice.com"
+    ]
+   },
+   {
+    "pkg": "com.ubercab",
+    "title": "Uber: Rides, eats, hotels",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com"
+    ]
+   }
+  ],
   "DWC National Park Permits|LK": [
    {
     "recherche": "2026-11-23",
@@ -2408,11 +2853,83 @@
     ]
    }
   ],
+  "Dash Me|VG": [
+   {
+    "pkg": "com.dashmebvi",
+    "title": "Dash Me: BVI's Food Delivery",
+    "dev": "Dash Me BVI",
+    "web": [
+     "dashmebvi.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.precis.dashme",
+    "title": "dashme money",
+    "dev": "BB Analytics",
+    "web": [
+     "dashme.ng"
+    ]
+   },
+   {
+    "pkg": "com.dashmebvidriver",
+    "title": "Dash Me: BVI's Food Driver",
+    "dev": "Dash Me BVI",
+    "web": [
+     "dashmebvi.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.robtopx.geometryjumplite",
+    "title": "Geometry Dash Lite",
+    "dev": "RobTop Games",
+    "web": [
+     "robtopgames.com"
+    ]
+   }
+  ],
   "DeliBarth|BL": [
    {
     "recherche": "2026-11-23",
     "grund": "kein sicherer Beleg gefunden",
     "verworfen": ""
+   }
+  ],
+  "DeliverMe TT|TT": [
+   {
+    "pkg": "app.production.delivermett",
+    "title": "DeliverMe TT Taxi - Rideshare",
+    "dev": "DeliverMe TT Ltd",
+    "web": [
+     "delivermett.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "driver.production.delivermett",
+    "title": "DeliverMe TT Driver",
+    "dev": "DeliverMe TT Ltd",
+    "web": [
+     "delivermett.com"
+    ]
+   },
+   {
+    "pkg": "com.taxsee.taxsee",
+    "title": "maxim — order a taxi & food",
+    "dev": "PT. SITO",
+    "web": [
+     "taximaxim.com"
+    ]
+   },
+   {
+    "pkg": "com.ubercab.eats",
+    "title": "Uber Eats: Food and Grocery",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com",
+     "ubereats.com"
+    ]
    }
   ],
   "Delivio|BY": [
@@ -2468,6 +2985,19 @@
      "imm.gub.uy",
      "montevideo.gub.uy"
     ]
+   }
+  ],
+  "Dhofar Seasons|OM": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.moi.app.omanobserver",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
    }
   ],
   "Diaango FOOD|MR": [
@@ -2679,6 +3209,20 @@
     ]
    }
   ],
+  "DoorDash|TC": [
+   {
+    "vorschlag": "com.dd.doordash",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.dd.doordash",
+    "title": "DoorDash: Food, Grocery, More",
+    "dev": "DoorDash",
+    "web": [
+     "doordash.com"
+    ]
+   }
+  ],
   "Doride|AF": [
    {
     "recherche": "2026-11-23",
@@ -2843,6 +3387,69 @@
     ]
    }
   ],
+  "EasyMove VTC/Taxi à La Réunion|RE": [
+   {
+    "pkg": "io.renovah.easymove",
+    "title": "EasyMove VTC/Taxi à La Réunion",
+    "dev": "Renovah",
+    "web": [
+     "easymovevtc.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.vulog.carshare.oa.easymove.prod",
+    "title": "Easymove",
+    "dev": "Easymove&Co",
+    "web": [
+     "easymoveandco.fr"
+    ]
+   },
+   {
+    "pkg": "com.vtctaxi.vtctaxi",
+    "title": "VTC Taxi",
+    "dev": "VTC Taxi // GV Group BV",
+    "web": [
+     "vtctaxi.be"
+    ]
+   },
+   {
+    "pkg": "hr.easymove.app",
+    "title": "EasyMove App",
+    "dev": "Scroll Deeper",
+    "web": [
+     "easymove.hr"
+    ]
+   }
+  ],
+  "EasyPark|AU": [
+   {
+    "vorschlag": "net.easypark.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "net.easypark.android",
+    "title": "EasyPark - Parking made easy",
+    "dev": "EasyPark AS",
+    "web": [
+     "easypark.com",
+     "easypark.net"
+    ]
+   }
+  ],
+  "Ecomove|BF": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.burkina24.mafromedia",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Einreiseformular MINT|NI": [
    {
     "recherche": "2026-11-23",
@@ -2925,6 +3532,111 @@
     ]
    }
   ],
+  "Elefand|SX": [
+   {
+    "vorschlag": "de.diplo.elefand",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.diplo.elefand",
+    "title": "ELEFAND",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de",
+     "diplo.de"
+    ]
+   }
+  ],
+  "Elefand|TC": [
+   {
+    "vorschlag": "de.diplo.elefand",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.diplo.elefand",
+    "title": "ELEFAND",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de",
+     "diplo.de"
+    ]
+   }
+  ],
+  "Elefand|TT": [
+   {
+    "vorschlag": "de.diplo.elefand",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.diplo.elefand",
+    "title": "ELEFAND",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de",
+     "diplo.de"
+    ]
+   }
+  ],
+  "Elefand|TV": [
+   {
+    "vorschlag": "de.diplo.elefand",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.diplo.elefand",
+    "title": "ELEFAND",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de",
+     "diplo.de"
+    ]
+   }
+  ],
+  "Elefand|VG": [
+   {
+    "vorschlag": "de.diplo.elefand",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.diplo.elefand",
+    "title": "ELEFAND",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de",
+     "diplo.de"
+    ]
+   }
+  ],
+  "Elefand|VU": [
+   {
+    "vorschlag": "de.diplo.elefand",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.diplo.elefand",
+    "title": "ELEFAND",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de",
+     "diplo.de"
+    ]
+   }
+  ],
+  "Elefand|WF": [
+   {
+    "vorschlag": "de.diplo.elefand",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.diplo.elefand",
+    "title": "ELEFAND",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de",
+     "diplo.de"
+    ]
+   }
+  ],
   "EnZona|CU": [
    {
     "recherche": "2026-11-23",
@@ -2965,6 +3677,19 @@
     ]
    }
   ],
+  "Enjoy|IT": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "ai.enjoy.world",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Enterprise|SV": [
    {
     "recherche": "2026-11-23",
@@ -2976,6 +3701,36 @@
     "title": "(automatisch gefunden, passt nicht)",
     "dev": "",
     "web": []
+   }
+  ],
+  "Enterprise|SX": [
+   {
+    "vorschlag": "com.ehi.enterprise.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ehi.enterprise.android",
+    "title": "Enterprise Car Rental",
+    "dev": "EAN Services, LLC",
+    "web": [
+     "em.com",
+     "enterprise.com"
+    ]
+   }
+  ],
+  "Enterprise|TT": [
+   {
+    "vorschlag": "com.ehi.enterprise.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ehi.enterprise.android",
+    "title": "Enterprise Car Rental",
+    "dev": "EAN Services, LLC",
+    "web": [
+     "em.com",
+     "enterprise.com"
+    ]
    }
   ],
   "Ethiopia e-Visa|ET": [
@@ -3017,6 +3772,42 @@
     "web": [
      "aii.et",
      "ics.gov.et"
+    ]
+   }
+  ],
+  "Etosha App - Namibia|NA": [
+   {
+    "pkg": "com.etosha",
+    "title": "Etosha App - Namibia",
+    "dev": "termitesoftware",
+    "web": [
+     "etosha-app.com"
+    ]
+   },
+   {
+    "pkg": "com.thesafariguy.etosha",
+    "title": "Etosha Safari: Map & Guide",
+    "dev": "The Safari Guy",
+    "web": [
+     "thesafariguy.co.za"
+    ]
+   },
+   {
+    "pkg": "app.parkpocket.etosha",
+    "title": "Etosha Offline Guide & Map",
+    "dev": "DeGans",
+    "web": [
+     "jessedegans.com",
+     "parkpocket.app"
+    ]
+   },
+   {
+    "pkg": "com.sd.namibia",
+    "title": "Pocket Guide Namibia",
+    "dev": "Pocket Guide Tours CC",
+    "web": [
+     "gmail.com",
+     "pocketguidenamibia.com"
     ]
    }
   ],
@@ -3076,6 +3867,34 @@
     ]
    }
   ],
+  "Europcar|MZ": [
+   {
+    "vorschlag": "com.clanmo.europcar",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.clanmo.europcar",
+    "title": "Europcar - Car & Van Rental",
+    "dev": "Europcar Apps",
+    "web": [
+     "europcar.com"
+    ]
+   }
+  ],
+  "Europcar|RW": [
+   {
+    "vorschlag": "com.clanmo.europcar",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.clanmo.europcar",
+    "title": "Europcar - Car & Van Rental",
+    "dev": "Europcar Apps",
+    "web": [
+     "europcar.com"
+    ]
+   }
+  ],
   "Explore Dominica|DM": [
    {
     "recherche": "2026-11-23",
@@ -3117,6 +3936,19 @@
      "dominicanatours.com",
      "gmail.com"
     ]
+   }
+  ],
+  "FNMIS (Foreign Nationals Management Information System)|NP": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.kathmandupost",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
    }
   ],
   "FR-Alert|BL": [
@@ -3198,6 +4030,56 @@
     "web": [
      "notialarm.app",
      "soosu.studio"
+    ]
+   }
+  ],
+  "FR-Alert|RE": [
+   {
+    "pkg": "com.masecuriteapp",
+    "title": "Ma Sécurité",
+    "dev": "Ministère de l'Intérieur",
+    "web": [
+     "gendarmerie.interieur.gouv.fr",
+     "interieur.gouv.fr"
+    ]
+   },
+   {
+    "pkg": "com.barentswatch.frrapp",
+    "title": "FRR - for beredskapsressurser",
+    "dev": "BarentsWatch",
+    "web": [
+     "barentswatch.no"
+    ]
+   },
+   {
+    "pkg": "com.mysosfamily",
+    "title": "My SOS Family Emergency Alert",
+    "dev": "My SOS Family Ltd",
+    "web": [
+     "mysosfamily.com"
+    ]
+   },
+   {
+    "pkg": "com.soosu.notialarm",
+    "title": "NotiAlarm: Smart Alert Filter",
+    "dev": "Soosu Studio, Inc",
+    "web": [
+     "notialarm.app",
+     "soosu.studio"
+    ]
+   }
+  ],
+  "Ferryhopper|VG": [
+   {
+    "vorschlag": "com.mobileferryhopperapp",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.mobileferryhopperapp",
+    "title": "Ferryhopper - The Ferries App",
+    "dev": "Ferryhopper",
+    "web": [
+     "ferryhopper.com"
     ]
    }
   ],
@@ -3578,6 +4460,19 @@
     ]
    }
   ],
+  "Ghana e-Visa|GH": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "Kein sicherer Beleg fuer eine Android-App gefunden (nur iOS/Web, nicht gefunden oder nur gleichnamige/fremde Apps)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.multimedia.joyonline",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Gibraltar Upper Rock Paths|GI": [
    {
     "recherche": "2026-11-23",
@@ -3615,6 +4510,19 @@
     "web": [
      "giblocal.com"
     ]
+   }
+  ],
+  "Gira|PT": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "pt.rtp.noticias.android",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
    }
   ],
   "Gjirafa Travel|AL": [
@@ -3879,6 +4787,48 @@
     ]
    }
   ],
+  "Grindr|CM": [
+   {
+    "vorschlag": "com.grindrapp.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.grindrapp.android",
+    "title": "Grindr - Gay Dating & Chat",
+    "dev": "Grindr LLC",
+    "web": [
+     "grindr.com"
+    ]
+   }
+  ],
+  "Grindr|CN": [
+   {
+    "vorschlag": "com.grindrapp.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.grindrapp.android",
+    "title": "Grindr - Gay Dating & Chat",
+    "dev": "Grindr LLC",
+    "web": [
+     "grindr.com"
+    ]
+   }
+  ],
+  "Grindr|NG": [
+   {
+    "vorschlag": "com.grindrapp.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.grindrapp.android",
+    "title": "Grindr - Gay Dating & Chat",
+    "dev": "Grindr LLC",
+    "web": [
+     "grindr.com"
+    ]
+   }
+  ],
   "Guangzhou Metro|CN": [
    {
     "recherche": "2026-11-23",
@@ -4001,6 +4951,19 @@
     "web": [
      "tetrasoftech.com"
     ]
+   }
+  ],
+  "HCMC Metro HURC|VN": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "fo.vnexpress.eng",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
    }
   ],
   "HOLEB|GA": [
@@ -4368,6 +5331,20 @@
     "dev": "TaxiAdmin",
     "web": [
      "ulstrel.com"
+    ]
+   }
+  ],
+  "Hertz|VG": [
+   {
+    "vorschlag": "com.hertz.android.digital",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.hertz.android.digital",
+    "title": "Hertz Rent-a-Car",
+    "dev": "The Hertz Corporation",
+    "web": [
+     "hertz.com"
     ]
    }
   ],
@@ -4809,6 +5786,82 @@
     ]
    }
   ],
+  "Irembo|RW": [
+   {
+    "vorschlag": "rw.irembo.irembo_super_mobile_app",
+    "how": "anbieter"
+   },
+   {
+    "pkg": "rw.irembo.irembo_super_mobile_app",
+    "title": "IremboApp",
+    "dev": "Irembo",
+    "web": [
+     "irembo.com"
+    ]
+   },
+   {
+    "pkg": "com.trafficrules.rwanda.app",
+    "title": "Rwanda Traffic rule",
+    "dev": "DrivePrep",
+    "web": [
+     "amategekoyumuhanda.rw",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.booking",
+    "title": "Booking.com: Hotels & Travel",
+    "dev": "Booking.com Hotels & Vacation Rentals",
+    "web": [
+     "booking.com"
+    ]
+   },
+   {
+    "pkg": "org.coursera.android",
+    "title": "Coursera: Grow your career",
+    "dev": "Coursera, Inc.",
+    "web": [
+     "coursera.org"
+    ]
+   }
+  ],
+  "Island Cart|TC": [
+   {
+    "pkg": "com.island.bargains.android",
+    "title": "Island Bargains",
+    "dev": "ISLAND BARGAINS",
+    "web": [
+     "islandbargains.com"
+    ]
+   },
+   {
+    "pkg": "com.pid.spirit",
+    "title": "Spirit of the Island",
+    "dev": "Plug In Digital",
+    "web": [
+     "pidgames.com",
+     "plugindigital.com"
+    ]
+   },
+   {
+    "pkg": "com.crystalexpress.gemsort",
+    "title": "Crystal Express: Gem Sort",
+    "dev": "Feavy Games",
+    "web": [
+     "feavygames.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.avecreation.drivingzoneoffroad",
+    "title": "Driving Zone: Offroad",
+    "dev": "AveCreation",
+    "web": [
+     "about",
+     "avecreation.org"
+    ]
+   }
+  ],
   "Jersey Bus Tracker|JE": [
    {
     "recherche": "2026-11-23",
@@ -4931,6 +5984,42 @@
     "web": [
      "about",
      "gmail.com"
+    ]
+   }
+  ],
+  "KAR'OUEST|RE": [
+   {
+    "pkg": "fr.cityway.android.karouest",
+    "title": "KAR’OUEST",
+    "dev": "SEMTO",
+    "web": [
+     "about",
+     "semto.re"
+    ]
+   },
+   {
+    "pkg": "com.pixelcaux.karbu_france",
+    "title": "Karbu France : Prix Carbu",
+    "dev": "PixelCaux",
+    "web": [
+     "gmail.com",
+     "pixelcaux.github.io"
+    ]
+   },
+   {
+    "pkg": "fr.karos.karos.app",
+    "title": "Karos daily carpool commuting",
+    "dev": "Karos Mobility",
+    "web": [
+     "karos.fr"
+    ]
+   },
+   {
+    "pkg": "com.carlite.carlite_app",
+    "title": "Car Lite - Carsharing",
+    "dev": "Carlite",
+    "web": [
+     "carlite.sg"
     ]
    }
   ],
@@ -5187,6 +6276,42 @@
     ]
    }
   ],
+  "LEFA Namibia|NA": [
+   {
+    "pkg": "com.multibrains.taxi.passenger.lefanm",
+    "title": "LEFA",
+    "dev": "LEFA Transportation Services",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.multibrains.taxi.driver.lefanm",
+    "title": "LEFA Namibia Driver",
+    "dev": "LEFA Transportation Services",
+    "web": [
+     "gmail.com",
+     "lefa.com.na"
+    ]
+   },
+   {
+    "pkg": "com.app.p9385EA",
+    "title": "Namibia",
+    "dev": "Legends Travel Application Namibia",
+    "web": [
+     "customappssa.co.za"
+    ]
+   },
+   {
+    "pkg": "de.a28apps.etaxi_user_flutter",
+    "title": "E-Taxi Namibia",
+    "dev": "NAM-APPS",
+    "web": [
+     "etaxi-worldwide.com"
+    ]
+   }
+  ],
   "Landing and Exit Card|NG": [
    {
     "recherche": "2026-11-23",
@@ -5362,6 +6487,20 @@
     "web": [
      "juan-pay.com",
      "superapp.myjuan.ai"
+    ]
+   }
+  ],
+  "Lime|AU": [
+   {
+    "vorschlag": "com.limebike",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.limebike",
+    "title": "Lime - #RideGreen",
+    "dev": "Neutron Holdings, Inc.",
+    "web": [
+     "li.me"
     ]
    }
   ],
@@ -5570,6 +6709,127 @@
     ]
    }
   ],
+  "Lyft|TC": [
+   {
+    "vorschlag": "me.lyft.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "me.lyft.android",
+    "title": "Lyft",
+    "dev": "Lyft, Inc.",
+    "web": [
+     "lyft.com"
+    ]
+   }
+  ],
+  "Lynk|JM": [
+   {
+    "pkg": "us.lynk.consumer",
+    "title": "Lynk - Digital Payments",
+    "dev": "TFOB",
+    "web": [
+     "lynk.us"
+    ]
+   },
+   {
+    "pkg": "com.lynk.connect",
+    "title": "Lynk - Connect with friends",
+    "dev": "VVV INFOTECH",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.app.lynk.eg",
+    "title": "LYNK: Shared Rides",
+    "dev": "Moaaz ElDemery",
+    "web": [
+     "gmail.com",
+     "lynkeg.app"
+    ]
+   },
+   {
+    "pkg": "com.paypal.android.p2pmobile",
+    "title": "PayPal - Pay, Send, Save",
+    "dev": "PayPal Mobile",
+    "web": [
+     "paypal.com"
+    ]
+   }
+  ],
+  "M-VATU|VU": [
+   {
+    "pkg": "fj.com.vodafone.regionalwallet",
+    "title": "M-VATU",
+    "dev": "Vodafone Vanuatu",
+    "web": [
+     "vodafone.com.vu"
+    ]
+   },
+   {
+    "pkg": "com.vodafone.vodafone_vanuatu",
+    "title": "My Vodafone Vanuatu",
+    "dev": "Vodafone Vanuatu",
+    "web": [
+     "vodafone.com.vu"
+    ]
+   },
+   {
+    "pkg": "cz.vut.mojevut",
+    "title": "My BUT",
+    "dev": "Brno university of Technology",
+    "web": [
+     "vut.cz",
+     "vutbr.cz"
+    ]
+   },
+   {
+    "pkg": "com.insitu.vusitu",
+    "title": "VuSitu Water Monitoring App",
+    "dev": "In-Situ",
+    "web": [
+     "in-situ.com"
+    ]
+   }
+  ],
+  "MILES|DE": [
+   {
+    "pkg": "com.driveby.app",
+    "title": "MILES Car & Van Sharing",
+    "dev": "MILES Mobility GmbH",
+    "web": [
+     "miles-mobility.com"
+    ]
+   },
+   {
+    "pkg": "com.plannet.milesandmoreapp",
+    "title": "Miles & More",
+    "dev": "Miles & More GmbH",
+    "web": [
+     "gmail.com",
+     "miles-and-more.com"
+    ]
+   },
+   {
+    "pkg": "com.driversnote.driversnote",
+    "title": "Mileage Tracker by Driversnote",
+    "dev": "Driversnote Mileage Tracker",
+    "web": [
+     "driversnote.com"
+    ]
+   },
+   {
+    "pkg": "com.eury.millajepro",
+    "title": "Miles: IRS Mileage Tracker",
+    "dev": "bestindicatorever",
+    "web": [
+     "about",
+     "responde-ya.com"
+    ]
+   }
+  ],
   "MOBIRY|JP": [
    {
     "recherche": "2026-11-23",
@@ -5607,6 +6867,40 @@
     "dev": "EaseUS",
     "web": [
      "easeus.com"
+    ]
+   }
+  ],
+  "MT Ticket|MQ": [
+   {
+    "pkg": "fr.airweb.martinique",
+    "title": "MT Ticket",
+    "dev": "Airweb SAS",
+    "web": [
+     "martiniquetransport.mq"
+    ]
+   },
+   {
+    "pkg": "com.tam_way.mobiletickets",
+    "title": "M'Ticket - TaM mobile ticket",
+    "dev": "TaM Montpellier 3M",
+    "web": [
+     "tam-voyages.com"
+    ]
+   },
+   {
+    "pkg": "io.tixngo.app.mytjhh",
+    "title": "myticket MOBILE",
+    "dev": "SECUTIX SA",
+    "web": [
+     "myticket.de"
+    ]
+   },
+   {
+    "pkg": "com.infosistema.ticket",
+    "title": "My Ticket",
+    "dev": "B2B, Lda.",
+    "web": [
+     "ticket.pt"
     ]
    }
   ],
@@ -5740,6 +7034,41 @@
     ]
    }
   ],
+  "Martinique Mobilités|MQ": [
+   {
+    "pkg": "mq.martinique.rtm",
+    "title": "Martinique Mobilités",
+    "dev": "Martinique Transport",
+    "web": [
+     "martiniquetransport.mq"
+    ]
+   },
+   {
+    "pkg": "com.applidium.vianavigo",
+    "title": "Île-de-France Mobilités",
+    "dev": "Île-de-France Mobilités",
+    "web": [
+     "iledefrance-mobilites.fr"
+    ]
+   },
+   {
+    "pkg": "fr.cityway.android.lila",
+    "title": "Lila Mobilités",
+    "dev": "Transdev CapAtlantique Mobilités",
+    "web": [
+     "lilapresquile.fr"
+    ]
+   },
+   {
+    "pkg": "io.padam.android_customer.TransdevIdfTad",
+    "title": "TAD Île-de-France Mobilités",
+    "dev": "Padam Mobility",
+    "web": [
+     "iledefrance-mobilites.fr",
+     "tad.idfmobilites.fr"
+    ]
+   }
+  ],
   "Martinique Tour|MQ": [
    {
     "recherche": "2026-11-23",
@@ -5820,6 +7149,20 @@
     ]
    }
   ],
+  "Maua|VU": [
+   {
+    "vorschlag": "com.app.buyer",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.app.buyer",
+    "title": "Maua",
+    "dev": "SKYEYE LTD",
+    "web": [
+     "maua.app"
+    ]
+   }
+  ],
   "Mendotran Cuándo Subo|AR": [
    {
     "recherche": "2026-11-23",
@@ -5858,6 +7201,41 @@
     "dev": "Transit, Inc.",
     "web": [
      "transitapp.com"
+    ]
+   }
+  ],
+  "Metro Daduhui|CN": [
+   {
+    "pkg": "com.discoverukraine.metro.shanghai",
+    "title": "Shanghai Metro Guide & Planner",
+    "dev": "MobiTech Digital Ltd",
+    "web": [
+     "discover-ukraine.info",
+     "metroguides.info"
+    ]
+   },
+   {
+    "pkg": "com.mapway.shanghaimetro",
+    "title": "Shanghai Interactive Metro Map",
+    "dev": "Mapways",
+    "web": [
+     "mapway.ai"
+    ]
+   },
+   {
+    "pkg": "com.momostorm.mrt_sh",
+    "title": "Shanghai Metro Map Route上海地铁地图",
+    "dev": "momoStorm Entertainment",
+    "web": [
+     "momostorm.com"
+    ]
+   },
+   {
+    "pkg": "com.mapway.guangzhoumetro",
+    "title": "Guangzhou Metro App",
+    "dev": "Mapways",
+    "web": [
+     "mapway.ai"
     ]
    }
   ],
@@ -6095,6 +7473,19 @@
     ]
    }
   ],
+  "My Syria|SY": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.khaleejtimes",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "My.t Cab|MU": [
    {
     "recherche": "2026-11-23",
@@ -6180,6 +7571,21 @@
     ]
    }
   ],
+  "MyCash Digicel|VU": [
+   {
+    "vorschlag": "com.digicelfs.mycash",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.digicelfs.mycash",
+    "title": "MyCash",
+    "dev": "Digicel (Pacific) Financial Services",
+    "web": [
+     "digicelpacific.com",
+     "mycash.com.fj"
+    ]
+   }
+  ],
   "MyDigicel|NR": [
    {
     "recherche": "2026-11-23",
@@ -6232,6 +7638,41 @@
     "title": "(automatisch gefunden, passt nicht)",
     "dev": "",
     "web": []
+   }
+  ],
+  "MyLagosApp|NG": [
+   {
+    "pkg": "ng.mtn.mycityapp.android",
+    "title": "MyLagosApp",
+    "dev": "Mycityapp Ltd",
+    "web": [
+     "mycityapp.io"
+    ]
+   },
+   {
+    "pkg": "com.mygudapp.mygudapp",
+    "title": "MyGudApp",
+    "dev": "Ragnah Ventures",
+    "web": [
+     "about",
+     "jaggic.com"
+    ]
+   },
+   {
+    "pkg": "ng.mtn.mycityapp.cities.android",
+    "title": "MyCityApp-NG",
+    "dev": "Mycityapp Ltd",
+    "web": [
+     "mycityapp.io"
+    ]
+   },
+   {
+    "pkg": "com.transsnet.palmpay",
+    "title": "PalmPay - Smarter Way to Bank",
+    "dev": "PalmPay Limited",
+    "web": [
+     "palmpay.com"
+    ]
    }
   ],
   "MyNTA|MH": [
@@ -6314,6 +7755,79 @@
     "web": [
      "etrademyanmar.com",
      "myanmargoal.com"
+    ]
+   }
+  ],
+  "Myanmar eVisa|MM": [
+   {
+    "pkg": "app.eVisas",
+    "title": "eVisas: Visa Applications",
+    "dev": "Ariyes Online",
+    "web": [
+     "evisas.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.ivisa.services",
+    "title": "iVisa: Online Travel Visas",
+    "dev": "Document Advisor Inc",
+    "web": [
+     "ivisa.com"
+    ]
+   },
+   {
+    "pkg": "com.opportunityjournal.mobile",
+    "title": "Myanmar Job Opportunity",
+    "dev": "AYAZ Technologies",
+    "web": [
+     "24jobs.com.mm",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.govmm.mrtvmobile",
+    "title": "MRTV",
+    "dev": "MRTV",
+    "web": [
+     "gmail.com",
+     "mrtv.gov.mm"
+    ]
+   }
+  ],
+  "México Invita|MX": [
+   {
+    "pkg": "mx.gob.mexicoinvita",
+    "title": "México Invita",
+    "dev": "Gobierno de México",
+    "web": [
+     "gob.mx",
+     "transformaciondigital.gob.mx"
+    ]
+   },
+   {
+    "pkg": "com.tuempresa.tuinvitame",
+    "title": "Tu Invitame",
+    "dev": "Bridge Studio",
+    "web": [
+     "about",
+     "tuinvitame.com"
+    ]
+   },
+   {
+    "pkg": "com.virginmobilelatam.selfcare",
+    "title": "Virgin Mobile México",
+    "dev": "Virgin Mobile Latin America",
+    "web": [
+     "virginmobile.mx"
+    ]
+   },
+   {
+    "pkg": "com.inbursa.client",
+    "title": "Inbursa Móvil",
+    "dev": "Banco Inbursa",
+    "web": [
+     "inbursa.com"
     ]
    }
   ],
@@ -6685,6 +8199,42 @@
     ]
    }
   ],
+  "Neuron Mobility|AU": [
+   {
+    "pkg": "com.hhyu.neuron",
+    "title": "Neuron E-scooters and E-bikes",
+    "dev": "Neuron Mobility Pte. Ltd.",
+    "web": [
+     "neuron.sg",
+     "rideneuron.com"
+    ]
+   },
+   {
+    "pkg": "com.escooterapp",
+    "title": "Beam - Escooter sharing",
+    "dev": "Ride Beam",
+    "web": [
+     "ridebeam.com"
+    ]
+   },
+   {
+    "pkg": "com.limebike",
+    "title": "Lime - #RideGreen",
+    "dev": "Neutron Holdings, Inc.",
+    "web": [
+     "li.me"
+    ]
+   },
+   {
+    "pkg": "io.voiapp.voi",
+    "title": "Voi – e-scooters and e-bikes",
+    "dev": "Voi Technology Ab",
+    "web": [
+     "voi.com",
+     "voiapp.io"
+    ]
+   }
+  ],
   "Nigeria e-Visa|NG": [
    {
     "recherche": "2026-11-23",
@@ -6901,6 +8451,44 @@
     ]
    }
   ],
+  "OPay|NG": [
+   {
+    "pkg": "team.opay.pay",
+    "title": "OPay",
+    "dev": "OPay Digital Services Limited",
+    "web": [
+     "opay-inc.com",
+     "opayweb.com"
+    ]
+   },
+   {
+    "pkg": "team.opay.pay.merchant.service",
+    "title": "OPay Business",
+    "dev": "OPay Digital Services Limited",
+    "web": [
+     "opay.team",
+     "opayweb.com"
+    ]
+   },
+   {
+    "pkg": "com.loan.cash.credit.okash.nigeria",
+    "title": "OKash: Safe and reliable loan",
+    "dev": "OPay Microfinance Bank Limited",
+    "web": [
+     "ng.o-kash.com",
+     "o-kash.com"
+    ]
+   },
+   {
+    "pkg": "com.orbtronicsltd.opaymobile",
+    "title": "Opay Mobile",
+    "dev": "Orbtronics Ltd",
+    "web": [
+     "orbtronics.co",
+     "orbtronicsltd.com"
+    ]
+   }
+  ],
   "ORTP Myanma Railways|MM": [
    {
     "recherche": "2026-11-23",
@@ -7063,6 +8651,19 @@
     ]
    }
   ],
+  "Oman Ministry of Foreign Affairs|OM": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "me.gupoman",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "One Island|IM": [
    {
     "recherche": "2026-11-23",
@@ -7105,6 +8706,41 @@
     ]
    }
   ],
+  "Online Arrival/Departure Card|TT": [
+   {
+    "pkg": "xyz.yumequest.arrivalcardsuperapp",
+    "title": "Arrival Card SuperApp",
+    "dev": "YumeQuest",
+    "web": [
+     "yumequest.xyz"
+    ]
+   },
+   {
+    "pkg": "com.ivisa.services",
+    "title": "iVisa: Online Travel Visas",
+    "dev": "Document Advisor Inc",
+    "web": [
+     "ivisa.com"
+    ]
+   },
+   {
+    "pkg": "sg.gov.ica.mobile.app",
+    "title": "MyICA Mobile",
+    "dev": "Immigration & Checkpoints Authority",
+    "web": [
+     "ica.gov.sg"
+    ]
+   },
+   {
+    "pkg": "th.go.immigration.thim",
+    "title": "THIM - Thai Immigration Bureau",
+    "dev": "RoyalThaiPolice",
+    "web": [
+     "about",
+     "di.co.th"
+    ]
+   }
+  ],
   "Orange Max it|BF": [
    {
     "recherche": "2026-11-23",
@@ -7116,6 +8752,42 @@
     "title": "(automatisch gefunden, passt nicht)",
     "dev": "",
     "web": []
+   }
+  ],
+  "Orange Max it|CM": [
+   {
+    "pkg": "com.orange.myorange.ocm",
+    "title": "Orange Max it • Money Shop TV",
+    "dev": "Orange MEA",
+    "web": [
+     "orange.com"
+    ]
+   },
+   {
+    "pkg": "com.orange.myorange.oci",
+    "title": "Orange Max it - Côte d'Ivoire",
+    "dev": "Orange Côte d'Ivoire S.A",
+    "web": [
+     "orange.ci",
+     "orange.com"
+    ]
+   },
+   {
+    "pkg": "com.oml.dsi.orangemobile",
+    "title": "Orange Max it – Mali",
+    "dev": "Orange Mali",
+    "web": [
+     "orangemali.com"
+    ]
+   },
+   {
+    "pkg": "com.orange.myorange.ogn",
+    "title": "Orange Max it - Guinée",
+    "dev": "Orange Guinée",
+    "web": [
+     "orange-guinee.com",
+     "orange-sonatel.com"
+    ]
    }
   ],
   "Orange Money Africa|MG": [
@@ -7203,6 +8875,7 @@
     ]
    }
   ],
+  "Orders.sx|SX": [],
   "Osaka Amazing Pass (Digital)|JP": [
    {
     "recherche": "2026-11-23",
@@ -7450,6 +9123,19 @@
     ]
    }
   ],
+  "Pafos Smart Parking|CY": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.cymailapp",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Pago Móvil|VE": [
    {
     "recherche": "2026-11-23",
@@ -7655,6 +9341,32 @@
     ]
    }
   ],
+  "Pango Parking|BM": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.royalgazette.android.prod",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
+  "Parking Servis|RS": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "rs.novosti",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Parl'App|AD": [
    {
     "recherche": "2026-11-23",
@@ -7693,6 +9405,43 @@
     "web": [
      "easypark.com",
      "easypark.net"
+    ]
+   }
+  ],
+  "Pasaporte Nuevo León|MX": [
+   {
+    "pkg": "com.turismonl.pasaportenle",
+    "title": "Pasaporte Nuevo León",
+    "dev": "CloudSourceIT",
+    "web": [
+     "cloudsourceit.com",
+     "nuevoleon.travel"
+    ]
+   },
+   {
+    "pkg": "com.travizory.passport.wallet",
+    "title": "Passport.app",
+    "dev": "Travizory Border Security SA",
+    "web": [
+     "passport.app",
+     "travizory.com"
+    ]
+   },
+   {
+    "pkg": "com.passporterapp.android",
+    "title": "Passporter: Planner and Travel",
+    "dev": "Passporter Technologies",
+    "web": [
+     "passporterapp.com"
+    ]
+   },
+   {
+    "pkg": "com.leqi.idphoto_asia",
+    "title": "US Passport Photo Maker",
+    "dev": "LEETA TECHNOLOGY",
+    "web": [
+     "idphoto.phd",
+     "leeta.ai"
     ]
    }
   ],
@@ -7792,6 +9541,32 @@
      "wooga.com",
      "wooga.net"
     ]
+   }
+  ],
+  "Penang Hill Hiking Trails|MY": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.knx.thestarmobile",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
+  "Peoples Bus Service|PK": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.aryservices.arynews.en",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
    }
   ],
   "PeruRail eTicket|PE": [
@@ -8056,6 +9831,42 @@
     ]
    }
   ],
+  "Pup|RE": [
+   {
+    "pkg": "re.pupapp.mobile",
+    "title": "Pup",
+    "dev": "Zapps Digital",
+    "web": [
+     "pup-livraison.com",
+     "pupapp.re"
+    ]
+   },
+   {
+    "pkg": "com.puptodate.app",
+    "title": "Pup to Date - Puppy Schedule",
+    "dev": "Brownstone Apps",
+    "web": [
+     "puptodate.com"
+    ]
+   },
+   {
+    "pkg": "id.my.pup",
+    "title": "PUP - Track poop & gut health",
+    "dev": "Kilatsedap",
+    "web": [
+     "gmail.com",
+     "pup.my.id"
+    ]
+   },
+   {
+    "pkg": "air.com.yprgames.cubrummi",
+    "title": "Pup Rummy PLUS",
+    "dev": "PALCY GAMES",
+    "web": [
+     "games24.club"
+    ]
+   }
+  ],
   "Red Alert (Nofzam)|IL": [
    {
     "recherche": "2026-11-23",
@@ -8150,6 +9961,43 @@
     "web": [
      "about",
      "gmail.com"
+    ]
+   }
+  ],
+  "RideNow247|TC": [
+   {
+    "pkg": "com.ridenow.taxi",
+    "title": "RideNow - Travel and Drive",
+    "dev": "RideNow Tech",
+    "web": [
+     "ridenowtaxis.com"
+    ]
+   },
+   {
+    "pkg": "com.jiyid.turbo_delivery",
+    "title": "RideNow",
+    "dev": "JCS Group",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "io.ridenow.passenger",
+    "title": "Ridenow Taxi: Taxi in Bulgaria",
+    "dev": "RideNowTaxi",
+    "web": [
+     "ridenow.taxi",
+     "yandex.ru"
+    ]
+   },
+   {
+    "pkg": "com.eurosofttech.ride_now",
+    "title": "RIDENOW",
+    "dev": "Lockerby Taxi Inc.",
+    "web": [
+     "lockerbytransportation.com",
+     "ridenow.ca"
     ]
    }
   ],
@@ -8328,6 +10176,33 @@
     ]
    }
   ],
+  "SXM2GO|SX": [],
+  "Safarjala|OM": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.moi.app.omanobserver",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
+  "SafeCY|CY": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.cymailapp",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Saint Lucia Online ED Form|LC": [
    {
     "recherche": "2026-11-23",
@@ -8446,6 +10321,42 @@
     "web": [
      "bolt.eu",
      "food.bolt.eu"
+    ]
+   }
+  ],
+  "Sango Taxi|CF": [
+   {
+    "pkg": "com.sango.itecmove",
+    "title": "SANGO Taxi",
+    "dev": "ITEC Dev",
+    "web": [
+     "gmail.com",
+     "move.itecsoft.site"
+    ]
+   },
+   {
+    "pkg": "com.yandex.yango",
+    "title": "Yango: taxi, food, delivery",
+    "dev": "Y Hub Zaf",
+    "web": [
+     "about",
+     "yango.com"
+    ]
+   },
+   {
+    "pkg": "com.ubercab",
+    "title": "Uber: Rides, eats, hotels",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com"
+    ]
+   },
+   {
+    "pkg": "taxi.android.client",
+    "title": "Freenow by Lyft - taxi & more",
+    "dev": "Intelligent Apps GmbH",
+    "web": [
+     "free-now.com"
     ]
    }
   ],
@@ -8616,6 +10527,43 @@
     ]
    }
   ],
+  "Shenzhen Metro (官方APP)|CN": [
+   {
+    "pkg": "com.discoverukraine.metro.shenzhen",
+    "title": "Shenzhen Metro Guide & Planner",
+    "dev": "MobiTech Digital Ltd",
+    "web": [
+     "discover-ukraine.info",
+     "footpathapp.com\\"
+    ]
+   },
+   {
+    "pkg": "com.exploremetro.sz",
+    "title": "Explore Shenzhen Metro map",
+    "dev": "Matthew Mayer",
+    "web": [
+     "exploremetro.com"
+    ]
+   },
+   {
+    "pkg": "com.blogspot.shantiom2108ykk.shenzhenmetromapoffline",
+    "title": "Shenzhen Metro Travel Guide",
+    "dev": "AppPlay Software",
+    "web": [
+     "gmail.com",
+     "mytripnavi.com"
+    ]
+   },
+   {
+    "pkg": "com.yu.cmtr",
+    "title": "China MTR",
+    "dev": "Jake Ng",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   }
+  ],
   "SiDrive|NE": [
    {
     "recherche": "2026-11-23",
@@ -8653,6 +10601,118 @@
     "web": [
      "snagr.co.uk",
      "snagr.com.hk"
+    ]
+   }
+  ],
+  "Sicher Reisen|RE": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
+    ]
+   }
+  ],
+  "Sicher Reisen|SX": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
+    ]
+   }
+  ],
+  "Sicher Reisen|TC": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
+    ]
+   }
+  ],
+  "Sicher Reisen|TT": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
+    ]
+   }
+  ],
+  "Sicher Reisen|TV": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
+    ]
+   }
+  ],
+  "Sicher Reisen|VG": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
+    ]
+   }
+  ],
+  "Sicher Reisen|VU": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
+    ]
+   }
+  ],
+  "Sicher Reisen|WF": [
+   {
+    "vorschlag": "com.aa_app.ui",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.aa_app.ui",
+    "title": "Sicher Reisen",
+    "dev": "Auswärtiges Amt",
+    "web": [
+     "auswaertiges-amt.de"
     ]
    }
   ],
@@ -8694,6 +10754,21 @@
     "dev": "remotepass",
     "web": [
      "remotepass.com"
+    ]
+   }
+  ],
+  "Sint Maarten ED Form (entry.sx)|SX": [],
+  "Sixt|NG": [
+   {
+    "vorschlag": "com.sixt.reservation",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.sixt.reservation",
+    "title": "SIXT rent. share. ride. plus.",
+    "dev": "Sixt",
+    "web": [
+     "sixt.com"
     ]
    }
   ],
@@ -9497,6 +11572,111 @@
     "web": []
    }
   ],
+  "TT RideShare|TT": [
+   {
+    "pkg": "production.ttrides.customer",
+    "title": "TT RideShare",
+    "dev": "TT RideShare Ltd",
+    "web": [
+     "ttrideshare.com"
+    ]
+   },
+   {
+    "pkg": "production.ttrides.driver",
+    "title": "TT RideShare Driver",
+    "dev": "TT RideShare Ltd",
+    "web": [
+     "ttrideshare.com"
+    ]
+   },
+   {
+    "pkg": "app.production.delivermett",
+    "title": "DeliverMe TT Taxi - Rideshare",
+    "dev": "DeliverMe TT Ltd",
+    "web": [
+     "delivermett.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "production.allridi.customer",
+    "title": "allRiDi - Request Rides",
+    "dev": "allRiDi Limited",
+    "web": [
+     "allridi.com"
+    ]
+   }
+  ],
+  "TTIT Ferry Booking|TT": [
+   {
+    "pkg": "com.ferrygo_mobile",
+    "title": "Openferry: Ferry Tickets",
+    "dev": "Droplet Tech",
+    "web": [
+     "openferry.com"
+    ]
+   },
+   {
+    "pkg": "com.thailandferry.booking",
+    "title": "Thailand Ferry Booking",
+    "dev": "The Trago",
+    "web": [
+     "thailandferrybooking.com"
+    ]
+   },
+   {
+    "pkg": "com.tuatea.mobileapp",
+    "title": "Tauati Ferry & Apetahi Express",
+    "dev": "ISI.PF",
+    "web": [
+     "tuatea.com",
+     "tuateaferries.com"
+    ]
+   },
+   {
+    "pkg": "com.directferries.ferryapp",
+    "title": "Direct Ferries - Ferry tickets",
+    "dev": "Direct Ferries Limited",
+    "web": [
+     "directferries.co.uk",
+     "directferries.com"
+    ]
+   }
+  ],
+  "TWINT|CH": [
+   {
+    "pkg": "com.ubs.Paymit.android",
+    "title": "UBS TWINT",
+    "dev": "UBS AG",
+    "web": [
+     "ubs.com"
+    ]
+   },
+   {
+    "pkg": "ch.postfinance.twint.android",
+    "title": "PostFinance TWINT",
+    "dev": "PostFinance AG",
+    "web": [
+     "postfinance.ch"
+    ]
+   },
+   {
+    "pkg": "ch.twint.payment",
+    "title": "Prepaid TWINT & other banks",
+    "dev": "TWINT AG",
+    "web": [
+     "twint.ch"
+    ]
+   },
+   {
+    "pkg": "ch.raiffeisen.twint",
+    "title": "Raiffeisen TWINT",
+    "dev": "Raiffeisen Schweiz Genossenschaft",
+    "web": [
+     "raiffeisen.ch"
+    ]
+   }
+  ],
   "Tajikistan e-Visa|TJ": [
    {
     "recherche": "2026-11-23",
@@ -9615,6 +11795,43 @@
     "dev": "Lazada Mobile",
     "web": [
      "lazada.com"
+    ]
+   }
+  ],
+  "Tap a Meal|NA": [
+   {
+    "pkg": "na.com.green.tap_a_meal_android",
+    "title": "Tap A Meal",
+    "dev": "Green Enterprise Solutions",
+    "web": [
+     "about",
+     "green.com.na"
+    ]
+   },
+   {
+    "pkg": "na.com.green.tapamealdriver",
+    "title": "Tap a Meal Driver",
+    "dev": "Green Enterprise Solutions",
+    "web": [
+     "about",
+     "green.com.na"
+    ]
+   },
+   {
+    "pkg": "na.com.green.tap_a_meal_restaurants",
+    "title": "Tap a Meal Restaurants",
+    "dev": "Green Enterprise Solutions",
+    "web": [
+     "about",
+     "green.com.na"
+    ]
+   },
+   {
+    "pkg": "com.meeltap.app",
+    "title": "MealTap: Dinner Made Easy",
+    "dev": "TVD One LLC",
+    "web": [
+     "meeltap.com"
     ]
    }
   ],
@@ -9860,6 +12077,42 @@
     "web": [
      "acoustiguide.com",
      "gmail.com"
+    ]
+   }
+  ],
+  "Timeless Tuvalu|TV": [
+   {
+    "pkg": "com.app.timelesstoday",
+    "title": "TimelessToday",
+    "dev": "TimelessToday, LLC",
+    "web": [
+     "timelesstoday.com",
+     "timelesstoday.tv"
+    ]
+   },
+   {
+    "pkg": "com.wiztivi.timeless",
+    "title": "Timeless (UI)",
+    "dev": "Wiztivi",
+    "web": [
+     "wiztivi.com"
+    ]
+   },
+   {
+    "pkg": "com.gianlu.timeless",
+    "title": "Timeless",
+    "dev": "devgianlu",
+    "web": [
+     "gianlu.xyz",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "ai.gotimeless.app",
+    "title": "Timeless",
+    "dev": "Choiz Mx",
+    "web": [
+     "gotimeless.ai"
     ]
    }
   ],
@@ -10327,6 +12580,42 @@
     ]
    }
   ],
+  "Tuvalu Meteorological Service|TV": [
+   {
+    "pkg": "com.forecasts.noaa.live.weather",
+    "title": "Live Weather: Daily Forecast",
+    "dev": "WINDWAVE LIMITED",
+    "web": [
+     "weather2024.com"
+    ]
+   },
+   {
+    "pkg": "com.windyty.android",
+    "title": "Windy.com - Weather Forecast",
+    "dev": "Windyty SE",
+    "web": [
+     "windy.com"
+    ]
+   },
+   {
+    "pkg": "com.coloros.weather.service",
+    "title": "WeatherService",
+    "dev": "ColorOS",
+    "web": [
+     "about",
+     "oppo.com"
+    ]
+   },
+   {
+    "pkg": "com.arf.weatherstation",
+    "title": "Weather Station",
+    "dev": "Dromosys",
+    "web": [
+     "dromosys.com",
+     "gmail.com"
+    ]
+   }
+  ],
   "U-GO|MN": [
    {
     "recherche": "2026-11-23",
@@ -10367,6 +12656,141 @@
     "web": [
      "app.youtube.com",
      "google.com"
+    ]
+   }
+  ],
+  "UPark|AU": [
+   {
+    "pkg": "com.stecheye.uparkandroid",
+    "title": "UPark: Find & Rent Parking",
+    "dev": "DeanMk",
+    "web": [
+     "upark.mk"
+    ]
+   },
+   {
+    "pkg": "com.uparkplus.android",
+    "title": "uPark+",
+    "dev": "Alexander Stolte",
+    "web": [
+     "about",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.devjonaed.uparkki",
+    "title": "UPARKKI: Smart Parking",
+    "dev": "SmartEco GmbH",
+    "web": [
+     "uparkki.ch"
+    ]
+   },
+   {
+    "pkg": "com.ubipark.app.App",
+    "title": "UbiPark",
+    "dev": "UbiPark Pty Ltd",
+    "web": [
+     "ubipark.com"
+    ]
+   }
+  ],
+  "Uber Eats|MQ": [
+   {
+    "vorschlag": "com.ubercab.eats",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ubercab.eats",
+    "title": "Uber Eats: Food and Grocery",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com",
+     "ubereats.com"
+    ]
+   }
+  ],
+  "Uber Eats|TC": [
+   {
+    "vorschlag": "com.ubercab.eats",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ubercab.eats",
+    "title": "Uber Eats: Food and Grocery",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com",
+     "ubereats.com"
+    ]
+   }
+  ],
+  "Uber|MQ": [
+   {
+    "vorschlag": "com.ubercab",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ubercab",
+    "title": "Uber: Rides, eats, hotels",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com"
+    ]
+   }
+  ],
+  "Uber|SX": [
+   {
+    "vorschlag": "com.ubercab",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ubercab",
+    "title": "Uber: Rides, eats, hotels",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com"
+    ]
+   }
+  ],
+  "Uber|TC": [
+   {
+    "vorschlag": "com.ubercab",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ubercab",
+    "title": "Uber: Rides, eats, hotels",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com"
+    ]
+   }
+  ],
+  "Uber|TT": [
+   {
+    "vorschlag": "com.ubercab",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ubercab",
+    "title": "Uber: Rides, eats, hotels",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com"
+    ]
+   }
+  ],
+  "Uber|VG": [
+   {
+    "vorschlag": "com.ubercab",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.ubercab",
+    "title": "Uber: Rides, eats, hotels",
+    "dev": "Uber Technologies, Inc.",
+    "web": [
+     "uber.com"
     ]
    }
   ],
@@ -10573,6 +12997,77 @@
     ]
    }
   ],
+  "Vanuatu Ferry|VU": [
+   {
+    "pkg": "com.southpacificdomains.vanuatu",
+    "title": "Vanuatu Music",
+    "dev": "South Pacific Domains, LLC",
+    "web": [
+     "southpacificdomains.com"
+    ]
+   },
+   {
+    "pkg": "com.liknoss.mobile.app.vnn",
+    "title": "Ventouris Ferries",
+    "dev": "VENTOURIS FERRIES",
+    "web": [
+     "ventourisferries.com"
+    ]
+   },
+   {
+    "pkg": "com.hornblower.sanfranciscobayferry",
+    "title": "San Francisco Bay Ferry",
+    "dev": "Anchor Operating System",
+    "web": [
+     "about",
+     "hornblower.com"
+    ]
+   },
+   {
+    "pkg": "co.bytemark.nycf",
+    "title": "NYC Ferry",
+    "dev": "Anchor Operating System",
+    "web": [
+     "ferry.nyc",
+     "hornblower.com"
+    ]
+   }
+  ],
+  "Vanuatu Travel|VU": [
+   {
+    "pkg": "com.tgl.guidelines.vanuatu",
+    "title": "Vanuatu Guideline Host",
+    "dev": "Therapeutic Guidelines Ltd",
+    "web": [
+     "tg.org.au"
+    ]
+   },
+   {
+    "pkg": "com.southpacificdomains.vanuatu",
+    "title": "Vanuatu Music",
+    "dev": "South Pacific Domains, LLC",
+    "web": [
+     "southpacificdomains.com"
+    ]
+   },
+   {
+    "pkg": "com.freshappshappy.radiovanuatu",
+    "title": "Radio Vanuatu live stream",
+    "dev": "Fresh Apps Happy",
+    "web": [
+     "apper.appsrentables.com",
+     "gmail.com"
+    ]
+   },
+   {
+    "pkg": "com.vodafone.vodafone_vanuatu",
+    "title": "My Vodafone Vanuatu",
+    "dev": "Vodafone Vanuatu",
+    "web": [
+     "vodafone.com.vu"
+    ]
+   }
+  ],
   "Vaya Africa|ZW": [
    {
     "recherche": "2026-11-23",
@@ -10657,6 +13152,32 @@
     ]
    }
   ],
+  "Vezukha|BY": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "ru.cmtt.dtf",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
+  "Viajando|CU": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "Kein sicherer Beleg fuer eine Android-App gefunden (nur iOS/Web, nicht gefunden oder nur gleichnamige/fremde Apps)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "appdirectoriocubanoinfo.wpapp",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Vietnam E-Visa|VN": [
    {
     "recherche": "2026-11-23",
@@ -10735,6 +13256,42 @@
     "dev": "GUIDE CONSULTANTS L.L.C",
     "web": [
      "visaindex.com"
+    ]
+   }
+  ],
+  "Visit BVI|VG": [
+   {
+    "pkg": "com.visitbviff1556",
+    "title": "Visit BVI",
+    "dev": "North South Net",
+    "web": [
+     "northsouthnet.com"
+    ]
+   },
+   {
+    "pkg": "com.travpro.bvi",
+    "title": "BVI Revealed Specialist",
+    "dev": "TravPRO Mobile",
+    "web": [
+     "travpromobile.com"
+    ]
+   },
+   {
+    "pkg": "com.select.research.bvipro",
+    "title": "BVI Pro",
+    "dev": "Select Research ltd.",
+    "web": [
+     "bodyvolume.com",
+     "select-research.com"
+    ]
+   },
+   {
+    "pkg": "de.ikup.bviverwalter",
+    "title": "BVI to go",
+    "dev": "apicodo AG",
+    "web": [
+     "about",
+     "bvi-verwalter.de"
     ]
    }
   ],
@@ -11274,6 +13831,7 @@
     ]
    }
   ],
+  "We Are SXM|SX": [],
   "Welcome Suica Mobile|JP": [
    {
     "recherche": "2026-11-23",
@@ -11357,6 +13915,20 @@
     ]
    }
   ],
+  "Wise|MX": [
+   {
+    "vorschlag": "com.transferwise.android",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.transferwise.android",
+    "title": "Wise: International Transfers",
+    "dev": "Wise Payments Ltd.",
+    "web": [
+     "wise.com"
+    ]
+   }
+  ],
   "Wonsiga|GN": [
    {
     "recherche": "2026-11-23",
@@ -11396,6 +13968,19 @@
     "web": [
      "hostelworld.com"
     ]
+   }
+  ],
+  "WowNow|KH": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "kh.com.techoairport",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
    }
   ],
   "Woyo|ML": [
@@ -11440,6 +14025,56 @@
     ]
    }
   ],
+  "Xi'an Metro (官方App)|CN": [
+   {
+    "pkg": "com.xinlukou.metroman",
+    "title": "MetroMan China",
+    "dev": "MetroMan",
+    "web": [
+     "gmail.com",
+     "metroman.cn"
+    ]
+   },
+   {
+    "pkg": "net.nuua.tripai",
+    "title": "NUUA METRO- Offline Subway Map",
+    "dev": "Nuua Inc.",
+    "web": [
+     "metro.nuua.travel",
+     "nuua.ai"
+    ]
+   },
+   {
+    "pkg": "com.discoverukraine.metro.shenzhen",
+    "title": "Shenzhen Metro Guide & Planner",
+    "dev": "MobiTech Digital Ltd",
+    "web": [
+     "discover-ukraine.info",
+     "footpathapp.com\\"
+    ]
+   },
+   {
+    "pkg": "com.mapway.beijingmetro",
+    "title": "Beijing Subway - MTRC Map",
+    "dev": "Mapways",
+    "web": [
+     "mapway.ai"
+    ]
+   }
+  ],
+  "Yaldi|AE": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.gulfnews.newsapp",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "Yango Deli|CI": [
    {
     "recherche": "2026-11-23",
@@ -11480,6 +14115,34 @@
     "web": [
      "about",
      "support.yandex.ru"
+    ]
+   }
+  ],
+  "Yango Food Delivery|SN": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "Kein sicherer Beleg fuer eine Android-App gefunden (nur iOS/Web, nicht gefunden oder nur gleichnamige/fremde Apps)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.nextwebart.senego",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
+  "Yango|NA": [
+   {
+    "vorschlag": "com.yandex.yango",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.yandex.yango",
+    "title": "Yango: taxi, food, delivery",
+    "dev": "Y Hub Zaf",
+    "web": [
+     "about",
+     "yango.com"
     ]
    }
   ],
@@ -11912,6 +14575,78 @@
     ]
    }
   ],
+  "Zotcar|RE": [
+   {
+    "pkg": "com.zotocar.app",
+    "title": "Zotocar",
+    "dev": "Acadec SUARL",
+    "web": [
+     "acadec.net",
+     "zotocar.com"
+    ]
+   },
+   {
+    "pkg": "com.relayrides.android.relayrides",
+    "title": "Turo — Better car rental",
+    "dev": "Turo Inc.",
+    "web": [
+     "turo.com"
+    ]
+   },
+   {
+    "pkg": "ma.vestracar.mobile.app",
+    "title": "VestraCar: Rent a Car Morocco",
+    "dev": "VestraCar",
+    "web": [
+     "vestracar.ma"
+    ]
+   },
+   {
+    "pkg": "com.dusklight.zoeti",
+    "title": "Zoeti",
+    "dev": "Akupara Games",
+    "web": [
+     "akuparagames.com"
+    ]
+   }
+  ],
+  "alterVélo libre service|RE": [
+   {
+    "pkg": "com.ecovelo.altervelo",
+    "title": "alterVélo libre service",
+    "dev": "Écovélo",
+    "web": [
+     "about",
+     "ecovelo.com"
+    ]
+   },
+   {
+    "pkg": "com.ecovelo.velyceo",
+    "title": "Vélycéo VLS vélo libre-service",
+    "dev": "Écovélo",
+    "web": [
+     "ecovelo.com",
+     "velyceo.ecovelo.mobi"
+    ]
+   },
+   {
+    "pkg": "com.ecovelo.tempovelo",
+    "title": "Tempo Vélo libre-service",
+    "dev": "Écovélo",
+    "web": [
+     "ecovelo.com",
+     "tempovelo.ecovelo.mobi"
+    ]
+   },
+   {
+    "pkg": "com.urbansharing.citybike.rouen",
+    "title": "LOVÉLO libre-service",
+    "dev": "Urban Sharing",
+    "web": [
+     "lovelolibreservice.fr"
+    ]
+   }
+  ],
   "customs.bn|BN": [
    {
     "recherche": "2026-11-23",
@@ -12073,6 +14808,19 @@
     ]
    }
   ],
+  "eVisitor (ImmiAccount, Web)|AU": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "au.gov.homeaffairs.ameponline",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "evisa.gov.az|AZ": [
    {
     "recherche": "2026-11-23",
@@ -12112,6 +14860,20 @@
     "web": [
      "evixa-dz.com",
      "evixa.app"
+    ]
+   }
+  ],
+  "foodDROP|TT": [
+   {
+    "vorschlag": "com.fooddrop.customer",
+    "how": "daten"
+   },
+   {
+    "pkg": "com.fooddrop.customer",
+    "title": "foodDROP: Food Delivery",
+    "dev": "DROP TT",
+    "web": [
+     "fooddropcaribbean.com"
     ]
    }
   ],
@@ -12193,6 +14955,20 @@
     ]
    }
   ],
+  "inDrive|NA": [
+   {
+    "vorschlag": "sinet.startup.inDriver",
+    "how": "daten"
+   },
+   {
+    "pkg": "sinet.startup.inDriver",
+    "title": "inDrive. Rides with fair fares",
+    "dev": "® SUOL INNOVATIONS LTD",
+    "web": [
+     "indrive.com"
+    ]
+   }
+  ],
   "maPZS|SI": [
    {
     "recherche": "2026-11-23",
@@ -12232,6 +15008,21 @@
     "web": [
      "avenza.com",
      "store.avenza.com"
+    ]
+   }
+  ],
+  "nextbike|AT": [
+   {
+    "vorschlag": "de.nextbike",
+    "how": "daten"
+   },
+   {
+    "pkg": "de.nextbike",
+    "title": "nextbike – Bike Sharing",
+    "dev": "nextbike",
+    "web": [
+     "nextbike.de",
+     "nextbike.net"
     ]
    }
   ],
@@ -12356,6 +15147,58 @@
     ]
    }
   ],
+  "Île de La Réunion Mobilités|RE": [
+   {
+    "vorschlag": "fr.reunion.mobilites",
+    "how": "anbieter"
+   },
+   {
+    "pkg": "fr.reunion.mobilites",
+    "title": "Île de La Réunion Mobilités",
+    "dev": "ILEDELAREUNIONMOBILITES",
+    "web": [
+     "smtr-mobilite.re"
+    ]
+   },
+   {
+    "pkg": "com.applidium.vianavigo",
+    "title": "Île-de-France Mobilités",
+    "dev": "Île-de-France Mobilités",
+    "web": [
+     "iledefrance-mobilites.fr"
+    ]
+   },
+   {
+    "pkg": "com.goodbarber.antennereunion",
+    "title": "Antenne Réunion +",
+    "dev": "Antenne Réunion",
+    "web": [
+     "antennereunion.fr"
+    ]
+   },
+   {
+    "pkg": "io.padam.android_customer.TransdevIdfTad",
+    "title": "TAD Île-de-France Mobilités",
+    "dev": "Padam Mobility",
+    "web": [
+     "iledefrance-mobilites.fr",
+     "tad.idfmobilites.fr"
+    ]
+   }
+  ],
+  "İzmirim Kart Mobil|TR": [
+   {
+    "recherche": "2026-11-23",
+    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
+    "verworfen": ""
+   },
+   {
+    "pkg": "com.izmirbb.bizizmir",
+    "title": "(automatisch gefunden, passt nicht)",
+    "dev": "",
+    "web": []
+   }
+  ],
   "ŽPCG|ME": [
    {
     "recherche": "2026-11-23",
@@ -12396,357 +15239,6 @@
      "about",
      "futureappsai.pl"
     ]
-   }
-  ],
-  "Ashgabat (Hypermarkt)|TM": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg gefunden",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.takykcheshme.turkmenportal",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Blued|CN": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "Kein sicherer Beleg fuer eine Android-App (Web/iOS/kein Treffer/unklar)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.mylocaltv.krdo",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Blued|ID": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.thejakartapost.ndroid",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Cyclocity|LT": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.judu",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Dhofar Seasons|OM": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.moi.app.omanobserver",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Ecomove|BF": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.burkina24.mafromedia",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "FNMIS (Foreign Nationals Management Information System)|NP": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.kathmandupost",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Ghana e-Visa|GH": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "Kein sicherer Beleg fuer eine Android-App gefunden (nur iOS/Web, nicht gefunden oder nur gleichnamige/fremde Apps)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.multimedia.joyonline",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Gira|PT": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "pt.rtp.noticias.android",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "HCMC Metro HURC|VN": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "fo.vnexpress.eng",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "My Syria|SY": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.khaleejtimes",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Oman Ministry of Foreign Affairs|OM": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "me.gupoman",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Pafos Smart Parking|CY": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.cymailapp",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Pango Parking|BM": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.royalgazette.android.prod",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Parking Servis|RS": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "rs.novosti",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Penang Hill Hiking Trails|MY": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.knx.thestarmobile",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Peoples Bus Service|PK": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.aryservices.arynews.en",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Safarjala|OM": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.moi.app.omanobserver",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "SafeCY|CY": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.cymailapp",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Vezukha|BY": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "ru.cmtt.dtf",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Viajando|CU": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "Kein sicherer Beleg fuer eine Android-App gefunden (nur iOS/Web, nicht gefunden oder nur gleichnamige/fremde Apps)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "appdirectoriocubanoinfo.wpapp",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "WowNow|KH": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "kh.com.techoairport",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Yaldi|AE": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer Android-Paket (nur iOS/Web/kein passender Treffer)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.gulfnews.newsapp",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Yango Food Delivery|SN": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "Kein sicherer Beleg fuer eine Android-App gefunden (nur iOS/Web, nicht gefunden oder nur gleichnamige/fremde Apps)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.nextwebart.senego",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "eVisitor (ImmiAccount, Web)|AU": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "au.gov.homeaffairs.ameponline",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "İzmirim Kart Mobil|TR": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer eine Play-App (Web/iPhone-only/nicht gefunden oder Kandidaten gehoeren nicht zum Betreiber)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "com.izmirbb.bizizmir",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
-   }
-  ],
-  "Enjoy|IT": [
-   {
-    "recherche": "2026-11-23",
-    "grund": "kein sicherer Beleg fuer die Ziel-App im Land (Kandidaten gehoeren nicht zum Betreiber, nur iPhone/Web oder App nicht gefunden)",
-    "verworfen": ""
-   },
-   {
-    "pkg": "ai.enjoy.world",
-    "title": "(automatisch gefunden, passt nicht)",
-    "dev": "",
-    "web": []
    }
   ]
  }
