@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-23 18:23",
+ "version": "2026-11-24 08:04",
  "categories": [
   {
    "id": "entry",
@@ -50228,12 +50228,6 @@
     ],
     "holidays": [
      {
-      "d": "2026-11-21",
-      "n": "Dan uspostavljanja Opšteg okvirnog sporazuma za mir u BiH",
-      "e": "Day of the establishment of the General Framework Agreement for Peace in BiH",
-      "r": 1
-     },
-     {
       "d": "2026-11-25",
       "n": "Dan državnosti Bosne i Hercegovine",
       "e": "Statehood Day",
@@ -50542,10 +50536,6 @@
      "+373"
     ],
     "holidays": [
-     {
-      "d": "2026-11-21",
-      "n": "South Capital's Day Cahul"
-     },
      {
       "d": "2026-12-25",
       "n": "Craciun pe stil Nou (Western Christmas)",
@@ -52466,6 +52456,11 @@
       "d": "2027-11-14",
       "n": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
       "e": "Water Festival"
+     },
+     {
+      "d": "2027-12-29",
+      "n": "ទិវាសន្តិភាពនៅកម្ពុជា",
+      "e": "Cambodia Peace Day"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -59250,6 +59245,11 @@
       "d": "2027-11-26",
       "n": "Улс тунхагласны өдөр",
       "e": "Republic Day"
+     },
+     {
+      "d": "2027-12-29",
+      "n": "Тусгаар Тогтнолын Өдөр",
+      "e": "Independence Day"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -61188,6 +61188,97 @@
  ],
  "prides": [
   {
+   "name": "Christmas Avenue & LGBTQIA* Winterdays",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.499,
+   "lon": 13.354,
+   "start": "2026-11-07",
+   "end": "2026-12-23",
+   "month": 11,
+   "url": "https://www.christmas-avenue.berlin/",
+   "type": "fest",
+   "cat": "xmas",
+   "lc": "Berlin"
+  },
+  {
+   "name": "Heavenue",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.94,
+   "lon": 6.939,
+   "start": "2026-11-16",
+   "end": "2026-12-23",
+   "month": 11,
+   "url": "https://www.heavenue.de/",
+   "alt": [
+    "Cologne"
+   ],
+   "type": "fest",
+   "cat": "xmas",
+   "lc": "Köln"
+  },
+  {
+   "name": "Winter Pride Hamburg",
+   "city": "Hamburg",
+   "cc": "DE",
+   "lat": 53.553,
+   "lon": 10.009,
+   "start": "2026-11-18",
+   "end": "2026-12-23",
+   "month": 11,
+   "url": "https://www.winterpride.de/",
+   "type": "fest",
+   "cat": "xmas",
+   "lc": "Hamburg"
+  },
+  {
+   "name": "Pink Christmas",
+   "city": "München",
+   "cc": "DE",
+   "lat": 48.133,
+   "lon": 11.567,
+   "start": "2026-11-20",
+   "end": "2026-12-20",
+   "month": 11,
+   "url": "https://www.pink-christmas.de/",
+   "alt": [
+    "Monaco di Baviera",
+    "Munich"
+   ],
+   "type": "fest",
+   "cat": "xmas",
+   "lc": "München"
+  },
+  {
+   "name": "Pink X-Mas",
+   "city": "Graz",
+   "cc": "AT",
+   "lat": 47.074,
+   "lon": 15.43,
+   "start": "2026-11-20",
+   "end": "2026-12-24",
+   "month": 11,
+   "url": "https://pinkxmas.at/",
+   "type": "fest",
+   "cat": "xmas",
+   "lc": "Graz"
+  },
+  {
+   "name": "Rosa Weihnacht",
+   "city": "Frankfurt am Main",
+   "cc": "DE",
+   "lat": 50.112,
+   "lon": 8.683,
+   "start": "2026-11-23",
+   "end": "2026-12-22",
+   "month": 11,
+   "url": "https://www.regenbogenevents.de/rosa-weihnacht",
+   "type": "fest",
+   "cat": "xmas",
+   "lc": "Frankfurt"
+  },
+  {
    "name": "Naughty St. Nicholas Closing Party",
    "city": "Köln",
    "cc": "DE",
@@ -61206,6 +61297,19 @@
    "lc": "Köln"
   },
   {
+   "name": "Pink Monday",
+   "city": "Heidelberg",
+   "cc": "DE",
+   "lat": 49.412,
+   "lon": 8.71,
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "month": 11,
+   "url": "https://www.aidshilfe-heidelberg.de/de/PinkMonday2026",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
    "name": "MAD.BEAR Madrid",
    "city": "Madrid",
    "cc": "ES",
@@ -61218,6 +61322,33 @@
    "type": "fest",
    "cat": "bear",
    "lc": "Madrid"
+  },
+  {
+   "name": "Queer Winter Wonderland",
+   "city": "Würzburg",
+   "cc": "DE",
+   "lat": 49.791,
+   "lon": 9.923,
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "month": 12,
+   "url": "https://www.queerpridewue.de/queer-winter-wonderland-wintermarkt-2026/",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
+   "name": "Big Queer Christmas Market",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.507,
+   "lon": 13.454,
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "month": 12,
+   "url": "https://www.thatgaycreation.com/",
+   "type": "fest",
+   "cat": "xmas",
+   "lc": "Berlin"
   },
   {
    "name": "Arosa Gay Ski Week",
@@ -70501,22 +70632,6 @@
    ],
    "type": "fest",
    "cat": "fetish"
-  },
-  {
-   "name": "Pink Christmas",
-   "city": "München",
-   "cc": "DE",
-   "lat": 48.133,
-   "lon": 11.567,
-   "month": 11,
-   "url": "https://www.pink-christmas.de",
-   "last": "2026-11-20",
-   "alt": [
-    "Monaco di Baviera",
-    "Munich"
-   ],
-   "type": "fest",
-   "lc": "München"
   },
   {
    "name": "Rosa Wiesn",
