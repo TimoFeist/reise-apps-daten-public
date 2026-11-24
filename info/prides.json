@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "src": "Webseiten der Veranstalter, Wikipedia, Nachrichten und CSD Deutschland (Terminkalender); keine Daten aus Gay-Guides",
  "items": [
   {
@@ -9938,11 +9938,13 @@
    "cc": "DE",
    "lat": 48.133,
    "lon": 11.567,
+   "start": "2026-11-20",
+   "end": "2026-12-20",
    "month": 11,
-   "url": "https://www.pink-christmas.de",
-   "last": "2026-11-20",
-   "src": "https://www.pink-christmas.de",
+   "url": "https://www.pink-christmas.de/",
+   "src": "https://www.pink-christmas.de/",
    "type": "fest",
+   "cat": "xmas",
    "alt": [
     "Monaco di Baviera",
     "Munich"
@@ -10280,6 +10282,121 @@
    "alt": [
     "Reval"
    ]
+  },
+  {
+   "name": "Heavenue",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.94,
+   "lon": 6.939,
+   "start": "2026-11-16",
+   "end": "2026-12-23",
+   "month": 11,
+   "url": "https://www.heavenue.de/",
+   "src": "https://www.heavenue.de/",
+   "type": "fest",
+   "cat": "xmas",
+   "alt": [
+    "Cologne"
+   ]
+  },
+  {
+   "name": "Winter Pride Hamburg",
+   "city": "Hamburg",
+   "cc": "DE",
+   "lat": 53.553,
+   "lon": 10.009,
+   "start": "2026-11-18",
+   "end": "2026-12-23",
+   "month": 11,
+   "url": "https://www.winterpride.de/",
+   "src": "https://www.winterpride.de/",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
+   "name": "Christmas Avenue & LGBTQIA* Winterdays",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.499,
+   "lon": 13.354,
+   "start": "2026-11-07",
+   "end": "2026-12-23",
+   "month": 11,
+   "url": "https://www.christmas-avenue.berlin/",
+   "src": "https://www.christmas-avenue.berlin/",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
+   "name": "Rosa Weihnacht",
+   "city": "Frankfurt am Main",
+   "cc": "DE",
+   "lat": 50.112,
+   "lon": 8.683,
+   "start": "2026-11-23",
+   "end": "2026-12-22",
+   "month": 11,
+   "url": "https://www.regenbogenevents.de/rosa-weihnacht",
+   "src": "https://www.regenbogenevents.de/rosa-weihnacht",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
+   "name": "Pink X-Mas",
+   "city": "Graz",
+   "cc": "AT",
+   "lat": 47.074,
+   "lon": 15.43,
+   "start": "2026-11-20",
+   "end": "2026-12-24",
+   "month": 11,
+   "url": "https://pinkxmas.at/",
+   "src": "https://pinkxmas.at/",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
+   "name": "Big Queer Christmas Market",
+   "city": "Berlin",
+   "cc": "DE",
+   "lat": 52.507,
+   "lon": 13.454,
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "month": 12,
+   "url": "https://www.thatgaycreation.com/",
+   "src": "https://www.thatgaycreation.com/",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
+   "name": "Queer Winter Wonderland",
+   "city": "Würzburg",
+   "cc": "DE",
+   "lat": 49.791,
+   "lon": 9.923,
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "month": 12,
+   "url": "https://www.queerpridewue.de/queer-winter-wonderland-wintermarkt-2026/",
+   "src": "https://www.queerpridewue.de/queer-winter-wonderland-wintermarkt-2026/",
+   "type": "fest",
+   "cat": "xmas"
+  },
+  {
+   "name": "Pink Monday",
+   "city": "Heidelberg",
+   "cc": "DE",
+   "lat": 49.412,
+   "lon": 8.71,
+   "start": "2026-11-30",
+   "end": "2026-11-30",
+   "month": 11,
+   "url": "https://www.aidshilfe-heidelberg.de/de/PinkMonday2026",
+   "src": "https://www.aidshilfe-heidelberg.de/de/PinkMonday2026",
+   "type": "fest",
+   "cat": "xmas"
   }
  ]
 }
