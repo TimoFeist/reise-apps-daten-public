@@ -13147,6 +13147,2142 @@
   "org.lvivavtodor.eticket": {
    "id": 0,
    "checked": "2026-11-24"
+  },
+  "com.tfgm.beenetwork": {
+   "id": 1669705230,
+   "name": "Bee Network",
+   "seller": "Transport for Greater Manchester",
+   "checked": "2026-11-25"
+  },
+  "at.asfinag.unterwegs": {
+   "id": 453459323,
+   "name": "ASFINAG",
+   "seller": "ASFINAG MAUT SERVICE GMBH",
+   "checked": "2026-11-25"
+  },
+  "com.rwandair.app": {
+   "id": 6759875071,
+   "name": "RwandAir",
+   "seller": "RwandAir",
+   "checked": "2026-11-25"
+  },
+  "logic.leader.nbv.prod": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ua.in.citybus.lviv": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "info.incard.lviv": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "am.ggtaxi.main": {
+   "id": 852874923,
+   "name": "gg - Transportation Service",
+   "seller": "gg CJSC",
+   "checked": "2026-11-25"
+  },
+  "taxi.u.client": {
+   "id": 1184381076,
+   "name": "UVO - Taxi and Delivery",
+   "seller": "Utaxi LLC",
+   "checked": "2026-11-25"
+  },
+  "am.menu.app": {
+   "id": 991535987,
+   "name": "Menu.am - Food & More Delivery",
+   "seller": "Mikromobilnost doo",
+   "checked": "2026-11-25"
+  },
+  "ru.foodfox.client": {
+   "id": 1078986931,
+   "name": "Yandex Eats: food delivery",
+   "seller": "Mikromobilnost doo",
+   "checked": "2026-11-25"
+  },
+  "com.hikearmenia": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.sflpro.rateam": {
+   "id": 523423414,
+   "name": "Rate.am",
+   "seller": "Rate.am LLC",
+   "checked": "2026-11-25"
+  },
+  "com.vavianlabs.spyur": {
+   "id": 6822740630,
+   "name": "Spyur By Industry",
+   "seller": "\"SPYUR\" INFORMATION SYSTEM LLC",
+   "checked": "2026-11-25"
+  },
+  "org.birthrightarmenia.ayolingo": {
+   "id": 570060128,
+   "name": "Duolingo: Language & Chess",
+   "seller": "Duolingo, Inc",
+   "checked": "2026-11-25"
+  },
+  "ru.deltapay.puntopago.telcell": {
+   "id": 1324511564,
+   "name": "Telcell Wallet",
+   "seller": "Telcell CJSC",
+   "checked": "2026-11-25"
+  },
+  "com.google.android.apps.walletnfcrel": {
+   "id": 284815942,
+   "name": "Google - More ways to search",
+   "seller": "Google LLC",
+   "checked": "2026-11-25"
+  },
+  "com.parking.applicaton": {
+   "id": 6751286867,
+   "name": "YES Parking Armenia",
+   "seller": "PARKING CITY SERVICE, CJSC",
+   "checked": "2026-11-25"
+  },
+  "com.VisitYerevan.TheOnlyGroup": {
+   "id": 1599576201,
+   "name": "Visit Yerevan",
+   "seller": "Technology Management Centre Of Yerevan City CJSC",
+   "checked": "2026-11-25"
+  },
+  "Yerevan Card|AM": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "app.com.velvioo": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "app.mimo.it.MimoBike": {
+   "id": 1576701754,
+   "name": "Mimo Meta Sharing",
+   "seller": "MIMO, LLC",
+   "checked": "2026-11-25"
+  },
+  "Busy Fly|AM": {
+   "id": 1488207086,
+   "name": "BusyFly",
+   "seller": "GEMILABS UAB",
+   "checked": "2026-11-25"
+  },
+  "com.ecodriveplus.usuario": {
+   "id": 1670684418,
+   "name": "Eco Drive Driving Institute",
+   "seller": "ECO DRIVE AUTOMOBILE DRIVING SCHOOL LLC",
+   "checked": "2026-11-25"
+  },
+  "com.aero.zvartnots": {
+   "id": 1375576530,
+   "name": "Zvartnots Airport",
+   "seller": "Armenia International Airport",
+   "checked": "2026-11-25"
+  },
+  "evisa.gov.az|AZ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.mlubv.uber.az": {
+   "id": 1449275596,
+   "name": "Heetch AZ: taxi and delivery",
+   "seller": "WindMobilityTechnologyLtd",
+   "checked": "2026-11-25"
+  },
+  "com.araz": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.ady": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.sinam.Biletim": {
+   "id": 1627012184,
+   "name": "Biletim",
+   "seller": "Sinam MMC",
+   "checked": "2026-11-25"
+  },
+  "az.gov.fhn.app112": {
+   "id": 6737355694,
+   "name": "112 AZ",
+   "seller": "AZERBAYCAN RESPUBLIKASININ FOVQELADE HALLAR NAZIRLIYI",
+   "checked": "2026-11-25"
+  },
+  "com.bakikart.prod.android": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.aynamaas.app": {
+   "id": 6737228455,
+   "name": "AYNA MaaS",
+   "seller": "AZERBAYCAN YERUSTU NEQLIYYAT AGENTLIYI, PHS",
+   "checked": "2026-11-25"
+  },
+  "befree.ct.ms": {
+   "id": 6748035214,
+   "name": "BeFree - Carsharing in Baku",
+   "seller": "CT Mobility Solutions - F.Z.E",
+   "checked": "2026-11-25"
+  },
+  "com.s2j.rentbutik": {
+   "id": 6476712514,
+   "name": "Rentbutik: Carsharing",
+   "seller": "S2J Inc",
+   "checked": "2026-11-25"
+  },
+  "com.azparking": {
+   "id": 1626165359,
+   "name": "AzParking",
+   "seller": "AZPARKING MMC",
+   "checked": "2026-11-25"
+  },
+  "com.alfataxi.client": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "cy.com.cabcy.cyprus.passenger": {
+   "id": 1506369107,
+   "name": "CABCY",
+   "seller": "CABCY SYSTEMS LTD",
+   "checked": "2026-11-25"
+  },
+  "Taxi One|CY": {
+   "id": 1092224954,
+   "name": "Taxi One",
+   "seller": "INFOXOROS SOFTWARE Single Member P.C.",
+   "checked": "2026-11-25"
+  },
+  "VIPS Taxi|CY": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.ideas2life.foodymobile": {
+   "id": 1071407834,
+   "name": "Foody Cyprus - Food Delivery",
+   "seller": "Delivery Hero Cyprus LT",
+   "checked": "2026-11-25"
+  },
+  "app.meep.cyprus.pame": {
+   "id": 1517815656,
+   "name": "Pame App",
+   "seller": "CPT Cyprus Public Transport Services and Operations Ltd",
+   "checked": "2026-11-25"
+  },
+  "com.gmv.cyprusbus2": {
+   "id": 1384885081,
+   "name": "Cyprus Bus",
+   "seller": "Ministry of Transport, Communications and Works",
+   "checked": "2026-11-25"
+  },
+  "com.rideNow.clientMobile": {
+   "id": 6743093894,
+   "name": "RideNow PRO Carsharing",
+   "seller": "Ridenow Car Rental Limited",
+   "checked": "2026-11-25"
+  },
+  "Samokat|CY": {
+   "id": 1401500803,
+   "name": "Samokat: заказ еды и продуктов",
+   "seller": "RSA OOO",
+   "checked": "2026-11-25"
+  },
+  "E-run Cyprus|CY": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "SafeCY|CY": {
+   "id": 6746747464,
+   "name": "SafeCY - Cyprus Civil Defence",
+   "seller": "Deputy Ministry for Research, Innovation & Digital Policy",
+   "checked": "2026-11-25"
+  },
+  "taxi.vivacy.client": {
+   "id": 6751193104,
+   "name": "VivaCy",
+   "seller": "ANDELONICA LTD",
+   "checked": "2026-11-25"
+  },
+  "Pick'n Click|CY": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.yodiwo.yodicity.citizen": {
+   "id": 1673748080,
+   "name": "Smart Parking Nicosia City",
+   "seller": "YODIWO MONOPROSOPI S.A.",
+   "checked": "2026-11-25"
+  },
+  "Pafos Smart Parking|CY": {
+   "id": 1613355759,
+   "name": "Pafos Smart Parking",
+   "seller": "Inntenet Ltd",
+   "checked": "2026-11-25"
+  },
+  "cambodiaarrivalform.immigration.gov.kh": {
+   "id": 1492455515,
+   "name": "Cambodia e-Arrival",
+   "seller": "General Department of Immigration",
+   "checked": "2026-11-25"
+  },
+  "Cambodia eVisa|KH": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "kh.com.passapp.passenger": {
+   "id": 1535615747,
+   "name": "PassApp Taxi and Delivery",
+   "seller": "PASSAPP TECHNOLOGIES CO.,LTD",
+   "checked": "2026-11-25"
+  },
+  "WowNow|KH": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "kh.gov.nbc.bakong.tourist": {
+   "id": 6471774666,
+   "name": "Bakong Tourists",
+   "seller": "National Bank of Cambodia",
+   "checked": "2026-11-25"
+  },
+  "com.paygo24.ibank": {
+   "id": 968860649,
+   "name": "ABA Mobile Bank",
+   "seller": "Advanced Bank Of Asia Limited",
+   "checked": "2026-11-25"
+  },
+  "com.bookmebus.bookmebus": {
+   "id": 1101077306,
+   "name": "BookMeBus — Bus Ferry and Taxi",
+   "seller": "BookMeBus Co., Ltd.",
+   "checked": "2026-11-25"
+  },
+  "Cambodia Tourist Police|KH": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.mef.gdde.cam.park": {
+   "id": 6756403958,
+   "name": "CamPark",
+   "seller": "MINISTRY OF ECONOMY AND FINANCE",
+   "checked": "2026-11-25"
+  },
+  "kh.gov.ppcba.citybus": {
+   "id": 1608841286,
+   "name": "City Bus Official App",
+   "seller": "Phnom Penh City Bus Authority",
+   "checked": "2026-11-25"
+  },
+  "kh.com.techoairport": {
+   "id": 6751738846,
+   "name": "Techo Airport",
+   "seller": "CANADIA INVESTMENT HOLDING PLC.",
+   "checked": "2026-11-25"
+  },
+  "com.angkor_pass.app": {
+   "id": 6698859997,
+   "name": "Angkor-Pass",
+   "seller": "MINISTRY OF ECONOMY AND FINANCE",
+   "checked": "2026-11-25"
+  },
+  "com.udaya.visit_angkor": {
+   "id": 6465895919,
+   "name": "Visit Angkor",
+   "seller": "UDAYA TECHNOLOGY CO., LTD",
+   "checked": "2026-11-25"
+  },
+  "com.app.sihanouktourism": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.multibrains.taxi.passenger.tirhal": {
+   "id": 1146426936,
+   "name": "Tirhal",
+   "seller": "TIRHAL FOR BUSINESS AND TECHNOLOGY CO.",
+   "checked": "2026-11-25"
+  },
+  "sd.lemon": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "app.talabak.user": {
+   "id": 6757619047,
+   "name": "Talabak | طلبك",
+   "seller": "Samah Mahjoub",
+   "checked": "2026-11-25"
+  },
+  "com.mode.bok.ui": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "app.musafir.musafir": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Somalia eTAS|SO": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Somaliland Einreisegenehmigung (Web)|SO": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "so.geeye.geeyeclient": {
+   "id": 6745321338,
+   "name": "Geeye Somalia",
+   "seller": "ABDIRAHIM AHMED",
+   "checked": "2026-11-25"
+  },
+  "Bajaaj Macmiil|SO": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.zaadapp.zaad": {
+   "id": 1642177888,
+   "name": "Zaad",
+   "seller": "Zaad Portal L.L.C.",
+   "checked": "2026-11-25"
+  },
+  "com.dahabplus.dahabplus": {
+   "id": 1498782612,
+   "name": "DahabPlus",
+   "seller": "DAHABSHIIL GROUP HOLDINGS LLC",
+   "checked": "2026-11-25"
+  },
+  "com.dhaweeye.client": {
+   "id": 1399823559,
+   "name": "Dhaweeye",
+   "seller": "Tabaarak ICT Solutions",
+   "checked": "2026-11-25"
+  },
+  "Adeegfood Buyer|SO": {
+   "id": 6670474509,
+   "name": "Adeegfood Buyer",
+   "seller": "Adeeg LTD",
+   "checked": "2026-11-25"
+  },
+  "South Sudan eVisa|SS": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.mgurush.customer": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Tolo SuperApp|SS": {
+   "id": 6738090021,
+   "name": "Tolo SuperApp",
+   "seller": "TOLO LLC (UAE)",
+   "checked": "2026-11-25"
+  },
+  "ssd.com.shilu.ana.juba.passenger": {
+   "id": 1480204287,
+   "name": "Shilu ANA: taxi in East Africa",
+   "seller": "Junubia Host co LTD",
+   "checked": "2026-11-25"
+  },
+  "com.kajou.bonjour": {
+   "id": 6470450458,
+   "name": "Karibu.",
+   "seller": "KAJOU",
+   "checked": "2026-11-25"
+  },
+  "Voyage Togo e-Visa|TG": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "tg.togocom.tmoney": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.huawei.moovmoney.tg.uat": {
+   "id": 6747830756,
+   "name": "Moov Money TG",
+   "seller": "Moov Africa Togo SA",
+   "checked": "2026-11-25"
+  },
+  "com.askymobileapp.askyairlines": {
+   "id": 6738847568,
+   "name": "Asky",
+   "seller": "Asky ai PTY LTD",
+   "checked": "2026-11-25"
+  },
+  "tg.tmye.kaba.brave.one": {
+   "id": 1513025430,
+   "name": "KABA",
+   "seller": "KABA DELIVERY SARL",
+   "checked": "2026-11-25"
+  },
+  "com.bhkkonsulting.e_sotral": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "de.hafas.android.andorra": {
+   "id": 1473798601,
+   "name": "FEDA Mou-te",
+   "seller": "Forces Electriques d'Andorra (FEDA)",
+   "checked": "2026-11-25"
+  },
+  "com.interfacom.taxiandorra": {
+   "id": 6760651627,
+   "name": "TaxiAndorra",
+   "seller": "Interfacom S.A.",
+   "checked": "2026-11-25"
+  },
+  "es.dae.cityxerpa": {
+   "id": 1175500027,
+   "name": "CityXerpa - Andorra's app",
+   "seller": "Xerpa SL",
+   "checked": "2026-11-25"
+  },
+  "com.andornet.mobilitat": {
+   "id": 1448483075,
+   "name": "Mobilitat Andorra",
+   "seller": "ANDORNET, S.A.",
+   "checked": "2026-11-25"
+  },
+  "com.andorrabybus.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.grupojulia.andorradirectbus": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.andorsoft.Cicland": {
+   "id": 1407609332,
+   "name": "CICLAND",
+   "seller": "ANDORSOFT, S.A.",
+   "checked": "2026-11-25"
+  },
+  "com.grandvalira.Grandvalira": {
+   "id": 777328587,
+   "name": "Grandvalira Resorts",
+   "seller": "NEUS DEL VALIRA, S.A",
+   "checked": "2026-11-25"
+  },
+  "Andorra Museus|AD": {
+   "id": 1544789074,
+   "name": "Andorra Museus",
+   "seller": "GOVERN D'ANDORRA",
+   "checked": "2026-11-25"
+  },
+  "Parl'App|AD": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.delaware.empark": {
+   "id": 658204860,
+   "name": "Telpark",
+   "seller": "MAKSU ESPANA, S.L.",
+   "checked": "2026-11-25"
+  },
+  "es.studiogenesis.innpark.innpark": {
+   "id": 6738283256,
+   "name": "apparcand clic&aparca",
+   "seller": "ESTUDIO GENESIS PROJECTS S.L",
+   "checked": "2026-11-25"
+  },
+  "com.hbb_it.taxi_135": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "by.rw.client": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "by.iba.transport": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Anytime|BY": {
+   "id": 1231153647,
+   "name": "Anytime - каршеринг в Беларуси",
+   "seller": "Karshering Russiya OOO",
+   "checked": "2026-11-25"
+  },
+  "Delivio|BY": {
+   "id": 1496620849,
+   "name": "Delivio: еда и продукты",
+   "seller": "Delivery software, OOO",
+   "checked": "2026-11-25"
+  },
+  "com.mobicon.mbank2.belarusbank": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Tinder|BY": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "by.hello.app": {
+   "id": 1459837414,
+   "name": "Hello каршеринг Минск",
+   "seller": "ZVEZDA STOLITSY, OOO",
+   "checked": "2026-11-25"
+  },
+  "Vezukha|BY": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "by.eleven.scooters": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.amadeus.merci.rc": {
+   "id": 1239332860,
+   "name": "Atlantic Airways",
+   "seller": "Atlantic Airways",
+   "checked": "2026-11-25"
+  },
+  "fo.exploreforoyar": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Skaffa|FO": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.biltaxi.olasanda": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.olasanda.autotaxi": {
+   "id": 1603252091,
+   "name": "Auto Taxa",
+   "seller": "Ola Christian vid Sanda",
+   "checked": "2026-11-25"
+  },
+  "com.gibraltar.android.CustomerApp": {
+   "id": 6816153620,
+   "name": "Gibraltar Taxi Association",
+   "seller": "Gibraltar Taxi Association",
+   "checked": "2026-11-25"
+  },
+  "Hoppy|GI": {
+   "id": 6474540777,
+   "name": "hoppy: date like a human",
+   "seller": "Hoppy App Limited",
+   "checked": "2026-11-25"
+  },
+  "com.preoday.mobile.hungrymonkey": {
+   "id": 1461733862,
+   "name": "Hungry Monkey Gibraltar",
+   "seller": "Hungry Monkey LTD",
+   "checked": "2026-11-25"
+  },
+  "NomNoms|GI": {
+   "id": 1458498775,
+   "name": "NomNoms",
+   "seller": "Creative Animal",
+   "checked": "2026-11-25"
+  },
+  "Gibraltar Upper Rock Paths|GI": {
+   "id": 902352662,
+   "name": "Gibraltar Upper Rock Paths",
+   "seller": "ElitAd Internet Limited",
+   "checked": "2026-11-25"
+  },
+  "Doride|AF": {
+   "id": 6738889957,
+   "name": "Doride",
+   "seller": "Script Craft IT Services Company",
+   "checked": "2026-11-25"
+  },
+  "com.order.mz": {
+   "id": 6741681717,
+   "name": "MZ: Food Online",
+   "seller": "Omed Khan",
+   "checked": "2026-11-25"
+  },
+  "com.ariana.ariana": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.kamair.ticketing": {
+   "id": 1451184763,
+   "name": "Kam Air Trustable Wings",
+   "seller": "Kam Air",
+   "checked": "2026-11-25"
+  },
+  "af.hesab.app": {
+   "id": 1290673415,
+   "name": "HesabPay",
+   "seller": "Zinzir Ltd",
+   "checked": "2026-11-25"
+  },
+  "com.raftarrides.com": {
+   "id": 6752469674,
+   "name": "Raftar – Ride Your Way",
+   "seller": "Raftar Rides",
+   "checked": "2026-11-25"
+  },
+  "Visa on Arrival und E-Arrival Card (Special Branch)|BD": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.pathao.user": {
+   "id": 1201700952,
+   "name": "Pathao",
+   "seller": "PATHAO LTD.",
+   "checked": "2026-11-25"
+  },
+  "com.foodiBd": {
+   "id": 1610910233,
+   "name": "Foodi - Food Delivery",
+   "seller": "Foodi Express Limited",
+   "checked": "2026-11-25"
+  },
+  "com.bKash.customerapp": {
+   "id": 1351183172,
+   "name": "bKash",
+   "seller": "bKash Limited",
+   "checked": "2026-11-25"
+  },
+  "com.shohoz.dtrainpwa": {
+   "id": 6499584782,
+   "name": "Rail Sheba",
+   "seller": "Bangladesh Railway",
+   "checked": "2026-11-25"
+  },
+  "com.shohoz.rides": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.police.hellotourist": {
+   "id": 1563627967,
+   "name": "Hello Tourists",
+   "seller": "Bangladesh Police",
+   "checked": "2026-11-25"
+  },
+  "rider.bike.jo": {
+   "id": 1455780127,
+   "name": "Jobike",
+   "seller": "Jobike Inc",
+   "checked": "2026-11-25"
+  },
+  "com.bd.rapidpass.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Lao eVisa|LA": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Lao Digital Immigration Form (LDIF)|LA": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.loca.passenger": {
+   "id": 1374380531,
+   "name": "LOCA: Laos Taxi, QR Payment",
+   "seller": "LOCA COMPANY LIMITED",
+   "checked": "2026-11-25"
+  },
+  "la.bcel.ezykip": {
+   "id": 6473516286,
+   "name": "EzyKip",
+   "seller": "Banque Pour Le Commerce Exterieur Lao Public",
+   "checked": "2026-11-25"
+  },
+  "com.bcel.bcelone": {
+   "id": 654946527,
+   "name": "BCEL One",
+   "seller": "Banque Pour Le Commerce Exterieur Lao Public",
+   "checked": "2026-11-25"
+  },
+  "com.cars.laosticket": {
+   "id": 6444795307,
+   "name": "LCR Ticket",
+   "seller": "Laos-China Railway Company Limited",
+   "checked": "2026-11-25"
+  },
+  "com.coconutsilo.kokkokexpress.shipper": {
+   "id": 6444350846,
+   "name": "KOKKOK Move",
+   "seller": "COCONUT SILO",
+   "checked": "2026-11-25"
+  },
+  "com.chompadelivery.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.goldmirubada.laobus": {
+   "id": 6757226035,
+   "name": "LaoBus",
+   "seller": "YONG KEUN PARK",
+   "checked": "2026-11-25"
+  },
+  "Nepal Immigration Online Visa|NP": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "FNMIS (Foreign Nationals Management Information System)|NP": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Nepal Tourism Board TIMS Card|NP": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.app.foodmandu": {
+   "id": 983591001,
+   "name": "Foodmandu",
+   "seller": "Foodmandu Pvt. Ltd.",
+   "checked": "2026-11-25"
+  },
+  "com.app.bhojdeals": {
+   "id": 1038039473,
+   "name": "Bhojdeals (Now Bhoj)",
+   "seller": "Backdrop Pty Ltd",
+   "checked": "2026-11-25"
+  },
+  "com.fonepay.international": {
+   "id": 6759238446,
+   "name": "Nepal Now",
+   "seller": "Fonepay Payment Service Limited",
+   "checked": "2026-11-25"
+  },
+  "com.f1soft.esewa": {
+   "id": 614370939,
+   "name": "eSewa",
+   "seller": "ESEWA LTD.",
+   "checked": "2026-11-25"
+  },
+  "com.khalti": {
+   "id": 1263400741,
+   "name": "Khalti Digital Wallet (Nepal)",
+   "seller": "IME Khalti Limited",
+   "checked": "2026-11-25"
+  },
+  "com.diyalo.bussewa": {
+   "id": 6480398037,
+   "name": "BusSewa",
+   "seller": "Diyalo Technologies",
+   "checked": "2026-11-25"
+  },
+  "com.shirantech.buddhaair": {
+   "id": 962660238,
+   "name": "Buddha Air",
+   "seller": "Buddha Air",
+   "checked": "2026-11-25"
+  },
+  "Tourist Police Nepal|NP": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "BIPAD Portal|NP": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.slashplus.sajhaplus.sajha_plus": {
+   "id": 6448083588,
+   "name": "Sajha Plus",
+   "seller": "SLASH PLUS",
+   "checked": "2026-11-25"
+  },
+  "com.fccpta.ktmpublictransport": {
+   "id": 6748438188,
+   "name": "KTM Public Transport FCCPTA",
+   "seller": "National Information Technology Center, Government of Nepal",
+   "checked": "2026-11-25"
+  },
+  "YenDe KMC Walking App|NP": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.safeboda.passenger": {
+   "id": 1274389246,
+   "name": "SafeBoda with SafeCar",
+   "seller": "SafeBoda Holding",
+   "checked": "2026-11-25"
+  },
+  "com.faras.rider": {
+   "id": 1616854301,
+   "name": "Faras",
+   "seller": "FARAS TECHNOLOGY",
+   "checked": "2026-11-25"
+  },
+  "com.mtn1app": {
+   "id": 977968085,
+   "name": "MyMTN",
+   "seller": "MTN Group LTD",
+   "checked": "2026-11-25"
+  },
+  "com.utb.explore_uganda": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.ugandaairlines.ur.reservations": {
+   "id": 1581397345,
+   "name": "Uganda Airlines",
+   "seller": "Uganda National Airlines Company Limited",
+   "checked": "2026-11-25"
+  },
+  "com.multibrains.taxi.passenger.ulendotaxizambia": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.consumerug": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Zamtel Money Customer|ZM": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "kwik.rides.zambia.taxi.passenger": {
+   "id": 6670430513,
+   "name": "Kwik Rides: Zambia Cab App",
+   "seller": "KWIK CORPORATE MOBILITY LIMITED",
+   "checked": "2026-11-25"
+  },
+  "Foodify Zambia|ZM": {
+   "id": 1634826134,
+   "name": "Foodify Zambia",
+   "seller": "Evans Mauta",
+   "checked": "2026-11-25"
+  },
+  "Zimbabwe eVisa|ZW": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Fresh in a Box|ZW": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.ecocash": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.innbucks.customer": {
+   "id": 1578456781,
+   "name": "InnBucks",
+   "seller": "InnBucks Mauritius",
+   "checked": "2026-11-25"
+  },
+  "com.fastjet.reservations": {
+   "id": 6443695568,
+   "name": "fastjet",
+   "seller": "Videcom International Limited",
+   "checked": "2026-11-25"
+  },
+  "Vaya Africa|ZW": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.cityparking.parkassist": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.taxicaller.GuernseyTaxiApp.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.tpagency.visitguernsey": {
+   "id": 1592126908,
+   "name": "Visit Guernsey",
+   "seller": "Visit Guernsey",
+   "checked": "2026-11-25"
+  },
+  "com.vulog.carshare.oa.evie.prod": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.condorferries.mobile": {
+   "id": 1451504867,
+   "name": "Condor Ferries",
+   "seller": "Condor Ferries Limited",
+   "checked": "2026-11-25"
+  },
+  "com.aurigny.mobile.twa": {
+   "id": 6752642180,
+   "name": "Aurigny",
+   "seller": "Aurigny Air Services Ltd.",
+   "checked": "2026-11-25"
+  },
+  "gg.donkeydelivers": {
+   "id": 1519386182,
+   "name": "Takeout.gg",
+   "seller": "Creative Animal",
+   "checked": "2026-11-25"
+  },
+  "gg.food.app": {
+   "id": 1501608248,
+   "name": "Food.gg - Guernsey Takeaway",
+   "seller": "Food.je eTakeaway Limited",
+   "checked": "2026-11-25"
+  },
+  "com.mtcmobile.snappyshopper": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "travel.ticketless.app.guernsey": {
+   "id": 6743087682,
+   "name": "Buses gg",
+   "seller": "States of Guernsey",
+   "checked": "2026-11-25"
+  },
+  "isleofman.rider": {
+   "id": 1572640935,
+   "name": "MANNgo Isle of Man Transport",
+   "seller": "Via Transportation, Inc.",
+   "checked": "2026-11-25"
+  },
+  "im.kivoon.app": {
+   "id": 6760610031,
+   "name": "Kivoon: Isle of Man Bus Times",
+   "seller": "Itamar Bareket Dori",
+   "checked": "2026-11-25"
+  },
+  "One Island|IM": {
+   "id": 6809306522,
+   "name": "One Island: Journal & Focus",
+   "seller": "西良 唐",
+   "checked": "2026-11-25"
+  },
+  "ott.ttplus": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.mxt.dazzler": {
+   "id": 6771701530,
+   "name": "Dazzler: Food, Venues & Events",
+   "seller": "ManxTech Limited",
+   "checked": "2026-11-25"
+  },
+  "travel.ticketless.app.liberty": {
+   "id": 6444266962,
+   "name": "LibertyBus",
+   "seller": "Kelsian UK Limited",
+   "checked": "2026-11-25"
+  },
+  "Jersey Bus Tracker|JE": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Jersey Taxiapp|JE": {
+   "id": 1435148162,
+   "name": "JERSEY TAXIAPP",
+   "seller": "JERSEY TAXIAPP",
+   "checked": "2026-11-25"
+  },
+  "com.rydejersey.rydejersey": {
+   "id": 1495605028,
+   "name": "Ryde - Always nearby",
+   "seller": "Ryde Technology AS",
+   "checked": "2026-11-25"
+  },
+  "je.food.app": {
+   "id": 1295380780,
+   "name": "Food.je - Takeaway Food Jersey",
+   "seller": "Food.je eTakeaway Limited",
+   "checked": "2026-11-25"
+  },
+  "io.ngage.jersey": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "li.liebike": {
+   "id": 1635344551,
+   "name": "Liebike",
+   "seller": "Verkehrsbetrieb LIECHTENSTEINmobil",
+   "checked": "2026-11-25"
+  },
+  "WELCOME|LI": {
+   "id": 1584615437,
+   "name": "Welcome Доставка",
+   "seller": "VELKOM GRUP, OOO",
+   "checked": "2026-11-25"
+  },
+  "li.listory.app": {
+   "id": 1462266258,
+   "name": "LIstory",
+   "seller": "Liechtenstein Marketing",
+   "checked": "2026-11-25"
+  },
+  "Sponti-Car|LI": {
+   "id": 1338748932,
+   "name": "Sponti-Car",
+   "seller": "Sponti-Car GmbH",
+   "checked": "2026-11-25"
+  },
+  "Brunei e-Arrival Card|BN": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "egnc.moh.bruhealth": {
+   "id": 1509620170,
+   "name": "BruHealth",
+   "seller": "E-Government National Centre",
+   "checked": "2026-11-25"
+  },
+  "customs.bn|BN": {
+   "id": 6449696019,
+   "name": "Customs.BN",
+   "seller": "E-Government National Centre",
+   "checked": "2026-11-25"
+  },
+  "com.dartbrunei.darttaxi.rider": {
+   "id": 1351551803,
+   "name": "Dart Rider",
+   "seller": "Dart Logistics Sdn. Bhd.",
+   "checked": "2026-11-25"
+  },
+  "com.ishajaya.transportbn": {
+   "id": 1483564880,
+   "name": "TransportBN",
+   "seller": "E-Government National Centre",
+   "checked": "2026-11-25"
+  },
+  "com.gomamam.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.suteramedia.domo": {
+   "id": 1475611783,
+   "name": "heydomo",
+   "seller": "THREEG MEDIA SDN BHD",
+   "checked": "2026-11-25"
+  },
+  "com.drukride.customer": {
+   "id": 1276150974,
+   "name": "DrukRide",
+   "seller": "Druk Ride",
+   "checked": "2026-11-25"
+  },
+  "com.mychharo.customer": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Zhabtog|BT": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.mode.chharo": {
+   "id": 1566124096,
+   "name": "goBoB",
+   "seller": "Bank of Bhutan Limited",
+   "checked": "2026-11-25"
+  },
+  "aero.developer.iTravel.drukair": {
+   "id": 1345535182,
+   "name": "Drukair",
+   "seller": "Drukair Corporation Limited",
+   "checked": "2026-11-25"
+  },
+  "bt.gov.tourism": {
+   "id": 6702021181,
+   "name": "Tourism Bhutan",
+   "seller": "G2C Office, Royal Government of Bhutan",
+   "checked": "2026-11-25"
+  },
+  "Dish8Door|BT": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "City Bus Information System|BT": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.parksaustralia.cinp": {
+   "id": 1586280918,
+   "name": "Christmas Island National Park",
+   "seller": "Director of National Parks",
+   "checked": "2026-11-25"
+  },
+  "group.flowbird.monaco": {
+   "id": 1542802881,
+   "name": "Monapass",
+   "seller": "Flowbird",
+   "checked": "2026-11-25"
+  },
+  "com.monaco.moncabuslanding": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.elevate.monacotaxi.passenger": {
+   "id": 6446452369,
+   "name": "Taxi Monaco",
+   "seller": "SKYLINE SARL",
+   "checked": "2026-11-25"
+  },
+  "MonaBike|MC": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Mobee|MC": {
+   "id": 1524291651,
+   "name": "Mobee",
+   "seller": "SMEG",
+   "checked": "2026-11-25"
+  },
+  "com.eatin.android": {
+   "id": 1454440520,
+   "name": "EatIn Monaco",
+   "seller": "EatIn SARL",
+   "checked": "2026-11-25"
+  },
+  "mc.gouv.yourmonaco": {
+   "id": 1609627984,
+   "name": "Your Monaco",
+   "seller": "Gouvernement Princier de Monaco",
+   "checked": "2026-11-25"
+  },
+  "StreetNav|MC": {
+   "id": 6472163282,
+   "name": "StreetNav",
+   "seller": "N-Vibe",
+   "checked": "2026-11-25"
+  },
+  "MaPlacePMR|MC": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.citymobil": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.dublgis.dgismobile": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.yandex.metro": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.yandex.translate": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.rzd.pass": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.yandex.travel": {
+   "id": 1632443454,
+   "name": "Я.Путешествия: Отели, ЖД, Авиа",
+   "seller": "DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC",
+   "checked": "2026-11-25"
+  },
+  "ru.aviasales": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.ostrovok.android": {
+   "id": 1505191040,
+   "name": "B2B.Ostrovok Отели и Гостиницы",
+   "seller": "AGENTIKA TREVEL, OOO",
+   "checked": "2026-11-25"
+  },
+  "com.zenhotels.android": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.sutochno_redesign": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.russpass.tourist": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.yandex.mobile.afisha": {
+   "id": 1119361771,
+   "name": "Яндекс Афиша: культура, билеты",
+   "seller": "DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC",
+   "checked": "2026-11-25"
+  },
+  "com.yandex.lavka": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.sbcs.store": {
+   "id": 1401500803,
+   "name": "Самокат: доставка продуктов",
+   "seller": "RSA OOO",
+   "checked": "2026-11-25"
+  },
+  "ru.vkusvill": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.ozon.app.android": {
+   "id": 407804998,
+   "name": "OZON: товары, одежда, билеты",
+   "seller": "INTERNET SOLUTIONS, LLC",
+   "checked": "2026-11-25"
+  },
+  "com.wildberries.ru": {
+   "id": 597880187,
+   "name": "WILDBERRIES",
+   "seller": "Wildberries OOO",
+   "checked": "2026-11-25"
+  },
+  "YooMoney|RU": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "T-Bank|RU": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Mir Pay|RU": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.yandex.mobile.drive": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.carshering": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.urentbike.app": {
+   "id": 1352346712,
+   "name": "Юрент: аренда самокатов",
+   "seller": "YURENT, OOO",
+   "checked": "2026-11-25"
+  },
+  "ru.tcard.android": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Velobike|RU": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.mosgorpass": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.mosmetro.metro": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.wheely.wheely": {
+   "id": 1473863611,
+   "name": "Wheely for Chauffeurs",
+   "seller": "Wheely Technologies Ltd.",
+   "checked": "2026-11-25"
+  },
+  "com.orgp.spbpodorozhnik": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.spb.iac.turportal": {
+   "id": 1591900675,
+   "name": "Visit-Petersburg",
+   "seller": "SPB GUP SPB IATS",
+   "checked": "2026-11-25"
+  },
+  "no.nve.regobs4": {
+   "id": 1450501601,
+   "name": "Varsom",
+   "seller": "Norges Vassdrags- og Energidirektorat",
+   "checked": "2026-11-25"
+  },
+  "Norgeskart outdoors|SJ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Here and there Svalbard|SJ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "no.avinor.avinorflights": {
+   "id": 399221622,
+   "name": "Avinor: Flights and airport",
+   "seller": "Avinor AS",
+   "checked": "2026-11-25"
+  },
+  "com.embarcadero.AuroraForecast3D": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "no.lokalstyre.app": {
+   "id": 6459448574,
+   "name": "Longyearbyen innbygger",
+   "seller": "Longyearbyen lokalstyre",
+   "checked": "2026-11-25"
+  },
+  "com.spitzbergenreisenas.svalbardaudio": {
+   "id": 6743669467,
+   "name": "Svalbard Audio - Local guide",
+   "seller": "Spitzbergen Reisen AS",
+   "checked": "2026-11-25"
+  },
+  "com.shotl.smuvi": {
+   "id": 6754991869,
+   "name": "SMUVI Servizio Bus a chiamata",
+   "seller": "Shotl Transportation SL",
+   "checked": "2026-11-25"
+  },
+  "sm.telecomitalia.liveinsm": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.aurigaspa.bsmmobile": {
+   "id": 977161425,
+   "name": "BSM Mobile",
+   "seller": "Banca di San Marino Spa",
+   "checked": "2026-11-25"
+  },
+  "com.virginaustralia.vaapp": {
+   "id": 1060472593,
+   "name": "Virgin Australia",
+   "seller": "VIRGIN AUSTRALIA HOLDINGS PTY LIMITED",
+   "checked": "2026-11-25"
+  },
+  "Irak E-Visum (evisa.iq)|IQ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Kurdistan E-Visum (visit.gov.krd)|IQ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "app.baly.passenger": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "iq.com.amin.karbala.client": {
+   "id": 1447501346,
+   "name": "أمين : مشاوير, توصيل طعام",
+   "seller": "AL AMIN EXPRESSWAY FOR PUBLIC TRANSPORT",
+   "checked": "2026-11-25"
+  },
+  "com.fastwares.lezzoo.eats": {
+   "id": 1313894378,
+   "name": "Lezzoo: Food, Taxi & Grocery",
+   "seller": "fastwares co.",
+   "checked": "2026-11-25"
+  },
+  "aero.developer.iTravel.iraqiairways": {
+   "id": 1455860304,
+   "name": "Iraqi Airways",
+   "seller": "IRAQI AIRWAYS",
+   "checked": "2026-11-25"
+  },
+  "com.firstiraqibank.personal": {
+   "id": 1545549339,
+   "name": "First Iraqi Bank",
+   "seller": "First Iraqi Bank",
+   "checked": "2026-11-25"
+  },
+  "Alo TukTuk|IQ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.eia.eia": {
+   "id": 6444721399,
+   "name": "Erbil International Airport",
+   "seller": "Erbil International Airport",
+   "checked": "2026-11-25"
+  },
+  "Visitor of Imam Hussain|IQ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "cab.snapp.passenger.play": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "taxi.tap30.passenger.play": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.zoodfood.android": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ir.alibaba": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "org.rajman.neshan.traffic.tehran.navigator": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.mytehran": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.qazeta": {
+   "id": 6748705452,
+   "name": "QazETA",
+   "seller": "KAZDREAM SPECIAL SYSTEMS, TOO",
+   "checked": "2026-11-25"
+  },
+  "kz.chocofood.chocofoodapp": {
+   "id": 1033887038,
+   "name": "Chocofood.kz - доставка еды",
+   "seller": "Internet dostavka TOO",
+   "checked": "2026-11-25"
+  },
+  "kz.avtobys.userapp": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "kz.railways.bilet.ktjbilets": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "kz.kaspi.mobile": {
+   "id": 1195076505,
+   "name": "Kaspi.kz суперприложение",
+   "seller": "Kaspi Bank AO",
+   "checked": "2026-11-25"
+  },
+  "kz.kkb.homebank": {
+   "id": 440635615,
+   "name": "Halyk Kazakhstan",
+   "seller": "JSC Halyk Bank of Kazakhstan",
+   "checked": "2026-11-25"
+  },
+  "kazakhstan.travel": {
+   "id": 1610058507,
+   "name": "Kazakhstan.travel Guides",
+   "seller": "NATSIONALNAYA KOMPANIYA KAZAKH TOURISM, AO",
+   "checked": "2026-11-25"
+  },
+  "kz.onay": {
+   "id": 1267862149,
+   "name": "ONAY! - Your City Companion",
+   "seller": "ONAI PAY, TOO",
+   "checked": "2026-11-25"
+  },
+  "kz.anytime.mobile.android": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.im.parking.almaty": {
+   "id": 6451193990,
+   "name": "Парковки Алматы",
+   "seller": "Almaty Parking",
+   "checked": "2026-11-25"
+  },
+  "Almaty Region Travel|KZ": {
+   "id": 6461822030,
+   "name": "Almaty Region Travel",
+   "seller": "Sherkhan Zhantali",
+   "checked": "2026-11-25"
+  },
+  "com.vikingline.owapp": {
+   "id": 954827314,
+   "name": "Viking Line",
+   "seller": "Viking Line Abp",
+   "checked": "2026-11-25"
+  },
+  "com.tallink.mikiandroid": {
+   "id": 1107519850,
+   "name": "Tallink Silja Line",
+   "seller": "AS Tallink Grupp",
+   "checked": "2026-11-25"
+  },
+  "se.mariehamn.bookingapp": {
+   "id": 1600054379,
+   "name": "Mariehamn Taxi",
+   "seller": "Taxiteknik Nordic AB",
+   "checked": "2026-11-25"
+  },
+  "cloud.togotech.kgzapp.kgzapp": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "kg.railway.ticket": {
+   "id": 6502640387,
+   "name": "Railway.kg",
+   "seller": "ULUT Soft, Osoo",
+   "checked": "2026-11-25"
+  },
+  "com.maanavan.mb_kyrgyzstan": {
+   "id": 922922121,
+   "name": "MBANK — Мобильный банк",
+   "seller": "MBANK, OAO",
+   "checked": "2026-11-25"
+  },
+  "Navi Taxi|KG": {
+   "id": 1585148582,
+   "name": "Navi Taxi",
+   "seller": "REVIRO, OSOO",
+   "checked": "2026-11-25"
+  },
+  "com.bpcbt.billet.clientv2": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "kg.cdt.townsman": {
+   "id": 1666753278,
+   "name": "Мой город Бишкек",
+   "seller": "Municipal enterprise Center of digital technologies of Bishkek City Municipality",
+   "checked": "2026-11-25"
+  },
+  "tech.bumerang.sunrent": {
+   "id": 1534414487,
+   "name": "Sun Rent",
+   "seller": "SAN RENT, OOO",
+   "checked": "2026-11-25"
+  },
+  "com.toters.customer": {
+   "id": 1015006220,
+   "name": "Toters توترز",
+   "seller": "TOTERapp LLC",
+   "checked": "2026-11-25"
+  },
+  "co.noknok": {
+   "id": 1360852720,
+   "name": "noknok - ONE TOUCH.",
+   "seller": "NokNok S.A.L",
+   "checked": "2026-11-25"
+  },
+  "org.android.actc": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Ministry of Tourism Lebanon|LB": {
+   "id": 6749478316,
+   "name": "Ministry of Tourism Lebanon",
+   "seller": "SMARTR AUTOMATION SOFTWARE TRADING L.L.C",
+   "checked": "2026-11-25"
+  },
+  "money.whish.android": {
+   "id": 1284243483,
+   "name": "Whish Money",
+   "seller": "TecFrac SAL",
+   "checked": "2026-11-25"
+  },
+  "com.mezorn.ubcab.ubcab_passanger_v2": {
+   "id": 863109199,
+   "name": "UBCab",
+   "seller": "Mezorn LLC",
+   "checked": "2026-11-25"
+  },
+  "com.toki.mn": {
+   "id": 1504679492,
+   "name": "Toki",
+   "seller": "TOKI NBFI LLC",
+   "checked": "2026-11-25"
+  },
+  "com.tapatrip": {
+   "id": 1563199559,
+   "name": "tapa.",
+   "seller": "Tapatrip Limited Liability Company",
+   "checked": "2026-11-25"
+  },
+  "mn.mezorn.ubeats.customer": {
+   "id": 1599437795,
+   "name": "UBCab Eats",
+   "seller": "Mezorn LLC",
+   "checked": "2026-11-25"
+  },
+  "com.digitalaggregator.toktok": {
+   "id": 1450600616,
+   "name": "TokTok Delivery",
+   "seller": "Digital Aggregator LLC",
+   "checked": "2026-11-25"
+  },
+  "com.uscc.ubbus": {
+   "id": 1076088335,
+   "name": "UB Smart Bus",
+   "seller": "Ulaanbaatar smart card",
+   "checked": "2026-11-25"
+  },
+  "mn.uscc.umoney": {
+   "id": 1492855038,
+   "name": "U money",
+   "seller": "Ulaanbaatar smart card",
+   "checked": "2026-11-25"
+  },
+  "U-GO|MN": {
+   "id": 6746634256,
+   "name": "U-GO",
+   "seller": "Jiangxi Kunlun Intelligent Technology Co., Ltd.",
+   "checked": "2026-11-25"
+  },
+  "macao.taxi.passager": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.m.mfood": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Aomi|MO": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "mo.gov.marine.MacaoSailings": {
+   "id": 645971390,
+   "name": "澳門海事",
+   "seller": "Direccao dos Servicos de Assuntos Maritimos e de Agua (Marine and Water Bureau)",
+   "checked": "2026-11-25"
+  },
+  "mo.gov.fsm.ecpapp": {
+   "id": 1455452078,
+   "name": "澳門民防資訊",
+   "seller": "DIRECCAO DOS SERVICOS DAS FORCAS DE SEGURANCA DE MACAU",
+   "checked": "2026-11-25"
+  },
+  "mo.gov.dsmg.weather": {
+   "id": 6752240865,
+   "name": "澳門天氣DSMG",
+   "seller": "Macao Meteorological and Geophysical Bureau",
+   "checked": "2026-11-25"
+  },
+  "com.macaupass.rechargeEasy": {
+   "id": 1092594338,
+   "name": "MPay澳門錢包",
+   "seller": "Macau Pass S.A.",
+   "checked": "2026-11-25"
+  },
+  "mo.gov.macaotourism.expmacao": {
+   "id": 542332430,
+   "name": "Experience Macao 感受澳門",
+   "seller": "Macao Government Tourism Office",
+   "checked": "2026-11-25"
+  },
+  "mo.gov.dsat.bis": {
+   "id": 1122920020,
+   "name": "巴士報站",
+   "seller": "Transport Bureau of the Macao S.A.R.",
+   "checked": "2026-11-25"
+  },
+  "mo.gov.dsat.dis.travel": {
+   "id": 1599029366,
+   "name": "澳門出行",
+   "seller": "Transport Bureau of the Macao S.A.R.",
+   "checked": "2026-11-25"
+  },
+  "Myanmar eVisa|MM": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.kbzbank.kpaycustomer": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "mm.com.wavemoney.wavepay": {
+   "id": 1439175549,
+   "name": "WavePay",
+   "seller": "Digital Money Myanmar Limited",
+   "checked": "2026-11-25"
+  },
+  "com.mobile.oway.myapplication": {
+   "id": 1314252839,
+   "name": "Oway Travel",
+   "seller": "Oway Pte. Ltd",
+   "checked": "2026-11-25"
+  },
+  "ORTP Myanma Railways|MM": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Myanmar Be Enchanted|MM": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.yomafleet.carshare": {
+   "id": 1607268398,
+   "name": "Yoma Car Share",
+   "seller": "YOMA DEVELOPMENT GROUP LIMITED",
+   "checked": "2026-11-25"
+  },
+  "com.shwedigit.moezala": {
+   "id": 6757119836,
+   "name": "Moezala",
+   "seller": "Asia Information Matrix Pte., Ltd.",
+   "checked": "2026-11-25"
+  },
+  "com.linndev.easyybs": {
+   "id": 6761450364,
+   "name": "EasyYBS",
+   "seller": "Minthu Khant",
+   "checked": "2026-11-25"
+  },
+  "app.gobee.user": {
+   "id": 6781310094,
+   "name": "GoBee - Taxi Ride",
+   "seller": "Myan Innovation Pte. Ltd.",
+   "checked": "2026-11-25"
+  },
+  "Pakistan Online Visa (NADRA)|PK": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.bykea.pk": {
+   "id": 1351179184,
+   "name": "Bykea: Cab, Rides & Delivery",
+   "seller": "Bykea",
+   "checked": "2026-11-25"
+  },
+  "com.techlogix.mobilinkcustomer": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "pk.com.telenor.phoenix": {
+   "id": 1227725092,
+   "name": "easypaisa – a digital bank",
+   "seller": "Easypaisa bank limited",
+   "checked": "2026-11-25"
+  },
+  "com.easyway.ticket.app": {
+   "id": 6446243993,
+   "name": "RABTA",
+   "seller": "EASYWAY INNOVATIONS PAKISTAN (PRIVATE) LIMITED",
+   "checked": "2026-11-25"
+  },
+  "com.macropaks.bookme": {
+   "id": 1210023165,
+   "name": "Bookme – Travel & Experiences",
+   "seller": "BOOK ME TICKETS (SMC-PVT.) LIMITED",
+   "checked": "2026-11-25"
+  },
+  "com.mobileapp.ndmaalert": {
+   "id": 6503601052,
+   "name": "PAK NDMA-Disaster Alert",
+   "seller": "National Disaster Management Authority",
+   "checked": "2026-11-25"
+  },
+  "City Islamabad|PK": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Peoples Bus Service|PK": {
+   "id": 6446080918,
+   "name": "PEOPLES BUS SERVICE",
+   "seller": "KENT KART EGE ELEKTRONIK SANAYI VE TICARET A S",
+   "checked": "2026-11-25"
+  },
+  "pk.pitb.punjab.masstransit.punjab_masstransit_authority": {
+   "id": 1638285980,
+   "name": "eTransit Punjab",
+   "seller": "PUNJAB INFORMATION TECHNOLOGY BOARD",
+   "checked": "2026-11-25"
+  },
+  "com.lmkt.zupeshawar": {
+   "id": 1532389509,
+   "name": "Zu Peshawar",
+   "seller": "TransPeshawar (The Urban Mobility Company)",
+   "checked": "2026-11-25"
+  },
+  "Red Alert|PS": {
+   "id": 873642097,
+   "name": "Red Alert : Israel",
+   "seller": "Kobi Snir",
+   "checked": "2026-11-25"
+  },
+  "app.yummy.ps": {
+   "id": 1448247070,
+   "name": "Yummy: Food, grocery & more",
+   "seller": "Arab Mobile Content Ltd",
+   "checked": "2026-11-25"
+  },
+  "ps.wheels.delivery.order": {
+   "id": 6443635919,
+   "name": "Wheels NOW",
+   "seller": "Mohammad Toom",
+   "checked": "2026-11-25"
+  },
+  "com.intertech.bethlehem": {
+   "id": 1644048648,
+   "name": "Bethlehem Gate",
+   "seller": "Intertech Co.",
+   "checked": "2026-11-25"
+  },
+  "com.intertech.visitramallah": {
+   "id": 6786296151,
+   "name": "Visit Ramallah",
+   "seller": "Intertech Co.",
+   "checked": "2026-11-25"
+  },
+  "app.intertech.ramallah": {
+   "id": 1387280385,
+   "name": "Ramallah-Municipality",
+   "seller": "Ramallah Municipality",
+   "checked": "2026-11-25"
+  },
+  "ae.com.yalla.go.dubai.client": {
+   "id": 1455221348,
+   "name": "YallaGo! book a taxi",
+   "seller": "YALLAGO TECHNOLOGIES LIMITED",
+   "checked": "2026-11-25"
+  },
+  "com.yallagopro.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.turnpoint.shahmuser": {
+   "id": 6742436145,
+   "name": "Shahm Taxi",
+   "seller": "TURN POINT IT SOLUTIONS",
+   "checked": "2026-11-25"
+  },
+  "com.bis.taxi": {
+   "id": 6692583303,
+   "name": "Tfadal Taxi",
+   "seller": "Omar Alsharoa",
+   "checked": "2026-11-25"
+  },
+  "com.beeorder.customer": {
+   "id": 1667117372,
+   "name": "BeeORDER",
+   "seller": "THE BEE KEEPER DELIVERY SERVICES L.L.C",
+   "checked": "2026-11-25"
+  },
+  "com.movo.movouser": {
+   "id": 6769325029,
+   "name": "MOVO Rider",
+   "seller": "MOVO GLOBAL DOO",
+   "checked": "2026-11-25"
+  },
+  "com.vega.electro": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "My Syria|SY": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Tajikistan e-Visa|TJ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "ru.taximaster.tmtaxicaller.id2371": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "tj.alif.mobi": {
+   "id": 1331374853,
+   "name": "Alif: переводы, оплаты, насия",
+   "seller": "Alif Capital, OOO MDO",
+   "checked": "2026-11-25"
+  },
+  "net.osmand": {
+   "id": 934850257,
+   "name": "OsmAnd Maps Travel & Navigate",
+   "seller": "OsmAND B.V.",
+   "checked": "2026-11-25"
+  },
+  "tj.tourism.rebuss": {
+   "id": 6740203172,
+   "name": "Tourism Map TJK",
+   "seller": "Rebus LLC",
+   "checked": "2026-11-25"
+  },
+  "com.taxi.jura": {
+   "id": 6743154286,
+   "name": "Jura",
+   "seller": "Jura Taxi, JDMM",
+   "checked": "2026-11-25"
+  },
+  "tj.oson24.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.eda24tj.app": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Customs e-Declaration|TL": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "GoTimor|TL": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.fotiunipessoal.myfoti": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.timor.tron": {
+   "id": 6753966756,
+   "name": "TRON TIMOR",
+   "seller": "Edi Lesmana",
+   "checked": "2026-11-25"
+  },
+  "com.gotimorride.user": {
+   "id": 6762457401,
+   "name": "GOTIMOR RIDE",
+   "seller": "Domingos De Carvalho",
+   "checked": "2026-11-25"
+  },
+  "com.mosan.eu": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.dokuwallettpay.android": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.halodili.android": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Dili Microlet Routes|TL": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "Turkmenistan e-Visa|TM": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "tm.gov.customs": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.takyktilsimaty.ynamlytaxi": {
+   "id": 6456042670,
+   "name": "Ynamly taksi",
+   "seller": "TAKYK ULGAM",
+   "checked": "2026-11-25"
+  },
+  "tm.railway.turkmenistanrailways": {
+   "id": 1588394191,
+   "name": "Turkmenistan Airlines",
+   "seller": "Turkmenistan Awiakompaniyasy, YGPJ",
+   "checked": "2026-11-25"
+  },
+  "com.turkmentourist.turkmentourist": {
+   "id": 6757800932,
+   "name": "Turkmen Tourist",
+   "seller": "Syyahatchy ES",
+   "checked": "2026-11-25"
+  },
+  "org.thoughtcrime.securesms": {
+   "id": 874139669,
+   "name": "Signal - Private Messenger",
+   "seller": "Signal Messenger, LLC",
+   "checked": "2026-11-25"
+  },
+  "com.takykcheshme.gps": {
+   "id": 1607990462,
+   "name": "Duralga",
+   "seller": "TAKYK ULGAM",
+   "checked": "2026-11-25"
+  },
+  "com.turkmenportal.yolagcy": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.takykcheshme.online_taxi_driver": {
+   "id": 6444418822,
+   "name": "Onlaýn taksi",
+   "seller": "TAKYK ULGAM",
+   "checked": "2026-11-25"
+  },
+  "Ashgabat (Hypermarkt)|TM": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.uznewmax.mytaxi": {
+   "id": 865012817,
+   "name": "MyTaxi - taxi and delivery",
+   "seller": "NYUMAKS TECHNOLOGY, MChJ",
+   "checked": "2026-11-25"
+  },
+  "com.fasten.rider": {
+   "id": 6578446117,
+   "name": "Fasten: taxi and delivery",
+   "seller": "MIKROMOBILNOST, TOO",
+   "checked": "2026-11-25"
+  },
+  "uz.wildberries.taxi.client": {
+   "id": 6755240054,
+   "name": "WB TAXI - заказ такси, поездки",
+   "seller": "WB FZE",
+   "checked": "2026-11-25"
+  },
+  "uz.uzum.tezkor": {
+   "id": 1665523197,
+   "name": "Uzum Tezkor－Ovqat, mahsulotlar",
+   "seller": "UZUM TECHNOLOGIES MChJ.",
+   "checked": "2026-11-25"
+  },
+  "com.uznewmax.theflash": {
+   "id": 1367143501,
+   "name": "Express24: food & grocery",
+   "seller": "Mikromobilnost doo",
+   "checked": "2026-11-25"
+  },
+  "uz.dida.payme": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "air.com.ssdsoftwaresolutions.clickuz": {
+   "id": 768132591,
+   "name": "Click SuperApp－Wallet・Payments",
+   "seller": "Click LLC",
+   "checked": "2026-11-25"
+  },
+  "uz.kapitalbank.android": {
+   "id": 1492307726,
+   "name": "Uzum Bank onlayn: O'zbekiston",
+   "seller": "UZUM TECHNOLOGIES MChJ.",
+   "checked": "2026-11-25"
+  },
+  "uz.genesis.asop": {
+   "id": 1492486731,
+   "name": "ATTO",
+   "seller": "AVTOMATLASHTIRILGAN TRANSPORT TOLOV TIZIMI OPERATORI, MASULIYATI CHEKLANGAN JAMIYATI",
+   "checked": "2026-11-25"
+  },
+  "com.axonlogic.uzrailway": {
+   "id": 1497456207,
+   "name": "Uzrailways tickets",
+   "seller": "Axon Logic MChJ",
+   "checked": "2026-11-25"
+  },
+  "uz.uzairways": {
+   "id": 1630369442,
+   "name": "Uzbekistan Airways",
+   "seller": "UZBEKISTAN AIRWAYS, AO",
+   "checked": "2026-11-25"
+  },
+  "IZZY (in ATTO)|UZ": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "com.smartapps.tawseel": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "net.karm.food": {
+   "id": 6736373743,
+   "name": "كرم - توصيل طعام فى اليمن",
+   "seller": "OLVTEC",
+   "checked": "2026-11-25"
+  },
+  "fakhama.passenger": {
+   "id": 0,
+   "checked": "2026-11-25"
+  },
+  "trahal.taxi.yemen.passenger": {
+   "id": 6793150756,
+   "name": "Yemen Taxi Trahal",
+   "seller": "SMART RAHAL FOR E-MARKETING SERVICES",
+   "checked": "2026-11-25"
+  },
+  "com.sahlplus.passenger": {
+   "id": 1639107701,
+   "name": "سهل بلس",
+   "seller": "sulaiman usef",
+   "checked": "2026-11-25"
+  },
+  "smartrahal.passenger": {
+   "id": 1616629462,
+   "name": "Smart Rahal: Sana'a Cab",
+   "seller": "SMART RAHAL FOR E-MARKETING SERVICES",
+   "checked": "2026-11-25"
+  },
+  "com.wagbat": {
+   "id": 1437142224,
+   "name": "Wagbat وجبات - Food delivery",
+   "seller": "Wagbat For Electronic Trade. Co. Ltd.",
+   "checked": "2026-11-25"
   }
  }
 }

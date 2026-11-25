@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-24 21:12",
+ "version": "2026-11-25 12:14",
  "categories": [
   {
    "id": "entry",
@@ -999,7 +999,8 @@
        "note": "Offizielle App für Tram- und Busfahrkarten, Zahlung per Google Pay",
        "src": "https://tfgm.com/tickets-and-passes/ways-to-pay/bee-network-mobile-app",
        "ios": 1669705230,
-       "pkg": "com.tfgm.beenetwork"
+       "pkg": "com.tfgm.beenetwork",
+       "ic": "QUJ3AWcYVJzr9BVUKVKqpO4ARHqxZVHyrKzllmSAvdcyQW-Mw0ZNqLHJ3C8fyzmIODZDIgq9BBZZTelZI1dW"
       }
      ],
      "ll": [
@@ -1921,7 +1922,8 @@
      "note": "Digitale Vignette für Autobahn und Schnellstraße",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/oesterreich-node/oesterreichsicherheit-210962",
      "ios": 453459323,
-     "pkg": "at.asfinag.unterwegs"
+     "pkg": "at.asfinag.unterwegs",
+     "ic": "Kktrpi7tOLbV-sP_UNQMsA7i4dM7y0civnDSJg4kvBLx_7dzo2-JVt-_F-b0bqRpXC7H0e1sNeecEzvPitT7FA"
     }
    ],
    "cities": [
@@ -34290,6 +34292,11 @@
       "d": "2027-12-25",
       "n": "Araw ng Pasko",
       "e": "Christmas Day"
+     },
+     {
+      "d": "2027-12-30",
+      "n": "Araw ng Kamatayan ni Dr. Jose Rizal",
+      "e": "Rizal Day"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -45251,7 +45258,8 @@
      "note": "Flüge der Landesairline buchen und online einchecken",
      "src": "https://www.rwandair.com/information/prepare-to-fly/plan-your-travel-with-rwandair-app",
      "pkg": "com.rwandair.app",
-     "ios": 6759875071
+     "ios": 6759875071,
+     "ic": "-yINtGyypHnmCrejTmDifV8VBN7Xtxh75qjIbcZOmb8MG5VxUi8fOTQPNCE2B_iOedqUCF1QUPx0tCYuq5u36A"
     },
     {
      "name": "Visit Rwanda",
@@ -46389,7 +46397,8 @@
      "use": "no",
      "req": "Konto bei der National Bank of Vanuatu nötig",
      "src": "https://www.nbv.vu/mobile-banking.html",
-     "pkg": "logic.leader.nbv.prod"
+     "pkg": "logic.leader.nbv.prod",
+     "ic": "rTelhvxfAOo2FB8evXb6dJPx1yFFG_JI7U2Rw6IWprqgiJGrWEqG71O9UDgyAvjuEXNMm-KT98gMSoKUxV99sw"
     }
    ],
    "cities": [
@@ -51974,7 +51983,8 @@
      "use": "limited",
      "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; bei Problemen mit der eigenen Nummer ist eine armenische SIM nötig",
      "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/",
-     "ic": "iBLKHo6VcFfXXP8pukbxO9d2BQJUV8dqw69LmPLZGeTZP-eweVavXoCUHkgXTMbOFIjW49xfVbQO3jw8qZ1UJw"
+     "ic": "iBLKHo6VcFfXXP8pukbxO9d2BQJUV8dqw69LmPLZGeTZP-eweVavXoCUHkgXTMbOFIjW49xfVbQO3jw8qZ1UJw",
+     "ios": 852874923
     },
     {
      "name": "UVO",
@@ -51984,7 +51994,8 @@
      "use": "limited",
      "req": "Ausländische Karten funktionieren oft nicht, bar zahlen; eventuell armenische Nummer nötig",
      "src": "https://absolutearmenia.com/yerevan-taxi-apps-tips/",
-     "ic": "-F9UAwvJ_YlbMIQSsaAmigqGLVor6isV702r7AbnlfNYmpa-Vm00ADA6Lk8p0Tk6q5x5q6-WnxGUVO1xxPlK"
+     "ic": "-F9UAwvJ_YlbMIQSsaAmigqGLVor6isV702r7AbnlfNYmpa-Vm00ADA6Lk8p0Tk6q5x5q6-WnxGUVO1xxPlK",
+     "ios": 1184381076
     },
     {
      "name": "Menu.am",
@@ -51993,7 +52004,8 @@
      "note": "Essenslieferung und Abholung, auch auf Englisch",
      "ess": true,
      "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia",
-     "ic": "V8RwLDkiROCQ8D67XmvAkQS3vTOMVNGnFmjhZKJQIEg1MzKIHykOtn8XhL_Q1dKUNA3Kr-l_R6fp_ARkuy7L"
+     "ic": "V8RwLDkiROCQ8D67XmvAkQS3vTOMVNGnFmjhZKJQIEg1MzKIHykOtn8XhL_Q1dKUNA3Kr-l_R6fp_ARkuy7L",
+     "ios": 991535987
     },
     {
      "name": "Glovo",
@@ -52010,7 +52022,8 @@
      "note": "Lieferung von fertigen Gerichten aus Restaurants",
      "src": "https://onewaytour.com/best-delivery-services-yerevan/",
      "pkg": "ru.foodfox.client",
-     "ic": "bMDuKEp-5H4WuPsnpU1le-5yfWm0namaDZJPPEhvTySARe2fgQBfcWuDSFhZ0A7Nx-wkrRE8UhJrD9lNMTJqpw"
+     "ic": "bMDuKEp-5H4WuPsnpU1le-5yfWm0namaDZJPPEhvTySARe2fgQBfcWuDSFhZ0A7Nx-wkrRE8UhJrD9lNMTJqpw",
+     "ios": 1078986931
     },
     {
      "name": "HIKE Armenia",
@@ -52034,7 +52047,8 @@
      "pkg": "com.sflpro.rateam",
      "note": "Aktuelle Wechselkurse der armenischen Banken vergleichen",
      "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia",
-     "ic": "40ACx449aG37v3QaNl2IVkyAyQQo2p-vC5azarR6FHqLigmuNDm5r1eG9bq9lWDZKjjncXGd5c45paw90zml"
+     "ic": "40ACx449aG37v3QaNl2IVkyAyQQo2p-vC5azarR6FHqLigmuNDm5r1eG9bq9lWDZKjjncXGd5c45paw90zml",
+     "ios": 523423414
     },
     {
      "name": "Spyur",
@@ -52042,7 +52056,8 @@
      "pkg": "com.vavianlabs.spyur",
      "note": "Branchenbuch mit Kontakten offline, auch auf Englisch",
      "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia",
-     "ic": "mXp_FBmNLi3HAjr0DnhtGKjBwi1_PHCJw3SbDazjtsu6mdVKW1WK6UWBlSE60JAMB8HV2vnA4q08CdDS31rn"
+     "ic": "mXp_FBmNLi3HAjr0DnhtGKjBwi1_PHCJw3SbDazjtsu6mdVKW1WK6UWBlSE60JAMB8HV2vnA4q08CdDS31rn",
+     "ios": 6822740630
     },
     {
      "name": "AYOlingo",
@@ -52050,7 +52065,8 @@
      "pkg": "org.birthrightarmenia.ayolingo",
      "note": "Grundlegende armenische Sätze lernen",
      "src": "https://absolutearmenia.com/?p=2891",
-     "ic": "qZpTq-ou5Nf6fokp7m_rwGHwB3VYAc4zT0kBvf_18jc-5dMVzSYS9WYv_bpKEZ7PfnzxWcei0-YjeZOxZGaN-U8"
+     "ic": "qZpTq-ou5Nf6fokp7m_rwGHwB3VYAc4zT0kBvf_18jc-5dMVzSYS9WYv_bpKEZ7PfnzxWcei0-YjeZOxZGaN-U8",
+     "ios": 570060128
     }
    ],
    "cities": [
@@ -52069,7 +52085,8 @@
        "req": "Registrierung mit SMS Code an die Telefonnummer, ob ausländische Nummern gehen ist nicht belegt; Tickets mit verknüpfter Bankkarte auch ohne Ausweisprüfung",
        "src": "https://telcell.am/en/blog/unified-ticket-system",
        "pkg": "ru.deltapay.puntopago.telcell",
-       "ic": "_4VMxpXHgXhXArN_6CsVSDy4HLZhprJCijCFy37iFlHr_YNHY1nLRwxE1964b3p3XSVnvj-1Z19qIEHxqLvNUg"
+       "ic": "_4VMxpXHgXhXArN_6CsVSDy4HLZhprJCijCFy37iFlHr_YNHY1nLRwxE1964b3p3XSVnvj-1Z19qIEHxqLvNUg",
+       "ios": 1324511564
       },
       {
        "name": "Apple Pay, Google Pay",
@@ -52079,7 +52096,8 @@
        "req": "Belegt sind nur Karten armenischer Banken, ob ausländische Karten funktionieren ist offen; Bargeld oder QR Ticket als Reserve",
        "src": "https://arkatelecom.am/en/news/telecom/payments-for-yerevan-public-transportation-are-now-available-via-apple-pay-and-google-pay/",
        "pkg": "com.google.android.apps.walletnfcrel",
-       "ic": "zd5pb7c2r_TXGBPSQyNN_Kq_WzsjhEqX8sdyl0CkEAjshnbscd71SmLPh1L_xVCcckP2LOC2ZpB1n23Q8NuRvA"
+       "ic": "zd5pb7c2r_TXGBPSQyNN_Kq_WzsjhEqX8sdyl0CkEAjshnbscd71SmLPh1L_xVCcckP2LOC2ZpB1n23Q8NuRvA",
+       "ios": 284815942
       },
       {
        "name": "Yes Parking",
@@ -52089,7 +52107,8 @@
        "req": "Im April 2026 nur für iOS verfügbar, Android noch im Test; Zahlung per SMS geht nur über Guthaben einer armenischen SIM",
        "src": "https://arkatelecom.am/en/news/telecom/yes-parking-mobile-app-will-be-launched-in-yerevan-deputy-mayor",
        "pkg": "com.parking.applicaton",
-       "ic": "7GIp4Hs-v6v2smFIfCb4O7HHc0OkBpcvkXK23zrklEh_MX2oIquabzvB_k1LdXAM_9xsjbm912nzgtV8UqHv"
+       "ic": "7GIp4Hs-v6v2smFIfCb4O7HHc0OkBpcvkXK23zrklEh_MX2oIquabzvB_k1LdXAM_9xsjbm912nzgtV8UqHv",
+       "ios": 6751286867
       },
       {
        "name": "Visit Yerevan",
@@ -52097,7 +52116,8 @@
        "note": "Offizielle Tourismus App der Stadt mit Orten und Aktivitäten",
        "src": "https://apps.apple.com/sk/app/visit-yerevan/id1599576201",
        "pkg": "com.VisitYerevan.TheOnlyGroup",
-       "ic": "5GQEBEAhrUVEiJOq1P7E06EjaobDT9d5GOeB3qgFCeqndqluY1zNojQZfU2013EzLNyebxVhDvTYnnhqpU9Yrg"
+       "ic": "5GQEBEAhrUVEiJOq1P7E06EjaobDT9d5GOeB3qgFCeqndqluY1zNojQZfU2013EzLNyebxVhDvTYnnhqpU9Yrg",
+       "ios": 1599576201
       },
       {
        "name": "Yerevan Card",
@@ -52134,7 +52154,8 @@
        "req": "Visa, Mastercard oder Amex hinterlegen, Aufladung mindestens 5.000 AMD, Registrierung teils fehlerhaft",
        "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane",
        "pkg": "app.mimo.it.MimoBike",
-       "ic": "tUQqXqpTmjvQD4ik75oljcznz8zHJ6buYG3UMFkytqeaOdr2-cvt1yetBX11AVgBeIj7OwoyeuJdWYN7YrSnJQ"
+       "ic": "tUQqXqpTmjvQD4ik75oljcznz8zHJ6buYG3UMFkytqeaOdr2-cvt1yetBX11AVgBeIj7OwoyeuJdWYN7YrSnJQ",
+       "ios": 1576701754
       },
       {
        "name": "Busy Fly",
@@ -52142,7 +52163,8 @@
        "note": "Saisonaler E-Scooter Verleih ab dem Frühjahr",
        "use": "limited",
        "req": "Visa oder Mastercard hinterlegen oder Guthaben in der App aufladen",
-       "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane"
+       "src": "https://move2armenia.am/en/faq/servisy-prokata-samokatov-v-erevane",
+       "ios": 1488207086
       },
       {
        "name": "EcoDrive",
@@ -52152,7 +52174,8 @@
        "req": "Anmeldung nur per SMS, viele ausländische Nummern erhalten sie nicht; Wohnsitznachweis, Mindestalter 21 und 2 Jahre Fahrpraxis nötig",
        "src": "https://getmancar.com/blogs/eco-drive-carsharing-erevan",
        "pkg": "com.ecodriveplus.usuario",
-       "ic": "zaAyeImi990TSxE7rdkkf0DHSiN4LpqZ1RNhhpGqMT0z_Tadi-n66kUdmnsk175hOaYfe2gcCLR84LYFiWHJ"
+       "ic": "zaAyeImi990TSxE7rdkkf0DHSiN4LpqZ1RNhhpGqMT0z_Tadi-n66kUdmnsk175hOaYfe2gcCLR84LYFiWHJ",
+       "ios": 1670684418
       },
       {
        "name": "Zvartnots Airport",
@@ -52160,7 +52183,8 @@
        "pkg": "com.aero.zvartnots",
        "note": "Ankünfte und Abflüge am Flughafen Jerewan in Echtzeit",
        "src": "https://armeniadiscovery.com/en/articles/best-mobile-apps-for-traveling-in-armenia",
-       "ic": "al280DrbtlLO3xi6HmVfV1qNBa_FKFMSUkY78y3HbZ5t5waveYx3pWyX8Sv3q4ekxgi_AjtFexlKg1ggIlzAvg"
+       "ic": "al280DrbtlLO3xi6HmVfV1qNBa_FKFMSUkY78y3HbZ5t5waveYx3pWyX8Sv3q4ekxgi_AjtFexlKg1ggIlzAvg",
+       "ios": 1375576530
       }
      ],
      "ll": [
@@ -52305,7 +52329,8 @@
      "note": "Fahrten und Lieferungen in Aserbaidschan, eigene lokale App",
      "ess": true,
      "src": "https://karavan.az/blog-eng/azerbaijan-transport-guide-2026-prices-expert-tips/",
-     "ic": "owQQQ90cXp7tbCtorTeP6NiOt2Pz35FDFgp70WQ6_v8WCOowVMePcc-uBUDO-x8zD2qc5j-4YxqJJKJElRlJ2II"
+     "ic": "owQQQ90cXp7tbCtorTeP6NiOt2Pz35FDFgp70WQ6_v8WCOowVMePcc-uBUDO-x8zD2qc5j-4YxqJJKJElRlJ2II",
+     "ios": 1449275596
     },
     {
      "name": "Yango",
@@ -52364,7 +52389,8 @@
      "req": "Registrierung auf biletim.az vor dem Kauf nötig",
      "src": "https://mincom.gov.az/en/projects/biletimaz-portal",
      "pkg": "com.sinam.Biletim",
-     "ic": "UfkvFJ_c8FxVIXjD8MKmHwPadKUOnWi_4cbnUbgA8FB5GxwOCJ--JVQhPNc5dRktQUul5TpTbMVermP7zV80"
+     "ic": "UfkvFJ_c8FxVIXjD8MKmHwPadKUOnWi_4cbnUbgA8FB5GxwOCJ--JVQhPNc5dRktQUul5TpTbMVermP7zV80",
+     "ios": 1627012184
     },
     {
      "name": "Waze",
@@ -52383,7 +52409,8 @@
      "req": "Telefonnummer und Standort werden verlangt, Registrierung für Ausländer nicht belegt",
      "src": "https://apps.apple.com/dk/app/112-az/id6737355694",
      "pkg": "az.gov.fhn.app112",
-     "ic": "kUBghpSOTK0l2numjR7YOEoyxgTlmEANLO4EIzHtNUk2zRIu-AMUAeSpEU03fcC4ZP9IgFrpA0JzRpanSligIdg"
+     "ic": "kUBghpSOTK0l2numjR7YOEoyxgTlmEANLO4EIzHtNUk2zRIu-AMUAeSpEU03fcC4ZP9IgFrpA0JzRpanSligIdg",
+     "ios": 6737355694
     },
     {
      "name": "Grindr",
@@ -52423,7 +52450,8 @@
        "req": "Registrierung mit Handynummer und SMS Code nötig",
        "src": "https://tech.az/en/posts/ayna-maas-mobility-app-launched-6262",
        "pkg": "com.aynamaas.app",
-       "ic": "1MxgaIhTCp2Teri9_ipYUt3l_OvqDCvmP8pyPQQ2wULufK-CvhLRhxW4zdCO_vTyfGvB1DKEA5UGkWEgLwO99Q"
+       "ic": "1MxgaIhTCp2Teri9_ipYUt3l_OvqDCvmP8pyPQQ2wULufK-CvhLRhxW4zdCO_vTyfGvB1DKEA5UGkWEgLwO99Q",
+       "ios": 6737228455
       },
       {
        "name": "BeFree",
@@ -52433,7 +52461,8 @@
        "req": "Führerschein und Bankkarte nötig, genaue Bedingungen für Ausländer nicht genannt",
        "src": "https://apps.apple.com/us/app/befree-carsharing-in-baku/id6748035214",
        "pkg": "befree.ct.ms",
-       "ic": "TcwbvV-22H9hgDZ84gO7VMth0BcncV8sdd9m0F549Z9FyPkbLPAkE9LaQScxPO6ZNk8PO4WGCM8z6piXonMOtA"
+       "ic": "TcwbvV-22H9hgDZ84gO7VMth0BcncV8sdd9m0F549Z9FyPkbLPAkE9LaQScxPO6ZNk8PO4WGCM8z6piXonMOtA",
+       "ios": 6748035214
       },
       {
        "name": "Rentbutik",
@@ -52443,7 +52472,8 @@
        "req": "Führerschein nötig, Bedingungen für Ausländer in der Quelle nicht genannt",
        "src": "https://1news.az/en/news/20260331122024478-Car-sharing-with-electric-vehicles-is-coming-to-Baku-a-new-service-from-Rentbutik",
        "pkg": "com.s2j.rentbutik",
-       "ic": "5E59imR_RvGn6ECl2nF7FgLO9O6G-DqO5ofpwqYTZ84Vhm_hS-0Ba6LBIptJhjw51JcFQZhAXSK4CQnXVe5P2Lk"
+       "ic": "5E59imR_RvGn6ECl2nF7FgLO9O6G-DqO5ofpwqYTZ84Vhm_hS-0Ba6LBIptJhjw51JcFQZhAXSK4CQnXVe5P2Lk",
+       "ios": 6476712514
       },
       {
        "name": "JET (in Yango)",
@@ -52464,7 +52494,8 @@
        "req": "Lokale Telefonnummer nötig, sonst Parkhäuser mit Schranke und Kartenzahlung nutzen",
        "src": "https://www.localrent.com/en/journal/azerbaijan/articles/parking-azerbaijan",
        "pkg": "com.azparking",
-       "ic": "NqGZeC9fmvUdKfLhVH2ibwdBUfcsp5Hl-H2slQ0tb9oXJpZ8QL9TbfprXRlGeOaIOMyrJiJ_D6iba81-i1NW_Nc"
+       "ic": "NqGZeC9fmvUdKfLhVH2ibwdBUfcsp5Hl-H2slQ0tb9oXJpZ8QL9TbfprXRlGeOaIOMyrJiJ_D6iba81-i1NW_Nc",
+       "ios": 1626165359
       }
      ],
      "ll": [
@@ -52534,7 +52565,8 @@
      "note": "Taxi bestellen in Limassol, Nikosia und Larnaka",
      "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre",
      "pkg": "cy.com.cabcy.cyprus.passenger",
-     "ic": "lj5buwb8sDazQm_RGC9f7UDzKx8wJjCMq2pZwt8vlyLL-_1in7GqkuQ0NmrSc-JG2bfalECfTGHvnnq780CZkg"
+     "ic": "lj5buwb8sDazQm_RGC9f7UDzKx8wJjCMq2pZwt8vlyLL-_1in7GqkuQ0NmrSc-JG2bfalECfTGHvnnq780CZkg",
+     "ios": 1506369107
     },
     {
      "name": "inDrive",
@@ -52551,7 +52583,8 @@
      "note": "Taxi App, laut Quelle nur für iPhone",
      "use": "limited",
      "req": "Nur für iPhone verfügbar",
-     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre"
+     "src": "https://cyprus-faq.com/en/south/transport/prilozheniya-taksi-na-kipre",
+     "ios": 1092224954
     },
     {
      "name": "VIPS Taxi",
@@ -52577,7 +52610,8 @@
      "note": "Lokaler Lieferdienst, stark bei Tavernen und Bäckereien",
      "src": "https://dom.com.cy/en/live/blogs/top-food-delivery-apps-in-cyprus/",
      "pkg": "com.ideas2life.foodymobile",
-     "ic": "oXo9CC7azadG4JrXkEOVxBC8lm2NB69_9NoA2779q9L_-2sE-Bnt9D52f6mkxcK2xqYe3-9bcsQpypqccoHrog"
+     "ic": "oXo9CC7azadG4JrXkEOVxBC8lm2NB69_9NoA2779q9L_-2sE-Bnt9D52f6mkxcK2xqYe3-9bcsQpypqccoHrog",
+     "ios": 1071407834
     },
     {
      "name": "Bolt Food",
@@ -52595,7 +52629,8 @@
      "note": "Busse in Nikosia und Larnaka live, Motion Karte aufladen",
      "ess": true,
      "src": "https://publictransport.com.cy/cms/page/mobile-app-information",
-     "ic": "WClqZNcWe1JVxnVZMOLJPe5nCe70zcADp7AsJm-ZLTkboRd0bugwA_DIUu2nMX9s5TQPzjTPX739gNBnvWHY9A"
+     "ic": "WClqZNcWe1JVxnVZMOLJPe5nCe70zcADp7AsJm-ZLTkboRd0bugwA_DIUu2nMX9s5TQPzjTPX739gNBnvWHY9A",
+     "ios": 1517815656
     },
     {
      "name": "Cyprus Bus",
@@ -52603,7 +52638,8 @@
      "note": "Offizielle App des Verkehrsministeriums mit Fahrplänen",
      "src": "https://intercity-buses.com/en/motion-app/",
      "pkg": "com.gmv.cyprusbus2",
-     "ic": "SUERyuSDgKDnHmQoAPjnHUaxuzjRC9-5lLSNl5G3PUpKancxBStBxj4aqIKRsneTYeQcGPcCa97e8fReTPrY"
+     "ic": "SUERyuSDgKDnHmQoAPjnHUaxuzjRC9-5lLSNl5G3PUpKancxBStBxj4aqIKRsneTYeQcGPcCa97e8fReTPrY",
+     "ios": 1384885081
     },
     {
      "name": "RideNow",
@@ -52613,7 +52649,8 @@
      "req": "Führerschein, Ausweis und Bankkarte, ab 18 Jahren, Freigabe dauert bis zu 24 Stunden, unter 21 eventuell 100 Euro Kaution",
      "src": "https://getmancar.com/blogs/carsharing-in-cyprus-ridenow",
      "pkg": "com.rideNow.clientMobile",
-     "ic": "DTuOFreWAarUC3Ctp5Wqv9iCzNxLpYXcI6r6b4p7_R8yqr-SRvRMsTPheyePSRrWNsDzhuCnRcV5dV2o8U8K8A"
+     "ic": "DTuOFreWAarUC3Ctp5Wqv9iCzNxLpYXcI6r6b4p7_R8yqr-SRvRMsTPheyePSRrWNsDzhuCnRcV5dV2o8U8K8A",
+     "ios": 6743093894
     },
     {
      "name": "nextbike",
@@ -52630,7 +52667,8 @@
      "note": "E-Scooter mit festen Stationen in Limassol und Nikosia",
      "use": "limited",
      "req": "Mindestalter 17, Helm ist Pflicht",
-     "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre"
+     "src": "https://cyprus-faq.com/en/south/transport/prokat-samokatov-na-kipre",
+     "ios": 1401500803
     },
     {
      "name": "E-run Cyprus",
@@ -52645,7 +52683,8 @@
      "cat": "safety",
      "note": "Staatliche App mit Schutzräumen und Warnungen des Zivilschutzes",
      "ess": true,
-     "src": "https://cyprus-mail.com/2026/03/11/safecy-app-upgraded-to-send-urgent-alerts-170000-downloads-so-far"
+     "src": "https://cyprus-mail.com/2026/03/11/safecy-app-upgraded-to-send-urgent-alerts-170000-downloads-so-far",
+     "ios": 6746747464
     },
     {
      "name": "VivaCy Taxi",
@@ -52653,7 +52692,8 @@
      "pkg": "taxi.vivacy.client",
      "note": "Taxi-App für Zypern",
      "src": "https://vivacy.taxi/",
-     "ic": "2MjpmCFpo-kzTfNiNJno9O41yUaY0emylkzyb1gGOdGp_8f9pinanXEpylwUihs5N8960VPwmT4VScJDvGR5A78"
+     "ic": "2MjpmCFpo-kzTfNiNJno9O41yUaY0emylkzyb1gGOdGp_8f9pinanXEpylwUihs5N8960VPwmT4VScJDvGR5A78",
+     "ios": 6751193104
     }
    ],
    "cities": [
@@ -52700,7 +52740,8 @@
        "pkg": "com.yodiwo.yodicity.citizen",
        "note": "Freie Parkplätze in Nikosia live finden und zahlen",
        "src": "https://smartnicosia.eu/",
-       "ic": "LXxAbZXajJyVCRzSlHodlJtN2Kd0wydYC_g7_180uD3eS3rAPIsnV4KR0ejdTwOFMn1yHpd_VuLYKCU2g8hdyLs"
+       "ic": "LXxAbZXajJyVCRzSlHodlJtN2Kd0wydYC_g7_180uD3eS3rAPIsnV4KR0ejdTwOFMn1yHpd_VuLYKCU2g8hdyLs",
+       "ios": 1673748080
       }
      ],
      "ll": [
@@ -52720,7 +52761,8 @@
        "note": "Freie Parkplätze in Echtzeit, Bezahlen und Monatskarten",
        "use": "limited",
        "req": "Bezahlen per SMS nur mit Vertrag bei Cyta, Epic oder Primetel",
-       "src": "https://cyprus-mail.com/2022/07/01/paphos-gets-smarter-with-launch-of-parking-app"
+       "src": "https://cyprus-mail.com/2022/07/01/paphos-gets-smarter-with-launch-of-parking-app",
+       "ios": 1613355759
       }
      ],
      "ll": [
@@ -52874,7 +52916,8 @@
      "note": "Kostenlose Einreiseerklärung, ersetzt die Papierkarte",
      "ess": true,
      "src": "https://www.bento.travel/cambodia",
-     "ic": "S2_kx8b5q2hP0wNEl-hthZ5vTRjdojPg9g0EHo-jhn7-vElUergwmYMH_4vigxvrA66U-ZdrV0sWLIl_2jz0"
+     "ic": "S2_kx8b5q2hP0wNEl-hthZ5vTRjdojPg9g0EHo-jhn7-vElUergwmYMH_4vigxvrA66U-ZdrV0sWLIl_2jz0",
+     "ios": 1492455515
     },
     {
      "name": "Cambodia eVisa",
@@ -52902,7 +52945,8 @@
      "use": "limited",
      "req": "Aktive Mobilnummer nötig, SMS Codes an ausländische Nummern kommen teils nicht an, Bargeld in Riel bereithalten",
      "src": "https://www.bento.travel/cambodia/ride-hailing",
-     "ic": "Vzks4SRDzqzRzGYSx9A69zr4HLJ0svpdj-UzJqEgwDXRuyqb0fUTc5oxftfwZaNmI53Apr-UOiSwL5JQHbkq"
+     "ic": "Vzks4SRDzqzRzGYSx9A69zr4HLJ0svpdj-UzJqEgwDXRuyqb0fUTc5oxftfwZaNmI53Apr-UOiSwL5JQHbkq",
+     "ios": 1535615747
     },
     {
      "name": "WowNow",
@@ -52927,7 +52971,8 @@
      "use": "limited",
      "req": "Identitätsprüfung und Guthaben nötig, Aufladen per Visa oder Mastercard klappt nicht immer, Restguthaben evtl. nicht erstattbar",
      "src": "https://www.bento.travel/blog/how-to-pay-in-cambodia",
-     "ic": "-h52bm508_7Q_ybLzp2Gm_HvO25BYkYzsAqLWkoUrC91vaTCYI0Xv8uCYED_Z8RblAH3BUfrs94DelD_n_gC8g"
+     "ic": "-h52bm508_7Q_ybLzp2Gm_HvO25BYkYzsAqLWkoUrC91vaTCYI0Xv8uCYED_Z8RblAH3BUfrs94DelD_n_gC8g",
+     "ios": 6471774666
     },
     {
      "name": "ABA Mobile",
@@ -52937,7 +52982,8 @@
      "req": "Kontoeröffnung in der App nur für kambodschanische Staatsangehörige, sonst Konto bei ABA nötig",
      "src": "https://www.ababank.com/instant-account/",
      "pkg": "com.paygo24.ibank",
-     "ic": "O7xMXY5ehCEVwpR0MlKYQOK5QJ1oFIw4EoXQqyt_vgDKT3Uvn1g8FIz_fNDDhWH4Zbdclp54WhRMnI8vzyE9OeU"
+     "ic": "O7xMXY5ehCEVwpR0MlKYQOK5QJ1oFIw4EoXQqyt_vgDKT3Uvn1g8FIz_fNDDhWH4Zbdclp54WhRMnI8vzyE9OeU",
+     "ios": 968860649
     },
     {
      "name": "Telegram",
@@ -52964,7 +53010,8 @@
      "note": "Busse, Minivans und Fähren vergleichen und buchen",
      "ess": true,
      "src": "https://www.bento.travel/cambodia",
-     "ic": "905IOutUPhtl-J2tMD9T8YJ1U1OzfIQI8JAIIsX6WL0OBvNw_jEvMEvgRMt5UoGYIbg1LNdMeabi84OamZpIFg"
+     "ic": "905IOutUPhtl-J2tMD9T8YJ1U1OzfIQI8JAIIsX6WL0OBvNw_jEvMEvgRMt5UoGYIbg1LNdMeabi84OamZpIFg",
+     "ios": 1101077306
     },
     {
      "name": "redBus",
@@ -52986,7 +53033,8 @@
      "note": "Staatliche App zeigt freie Parkplätze in Echtzeit",
      "src": "https://apps.apple.com/app/id6756403958",
      "pkg": "com.mef.gdde.cam.park",
-     "ic": "V_sVwtZF1ZDd7sG4GSlmHAbYYDrqL5W1Ru3GFrvxhLr9BcIQyTHyvGeYKWkaTn_2_pF81Z7frsWsbyBl332M6w"
+     "ic": "V_sVwtZF1ZDd7sG4GSlmHAbYYDrqL5W1Ru3GFrvxhLr9BcIQyTHyvGeYKWkaTn_2_pF81Z7frsWsbyBl332M6w",
+     "ios": 6756403958
     }
    ],
    "cities": [
@@ -53002,7 +53050,8 @@
        "pkg": "kh.gov.ppcba.citybus",
        "note": "Offizielle Stadtbus App mit Linien, Haltestellen und Live Ortung",
        "src": "https://www.bento.travel/cambodia",
-       "ic": "r6Ptp8a0z_PXEEA0NOt4n13x86MLnznCYvGoo9leoDA87XMxjx5cN2KtMeWLvGb5hFJP0QaOMGfCSyQxPQqL3Q"
+       "ic": "r6Ptp8a0z_PXEEA0NOt4n13x86MLnznCYvGoo9leoDA87XMxjx5cN2KtMeWLvGb5hFJP0QaOMGfCSyQxPQqL3Q",
+       "ios": 1608841286
       },
       {
        "name": "Techo Airport",
@@ -53010,7 +53059,8 @@
        "pkg": "kh.com.techoairport",
        "note": "Offizielle App des neuen Flughafens von Phnom Penh",
        "src": "https://www.techoairport.com.kh/transportation/car-rental-taxi",
-       "ic": "0kzxTyUFx75wkLDcEoFl9vViiMWOoIKNx8h__3MRlZCrAQOjGC4Uf4K2heJl7GYWGY1eqVhu3FsoHv4BXwp6dQ"
+       "ic": "0kzxTyUFx75wkLDcEoFl9vViiMWOoIKNx8h__3MRlZCrAQOjGC4Uf4K2heJl7GYWGY1eqVhu3FsoHv4BXwp6dQ",
+       "ios": 6751738846
       }
      ],
      "ll": [
@@ -53030,7 +53080,8 @@
        "pkg": "com.angkor_pass.app",
        "note": "Offizielle Eintrittskarten für den Archäologiepark Angkor",
        "src": "https://www.bento.travel/cambodia",
-       "ic": "ygnPrW5QO0ue_jAikE8tX-6YeDG2uTppIJcfyaVV_-loIYIwGPjnaFpcKs0BV7TgSJn4EvxgzDkSZ6t5M72yZQ"
+       "ic": "ygnPrW5QO0ue_jAikE8tX-6YeDG2uTppIJcfyaVV_-loIYIwGPjnaFpcKs0BV7TgSJn4EvxgzDkSZ6t5M72yZQ",
+       "ios": 6698859997
       },
       {
        "name": "Visit Angkor",
@@ -53038,7 +53089,8 @@
        "note": "App der APSARA Behörde mit Tempelkarten, Routen und Verhaltensregeln",
        "src": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/05/10/visit-angkor-app-launched-as-just-one-third-of-international-tourists-visit-temples",
        "pkg": "com.udaya.visit_angkor",
-       "ic": "OtuBmn4_3dzEuH4sOShuwzPwaYnY_PpWX80j4P-ic6w_AYVn3KB68Oa6ddegUQ3e9kgQXyR43Xnpp9rD5hPkbaw"
+       "ic": "OtuBmn4_3dzEuH4sOShuwzPwaYnY_PpWX80j4P-ic6w_AYVn3KB68Oa6ddegUQ3e9kgQXyR43Xnpp9rD5hPkbaw",
+       "ios": 6465895919
       }
      ],
      "ll": [
@@ -53260,7 +53312,8 @@
      "use": "limited",
      "req": "Konto mit Telefonnummer nötig, Betrieb wegen Krieg unsicher",
      "src": "https://play.google.com/store/apps/details?id=com.multibrains.taxi.passenger.tirhal&hl=en_US&gl=US",
-     "ic": "BGsMjUkxXhxR459M0-zZ1vyBOTk-Lj3oBu6vM7dQXJEq8Lx-muIv46hdDo1zzKSg6bD77mvHYRx091jtegE9"
+     "ic": "BGsMjUkxXhxR459M0-zZ1vyBOTk-Lj3oBu6vM7dQXJEq8Lx-muIv46hdDo1zzKSg6bD77mvHYRx091jtegE9",
+     "ios": 1146426936
     },
     {
      "name": "Lemon",
@@ -53280,7 +53333,8 @@
      "req": "Liefergebiete nicht genannt, vorab in der App prüfen",
      "src": "https://apps.apple.com/app/id6757619047",
      "pkg": "app.talabak.user",
-     "ic": "MemR5OCTFU3m4zF5WH-ZqgOX5ZGLFaEsFsVAD_bvKmyAMf5LzB1SiRN6GmQK6V4GPRLyP_cp5IU9Eg19zOItD8Y"
+     "ic": "MemR5OCTFU3m4zF5WH-ZqgOX5ZGLFaEsFsVAD_bvKmyAMf5LzB1SiRN6GmQK6V4GPRLyP_cp5IU9Eg19zOItD8Y",
+     "ios": 6757619047
     },
     {
      "name": "Bankak",
@@ -53411,7 +53465,8 @@
      "req": "Konto in der App nötig, Bargeld bereithalten",
      "src": "https://apps.apple.com/us/app/geeye/id1527455871?l=es",
      "pkg": "so.geeye.geeyeclient",
-     "ic": "o_BYs5tB2WuCAOBRfP3XbpfdSshUVwRjWnE96eluFi7h0WbMoqzmKEbyRS7VC29cgKQT5Ml2ExOvLXFZe47-hA"
+     "ic": "o_BYs5tB2WuCAOBRfP3XbpfdSshUVwRjWnE96eluFi7h0WbMoqzmKEbyRS7VC29cgKQT5Ml2ExOvLXFZe47-hA",
+     "ios": 6745321338
     },
     {
      "name": "Bajaaj Macmiil",
@@ -53439,7 +53494,8 @@
      "req": "Registrierung im Telesom-Büro mit Ausweis nötig",
      "src": "https://telesom.com/personal/zaad",
      "pkg": "com.zaadapp.zaad",
-     "ic": "eH70aocBpvIb_wZA4DcCMPTLEg-Jb9iqDnUB7Fsq0PhlEbRRxu_3mn0M0T2XPDPsWkxe5PTg1WDIOfwUJmKJfg"
+     "ic": "eH70aocBpvIb_wZA4DcCMPTLEg-Jb9iqDnUB7Fsq0PhlEbRRxu_3mn0M0T2XPDPsWkxe5PTg1WDIOfwUJmKJfg",
+     "ios": 1642177888
     },
     {
      "name": "DahabPlus",
@@ -53449,7 +53505,8 @@
      "req": "Konto bei Dahabshiil bzw. eDahab nötig",
      "src": "https://apps.apple.com/td/app/dahabplus/id1498782612",
      "pkg": "com.dahabplus.dahabplus",
-     "ic": "QWSfMwkEe-q3FdBqy2h2Gw1UwZLNvKfeWOSG2jSZKhqJRgTagbPl48z2Y_kom8HVypgvUY0xiTdYv5eVV28C"
+     "ic": "QWSfMwkEe-q3FdBqy2h2Gw1UwZLNvKfeWOSG2jSZKhqJRgTagbPl48z2Y_kom8HVypgvUY0xiTdYv5eVV28C",
+     "ios": 1498782612
     },
     {
      "name": "Grindr",
@@ -53478,7 +53535,8 @@
        "use": "limited",
        "req": "Lokale Telefonnummer vermutlich nötig, Bargeld bereithalten",
        "src": "https://www.euaa.europa.eu/coi/somalia/2025/country-focus/22-hargeisa/222-mobility-and-accessibility",
-       "ic": "40kqt4DG2xUKq2EhCXaCbz2rcGgp5ok5_riq9uZlg-r7NIG-J4uaLpcI65TcQJjK5bMnNGal02iP6ZPrmvQe"
+       "ic": "40kqt4DG2xUKq2EhCXaCbz2rcGgp5ok5_riq9uZlg-r7NIG-J4uaLpcI65TcQJjK5bMnNGal02iP6ZPrmvQe",
+       "ios": 1399823559
       }
      ],
      "ll": [
@@ -53498,7 +53556,8 @@
        "note": "Essen von Restaurants und Cafés, auch Barzahlung",
        "use": "limited",
        "req": "Letztes Update 2024, Betrieb vorab prüfen",
-       "src": "https://apps.apple.com/ae/app/adeegfood-buyer/id6670474509"
+       "src": "https://apps.apple.com/ae/app/adeegfood-buyer/id6670474509",
+       "ios": 6670474509
       }
      ],
      "ll": [
@@ -53623,7 +53682,8 @@
        "note": "Taxi, Vorbuchung ab Ankunft, Lieferungen und Pakete",
        "use": "limited",
        "req": "Konto mit Telefonnummer nötig",
-       "src": "https://apps.apple.com/us/app/id6738090021"
+       "src": "https://apps.apple.com/us/app/id6738090021",
+       "ios": 6738090021
       },
       {
        "name": "Shilu ANA",
@@ -53633,7 +53693,8 @@
        "req": "Konto mit Telefonnummer nötig",
        "src": "https://techcabal.com/?p=171329",
        "pkg": "ssd.com.shilu.ana.juba.passenger",
-       "ic": "TUfzW4I1t4VRTgKKHl3jQCUtjGAUXC0qfo5YKebOLe0lZ08B9LSIGjTp1CYFNCdvL5uGLrpa3mGZBVV79Bw"
+       "ic": "TUfzW4I1t4VRTgKKHl3jQCUtjGAUXC0qfo5YKebOLe0lZ08B9LSIGjTp1CYFNCdvL5uGLrpa3mGZBVV79Bw",
+       "ios": 1480204287
       },
       {
        "name": "Karibu App",
@@ -53643,7 +53704,8 @@
        "req": "Konto mit Telefonnummer nötig",
        "src": "https://apps.apple.com/us/app/id1529546231",
        "pkg": "com.kajou.bonjour",
-       "ic": "o41bbPbyhIm1rbtt5uwl7F4j1Yvag1j2WAjSOqIjnEMNxi9sS_3GQJ5aRPGwQakeMltrRs8fwDUsqin5fbQDlw"
+       "ic": "o41bbPbyhIm1rbtt5uwl7F4j1Yvag1j2WAjSOqIjnEMNxi9sS_3GQJ5aRPGwQakeMltrRs8fwDUsqin5fbQDlw",
+       "ios": 6470450458
       }
      ],
      "ll": [
@@ -53770,7 +53832,8 @@
      "req": "Moov-Togo-SIM mit Flooz-Konto nötig",
      "src": "https://apps.apple.com/us/app/-/id6747830756",
      "pkg": "com.huawei.moovmoney.tg.uat",
-     "ic": "SrVCOrrQ8CQik6TJZOrSAY5ZqaMLJ2yYrfZrmNhTaPVy0-zJGWIwLVmBnghqqpMs61yrXo4h0-ZrmPX8OiJdcg"
+     "ic": "SrVCOrrQ8CQik6TJZOrSAY5ZqaMLJ2yYrfZrmNhTaPVy0-zJGWIwLVmBnghqqpMs61yrXo4h0-ZrmPX8OiJdcg",
+     "ios": 6747830756
     },
     {
      "name": "Gozem Money",
@@ -53809,7 +53872,8 @@
      "pkg": "com.askymobileapp.askyairlines",
      "note": "Regionalairline mit Drehkreuz Lomé, rund 30 Ziele",
      "src": "https://www.togofirst.com/en/transport/0508-16872-lome-to-nouakchott-asky-airlines-expands-network-with-30th-route-in-africa",
-     "ic": "X8RnyHpXX0c1Qdve8t6L_78WdzOY8vDfK2RUIWovHy_wsT1ES6KyDpwxhuzfiwEdF_bZYVj6YHTNxbKwxum10Q"
+     "ic": "X8RnyHpXX0c1Qdve8t6L_78WdzOY8vDfK2RUIWovHy_wsT1ES6KyDpwxhuzfiwEdF_bZYVj6YHTNxbKwxum10Q",
+     "ios": 6738847568
     }
    ],
    "cities": [
@@ -53839,7 +53903,8 @@
        "req": "Am einfachsten mit Barzahlung bei Lieferung, erreichbare Nummer nötig",
        "src": "https://apps.apple.com/to/app/kaba/id1513025430",
        "pkg": "tg.tmye.kaba.brave.one",
-       "ic": "OMODyL0XDHhpZv47ol6YYY74qY1ct7ErF4C9VikappVaTu39chU25GxWbTWLeZu9dd6IaBehVdLH92jO4BAwSw"
+       "ic": "OMODyL0XDHhpZv47ol6YYY74qY1ct7ErF4C9VikappVaTu39chU25GxWbTWLeZu9dd6IaBehVdLH92jO4BAwSw",
+       "ios": 1513025430
       },
       {
        "name": "e-SOTRAL",
@@ -53963,7 +54028,8 @@
      "ess": true,
      "src": "https://www.alto.ad/transport/2026/06/andorra-launches-updated-mou-te-app-with-real-ti",
      "pkg": "de.hafas.android.andorra",
-     "ic": "yzehDpsJpFo3BP75Euvyca9fFc1_im54EGZlaOfTestmW8XbTbLAzT2lUoX9RYss4hlyVS-bvQDd0ikdxMfKeGs"
+     "ic": "yzehDpsJpFo3BP75Euvyca9fFc1_im54EGZlaOfTestmW8XbTbLAzT2lUoX9RYss4hlyVS-bvQDd0ikdxMfKeGs",
+     "ios": 1473798601
     },
     {
      "name": "Taxi Andorra",
@@ -53972,7 +54038,8 @@
      "ess": true,
      "src": "https://www.alto.ad/transport/andorra-taxi-booking-apps-real-time-trackin-260506",
      "pkg": "com.interfacom.taxiandorra",
-     "ic": "G0xWGztj3q4XVduxozcaNA38cMCCuHe4AAiVahNhk-Co0yZ9ZKtvGkV-7WdcvaaM71gKM7zRaO4noFZeTycwkuY"
+     "ic": "G0xWGztj3q4XVduxozcaNA38cMCCuHe4AAiVahNhk-Co0yZ9ZKtvGkV-7WdcvaaM71gKM7zRaO4noFZeTycwkuY",
+     "ios": 6760651627
     },
     {
      "name": "CityXerpa",
@@ -53981,7 +54048,8 @@
      "ess": true,
      "src": "https://apps.apple.com/app/id1175500027",
      "pkg": "es.dae.cityxerpa",
-     "ic": "7FNHo8uiqslLT5fm8ZLo4amDHreCzJmT758HFCKkC1aXyc4OiByj_yMz7GcQhb-4IpJWqa-nQN59tVNnY3UO"
+     "ic": "7FNHo8uiqslLT5fm8ZLo4amDHreCzJmT758HFCKkC1aXyc4OiByj_yMz7GcQhb-4IpJWqa-nQN59tVNnY3UO",
+     "ios": 1175500027
     },
     {
      "name": "Mobilitat Andorra",
@@ -53989,7 +54057,8 @@
      "note": "Straßenlage, Sperrungen und Webcams der Regierung",
      "src": "https://apps.apple.com/es/app/id1448483075",
      "pkg": "com.andornet.mobilitat",
-     "ic": "zig_BCURUJXIxsUyNDYbHtbvNTpLG6WC1gcmDbyJ5V2vMutwKNneOpdYoJMJp7U6_V82vR4FeYOW3xGsJqnA"
+     "ic": "zig_BCURUJXIxsUyNDYbHtbvNTpLG6WC1gcmDbyJ5V2vMutwKNneOpdYoJMJp7U6_V82vR4FeYOW3xGsJqnA",
+     "ios": 1448483075
     },
     {
      "name": "Andbus",
@@ -54013,7 +54082,8 @@
      "note": "E-Leihräder in Andorra la Vella, Escaldes, Sant Julià",
      "src": "https://visitandorra.com/en/nature--sports/cicland/",
      "pkg": "com.andorsoft.Cicland",
-     "ic": "9yXQ3iKiEdmIvDjifskblYuPFq6LfX1jYIxe838YNr1wfWPy98EK5Zf4HiR7QWzOIin-x3ZYG543mzsfgosD"
+     "ic": "9yXQ3iKiEdmIvDjifskblYuPFq6LfX1jYIxe838YNr1wfWPy98EK5Zf4HiR7QWzOIin-x3ZYG543mzsfgosD",
+     "ios": 1407609332
     },
     {
      "name": "Grandvalira Resorts",
@@ -54021,13 +54091,15 @@
      "pkg": "com.grandvalira.Grandvalira",
      "note": "Skipass, Pistenplan und Wetter für drei Skigebiete",
      "src": "https://apps.apple.com/us/app/grandvalira-resorts/id777328587",
-     "ic": "tswAcG_LOWOQjkaxfPK1OGTZF8OApSRcuVyaVOyk83iF1s_saXQaIlcVBs3zVWo1rbyK0q1Bxfy8atyZtRZo"
+     "ic": "tswAcG_LOWOQjkaxfPK1OGTZF8OApSRcuVyaVOyk83iF1s_saXQaIlcVBs3zVWo1rbyK0q1Bxfy8atyZtRZo",
+     "ios": 777328587
     },
     {
      "name": "Andorra Museus",
      "cat": "tourism",
      "note": "Museen und Denkmäler mit Öffnungszeiten und Preisen",
-     "src": "https://apps.apple.com/gb/app/andorra-museus/id1544789074"
+     "src": "https://apps.apple.com/gb/app/andorra-museus/id1544789074",
+     "ios": 1544789074
     },
     {
      "name": "Parl'App",
@@ -54058,7 +54130,8 @@
        "note": "Parkhäuser in der Hauptstadt finden",
        "src": "https://www.telpark.com/en/cities/andorra/",
        "pkg": "com.delaware.empark",
-       "ic": "rOkYlE8kAYqLDfC1ZAWhJvSIglWvykoPhj0Adtt71qnw6dXbpml5GbnGw42uoX858IEWwcJ3WMxFme6a97ExOg"
+       "ic": "rOkYlE8kAYqLDfC1ZAWhJvSIglWvykoPhj0Adtt71qnw6dXbpml5GbnGw42uoX858IEWwcJ3WMxFme6a97ExOg",
+       "ios": 658204860
       }
      ],
      "ll": [
@@ -54078,7 +54151,8 @@
        "note": "Blaue Parkzonen per App bezahlen",
        "src": "https://apps.apple.com/cg/app/apparcand-clic-aparca/id6738283256",
        "pkg": "es.studiogenesis.innpark.innpark",
-       "ic": "QNkUhljhsBduf55rV87EQI-U7mfPpDSqlhI4gQopJ31iOnqv02Dl_1Osx4w8KUT-UG1YzJi-NfLJ3vAkrRsB"
+       "ic": "QNkUhljhsBduf55rV87EQI-U7mfPpDSqlhI4gQopJ31iOnqv02Dl_1Osx4w8KUT-UG1YzJi-NfLJ3vAkrRsB",
+       "ios": 6738283256
       }
      ],
      "ll": [
@@ -54257,13 +54331,15 @@
      "note": "Carsharing pro Minute, Fahrten im ganzen Land",
      "use": "limited",
      "req": "Ab 19 Jahren, über 1 Jahr Fahrpraxis, Bankkarte verknüpfen",
-     "src": "https://apps.apple.com/lk/app/id1231153647?l=en-gb"
+     "src": "https://apps.apple.com/lk/app/id1231153647?l=en-gb",
+     "ios": 1231153647
     },
     {
      "name": "Delivio",
      "cat": "delivery",
      "note": "Essen und Einkäufe in Minsk, sonst Abholung",
-     "src": "https://apps.apple.com/app/id1496620849"
+     "src": "https://apps.apple.com/app/id1496620849",
+     "ios": 1496620849
     },
     {
      "name": "M-Belarusbank",
@@ -54299,7 +54375,8 @@
        "req": "Dokumentprüfung in der App und bestätigte Telefonnummer nötig",
        "src": "https://dtf.ru/travel/5006446-karsharing-v-gomele-dlya-rossiyan",
        "pkg": "by.hello.app",
-       "ic": "p339bAAiE4j2TbGyFtSzlVBwxpNI50ib4Q4GhInRBSS4mREDjWW_j-EZwQKM0ypvfMUfAYV471_0K-FcrDc5jw"
+       "ic": "p339bAAiE4j2TbGyFtSzlVBwxpNI50ib4Q4GhInRBSS4mREDjWW_j-EZwQKM0ypvfMUfAYV471_0K-FcrDc5jw",
+       "ios": 1459837414
       },
       {
        "name": "Vezukha",
@@ -54437,7 +54514,8 @@
      "pkg": "com.amadeus.merci.rc",
      "note": "Flüge der färöischen Airline buchen und einchecken",
      "src": "https://appgoblin.info/apps/com.amadeus.merci.rc",
-     "ic": "2axUCXtVwfK576M5ut3yX5OpZwLbP285MIIDuDjflW8EqbghilGyIji0iltJq2tU4soLGMN2ITVJ9jqzXrES"
+     "ic": "2axUCXtVwfK576M5ut3yX5OpZwLbP285MIIDuDjflW8EqbghilGyIji0iltJq2tU4soLGMN2ITVJ9jqzXrES",
+     "ios": 1239332860
     },
     {
      "name": "Explore Føroyar",
@@ -54483,7 +54561,8 @@
        "note": "Taxi der Zentrale Auto in Tórshavn bestellen",
        "src": "https://apps.apple.com/dk/app/auto-taxa/id1603252091",
        "pkg": "com.olasanda.autotaxi",
-       "ic": "HJDoYBa88u8VK3biYNtshM910CPd-Q8Dn30MNWfYTIOtFJ6V-HxkBlz5IxDxKG3IDlUcRLBdv54lbdbgK5p5Xec"
+       "ic": "HJDoYBa88u8VK3biYNtshM910CPd-Q8Dn30MNWfYTIOtFJ6V-HxkBlz5IxDxKG3IDlUcRLBdv54lbdbgK5p5Xec",
+       "ios": 1603252091
       }
      ],
      "ll": [
@@ -54639,13 +54718,15 @@
        "ess": true,
        "src": "https://www.chronicle.gi/?p=142834",
        "pkg": "com.gibraltar.android.CustomerApp",
-       "ic": "KkZ9UhcjI4uE6oUlmYB8ChoVvFr04ql-vhEuGwgIt-DFnBOzyWg_4tb56WQHM605OQiN1FpB1BAtCL_5YUH8WA"
+       "ic": "KkZ9UhcjI4uE6oUlmYB8ChoVvFr04ql-vhEuGwgIt-DFnBOzyWg_4tb56WQHM605OQiN1FpB1BAtCL_5YUH8WA",
+       "ios": 6816153620
       },
       {
        "name": "Hoppy",
        "cat": "micro",
        "note": "E-Bikes und E-Scooter, Abgabe nur an festen Stationen",
-       "src": "https://www.gibraltar.gov.gi/press-releases/government-welcomes-major-expansion-of-shared-micromobility-as-120-e-bikes-join-hoppy-network-6342026-12286"
+       "src": "https://www.gibraltar.gov.gi/press-releases/government-welcomes-major-expansion-of-shared-micromobility-as-120-e-bikes-join-hoppy-network-6342026-12286",
+       "ios": 6474540777
       },
       {
        "name": "Hungry Monkey Gibraltar",
@@ -54653,19 +54734,22 @@
        "note": "Essen von über 75 Lokalen in Gibraltar liefern lassen",
        "src": "https://apps.apple.com/app/id1461733862",
        "pkg": "com.preoday.mobile.hungrymonkey",
-       "ic": "jJWq1IMluNGH0NPMh7Hbu7jVwYfoLxsz5tm_aHkyxm3rygMvwtOLqMta6g22pIqTwmC4Yq_PJxeHTJLA3CgOWw"
+       "ic": "jJWq1IMluNGH0NPMh7Hbu7jVwYfoLxsz5tm_aHkyxm3rygMvwtOLqMta6g22pIqTwmC4Yq_PJxeHTJLA3CgOWw",
+       "ios": 1461733862
       },
       {
        "name": "NomNoms",
        "cat": "delivery",
        "note": "Lieferung, Abholung und Tischreservierung in Gibraltar",
-       "src": "https://apps.apple.com/gb/app/nomnoms/id1458498775"
+       "src": "https://apps.apple.com/gb/app/nomnoms/id1458498775",
+       "ios": 1458498775
       },
       {
        "name": "Gibraltar Upper Rock Paths",
        "cat": "maps",
        "note": "Wanderwege am Upper Rock mit Karte, seit 2018 ohne Update",
-       "src": "https://apps.apple.com/us/app/id902352662"
+       "src": "https://apps.apple.com/us/app/id902352662",
+       "ios": 902352662
       },
       {
        "name": "Gibraltar Pay & Display",
@@ -54802,7 +54886,8 @@
      "note": "Lokale App für Taxifahrten und Paketversand",
      "use": "limited",
      "req": "Registrierung und Zahlung in der Quelle nicht beschrieben",
-     "src": "https://apps.apple.com/bb/app/doride/id6738889957"
+     "src": "https://apps.apple.com/bb/app/doride/id6738889957",
+     "ios": 6738889957
     },
     {
      "name": "MZ: Food Online",
@@ -54812,7 +54897,8 @@
      "req": "Registrierung in der Quelle nicht beschrieben, Kartenzahlung im Land kaum verbreitet",
      "src": "https://apps.apple.com/app/id6741681717",
      "pkg": "com.order.mz",
-     "ic": "AIxeskVSZGnHxLF4LhDorJxamQ-Lwwkycgx_gumtmIOrhi4Ea_156GDmOXpg2Ry4_bVExJJ6AUmnBHiamy9p_g"
+     "ic": "AIxeskVSZGnHxLF4LhDorJxamQ-Lwwkycgx_gumtmIOrhi4Ea_156GDmOXpg2Ry4_bVExJJ6AUmnBHiamy9p_g",
+     "ios": 6741681717
     },
     {
      "name": "Ariana Afghan Airlines",
@@ -54829,7 +54915,8 @@
      "pkg": "com.kamair.ticketing",
      "note": "Flüge buchen, ändern und online einchecken",
      "src": "https://mwm.ai/apps/kam-air-trustable-wings/1451184763",
-     "ic": "r89yuGz4CAg8TFfp7o-9tiGgKjTaxXNZIna-5EF5aXNt5QOqFFn_tI5ppbIcSbjbg39ykoSIBsZ8meDNtcol"
+     "ic": "r89yuGz4CAg8TFfp7o-9tiGgKjTaxXNZIna-5EF5aXNt5QOqFFn_tI5ppbIcSbjbg39ykoSIBsZ8meDNtcol",
+     "ios": 1451184763
     },
     {
      "name": "HesabPay",
@@ -54839,7 +54926,8 @@
      "use": "limited",
      "req": "Registrierung mit Telefonnummer, Bedingungen für Ausländer unklar",
      "src": "https://play.google.com/store/apps/details?id=af.hesab.app&hl=en&gl=AF",
-     "ic": "YwzZsvQe9dB4iDJ9Y6jpBLDlndRXmMjXmfk1T6zBhkVCpRgW_itx38KQlpHf8BI8qZ4rSCHWNu9D3Nu9R1uqFQ"
+     "ic": "YwzZsvQe9dB4iDJ9Y6jpBLDlndRXmMjXmfk1T6zBhkVCpRgW_itx38KQlpHf8BI8qZ4rSCHWNu9D3Nu9R1uqFQ",
+     "ios": 1290673415
     }
    ],
    "cities": [
@@ -54857,7 +54945,8 @@
        "req": "Registrierung nicht beschrieben, nur Barzahlung, Sicherheit lokaler Fahrdienste schwankt",
        "src": "https://raftar.app/about",
        "pkg": "com.raftarrides.com",
-       "ic": "QHuGMerx1g1oZOTyVzsSwXQxpXajtzpNSLCz6BbSO-x2TELY508AtjfIn7vukda2tIH7xSxEsnbEpTUY5ijFbpM"
+       "ic": "QHuGMerx1g1oZOTyVzsSwXQxpXajtzpNSLCz6BbSO-x2TELY508AtjfIn7vukda2tIH7xSxEsnbEpTUY5ijFbpM",
+       "ios": 6752469674
       }
      ],
      "ll": [
@@ -54917,7 +55006,8 @@
      "note": "Auto mit Fahrer für Langstrecken und Tagestouren",
      "ess": true,
      "src": "https://www.tbsnews.net/economy/corporates/pathao-car-rental-effortless-journeys-919331",
-     "ic": "ueh5PqE4sjr2p7a2XcyB-Y5koPpw3NeC5hudXAFg6gcg1NcvZT0Zb5lHcw0aWpF8Gi7z6G1k6rNjBMwbqgHl"
+     "ic": "ueh5PqE4sjr2p7a2XcyB-Y5koPpw3NeC5hudXAFg6gcg1NcvZT0Zb5lHcw0aWpF8Gi7z6G1k6rNjBMwbqgHl",
+     "ios": 1201700952
     },
     {
      "name": "Uber",
@@ -54953,7 +55043,8 @@
      "pkg": "com.foodiBd",
      "note": "Lokaler Lieferdienst für Essen und Alltagsbedarf",
      "src": "https://www.bento.travel/bangladesh",
-     "ic": "3DRo9B_S14dknG4mo7w1swaYMkWBFJHNCusKpawtVNM0RPgg4Nl6t_BS7mbTk-Zn2crbzg45EcjTkhJDHiOcyQ"
+     "ic": "3DRo9B_S14dknG4mo7w1swaYMkWBFJHNCusKpawtVNM0RPgg4Nl6t_BS7mbTk-Zn2crbzg45EcjTkhJDHiOcyQ",
+     "ios": 1610910233
     },
     {
      "name": "bKash",
@@ -54963,7 +55054,8 @@
      "req": "Bangladeschischer Personalausweis (NID) nötig, Reisepass allein reicht nicht",
      "src": "https://www.bento.travel/bangladesh/payments",
      "pkg": "com.bKash.customerapp",
-     "ic": "ncgi2sk_NS5u8TfsEVmdaqQhRlv6D0c9JIQ-GmHvazUbp9GDU8gxNZxaq98ysy34juOmSA15KlPLjoAgquZ0nQ"
+     "ic": "ncgi2sk_NS5u8TfsEVmdaqQhRlv6D0c9JIQ-GmHvazUbp9GDU8gxNZxaq98ysy34juOmSA15KlPLjoAgquZ0nQ",
+     "ios": 1351183172
     },
     {
      "name": "Messenger",
@@ -54983,7 +55075,8 @@
      "use": "limited",
      "req": "Registrierung mit Passnummer und Foto, Ausweis und registriertes Handy bei der Fahrt mitführen",
      "src": "https://www.tbsnews.net/node/585458",
-     "ic": "rJlmSF1gUOSbHbhsZ1zMepMw-vhWCrjkwgDkDIZA7SiGKqXNE2E5s4JdNUIv11x59L_GfcUB4On0emU6O1arIw"
+     "ic": "rJlmSF1gUOSbHbhsZ1zMepMw-vhWCrjkwgDkDIZA7SiGKqXNE2E5s4JdNUIv11x59L_GfcUB4On0emU6O1arIw",
+     "ios": 6499584782
     },
     {
      "name": "Shohoz",
@@ -54999,7 +55092,8 @@
      "note": "App der Touristenpolizei mit Kontakten in allen 64 Bezirken",
      "src": "https://apps.apple.com/us/app/id1563627967",
      "pkg": "com.police.hellotourist",
-     "ic": "AyslNkldu9-65VLDtq5pMnull2j63cndRimU7euG8WYNPFVph73mLUzRNV-0eFXkL7ZP3LWl-WsPw7pVFdDRAg"
+     "ic": "AyslNkldu9-65VLDtq5pMnull2j63cndRimU7euG8WYNPFVph73mLUzRNV-0eFXkL7ZP3LWl-WsPw7pVFdDRAg",
+     "ios": 1563627967
     },
     {
      "name": "Grindr",
@@ -55028,7 +55122,8 @@
        "req": "Guthaben wird laut Quelle über bKash oder Nagad aufgeladen, die eine lokale Registrierung brauchen",
        "src": "https://www.tbsnews.net/bangladesh/get-e-bike-only-tk3-min-jobike-launches-coxs-bazar-841566",
        "pkg": "rider.bike.jo",
-       "ic": "M8Ju5vXFR7vIO2RdobC8ijplG8FhIjsm42MKArcgO9lBM7N7teL98Fjii3k5vkMLzHO9LQ6kIEzszDA0ryb5"
+       "ic": "M8Ju5vXFR7vIO2RdobC8ijplG8FhIjsm42MKArcgO9lBM7N7teL98Fjii3k5vkMLzHO9LQ6kIEzszDA0ryb5",
+       "ios": 1455780127
       }
      ],
      "ll": [
@@ -55166,7 +55261,8 @@
      "src": "https://www.bento.travel/laos/payments",
      "ic": "SBnwVPUbbEXyuYBen6aIEemv6xXzMONTjhWEzZWVmARSY1fMQRlzdUd_-e6FvXUMgkB6dQgn4pTc3EVYjKYlZA",
      "use": "limited",
-     "req": "Nur bei Händlern mit Lao QR, Gebühr pro Zahlung"
+     "req": "Nur bei Händlern mit Lao QR, Gebühr pro Zahlung",
+     "ios": 1374380531
     },
     {
      "name": "Green SM",
@@ -55193,7 +55289,8 @@
      "req": "Passchip-Scan nötig, Aufladen per Karte, laut Bewertungen unzuverlässig",
      "src": "https://apps.apple.com/app/ezykip/id6473516286",
      "pkg": "la.bcel.ezykip",
-     "ic": "Ld7V8X2XJliQn5TCTM8HeUZm9VDIeU8g7IOYIuCyup55WHXKofWOmh84v-QQOIMWyiH2w89XkNRGK5LVREdO"
+     "ic": "Ld7V8X2XJliQn5TCTM8HeUZm9VDIeU8g7IOYIuCyup55WHXKofWOmh84v-QQOIMWyiH2w89XkNRGK5LVREdO",
+     "ios": 6473516286
     },
     {
      "name": "BCEL One",
@@ -55203,7 +55300,8 @@
      "req": "Laotisches Bankkonto nötig",
      "src": "https://www.bento.travel/laos/payments",
      "pkg": "com.bcel.bcelone",
-     "ic": "vJATXych1bfLar7vpZlvMRsaD2vil9eGfyNtNv3_iTnnRRjSAnxXjuVGlhDuky-k5hy45FI9wjDtzFf1CxYCsSg"
+     "ic": "vJATXych1bfLar7vpZlvMRsaD2vil9eGfyNtNv3_iTnnRRjSAnxXjuVGlhDuky-k5hy45FI9wjDtzFf1CxYCsSg",
+     "ios": 654946527
     },
     {
      "name": "Maps.me",
@@ -55223,7 +55321,8 @@
      "use": "limited",
      "req": "Registrierung und Kartenzahlung scheitern teils, Ersatz am Schalter einplanen",
      "src": "https://www.bento.travel/laos",
-     "ic": "wRatA5v6nJY2WY59YfeNYffYRRj8c8f5bNimBeL0AE3zHeXLRzd68JkzezYPiuT4btaZyZwjrvWju78D8aXFRw"
+     "ic": "wRatA5v6nJY2WY59YfeNYffYRRj8c8f5bNimBeL0AE3zHeXLRzd68JkzezYPiuT4btaZyZwjrvWju78D8aXFRw",
+     "ios": 6444795307
     },
     {
      "name": "12Go Asia",
@@ -55250,7 +55349,8 @@
        "use": "limited",
        "req": "Telefonverifizierung kann scheitern, Fahrer nehmen nicht immer an",
        "src": "https://www.bento.travel/laos",
-       "ic": "zVMWHgY08soFePXzomegBX29hrECxNzayX7XO8xzqjJ72r67NAoAGH85vjCTEKoM1jm7LX1qKRhK-0dahauP"
+       "ic": "zVMWHgY08soFePXzomegBX29hrECxNzayX7XO8xzqjJ72r67NAoAGH85vjCTEKoM1jm7LX1qKRhK-0dahauP",
+       "ios": 6444350846
       },
       {
        "name": "Chompa Delivery",
@@ -55266,7 +55366,8 @@
        "pkg": "com.goldmirubada.laobus",
        "note": "Busplaner, Linie an der Haltestelle nochmal prüfen",
        "src": "https://www.bento.travel/laos",
-       "ic": "E3mzwfof5_s8WpBF0I4nJ0DbWqYBMqZz2imi_-EbjE1SFcTJM-Lx-_AqQdbGwukUrxZulOYqk8kmgqd9d6a2"
+       "ic": "E3mzwfof5_s8WpBF0I4nJ0DbWqYBMqZz2imi_-EbjE1SFcTJM-Lx-_AqQdbGwukUrxZulOYqk8kmgqd9d6a2",
+       "ios": 6757226035
       },
       {
        "name": "ViaBus",
@@ -55361,7 +55462,8 @@
      "use": "no",
      "req": "Läuft im Pathao-Konto, dafür Telefonnummer aus Nepal oder Bangladesch nötig",
      "src": "https://kathmandupost.com/money/2025/04/14/rental-service-added-in-pathao-ride-sharing-app",
-     "ic": "ueh5PqE4sjr2p7a2XcyB-Y5koPpw3NeC5hudXAFg6gcg1NcvZT0Zb5lHcw0aWpF8Gi7z6G1k6rNjBMwbqgHl"
+     "ic": "ueh5PqE4sjr2p7a2XcyB-Y5koPpw3NeC5hudXAFg6gcg1NcvZT0Zb5lHcw0aWpF8Gi7z6G1k6rNjBMwbqgHl",
+     "ios": 1201700952
     },
     {
      "name": "inDrive",
@@ -55382,7 +55484,8 @@
      "use": "limited",
      "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt, Barzahlung als Ausweg",
      "src": "https://www.bento.travel/nepal/food-delivery",
-     "ic": "tr2VLxZ_VNPLAPHDnva2SIYy2MgQkNMyGnAQKujpQ3ZmAjZyfOS1skV5gcWoslYzYh7iJwQ2G4ZNCI77hNms5JE"
+     "ic": "tr2VLxZ_VNPLAPHDnva2SIYy2MgQkNMyGnAQKujpQ3ZmAjZyfOS1skV5gcWoslYzYh7iJwQ2G4ZNCI77hNms5JE",
+     "ios": 983591001
     },
     {
      "name": "BHOJ",
@@ -55392,7 +55495,8 @@
      "use": "limited",
      "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt",
      "src": "https://www.bento.travel/nepal/food-delivery",
-     "ic": "yGG4SwapwRxf_tJ5Hm2nupXe31ps2olm7NugJHcNRPLfKj0C_iiktHOVdZEq2XOp1EhGJ8DldUhArSfsPuJXxw"
+     "ic": "yGG4SwapwRxf_tJ5Hm2nupXe31ps2olm7NugJHcNRPLfKj0C_iiktHOVdZEq2XOp1EhGJ8DldUhArSfsPuJXxw",
+     "ios": 1038039473
     },
     {
      "name": "Nepal Now",
@@ -55402,7 +55506,8 @@
      "use": "limited",
      "req": "Ab 18 Jahren, Reisepass und Visum werden geprüft, nur in Nepal, Aufladen per Visa oder Mastercard",
      "src": "https://fonepay.com/content/Nepal-Now-tnc",
-     "ic": "hmo5ojoXjEKg1JcPvnxAm9vZ7EsM9bq3oD8FANB13__72F3Vioc-SFXja2lRHATopQeRUZHQizuRqSjWmX8N5k0"
+     "ic": "hmo5ojoXjEKg1JcPvnxAm9vZ7EsM9bq3oD8FANB13__72F3Vioc-SFXja2lRHATopQeRUZHQizuRqSjWmX8N5k0",
+     "ios": 6759238446
     },
     {
      "name": "eSewa",
@@ -55412,7 +55517,8 @@
      "req": "Registrierung mit nepalesischer National ID nötig",
      "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/",
      "pkg": "com.f1soft.esewa",
-     "ic": "uk13rCjIbqv05GMOS5RwLg8NXEJaao_tzfWxBK4MgfGzRiPbOKAAB9JpWw6haEra3DuC9N5Ax_ZFhlN3hFBw"
+     "ic": "uk13rCjIbqv05GMOS5RwLg8NXEJaao_tzfWxBK4MgfGzRiPbOKAAB9JpWw6haEra3DuC9N5Ax_ZFhlN3hFBw",
+     "ios": 614370939
     },
     {
      "name": "Khalti",
@@ -55422,7 +55528,8 @@
      "req": "Registrierung mit nepalesischer National ID nötig",
      "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/",
      "pkg": "com.khalti",
-     "ic": "Z-lHtoW4xdcfp0i49LvLMYQIKcLApaS2DB6H2Ni0-lNeBgvtJb3q2JHbE4DyIXBIDFXM0BnFMsMxdMg19hYN"
+     "ic": "Z-lHtoW4xdcfp0i49LvLMYQIKcLApaS2DB6H2Ni0-lNeBgvtJb3q2JHbE4DyIXBIDFXM0BnFMsMxdMg19hYN",
+     "ios": 1263400741
     },
     {
      "name": "Viber",
@@ -55459,7 +55566,8 @@
      "note": "Fernbusse mit Sitzplatzwahl, dazu Flüge buchen",
      "ess": true,
      "src": "https://www.bento.travel/nepal",
-     "ic": "JwV7KbGB9CYHGgD2TKeHv0u16kY0z5OX2LveHXPbJQTIIHeQHsPovSfkv5KrClyuXkiychDfKx5XuXDmpIMUYA"
+     "ic": "JwV7KbGB9CYHGgD2TKeHv0u16kY0z5OX2LveHXPbJQTIIHeQHsPovSfkv5KrClyuXkiychDfKx5XuXDmpIMUYA",
+     "ios": 6480398037
     },
     {
      "name": "Buddha Air",
@@ -55467,7 +55575,8 @@
      "pkg": "com.shirantech.buddhaair",
      "note": "App der Airline für Inlandsflüge",
      "src": "https://www.bento.travel/nepal",
-     "ic": "mMdXLunXY4wbUzv-36gJbeM_8Doee03XYMp_WuxCmggMFQyepCCkLdHaw6laoObAiVx1KZc85LGxtv8YU8ClQg"
+     "ic": "mMdXLunXY4wbUzv-36gJbeM_8Doee03XYMp_WuxCmggMFQyepCCkLdHaw6laoObAiVx1KZc85LGxtv8YU8ClQg",
+     "ios": 962660238
     },
     {
      "name": "Tourist Police Nepal",
@@ -55517,7 +55626,8 @@
        "use": "no",
        "req": "Lokale Telefonnummer nötig",
        "src": "https://www.bento.travel/nepal/food-delivery",
-       "ic": "ueh5PqE4sjr2p7a2XcyB-Y5koPpw3NeC5hudXAFg6gcg1NcvZT0Zb5lHcw0aWpF8Gi7z6G1k6rNjBMwbqgHl"
+       "ic": "ueh5PqE4sjr2p7a2XcyB-Y5koPpw3NeC5hudXAFg6gcg1NcvZT0Zb5lHcw0aWpF8Gi7z6G1k6rNjBMwbqgHl",
+       "ios": 1201700952
       },
       {
        "name": "Sajha Plus",
@@ -55525,7 +55635,8 @@
        "pkg": "com.slashplus.sajhaplus.sajha_plus",
        "note": "Nur für Busse von Sajha Yatayat, Daten lückenhaft",
        "src": "https://www.bento.travel/nepal",
-       "ic": "vUeVFzz996tz6a_Dps5cgxO01Pek9su80Fr36SsBiVkPov2ZH32a3N1EcY44x85kEh-OLafnZSg7sUimngekvXw"
+       "ic": "vUeVFzz996tz6a_Dps5cgxO01Pek9su80Fr36SsBiVkPov2ZH32a3N1EcY44x85kEh-OLafnZSg7sUimngekvXw",
+       "ios": 6448083588
       },
       {
        "name": "KTM Public Transport",
@@ -55533,7 +55644,8 @@
        "note": "Busse im Kathmandutal live verfolgen, mit Ankunftszeit",
        "src": "https://english.onlinekhabar.com/mobile-app-launched-to-track-public-transport-in-kathmandu-valley.html",
        "pkg": "com.fccpta.ktmpublictransport",
-       "ic": "VR7EQ4aR1uDOvsKZyodafH-b4P2Jifg4zPgrAzcWvGdVDSdmUGnWOqIxB5IdOT9RTv6Bjo3UvruThmVL6011Ow"
+       "ic": "VR7EQ4aR1uDOvsKZyodafH-b4P2Jifg4zPgrAzcWvGdVDSdmUGnWOqIxB5IdOT9RTv6Bjo3UvruThmVL6011Ow",
+       "ios": 6748438188
       },
       {
        "name": "YenDe KMC Walking App",
@@ -55694,7 +55806,8 @@
      "use": "limited",
      "req": "Bezahlung über App-Guthaben, Aufladen per Karte oder Mobile Money",
      "src": "https://play.google.com/store/apps/details?id=com.safeboda.passenger",
-     "ic": "E6JhHfMvi9XsYsUKCtLjcvt9HYXkAws22VIH1Nn-ToPBZZ0NbPhADslE84CUd3UQb7Ob3jGaLYBHpb4fSycqxbw"
+     "ic": "E6JhHfMvi9XsYsUKCtLjcvt9HYXkAws22VIH1Nn-ToPBZZ0NbPhADslE84CUd3UQb7Ob3jGaLYBHpb4fSycqxbw",
+     "ios": 1274389246
     },
     {
      "name": "Faras",
@@ -55702,7 +55815,8 @@
      "pkg": "com.faras.rider",
      "note": "Weiterer Fahrdienst als Uber-Ersatz",
      "src": "https://www.pulse.ug/story/uber-quits-uganda-after-10-years-2026090214403568949",
-     "ic": "z1UsFhyIk9NNZvwykNMRwjzONdkwofBIZ4Ty7ETCvaLk-ZYvV8NWDWmoonHdkeR04Jv7gELlZ7wiJmacEVgO"
+     "ic": "z1UsFhyIk9NNZvwykNMRwjzONdkwofBIZ4Ty7ETCvaLk-ZYvV8NWDWmoonHdkeR04Jv7gELlZ7wiJmacEVgO",
+     "ios": 1616854301
     },
     {
      "name": "Little",
@@ -55720,7 +55834,8 @@
      "use": "limited",
      "req": "MTN-Touristen-SIM mit Pass und Visum im Shop, MoMo extra registrieren",
      "src": "https://www.mtn.co.ug/personal/tourist-sim-registration/",
-     "ic": "UN8xB-9pON-PxK0f1xKrBVHZZ6uFOhfUFhgPGJa37wiEXltBWLyOsard5Iz7F82MJNbFx-2PM7Fw-L7rDqRKdA"
+     "ic": "UN8xB-9pON-PxK0f1xKrBVHZZ6uFOhfUFhgPGJa37wiEXltBWLyOsard5Iz7F82MJNbFx-2PM7Fw-L7rDqRKdA",
+     "ios": 977968085
     },
     {
      "name": "Explore Uganda",
@@ -55736,7 +55851,8 @@
      "pkg": "com.ugandaairlines.ur.reservations",
      "note": "Buchung und Check-in der Nationalairline",
      "src": "https://play.google.com/store/apps/details?id=com.ugandaairlines.ur.reservations&hl=en",
-     "ic": "J5umlwX0uBLTXtlKTRdO_FekpEeDD7t3EVEAyeToER9e2xYe6PLUOzS1b-dmQXYdEcQy2zkjF5oPH09Wo3wATQ"
+     "ic": "J5umlwX0uBLTXtlKTRdO_FekpEeDD7t3EVEAyeToER9e2xYe6PLUOzS1b-dmQXYdEcQy2zkjF5oPH09Wo3wATQ",
+     "ios": 1581397345
     },
     {
      "name": "Grindr",
@@ -55974,13 +56090,15 @@
        "req": "SMS-Bestätigung der Telefonnummer nötig, ausländische Nummer ungeprüft",
        "src": "https://apps.apple.com/us/app/id6670430513",
        "pkg": "kwik.rides.zambia.taxi.passenger",
-       "ic": "5URSA8UYLWLUAFtmYyJYMDkNAAWX7Ew55DSZxfAZWMy_lIdLKecwsPtnyRmrHU-sgShfvaiNKWad-cWc6Zhb"
+       "ic": "5URSA8UYLWLUAFtmYyJYMDkNAAWX7Ew55DSZxfAZWMy_lIdLKecwsPtnyRmrHU-sgShfvaiNKWad-cWc6Zhb",
+       "ios": 6670430513
       },
       {
        "name": "Foodify Zambia",
        "cat": "delivery",
        "note": "Essen aus Restaurants, Zahlung bar oder per Karte",
-       "src": "https://apps.apple.com/us/app/foodify-zambia/id1634826134"
+       "src": "https://apps.apple.com/us/app/foodify-zambia/id1634826134",
+       "ios": 1634826134
       }
      ],
      "ll": [
@@ -56144,7 +56262,8 @@
      "req": "Simbabwische SIM nötig, Anmeldung per USSD *569#",
      "src": "https://pindula.co.zw/Innbucks",
      "pkg": "com.innbucks.customer",
-     "ic": "oxMqivKGKFyTE6LBfNRrjkXmCbFcOUinLp2O4fIcSh5-7LcX_dhkN8f-eVpGTv5RKX-Grkuf_zP_kWJaiqQWlw"
+     "ic": "oxMqivKGKFyTE6LBfNRrjkXmCbFcOUinLp2O4fIcSh5-7LcX_dhkN8f-eVpGTv5RKX-Grkuf_zP_kWJaiqQWlw",
+     "ios": 1578456781
     },
     {
      "name": "fastjet",
@@ -56152,7 +56271,8 @@
      "pkg": "com.fastjet.reservations",
      "note": "Buchung und Verwaltung von fastjet-Flügen",
      "src": "https://appgoblin.info/apps/com.fastjet.reservations/keywords/discovery",
-     "ic": "MJyXveaRtUZNAhr2Z8IVUYk8kMiK8ciVWCsCfGkVB3N-dSLIcAwg6Fen39-I97GMNGQUY4t-xPlViXzkQ9At"
+     "ic": "MJyXveaRtUZNAhr2Z8IVUYk8kMiK8ciVWCsCfGkVB3N-dSLIcAwg6Fen39-I97GMNGQUY4t-xPlViXzkQ9At",
+     "ios": 6443695568
     },
     {
      "name": "Discover Cars",
@@ -56386,7 +56506,8 @@
      "note": "Offizielle Routen zum Wandern, Radeln und Baden",
      "ess": true,
      "src": "https://trade.visitguernsey.com/marketing/campaign/visitguernsey-app/",
-     "ic": "vfFMXEA8F2oWRnyHdGz_jZW8LVqHKKSA8Awdg5Xen_Fwkb5Q5dZK0TXV6gxTl3Zvl7ig37zeQ0a894uPHN_s8ZE"
+     "ic": "vfFMXEA8F2oWRnyHdGz_jZW8LVqHKKSA8Awdg5Xen_Fwkb5Q5dZK0TXV6gxTl3Zvl7ig37zeQ0a894uPHN_s8ZE",
+     "ios": 1592126908
     },
     {
      "name": "EVie",
@@ -56404,7 +56525,8 @@
      "note": "Fähren buchen, Bordkarte und Live-Status der Abfahrten",
      "src": "https://apps.apple.com/md/app/id1451504867?l=en-gb",
      "pkg": "com.condorferries.mobile",
-     "ic": "TBn5q39-VmWMGD0HSYeFjNoKDLteDdGOsSit2OjbFKfINj-kYyEvwb06nzx1QFMn1qs1ru_w2zD1zCKaxvjFFw"
+     "ic": "TBn5q39-VmWMGD0HSYeFjNoKDLteDdGOsSit2OjbFKfINj-kYyEvwb06nzx1QFMn1qs1ru_w2zD1zCKaxvjFFw",
+     "ios": 1451504867
     },
     {
      "name": "Aurigny",
@@ -56412,7 +56534,8 @@
      "note": "Flüge der Inselairline buchen und verwalten",
      "src": "https://www.bailiwickexpress.com/news-ge/aurignys-new-app-aims-to-make-your-life-easier/",
      "pkg": "com.aurigny.mobile.twa",
-     "ic": "jMlnacNwnu4-54lqf7nr2c0BHTxRMoi-Tsv9CoscfeXqe5Xrb1ubAMHRhIxbQBWjhfWNATddJmb1HBjjUggi2g"
+     "ic": "jMlnacNwnu4-54lqf7nr2c0BHTxRMoi-Tsv9CoscfeXqe5Xrb1ubAMHRhIxbQBWjhfWNATddJmb1HBjjUggi2g",
+     "ios": 6752642180
     },
     {
      "name": "Takeout.gg",
@@ -56420,7 +56543,8 @@
      "note": "Essen von Lokalen, Cafés und Metzgern liefern lassen",
      "src": "https://apps.apple.com/us/app/id1519386182",
      "pkg": "gg.donkeydelivers",
-     "ic": "OJWcfz5MAEPv2hHB04qQivxvuje54w8N9xB_6E55v486KLI0vbGg8z7QSv7-652qix9J-HClEsFX2isIlW1QVg"
+     "ic": "OJWcfz5MAEPv2hHB04qQivxvuje54w8N9xB_6E55v486KLI0vbGg8z7QSv7-652qix9J-HClEsFX2isIlW1QVg",
+     "ios": 1519386182
     },
     {
      "name": "Food.gg",
@@ -56428,7 +56552,8 @@
      "note": "Takeaway von über 30 Lokalen, seit 2022 ohne Update",
      "src": "https://apps.apple.com/us/app/id1501608248",
      "pkg": "gg.food.app",
-     "ic": "SPc-aveCLCXlbs5HQhWyv1nfFYizwcGh8OyZpTo5Y4LJCekXNaNLQdkDmh099NNaMYphbdeAByYPeAxYChsopQ"
+     "ic": "SPc-aveCLCXlbs5HQhWyv1nfFYizwcGh8OyZpTo5Y4LJCekXNaNLQdkDmh099NNaMYphbdeAByYPeAxYChsopQ",
+     "ios": 1501608248
     },
     {
      "name": "Snappy Shopper",
@@ -56445,7 +56570,8 @@
      "note": "Neue offizielle Bus-App für Guernsey",
      "ess": true,
      "src": "https://buses.gg/",
-     "ic": "EoHdMNP3TSoGNuwfALPC2vyt-woD8LVl-B2reCKkUH50rsOOn4TL1shjmUTo8dh4fnmGEPPaedG_tVaOW0VEp_A"
+     "ic": "EoHdMNP3TSoGNuwfALPC2vyt-woD8LVl-B2reCKkUH50rsOOn4TL1shjmUTo8dh4fnmGEPPaedG_tVaOW0VEp_A",
+     "ios": 6743087682
     }
    ],
    "cities": [],
@@ -56540,7 +56666,8 @@
      "ess": true,
      "src": "https://apps.apple.com/us/app/id1572640935",
      "pkg": "isleofman.rider",
-     "ic": "GQ9-9W3U4wiOoru4mJLB_KONZrq7dy0l1bZJungN8rjtyYvjgdU8tOTRz02TAe2fcjeJbYsPKX5L3oxMDUATCg"
+     "ic": "GQ9-9W3U4wiOoru4mJLB_KONZrq7dy0l1bZJungN8rjtyYvjgdU8tOTRz02TAe2fcjeJbYsPKX5L3oxMDUATCg",
+     "ios": 1572640935
     },
     {
      "name": "Kivoon: Isle of Man Bus Times",
@@ -56548,14 +56675,16 @@
      "note": "Inoffiziell: Live-Abfahrten für Bus und historische Bahnen",
      "src": "https://apps.apple.com/app/id6760610031",
      "pkg": "im.kivoon.app",
-     "ic": "imCRJuSq95WVd-7AwhyY5w8LAK_sRyuxrBXMsMX7DPb9tSkzkn8_EaI_PjmhVz66lcUPUP0rSgu_cMboUTpj-w"
+     "ic": "imCRJuSq95WVd-7AwhyY5w8LAK_sRyuxrBXMsMX7DPb9tSkzkn8_EaI_PjmhVz66lcUPUP0rSgu_cMboUTpj-w",
+     "ios": 6760610031
     },
     {
      "name": "One Island",
      "cat": "taxi",
      "note": "Taxi buchen, verfolgen und zahlen, dazu Bus- und Fährinfos",
      "ess": true,
-     "src": "https://www.manxradio.com/news/isle-of-man-news/one-island-app-brings-uber-style-taxis-to-island/"
+     "src": "https://www.manxradio.com/news/isle-of-man-news/one-island-app-brings-uber-style-taxis-to-island/",
+     "ios": 6809306522
     },
     {
      "name": "Just Eat",
@@ -56597,7 +56726,8 @@
        "note": "Lokale Essenslieferung, Abholung und Tischreservierung",
        "src": "https://apps.apple.com/app/id6771701530",
        "pkg": "com.mxt.dazzler",
-       "ic": "i7Qx-nhdsLQlkdiR0s_0curtinrZ7gjCj8sd7UALzbnCfhjON9IfsDS_VYX7rRaz_8jdCLTcaKNNDTFAicTO6w"
+       "ic": "i7Qx-nhdsLQlkdiR0s_0curtinrZ7gjCj8sd7UALzbnCfhjON9IfsDS_VYX7rRaz_8jdCLTcaKNNDTFAicTO6w",
+       "ios": 6771701530
       }
      ],
      "ll": [
@@ -56700,7 +56830,8 @@
      "note": "Bustickets und Pässe kaufen, Abfahrten live, Routenplaner",
      "ess": true,
      "src": "https://www.jersey.com/plan-your-break/getting-around-jersey/bus-travel/",
-     "ic": "e-UVWHR2TdN6HTYwBgnXSyE-BWdVag1ZbqYRkojCqIPn1tAy5c-kRgMemAYAf91nqV53b_rKpSr9DNJrJ6EAwOE"
+     "ic": "e-UVWHR2TdN6HTYwBgnXSyE-BWdVag1ZbqYRkojCqIPn1tAy5c-kRgMemAYAf91nqV53b_rKpSr9DNJrJ6EAwOE",
+     "ios": 6444266962
     },
     {
      "name": "Jersey Bus Tracker",
@@ -56713,7 +56844,8 @@
      "cat": "taxi",
      "note": "Taxis vom öffentlichen Stand buchen, mit Preisschätzung",
      "ess": true,
-     "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis"
+     "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis",
+     "ios": 1435148162
     },
     {
      "name": "Ryde",
@@ -56721,7 +56853,8 @@
      "note": "Elektrotaxi buchen, Fahrer live verfolgen, in App zahlen",
      "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis",
      "pkg": "com.rydejersey.rydejersey",
-     "ic": "Zqn4T8-IZ_4fC7Ukk8-t0D5nWRDocMVOuM1RZRffW4qpnJdtykAmfK6udx1jgs69NnkryJW2iZDizEW3M18cGA"
+     "ic": "Zqn4T8-IZ_4fC7Ukk8-t0D5nWRDocMVOuM1RZRffW4qpnJdtykAmfK6udx1jgs69NnkryJW2iZDizEW3M18cGA",
+     "ios": 1495605028
     },
     {
      "name": "EVie",
@@ -56751,7 +56884,8 @@
      "note": "Essen von über 100 Lokalen bestellen, seit 2022 kein Update",
      "src": "https://apps.apple.com/us/app/-/id1295380780",
      "pkg": "je.food.app",
-     "ic": "Xe2eCljGVlqXPf9yUEEIucj-p9sJxCImbw52AHV_HGZIC8Mcp3b6gfAfKSCDWcKgIg88WhHHP07ZuSWOZajeUw"
+     "ic": "Xe2eCljGVlqXPf9yUEEIucj-p9sJxCImbw52AHV_HGZIC8Mcp3b6gfAfKSCDWcKgIg88WhHHP07ZuSWOZajeUw",
+     "ios": 1295380780
     },
     {
      "name": "Snappy Shopper",
@@ -56887,14 +57021,16 @@
      "req": "Ausweis scannen, Kreditkarte hinterlegen, ab 16 Jahren",
      "src": "https://liemobil.li/en/liebike",
      "pkg": "li.liebike",
-     "ic": "t-MMc_CGU5VofpivFC5d5f8KoMiJnujWwhiXTRmqQ-XluBN5FNfsVOWc5VilrjL4EwJrgTTAnXkjAAT0Ao7O"
+     "ic": "t-MMc_CGU5VofpivFC5d5f8KoMiJnujWwhiXTRmqQ-XluBN5FNfsVOWc5VilrjL4EwJrgTTAnXkjAAT0Ao7O",
+     "ios": 1635344551
     },
     {
      "name": "WELCOME",
      "cat": "tourism",
      "note": "Digitale Gästekarte mit QR-Code für Rabatte und Bus",
      "ess": true,
-     "src": "https://en.tourismus.li/angebote/freizeit/welcome-erlebnispass.html"
+     "src": "https://en.tourismus.li/angebote/freizeit/welcome-erlebnispass.html",
+     "ios": 1584615437
     },
     {
      "name": "LIstory",
@@ -56902,7 +57038,8 @@
      "note": "Gratis Begleiter für den Liechtenstein-Weg mit Infostationen",
      "src": "https://tourismus.li/en/the-liechtenstein-trail/the-listory-app/",
      "pkg": "li.listory.app",
-     "ic": "29EOP5sV-C1Cn-kYkc5S8FSHobp9Sw9jAuDDxv8GiktI3QmDwQp4OTWO1Bz0uEEuMMzKqsUmD21KWOJfKSvcNA"
+     "ic": "29EOP5sV-C1Cn-kYkc5S8FSHobp9Sw9jAuDDxv8GiktI3QmDwQp4OTWO1Bz0uEEuMMzKqsUmD21KWOJfKSvcNA",
+     "ios": 1462266258
     },
     {
      "name": "Sicher Reisen",
@@ -56927,7 +57064,8 @@
        "note": "Elektroauto im Städtle rund um die Uhr per App mieten",
        "use": "limited",
        "req": "Registrierung und Führerscheinprüfung nötig",
-       "src": "https://www.vaduz.li/en/news/new-car-sharing-service-in-vaduz"
+       "src": "https://www.vaduz.li/en/news/new-car-sharing-service-in-vaduz",
+       "ios": 1338748932
       }
      ],
      "ll": [
@@ -57114,13 +57252,15 @@
      "note": "Gesundheitserklärung vor der Einreise abgeben",
      "src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526",
      "pkg": "egnc.moh.bruhealth",
-     "ic": "s5YR6gvOj7YpGSKDbGWBAR_0pHVNV34V0155dMx4sXO0v207qHTW5wOPbmHkijb8hktkssj2FP-tKNuw0XyP"
+     "ic": "s5YR6gvOj7YpGSKDbGWBAR_0pHVNV34V0155dMx4sXO0v207qHTW5wOPbmHkijb8hktkssj2FP-tKNuw0XyP",
+     "ios": 1509620170
     },
     {
      "name": "customs.bn",
      "cat": "entry",
      "note": "Mitgebrachten Alkohol beim Zoll anmelden",
-     "src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526"
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/bruneidarussalam-node/bruneidarussalamsicherheit-224526",
+     "ios": 6449696019
     },
     {
      "name": "Dart",
@@ -57129,7 +57269,8 @@
      "note": "Lokaler Fahrdienst, Zahlung bar oder per App-Guthaben",
      "ess": true,
      "src": "https://play.google.com/store/apps/details?id=com.dartbrunei.darttaxi.rider&hl=en",
-     "ic": "G5bBj_K0a3pThdvbGu4FY6BOIdhk43_tkK_DtslSPcXKCWrTFK7ddEW5EBlIxlQHcZgdosuP6qUdwW66Cx6N9w"
+     "ic": "G5bBj_K0a3pThdvbGu4FY6BOIdhk43_tkK_DtslSPcXKCWrTFK7ddEW5EBlIxlQHcZgdosuP6qUdwW66Cx6N9w",
+     "ios": 1351551803
     },
     {
      "name": "TransportBN",
@@ -57137,7 +57278,8 @@
      "note": "Busverbindungen und Fahrzeiten im Land",
      "src": "https://apps.apple.com/us/app/transportbn/id1483564880",
      "pkg": "com.ishajaya.transportbn",
-     "ic": "uD0yYUeYi4-gJUguJNF4BiVZPrWwHOxpJX3UScNCZpaoogy9ZMaDYaj26iT4CpS9B-DlU387hMDNU8mr7hnyhw"
+     "ic": "uD0yYUeYi4-gJUguJNF4BiVZPrWwHOxpJX3UScNCZpaoogy9ZMaDYaj26iT4CpS9B-DlU387hMDNU8mr7hnyhw",
+     "ios": 1483564880
     },
     {
      "name": "GoMamam",
@@ -57153,7 +57295,8 @@
      "note": "Lokale Liefer-App in Brunei",
      "src": "https://apps.apple.com/bn/app/domo/id1475611783",
      "pkg": "com.suteramedia.domo",
-     "ic": "DIkC5jefEcuzT_hfaAR35kKKULBFnT31EKIlMo2e5Uwsii2rnj_TBA7MxfvHSvd9F2fbQjACcAne5_OuD9cGcuE"
+     "ic": "DIkC5jefEcuzT_hfaAR35kKKULBFnT31EKIlMo2e5Uwsii2rnj_TBA7MxfvHSvd9F2fbQjACcAne5_OuD9cGcuE",
+     "ios": 1475611783
     },
     {
      "name": "Avis",
@@ -57210,7 +57353,8 @@
      "use": "limited",
      "req": "Anmeldung laut Quelle nicht beschrieben",
      "src": "https://play.google.com/store/apps/details?id=com.drukride.customer&hl=en_US",
-     "ic": "BmTApb-F2EQQttWXHPxVN74ELdtQ_9Bzw2oCg4OdDkQvSLwDs7AJLTvvX0yYpFI_XKXA8KYOkqmmbSegYQNQgg"
+     "ic": "BmTApb-F2EQQttWXHPxVN74ELdtQ_9Bzw2oCg4OdDkQvSLwDs7AJLTvvX0yYpFI_XKXA8KYOkqmmbSegYQNQgg",
+     "ios": 1276150974
     },
     {
      "name": "MyChharo",
@@ -57237,7 +57381,8 @@
      "ess": true,
      "src": "https://www.bhutanhimalaya.com/news/in-bhutan-a-bank-app-widens-the-door-to-cashless-travel",
      "pkg": "com.mode.chharo",
-     "ic": "X4YtNqng4djX0j4YoQeurEHEYayINh2q1wZ7HHX0Z3-UvnXB6umLqpSLsmyiLHrPhsqZBMEqyLBekqeYTzP5HQ"
+     "ic": "X4YtNqng4djX0j4YoQeurEHEYayINh2q1wZ7HHX0Z3-UvnXB6umLqpSLsmyiLHrPhsqZBMEqyLBekqeYTzP5HQ",
+     "ios": 1566124096
     },
     {
      "name": "Drukair",
@@ -57245,7 +57390,8 @@
      "note": "Flüge der Nationalairline buchen und einchecken",
      "src": "https://apps.apple.com/us/app/drukair/id1345535182?uo=4",
      "pkg": "aero.developer.iTravel.drukair",
-     "ic": "EHBn_UmzezUgH5gPahhyLER25Fy4e6T5sryTRLM8-yXLVW-IvlZ-MJxXFa1HVJQrBB6GKmahp87u2QhjXDhe"
+     "ic": "EHBn_UmzezUgH5gPahhyLER25Fy4e6T5sryTRLM8-yXLVW-IvlZ-MJxXFa1HVJQrBB6GKmahp87u2QhjXDhe",
+     "ios": 1345535182
     },
     {
      "name": "Tourism Bhutan",
@@ -57253,7 +57399,8 @@
      "pkg": "bt.gov.tourism",
      "note": "Offizielle Tourismus-App mit Events, Wetter, Verkehr",
      "src": "https://bbs.bt/news/?p=209386",
-     "ic": "NqSCimjhvmloRWzqxPcaWk3Nu0zr0icn0kscNK2KVv5rH6CzVozMumCSF0yHPjNEUnFFgNTmiHRrdZBtYt25xuk"
+     "ic": "NqSCimjhvmloRWzqxPcaWk3Nu0zr0icn0kscNK2KVv5rH6CzVozMumCSF0yHPjNEUnFFgNTmiHRrdZBtYt25xuk",
+     "ios": 6702021181
     },
     {
      "name": "Sicher Reisen",
@@ -57338,7 +57485,8 @@
      "ess": true,
      "src": "https://christmasislandnationalpark.gov.au/plan/plan-your-trip/download-official-christmas-island-national-park-app/",
      "pkg": "com.parksaustralia.cinp",
-     "ic": "cgcMruYxdXkVZ53BSHgoucMXnko9wvC0EywSpWIqJK3ByVP--EFjEd36ub3oX3i7xIr7lEcQ99EUwyMA6ejJ"
+     "ic": "cgcMruYxdXkVZ53BSHgoucMXnko9wvC0EywSpWIqJK3ByVP--EFjEd36ub3oX3i7xIr7lEcQ99EUwyMA6ejJ",
+     "ios": 1586280918
     },
     {
      "name": "Qantas Airways",
@@ -57443,7 +57591,8 @@
      "note": "Bustickets, MonaBike, Straßenparken und Museen",
      "ess": true,
      "src": "https://monservicepublic.gouv.mc/en/themes/free-time/culture/monapass/monapass",
-     "ic": "R--I-WDzogJ3KX8r8x69KAPFXZLhzMwhKK9W3gvmARpWXxeGe_eT14Lq3cjdZe1F4-L2OXJTVy4sZgqXYxD5"
+     "ic": "R--I-WDzogJ3KX8r8x69KAPFXZLhzMwhKK9W3gvmARpWXxeGe_eT14Lq3cjdZe1F4-L2OXJTVy4sZgqXYxD5",
+     "ios": 1542802881
     },
     {
      "name": "Monaco Bus",
@@ -57461,7 +57610,8 @@
      "ess": true,
      "src": "https://www.monaco-tribune.com/en/2025/04/taxi-monaco-catch-a-cab-in-a-couple-of-clicks/",
      "pkg": "com.elevate.monacotaxi.passenger",
-     "ic": "LLAakJvR2Gxa2LBAy1hH9JU7g9AASow2GG3L9-UVCASSVh8cx4sXP1StVJNHTNAOCT5cQWxr1caotna9KS8n"
+     "ic": "LLAakJvR2Gxa2LBAy1hH9JU7g9AASow2GG3L9-UVCASSVh8cx4sXP1StVJNHTNAOCT5cQWxr1caotna9KS8n",
+     "ios": 6446452369
     },
     {
      "name": "Uber",
@@ -57488,7 +57638,8 @@
      "note": "Elektro-Carsharing mit Twizy, Smart und Tesla",
      "use": "limited",
      "req": "Konto mit Führerschein und Ausweis nötig",
-     "src": "https://monservicepublic.gouv.mc/en/themes/transport-and-mobility/access-traffic-and-parking/traffic/mobee-carsharing-service"
+     "src": "https://monservicepublic.gouv.mc/en/themes/transport-and-mobility/access-traffic-and-parking/traffic/mobee-carsharing-service",
+     "ios": 1524291651
     },
     {
      "name": "EatIn Monaco",
@@ -57498,7 +57649,8 @@
      "req": "Konto nötig, App nur auf Französisch",
      "src": "https://apps.apple.com/app/id1454440520",
      "pkg": "com.eatin.android",
-     "ic": "7eyJPoroN18mZmOu7xa-vl8hXF2bFA9qvHR3oDmKmW2fCLEYp5kigB6I3QeEv_TZ-h3MKX4aPyVcjKeoxO-ucA"
+     "ic": "7eyJPoroN18mZmOu7xa-vl8hXF2bFA9qvHR3oDmKmW2fCLEYp5kigB6I3QeEv_TZ-h3MKX4aPyVcjKeoxO-ucA",
+     "ios": 1454440520
     },
     {
      "name": "Your Monaco",
@@ -57506,7 +57658,8 @@
      "note": "Regierungs-App mit Events, Strandwetter, Orten",
      "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications",
      "pkg": "mc.gouv.yourmonaco",
-     "ic": "Fz3ToYqCnvRWXAfNpTKk98L1L4BCHBQnLqaAkNpKUTnBSfB4rql-wOzGZCLZx8hWpWhwid-wpYWstJw2wnO25A"
+     "ic": "Fz3ToYqCnvRWXAfNpTKk98L1L4BCHBQnLqaAkNpKUTnBSfB4rql-wOzGZCLZx8hWpWhwid-wpYWstJw2wnO25A",
+     "ios": 1609627984
     },
     {
      "name": "Citymapper",
@@ -57521,7 +57674,8 @@
      "name": "StreetNav",
      "cat": "maps",
      "note": "Barrierearme Routen für eingeschränkte Mobilität",
-     "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+     "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications",
+     "ios": 6472163282
     },
     {
      "name": "MaPlacePMR",
@@ -57720,7 +57874,8 @@
      "req": "Russische Karte oder SBP nötig",
      "src": "https://russiable.com/yandex-guide-russia/",
      "pkg": "ru.yandex.travel",
-     "ic": "dlGGwx1L_7XCwhPKVMHSxqenKkmkMolfDpCLPxlDfbypmFbtFKdKw40JnFC94ECcTtUMvp-k42qbvTuUB0CPeA"
+     "ic": "dlGGwx1L_7XCwhPKVMHSxqenKkmkMolfDpCLPxlDfbypmFbtFKdKw40JnFC94ECcTtUMvp-k42qbvTuUB0CPeA",
+     "ios": 1632443454
     },
     {
      "name": "Aviasales",
@@ -57738,7 +57893,8 @@
      "note": "Hotels und Wohnungen, oft Barzahlung vor Ort",
      "src": "https://www.gw2ru.com/plan-your-trip/231905-apps-travel-russia-2025",
      "pkg": "ru.ostrovok.android",
-     "ic": "P1wsoAz5WJ-eGp5r2JfUApL0LJ8e5GruggOgujrgJePXryP-a5nzaBtj80uM05Koj1lAi363L9b7BDSP7RTfrSY"
+     "ic": "P1wsoAz5WJ-eGp5r2JfUApL0LJ8e5GruggOgujrgJePXryP-a5nzaBtj80uM05Koj1lAi363L9b7BDSP7RTfrSY",
+     "ios": 1505191040
     },
     {
      "name": "ZenHotels",
@@ -57776,7 +57932,8 @@
      "req": "Russische Karte oder SBP nötig",
      "src": "https://russiable.com/yandex-guide-russia/",
      "pkg": "ru.yandex.mobile.afisha",
-     "ic": "hBK3R-qW3tDFcBF_inLSxMLKCbiMho8v3C9HNzgOz5KafYz25-HTsIi8_HfHSNgMb5tVphAwbPZG4WDuuQZtsA"
+     "ic": "hBK3R-qW3tDFcBF_inLSxMLKCbiMho8v3C9HNzgOz5KafYz25-HTsIi8_HfHSNgMb5tVphAwbPZG4WDuuQZtsA",
+     "ios": 1119361771
     },
     {
      "name": "Yandex Eats",
@@ -57786,7 +57943,8 @@
      "req": "Nur Barzahlung an Kurier, wo angeboten",
      "src": "https://russiable.com/yandex-guide-russia/",
      "pkg": "ru.foodfox.client",
-     "ic": "bMDuKEp-5H4WuPsnpU1le-5yfWm0namaDZJPPEhvTySARe2fgQBfcWuDSFhZ0A7Nx-wkrRE8UhJrD9lNMTJqpw"
+     "ic": "bMDuKEp-5H4WuPsnpU1le-5yfWm0namaDZJPPEhvTySARe2fgQBfcWuDSFhZ0A7Nx-wkrRE8UhJrD9lNMTJqpw",
+     "ios": 1078986931
     },
     {
      "name": "Yandex Lavka",
@@ -57806,7 +57964,8 @@
      "req": "Russische Mir Karte nötig",
      "src": "https://hse.ru/recommends/online-shopping",
      "pkg": "ru.sbcs.store",
-     "ic": "S8qawIhNUizNNbadScXfRmH93kH7KB29KZ97yZsp53xeJxoHNguFb8YQP07bn_mRQfkXOsDPQVBxIKkTyqmM"
+     "ic": "S8qawIhNUizNNbadScXfRmH93kH7KB29KZ97yZsp53xeJxoHNguFb8YQP07bn_mRQfkXOsDPQVBxIKkTyqmM",
+     "ios": 1401500803
     },
     {
      "name": "VkusVill",
@@ -57826,7 +57985,8 @@
      "req": "Russische Mir Karte nötig",
      "src": "https://hse.ru/recommends/online-shopping",
      "pkg": "ru.ozon.app.android",
-     "ic": "iZhyKvRs1otTwl4NyHzX_6GT3AUO6vBuvBQaf56VtZsDteoQ-ceNr5fwzYQjHxBISZtobnB1zVu1avuU41ParQ"
+     "ic": "iZhyKvRs1otTwl4NyHzX_6GT3AUO6vBuvBQaf56VtZsDteoQ-ceNr5fwzYQjHxBISZtobnB1zVu1avuU41ParQ",
+     "ios": 407804998
     },
     {
      "name": "Wildberries",
@@ -57836,7 +57996,8 @@
      "req": "Russische Mir Karte nötig",
      "src": "https://hse.ru/recommends/online-shopping",
      "pkg": "com.wildberries.ru",
-     "ic": "_3OFXp7p3aaOt6lJdqOPNS8frRjGW7SrlgUELTcxMZNbvQtBN0ez_lrXtMk-X9Yk_kfdesM7fOcRpMl3Ebhgpg"
+     "ic": "_3OFXp7p3aaOt6lJdqOPNS8frRjGW7SrlgUELTcxMZNbvQtBN0ez_lrXtMk-X9Yk_kfdesM7fOcRpMl3Ebhgpg",
+     "ios": 597880187
     },
     {
      "name": "YooMoney",
@@ -57901,7 +58062,8 @@
      "req": "Russische Nummer und Verifizierung über mos.ru",
      "src": "https://www.hse.ru/recommends/bikesandscooters",
      "pkg": "ru.urentbike.app",
-     "ic": "q6F8xC6l6LOIPEQ88Dp_RJu6jeCvKr-KIu5OBu0PRi4-t_q32K_5lEW33l9UuPQTSzCTXVWlYa8KHMsOYQJ_yQ"
+     "ic": "q6F8xC6l6LOIPEQ88Dp_RJu6jeCvKr-KIu5OBu0PRi4-t_q32K_5lEW33l9UuPQTSzCTXVWlYa8KHMsOYQJ_yQ",
+     "ios": 1352346712
     },
     {
      "name": "Grindr",
@@ -57982,7 +58144,8 @@
        "req": "In Moskau seit 2025 gesperrt",
        "src": "https://www.themoscowtimes.com/2026/08/05/russias-taxi-industry-hits-a-breaking-point-as-prices-soar-migrants-shut-out-and-options-shrink",
        "pkg": "com.wheely.wheely",
-       "ic": "07jM8UEj-L0iLJlm7IoM-BVeo9NkGdPKt1-yDNe-5nhM26noZw7NyBbo7y42oTnvl9e4GpvftbFxU_W0hQ--"
+       "ic": "07jM8UEj-L0iLJlm7IoM-BVeo9NkGdPKt1-yDNe-5nhM26noZw7NyBbo7y42oTnvl9e4GpvftbFxU_W0hQ--",
+       "ios": 1473863611
       }
      ],
      "ll": [
@@ -58013,7 +58176,8 @@
        "note": "Offizieller Stadtführer mit Audioguides",
        "src": "https://apps.apple.com/app/id828951361",
        "pkg": "ru.spb.iac.turportal",
-       "ic": "Ro8L1NdDRDD1plsVL4ZfDxWZmLZAovihyW4JF5Qtaum_gb-xhCEQJRSLtLoXdilwlydxmvGyUk4ipsgZ6WRf"
+       "ic": "Ro8L1NdDRDD1plsVL4ZfDxWZmLZAovihyW4JF5Qtaum_gb-xhCEQJRSLtLoXdilwlydxmvGyUk4ipsgZ6WRf",
+       "ios": 1591900675
       }
      ],
      "ll": [
@@ -58139,7 +58303,8 @@
      "ess": true,
      "src": "https://www.unis.no/facilities/operations-and-field/trip-planning-and-hazard-resources/",
      "pkg": "no.nve.regobs4",
-     "ic": "YeewMpIuPKP-EFz8trPNfY2PNBcmaWY07gglH8FR2kYT2JbGW_GtPh8v_u0T3Eb20ABN5BZPGpcu0DE7UMXexw"
+     "ic": "YeewMpIuPKP-EFz8trPNfY2PNBcmaWY07gglH8FR2kYT2JbGW_GtPh8v_u0T3Eb20ABN5BZPGpcu0DE7UMXexw",
+     "ios": 1450501601
     },
     {
      "name": "Norgeskart outdoors",
@@ -58161,7 +58326,8 @@
      "pkg": "no.avinor.avinorflights",
      "note": "Abflug, Gate, Sicherheitskontrolle und Gepäckband",
      "src": "https://www.avinor.no/en/practical-info/app",
-     "ic": "ldjoxryv659FpaGNPS80FP41_CK91aVKReQo-yUwAe2juPO3kDPhG4wY_Y9EIaU55GyQ-jxs0_BvIDi5-H_rqrM"
+     "ic": "ldjoxryv659FpaGNPS80FP41_CK91aVKReQo-yUwAe2juPO3kDPhG4wY_Y9EIaU55GyQ-jxs0_BvIDi5-H_rqrM",
+     "ios": 399221622
     },
     {
      "name": "Yr",
@@ -58194,7 +58360,8 @@
        "pkg": "no.lokalstyre.app",
        "note": "Gemeinde-App mit Flugzeiten und Lawinenwarnung",
        "src": "https://www.lokalstyre.no/engelsk/longyearbyen-local-council/services/resident-information/new-in-longyearbyen",
-       "ic": "hfaKVWdhDwVZCdcc40LW8-nUfRrpCbYR_yjAa62WnLhHKg3izUuEnqxnu_v82MNw0Fa0R2-fLGLYw-UhZUsbmQ"
+       "ic": "hfaKVWdhDwVZCdcc40LW8-nUfRrpCbYR_yjAa62WnLhHKg3izUuEnqxnu_v82MNw0Fa0R2-fLGLYw-UhZUsbmQ",
+       "ios": 6459448574
       },
       {
        "name": "Svalbard Audio",
@@ -58202,7 +58369,8 @@
        "pkg": "com.spitzbergenreisenas.svalbardaudio",
        "note": "Audioguide mit Karte für Longyearbyen von lokalem Anbieter",
        "src": "https://play.google.com/store/apps/details?id=com.spitzbergenreisenas.svalbardaudio&hl=en&gl=NO",
-       "ic": "GJ3Ql-oCPhp4HnZJKZOjWk8uNh4KVyAfdMxm70h8n0MCWSPnP3hMD9tPfhBI_e0E0cS_-hsxfZd_PORcBMKw"
+       "ic": "GJ3Ql-oCPhp4HnZJKZOjWk8uNh4KVyAfdMxm70h8n0MCWSPnP3hMD9tPfhBI_e0E0cS_-hsxfZd_PORcBMKw",
+       "ios": 6743669467
       }
      ],
      "ll": [
@@ -58312,7 +58480,8 @@
      "note": "Staatlicher Rufbus der AASS im ganzen Land",
      "ess": true,
      "src": "https://appgoblin.info/apps/com.shotl.smuvi",
-     "ic": "CY6LtF-QKyZ4H2pilEYhVnGJHGVwbic1gLPxEbYRmhcm05PUFzrA_Zegwu1TnsEDtL2qhgwuqHnpiw3DRlwTgQ"
+     "ic": "CY6LtF-QKyZ4H2pilEYhVnGJHGVwbic1gLPxEbYRmhcm05PUFzrA_Zegwu1TnsEDtL2qhgwuqHnpiw3DRlwTgQ",
+     "ios": 6754991869
     },
     {
      "name": "Livein.SM",
@@ -58358,7 +58527,8 @@
      "req": "Girokonto bei Banca di San Marino nötig",
      "src": "https://apps.apple.com/app/id977161425",
      "pkg": "com.aurigaspa.bsmmobile",
-     "ic": "dAErjFE3yxKLhnp-ZFsnC8tJHFJTB7a18hcqYWdjj9Di5a33mbVjuh7C0YDCDhT0vWg1UQOEYsZcSd_j9kaS5Q"
+     "ic": "dAErjFE3yxKLhnp-ZFsnC8tJHFJTB7a18hcqYWdjj9Di5a33mbVjuh7C0YDCDhT0vWg1UQOEYsZcSd_j9kaS5Q",
+     "ios": 977161425
     }
    ],
    "cities": [],
@@ -58498,7 +58668,8 @@
      "note": "Flüge buchen, Sitzplatz wählen und Bordkarte abrufen",
      "ess": true,
      "src": "https://www.virginaustralia.com/eu/en/travel-info/on-the-move/virgin-australia-app/",
-     "ic": "kYgsdIQDKIOmrvojrw32AxFT8UE2rPQ54WGyorHnpig-L-0vQtffgfqv0wju190U01hYgOqUJz-m1BBgfRW5eQ"
+     "ic": "kYgsdIQDKIOmrvojrw32AxFT8UE2rPQ54WGyorHnpig-L-0vQtffgfqv0wju190U01hYgOqUJz-m1BBgfRW5eQ",
+     "ios": 1060472593
     },
     {
      "name": "Qantas Airways",
@@ -58638,7 +58809,8 @@
      "req": "Anmeldung per Telefonnummer, ausländische Nummer unklar",
      "src": "https://apps.apple.com/app/id1447501346",
      "pkg": "iq.com.amin.karbala.client",
-     "ic": "1xJcZZ6Bw-nVBKthScpOqQuU74CHobsQi8xxdCJ0U9kGqoarivphlHqw_0YHy8ndpw0ggVGIa4ENF7yC8N_F5g"
+     "ic": "1xJcZZ6Bw-nVBKthScpOqQuU74CHobsQi8xxdCJ0U9kGqoarivphlHqw_0YHy8ndpw0ggVGIa4ENF7yC8N_F5g",
+     "ios": 1447501346
     },
     {
      "name": "Lezzoo",
@@ -58648,7 +58820,8 @@
      "use": "limited",
      "req": "Anmeldung laut Quelle nicht beschrieben",
      "src": "https://lezzoo.com/",
-     "ic": "01LsyHTugf8vF14wYt0o0E-vgqpfH00UtB7MjnnwtJJGrww8RgzB8_NL9DNYicG_jrautMTJC4scvfpDP1joKg"
+     "ic": "01LsyHTugf8vF14wYt0o0E-vgqpfH00UtB7MjnnwtJJGrww8RgzB8_NL9DNYicG_jrautMTJC4scvfpDP1joKg",
+     "ios": 1313894378
     },
     {
      "name": "talabat",
@@ -58678,7 +58851,8 @@
      "note": "Flüge der Nationalairline buchen, Zahlung per Karte",
      "src": "https://apps.apple.com/lt/app/iraqi-airways/id1455860304",
      "pkg": "aero.developer.iTravel.iraqiairways",
-     "ic": "2F_9uxlV5cNWIipDZ-pgkLVgHYoHXnbTIjNnVvx2eOze3mc0dR1p_RIlhUxxWuPmToOTdxzvvJ8u-LLqbThp6g"
+     "ic": "2F_9uxlV5cNWIipDZ-pgkLVgHYoHXnbTIjNnVvx2eOze3mc0dR1p_RIlhUxxWuPmToOTdxzvvJ8u-LLqbThp6g",
+     "ios": 1455860304
     },
     {
      "name": "First Iraqi Bank (FIB)",
@@ -58688,7 +58862,8 @@
      "req": "Ausweis nötig, ob ausländischer Pass reicht ist offen",
      "src": "https://fib.iq/en",
      "pkg": "com.firstiraqibank.personal",
-     "ic": "BzofwPzJamQoWAfxMNoNIZXbGYsCCnWTcjhpBqpjruSb0lwP9pjCc5tql1DG9xwqM66GuJ01FM7B3rVhHHx5aw"
+     "ic": "BzofwPzJamQoWAfxMNoNIZXbGYsCCnWTcjhpBqpjruSb0lwP9pjCc5tql1DG9xwqM66GuJ01FM7B3rVhHHx5aw",
+     "ios": 1545549339
     },
     {
      "name": "ZainCash",
@@ -58746,7 +58921,8 @@
        "note": "Abflüge und Ankünfte am Flughafen Erbil in Echtzeit",
        "src": "https://apps.apple.com/us/app/id6444721399",
        "pkg": "com.eia.eia",
-       "ic": "SYJd80JdY6LyuDSgR0Ig1VuS-H7yYJnJNNJeI1wNOhfVdBD2CaJWU-GJ-VWTSv67h-6sM8gamrjfMKWf8flT0Q"
+       "ic": "SYJd80JdY6LyuDSgR0Ig1VuS-H7yYJnJNNJeI1wNOhfVdBD2CaJWU-GJ-VWTSv67h-6sM8gamrjfMKWf8flT0Q",
+       "ios": 6444721399
       }
      ],
      "ll": [
@@ -58997,7 +59173,8 @@
      "ess": true,
      "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/kasachstansicherheit/206342",
      "pkg": "com.qazeta",
-     "ic": "EAe7pDxoQyBj_5XgPMt0X4GxTDTNmjir8ZOmMHC1ia43rUknYlZoWck7awJckq-GSDh9v0Q58kbh2OjjZ-1W"
+     "ic": "EAe7pDxoQyBj_5XgPMt0X4GxTDTNmjir8ZOmMHC1ia43rUknYlZoWck7awJckq-GSDh9v0Q58kbh2OjjZ-1W",
+     "ios": 6748705452
     },
     {
      "name": "Sicher Reisen",
@@ -59051,7 +59228,8 @@
      "pkg": "kz.chocofood.chocofoodapp",
      "note": "Lokaler Restaurantlieferdienst, meist Russisch",
      "src": "https://www.bento.travel/kazakhstan",
-     "ic": "_1GikXvpYQGlMuEQuKKT50vezDbKm5kQw_SP2MvmTsEaUq9kTvYh_ITF7pHhCNfyOe10O_UTl6xUE97kbaC-aDM"
+     "ic": "_1GikXvpYQGlMuEQuKKT50vezDbKm5kQw_SP2MvmTsEaUq9kTvYh_ITF7pHhCNfyOe10O_UTl6xUE97kbaC-aDM",
+     "ios": 1033887038
     },
     {
      "name": "2GIS",
@@ -59109,7 +59287,8 @@
      "req": "Kasachische IIN und Telefonnummer nötig",
      "src": "https://astanatimes.com/2025/04/how-foreign-citizens-can-get-bank-cards-in-kazakhstan/",
      "pkg": "kz.kaspi.mobile",
-     "ic": "XPRGdoE4SU2uK_L-vdR6Ab6_X4-6Vr4TFLDniHjX1tWlVe795uxV1MiJRFXZ0aTv9wMIiCHUKi4lnNOX74mwhxk"
+     "ic": "XPRGdoE4SU2uK_L-vdR6Ab6_X4-6Vr4TFLDniHjX1tWlVe795uxV1MiJRFXZ0aTv9wMIiCHUKi4lnNOX74mwhxk",
+     "ios": 1195076505
     },
     {
      "name": "Homebank",
@@ -59119,7 +59298,8 @@
      "use": "no",
      "req": "IIN, kasachische Nummer und Besuch in Filiale nötig",
      "src": "https://halykbank.kz/en/card/card-nerezident",
-     "ic": "-T-7UcrY4-1JLx20kA2YiA6bh6l4lkdnvUfsr5INGyhd787WkXGSqsa6Os4u5F1ZAseVaKOdQIORkvyRjUmoOw"
+     "ic": "-T-7UcrY4-1JLx20kA2YiA6bh6l4lkdnvUfsr5INGyhd787WkXGSqsa6Os4u5F1ZAseVaKOdQIORkvyRjUmoOw",
+     "ios": 440635615
     },
     {
      "name": "Jet",
@@ -59149,7 +59329,8 @@
      "note": "Register offizieller Guides und Routen",
      "src": "https://apps.apple.com/us/app/id1610058507",
      "pkg": "kazakhstan.travel",
-     "ic": "ISk7np5px6eGHSZ1POc2ME61UO_eXzZouZqY5aja-GKTzrRymzKSxa8CRe3AxvmxmxL-zrp8Gq3Ejic9aIy2EQ"
+     "ic": "ISk7np5px6eGHSZ1POc2ME61UO_eXzZouZqY5aja-GKTzrRymzKSxa8CRe3AxvmxmxL-zrp8Gq3Ejic9aIy2EQ",
+     "ios": 1610058507
     }
    ],
    "cities": [
@@ -59167,7 +59348,8 @@
        "use": "limited",
        "req": "Ausländische Karten oft abgelehnt, sonst Onay-Karte kaufen",
        "src": "https://www.bento.travel/kazakhstan",
-       "ic": "cc4zqsxmkIgZA9JZ5LDhqlGP79kr6o25ZhCKEuzHNF8xFA0iyn_6EugsSDxZHoXSQpmtn9JeaPmeKVeSqz-h"
+       "ic": "cc4zqsxmkIgZA9JZ5LDhqlGP79kr6o25ZhCKEuzHNF8xFA0iyn_6EugsSDxZHoXSQpmtn9JeaPmeKVeSqz-h",
+       "ios": 1267862149
       },
       {
        "name": "Anytime",
@@ -59187,13 +59369,15 @@
        "req": "Anmeldung laut Quelle nicht beschrieben",
        "src": "https://apps.apple.com/us/app/%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D0%BA%D0%B8-%D0%B0%D0%BB%D0%BC%D0%B0%D1%82%D1%8B/id6451193990?uo=4",
        "pkg": "ru.im.parking.almaty",
-       "ic": "9_cj0PerWOzJ31J7cGH2J4p5i5Kz1ZFZ125hivP4k1TohdkEZoyaZJip_-Te1XSkS6na3op_uOG2uFCyeisXmQ"
+       "ic": "9_cj0PerWOzJ31J7cGH2J4p5i5Kz1ZFZ125hivP4k1TohdkEZoyaZJip_-Te1XSkS6na3op_uOG2uFCyeisXmQ",
+       "ios": 6451193990
       },
       {
        "name": "Almaty Region Travel",
        "cat": "tourism",
        "note": "Reiseführer für das Gebiet Almaty, auf Englisch",
-       "src": "https://apps.apple.com/us/app/id6461822030"
+       "src": "https://apps.apple.com/us/app/id6461822030",
+       "ios": 6461822030
       }
      ],
      "ll": [
@@ -59318,7 +59502,8 @@
      "note": "Fährbuchung und digitale Bordkarte, Fähren halten in Mariehamn",
      "src": "https://sourceforge.net/app/viking-line/android/",
      "pkg": "com.vikingline.owapp",
-     "ic": "ym9BnDoPy8gCcVdwK42O2IPHfWzZ0p-nlz_v5ZCFekAeNmuJpfOinVQNJhlGwlAUgkIX_TbE3vVFTZesRJLBGQ"
+     "ic": "ym9BnDoPy8gCcVdwK42O2IPHfWzZ0p-nlz_v5ZCFekAeNmuJpfOinVQNJhlGwlAUgkIX_TbE3vVFTZesRJLBGQ",
+     "ios": 954827314
     },
     {
      "name": "Matkahuolto Matkat",
@@ -59342,7 +59527,8 @@
      "pkg": "com.tallink.mikiandroid",
      "note": "Fähren von Helsinki und Turku nach Stockholm über Åland",
      "src": "https://www.tallink.com/travelling/one-way/aland-ferry",
-     "ic": "aGUum3_xDEqYFDGlhemyp76GDrpwR10ttJXPM7meZLdomexrc9zXF3AOqac-xelLCdGLa8uNpZZdegtx4wJ4qQ"
+     "ic": "aGUum3_xDEqYFDGlhemyp76GDrpwR10ttJXPM7meZLdomexrc9zXF3AOqac-xelLCdGLa8uNpZZdegtx4wJ4qQ",
+     "ios": 1107519850
     }
    ],
    "cities": [
@@ -59358,7 +59544,8 @@
        "note": "Taxi in Mariehamn sofort oder vorab bestellen",
        "src": "https://apps.apple.com/fi/app/mariehamn-taxi/id1600054379",
        "pkg": "se.mariehamn.bookingapp",
-       "ic": "k_DOKoW4dLr1h8JWEA1czdsLO0GrT5JuIJpbw8TOGSE5S5Tj96MfMIr-aClTf_JcIKgkxPRhHDB_4xbJwgOuZQ"
+       "ic": "k_DOKoW4dLr1h8JWEA1czdsLO0GrT5JuIJpbw8TOGSE5S5Tj96MfMIr-aClTf_JcIKgkxPRhHDB_4xbJwgOuZQ",
+       "ios": 1600054379
       },
       {
        "name": "Wolt",
@@ -59589,7 +59776,8 @@
      "req": "Zahlungsarten laut Quelle unklar, Karte vorab testen",
      "src": "https://apps.apple.com/af/app/railway-kg/id6502640387",
      "pkg": "kg.railway.ticket",
-     "ic": "ywgPvxyuJuSYAisSb03HO0ON4DkKtUI_llx1G5TMv32pj1iYfO3G4QP3rf7RSlqR-RuW_8VRLhyjn-5EF9hT"
+     "ic": "ywgPvxyuJuSYAisSb03HO0ON4DkKtUI_llx1G5TMv32pj1iYfO3G4QP3rf7RSlqR-RuW_8VRLhyjn-5EF9hT",
+     "ios": 6502640387
     },
     {
      "name": "MBANK",
@@ -59599,7 +59787,8 @@
      "req": "Kirgisisches Bankkonto nötig, Eröffnung mit Pass vor Ort",
      "src": "https://mbank.kg/en/mbank",
      "pkg": "com.maanavan.mb_kyrgyzstan",
-     "ic": "1TQzAUDQNWJYtuQFV8xujBqhibfcjyDPJibDTrPW8w6YE3e2rZ_N1BWJfpPYIAjcdiHnHTAkAywqNMhDw75iZ9k"
+     "ic": "1TQzAUDQNWJYtuQFV8xujBqhibfcjyDPJibDTrPW8w6YE3e2rZ_N1BWJfpPYIAjcdiHnHTAkAywqNMhDw75iZ9k",
+     "ios": 922922121
     }
    ],
    "cities": [
@@ -59615,7 +59804,8 @@
        "note": "Taxi in Bischkek mit Festpreisen",
        "use": "limited",
        "req": "Anmeldung laut Quelle nicht beschrieben",
-       "src": "https://weproject.media/en/articles/detail/a-guide-to-public-transport-in-bishkek-prices-and-useful-apps/?amp=y"
+       "src": "https://weproject.media/en/articles/detail/a-guide-to-public-transport-in-bishkek-prices-and-useful-apps/?amp=y",
+       "ios": 1585148582
       },
       {
        "name": "Tulpar",
@@ -59635,7 +59825,8 @@
        "req": "Zahlungsarten und Anmeldung laut Quelle unklar",
        "src": "https://economist.kg/transport/2026/06/22/kak-oplatit-parkovku-v-bishkeke-onlain-meriia-zapustila-novuiu-funktsiiu-v-moi-gorod/",
        "pkg": "kg.cdt.townsman",
-       "ic": "szROV6sHNcOOMBWkVpKvAdiiaX4t1XGPeapXqV_hVWy0CSMfE0ybPXY9iIT9P2w0Z6_dWs3ENQENf68CfUT5-Q"
+       "ic": "szROV6sHNcOOMBWkVpKvAdiiaX4t1XGPeapXqV_hVWy0CSMfE0ybPXY9iIT9P2w0Z6_dWs3ENQENf68CfUT5-Q",
+       "ios": 1666753278
       },
       {
        "name": "SunRent",
@@ -59645,7 +59836,8 @@
        "use": "limited",
        "req": "Ab 18 Jahren, Zahlung in der App nötig",
        "src": "https://kaktus.media/doc/528000_elektrosamokaty_v_bishkeke._kak_mikromobilnost_delaet_gorod_ydobnee_i_ekologichnee.html",
-       "ic": "oNDcn_--aih6Q3ssCx-IWwpZ3w6jZb1EOtE1bsmKzLHds44mr_NbgRTlzzSoZM7EFAHrmaS7lj05UC41FmlXkgw"
+       "ic": "oNDcn_--aih6Q3ssCx-IWwpZ3w6jZb1EOtE1bsmKzLHds44mr_NbgRTlzzSoZM7EFAHrmaS7lj05UC41FmlXkgw",
+       "ios": 1534414487
       }
      ],
      "ll": [
@@ -59717,7 +59909,8 @@
      "pkg": "com.toters.customer",
      "note": "Größter lokaler Lieferdienst für Essen und Einkäufe",
      "src": "https://appgoblin.info/apps/com.toters.customer",
-     "ic": "YatRBFK98VKWfJ_bbZLVV2B52v6ttTGAsNz-KSfX5q8F1lexDUXegZQTnJRiFtRIC4GNCZ4s0TBnnj0IGGCxbQ"
+     "ic": "YatRBFK98VKWfJ_bbZLVV2B52v6ttTGAsNz-KSfX5q8F1lexDUXegZQTnJRiFtRIC4GNCZ4s0TBnnj0IGGCxbQ",
+     "ios": 1015006220
     },
     {
      "name": "noknok",
@@ -59725,7 +59918,8 @@
      "note": "Schnelle Lieferung von Lebensmitteln",
      "src": "https://sensortower.com/blog/2025-q2-ios-top-5-food%20delivery%20services-units-lb-63da96fbe1714cfff1c1e5a1",
      "pkg": "co.noknok",
-     "ic": "_HYCLjDT_ESuc425HH9UYsoF1jD5_PB5xkRWaJPg_pe-JxPD3EtZIosie1oLEeiAt5V5f3h0JYjUhk2fpNKvjQ"
+     "ic": "_HYCLjDT_ESuc425HH9UYsoF1jD5_PB5xkRWaJPg_pe-JxPD3EtZIosie1oLEeiAt5V5f3h0JYjUhk2fpNKvjQ",
+     "ios": 1360852720
     },
     {
      "name": "ACTC PT",
@@ -59739,7 +59933,8 @@
      "name": "Ministry of Tourism Lebanon",
      "cat": "tourism",
      "note": "Offizielle App mit Sehenswürdigkeiten und KI-Assistent",
-     "src": "https://today.lorientlejour.com/article/1473346/ministry-of-tourism-launches-its-smart-tourism-app.html"
+     "src": "https://today.lorientlejour.com/article/1473346/ministry-of-tourism-launches-its-smart-tourism-app.html",
+     "ios": 6749478316
     },
     {
      "name": "Whish Money",
@@ -59749,7 +59944,8 @@
      "req": "Identitätsprüfung mit Pass oder Ausweis nötig, Bargeld bleibt üblich",
      "src": "https://whish.money/termsconditions",
      "pkg": "money.whish.android",
-     "ic": "qZiyebWpkluyt3azous2SEefmfG34ELOfJ45-ZeL7_KMzyaHaJLhk7_mSUgaExk8VjPjn4yUvtRp0EXXYk2j"
+     "ic": "qZiyebWpkluyt3azous2SEefmfG34ELOfJ45-ZeL7_KMzyaHaJLhk7_mSUgaExk8VjPjn4yUvtRp0EXXYk2j",
+     "ios": 1284243483
     },
     {
      "name": "Grindr",
@@ -59843,7 +60039,8 @@
      "use": "no",
      "req": "Mongolische Telefonnummer nötig, Zahlung nur bar",
      "src": "https://meanwhileinmongolia.com/how-to-get-a-taxi-ulaanbaatar/",
-     "ic": "PtWdE9YJZOz7LZaFwJgDRNky-EjQiSkVBTfwOHF2jTWjlbV79WuiZwi52TYz6NEJ5TM8r2FTAspjveZfyrDwHg"
+     "ic": "PtWdE9YJZOz7LZaFwJgDRNky-EjQiSkVBTfwOHF2jTWjlbV79WuiZwi52TYz6NEJ5TM8r2FTAspjveZfyrDwHg",
+     "ios": 863109199
     },
     {
      "name": "Toki",
@@ -59853,7 +60050,8 @@
      "req": "QR-Zahlungen sind für Ausländer meist nur eingeschränkt nutzbar",
      "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar",
      "pkg": "com.toki.mn",
-     "ic": "XeKEihFidYCP5G2q6EwJ9_TcZogx53ZY3yfxD6LYLxdbOMEysxLNk0rzjrMrCvrqI8iq99_dmzNjVoyAPKHX9Q"
+     "ic": "XeKEihFidYCP5G2q6EwJ9_TcZogx53ZY3yfxD6LYLxdbOMEysxLNk0rzjrMrCvrqI8iq99_dmzNjVoyAPKHX9Q",
+     "ios": 1504679492
     },
     {
      "name": "MAPS.ME",
@@ -59869,7 +60067,8 @@
      "note": "Flüge, Hotels und Transport buchen",
      "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar",
      "pkg": "com.tapatrip",
-     "ic": "2eucdgQ7rRR3whc_eqmP_4-rO23czoYzN6lH2B3iYgvsfvuYp1nxBmLDGd0ITmN6HJVB__pLxwMNjZq58X5s5g0"
+     "ic": "2eucdgQ7rRR3whc_eqmP_4-rO23czoYzN6lH2B3iYgvsfvuYp1nxBmLDGd0ITmN6HJVB__pLxwMNjZq58X5s5g0",
+     "ios": 1563199559
     }
    ],
    "cities": [
@@ -59887,7 +60086,8 @@
        "req": "Bestätigungs-SMS vorab testen",
        "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar",
        "pkg": "mn.mezorn.ubeats.customer",
-       "ic": "0_Xq9xqH7tdeSi4Ff_yU7ChwBIvJqtH4TFAaCSHNa61VKV0Jj4bF0ldr7Mig1MmQBcz7lLgqgYrMd4g4R2UBCA"
+       "ic": "0_Xq9xqH7tdeSi4Ff_yU7ChwBIvJqtH4TFAaCSHNa61VKV0Jj4bF0ldr7Mig1MmQBcz7lLgqgYrMd4g4R2UBCA",
+       "ios": 1599437795
       },
       {
        "name": "TokTok Delivery",
@@ -59897,7 +60097,8 @@
        "req": "Zahlung über Bank oder E-Payment, ausländische Karte unsicher",
        "src": "https://apps.apple.com/us/app/id1450600616",
        "pkg": "com.digitalaggregator.toktok",
-       "ic": "ZprIszue_UuCvTP2uYdYArnh8pETh0b2B07NrMxt36rlb4XGG2HJCcrGl4COmCOZPDtcGP41Jynx8lrMiYqgTQ"
+       "ic": "ZprIszue_UuCvTP2uYdYArnh8pETh0b2B07NrMxt36rlb4XGG2HJCcrGl4COmCOZPDtcGP41Jynx8lrMiYqgTQ",
+       "ios": 1450600616
       },
       {
        "name": "UB Smart Bus",
@@ -59906,7 +60107,8 @@
        "ess": true,
        "src": "https://apps.apple.com/us/app/ub-smart-bus/id1076088335",
        "pkg": "com.uscc.ubbus",
-       "ic": "5LZKd3FbB0qX7xWr2QUN63OY-ZpWtNvaEzuHQ46rNderEi-Xx7_IOJLtKyAQkcNl_y3UbMOj9t9r1msWjPmd0A"
+       "ic": "5LZKd3FbB0qX7xWr2QUN63OY-ZpWtNvaEzuHQ46rNderEi-Xx7_IOJLtKyAQkcNl_y3UbMOj9t9r1msWjPmd0A",
+       "ios": 1076088335
       },
       {
        "name": "U money",
@@ -59916,7 +60118,8 @@
        "req": "U-Money-Karte am Kiosk kaufen, im Bus geht auch Visa oder Mastercard",
        "src": "https://www.jarniascyril.com/expatriation/moving-to-mongolia-as-an-expat-complete-guide/public-transport-mongolia-practical-guide/",
        "pkg": "mn.uscc.umoney",
-       "ic": "AEACHV8OOPtyrbeHOrWYbtPPag-iI6fLM3t8UJ6aDGOvERkifzk80oIOj-OWd73KnFA6KwJ0A7HGBcdhp6V1DQ"
+       "ic": "AEACHV8OOPtyrbeHOrWYbtPPag-iI6fLM3t8UJ6aDGOvERkifzk80oIOj-OWd73KnFA6KwJ0A7HGBcdhp6V1DQ",
+       "ios": 1492855038
       },
       {
        "name": "JET",
@@ -59935,7 +60138,8 @@
        "note": "Leih-E-Bikes in Ulaanbaatar",
        "use": "limited",
        "req": "Registrierung und Zahlung laut Quelle nicht beschrieben",
-       "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar"
+       "src": "https://www.discovermongolia.mn/blogs/what-apps-do-you-need-in-ulaanbaatar",
+       "ios": 6746634256
       },
       {
        "name": "SIXT",
@@ -60132,7 +60336,8 @@
      "pkg": "mo.gov.marine.MacaoSailings",
      "note": "Offizielle Fährzeiten und Seewetter",
      "src": "https://www.bento.travel/macau",
-     "ic": "_-InU6KcxOyXzxzQyATCY1HoVwvi5b4Vv4zS5T6zJpn5Zz7pHGhD0pFEkFf4MFLLNXIL-KXdh3UfEhO4AC1pvw"
+     "ic": "_-InU6KcxOyXzxzQyATCY1HoVwvi5b4Vv4zS5T6zJpn5Zz7pHGhD0pFEkFf4MFLLNXIL-KXdh3UfEhO4AC1pvw",
+     "ios": 645971390
     },
     {
      "name": "Macao Civil Protection Info",
@@ -60141,7 +60346,8 @@
      "note": "Offizielle Warnungen und Notunterkünfte",
      "ess": true,
      "src": "https://www.bento.travel/macau",
-     "ic": "XVlbadFDvTn4gle_NmS53fsUFbBT9xg2Hsz9gEuWMOmZN3iQ2XakPfzmD6_yoslrNpZPJ7UatJ30aXInJ1vDgA"
+     "ic": "XVlbadFDvTn4gle_NmS53fsUFbBT9xg2Hsz9gEuWMOmZN3iQ2XakPfzmD6_yoslrNpZPJ7UatJ30aXInJ1vDgA",
+     "ios": 1455452078
     },
     {
      "name": "Macao Weather",
@@ -60149,7 +60355,8 @@
      "pkg": "mo.gov.dsmg.weather",
      "note": "Amtliches Wetter und Taifunwarnungen",
      "src": "https://www.bento.travel/macau",
-     "ic": "AIMXb4wQYB846Kqo6-uPhJrtpkupvoId432n1t0aQLxCTv8uAwAEe6RLYpjVRXNsNQZFJOGu2DgRrTSHxdSe"
+     "ic": "AIMXb4wQYB846Kqo6-uPhJrtpkupvoId432n1t0aQLxCTv8uAwAEe6RLYpjVRXNsNQZFJOGu2DgRrTSHxdSe",
+     "ios": 6752240865
     },
     {
      "name": "MPay",
@@ -60159,7 +60366,8 @@
      "req": "Für Einwohner gedacht, für Kurzbesuch nicht empfohlen",
      "src": "https://www.bento.travel/macau/payments",
      "pkg": "com.macaupass.rechargeEasy",
-     "ic": "_s5W3XTGX_cR6osmb6z72upWVCq3wMnM4zla7_XTVYtVRlE8J8VGmg18yuLexRglwJVMtI69ryX4ko5QDw3ysA"
+     "ic": "_s5W3XTGX_cR6osmb6z72upWVCq3wMnM4zla7_XTVYtVRlE8J8VGmg18yuLexRglwJVMtI69ryX4ko5QDw3ysA",
+     "ios": 1092594338
     },
     {
      "name": "Alipay",
@@ -60185,7 +60393,8 @@
        "pkg": "mo.gov.macaotourism.expmacao",
        "note": "Offizielle App des Tourismusamts, offline nutzbar",
        "src": "https://www.bento.travel/macau",
-       "ic": "fOC-rbutPDM05G16nQj536br4-B2ddtUubSrDHzhtqI-dOiyFkPq85VRWzCBtlmSu83F_np_yVLXGJn8DRa25Q"
+       "ic": "fOC-rbutPDM05G16nQj536br4-B2ddtUubSrDHzhtqI-dOiyFkPq85VRWzCBtlmSu83F_np_yVLXGJn8DRa25Q",
+       "ios": 542332430
       },
       {
        "name": "Bus Traveling System",
@@ -60194,7 +60403,8 @@
        "note": "Offizielle Bus-App mit Haltestellen und Ankunftszeiten",
        "ess": true,
        "src": "https://www.bento.travel/macau",
-       "ic": "bMFlmD2_YG4Y6FYNXNvr4TcC8XxFofKvM_YfUWyXnMZkHw6E1PmTFkIINdKYenVWcSSTdpqaBBxRyK3EswQu4w"
+       "ic": "bMFlmD2_YG4Y6FYNXNvr4TcC8XxFofKvM_YfUWyXnMZkHw6E1PmTFkIINdKYenVWcSSTdpqaBBxRyK3EswQu4w",
+       "ios": 1122920020
       },
       {
        "name": "Macao Smart Go",
@@ -60202,7 +60412,8 @@
        "pkg": "mo.gov.dsat.dis.travel",
        "note": "Verkehrsplaner der Verkehrsbehörde DSAT",
        "src": "https://www.bento.travel/macau",
-       "ic": "lNqsoC1h-tRCjsZO7K56NIQQrYPCOE5kWryaTn6vYTCAYTnHF6Fs0rUfS24Xo-75mdhbT5mZomiCtfiBEnJSzA"
+       "ic": "lNqsoC1h-tRCjsZO7K56NIQQrYPCOE5kWryaTn6vYTCAYTnHF6Fs0rUfS24Xo-75mdhbT5mZomiCtfiBEnJSzA",
+       "ios": 1599029366
       }
      ],
      "ll": [
@@ -60297,7 +60508,8 @@
      "req": "Lokale Telefonnummer und Registrierung als Ausländer nötig",
      "src": "https://www.bento.travel/myanmar/payments",
      "pkg": "mm.com.wavemoney.wavepay",
-     "ic": "uxB0rAW_ij7_WrhnBp2HGjE9h0sX10ZPTi9CNyxKMfUoiSzNO2vjwubGShVRWozYfGuJc_4g5ZN5weYOeUiSQOM"
+     "ic": "uxB0rAW_ij7_WrhnBp2HGjE9h0sX10ZPTi9CNyxKMfUoiSzNO2vjwubGShVRWozYfGuJc_4g5ZN5weYOeUiSQOM",
+     "ios": 1439175549
     },
     {
      "name": "foodpanda",
@@ -60316,7 +60528,8 @@
      "note": "Inlandsflüge, Fernbusse und Hotels buchen",
      "ess": true,
      "src": "https://apps.apple.com/app/id1314252839",
-     "ic": "FZE01Rl0NfDRYSazNcQfj-Y3K_LKh_KuMlA7XLM5oHHuzkhFfU_SOkOt-3yQrrr31JV4S4Y9V2CgfWybskJbMA"
+     "ic": "FZE01Rl0NfDRYSazNcQfj-Y3K_LKh_KuMlA7XLM5oHHuzkhFfU_SOkOt-3yQrrr31JV4S4Y9V2CgfWybskJbMA",
+     "ios": 1314252839
     },
     {
      "name": "ORTP Myanma Railways",
@@ -60340,7 +60553,8 @@
      "req": "Deutscher und internationaler Führerschein nicht anerkannt",
      "src": "https://apps.apple.com/app/id1607268398",
      "pkg": "com.yomafleet.carshare",
-     "ic": "Lwl-4rLUnwSUa2UMlQQTC9ewWUjXwt8fY6BevYgQzqbu7dPaR3zoLtaslX3ohHY9nMhvb74crPBz7_HOiCUsFvk"
+     "ic": "Lwl-4rLUnwSUa2UMlQQTC9ewWUjXwt8fY6BevYgQzqbu7dPaR3zoLtaslX3ohHY9nMhvb74crPBz7_HOiCUsFvk",
+     "ios": 1607268398
     },
     {
      "name": "Viber",
@@ -60368,7 +60582,8 @@
      "note": "Offizielle Wetter- und Warn-App mit Flusspegeln",
      "ess": true,
      "src": "https://www.bento.travel/myanmar",
-     "ic": "kfdM6KaqqT-6uMM5ZVY5ug2AZIArx2xKMN05_otKfcjE_2gWEv0x3uEYva9eh6qHFLmTTFfNE90UyWk9sXHq"
+     "ic": "kfdM6KaqqT-6uMM5ZVY5ug2AZIArx2xKMN05_otKfcjE_2gWEv0x3uEYva9eh6qHFLmTTFfNE90UyWk9sXHq",
+     "ios": 6757119836
     }
    ],
    "cities": [
@@ -60395,7 +60610,8 @@
        "pkg": "com.linndev.easyybs",
        "note": "Busrouten und Haltestellen in Yangon",
        "src": "https://www.bento.travel/myanmar",
-       "ic": "jnOmopipOAkbUWz5-pmgjGxMPYBzuNKpWSm415vqnnC_NRoesaDkCzn3uFwrlrJNU0sq0oDjbFARTwQgbrH_"
+       "ic": "jnOmopipOAkbUWz5-pmgjGxMPYBzuNKpWSm415vqnnC_NRoesaDkCzn3uFwrlrJNU0sq0oDjbFARTwQgbrH_",
+       "ios": 6761450364
       },
       {
        "name": "GoBee",
@@ -60405,7 +60621,8 @@
        "use": "limited",
        "req": "Registrierung laut Quelle unklar, Zahlung bar in Kyat",
        "src": "https://cacataxi.com/",
-       "ic": "wNoc5qBgUMmvuXtN_75vsqrd5vVDZb64ZVcPUaI6pd5ULU7YNa9Zfh_SCq7Na8Sm6rxKW9AovRASLEMzUyRpCcE"
+       "ic": "wNoc5qBgUMmvuXtN_75vsqrd5vVDZb64ZVcPUaI6pd5ULU7YNa9Zfh_SCq7Na8Sm6rxKW9AovRASLEMzUyRpCcE",
+       "ios": 6781310094
       }
      ],
      "ll": [
@@ -60500,7 +60717,8 @@
      "use": "limited",
      "req": "Telefonnummer mit SMS-Empfang zur Anmeldung nötig",
      "src": "https://www.bento.travel/pakistan/ride-hailing",
-     "ic": "tga7xvhO81N9IQoF3nz1EkbVV7Cq0grqdiUTxNMEmJTVBJHveqKuwXmoQ2Cbl8FrhB6op2K90l652RCkA3hA"
+     "ic": "tga7xvhO81N9IQoF3nz1EkbVV7Cq0grqdiUTxNMEmJTVBJHveqKuwXmoQ2Cbl8FrhB6op2K90l652RCkA3hA",
+     "ios": 1351179184
     },
     {
      "name": "foodpanda",
@@ -60531,7 +60749,8 @@
      "req": "Pakistanischer Ausweis (CNIC) und lokale SIM nötig",
      "src": "https://www.bento.travel/pakistan/payments",
      "pkg": "pk.com.telenor.phoenix",
-     "ic": "NpYySXJS_VNGjzmNY8hrkyjRb9snboxwELc0WxBuRNi4YwN-lgc2cQqo57AwBUUI1Fd_sh5N1A8j28WkBAIHOw"
+     "ic": "NpYySXJS_VNGjzmNY8hrkyjRb9snboxwELc0WxBuRNi4YwN-lgc2cQqo57AwBUUI1Fd_sh5N1A8j28WkBAIHOw",
+     "ios": 1227725092
     },
     {
      "name": "RABTA",
@@ -60541,7 +60760,8 @@
      "req": "Laut Nutzerbewertung CNIC je Fahrgast nötig",
      "src": "https://apps.apple.com/pk/app/rabta/id6446243993",
      "pkg": "com.easyway.ticket.app",
-     "ic": "z04j_qT0B8B05TPwGlW5DzE83ch_4aHVVyWtY6AL4WEJ7mE_-PfgdbJZly5k-n_4QPEwxHlSpA9PFXmnAt1m8w"
+     "ic": "z04j_qT0B8B05TPwGlW5DzE83ch_4aHVVyWtY6AL4WEJ7mE_-PfgdbJZly5k-n_4QPEwxHlSpA9PFXmnAt1m8w",
+     "ios": 6446243993
     },
     {
      "name": "Grindr",
@@ -60560,7 +60780,8 @@
      "pkg": "com.macropaks.bookme",
      "note": "Busse, Flüge und Züge vergleichen und buchen",
      "src": "https://www.bento.travel/pakistan",
-     "ic": "9B-muciMGGQ1XbLqe_0l2bGtslT1npvFaqMj-2Xb00FlFByEEMENvIEI6hni8EDUdinsNPxCroLIKIi9NUIKFA"
+     "ic": "9B-muciMGGQ1XbLqe_0l2bGtslT1npvFaqMj-2Xb00FlFByEEMENvIEI6hni8EDUdinsNPxCroLIKIi9NUIKFA",
+     "ios": 1210023165
     },
     {
      "name": "PAK NDMA-Disaster Alert",
@@ -60568,7 +60789,8 @@
      "pkg": "com.mobileapp.ndmaalert",
      "note": "Offizielle Katastrophenwarnungen und Notrufnummern",
      "src": "https://www.bento.travel/pakistan",
-     "ic": "9dZSXRAn3Ak29kwsGqkyXe1d6x9G5cd5BMA5X5L-FCgjDAfdJht4UUlaCTdajyzJcnL6qgrrP_da2tZv82cE1Q"
+     "ic": "9dZSXRAn3Ak29kwsGqkyXe1d6x9G5cd5BMA5X5L-FCgjDAfdJht4UUlaCTdajyzJcnL6qgrrP_da2tZv82cE1Q",
+     "ios": 6503601052
     }
    ],
    "cities": [
@@ -60613,7 +60835,8 @@
        "note": "Routen, Fahrpreise und Busse live verfolgen",
        "use": "limited",
        "req": "Registrierung laut Quelle unklar, Zahlung per QR oder Karte",
-       "src": "https://arynews.tv/peoples-bus-service-mobile-app-all-you-need-to-know"
+       "src": "https://arynews.tv/peoples-bus-service-mobile-app-all-you-need-to-know",
+       "ios": 6446080918
       }
      ],
      "ll": [
@@ -60635,7 +60858,8 @@
        "req": "Kontofunktionen mit Identitätsprüfung, Fahrt auch mit T-Cash-Karte",
        "src": "https://apps.apple.com/us/app/id1638285980",
        "pkg": "pk.pitb.punjab.masstransit.punjab_masstransit_authority",
-       "ic": "aknlgZSJHjiSWUCaVcy7I40SRB7Ea-RHiUR6mRB1vbsp2qlDi1XhauQLgmj3hpgwWRppqXLIXuIzUx_XQvmQ5g"
+       "ic": "aknlgZSJHjiSWUCaVcy7I40SRB7Ea-RHiUR6mRB1vbsp2qlDi1XhauQLgmj3hpgwWRppqXLIXuIzUx_XQvmQ5g",
+       "ios": 1638285980
       },
       {
        "name": "Avis",
@@ -60666,7 +60890,8 @@
        "note": "Busrouten, Live-Busse und Zu-Karte des BRT",
        "src": "https://www.bento.travel/pakistan/transit",
        "pkg": "com.lmkt.zupeshawar",
-       "ic": "Y9CymFUvEipzlAg0onsTE-b2rrL810oPYN4tAyLP0CglseonX8RSd-gL8_3ZX7Ie97BS0dWiQdUWjvrZEsW-KQ"
+       "ic": "Y9CymFUvEipzlAg0onsTE-b2rrL810oPYN4tAyLP0CglseonX8RSd-gL8_3ZX7Ie97BS0dWiQdUWjvrZEsW-KQ",
+       "ios": 1532389509
       }
      ],
      "ll": [
@@ -60728,7 +60953,8 @@
      "name": "Red Alert",
      "cat": "safety",
      "note": "Warnt vor Raketenalarm, vom Auswärtigen Amt genannt",
-     "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674"
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/palaestinensischegebiete-node/palaestinensischegebietesicherheit-203674",
+     "ios": 873642097
     },
     {
      "name": "Careem",
@@ -60747,7 +60973,8 @@
      "note": "Lieferdienst für Essen und Einkäufe im Westjordanland",
      "src": "https://apps.apple.com/us/app/id1448247070",
      "pkg": "app.yummy.ps",
-     "ic": "XVPNEWK5-7KKPNhO2uE1PrANj2J4xptohLlSGubPuWh0zKKE6yMKnLvwKemupEZnLWy07OisghRHt8uW2Uu0vKI"
+     "ic": "XVPNEWK5-7KKPNhO2uE1PrANj2J4xptohLlSGubPuWh0zKKE6yMKnLvwKemupEZnLWy07OisghRHt8uW2Uu0vKI",
+     "ios": 1448247070
     },
     {
      "name": "Wheels NOW",
@@ -60757,7 +60984,8 @@
      "use": "limited",
      "req": "Registrierung und Zahlung in der Quelle nicht beschrieben",
      "src": "https://play.google.com/store/apps/details?id=ps.wheels.delivery.order&hl=en&gl=PS",
-     "ic": "MHJN6CCbP5PE8qltsyqpxQrYSVY5uDx57DWMPLhSIDFE52kUY5nxHu-cxsuB7MpfYGlUY3oVqJKmC2QouSM8kw"
+     "ic": "MHJN6CCbP5PE8qltsyqpxQrYSVY5uDx57DWMPLhSIDFE52kUY5nxHu-cxsuB7MpfYGlUY3oVqJKmC2QouSM8kw",
+     "ios": 6443635919
     },
     {
      "name": "Moovit",
@@ -60782,7 +61010,8 @@
        "note": "Sehenswürdigkeiten, Öffnungszeiten und Hotels in Bethlehem",
        "src": "https://apps.apple.com/us/app/bethlehem-gate/id1644048648",
        "pkg": "com.intertech.bethlehem",
-       "ic": "CMMzWXtrCYardmCXl0SjrirooSUyfnhwubsDxX5UrPPnqLD9xpmEMFPUPOGVXhe9ja_SPc_s0q0CGEen0IKOrQ"
+       "ic": "CMMzWXtrCYardmCXl0SjrirooSUyfnhwubsDxX5UrPPnqLD9xpmEMFPUPOGVXhe9ja_SPc_s0q0CGEen0IKOrQ",
+       "ios": 1644048648
       }
      ],
      "ll": [
@@ -60802,7 +61031,8 @@
        "pkg": "com.intertech.visitramallah",
        "note": "Sehenswertes, Wanderwege und Kultur in Ramallah",
        "src": "https://play.google.com/store/apps/details?id=com.intertech.visitramallah&hl=en&gl=US",
-       "ic": "sQGT4jweYAIzuXaIr1N1wDcWriBkBQb64gMlA-9eOSBOkpqEnl5Au-JixQ7DdNRJ2wO44-CWmTfRbDg1iVp_"
+       "ic": "sQGT4jweYAIzuXaIr1N1wDcWriBkBQb64gMlA-9eOSBOkpqEnl5Au-JixQ7DdNRJ2wO44-CWmTfRbDg1iVp_",
+       "ios": 6786296151
       },
       {
        "name": "Ramallah Municipality",
@@ -60810,7 +61040,8 @@
        "pkg": "app.intertech.ramallah",
        "note": "Stadtinfos, Veranstaltungen und Kontakt der Stadt Ramallah",
        "src": "https://play.google.com/store/apps/details?id=app.intertech.ramallah&hl=en&gl=PS",
-       "ic": "uxeB5nuN_NONeuMOMdq5EqHEKVn47FuNLGTxLEUQ3mPmalJMHj8wAo6MvOSz50DkSfPdfNITziQWosH3J8CB"
+       "ic": "uxeB5nuN_NONeuMOMdq5EqHEKVn47FuNLGTxLEUQ3mPmalJMHj8wAo6MvOSz50DkSfPdfNITziQWosH3J8CB",
+       "ios": 1387280385
       }
      ],
      "ll": [
@@ -60887,7 +61118,8 @@
      "use": "no",
      "req": "Syrische Telefonnummer nötig, Zahlung bar in Pfund",
      "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride",
-     "ic": "6dKCJTWfRJFQ-5JAoVIoB-JajTXRobJvuJKM_TOWr_WA3QxzJ9lW0k3ZlEAICERmcAF-j6YCyKgqWXNmydG5TA"
+     "ic": "6dKCJTWfRJFQ-5JAoVIoB-JajTXRobJvuJKM_TOWr_WA3QxzJ9lW0k3ZlEAICERmcAF-j6YCyKgqWXNmydG5TA",
+     "ios": 1455221348
     },
     {
      "name": "YallaGo Pro",
@@ -60907,7 +61139,8 @@
      "use": "limited",
      "req": "Registrierung mit ausländischer Nummer unklar, meist Barzahlung",
      "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride",
-     "ic": "bm9-ujbC6ptd8x_DTTjCDIkMQunuC4f-HqzVRuakoKRQZF_zycmcnd6kZIdnKOKpt7hawm6M5P5V-_DJGQwU"
+     "ic": "bm9-ujbC6ptd8x_DTTjCDIkMQunuC4f-HqzVRuakoKRQZF_zycmcnd6kZIdnKOKpt7hawm6M5P5V-_DJGQwU",
+     "ios": 6742436145
     },
     {
      "name": "Tfadal",
@@ -60917,7 +61150,8 @@
      "use": "limited",
      "req": "Registrierung mit ausländischer Nummer unklar",
      "src": "https://tfadal.sy/?lang=ar",
-     "ic": "uNARaVE2S9xK0fNLUowqjndNm8fkJ-5-eHmZb9KSsYKYJm9Pe6Z5iNeWeSpT5iiMHAWuh50OWWsqFIue6jTNCA"
+     "ic": "uNARaVE2S9xK0fNLUowqjndNm8fkJ-5-eHmZb9KSsYKYJm9Pe6Z5iNeWeSpT5iiMHAWuh50OWWsqFIue6jTNCA",
+     "ios": 6692583303
     },
     {
      "name": "BeeOrder",
@@ -60927,7 +61161,8 @@
      "use": "limited",
      "req": "Registrierung mit ausländischer Nummer unklar, Bargeld üblich",
      "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride",
-     "ic": "nXMrqZWqYMa4ZcfAPcbEF8c_vl04_4QMxmg2UY8GRL7DnTZsGpQgfF6otv3S3MDTSoDMwNvmBoOafet_s3BYMg"
+     "ic": "nXMrqZWqYMa4ZcfAPcbEF8c_vl04_4QMxmg2UY8GRL7DnTZsGpQgfF6otv3S3MDTSoDMwNvmBoOafet_s3BYMg",
+     "ios": 1667117372
     },
     {
      "name": "Movo",
@@ -60937,7 +61172,8 @@
      "use": "limited",
      "req": "Kartenzahlung nur laut Anbieter, nicht unabhängig bestätigt",
      "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride",
-     "ic": "2wfQACHWbrDvqScZJWICUO0RnpBXghlQtsrgp2J04HEl0-_yK5Hwi5eSYPaFXwrBSpajG5alV2AWbz0MSvDpHg"
+     "ic": "2wfQACHWbrDvqScZJWICUO0RnpBXghlQtsrgp2J04HEl0-_yK5Hwi5eSYPaFXwrBSpajG5alV2AWbz0MSvDpHg",
+     "ios": 6769325029
     }
    ],
    "cities": [
@@ -61104,7 +61340,8 @@
      "req": "Lokaler Ausweis und tadschikische Bankkarte nötig",
      "src": "https://www.bento.travel/tajikistan/payments",
      "pkg": "tj.alif.mobi",
-     "ic": "XiW-UHg2beFlWe0I1Z2G3wKLHxPCA7qLxDyZImha-MZxLdLY2WKr7T0esQSWV7t54LlFTDydMlsehKP9-n5rqUI"
+     "ic": "XiW-UHg2beFlWe0I1Z2G3wKLHxPCA7qLxDyZImha-MZxLdLY2WKr7T0esQSWV7t54LlFTDydMlsehKP9-n5rqUI",
+     "ios": 1331374853
     },
     {
      "name": "OsmAnd",
@@ -61113,7 +61350,8 @@
      "note": "Offline-Karten mit GPX, ideal für Pamir und Berge",
      "ess": true,
      "src": "https://www.bento.travel/tajikistan/navigation",
-     "ic": "kAhEm7IeqeqGZldBsjI9uE5Us922hBodCQr7Ih2EZYSyjg2toLEfwTuVzR-NIWVQjxzpRe93cz9Nz4hYb9yuIA"
+     "ic": "kAhEm7IeqeqGZldBsjI9uE5Us922hBodCQr7Ih2EZYSyjg2toLEfwTuVzR-NIWVQjxzpRe93cz9Nz4hYb9yuIA",
+     "ios": 934850257
     },
     {
      "name": "Telegram",
@@ -61130,7 +61368,8 @@
      "note": "Offline-Karte des Tourismuskomitees mit Routen und Hotels",
      "src": "https://asiaplus.news/?p=380752",
      "pkg": "tj.tourism.rebuss",
-     "ic": "AYizVUDiuwAwnUCUR1qajG_gQiq1fpiSMYE62C5nXCVS7DXtTDOMMs0_ALjfhd9lczZKfw2DrmqXJ9ksIvd1"
+     "ic": "AYizVUDiuwAwnUCUR1qajG_gQiq1fpiSMYE62C5nXCVS7DXtTDOMMs0_ALjfhd9lczZKfw2DrmqXJ9ksIvd1",
+     "ios": 6740203172
     }
    ],
    "cities": [
@@ -61148,7 +61387,8 @@
        "use": "limited",
        "req": "Tadschikische Nummer womöglich nötig, ausländische Karte unsicher",
        "src": "https://www.bento.travel/tajikistan/ride-hailing",
-       "ic": "nybFdCivgdxfTOzHk1vFGF27UGAai24NyjLnYO4Gt3lwvj1JrWHhE4yP6jz_pfSZ6jtUJkTSqkY7K6rRGE6t"
+       "ic": "nybFdCivgdxfTOzHk1vFGF27UGAai24NyjLnYO4Gt3lwvj1JrWHhE4yP6jz_pfSZ6jtUJkTSqkY7K6rRGE6t",
+       "ios": 6743154286
       },
       {
        "name": "Oson24",
@@ -61253,7 +61493,8 @@
      "use": "limited",
      "req": "Registrierung und Zahlungsarten laut Quelle unklar",
      "src": "https://play.google.com/store/apps/details?id=com.timor.tron&hl=en",
-     "ic": "1FXbxgDZBvVQE7GEFQwaEI4VIyRisKVPbueNpx668alCPTvXs_U1ClknhueXrJN9yZ5xZGWzzEc1MdLes23YQQ"
+     "ic": "1FXbxgDZBvVQE7GEFQwaEI4VIyRisKVPbueNpx668alCPTvXs_U1ClknhueXrJN9yZ5xZGWzzEc1MdLes23YQQ",
+     "ios": 6753966756
     },
     {
      "name": "GOTIMOR RIDE",
@@ -61263,7 +61504,8 @@
      "req": "Anmeldung per Handynummer, Vorwahl Timor-Leste voreingestellt",
      "src": "https://mwm.ai/apps/gotimor-ride/6762457401",
      "pkg": "com.gotimorride.user",
-     "ic": "--M5js_Zj8MvN5iKBt6BZ7VO8CvN50lUxwATSszyhj2P-F_M1z4bzq4iEKlQU3Qz5xsBYACU0KJQMW_SgvYu0Q"
+     "ic": "--M5js_Zj8MvN5iKBt6BZ7VO8CvN50lUxwATSszyhj2P-F_M1z4bzq4iEKlQU3Qz5xsBYACU0KJQMW_SgvYu0Q",
+     "ios": 6762457401
     },
     {
      "name": "Mosan Telemor",
@@ -61387,7 +61629,8 @@
      "req": "Telefonnummer wird erfasst, Zahlung bar oder per Karte",
      "src": "https://apps.apple.com/kz/app/ynamly-taksi/id6456042670",
      "pkg": "com.takyktilsimaty.ynamlytaxi",
-     "ic": "yoZMF82hLL8YbZ0G-5sN_Kyge2YArvEIUW639QhKwg-PlWddfEL_h1-S0kgtMVoTAEDw3KPdXiYNGDeqiynXMQ"
+     "ic": "yoZMF82hLL8YbZ0G-5sN_Kyge2YArvEIUW639QhKwg-PlWddfEL_h1-S0kgtMVoTAEDw3KPdXiYNGDeqiynXMQ",
+     "ios": 6456042670
     },
     {
      "name": "Turkmenistan Railway",
@@ -61397,7 +61640,8 @@
      "req": "Zahlung nur mit turkmenischer Altyn-Asyr-Karte, Passdaten nötig",
      "src": "https://railway.gov.tm/en/passengers",
      "pkg": "tm.railway.turkmenistanrailways",
-     "ic": "FVP45FTUF5KjA5wD7aNLRA6eB45XSNukgopHPb78RGUVZfHSqnwBdWD3_OUrFmox58iiq3MtfaqGnd9xU0RU"
+     "ic": "FVP45FTUF5KjA5wD7aNLRA6eB45XSNukgopHPb78RGUVZfHSqnwBdWD3_OUrFmox58iiq3MtfaqGnd9xU0RU",
+     "ios": 1588394191
     },
     {
      "name": "Turkmen Tourist",
@@ -61407,7 +61651,8 @@
      "req": "Zahlung nur mit Karten turkmenischer Banken",
      "src": "https://apps.apple.com/us/app/id6757800932",
      "pkg": "com.turkmentourist.turkmentourist",
-     "ic": "g-9llijTAeQLgi8u9Txo-j3ZmIdwPhM2Ghr34OzlgAxR6D6LJQm3cSeUeOB5AzZiK0kEYECXvgpAURza64HJl_M"
+     "ic": "g-9llijTAeQLgi8u9Txo-j3ZmIdwPhM2Ghr34OzlgAxR6D6LJQm3cSeUeOB5AzZiK0kEYECXvgpAURza64HJl_M",
+     "ios": 6757800932
     },
     {
      "name": "Telegram",
@@ -61428,7 +61673,8 @@
      "req": "Im Land gesperrt, Umgehung per VPN ist verboten",
      "src": "https://blog.torproject.org/Corruption-Control-Turkmenistan-internet-censorship-business",
      "pkg": "org.thoughtcrime.securesms",
-     "ic": "HXEs85Okatm4_lZMmCaLFk3iXQ6_lrr00i8nsxaqBRSy6VGnsP7F50dKUfrO37Sj0nxtzSjMpKbjgWh6d0PTyEA"
+     "ic": "HXEs85Okatm4_lZMmCaLFk3iXQ6_lrr00i8nsxaqBRSy6VGnsP7F50dKUfrO37Sj0nxtzSjMpKbjgWh6d0PTyEA",
+     "ios": 874139669
     },
     {
      "name": "Grindr",
@@ -61456,7 +61702,8 @@
        "ess": true,
        "src": "https://apps.apple.com/gd/app/duralga/id1607990462",
        "pkg": "com.takykcheshme.gps",
-       "ic": "fPRLy9tDKw3NKerrg6fq4XRIXxLIFnl6r2sCCMDfYcEfCLqkiFxunBFsAd2jYLeAPz6HdJ8JiUB81s60lvKvIw"
+       "ic": "fPRLy9tDKw3NKerrg6fq4XRIXxLIFnl6r2sCCMDfYcEfCLqkiFxunBFsAd2jYLeAPz6HdJ8JiUB81s60lvKvIw",
+       "ios": 1607990462
       },
       {
        "name": "Ýolagçy",
@@ -61477,7 +61724,8 @@
        "req": "Telefonnummer für SMS nötig, Zahlung bar oder per Karte beim Fahrer",
        "src": "https://turkmenportal.com/en/blog/45793/servis-onlayn-taksi-v-ashhabade-nachal-pokazyvat-stoimost-poezdki-v-prilozhenii-pered-zakazom",
        "pkg": "com.takykcheshme.online_taxi_driver",
-       "ic": "EWI9WDSE5UANYAXFXYpOR6X4QPYF20jaQaP4fm2KAWjMSLmfFzoOP8Yea2nr0teAajNspYPBSIR-GnCM3eFS09U"
+       "ic": "EWI9WDSE5UANYAXFXYpOR6X4QPYF20jaQaP4fm2KAWjMSLmfFzoOP8Yea2nr0teAajNspYPBSIR-GnCM3eFS09U",
+       "ios": 6444418822
       },
       {
        "name": "Ashgabat (Hypermarkt)",
@@ -61559,7 +61807,8 @@
      "use": "limited",
      "req": "Ausländische Visa oder Mastercard nicht immer akzeptiert",
      "src": "https://www.bento.travel/uzbekistan/ride-hailing",
-     "ic": "UXeAUQUF750Fqy3MZbXHaCQiWDcWAYqo412pAt_hWbpE6c0qeg0c1_MLvHMBZHtr0JpXmUM8PHM8MMqBKjVRHg"
+     "ic": "UXeAUQUF750Fqy3MZbXHaCQiWDcWAYqo412pAt_hWbpE6c0qeg0c1_MLvHMBZHtr0JpXmUM8PHM8MMqBKjVRHg",
+     "ios": 865012817
     },
     {
      "name": "Fasten UZ",
@@ -61567,7 +61816,8 @@
      "pkg": "com.fasten.rider",
      "note": "Fahrten mit Festpreis, englisch, bar oder per Karte",
      "src": "https://www.bento.travel/uzbekistan/ride-hailing",
-     "ic": "F3jbXfs3bqgfZaGeYNx4POLpHItw9ZpPbREXcX2CofLfnWzMPPngeXb2EvvgQboePfoaPizqkxdnGWQ7tv9-vA"
+     "ic": "F3jbXfs3bqgfZaGeYNx4POLpHItw9ZpPbREXcX2CofLfnWzMPPngeXb2EvvgQboePfoaPizqkxdnGWQ7tv9-vA",
+     "ios": 6578446117
     },
     {
      "name": "Maxim",
@@ -61586,7 +61836,8 @@
      "use": "limited",
      "req": "Nur Zahlung per hinterlegter Karte, ausländische Karten unklar",
      "src": "https://www.bento.travel/uzbekistan/ride-hailing",
-     "ic": "VEsfzCD-RTkKlZsLlooH7QCLtzZhkvvTsE8PIAS9h2XZM3JUiubPOQe2sr42Xh5TDWIDw2GbNvc9EVKfUaLwSQ"
+     "ic": "VEsfzCD-RTkKlZsLlooH7QCLtzZhkvvTsE8PIAS9h2XZM3JUiubPOQe2sr42Xh5TDWIDw2GbNvc9EVKfUaLwSQ",
+     "ios": 6755240054
     },
     {
      "name": "Uzum Tezkor",
@@ -61597,7 +61848,8 @@
      "use": "limited",
      "req": "Ausländische Karte wird teils abgelehnt, dann bar zahlen",
      "src": "https://www.bento.travel/uzbekistan/food-delivery",
-     "ic": "DUs6rEANQ1KIzXDLQfBjkd4TqNYsb_7nNp0clIJehp_-TFr-860y3Y97ltoSFyDNvg_MaTWsMh98icAgLLWHJZ8"
+     "ic": "DUs6rEANQ1KIzXDLQfBjkd4TqNYsb_7nNp0clIJehp_-TFr-860y3Y97ltoSFyDNvg_MaTWsMh98icAgLLWHJZ8",
+     "ios": 1665523197
     },
     {
      "name": "Yandex Eats",
@@ -61608,7 +61860,8 @@
      "use": "limited",
      "req": "Ausländische Karten funktionieren nur wechselhaft",
      "src": "https://www.bento.travel/uzbekistan/food-delivery",
-     "ic": "bMDuKEp-5H4WuPsnpU1le-5yfWm0namaDZJPPEhvTySARe2fgQBfcWuDSFhZ0A7Nx-wkrRE8UhJrD9lNMTJqpw"
+     "ic": "bMDuKEp-5H4WuPsnpU1le-5yfWm0namaDZJPPEhvTySARe2fgQBfcWuDSFhZ0A7Nx-wkrRE8UhJrD9lNMTJqpw",
+     "ios": 1078986931
     },
     {
      "name": "Express24",
@@ -61618,7 +61871,8 @@
      "use": "limited",
      "req": "Setzt vor allem auf lokale Karten, sonst Barzahlung wählen",
      "src": "https://www.bento.travel/uzbekistan/food-delivery",
-     "ic": "vdKVZSPHduCpje7O1iu0ItznA0AsZ90LBJ-TxB9gRxkQH6TwNs1aq3yW4qD1t0SrYq-JjeDlyeEHxauZgV2n"
+     "ic": "vdKVZSPHduCpje7O1iu0ItznA0AsZ90LBJ-TxB9gRxkQH6TwNs1aq3yW4qD1t0SrYq-JjeDlyeEHxauZgV2n",
+     "ios": 1367143501
     },
     {
      "name": "Payme",
@@ -61638,7 +61892,8 @@
      "req": "Volle Identifizierung nur mit usbekischer Staatsbürgerschaft",
      "src": "https://www.bento.travel/uzbekistan/payments",
      "pkg": "air.com.ssdsoftwaresolutions.clickuz",
-     "ic": "iad04DOqJxjnJl60h2zDkXXerl7EHfuav4VBpE1VjNi6VTLOcHpw5nobRceP2l3aqdjtmYw2eSiMPJzVSSHD"
+     "ic": "iad04DOqJxjnJl60h2zDkXXerl7EHfuav4VBpE1VjNi6VTLOcHpw5nobRceP2l3aqdjtmYw2eSiMPJzVSSHD",
+     "ios": 768132591
     },
     {
      "name": "Uzum Bank",
@@ -61648,7 +61903,8 @@
      "req": "Karte erst nach Identitätsprüfung, Eignung für Ausländer offen",
      "src": "https://apps.apple.com/us/app/uzum-bank-online/id1492307726",
      "pkg": "uz.kapitalbank.android",
-     "ic": "0u3I6QX-_u6P6ghgBDfJj3IZuaLBdtaz8ruPyLLRaLFJxBUqG4KAjdnz7lDlBHzV7yQSUeWGbspqeeAbQ1ET6A"
+     "ic": "0u3I6QX-_u6P6ghgBDfJj3IZuaLBdtaz8ruPyLLRaLFJxBUqG4KAjdnz7lDlBHzV7yQSUeWGbspqeeAbQ1ET6A",
+     "ios": 1492307726
     },
     {
      "name": "Telegram",
@@ -61687,7 +61943,8 @@
      "use": "limited",
      "req": "Anmeldung per Telefonnummer, virtuelle Karte nur mit Android NFC",
      "src": "https://www.bento.travel/uzbekistan/transit",
-     "ic": "lkfuzw3r-OrwYz9k9Ckx8CrXo67RsU9jsGVVkWFHXa1kUThC0LvBmyX8_XXQ-qLUSoidZ_et40bCBTTEwzJY"
+     "ic": "lkfuzw3r-OrwYz9k9Ckx8CrXo67RsU9jsGVVkWFHXa1kUThC0LvBmyX8_XXQ-qLUSoidZ_et40bCBTTEwzJY",
+     "ios": 1492486731
     },
     {
      "name": "Uzrailways tickets",
@@ -61698,7 +61955,8 @@
      "use": "limited",
      "req": "Zahlung laut Beschreibung über UZCARD, Bestätigungsmail kommt teils nicht",
      "src": "https://apps.apple.com/app/id1497456207",
-     "ic": "Zr6Wbx_1r5flxYmJKuQD8_VgCLTetapj7pq_Zky7AFO20wIq1NKLndhwIiPhZkfRnUnAnxyXZ6pO16NzCId4qQ"
+     "ic": "Zr6Wbx_1r5flxYmJKuQD8_VgCLTetapj7pq_Zky7AFO20wIq1NKLndhwIiPhZkfRnUnAnxyXZ6pO16NzCId4qQ",
+     "ios": 1497456207
     },
     {
      "name": "Uzbekistan Airways",
@@ -61706,7 +61964,8 @@
      "pkg": "uz.uzairways",
      "note": "Offizielle App der Fluglinie für Inland und Ausland",
      "src": "https://www.bento.travel/uzbekistan",
-     "ic": "ZFkfvaGytKlaSmN-FfPDwFgh9O2gHVlxeawb_vrEA-KVnDvuXMXi4bNXQA9HPvbMD6SKbnKoAWLry8StIs6tPw"
+     "ic": "ZFkfvaGytKlaSmN-FfPDwFgh9O2gHVlxeawb_vrEA-KVnDvuXMXi4bNXQA9HPvbMD6SKbnKoAWLry8StIs6tPw",
+     "ios": 1630369442
     },
     {
      "name": "Yandex Go Scooter",
@@ -61849,7 +62108,8 @@
      "use": "limited",
      "req": "Registrierung in der Quelle nicht beschrieben, Barzahlung möglich",
      "src": "https://mwm.ai/apps/krm-twsyl-t-m-f-lymn/6736373743",
-     "ic": "oLSdPFu0fHdLuW0zfTO4PjT1bZ0xgttEVPIl5muvDlcYMO74EZwHI-omtgMaGbI2Setg7OWz2s5-H7crcGJn9Lo"
+     "ic": "oLSdPFu0fHdLuW0zfTO4PjT1bZ0xgttEVPIl5muvDlcYMO74EZwHI-omtgMaGbI2Setg7OWz2s5-H7crcGJn9Lo",
+     "ios": 6736373743
     },
     {
      "name": "Al-Fakhama: Taxi Yemen",
@@ -61877,7 +62137,8 @@
        "use": "limited",
        "req": "Telefonnummer nötig, Zahlung meist bar",
        "src": "https://play.google.com/store/apps/details?id=trahal.taxi.yemen.passenger&hl=en&gl=YE",
-       "ic": "EnO0CF88jI3HUhHVm2Jw6Db1R_HhmKpf9ACdisCSK3P8zDR29cUNZOsnghRPzSh65JoEC7O9iAi1o-ZyZby4kg"
+       "ic": "EnO0CF88jI3HUhHVm2Jw6Db1R_HhmKpf9ACdisCSK3P8zDR29cUNZOsnghRPzSh65JoEC7O9iAi1o-ZyZby4kg",
+       "ios": 6793150756
       }
      ],
      "ll": [
@@ -61899,7 +62160,8 @@
        "req": "Registrierung und Zahlung in der Quelle nicht beschrieben",
        "src": "https://apps.apple.com/de/app/sahl-taxi/id1455325390",
        "pkg": "com.sahlplus.passenger",
-       "ic": "Nqqm37eAspDnBrQcKMug2HBJJy7hlPrFkuhtPE-U9UerVLjjJoZb7Fc3K8JmnDsw9RxTzAnClBsL5vlGTVPE_7E"
+       "ic": "Nqqm37eAspDnBrQcKMug2HBJJy7hlPrFkuhtPE-U9UerVLjjJoZb7Fc3K8JmnDsw9RxTzAnClBsL5vlGTVPE_7E",
+       "ios": 1639107701
       },
       {
        "name": "Smart Rahal: Sana'a Cab",
@@ -61909,7 +62171,8 @@
        "req": "Zahlung bar oder per Überweisung mit lokaler Banking-App",
        "src": "https://apps.apple.com/app/id1616629462",
        "pkg": "smartrahal.passenger",
-       "ic": "x97EbUqUNjnmpt7z0UXDsrqlXgXIZjA1ihgqSQXOKeaEFmWQnjDh7Hvt4DLQPYTjvBbMkgINCMkcmQF_Dy8a"
+       "ic": "x97EbUqUNjnmpt7z0UXDsrqlXgXIZjA1ihgqSQXOKeaEFmWQnjDh7Hvt4DLQPYTjvBbMkgINCMkcmQF_Dy8a",
+       "ios": 1616629462
       },
       {
        "name": "Wagbat",
@@ -61919,7 +62182,8 @@
        "req": "Telefonnummer nötig, Zahlung bar bei Lieferung oder lokal",
        "src": "https://apps.apple.com/us/app/wagbat-%D9%88%D8%AC%D8%A8%D8%A7%D8%AA-food-delivery/id1437142224",
        "pkg": "com.wagbat",
-       "ic": "VizV7Tjqn2bJwd_Sn0T1RmrP5uLNmjoTxJjBnfeKI0qvrrzBUR34rmt602gBZSfPMm2i4cv5xaPxeAO4A236wsg"
+       "ic": "VizV7Tjqn2bJwd_Sn0T1RmrP5uLNmjoTxJjBnfeKI0qvrrzBUR34rmt602gBZSfPMm2i4cv5xaPxeAO4A236wsg",
+       "ios": 1437142224
       }
      ],
      "ll": [
