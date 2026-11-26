@@ -1,34 +1,5 @@
 {
  "stand": "2026-11-26",
- "offen": [
-  {
-   "cc": "UA",
-   "name": "Ukraine",
-   "cat": "parking",
-   "gewicht": 25,
-   "zuletzt": ""
-  },
-  {
-   "cc": "OM",
-   "name": "Oman",
-   "cat": "rail",
-   "gewicht": 20,
-   "zuletzt": ""
-  },
-  {
-   "cc": "DZ",
-   "name": "Algerien",
-   "cat": "delivery",
-   "gewicht": 16,
-   "zuletzt": ""
-  },
-  {
-   "cc": "AW",
-   "name": "Aruba",
-   "cat": "payment",
-   "gewicht": 13,
-   "zuletzt": ""
-  }
- ],
- "ruhend": 802
+ "offen": [],
+ "ruhend": 806
 }

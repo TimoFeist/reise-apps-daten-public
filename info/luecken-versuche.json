@@ -470,6 +470,11 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "AW|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Pay.aw steht schon im Land, auch Bezahl-Wallet"
+  },
   "AW|rail": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -1894,6 +1899,11 @@
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Kein App-Carsharing belegt"
+  },
+  "DZ|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Yassir steht schon im Land, liefert auch Essen"
   },
   "DZ|entry": {
    "am": "2026-11-26",
@@ -4770,6 +4780,11 @@
    "gefunden": 0,
    "notiz": "kein Leihrad/E-Scooter-Angebot gefunden"
   },
+  "OM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Mwasalat steht schon im Land, auch Fernbusse"
+  },
   "PA|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -6299,6 +6314,11 @@
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Deutsche reisen visumfrei ein, kein Online-Formular"
+  },
+  "UA|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kyiv Digital steht schon im Land, deckt Parken in Kyjiw ab"
   },
   "UG|carshare": {
    "am": "2026-11-26",
