@@ -83,6 +83,24 @@
    "use": "limited",
    "req": "Digicel SIM-Karte nötig",
    "src": "https://support-to.digicelpacific.com/hc/en-us/articles/6454980648335-How-to-download-MyDigicel-app"
+  },
+  {
+   "name": "MyCash",
+   "cat": "payment",
+   "pkg": "com.digicelfs.mycash",
+   "note": "Mobile Geldbörse von Digicel in Tonga",
+   "use": "no",
+   "req": "Tongaische Digicel-Nummer nötig",
+   "src": "https://www.digicelpacific.com/news/digicel-pacifics-mycash-app-gets-a-major-upgrade"
+  },
+  {
+   "name": "Einreise Tonga (Auswärtiges Amt)",
+   "cat": "entry",
+   "note": "Visumfrei bis 90 Tage, Reisepass und Rückflug",
+   "use": "ok",
+   "url": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit-213790",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit-213790"
   }
  ]
 }

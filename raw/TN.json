@@ -141,6 +141,33 @@
    "url": "https://www.discovertunisia.com",
    "nostore": true,
    "src": "https://www.discovertunisia.com"
+  },
+  {
+   "name": "CTN",
+   "cat": "rail",
+   "note": "Fähren Tunis nach Genua und Marseille",
+   "use": "ok",
+   "url": "https://www.ctn.com.tn/",
+   "nostore": true,
+   "src": "https://www.ctn.com.tn/"
+  },
+  {
+   "name": "D17",
+   "cat": "payment",
+   "pkg": "tn.mobipost",
+   "note": "Bezahl-App der Tunesischen Post",
+   "use": "no",
+   "req": "Tunesische Nummer und Konto nötig",
+   "src": "https://play.google.com/store/apps/details?id=tn.mobipost"
+  },
+  {
+   "name": "Flouci",
+   "cat": "payment",
+   "pkg": "com.kaoun.flouci",
+   "note": "Wallet mit QR Zahlung in Tunesien",
+   "use": "no",
+   "req": "Tunesisches Konto nötig",
+   "src": "https://flouci.com/fr"
   }
  ]
 }

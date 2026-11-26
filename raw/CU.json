@@ -173,6 +173,16 @@
    "url": "https://www.cuba.travel/en",
    "nostore": true,
    "src": "https://www.frommers.com/destinations/cuba/planning-a-trip/"
+  },
+  {
+   "name": "La Nave",
+   "cat": "taxi",
+   "pkg": "app.lanave.user",
+   "note": "Fahrdienst-App vor allem in Havanna, Barzahlung",
+   "city": "Havana",
+   "use": "limited",
+   "req": "Telefonnummer nötig, oft kubanische SIM",
+   "src": "https://www.bento.travel/compare/cuba/la-nave-cu-vs-bajanda-cu"
   }
  ]
 }

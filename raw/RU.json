@@ -460,6 +460,26 @@
    "url": "https://electronic-visa.kdmid.ru/",
    "nostore": true,
    "src": "https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit-201536"
+  },
+  {
+   "name": "Delimobil",
+   "cat": "carshare",
+   "pkg": "com.carshering",
+   "note": "Großer russischer Carsharing-Anbieter",
+   "city": "Moscow",
+   "use": "no",
+   "req": "Russische Bankkarte nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.carshering"
+  },
+  {
+   "name": "Парковки России",
+   "cat": "parking",
+   "pkg": "ru.mosparking.appnew",
+   "note": "Offizielle Park-App des Moskauer Verkehrsamts",
+   "city": "Moscow",
+   "use": "no",
+   "req": "Russische Nummer und Bankkarte nötig",
+   "src": "https://play.google.com/store/apps/details?id=ru.mosparking.appnew"
   }
  ]
 }

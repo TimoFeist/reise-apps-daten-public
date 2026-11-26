@@ -83,6 +83,14 @@
    "url": "https://www.ssl.fo",
    "nostore": true,
    "src": "https://visitfaroeislands.com/en/plan-your-stay/transport/public-transportation0"
+  },
+  {
+   "name": "DMI Vejr",
+   "cat": "safety",
+   "pkg": "dk.dmi.byvejret",
+   "note": "Dänischer Wetterdienst, zuständig auch für Färöer",
+   "use": "ok",
+   "src": "https://www.dmi.dk/"
   }
  ],
  "replace": [

@@ -217,6 +217,15 @@
    "url": "https://ingresoachile.cl",
    "nostore": true,
    "src": "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile"
+  },
+  {
+   "name": "Mercado Pago",
+   "cat": "payment",
+   "pkg": "com.mercadopago.wallet",
+   "note": "QR Zahlung in vielen chilenischen Läden",
+   "use": "no",
+   "req": "Chilenische RUT nötig",
+   "src": "https://www.mercadopago.cl/"
   }
  ],
  "fetched": "2026-11-17"

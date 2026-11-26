@@ -63,6 +63,24 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/tschadsicherheit-225774",
    "url": "https://evisa.td/",
    "nostore": true
+  },
+  {
+   "name": "Moov Money TD",
+   "cat": "payment",
+   "pkg": "td.moovmoney.mmpaysp",
+   "note": "Mobile Geldbörse von Moov Africa Tchad",
+   "use": "no",
+   "req": "Tschadische Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=td.moovmoney.mmpaysp"
+  },
+  {
+   "name": "My Airtel",
+   "cat": "payment",
+   "pkg": "com.airtel.africa.selfcare",
+   "note": "Airtel-App mit Airtel Money, auch im Tschad",
+   "use": "no",
+   "req": "Airtel-Nummer aus dem Tschad nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.airtel.africa.selfcare"
   }
  ]
 }

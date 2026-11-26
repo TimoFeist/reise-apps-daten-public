@@ -231,6 +231,16 @@
    "use": "no",
    "req": "Rumänisches Bankkonto nötig",
    "src": "https://play.google.com/store/apps/details?id=ro.btrl.pay&hl=en"
+  },
+  {
+   "name": "RoPay",
+   "cat": "payment",
+   "note": "Zahlen per QR oder Handynummer in Bank-Apps",
+   "use": "no",
+   "req": "Rumänisches Bankkonto nötig",
+   "url": "https://www.transfond.ro/ropay/",
+   "nostore": true,
+   "src": "https://hotnews.ro/ropay-noua-metoda-de-plata-cu-telefonul-pentru-care-nu-ai-nevoie-de-date-bancare-ci-foosesti-doar-un-cod-qr-1812506"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, Diskriminierung ist gesetzlich verboten, gesellschaftliche Vorbehalte gibt es aber.",

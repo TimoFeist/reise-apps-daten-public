@@ -123,6 +123,15 @@
    "url": "https://www.evisa.gouv.dj/",
    "nostore": true,
    "src": "https://www.evisa.gouv.dj/"
+  },
+  {
+   "name": "WAAFI",
+   "cat": "payment",
+   "pkg": "com.safarifone.waafi",
+   "note": "Mobile Money App mit Sitz in Dschibuti",
+   "use": "limited",
+   "req": "Lokale Nummer und Registrierung nötig",
+   "src": "https://waafi.com/"
   }
  ]
 }

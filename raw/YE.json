@@ -105,6 +105,24 @@
    "use": "limited",
    "req": "Funktionierende Telefonnummer für das Konto nötig",
    "src": "https://play.google.com/store/apps/details?id=fakhama.passenger&hl=en&gl=YE"
+  },
+  {
+   "name": "Jawali",
+   "cat": "payment",
+   "pkg": "com.ama.wecashmobileapp",
+   "note": "Jemenitische E-Wallet für Zahlungen und Transfers",
+   "use": "no",
+   "req": "Jemenitische Nummer nötig",
+   "src": "https://jawali.com.ye/en/about"
+  },
+  {
+   "name": "ONE Cash",
+   "cat": "payment",
+   "pkg": "com.one.onecustomer",
+   "note": "Große Wallet im Jemen für Zahlungen",
+   "use": "no",
+   "req": "Jemenitische Nummer nötig",
+   "src": "https://www.forbesmiddleeast.com/lists/the-middle-easts-fintech-50-2026/one-cash/"
   }
  ],
  "replace": [

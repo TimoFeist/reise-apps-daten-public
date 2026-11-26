@@ -143,6 +143,15 @@
    "note": "Offizielle App der Regierung mit Hinweisen und Alarmen",
    "use": "ok",
    "src": "https://en.gouv.mc/A-la-Une-du-Portail/Your-Monaco-the-new-app-making-everyday-life-easier-in-Monaco"
+  },
+  {
+   "name": "Visit Monaco",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite mit Monapass-Infos",
+   "use": "ok",
+   "url": "https://www.visitmonaco.com/en",
+   "nostore": true,
+   "src": "https://www.gouv.mc/en/news/visitmonaco.com-the-destination-s-new-look-online-showcase"
   }
  ]
 }

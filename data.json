@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-26 20:12",
+ "version": "2026-11-26 20:34",
  "categories": [
   {
    "id": "entry",
@@ -13841,6 +13841,15 @@
      "use": "no",
      "req": "Australisches Bankkonto, Anmeldung nur in Australien",
      "src": "https://beem.com.au/support"
+    },
+    {
+     "name": "Afterpay",
+     "cat": "payment",
+     "pkg": "com.afterpaymobile",
+     "note": "Ratenkauf, an vielen Kassen in Australien",
+     "use": "no",
+     "req": "Australische Karte und Adresse nötig",
+     "src": "https://www.afterpay.com/en-AU"
     }
    ],
    "cities": [
@@ -15232,6 +15241,13 @@
        "src": "https://www.bento.travel/south-africa",
        "ios": 1437907875,
        "ic": "7erL0T45XY3AjpxITYO7ieDD-jKtZIxNoR9sFQNG2F9rk4A5fGVjAsUeVoh601SJxFG6KxVAs9OS6KGxgoefKg"
+      },
+      {
+       "name": "Upcycles",
+       "cat": "micro",
+       "pkg": "com.rideawaynew.app",
+       "note": "Fahrradverleih per App in Kapstadt",
+       "src": "https://play.google.com/store/apps/details?id=com.rideawaynew.app"
       }
      ],
      "ll": [
@@ -19869,6 +19885,17 @@
      "url": "https://ingresoachile.cl",
      "nostore": true,
      "src": "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile"
+    },
+    {
+     "name": "Mercado Pago",
+     "cat": "payment",
+     "pkg": "com.mercadopago.wallet",
+     "note": "QR Zahlung in vielen chilenischen Läden",
+     "use": "no",
+     "req": "Chilenische RUT nötig",
+     "src": "https://www.mercadopago.cl/",
+     "ios": 925436649,
+     "ic": "-WB4u-r62cAEy8kImGb4-pXGcr2T-nC71c54xJO4m1aIRtKb2eI2pW_rm7AZg6tEpOL1ZTdIiozUMHgA6eZFl9Y"
     }
    ],
    "cities": [
@@ -21507,6 +21534,24 @@
      "url": "https://www.meteo.sc/",
      "nostore": true,
      "src": "https://www.meteo.sc/"
+    },
+    {
+     "name": "Spark by Absa",
+     "cat": "payment",
+     "pkg": "sc.co.absa.digitalwallet",
+     "note": "Digitale Geldbörse der Absa Seychellen",
+     "use": "no",
+     "req": "Lokale Nummer und Konto nötig",
+     "src": "https://play.google.com/store/apps/details?id=sc.co.absa.digitalwallet"
+    },
+    {
+     "name": "MCB Juice Seychelles",
+     "cat": "payment",
+     "pkg": "com.mcbsy.juice",
+     "note": "Bank-App der MCB mit Zahlungen und Überweisungen",
+     "use": "no",
+     "req": "Konto bei MCB Seychellen nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.mcbsy.juice"
     }
    ],
    "cities": [],
@@ -21709,6 +21754,32 @@
      "url": "https://www.discovertunisia.com",
      "nostore": true,
      "src": "https://www.discovertunisia.com"
+    },
+    {
+     "name": "CTN",
+     "cat": "rail",
+     "note": "Fähren Tunis nach Genua und Marseille",
+     "url": "https://www.ctn.com.tn/",
+     "nostore": true,
+     "src": "https://www.ctn.com.tn/"
+    },
+    {
+     "name": "D17",
+     "cat": "payment",
+     "pkg": "tn.mobipost",
+     "note": "Bezahl-App der Tunesischen Post",
+     "use": "no",
+     "req": "Tunesische Nummer und Konto nötig",
+     "src": "https://play.google.com/store/apps/details?id=tn.mobipost"
+    },
+    {
+     "name": "Flouci",
+     "cat": "payment",
+     "pkg": "com.kaoun.flouci",
+     "note": "Wallet mit QR Zahlung in Tunesien",
+     "use": "no",
+     "req": "Tunesisches Konto nötig",
+     "src": "https://flouci.com/fr"
     }
    ],
    "cities": [
@@ -22572,7 +22643,26 @@
      "src": "https://www.frommers.com/destinations/cuba/planning-a-trip/"
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Havana",
+     "match": [
+      "Havana"
+     ],
+     "apps": [
+      {
+       "name": "La Nave",
+       "cat": "taxi",
+       "pkg": "app.lanave.user",
+       "note": "Fahrdienst-App vor allem in Havanna, Barzahlung",
+       "use": "limited",
+       "req": "Telefonnummer nötig, oft kubanische SIM",
+       "src": "https://www.bento.travel/compare/cuba/la-nave-cu-vs-bajanda-cu",
+       "ic": "fFuFl0jM0qH1z1M32f3UjL_Paa7Wd9Of3kB7BmBHzB9bAtNNsoOP0wDWIpEERYDGJqiUxrWTZEVvtjrzOHeqcxk"
+      }
+     ]
+    }
+   ],
    "note": "Visa und Mastercard funktionieren seit Juni 2026 nicht mehr, daher genug Bargeld für die ganze Reise mitnehmen.",
    "src": "https://www.bento.travel/cuba",
    "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Toleranz in der Bevölkerung ist vor allem auf dem Land aber gering.",
@@ -23279,10 +23369,10 @@
     {
      "name": "Daviplata",
      "cat": "payment",
-     "note": "Digitale Geldbörse der Bank Davivienda",
+     "note": "Digitale Geldbörse der Davivienda-Bank",
      "use": "no",
-     "req": "Kolumbianischer Ausweis (CE oder PPT) und lokale Nummer nötig",
-     "src": "https://colombiamove.com/blog/es/nequi-daviplata-guide-foreigners-colombia/",
+     "req": "Kolumbianischer Ausweis und Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.davivienda.daviplataapp",
      "ios": 1100731780,
      "pkg": "com.davivienda.daviplataapp",
      "ic": "bNPDiFqg28L6ckatfuP-WgrxDRDk0JEOkC6nUIQp7Q61RW78i1bw-ffMmEjyxl-qP6dv3ANDOQqmIbBtgJI3EA"
@@ -26021,6 +26111,14 @@
      "url": "https://evisa.bj",
      "nostore": true,
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/beninsicherheit-208984"
+    },
+    {
+     "name": "Bénin Tourisme",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Destination Benin",
+     "url": "https://benintourisme.bj/",
+     "nostore": true,
+     "src": "https://benintourisme.bj/"
     }
    ],
    "cities": [
@@ -26254,6 +26352,14 @@
      "url": "https://www.botswanatourism.co.bw",
      "nostore": true,
      "src": "https://www.botswanatourism.co.bw"
+    },
+    {
+     "name": "Botswana Meteorological Service",
+     "cat": "safety",
+     "note": "Offizieller Wetterdienst mit Vorhersagen",
+     "url": "https://www.meteo.gov.bw/",
+     "nostore": true,
+     "src": "https://www.meteo.gov.bw/about/"
     }
    ],
    "cities": [
@@ -26665,6 +26771,15 @@
      "url": "https://www.visaburkina.bf/",
      "nostore": true,
      "src": "https://www.visaburkina.bf/"
+    },
+    {
+     "name": "MOOV MONEY BF",
+     "cat": "payment",
+     "pkg": "bf.moovmoney.hwmm",
+     "note": "Mobile Money von Moov Africa Burkina",
+     "use": "limited",
+     "req": "Moov-SIM aus Burkina Faso nötig",
+     "src": "https://play.google.com/store/apps/details?id=bf.moovmoney.hwmm"
     }
    ],
    "cities": [
@@ -28791,6 +28906,14 @@
      "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678",
      "ios": 582341229,
      "ic": "nYce2uG-doYBO6b7-BlpVOHikR36EnWT-MowRokWs_e6vI927UsZJnSASuzIMA0FAI0KSnCjDT7pUm0-zubwyA"
+    },
+    {
+     "name": "Einreise Mikronesien (AA)",
+     "cat": "entry",
+     "note": "Visumfrei 90 Tage, Formular bei Ankunft",
+     "url": "https://www.auswaertiges-amt.de/de/service/laender/mikronesien-node/mikronesiensicherheit/220678",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/mikronesien-node/mikronesiensicherheit/220678"
     }
    ],
    "cities": [
@@ -31270,10 +31393,10 @@
     {
      "name": "Moov Money Tchad",
      "cat": "payment",
-     "note": "Mobile Money Wallet von Moov Africa Tchad",
+     "note": "Mobile Geldbörse von Moov Africa Tchad",
      "use": "no",
-     "req": "Tschadische Moov-SIM mit Moov-Money-Konto nötig",
-     "src": "https://apps.apple.com/td/app/moov-money-tchad/id1672266714",
+     "req": "Tschadische Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=td.moovmoney.mmpaysp",
      "pkg": "td.moovmoney.mmpaysp",
      "ic": "EpFbUBEzkY9M3ZJSDFL5WtttDjn_Cmp1AG_c8Ypb96m35m77YS0pFC4PvN3KEIPr2g0m8xy4SM4nOGQkOwWP",
      "ios": 6749246326
@@ -31281,10 +31404,10 @@
     {
      "name": "My Airtel Africa",
      "cat": "payment",
-     "note": "Airtel Money für Überweisung, QR-Zahlung und Guthaben",
+     "note": "Airtel-App mit Airtel Money, auch im Tschad",
      "use": "no",
-     "req": "Tschadische Airtel-SIM mit Airtel-Money-Konto nötig",
-     "src": "https://apps.apple.com/app/id1462268018",
+     "req": "Airtel-Nummer aus dem Tschad nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.airtel.africa.selfcare",
      "pkg": "com.airtel.africa.selfcare",
      "ic": "6oh2-7M8x7cGe411dzTjvtQInFg-oANWiNmaS3949nVyhcQJTMsfgf6JbGxmk_lHzum3jGayVvrVBgkgybNG8w",
      "ios": 1462268018
@@ -31557,6 +31680,15 @@
        "req": "Kreditkarte oder Pango-Guthaben mit Kennzeichen verknüpfen",
        "src": "https://www.royalgazette.com/?p=515305",
        "ios": 1155906621
+      },
+      {
+       "name": "Shorelink",
+       "cat": "transit",
+       "pkg": "fr.airweb.bermudes",
+       "note": "Bus und Fähre: Tickets und Fahrplan",
+       "src": "https://www.gov.bm/bermuda-bus-system",
+       "ios": 6504182817,
+       "ic": "R8T1Q1YjpGCYrN4qC8UVcanwG-0y4gid_eb2tOWcD4AmsVgXCxXDa-LZICYo2-827F3AnuGqbvmpNqYVJQDKIw"
       }
      ],
      "ll": [
@@ -33794,10 +33926,10 @@
     {
      "name": "WAAFI",
      "cat": "payment",
-     "note": "Mobile Money der Salaam African Bank",
-     "use": "no",
-     "req": "Lokale Telefonnummer und Identitätsprüfung nötig",
-     "src": "https://apps.apple.com/nl/app/waafi-app/id1164281864",
+     "note": "Mobile Money App mit Sitz in Dschibuti",
+     "use": "limited",
+     "req": "Lokale Nummer und Registrierung nötig",
+     "src": "https://waafi.com/",
      "pkg": "com.safarifone.waafi",
      "ic": "WebSiCg8VA45ly2-olnTh4-o4ETPmfQYpfPYFL7tcscWqqU9KCswlMhMbIhkmPvXrQQpwt50-_JILGrPaEnxtw"
     },
@@ -37789,6 +37921,15 @@
      "req": "Gabunische Moov-SIM nötig",
      "src": "https://www.transfi.com/blog/gabons-payment-rails-how-they-work---mobile-money-banking-services-regional-interoperability",
      "ios": 6695750582
+    },
+    {
+     "name": "MyMoov Gabon",
+     "cat": "payment",
+     "pkg": "com.mobiblanc.moov.mymoov_gabon",
+     "note": "App von Gabon Telecom mit Moov Money",
+     "use": "no",
+     "req": "Gabunische Moov-Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.mobiblanc.moov.mymoov_gabon"
     }
    ],
    "cities": [
@@ -39161,6 +39302,14 @@
      "url": "https://www.nhc.noaa.gov/",
      "nostore": true,
      "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048"
+    },
+    {
+     "name": "Visit Haiti",
+     "cat": "tourism",
+     "note": "Offizieller Reiseführer für Haiti",
+     "url": "https://visithaiti.com/",
+     "nostore": true,
+     "src": "https://visithaiti.com/"
     }
    ],
    "cities": [],
@@ -41163,6 +41312,24 @@
      "url": "https://twac.immigration.gov.tw",
      "nostore": true,
      "src": "https://www.immigration.gov.tw/5475/5478/141457/142068/398041/"
+    },
+    {
+     "name": "URiDE",
+     "cat": "carshare",
+     "pkg": "tw.com.chailease.android.shareCar",
+     "note": "Carsharing von Chailease, stundenweise mieten",
+     "use": "limited",
+     "req": "Mitgliedschaft und Führerschein nötig",
+     "src": "https://play.google.com/store/apps/details?id=tw.com.chailease.android.shareCar"
+    },
+    {
+     "name": "LINE Pay",
+     "cat": "payment",
+     "pkg": "com.linepaytw.upay",
+     "note": "Verbreitete Bezahl-App in Taiwan",
+     "use": "no",
+     "req": "Taiwanische Nummer und Konto nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.linepaytw.upay"
     }
    ],
    "cities": [
@@ -41381,6 +41548,15 @@
      "url": "https://www.paf.gov.gn/visa",
      "nostore": true,
      "src": "https://www.auswaertiges-amt.de/de/service/laender/guinea-node/guineasicherheit-206098"
+    },
+    {
+     "name": "Orange Money Africa",
+     "cat": "payment",
+     "pkg": "com.orange.orangemoneyafrique",
+     "note": "Orange Money, in Guinea weit verbreitet",
+     "use": "limited",
+     "req": "Orange-SIM aus Guinea nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.orange.orangemoneyafrique"
     }
    ],
    "cities": [
@@ -43700,6 +43876,13 @@
      "url": "https://www.saintbarth-tourisme.com/",
      "nostore": true,
      "src": "https://www.saintbarth-tourisme.com/"
+    },
+    {
+     "name": "St Barth Ride",
+     "cat": "taxi",
+     "pkg": "com.needtaxi.stbarth",
+     "note": "Taxi auf St. Barth buchen, Preis vorab",
+     "src": "https://play.google.com/store/apps/details?id=com.needtaxi.stbarth"
     }
    ],
    "cities": [],
@@ -44804,10 +44987,10 @@
     {
      "name": "MyCash Digicel",
      "cat": "payment",
-     "note": "Digicel-Geldbörse für QR-Zahlungen und Überweisungen",
+     "note": "Mobile Geldbörse von Digicel in Tonga",
      "use": "no",
-     "req": "Digicel-Tonga-Nummer und Registrierung mit Name, Adresse und Foto nötig",
-     "src": "https://www.digicelpacific.com/news/digicel-tonga-pioneers-financial-inclusion-with-innovative-two-tier-kyc-for-mycas",
+     "req": "Tongaische Digicel-Nummer nötig",
+     "src": "https://www.digicelpacific.com/news/digicel-pacifics-mycash-app-gets-a-major-upgrade",
      "pkg": "com.digicelfs.mycash",
      "ic": "zd5WDJYFHSkIq0WRkaBF8CMj_G21-KO_E6suzYCYuQHGQ8PI_jivVW5tADskQoLIl8b7kGOb_UdldseF_5CtTw",
      "ios": 1531250064
@@ -44822,6 +45005,14 @@
      "src": "https://support-to.digicelpacific.com/hc/en-us/articles/6454980648335-How-to-download-MyDigicel-app",
      "ic": "k8o_Lky5cKzO-RzgviIBKDE02ymdU3CBYhjnFDrvdmGaLJlFkqADTKiIl1zR5LstSsMwhGR1rH3hmDPaONr9",
      "ios": 6745426520
+    },
+    {
+     "name": "Einreise Tonga (Auswärtiges Amt)",
+     "cat": "entry",
+     "note": "Visumfrei bis 90 Tage, Reisepass und Rückflug",
+     "url": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit-213790",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/tonga-node/tongasicherheit-213790"
     }
    ],
    "cities": [],
@@ -45611,6 +45802,13 @@
      "use": "limited",
      "req": "Jordanische SIM-Karte nötig",
      "src": "https://www.jopacc.com/faqs/jomopay-faqs"
+    },
+    {
+     "name": "MOI Jordanien (eVisa)",
+     "cat": "entry",
+     "pkg": "com.moi.ministry.ministry_project",
+     "note": "App des Innenministeriums für das Visum vorab",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit-218008"
     }
    ],
    "cities": [
@@ -49113,6 +49311,15 @@
      "url": "https://www.visittobago.gov.tt/",
      "nostore": true,
      "src": "https://www.visittobago.gov.tt/"
+    },
+    {
+     "name": "Endcash",
+     "cat": "payment",
+     "pkg": "com.app.endcash",
+     "note": "Wallet der Republic Bank, QR-Zahlung im Laden",
+     "use": "no",
+     "req": "Lokale Bankkarte zum Aufladen nötig",
+     "src": "https://republictt.com/pdfs/Terms-Conditions-Moments-with-Endcash-2026.pdf"
     }
    ],
    "cities": [],
@@ -50050,6 +50257,16 @@
      "use": "no",
      "req": "Rumänisches Bankkonto nötig",
      "src": "https://play.google.com/store/apps/details?id=ro.btrl.pay&hl=en"
+    },
+    {
+     "name": "RoPay",
+     "cat": "payment",
+     "note": "Zahlen per QR oder Handynummer in Bank-Apps",
+     "url": "https://www.transfond.ro/ropay/",
+     "nostore": true,
+     "use": "no",
+     "req": "Rumänisches Bankkonto nötig",
+     "src": "https://hotnews.ro/ropay-noua-metoda-de-plata-cu-telefonul-pentru-care-nu-ai-nevoie-de-date-bancare-ci-foosesti-doar-un-cod-qr-1812506"
     },
     {
      "name": "nextbike",
@@ -57178,10 +57395,10 @@
     {
      "name": "mGurush",
      "cat": "payment",
-     "note": "Mobile Money für Zahlungen, Guthaben und Überweisungen",
+     "note": "Erste mobile Geldbörse im Südsudan",
      "use": "no",
-     "req": "Lokale SIM und mGurush-Konto nötig",
-     "src": "https://apps.apple.com/us/app/mgurush/id1527052808",
+     "req": "Südsudanesische Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.mgurush.customer",
      "pkg": "com.mgurush.customer",
      "ic": "2pOjiiWlsH51m76pEFloXJZb8FmieXPUYVkLksbFFZyIfYNc1JES0U8RoMjCYApP9HPq6HL3g-d4fNGq_ffm"
     },
@@ -57642,6 +57859,15 @@
      "url": "https://www.meteo.ad/",
      "nostore": true,
      "src": "https://www.meteo.ad/"
+    },
+    {
+     "name": "MoraBanc",
+     "cat": "payment",
+     "pkg": "com.morabanc.mobileapp",
+     "note": "Andorranische Bank-App mit Bizum-Zahlungen",
+     "use": "no",
+     "req": "Konto bei MoraBanc nötig",
+     "src": "https://www.morabanc.ad/en/thinkbank/press-room/morabanc-first-bank-andorra-bizum-businesses-app"
     }
    ],
    "cities": [
@@ -57919,6 +58145,15 @@
      "url": "https://pogoda.by",
      "nostore": true,
      "src": "https://pogoda.by"
+    },
+    {
+     "name": "Belarusbank",
+     "cat": "payment",
+     "pkg": "by.softclub.belarusbank",
+     "note": "Staatsbank App mit ERIP Zahlungen",
+     "use": "no",
+     "req": "Belarussisches Konto nötig, EU Karten gesperrt",
+     "src": "https://belarusbank.by/"
     }
    ],
    "cities": [
@@ -57967,6 +58202,15 @@
        "src": "https://myfin.by/article/belarus/s-16-noabra-elektrosamokaty-v-minske-usli-na-zimovku-49760",
        "pkg": "by.eleven.scooters",
        "ic": "94V5_MipbBS4g4P3dtYxKizhFZx6oXnVoOxh5uCA1VGefecZHesKSif7yq6okdWmZ1Vc9C49KQuvrdI1UTUlRw"
+      },
+      {
+       "name": "Parkouka.by",
+       "cat": "parking",
+       "pkg": "by.parkouka.client",
+       "note": "Parken in Minsk bezahlen",
+       "use": "no",
+       "req": "Belarussische Nummer oder Karte nötig",
+       "src": "https://parkouka.by/"
       }
      ],
      "ll": [
@@ -58099,6 +58343,13 @@
      "note": "Fähren und Busse von Strandfaraskip online buchen",
      "url": "https://booking.ssl.fo/Booking",
      "src": "https://www.ssl.fo/en/news/explore-the-faroe-islands-by-public-transport"
+    },
+    {
+     "name": "DMI Vejr",
+     "cat": "safety",
+     "pkg": "dk.dmi.byvejret",
+     "note": "Dänischer Wetterdienst, zuständig auch für Färöer",
+     "src": "https://www.dmi.dk/"
     }
    ],
    "cities": [
@@ -58704,6 +58955,15 @@
      "url": "https://tourismboard.gov.bd",
      "nostore": true,
      "src": "https://tourismboard.gov.bd"
+    },
+    {
+     "name": "Nagad",
+     "cat": "payment",
+     "pkg": "com.konasl.nagad",
+     "note": "Mobile Money der Post von Bangladesch",
+     "use": "no",
+     "req": "Bangladeschische SIM und Ausweis nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.konasl.nagad"
     }
    ],
    "cities": [
@@ -59695,6 +59955,14 @@
      "url": "https://zmd.gov.zm",
      "nostore": true,
      "src": "https://zmd.gov.zm"
+    },
+    {
+     "name": "Zambia Tourism Agency",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite Sambias",
+     "url": "https://www.zambia.travel/",
+     "nostore": true,
+     "src": "https://www.untourism.int/affiliate-member-organization/663317"
     }
    ],
    "cities": [
@@ -60731,6 +60999,15 @@
      "ic": "nYce2uG-doYBO6b7-BlpVOHikR36EnWT-MowRokWs_e6vI927UsZJnSASuzIMA0FAI0KSnCjDT7pUm0-zubwyA"
     },
     {
+     "name": "LLB Banking (LiPay)",
+     "cat": "payment",
+     "pkg": "li.llb.banking.mobile",
+     "note": "LiPay QR Zahlung in LLB Banking",
+     "use": "no",
+     "req": "Konto bei der LLB nötig",
+     "src": "https://llb.li/en/business/payments/solutions/lipay"
+    },
+    {
      "name": "Donkey Republic",
      "cat": "micro",
      "pkg": "com.donkeyrepublic.bike.android",
@@ -61428,6 +61705,14 @@
      "src": "https://www.visitmonaco.com/en/access/7547/access-by-rail",
      "ios": 343889987,
      "ic": "TMdf3UBoH52CnGftvpvvO60BGoAN1CZC0iaWiHsvAol1E3MeELiw2ool1zjm3CqY41rrH4jy7S0344opq3HEHw"
+    },
+    {
+     "name": "Visit Monaco",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite mit Monapass-Infos",
+     "url": "https://www.visitmonaco.com/en",
+     "nostore": true,
+     "src": "https://www.gouv.mc/en/news/visitmonaco.com-the-destination-s-new-look-online-showcase"
     }
    ],
    "cities": [],
@@ -61936,6 +62221,25 @@
        "use": "no",
        "req": "Westliche Karten funktionieren in Russland nicht",
        "src": "https://play.google.com/store/apps/details?id=ru.belkacar.belkacar&hl=en"
+      },
+      {
+       "name": "Delimobil",
+       "cat": "carshare",
+       "pkg": "com.carshering",
+       "note": "Großer russischer Carsharing-Anbieter",
+       "use": "no",
+       "req": "Russische Bankkarte nötig",
+       "src": "https://play.google.com/store/apps/details?id=com.carshering",
+       "ic": "0Ama3PxQIqa-1qzzbDZPxPDihJhz7FPJAZpWlbSjnfqb74t4AaTU7k3H2wAdwueLiu4nZcsyU6QBppNKl6O-TR4"
+      },
+      {
+       "name": "Парковки России",
+       "cat": "parking",
+       "pkg": "ru.mosparking.appnew",
+       "note": "Offizielle Park-App des Moskauer Verkehrsamts",
+       "use": "no",
+       "req": "Russische Nummer und Bankkarte nötig",
+       "src": "https://play.google.com/store/apps/details?id=ru.mosparking.appnew"
       }
      ],
      "ll": [
@@ -64945,6 +65249,32 @@
      "src": "https://moovitapp.com/index/en/public_transit-Ramallah_Bireh_Bus_Station-Israel-site_33036823-1",
      "ios": 498477945,
      "ic": "pKE_kPsExlHJ3q68oDr4sMdhRoskymtTGak4QaS_TXVrdOXq5uANlza3UGnG94vzslF45crK3NcbWFMC7obNMw"
+    },
+    {
+     "name": "PalPay",
+     "cat": "payment",
+     "pkg": "com.pcnc.wallet",
+     "note": "Palästinensische Wallet für Zahlungen",
+     "use": "no",
+     "req": "Palästinensischer Ausweis und Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.pcnc.wallet"
+    },
+    {
+     "name": "JawwalPay+",
+     "cat": "payment",
+     "pkg": "ps.Jawwal.JawwalPayNewPlus",
+     "note": "Wallet des Mobilfunkers Jawwal",
+     "use": "no",
+     "req": "Jawwal-SIM und Ausweis nötig",
+     "src": "https://play.google.com/store/apps/details?id=ps.Jawwal.JawwalPayNewPlus"
+    },
+    {
+     "name": "ETA-IL",
+     "cat": "entry",
+     "note": "Elektron. Einreisegenehmigung Israel, Zugang Westjordanland",
+     "url": "https://israel-entry.piba.gov.il/",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/israel-node/israelsicherheit-203814"
     }
    ],
    "cities": [
@@ -65124,6 +65454,16 @@
      "src": "https://discoversyria.store/en/travel-guide/?c=taxi_ride",
      "ic": "2wfQACHWbrDvqScZJWICUO0RnpBXghlQtsrgp2J04HEl0-_yK5Hwi5eSYPaFXwrBSpajG5alV2AWbz0MSvDpHg",
      "ios": 6769325029
+    },
+    {
+     "name": "Visum bei Einreise",
+     "cat": "entry",
+     "note": "Visum meist bei Einreise erhältlich, Reisewarnung",
+     "url": "https://www.auswaertiges-amt.de/de/service/laender/syrien-node/syriensicherheit/204278",
+     "nostore": true,
+     "use": "limited",
+     "req": "Reisewarnung des Auswärtigen Amts beachten",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/syrien-node/syriensicherheit/204278"
     }
    ],
    "cities": [
@@ -65594,10 +65934,10 @@
     {
      "name": "Turkmenistan Railway",
      "cat": "rail",
-     "note": "Offizielle Zugtickets der Demirýollary online kaufen",
-     "use": "no",
-     "req": "Zahlung nur mit turkmenischer Altyn-Asyr-Karte, Passdaten nötig",
-     "src": "https://railway.gov.tm/en/passengers",
+     "note": "Bahntickets der Staatsbahn online kaufen",
+     "use": "limited",
+     "req": "Turkmenische Bankkarte wahrscheinlich nötig",
+     "src": "https://play.google.com/store/apps/details?id=tm.railway.turkmenistanrailways",
      "pkg": "tm.railway.turkmenistanrailways",
      "ic": "FVP45FTUF5KjA5wD7aNLRA6eB45XSNukgopHPb78RGUVZfHSqnwBdWD3_OUrFmox58iiq3MtfaqGnd9xU0RU",
      "ios": 1588394191
@@ -66087,6 +66427,24 @@
      "req": "Funktionierende Telefonnummer für das Konto nötig",
      "src": "https://play.google.com/store/apps/details?id=fakhama.passenger&hl=en&gl=YE",
      "ic": "bqOdaQlIJOZ63OEWbfA9d0XSAR78LAvzThegicQmvefgAHKkfnFwNqukC3HtRVauJbB422h3_nhLKec84OfJMw"
+    },
+    {
+     "name": "Jawali",
+     "cat": "payment",
+     "pkg": "com.ama.wecashmobileapp",
+     "note": "Jemenitische E-Wallet für Zahlungen und Transfers",
+     "use": "no",
+     "req": "Jemenitische Nummer nötig",
+     "src": "https://jawali.com.ye/en/about"
+    },
+    {
+     "name": "ONE Cash",
+     "cat": "payment",
+     "pkg": "com.one.onecustomer",
+     "note": "Große Wallet im Jemen für Zahlungen",
+     "use": "no",
+     "req": "Jemenitische Nummer nötig",
+     "src": "https://www.forbesmiddleeast.com/lists/the-middle-easts-fintech-50-2026/one-cash/"
     }
    ],
    "cities": [

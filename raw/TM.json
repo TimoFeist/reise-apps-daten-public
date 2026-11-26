@@ -149,6 +149,15 @@
    "use": "no",
    "req": "Polizei spürt Männer über Dating-Apps auf, Nutzung gefährlich",
    "src": "https://www.ecoi.net/en/file/local/2127059/laenderkurzinfo-turkmenistan-07-25-sogi.pdf"
+  },
+  {
+   "name": "TurkmenistanRailways",
+   "cat": "rail",
+   "pkg": "tm.railway.turkmenistanrailways",
+   "note": "Bahntickets der Staatsbahn online kaufen",
+   "use": "limited",
+   "req": "Turkmenische Bankkarte wahrscheinlich nötig",
+   "src": "https://play.google.com/store/apps/details?id=tm.railway.turkmenistanrailways"
   }
  ]
 }

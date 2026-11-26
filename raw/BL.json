@@ -103,6 +103,14 @@
    "url": "https://www.saintbarth-tourisme.com/",
    "nostore": true,
    "src": "https://www.saintbarth-tourisme.com/"
+  },
+  {
+   "name": "St Barth Ride",
+   "cat": "taxi",
+   "pkg": "com.needtaxi.stbarth",
+   "note": "Taxi auf St. Barth buchen, Preis vorab",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.needtaxi.stbarth"
   }
  ]
 }

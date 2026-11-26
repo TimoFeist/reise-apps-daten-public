@@ -113,6 +113,15 @@
    "url": "https://www.botswanatourism.co.bw",
    "nostore": true,
    "src": "https://www.botswanatourism.co.bw"
+  },
+  {
+   "name": "Botswana Meteorological Service",
+   "cat": "safety",
+   "note": "Offizieller Wetterdienst mit Vorhersagen",
+   "use": "ok",
+   "url": "https://www.meteo.gov.bw/",
+   "nostore": true,
+   "src": "https://www.meteo.gov.bw/about/"
   }
  ]
 }

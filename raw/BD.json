@@ -200,6 +200,15 @@
    "url": "https://tourismboard.gov.bd",
    "nostore": true,
    "src": "https://tourismboard.gov.bd"
+  },
+  {
+   "name": "Nagad",
+   "cat": "payment",
+   "pkg": "com.konasl.nagad",
+   "note": "Mobile Money der Post von Bangladesch",
+   "use": "no",
+   "req": "Bangladeschische SIM und Ausweis nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.konasl.nagad"
   }
  ]
 }

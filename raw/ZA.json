@@ -203,6 +203,15 @@
    "use": "limited",
    "req": "Nur an teilnehmenden Parkplätzen",
    "src": "https://techcentral.co.za/parket-launches-turnkey-digital-parking-solution-in-joburg-parprom/226936"
+  },
+  {
+   "name": "Upcycles",
+   "cat": "micro",
+   "pkg": "com.rideawaynew.app",
+   "note": "Fahrradverleih per App in Kapstadt",
+   "city": "Cape Town",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.rideawaynew.app"
   }
  ],
  "fetched": "2026-11-17",

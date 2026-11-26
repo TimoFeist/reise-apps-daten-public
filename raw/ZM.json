@@ -135,6 +135,15 @@
    "url": "https://zmd.gov.zm",
    "nostore": true,
    "src": "https://zmd.gov.zm"
+  },
+  {
+   "name": "Zambia Tourism Agency",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite Sambias",
+   "use": "ok",
+   "url": "https://www.zambia.travel/",
+   "nostore": true,
+   "src": "https://www.untourism.int/affiliate-member-organization/663317"
   }
  ]
 }

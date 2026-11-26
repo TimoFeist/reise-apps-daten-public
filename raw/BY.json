@@ -165,6 +165,25 @@
    "url": "https://pogoda.by",
    "nostore": true,
    "src": "https://pogoda.by"
+  },
+  {
+   "name": "Parkouka.by",
+   "cat": "parking",
+   "pkg": "by.parkouka.client",
+   "note": "Parken in Minsk bezahlen",
+   "city": "Minsk",
+   "use": "no",
+   "req": "Belarussische Nummer oder Karte nötig",
+   "src": "https://parkouka.by/"
+  },
+  {
+   "name": "Belarusbank",
+   "cat": "payment",
+   "pkg": "by.softclub.belarusbank",
+   "note": "Staatsbank App mit ERIP Zahlungen",
+   "use": "no",
+   "req": "Belarussisches Konto nötig, EU Karten gesperrt",
+   "src": "https://belarusbank.by/"
   }
  ]
 }

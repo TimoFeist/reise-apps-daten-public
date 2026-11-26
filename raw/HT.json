@@ -96,6 +96,15 @@
    "url": "https://www.nhc.noaa.gov/",
    "nostore": true,
    "src": "https://www.auswaertiges-amt.de/de/service/laender/haiti-node/haitisicherheit/205048"
+  },
+  {
+   "name": "Visit Haiti",
+   "cat": "tourism",
+   "note": "Offizieller Reiseführer für Haiti",
+   "use": "ok",
+   "url": "https://visithaiti.com/",
+   "nostore": true,
+   "src": "https://visithaiti.com/"
   }
  ]
 }

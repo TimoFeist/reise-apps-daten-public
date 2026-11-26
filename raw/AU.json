@@ -522,6 +522,15 @@
    "use": "no",
    "req": "Australisches Bankkonto, Anmeldung nur in Australien",
    "src": "https://beem.com.au/support"
+  },
+  {
+   "name": "Afterpay",
+   "cat": "payment",
+   "pkg": "com.afterpaymobile",
+   "note": "Ratenkauf, an vielen Kassen in Australien",
+   "use": "no",
+   "req": "Australische Karte und Adresse nötig",
+   "src": "https://www.afterpay.com/en-AU"
   }
  ],
  "replace": [

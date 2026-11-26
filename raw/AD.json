@@ -158,6 +158,15 @@
    "url": "https://www.meteo.ad/",
    "nostore": true,
    "src": "https://www.meteo.ad/"
+  },
+  {
+   "name": "MoraBanc",
+   "cat": "payment",
+   "pkg": "com.morabanc.mobileapp",
+   "note": "Andorranische Bank-App mit Bizum-Zahlungen",
+   "use": "no",
+   "req": "Konto bei MoraBanc nötig",
+   "src": "https://www.morabanc.ad/en/thinkbank/press-room/morabanc-first-bank-andorra-bizum-businesses-app"
   }
  ]
 }

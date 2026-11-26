@@ -349,6 +349,24 @@
    "url": "https://twac.immigration.gov.tw",
    "nostore": true,
    "src": "https://www.immigration.gov.tw/5475/5478/141457/142068/398041/"
+  },
+  {
+   "name": "URiDE",
+   "cat": "carshare",
+   "pkg": "tw.com.chailease.android.shareCar",
+   "note": "Carsharing von Chailease, stundenweise mieten",
+   "use": "limited",
+   "req": "Mitgliedschaft und Führerschein nötig",
+   "src": "https://play.google.com/store/apps/details?id=tw.com.chailease.android.shareCar"
+  },
+  {
+   "name": "LINE Pay",
+   "cat": "payment",
+   "pkg": "com.linepaytw.upay",
+   "note": "Verbreitete Bezahl-App in Taiwan",
+   "use": "no",
+   "req": "Taiwanische Nummer und Konto nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.linepaytw.upay"
   }
  ]
 }

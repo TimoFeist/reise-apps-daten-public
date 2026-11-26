@@ -1,6 +1,6 @@
 """Findet Lücken: Länder, in denen eine wichtige Kategorie keine einzige App hat, und schreibt sie nach queue/luecken.json.
 
-Zählt Landes- und Stadteinträge sowie weltweite Apps mit Länderliste ("countries"). Weltweite Apps mit "where": "all"
+Zählt Landes- und Stadteinträge sowie weltweite Apps mit Länderliste ("countries"). Apps mit "use": "no" zählen mit (sie beantworten die Frage, nur mit Bedingung). Weltweite Apps mit "where": "all"
 zählen nicht, sie sagen nichts über lokale Angebote.
 Versuche stehen in info/luecken-versuche.json: {"versuche": {"<ISO>|<cat>": {"am": "JJJJ-MM-TT", "gefunden": 0, "notiz": ""}}}.
 Eine Lücke, die ohne Ergebnis gesucht wurde, kommt erst nach 120 Tagen wieder auf die Liste.
@@ -36,7 +36,7 @@ for c in data["countries"]:
     if cc == "WW":
         continue
     apps = c["apps"] + [a for ci in c.get("cities", []) for a in ci["apps"]]
-    have = {a["cat"] for a in apps if a.get("use") != "no"} | {a["cat"] for a in ww["apps"] if cc in a.get("countries", [])}
+    have = {a["cat"] for a in apps} | {a["cat"] for a in ww["apps"] if cc in a.get("countries", [])}
     for k in KAT:
         if k in have or (k == "entry" and cc in OHNE_EINREISE):
             continue

@@ -103,6 +103,24 @@
    "url": "https://www.meteo.sc/",
    "nostore": true,
    "src": "https://www.meteo.sc/"
+  },
+  {
+   "name": "Spark by Absa",
+   "cat": "payment",
+   "pkg": "sc.co.absa.digitalwallet",
+   "note": "Digitale Geldbörse der Absa Seychellen",
+   "use": "no",
+   "req": "Lokale Nummer und Konto nötig",
+   "src": "https://play.google.com/store/apps/details?id=sc.co.absa.digitalwallet"
+  },
+  {
+   "name": "MCB Juice Seychelles",
+   "cat": "payment",
+   "pkg": "com.mcbsy.juice",
+   "note": "Bank-App der MCB mit Zahlungen und Überweisungen",
+   "use": "no",
+   "req": "Konto bei MCB Seychellen nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.mcbsy.juice"
   }
  ]
 }

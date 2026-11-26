@@ -105,6 +105,33 @@
    "use": "ok",
    "req": "",
    "src": "https://moovitapp.com/index/en/public_transit-Ramallah_Bireh_Bus_Station-Israel-site_33036823-1"
+  },
+  {
+   "name": "PalPay",
+   "cat": "payment",
+   "pkg": "com.pcnc.wallet",
+   "note": "Palästinensische Wallet für Zahlungen",
+   "use": "no",
+   "req": "Palästinensischer Ausweis und Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.pcnc.wallet"
+  },
+  {
+   "name": "JawwalPay+",
+   "cat": "payment",
+   "pkg": "ps.Jawwal.JawwalPayNewPlus",
+   "note": "Wallet des Mobilfunkers Jawwal",
+   "use": "no",
+   "req": "Jawwal-SIM und Ausweis nötig",
+   "src": "https://play.google.com/store/apps/details?id=ps.Jawwal.JawwalPayNewPlus"
+  },
+  {
+   "name": "ETA-IL",
+   "cat": "entry",
+   "note": "Elektron. Einreisegenehmigung Israel, Zugang Westjordanland",
+   "use": "ok",
+   "url": "https://israel-entry.piba.gov.il/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/israel-node/israelsicherheit-203814"
   }
  ],
  "replace": [

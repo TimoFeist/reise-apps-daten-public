@@ -73,6 +73,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/bj/app/kangoo-benin-food-delivery/id6738387504"
+  },
+  {
+   "name": "Bénin Tourisme",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Destination Benin",
+   "use": "ok",
+   "url": "https://benintourisme.bj/",
+   "nostore": true,
+   "src": "https://benintourisme.bj/"
   }
  ]
 }

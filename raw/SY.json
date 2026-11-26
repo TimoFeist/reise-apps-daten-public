@@ -116,6 +116,16 @@
    "use": "ok",
    "req": "",
    "src": "https://www.khaleejtimes.com/uae/dubai-damascus-my-syria-app-supports-tourism"
+  },
+  {
+   "name": "Visum bei Einreise",
+   "cat": "entry",
+   "note": "Visum meist bei Einreise erhältlich, Reisewarnung",
+   "use": "limited",
+   "req": "Reisewarnung des Auswärtigen Amts beachten",
+   "url": "https://www.auswaertiges-amt.de/de/service/laender/syrien-node/syriensicherheit/204278",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/syrien-node/syriensicherheit/204278"
   }
  ]
 }

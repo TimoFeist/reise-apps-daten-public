@@ -111,6 +111,15 @@
    "url": "https://www.visaburkina.bf/",
    "nostore": true,
    "src": "https://www.visaburkina.bf/"
+  },
+  {
+   "name": "MOOV MONEY BF",
+   "cat": "payment",
+   "pkg": "bf.moovmoney.hwmm",
+   "note": "Mobile Money von Moov Africa Burkina",
+   "use": "limited",
+   "req": "Moov-SIM aus Burkina Faso nötig",
+   "src": "https://play.google.com/store/apps/details?id=bf.moovmoney.hwmm"
   }
  ]
 }

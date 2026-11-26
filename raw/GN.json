@@ -95,6 +95,15 @@
    "use": "ok",
    "req": "",
    "src": "https://play.google.com/store/apps/details?id=com.tictacdrive.app"
+  },
+  {
+   "name": "Orange Money Africa",
+   "cat": "payment",
+   "pkg": "com.orange.orangemoneyafrique",
+   "note": "Orange Money, in Guinea weit verbreitet",
+   "use": "limited",
+   "req": "Orange-SIM aus Guinea nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.orange.orangemoneyafrique"
   }
  ]
 }

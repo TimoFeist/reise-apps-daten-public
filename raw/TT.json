@@ -145,6 +145,15 @@
    "url": "https://www.visittobago.gov.tt/",
    "nostore": true,
    "src": "https://www.visittobago.gov.tt/"
+  },
+  {
+   "name": "Endcash",
+   "cat": "payment",
+   "pkg": "com.app.endcash",
+   "note": "Wallet der Republic Bank, QR-Zahlung im Laden",
+   "use": "no",
+   "req": "Lokale Bankkarte zum Aufladen nötig",
+   "src": "https://republictt.com/pdfs/Terms-Conditions-Moments-with-Endcash-2026.pdf"
   }
  ]
 }

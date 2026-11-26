@@ -125,6 +125,15 @@
    "url": "https://www.meteorwanda.gov.rw/",
    "nostore": true,
    "src": "https://www.meteorwanda.gov.rw/"
+  },
+  {
+   "name": "MTN MoMo",
+   "cat": "payment",
+   "pkg": "com.consumerug",
+   "note": "Mobile Money, in Ruanda überall üblich",
+   "use": "limited",
+   "req": "Ruandische MTN SIM mit Pass registrieren",
+   "src": "https://www.mtn.co.rw/momo-app/"
   }
  ]
 }

@@ -211,6 +211,14 @@
    "use": "limited",
    "req": "Jordanische SIM-Karte nötig",
    "src": "https://www.jopacc.com/faqs/jomopay-faqs"
+  },
+  {
+   "name": "MOI Jordanien (eVisa)",
+   "cat": "entry",
+   "pkg": "com.moi.ministry.ministry_project",
+   "note": "App des Innenministeriums für das Visum vorab",
+   "use": "ok",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit-218008"
   }
  ]
 }

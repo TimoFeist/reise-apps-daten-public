@@ -50,6 +50,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/mikronesiensicherheit/220678"
+  },
+  {
+   "name": "Einreise Mikronesien (AA)",
+   "cat": "entry",
+   "note": "Visumfrei 90 Tage, Formular bei Ankunft",
+   "use": "ok",
+   "url": "https://www.auswaertiges-amt.de/de/service/laender/mikronesien-node/mikronesiensicherheit/220678",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/mikronesien-node/mikronesiensicherheit/220678"
   }
  ]
 }

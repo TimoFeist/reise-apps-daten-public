@@ -203,6 +203,15 @@
    "url": "https://www.weather.bm",
    "nostore": true,
    "src": "https://www.weather.bm"
+  },
+  {
+   "name": "Shorelink",
+   "cat": "transit",
+   "pkg": "fr.airweb.bermudes",
+   "note": "Bus und Fähre: Tickets und Fahrplan",
+   "city": "Hamilton",
+   "use": "ok",
+   "src": "https://www.gov.bm/bermuda-bus-system"
   }
  ],
  "replace": [
