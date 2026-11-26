@@ -385,6 +385,584 @@
    "use": "limited",
    "req": "Deutsche Bank mit Wero nötig",
    "src": "https://www.journaldeleconomie.fr/?p=49235"
+  },
+  {
+   "name": "OUIGO",
+   "cat": "rail",
+   "pkg": "com.sncf.ouigo",
+   "note": "Günstige TGV und Intercités der SNCF buchen",
+   "use": "ok",
+   "src": "https://www.ouigo.com"
+  },
+  {
+   "name": "Trainline",
+   "cat": "rail",
+   "pkg": "com.thetrainline",
+   "note": "Zugtickets SNCF, TER und Europa vergleichen",
+   "use": "ok",
+   "src": "https://www.thetrainline.com"
+  },
+  {
+   "name": "Eurostar",
+   "cat": "rail",
+   "pkg": "com.eurostar.androidapp",
+   "note": "Hochgeschwindigkeitszug nach London und Brüssel",
+   "use": "ok",
+   "src": "https://www.eurostar.com"
+  },
+  {
+   "name": "Kombo",
+   "cat": "rail",
+   "pkg": "com.kombo.kombo",
+   "note": "Zug, Fernbus und Flug in Frankreich vergleichen",
+   "use": "ok",
+   "src": "https://www.kombo.co"
+  },
+  {
+   "name": "Brittany Ferries",
+   "cat": "rail",
+   "pkg": "com.brittanyferries.mobileapp",
+   "note": "Fähren Bretagne und Normandie nach UK, Irland",
+   "use": "ok",
+   "src": "https://www.brittany-ferries.fr"
+  },
+  {
+   "name": "Corsica Ferries",
+   "cat": "rail",
+   "pkg": "fr.corsicaweb.corsicaferries",
+   "note": "Fähren vom Festland nach Korsika und Sardinien",
+   "use": "ok",
+   "src": "https://www.corsica-ferries.fr"
+  },
+  {
+   "name": "Heetch",
+   "cat": "taxi",
+   "pkg": "com.heetch",
+   "note": "Fahrdienst in Paris, Lyon, Marseille, Nizza",
+   "use": "ok",
+   "src": "https://www.heetch.com"
+  },
+  {
+   "name": "LeCab",
+   "cat": "taxi",
+   "pkg": "fr.lecab.android",
+   "note": "Französischer VTC Chauffeurdienst",
+   "use": "ok",
+   "src": "https://www.lecab.fr"
+  },
+  {
+   "name": "Allocab",
+   "cat": "taxi",
+   "pkg": "com.allocab.allocabpassenger",
+   "note": "Taxi und VTC Chauffeur buchen, auch Flughafen",
+   "use": "ok",
+   "src": "https://www.allocab.com"
+  },
+  {
+   "name": "Taxi Lyon TL",
+   "cat": "taxi",
+   "pkg": "com.tl.client",
+   "note": "Taxizentrale Taxi Lyon",
+   "city": "Lyon",
+   "use": "ok",
+   "src": "https://www.taxilyon.com"
+  },
+  {
+   "name": "Taxi Radio Marseille",
+   "cat": "taxi",
+   "pkg": "com.autocab.taxibooker.taximarseille.france",
+   "note": "Taxizentrale Marseille",
+   "city": "Marseille",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.autocab.taxibooker.taximarseille.france"
+  },
+  {
+   "name": "Taxi Nice Riviera",
+   "cat": "taxi",
+   "pkg": "com.lanoosphere.tessa.taxi_riviera",
+   "note": "Taxis in Nizza und an der Côte d'Azur",
+   "city": "Nice",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lanoosphere.tessa.taxi_riviera"
+  },
+  {
+   "name": "Taxi Toulouse",
+   "cat": "taxi",
+   "pkg": "com.lanoosphere.tessa.taxi_toulouse",
+   "note": "Taxi in Toulouse bestellen",
+   "city": "Toulouse",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lanoosphere.tessa.taxi_toulouse"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing von Sixt",
+   "use": "ok",
+   "src": "https://www.sixt.fr"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.europcar.europcarmobility",
+   "note": "Mietwagen von Europcar buchen",
+   "use": "ok",
+   "src": "https://www.europcar.fr"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen von Hertz",
+   "use": "ok",
+   "src": "https://www.hertz.fr"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "note": "Mietwagen von Avis",
+   "use": "ok",
+   "src": "https://www.avis.fr"
+  },
+  {
+   "name": "Virtuo",
+   "cat": "carshare",
+   "pkg": "com.virtuo.customer",
+   "note": "Mietwagen komplett per App, ohne Schalter",
+   "use": "ok",
+   "src": "https://www.govirtuo.com"
+  },
+  {
+   "name": "Toosla",
+   "cat": "carshare",
+   "pkg": "com.toosla",
+   "note": "Mietwagen per App in Paris",
+   "city": "Paris",
+   "use": "ok",
+   "src": "https://www.toosla.com"
+  },
+  {
+   "name": "Mobilize Share",
+   "cat": "carshare",
+   "pkg": "com.rcimobility.renaultmobility.b2c",
+   "note": "Renault Carsharing und Kurzmiete",
+   "use": "ok",
+   "src": "https://www.mobilize.renault"
+  },
+  {
+   "name": "Leo&Go",
+   "cat": "carshare",
+   "pkg": "com.vulog.leo.and.go",
+   "note": "Free Floating Carsharing in Lyon",
+   "city": "Lyon",
+   "use": "ok",
+   "src": "https://www.leoandgo.com"
+  },
+  {
+   "name": "Citiz",
+   "cat": "carshare",
+   "pkg": "com.franceautopartage.softiz",
+   "note": "Stationsbasiertes Carsharing in vielen Städten",
+   "use": "ok",
+   "src": "https://citiz.coop"
+  },
+  {
+   "name": "Turo",
+   "cat": "carshare",
+   "pkg": "com.relayrides.android.relayrides",
+   "note": "Autos privat von Besitzern mieten",
+   "use": "ok",
+   "src": "https://turo.com/fr/fr"
+  },
+  {
+   "name": "Yescapa",
+   "cat": "carshare",
+   "pkg": "com.yescapa",
+   "note": "Wohnmobile und Vans privat mieten",
+   "use": "ok",
+   "src": "https://www.yescapa.fr"
+  },
+  {
+   "name": "Yespark",
+   "cat": "parking",
+   "pkg": "com.yespark.android",
+   "note": "Stellplätze in Parkhäusern per App buchen",
+   "use": "ok",
+   "src": "https://www.yespark.fr"
+  },
+  {
+   "name": "Zenpark",
+   "cat": "parking",
+   "pkg": "com.zenpark.mobile",
+   "note": "Parkplätze reservieren, Zugang per App",
+   "use": "ok",
+   "src": "https://zenpark.com"
+  },
+  {
+   "name": "Onepark",
+   "cat": "parking",
+   "pkg": "onepark.app",
+   "note": "Parkplatz in Parkhäusern vorab buchen",
+   "use": "ok",
+   "src": "https://www.onepark.fr"
+  },
+  {
+   "name": "Q-Park",
+   "cat": "parking",
+   "pkg": "com.qpark.mobilepark.android",
+   "note": "Parkhäuser von Q-Park, Tickets per App",
+   "use": "ok",
+   "src": "https://www.q-park.fr"
+  },
+  {
+   "name": "Just Eat",
+   "cat": "delivery",
+   "pkg": "com.justeat.app.uk",
+   "note": "Essenslieferung, in Frankreich als Just Eat",
+   "use": "ok",
+   "src": "https://www.just-eat.fr"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übrige Speisen günstig abholen",
+   "use": "ok",
+   "src": "https://www.toogoodtogo.com"
+  },
+  {
+   "name": "Monoprix Courses",
+   "cat": "delivery",
+   "pkg": "fr.monoprix.ocommerce",
+   "note": "Lebensmittel von Monoprix liefern lassen",
+   "use": "ok",
+   "src": "https://courses.monoprix.fr"
+  },
+  {
+   "name": "Lyf Pay",
+   "cat": "payment",
+   "pkg": "com.fivory.prod",
+   "note": "Französische Bezahl App, mit Karte aufladbar",
+   "use": "limited",
+   "req": "Nur bei teilnehmenden Händlern",
+   "src": "https://www.lyf.eu"
+  },
+  {
+   "name": "Paris je t'aime",
+   "cat": "tourism",
+   "pkg": "biz.otipass.otcp",
+   "note": "Offizielle Tourismus App und Paris Pass",
+   "city": "Paris",
+   "use": "ok",
+   "src": "https://parisjetaime.com"
+  },
+  {
+   "name": "Château de Versailles",
+   "cat": "tourism",
+   "pkg": "com.sycomore.chateaudeversaille.activity",
+   "note": "Offizielle App mit Audioguide für Versailles",
+   "city": "Paris",
+   "use": "ok",
+   "src": "https://www.chateauversailles.fr"
+  },
+  {
+   "name": "Notre-Dame de Paris",
+   "cat": "tourism",
+   "pkg": "fr.notredamedeparis.app",
+   "note": "Offizielle App der Kathedrale",
+   "city": "Paris",
+   "use": "ok",
+   "src": "https://www.notredamedeparis.fr"
+  },
+  {
+   "name": "Lyon City Card",
+   "cat": "tourism",
+   "pkg": "com.otipass.lyon",
+   "note": "Stadtpass ONLYLYON mit Museen und ÖPNV",
+   "city": "Lyon",
+   "use": "ok",
+   "src": "https://www.visiterlyon.com"
+  },
+  {
+   "name": "Pass tourisme Toulouse",
+   "cat": "tourism",
+   "pkg": "com.otipass.toulouse",
+   "note": "Stadtpass von Toulouse Tourisme",
+   "city": "Toulouse",
+   "use": "ok",
+   "src": "https://www.toulouse-tourisme.com"
+  },
+  {
+   "name": "Mes Calanques",
+   "cat": "tourism",
+   "pkg": "fr.setavoo.infoparcpnc",
+   "note": "Infos zum Nationalpark Calanques",
+   "city": "Marseille",
+   "use": "ok",
+   "src": "https://www.calanques-parcnational.fr"
+  },
+  {
+   "name": "Bison Futé",
+   "cat": "safety",
+   "pkg": "fr.gouv.bisonfute",
+   "note": "Staus und Verkehrswarnungen des Staates",
+   "use": "ok",
+   "src": "https://www.bison-fute.gouv.fr"
+  },
+  {
+   "name": "Vigicrues",
+   "cat": "safety",
+   "pkg": "fr.schapi.vigicrues",
+   "note": "Offizielle Hochwasserwarnungen",
+   "use": "ok",
+   "src": "https://www.vigicrues.gouv.fr"
+  },
+  {
+   "name": "Urgence 114",
+   "cat": "safety",
+   "pkg": "fr.urgence114.urgence114",
+   "note": "Notruf per Text für Hör und Sprachbehinderte",
+   "use": "ok",
+   "src": "https://www.info.urgence114.fr"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "note": "Navigation mit Live Verkehr, in Frankreich verbreitet",
+   "use": "ok",
+   "src": "https://www.waze.com"
+  },
+  {
+   "name": "Mappy",
+   "cat": "maps",
+   "pkg": "com.mappy.app",
+   "note": "Französischer Routenplaner mit Maut und Benzin",
+   "use": "ok",
+   "src": "https://fr.mappy.com"
+  },
+  {
+   "name": "ViaMichelin",
+   "cat": "maps",
+   "pkg": "com.viamichelin.android.viamichelinmobile",
+   "note": "Routen mit Mautkosten, Michelin Restaurants",
+   "use": "ok",
+   "src": "https://www.viamichelin.fr"
+  },
+  {
+   "name": "Coyote",
+   "cat": "maps",
+   "pkg": "com.coyotesystems.android",
+   "note": "Verkehrswarnungen und Navigation, verbreitet",
+   "use": "ok",
+   "src": "https://www.coyote.fr"
+  },
+  {
+   "name": "Visorando",
+   "cat": "maps",
+   "pkg": "org.visorando.android",
+   "note": "Wanderwege in Frankreich, offline",
+   "use": "ok",
+   "src": "https://www.visorando.com"
+  },
+  {
+   "name": "Paris Aéroport",
+   "cat": "flights",
+   "pkg": "fr.aeroportsdeparis.myairport",
+   "note": "Offizielle App CDG und Orly",
+   "city": "Paris",
+   "use": "ok",
+   "src": "https://www.parisaeroport.fr"
+  },
+  {
+   "name": "Aéroport Nice",
+   "cat": "flights",
+   "pkg": "com.niceaeroport.ACAPAX",
+   "note": "Flughafen Nizza Côte d'Azur",
+   "city": "Nice",
+   "use": "ok",
+   "src": "https://www.nice.aeroport.fr"
+  },
+  {
+   "name": "Lyon Aéroport",
+   "cat": "flights",
+   "pkg": "com.adl.flyon",
+   "note": "Flughafen Lyon Saint Exupéry",
+   "city": "Lyon",
+   "use": "ok",
+   "src": "https://www.lyonaeroports.com"
+  },
+  {
+   "name": "Aéroport Marseille Provence",
+   "cat": "flights",
+   "pkg": "com.scala.aeroportmp",
+   "note": "Flughafen Marseille Provence",
+   "city": "Marseille",
+   "use": "ok",
+   "src": "https://www.marseille.aeroport.fr"
+  },
+  {
+   "name": "Toulouse Blagnac Airport",
+   "cat": "flights",
+   "pkg": "fr.toulouse.aeroport.aeroporttls",
+   "note": "Flughafen Toulouse Blagnac",
+   "city": "Toulouse",
+   "use": "ok",
+   "src": "https://www.toulouse.aeroport.fr"
+  },
+  {
+   "name": "Air France",
+   "cat": "flights",
+   "pkg": "com.airfrance.android.dinamoprd",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.airfrance.fr"
+  },
+  {
+   "name": "Transavia",
+   "cat": "flights",
+   "pkg": "com.mttnow.droid.transavia",
+   "note": "Billigflieger der Air France Gruppe",
+   "use": "ok",
+   "src": "https://www.transavia.com"
+  },
+  {
+   "name": "Air Corsica",
+   "cat": "flights",
+   "pkg": "com.amadeus.merci.xk",
+   "note": "Flüge nach Korsika",
+   "use": "ok",
+   "src": "https://www.aircorsica.com"
+  },
+  {
+   "name": "ALL Accor",
+   "cat": "hotels",
+   "pkg": "com.accor.appli.hybrid",
+   "note": "Hotels von Ibis, Novotel, Mercure und Co.",
+   "use": "ok",
+   "src": "https://all.accor.com"
+  },
+  {
+   "name": "B&B HOTELS",
+   "cat": "hotels",
+   "pkg": "com.bbhotel.android",
+   "note": "Günstige Hotelkette, viele Standorte",
+   "use": "ok",
+   "src": "https://www.hotel-bb.com"
+  },
+  {
+   "name": "Logis Hotels",
+   "cat": "hotels",
+   "pkg": "com.fil.app",
+   "note": "Familiengeführte Hotels in ganz Frankreich",
+   "use": "ok",
+   "src": "https://www.logishotels.com"
+  },
+  {
+   "name": "park4night",
+   "cat": "hotels",
+   "pkg": "fr.tramb.park4night",
+   "note": "Stellplätze für Wohnmobil und Van",
+   "use": "ok",
+   "src": "https://park4night.com"
+  },
+  {
+   "name": "CAMPING-CAR PARK",
+   "cat": "hotels",
+   "pkg": "com.campingcarpark.campingcarpark",
+   "note": "Netz von Wohnmobil Stellplätzen",
+   "use": "ok",
+   "src": "https://www.campingcarpark.com"
+  },
+  {
+   "name": "Yelloh! Village",
+   "cat": "hotels",
+   "pkg": "fr.yellohvillage.application",
+   "note": "Campingplätze der Kette Yelloh Village",
+   "use": "ok",
+   "src": "https://www.yellohvillage.fr"
+  },
+  {
+   "name": "Carrefour",
+   "cat": "shopping",
+   "pkg": "com.carrefour.fid.android",
+   "note": "Supermarkt mit Angeboten und Filialsuche",
+   "use": "ok",
+   "src": "https://www.carrefour.fr"
+  },
+  {
+   "name": "My E.Leclerc",
+   "cat": "shopping",
+   "pkg": "com.infomil.bill",
+   "note": "Supermarkt E.Leclerc, Filialen und Angebote",
+   "use": "ok",
+   "src": "https://www.e.leclerc"
+  },
+  {
+   "name": "Intermarché",
+   "cat": "shopping",
+   "pkg": "fr.stime.mcommerce",
+   "note": "Supermarkt Intermarché, Filialen und Drive",
+   "use": "ok",
+   "src": "https://www.intermarche.com"
+  },
+  {
+   "name": "Auchan",
+   "cat": "shopping",
+   "pkg": "com.auchan.android",
+   "note": "Supermarkt Auchan mit Angeboten",
+   "use": "ok",
+   "src": "https://www.auchan.fr"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialsuche bei Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.fr"
+  },
+  {
+   "name": "M' Monoprix",
+   "cat": "shopping",
+   "pkg": "snapp.snappfid.monoprix",
+   "note": "Innenstadt Supermarkt Monoprix, Vorteile",
+   "use": "ok",
+   "src": "https://www.monoprix.fr"
+  },
+  {
+   "name": "Courses U",
+   "cat": "shopping",
+   "pkg": "com.coursesu.app",
+   "note": "Super U und Hyper U, Filialen und Drive",
+   "use": "ok",
+   "src": "https://www.coursesu.com"
+  },
+  {
+   "name": "Picard",
+   "cat": "shopping",
+   "pkg": "com.picard.catalogue",
+   "note": "Tiefkühlspezialist mit Filialsuche",
+   "use": "ok",
+   "src": "https://www.picard.fr"
+  },
+  {
+   "name": "Decathlon",
+   "cat": "shopping",
+   "pkg": "com.decathlon.app",
+   "note": "Sport und Outdoor Ausrüstung",
+   "use": "ok",
+   "src": "https://www.decathlon.fr"
+  },
+  {
+   "name": "Doctolib",
+   "cat": "misc",
+   "pkg": "fr.doctolib.www",
+   "note": "Arzttermine online buchen, auch für Touristen",
+   "use": "ok",
+   "src": "https://www.doctolib.fr"
   }
  ]
 }

@@ -585,6 +585,634 @@
    "req": "Nur mit US-Wohnsitz und US-Nummer",
    "url": "https://cash.app/",
    "src": "https://cash.app/help/6485-cash-app-international-availability"
+  },
+  {
+   "name": "Megabus",
+   "cat": "rail",
+   "pkg": "com.megabus.app",
+   "note": "Günstige Fernbusse im Nordosten und Süden",
+   "use": "ok",
+   "src": "https://us.megabus.com"
+  },
+  {
+   "name": "NYC Ferry",
+   "cat": "rail",
+   "pkg": "co.bytemark.nycf",
+   "note": "Fähren in New York, Tickets per App",
+   "city": "New York",
+   "use": "ok",
+   "src": "https://www.ferry.nyc"
+  },
+  {
+   "name": "San Francisco Bay Ferry",
+   "cat": "rail",
+   "pkg": "com.hornblower.sanfranciscobayferry",
+   "note": "Fähren in der Bucht von San Francisco",
+   "city": "San Francisco",
+   "use": "ok",
+   "src": "https://sanfranciscobayferry.com"
+  },
+  {
+   "name": "LAX FlyAway",
+   "cat": "rail",
+   "pkg": "com.justride.flyawaybus",
+   "note": "Flughafenbus LAX nach Union Station und mehr",
+   "city": "Los Angeles",
+   "use": "ok",
+   "src": "https://www.flylax.com/flyaway-bus"
+  },
+  {
+   "name": "Curb",
+   "cat": "taxi",
+   "pkg": "com.ridecharge.android.taximagic",
+   "note": "Offizielle Taxis bestellen, z. B. Yellow Cabs NYC",
+   "use": "ok",
+   "src": "https://gocurb.com"
+  },
+  {
+   "name": "Waymo",
+   "cat": "taxi",
+   "pkg": "com.waymo.carapp",
+   "note": "Fahrerlose Robotaxis in einigen Großstädten",
+   "use": "ok",
+   "src": "https://waymo.com"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "com.ehi.enterprise.android",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.enterprise.com"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.hertz.com"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.androidapp",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.avis.com"
+  },
+  {
+   "name": "Budget",
+   "cat": "carshare",
+   "pkg": "com.budget.androidapp",
+   "note": "Günstige Mietwagen",
+   "use": "ok",
+   "src": "https://www.budget.com"
+  },
+  {
+   "name": "National",
+   "cat": "carshare",
+   "pkg": "com.ehi.national.mobile",
+   "note": "Mietwagen, Auto direkt am Schalter vorbei wählen",
+   "use": "ok",
+   "src": "https://www.nationalcar.com"
+  },
+  {
+   "name": "Alamo",
+   "cat": "carshare",
+   "pkg": "com.alamo.mobile",
+   "note": "Mietwagen, beliebt bei Urlaubern",
+   "use": "ok",
+   "src": "https://www.alamo.com"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an großen Flughäfen",
+   "use": "ok",
+   "src": "https://www.sixt.com"
+  },
+  {
+   "name": "Getaround",
+   "cat": "carshare",
+   "pkg": "com.c4mprod.voiturelib",
+   "note": "Autos von Privatleuten stundenweise mieten",
+   "use": "ok",
+   "src": "https://www.getaround.com"
+  },
+  {
+   "name": "Outdoorsy",
+   "cat": "carshare",
+   "pkg": "com.outdoorsy.renter",
+   "note": "Wohnmobile von Privatleuten mieten",
+   "use": "ok",
+   "src": "https://www.outdoorsy.com"
+  },
+  {
+   "name": "RVezy",
+   "cat": "carshare",
+   "pkg": "com.rvezy",
+   "note": "Wohnmobile mieten",
+   "use": "ok",
+   "src": "https://www.rvezy.com"
+  },
+  {
+   "name": "Spin",
+   "cat": "micro",
+   "pkg": "pm.spin",
+   "note": "E-Scooter in vielen US-Städten",
+   "use": "ok",
+   "src": "https://www.spin.app"
+  },
+  {
+   "name": "Divvy",
+   "cat": "micro",
+   "pkg": "com.motivateco.chicagoapp",
+   "note": "Leihräder und E-Bikes in Chicago",
+   "city": "Chicago",
+   "use": "ok",
+   "src": "https://divvybikes.com"
+  },
+  {
+   "name": "Lyft Bike Bay Area",
+   "cat": "micro",
+   "pkg": "com.motivateco.gobike",
+   "note": "Bay Wheels Leihräder in San Francisco",
+   "city": "San Francisco",
+   "use": "ok",
+   "src": "https://www.lyft.com/bikes/bay-wheels"
+  },
+  {
+   "name": "Bluebikes",
+   "cat": "micro",
+   "pkg": "com.motivateco.hubway",
+   "note": "Leihräder in Boston",
+   "city": "Boston",
+   "use": "ok",
+   "src": "https://bluebikes.com"
+  },
+  {
+   "name": "BIKETOWN",
+   "cat": "micro",
+   "pkg": "com.biketownpdx",
+   "note": "Leih-E-Bikes in Portland",
+   "city": "Portland",
+   "use": "ok",
+   "src": "https://biketownpdx.com"
+  },
+  {
+   "name": "Capital Bikeshare",
+   "cat": "micro",
+   "pkg": "com.motivateco.capitalbikeshare",
+   "note": "Leihräder in Washington DC",
+   "city": "Washington",
+   "use": "ok",
+   "src": "https://capitalbikeshare.com"
+  },
+  {
+   "name": "Metro Bike Share",
+   "cat": "micro",
+   "pkg": "com.bicycletransit.MetroBikeShare",
+   "note": "Leihräder in Los Angeles",
+   "city": "Los Angeles",
+   "use": "ok",
+   "src": "https://bikeshare.metro.net"
+  },
+  {
+   "name": "CapMetro Bikeshare",
+   "cat": "micro",
+   "pkg": "com.lyft.android.austinapp",
+   "note": "Leihräder in Austin",
+   "city": "Austin",
+   "use": "ok",
+   "src": "https://www.capmetro.org/bikeshare"
+  },
+  {
+   "name": "ParkMobile",
+   "cat": "parking",
+   "pkg": "net.sharewire.parkmobilev2",
+   "note": "Straßenparken in vielen US-Städten",
+   "use": "ok",
+   "src": "https://parkmobile.io"
+  },
+  {
+   "name": "SpotHero",
+   "cat": "parking",
+   "pkg": "com.spothero.spothero",
+   "note": "Parkhäuser vorab günstig buchen",
+   "use": "ok",
+   "src": "https://spothero.com"
+  },
+  {
+   "name": "ParkWhiz",
+   "cat": "parking",
+   "pkg": "com.parkwhiz.driverApp",
+   "note": "Parkplätze vorab buchen",
+   "use": "ok",
+   "src": "https://www.parkwhiz.com"
+  },
+  {
+   "name": "Passport Parking",
+   "cat": "parking",
+   "pkg": "com.passportparking.mobile",
+   "note": "Städtisches Parken in vielen Orten",
+   "use": "ok",
+   "src": "https://www.passportinc.com"
+  },
+  {
+   "name": "ParkNYC",
+   "cat": "parking",
+   "pkg": "net.sharewire.Nycdot",
+   "note": "Offizielles Straßenparken in New York",
+   "city": "New York",
+   "use": "ok",
+   "src": "https://www.nyc.gov/parknyc"
+  },
+  {
+   "name": "ParkChicago",
+   "cat": "parking",
+   "pkg": "com.passportparking.mobile.parkchicago",
+   "note": "Parkuhren in Chicago per App",
+   "city": "Chicago",
+   "use": "ok",
+   "src": "https://parkchicago.com"
+  },
+  {
+   "name": "ParkHouston",
+   "cat": "parking",
+   "pkg": "net.sharewire.parkhouston",
+   "note": "Städtisches Parken in Houston",
+   "city": "Houston",
+   "use": "ok",
+   "src": "https://www.houstontx.gov/parking"
+  },
+  {
+   "name": "The Parking Spot",
+   "cat": "parking",
+   "pkg": "com.theparkingspot.tpscustomer",
+   "note": "Parken an Flughäfen mit Shuttle",
+   "use": "ok",
+   "src": "https://www.theparkingspot.com"
+  },
+  {
+   "name": "Instacart",
+   "cat": "delivery",
+   "pkg": "com.instacart.client",
+   "note": "Lebensmittel aus lokalen Supermärkten liefern",
+   "use": "ok",
+   "src": "https://www.instacart.com"
+  },
+  {
+   "name": "Postmates",
+   "cat": "delivery",
+   "pkg": "com.postmates.android",
+   "note": "Essen und Einkäufe liefern lassen",
+   "use": "ok",
+   "src": "https://postmates.com"
+  },
+  {
+   "name": "Gopuff",
+   "cat": "delivery",
+   "pkg": "com.main.gopuff",
+   "note": "Schnelllieferung von Snacks und Drogerie",
+   "use": "ok",
+   "src": "https://www.gopuff.com"
+  },
+  {
+   "name": "Shipt",
+   "cat": "delivery",
+   "pkg": "com.shipt.groceries",
+   "note": "Lieferung von Target und anderen Läden",
+   "use": "ok",
+   "src": "https://www.shipt.com"
+  },
+  {
+   "name": "7NOW",
+   "cat": "delivery",
+   "pkg": "com.seven.eleven.phoenix",
+   "note": "Lieferung von 7-Eleven, auch nachts",
+   "use": "ok",
+   "src": "https://www.7-eleven.com/7now"
+  },
+  {
+   "name": "National Park Service",
+   "cat": "tourism",
+   "pkg": "gov.nps.mobileapp",
+   "note": "Offizielle App aller Nationalparks, offline",
+   "use": "ok",
+   "src": "https://www.nps.gov/subjects/digital/nps-apps.htm"
+  },
+  {
+   "name": "Recreation.gov",
+   "cat": "tourism",
+   "pkg": "com.bah.r1smobile",
+   "note": "Campingplätze, Touren und Parkeintritte buchen",
+   "use": "ok",
+   "src": "https://www.recreation.gov"
+  },
+  {
+   "name": "My CityPASS",
+   "cat": "tourism",
+   "pkg": "com.citypass.my",
+   "note": "Stadtpässe für große US-Städte",
+   "use": "ok",
+   "src": "https://www.citypass.com"
+  },
+  {
+   "name": "My Disney Experience",
+   "cat": "tourism",
+   "pkg": "com.disney.wdw.android",
+   "note": "Walt Disney World Tickets und Wartezeiten",
+   "city": "Orlando",
+   "use": "ok",
+   "src": "https://disneyworld.disney.go.com"
+  },
+  {
+   "name": "Disneyland",
+   "cat": "tourism",
+   "pkg": "com.disney.wdpro.dlr",
+   "note": "Disneyland Resort Tickets und Wartezeiten",
+   "city": "Los Angeles",
+   "use": "ok",
+   "src": "https://disneyland.disney.go.com"
+  },
+  {
+   "name": "The Weather Channel",
+   "cat": "safety",
+   "pkg": "com.weather.Weather",
+   "note": "Wetter und Unwetterwarnungen",
+   "use": "ok",
+   "src": "https://weather.com"
+  },
+  {
+   "name": "Red Cross Emergency",
+   "cat": "safety",
+   "pkg": "com.cube.arc.hzd",
+   "note": "Unwetter und Katastrophenwarnungen",
+   "use": "ok",
+   "src": "https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html"
+  },
+  {
+   "name": "First Aid: American Red Cross",
+   "cat": "safety",
+   "pkg": "com.cube.arc.fa",
+   "note": "Erste Hilfe Anleitungen, offline",
+   "use": "ok",
+   "src": "https://www.redcross.org"
+  },
+  {
+   "name": "MyRadar",
+   "cat": "safety",
+   "pkg": "com.acmeaom.android.myradar",
+   "note": "Wetterradar mit Sturm- und Hurrikanwarnung",
+   "use": "ok",
+   "src": "https://myradar.com"
+  },
+  {
+   "name": "Citizen",
+   "cat": "safety",
+   "pkg": "sp0n.citizen",
+   "note": "Sicherheitsmeldungen in Echtzeit in Großstädten",
+   "use": "ok",
+   "src": "https://citizen.com"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "note": "Navigation mit Verkehrs- und Blitzermeldungen",
+   "use": "ok",
+   "src": "https://www.waze.com"
+  },
+  {
+   "name": "MyTSA",
+   "cat": "flights",
+   "pkg": "gov.dhs.tsa.mytsa",
+   "note": "Wartezeiten und Regeln der Sicherheitskontrolle",
+   "use": "ok",
+   "src": "https://www.tsa.gov/mytsa"
+  },
+  {
+   "name": "DFW Airport",
+   "cat": "flights",
+   "pkg": "com.dfw",
+   "note": "Offizielle App des Flughafens Dallas Fort Worth",
+   "city": "Dallas",
+   "use": "ok",
+   "src": "https://www.dfwairport.com"
+  },
+  {
+   "name": "MIA Airport",
+   "cat": "flights",
+   "pkg": "com.mia",
+   "note": "Offizielle App des Flughafens Miami",
+   "city": "Miami",
+   "use": "ok",
+   "src": "https://www.miami-airport.com"
+  },
+  {
+   "name": "Orlando MCO Airport",
+   "cat": "flights",
+   "pkg": "net.orlandoairports.mobile",
+   "note": "Offizielle App des Flughafens Orlando",
+   "city": "Orlando",
+   "use": "ok",
+   "src": "https://flymco.com"
+  },
+  {
+   "name": "flySEA",
+   "cat": "flights",
+   "pkg": "org.portseattle.seatac",
+   "note": "Offizielle App des Flughafens Seattle",
+   "city": "Seattle",
+   "use": "ok",
+   "src": "https://www.portseattle.org/sea-tac"
+  },
+  {
+   "name": "United Airlines",
+   "cat": "flights",
+   "pkg": "com.united.mobile.android",
+   "note": "US-Airline, Star Alliance Partner der Lufthansa",
+   "use": "ok",
+   "src": "https://www.united.com"
+  },
+  {
+   "name": "American Airlines",
+   "cat": "flights",
+   "pkg": "com.aa.android",
+   "note": "Größte US-Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.aa.com"
+  },
+  {
+   "name": "Delta",
+   "cat": "flights",
+   "pkg": "com.delta.mobile.android",
+   "note": "Große US-Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.delta.com"
+  },
+  {
+   "name": "Southwest",
+   "cat": "flights",
+   "pkg": "com.southwestairlines.mobile",
+   "note": "Größte Inlandsairline",
+   "use": "ok",
+   "src": "https://www.southwest.com"
+  },
+  {
+   "name": "JetBlue",
+   "cat": "flights",
+   "pkg": "com.jetblue.JetBlueAndroid",
+   "note": "Airline, stark an der Ostküste",
+   "use": "ok",
+   "src": "https://www.jetblue.com"
+  },
+  {
+   "name": "Alaska Hawaiian",
+   "cat": "flights",
+   "pkg": "com.alaskaairlines.android",
+   "note": "Alaska Airlines und Hawaiian Airlines",
+   "use": "ok",
+   "src": "https://www.alaskaair.com"
+  },
+  {
+   "name": "Frontier",
+   "cat": "flights",
+   "pkg": "com.flyfrontier.android",
+   "note": "Billigfluggesellschaft",
+   "use": "ok",
+   "src": "https://www.flyfrontier.com"
+  },
+  {
+   "name": "Marriott Bonvoy",
+   "cat": "hotels",
+   "pkg": "com.marriott.mrt",
+   "note": "Hotels von Marriott buchen",
+   "use": "ok",
+   "src": "https://www.marriott.com"
+  },
+  {
+   "name": "Hilton Honors",
+   "cat": "hotels",
+   "pkg": "com.hilton.android.hhonors",
+   "note": "Hotels von Hilton, digitaler Zimmerschlüssel",
+   "use": "ok",
+   "src": "https://www.hilton.com"
+  },
+  {
+   "name": "IHG One Rewards",
+   "cat": "hotels",
+   "pkg": "com.ihg.apps.android",
+   "note": "Holiday Inn und weitere IHG Hotels",
+   "use": "ok",
+   "src": "https://www.ihg.com"
+  },
+  {
+   "name": "Choice Hotels",
+   "cat": "hotels",
+   "pkg": "com.choicehotels.android",
+   "note": "Comfort Inn, Quality Inn und mehr",
+   "use": "ok",
+   "src": "https://www.choicehotels.com"
+  },
+  {
+   "name": "Wyndham",
+   "cat": "hotels",
+   "pkg": "com.wyndhamhotelgroup.wyndhamrewards",
+   "note": "Super 8, Days Inn und weitere Motels",
+   "use": "ok",
+   "src": "https://www.wyndhamhotels.com"
+  },
+  {
+   "name": "Motel 6",
+   "cat": "hotels",
+   "pkg": "com.my6.android",
+   "note": "Günstige Motels landesweit",
+   "use": "ok",
+   "src": "https://www.motel6.com"
+  },
+  {
+   "name": "KOA Camping",
+   "cat": "hotels",
+   "pkg": "com.koa.mobileapp",
+   "note": "Große Campingplatzkette mit Hütten",
+   "use": "ok",
+   "src": "https://koa.com"
+  },
+  {
+   "name": "Campspot",
+   "cat": "hotels",
+   "pkg": "com.campspot.aggregatormobile",
+   "note": "Campingplätze und RV Parks buchen",
+   "use": "ok",
+   "src": "https://www.campspot.com"
+  },
+  {
+   "name": "Hipcamp",
+   "cat": "hotels",
+   "pkg": "com.hipcamp.pocketknife",
+   "note": "Camping und Hütten auf privatem Land",
+   "use": "ok",
+   "src": "https://www.hipcamp.com"
+  },
+  {
+   "name": "The Dyrt",
+   "cat": "hotels",
+   "pkg": "com.thedyrt.wayfinder",
+   "note": "Campingplätze finden, auch kostenlose",
+   "use": "ok",
+   "src": "https://thedyrt.com"
+  },
+  {
+   "name": "Walmart",
+   "cat": "shopping",
+   "pkg": "com.walmart.android",
+   "note": "Größter Händler, Preise und Filialen",
+   "use": "ok",
+   "src": "https://www.walmart.com"
+  },
+  {
+   "name": "Costco",
+   "cat": "shopping",
+   "pkg": "com.costco.app.android",
+   "note": "Großmarkt, nur mit Mitgliedschaft",
+   "use": "limited",
+   "req": "Mitgliedskarte nötig",
+   "src": "https://www.costco.com"
+  },
+  {
+   "name": "Kroger",
+   "cat": "shopping",
+   "pkg": "com.kroger.mobile",
+   "note": "Große Supermarktkette mit Coupons",
+   "use": "ok",
+   "src": "https://www.kroger.com"
+  },
+  {
+   "name": "Safeway",
+   "cat": "shopping",
+   "pkg": "com.safeway.client.android.safeway",
+   "note": "Supermarkt im Westen mit Angeboten",
+   "use": "ok",
+   "src": "https://www.safeway.com"
+  },
+  {
+   "name": "Walgreens",
+   "cat": "shopping",
+   "pkg": "com.usablenet.mobile.walgreen",
+   "note": "Drogerie und Apotheke",
+   "use": "ok",
+   "src": "https://www.walgreens.com"
+  },
+  {
+   "name": "7-Eleven",
+   "cat": "shopping",
+   "pkg": "com.sei.android",
+   "note": "Rund um die Uhr Läden mit Rabatten",
+   "use": "ok",
+   "src": "https://www.7-eleven.com"
   }
  ],
  "replace": [

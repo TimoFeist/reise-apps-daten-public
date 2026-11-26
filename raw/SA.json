@@ -374,6 +374,248 @@
    "url": "https://visa.visitsaudi.com",
    "nostore": true,
    "src": "https://visa.visitsaudi.com"
+  },
+  {
+   "name": "Eastern Region Bus",
+   "cat": "transit",
+   "pkg": "com.saptco.android.afc",
+   "note": "Stadtbusse in Dammam, Khobar und Umgebung",
+   "city": "Dammam",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.saptco.android.afc"
+  },
+  {
+   "name": "Taxi أجرة",
+   "cat": "taxi",
+   "pkg": "com.rider.taxi",
+   "note": "Saudische Taxi App für Taxis und Fahrten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.rider.taxi"
+  },
+  {
+   "name": "Theeb Rent a Car",
+   "cat": "carshare",
+   "pkg": "com.theeb",
+   "note": "Großer saudischer Autovermieter",
+   "use": "ok",
+   "src": "https://www.theeb.com.sa/"
+  },
+  {
+   "name": "Yelo",
+   "cat": "carshare",
+   "pkg": "com.wefaq.carsapp",
+   "note": "Mietwagen von Alwefaq, viele Filialen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.wefaq.carsapp"
+  },
+  {
+   "name": "Budget Saudi",
+   "cat": "carshare",
+   "pkg": "com.budget.saudi",
+   "note": "Budget Mietwagen in Saudi Arabien",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.budget.saudi"
+  },
+  {
+   "name": "Key Car Rental",
+   "cat": "carshare",
+   "pkg": "comcom.key",
+   "note": "Saudischer Autovermieter mit App Buchung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=comcom.key"
+  },
+  {
+   "name": "Lumi",
+   "cat": "carshare",
+   "pkg": "com.seera.lumiapp",
+   "note": "Mietwagen der Seera Gruppe",
+   "use": "ok",
+   "src": "https://lumirental.com/"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und in Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sixt.reservation"
+  },
+  {
+   "name": "Mawgif",
+   "cat": "parking",
+   "pkg": "com.mawgif",
+   "note": "Parken zahlen in mehreren saudischen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mawgif"
+  },
+  {
+   "name": "ToYou",
+   "cat": "delivery",
+   "pkg": "com.arammeem.android.apps.toyou",
+   "note": "Essen und Lebensmittel Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.arammeem.android.apps.toyou"
+  },
+  {
+   "name": "Mrsool",
+   "cat": "delivery",
+   "pkg": "com.mrsool",
+   "note": "Lieferdienst für fast alles aus jedem Laden",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mrsool"
+  },
+  {
+   "name": "Nana",
+   "cat": "delivery",
+   "pkg": "com.exa.nanamarket",
+   "note": "Lebensmittel Lieferung aus Supermärkten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.exa.nanamarket"
+  },
+  {
+   "name": "urpay",
+   "cat": "payment",
+   "pkg": "com.urpay.consumer",
+   "note": "Saudische Wallet, nur mit Aufenthaltstitel",
+   "use": "no",
+   "req": "Saudische ID oder Iqama nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.urpay.consumer"
+  },
+  {
+   "name": "Visit Red Sea",
+   "cat": "tourism",
+   "pkg": "com.redseaglobal.mobile",
+   "note": "Offizielle App des Red Sea Reiseziels",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.redseaglobal.mobile"
+  },
+  {
+   "name": "Anwaa",
+   "cat": "safety",
+   "pkg": "com.sejeltech.ncm",
+   "note": "Wetter und Warnungen des nationalen Wetterdienstes",
+   "use": "ok",
+   "src": "https://ncm.gov.sa/"
+  },
+  {
+   "name": "Saudia",
+   "cat": "flights",
+   "pkg": "com.saudia.SaudiaApp",
+   "note": "Nationale Airline, Buchung und Check in",
+   "use": "ok",
+   "src": "https://www.saudia.com/"
+  },
+  {
+   "name": "flynas",
+   "cat": "flights",
+   "pkg": "com.flynas.android.app",
+   "note": "Saudische Billigairline",
+   "use": "ok",
+   "src": "https://www.flynas.com/"
+  },
+  {
+   "name": "flyadeal",
+   "cat": "flights",
+   "pkg": "com.navitaire.digital.flyadeal",
+   "note": "Saudische Billigairline der Saudia Gruppe",
+   "use": "ok",
+   "src": "https://www.flyadeal.com/"
+  },
+  {
+   "name": "Riyadh Air",
+   "cat": "flights",
+   "pkg": "com.riyadhair.digital.mobile",
+   "note": "Neue Airline mit Basis in Riad",
+   "use": "ok",
+   "src": "https://www.riyadhair.com/"
+  },
+  {
+   "name": "Almosafer",
+   "cat": "hotels",
+   "pkg": "com.travel.almosafer",
+   "note": "Führendes saudisches Reiseportal für Hotels",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.travel.almosafer"
+  },
+  {
+   "name": "Gathern",
+   "cat": "hotels",
+   "pkg": "com.max.gathernClient",
+   "note": "Chalets, Ferienwohnungen und Camps in Saudi Arabien",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.max.gathernClient"
+  },
+  {
+   "name": "almatar",
+   "cat": "hotels",
+   "pkg": "com.almatar",
+   "note": "Saudisches Portal für Flüge und Hotels",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.almatar"
+  },
+  {
+   "name": "Panda",
+   "cat": "shopping",
+   "pkg": "com.todoorstep.store",
+   "note": "Große Supermarktkette, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.todoorstep.store"
+  },
+  {
+   "name": "Danube",
+   "cat": "shopping",
+   "pkg": "com.app.danube",
+   "note": "Supermarktkette mit Online Bestellung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.app.danube"
+  },
+  {
+   "name": "Othaim Iktissab",
+   "cat": "shopping",
+   "pkg": "com.othaim.Iktissab",
+   "note": "Treueprogramm der Othaim Supermärkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.othaim.Iktissab"
+  },
+  {
+   "name": "Tamimi Markets",
+   "cat": "shopping",
+   "pkg": "com.zopsmart.scarlet",
+   "note": "Supermarkt mit Lieferung, viele Westwaren",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.zopsmart.scarlet"
+  },
+  {
+   "name": "LuLu Hypermarket",
+   "cat": "shopping",
+   "pkg": "com.akinon.lulushopping",
+   "note": "Hypermarkt Kette, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.akinon.lulushopping"
+  },
+  {
+   "name": "Carrefour MAF",
+   "cat": "shopping",
+   "pkg": "com.aswat.carrefouruae",
+   "note": "Carrefour Hypermärkte, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.aswat.carrefouruae"
+  },
+  {
+   "name": "noon",
+   "cat": "shopping",
+   "pkg": "com.noon.buyerapp",
+   "note": "Größter Onlinehändler der Golfregion",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.noon.buyerapp"
+  },
+  {
+   "name": "Jarir Bookstore",
+   "cat": "shopping",
+   "pkg": "com.jarirbookstore.JBMarketingApp",
+   "note": "Elektronik, Bücher und Bürobedarf",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.jarirbookstore.JBMarketingApp"
   }
  ],
  "replace": [

@@ -369,6 +369,306 @@
    "use": "limited",
    "req": "Telefonverifizierung und hinterlegte Karte vorab nötig",
    "src": "https://www.bento.travel/sweden"
+  },
+  {
+   "name": "Mälardalstrafik",
+   "cat": "rail",
+   "pkg": "se.malardalstrafik.malartag",
+   "note": "Regionalzüge Mälartåg rund um Stockholm",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.malardalstrafik.malartag",
+   "src": "https://www.malartag.se"
+  },
+  {
+   "name": "Trainline",
+   "cat": "rail",
+   "pkg": "com.thetrainline",
+   "note": "Bahntickets für SJ und andere",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.thetrainline",
+   "src": "https://www.thetrainline.com"
+  },
+  {
+   "name": "Stena Line",
+   "cat": "rail",
+   "pkg": "com.digitaltravelassistant",
+   "note": "Fähren nach Kiel, Rostock, Dänemark",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.digitaltravelassistant",
+   "src": "https://www.stenaline.se"
+  },
+  {
+   "name": "Viking Line",
+   "cat": "rail",
+   "pkg": "com.vikingline.owapp",
+   "note": "Fähren nach Finnland und Estland",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.vikingline.owapp",
+   "src": "https://www.vikingline.se"
+  },
+  {
+   "name": "Tallink Silja Line",
+   "cat": "rail",
+   "pkg": "com.tallink.mikiandroid",
+   "note": "Fähren Stockholm nach Helsinki und Tallinn",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.tallink.mikiandroid",
+   "src": "https://www.tallink.com"
+  },
+  {
+   "name": "Destination Gotland",
+   "cat": "rail",
+   "pkg": "com.destinationgotland.DestGotlandApp",
+   "note": "Fähren nach Gotland",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.destinationgotland.DestGotlandApp",
+   "src": "https://www.destinationgotland.se"
+  },
+  {
+   "name": "Øresundsbron",
+   "cat": "rail",
+   "pkg": "com.oresundsbron.oresundsbron",
+   "note": "Maut für die Brücke nach Kopenhagen",
+   "city": "Malmö",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.oresundsbron.oresundsbron",
+   "src": "https://www.oresundsbron.com"
+  },
+  {
+   "name": "Taxi Sthlm",
+   "cat": "taxi",
+   "pkg": "se.taxistockholm",
+   "note": "Taxi Stockholm, große Zentrale der Stadt",
+   "city": "Stockholm",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.taxistockholm",
+   "src": "https://www.taxistockholm.se"
+  },
+  {
+   "name": "Taxi Kurir",
+   "cat": "taxi",
+   "pkg": "com.cabonline.taxikurir",
+   "note": "Landesweite Taxikette von Cabonline",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cabonline.taxikurir",
+   "src": "https://www.taxikurir.se"
+  },
+  {
+   "name": "Taxi Cabonline",
+   "cat": "taxi",
+   "pkg": "com.cabonline.cabonline",
+   "note": "Taxis mehrerer Zentralen in ganz Schweden",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cabonline.cabonline",
+   "src": "https://www.cabonline.com"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen von Hertz",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.hertz.android.digital",
+   "src": "https://www.hertz.se"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen von Sixt",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sixt.reservation",
+   "src": "https://www.sixt.se"
+  },
+  {
+   "name": "Dott",
+   "cat": "micro",
+   "pkg": "com.ridedott.rider",
+   "note": "E-Scooter und E-Bikes, früher TIER",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ridedott.rider",
+   "src": "https://ridedott.com"
+  },
+  {
+   "name": "Aimo",
+   "cat": "parking",
+   "pkg": "com.aimoone.app",
+   "note": "Große Parkhausbetreiber, Parken und Laden",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.aimoone.app",
+   "src": "https://www.aimopark.se"
+  },
+  {
+   "name": "Mobill Parking",
+   "cat": "parking",
+   "pkg": "se.mobill.parking",
+   "note": "Parken per App in vielen Gemeinden",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.mobill.parking",
+   "src": "https://www.mobill.se"
+  },
+  {
+   "name": "Autopay",
+   "cat": "parking",
+   "pkg": "io.autopay.mobileApp",
+   "note": "Parkplätze mit Kennzeichenerkennung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=io.autopay.mobileApp",
+   "src": "https://play.google.com/store/apps/details?id=io.autopay.mobileApp"
+  },
+  {
+   "name": "Krisinformation.se",
+   "cat": "safety",
+   "pkg": "se.msb.krisinformation",
+   "note": "Offizielle Warnungen der Behörden",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.msb.krisinformation",
+   "src": "https://www.krisinformation.se"
+  },
+  {
+   "name": "SMHI Väder",
+   "cat": "safety",
+   "pkg": "se.smhi.mobile.android",
+   "note": "Staatlicher Wetterdienst mit Warnungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.smhi.mobile.android",
+   "src": "https://www.smhi.se"
+  },
+  {
+   "name": "1177",
+   "cat": "safety",
+   "pkg": "se.vardguiden1177",
+   "note": "Gesundheitsrat und Notdienste",
+   "use": "limited",
+   "req": "Login nur mit BankID",
+   "url": "https://play.google.com/store/apps/details?id=se.vardguiden1177",
+   "src": "https://www.1177.se"
+  },
+  {
+   "name": "Hitta.se",
+   "cat": "maps",
+   "pkg": "se.hitta.android.app",
+   "note": "Schwedische Karten und Branchensuche",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.hitta.android.app",
+   "src": "https://www.hitta.se"
+  },
+  {
+   "name": "Swedavia Airports",
+   "cat": "flights",
+   "pkg": "se.swedavia.arlanda",
+   "note": "Arlanda, Landvetter und weitere Flughäfen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.swedavia.arlanda",
+   "src": "https://www.swedavia.se"
+  },
+  {
+   "name": "SAS",
+   "cat": "flights",
+   "pkg": "se.sas.android",
+   "note": "Skandinavische Fluggesellschaft",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.sas.android",
+   "src": "https://www.flysas.com"
+  },
+  {
+   "name": "Norwegian",
+   "cat": "flights",
+   "pkg": "com.norwegian.travelassistant",
+   "note": "Billigairline mit vielen Inlandsflügen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.norwegian.travelassistant",
+   "src": "https://www.norwegian.com"
+  },
+  {
+   "name": "Scandic Hotels",
+   "cat": "hotels",
+   "pkg": "com.scandichotels.app",
+   "note": "Größte Hotelkette Skandinaviens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.scandichotels.app",
+   "src": "https://www.scandichotels.se"
+  },
+  {
+   "name": "Strawberry",
+   "cat": "hotels",
+   "pkg": "com.nordicchoicehotels.breeze",
+   "note": "Hotels der Strawberry Gruppe, früher Nordic Choice",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.nordicchoicehotels.breeze",
+   "src": "https://www.strawberry.se"
+  },
+  {
+   "name": "STF",
+   "cat": "hotels",
+   "pkg": "se.stf.membercard",
+   "note": "Jugendherbergen und Fjällstationen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.stf.membercard",
+   "src": "https://www.svenskaturistforeningen.se"
+  },
+  {
+   "name": "FirstCamp",
+   "cat": "hotels",
+   "pkg": "se.firstcamp.app",
+   "note": "Campingplätze und Hütten buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.firstcamp.app",
+   "src": "https://firstcamp.se"
+  },
+  {
+   "name": "ICA",
+   "cat": "shopping",
+   "pkg": "se.ica.handla",
+   "note": "Größte Supermarktkette Schwedens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.ica.handla",
+   "src": "https://www.ica.se"
+  },
+  {
+   "name": "Coop",
+   "cat": "shopping",
+   "pkg": "se.nansen.coop",
+   "note": "Coop Supermärkte, Angebote",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.nansen.coop",
+   "src": "https://www.coop.se"
+  },
+  {
+   "name": "Willys",
+   "cat": "shopping",
+   "pkg": "se.axfood.willys",
+   "note": "Discount Supermärkte",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.axfood.willys",
+   "src": "https://www.willys.se"
+  },
+  {
+   "name": "Hemköp",
+   "cat": "shopping",
+   "pkg": "se.axfood.hemkop",
+   "note": "Supermarktkette von Axfood",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.axfood.hemkop",
+   "src": "https://www.hemkop.se"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Lidl Coupons und Filialen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus",
+   "src": "https://www.lidl.se"
+  },
+  {
+   "name": "Systembolaget",
+   "cat": "shopping",
+   "pkg": "se.systembolaget.android",
+   "note": "Staatlicher Alkoholladen, Filialen und Zeiten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=se.systembolaget.android",
+   "src": "https://www.systembolaget.se"
   }
  ]
 }

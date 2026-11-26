@@ -287,6 +287,326 @@
    "url": "https://portal.inmet.gov.br",
    "nostore": true,
    "src": "https://portal.inmet.gov.br/noticias/aplicativo-inmet-de-previsão-do-tempo"
+  },
+  {
+   "name": "SuperVia",
+   "cat": "transit",
+   "pkg": "br.com.supervia",
+   "note": "Vorortzüge im Großraum Rio",
+   "city": "Rio de Janeiro",
+   "use": "ok",
+   "src": "https://www.supervia.com.br"
+  },
+  {
+   "name": "CPTM Oficial",
+   "cat": "transit",
+   "pkg": "br.gov.sp.cptm.mobile",
+   "note": "S Bahn Züge der CPTM in São Paulo",
+   "city": "Sao Paulo",
+   "use": "ok",
+   "src": "https://www.cptm.sp.gov.br"
+  },
+  {
+   "name": "Metrô SP",
+   "cat": "transit",
+   "pkg": "br.com.metrosp.appmetro",
+   "note": "Offizielle App der Metro São Paulo",
+   "city": "Sao Paulo",
+   "use": "ok",
+   "src": "https://www.metro.sp.gov.br"
+  },
+  {
+   "name": "Metrô DF",
+   "cat": "transit",
+   "pkg": "br.gov.df.metroapp",
+   "note": "Offizielle App der Metro Brasília",
+   "city": "Brasilia",
+   "use": "ok",
+   "src": "https://www.metro.df.gov.br"
+  },
+  {
+   "name": "Buser",
+   "cat": "rail",
+   "pkg": "br.com.buser.AppBuser",
+   "note": "Fernbusse günstig buchen",
+   "use": "ok",
+   "src": "https://www.buser.com.br"
+  },
+  {
+   "name": "Buson",
+   "cat": "rail",
+   "pkg": "com.guichevirtual.android",
+   "note": "Fernbustickets vieler Busfirmen",
+   "use": "ok",
+   "src": "https://www.buson.com.br"
+  },
+  {
+   "name": "Guanabara",
+   "cat": "rail",
+   "pkg": "com.xvision.grupoguanabara",
+   "note": "Große Fernbuslinie im Nordosten",
+   "use": "ok",
+   "src": "https://www.viajeguanabara.com.br"
+  },
+  {
+   "name": "TAXI.RIO",
+   "cat": "taxi",
+   "pkg": "br.gov.rj.taxi.rio.passenger",
+   "note": "Offizielle Taxi App der Stadt Rio",
+   "city": "Rio de Janeiro",
+   "use": "ok",
+   "src": "https://taxi.rio"
+  },
+  {
+   "name": "Garupa",
+   "cat": "taxi",
+   "pkg": "co.garupa",
+   "note": "Fahrdienst vor allem im Süden Brasiliens",
+   "use": "ok",
+   "src": "https://garupa.co"
+  },
+  {
+   "name": "USE TAXI",
+   "cat": "taxi",
+   "pkg": "br.com.taxidigitaluse",
+   "note": "Taxi in São Paulo bestellen",
+   "city": "Sao Paulo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=br.com.taxidigitaluse"
+  },
+  {
+   "name": "Movida",
+   "cat": "carshare",
+   "pkg": "br.com.appfactory.movida",
+   "note": "Große brasilianische Autovermietung",
+   "use": "ok",
+   "src": "https://www.movida.com.br"
+  },
+  {
+   "name": "Unidas",
+   "cat": "carshare",
+   "pkg": "br.com.unidas.apprac.android",
+   "note": "Brasilianische Autovermietung",
+   "use": "ok",
+   "src": "https://www.unidas.com.br"
+  },
+  {
+   "name": "Turbi",
+   "cat": "carshare",
+   "pkg": "br.com.turbi.turbi",
+   "note": "Mietwagen ohne Schalter, per App öffnen",
+   "city": "Sao Paulo",
+   "use": "ok",
+   "src": "https://turbi.com.br"
+  },
+  {
+   "name": "Rentcars",
+   "cat": "carshare",
+   "pkg": "com.rentcars.rentcarscom",
+   "note": "Mietwagen Vergleich aus Brasilien",
+   "use": "ok",
+   "src": "https://www.rentcars.com"
+  },
+  {
+   "name": "Estacionamento Digital",
+   "cat": "parking",
+   "pkg": "com.alpdex.ed.mobile.user",
+   "note": "Digitale Parkscheine in vielen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.alpdex.ed.mobile.user"
+  },
+  {
+   "name": "Rotativo Digital PRODABEL",
+   "cat": "parking",
+   "pkg": "br.gov.pbh.prodabel.fad",
+   "note": "Städtisches Parken in Belo Horizonte",
+   "city": "Belo Horizonte",
+   "use": "ok",
+   "src": "https://prefeitura.pbh.gov.br"
+  },
+  {
+   "name": "EstaR Curitiba FAZ Digital",
+   "cat": "parking",
+   "pkg": "com.estar.digital.curitiba.estacionamento.eletronico.rotativo.urbs.faz",
+   "note": "Parkzonen EstaR in Curitiba bezahlen",
+   "city": "Curitiba",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.estar.digital.curitiba.estacionamento.eletronico.rotativo.urbs.faz"
+  },
+  {
+   "name": "Zé Delivery",
+   "cat": "delivery",
+   "pkg": "com.cerveceriamodelo.modelonow",
+   "note": "Kalte Getränke schnell geliefert",
+   "use": "ok",
+   "src": "https://www.ze.delivery"
+  },
+  {
+   "name": "Keeta",
+   "cat": "delivery",
+   "pkg": "com.sankuai.sailor.afooddelivery",
+   "note": "Essenslieferung, neu in Brasilien",
+   "use": "ok",
+   "src": "https://www.keeta.com"
+  },
+  {
+   "name": "Mercado Pago",
+   "cat": "payment",
+   "pkg": "com.mercadopago.wallet",
+   "note": "Wallet mit Pix, sehr verbreitet",
+   "use": "no",
+   "req": "CPF und brasilianisches Konto nötig",
+   "src": "https://www.mercadopago.com.br"
+  },
+  {
+   "name": "PicPay",
+   "cat": "payment",
+   "pkg": "com.picpay",
+   "note": "Verbreitete Wallet für Pix Zahlungen",
+   "use": "no",
+   "req": "CPF nötig",
+   "src": "https://picpay.com"
+  },
+  {
+   "name": "Trem do Corcovado",
+   "cat": "tourism",
+   "pkg": "com.ingressoscomdescontos.TremdoCorcovado",
+   "note": "Offizielle Tickets zur Christusstatue",
+   "city": "Rio de Janeiro",
+   "use": "ok",
+   "src": "https://www.tremdocorcovado.rio"
+  },
+  {
+   "name": "Climatempo",
+   "cat": "safety",
+   "pkg": "com.mobimidia.climaTempo",
+   "note": "Führender Wetterdienst Brasiliens",
+   "use": "ok",
+   "src": "https://www.climatempo.com.br"
+  },
+  {
+   "name": "COR.Rio",
+   "cat": "safety",
+   "pkg": "bugarin.t.comando",
+   "note": "Lagezentrum Rio, Verkehr und Unwetter",
+   "city": "Rio de Janeiro",
+   "use": "ok",
+   "src": "https://cor.rio"
+  },
+  {
+   "name": "Fogo Cruzado",
+   "cat": "safety",
+   "pkg": "br.org.fogocruzado.app",
+   "note": "Meldungen zu Schusswechseln in Großstädten",
+   "use": "ok",
+   "src": "https://fogocruzado.org.br"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "note": "In Brasilien führende Auto Navigation",
+   "use": "ok",
+   "src": "https://www.waze.com"
+  },
+  {
+   "name": "LATAM",
+   "cat": "flights",
+   "pkg": "com.latam.xp",
+   "note": "Größte Airline Südamerikas",
+   "use": "ok",
+   "src": "https://www.latamairlines.com"
+  },
+  {
+   "name": "GOL",
+   "cat": "flights",
+   "pkg": "br.com.edeploy.gol.checkin.activities",
+   "note": "Brasilianische Fluggesellschaft GOL",
+   "use": "ok",
+   "src": "https://www.voegol.com.br"
+  },
+  {
+   "name": "Azul",
+   "cat": "flights",
+   "pkg": "br.com.voeazul",
+   "note": "Brasilianische Fluggesellschaft Azul",
+   "use": "ok",
+   "src": "https://www.voeazul.com.br"
+  },
+  {
+   "name": "Decolar",
+   "cat": "hotels",
+   "pkg": "com.gm.decolar",
+   "note": "Führendes Reiseportal, Hotels und Flüge",
+   "use": "ok",
+   "src": "https://www.decolar.com"
+  },
+  {
+   "name": "CVC",
+   "cat": "hotels",
+   "pkg": "com.cvc.minhacvc",
+   "note": "Großer Reiseveranstalter, Hotels und Pakete",
+   "use": "ok",
+   "src": "https://www.cvc.com.br"
+  },
+  {
+   "name": "Mercado Livre",
+   "cat": "shopping",
+   "pkg": "com.mercadolibre",
+   "note": "Größter Online Marktplatz",
+   "use": "limited",
+   "req": "CPF für Bestellungen nötig",
+   "src": "https://www.mercadolivre.com.br"
+  },
+  {
+   "name": "Pão de Açúcar Mais",
+   "cat": "shopping",
+   "pkg": "br.com.paodeacucarmais",
+   "note": "Supermarkt mit Angeboten und Lieferung",
+   "use": "limited",
+   "req": "Rabatte nur mit CPF",
+   "src": "https://www.paodeacucar.com"
+  },
+  {
+   "name": "Carrefour Brasil",
+   "cat": "shopping",
+   "pkg": "br.com.carrefour",
+   "note": "Supermarkt Carrefour, Filialen und Angebote",
+   "use": "ok",
+   "src": "https://www.carrefour.com.br"
+  },
+  {
+   "name": "Meu Assaí",
+   "cat": "shopping",
+   "pkg": "com.assai.app",
+   "note": "Großmarkt Assaí, Angebote und Filialen",
+   "use": "limited",
+   "req": "Rabatte nur mit CPF",
+   "src": "https://www.assai.com.br"
+  },
+  {
+   "name": "Americanas",
+   "cat": "shopping",
+   "pkg": "com.b2w.americanas",
+   "note": "Kaufhauskette mit vielen Filialen",
+   "use": "ok",
+   "src": "https://www.americanas.com.br"
+  },
+  {
+   "name": "Drogasil",
+   "cat": "shopping",
+   "pkg": "br.com.drogasil",
+   "note": "Apothekenkette, Filialen rund um die Uhr",
+   "use": "ok",
+   "src": "https://www.drogasil.com.br"
+  },
+  {
+   "name": "Droga Raia",
+   "cat": "shopping",
+   "pkg": "br.com.drogaraia",
+   "note": "Große Apothekenkette",
+   "use": "ok",
+   "src": "https://www.drogaraia.com.br"
   }
  ],
  "fetched": "2026-11-23",

@@ -336,6 +336,334 @@
    "use": "ok",
    "req": "",
    "src": "https://www.interlaken.swiss/en/interlakenguide-accommodation-providers"
+  },
+  {
+   "name": "Basel Go!",
+   "cat": "transit",
+   "pkg": "ch.blt.mobile.android",
+   "note": "Fahrplan und Tickets der BLT im Raum Basel",
+   "city": "Basel",
+   "use": "ok",
+   "src": "https://www.blt.ch"
+  },
+  {
+   "name": "P+Rail",
+   "cat": "parking",
+   "pkg": "ch.sbb.prail2",
+   "note": "Parkplätze an SBB Bahnhöfen buchen",
+   "use": "ok",
+   "src": "https://www.sbb.ch"
+  },
+  {
+   "name": "BlaBlaCar",
+   "cat": "rail",
+   "pkg": "com.comuto",
+   "note": "Mitfahrgelegenheiten und Fernbusse",
+   "use": "ok",
+   "src": "https://www.blablacar.ch"
+  },
+  {
+   "name": "CGN Tours",
+   "cat": "rail",
+   "pkg": "ch.texetera.CGNGenevaTour",
+   "note": "Schiffe auf dem Genfersee",
+   "use": "ok",
+   "src": "https://www.cgn.ch"
+  },
+  {
+   "name": "Taxi 444 Zürich",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Zuerich444",
+   "note": "Taxizentrale in Zürich",
+   "city": "Zurich",
+   "use": "ok",
+   "src": "https://www.444.ch"
+  },
+  {
+   "name": "Taxiphone Genève",
+   "cat": "taxi",
+   "pkg": "at.fms_datenfunk.TaxiPhoneGeneve",
+   "note": "Größte Taxizentrale in Genf",
+   "city": "Geneva",
+   "use": "ok",
+   "src": "https://www.taxi-phone.ch"
+  },
+  {
+   "name": "33er Taxi Basel",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Basel_33",
+   "note": "Taxizentrale in Basel",
+   "city": "Basel",
+   "use": "ok",
+   "src": "https://www.33ertaxi.ch"
+  },
+  {
+   "name": "mini-cab Basel",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Basel_mini_neu",
+   "note": "Taxizentrale in Basel",
+   "city": "Basel",
+   "use": "ok",
+   "src": "https://www.mini-cab.ch"
+  },
+  {
+   "name": "taxi.eu",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_BerlinTZBEU",
+   "note": "Taxizentralen in vielen Schweizer Städten",
+   "use": "ok",
+   "src": "https://www.taxi.eu"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing",
+   "use": "ok",
+   "src": "https://www.sixt.ch"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.clanmo.europcar",
+   "note": "Mietwagen und Transporter buchen",
+   "use": "ok",
+   "src": "https://www.europcar.ch"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.hertz.ch"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.avis.ch"
+  },
+  {
+   "name": "Getaround",
+   "cat": "carshare",
+   "pkg": "com.c4mprod.voiturelib",
+   "note": "Autos von Privatleuten mieten",
+   "use": "ok",
+   "src": "https://ch.getaround.com"
+  },
+  {
+   "name": "PaulCamper",
+   "cat": "carshare",
+   "pkg": "com.paulcamper",
+   "note": "Wohnmobile von Privatleuten mieten",
+   "use": "ok",
+   "src": "https://paulcamper.ch"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übriggebliebenes Essen günstig abholen",
+   "use": "ok",
+   "src": "https://www.toogoodtogo.com"
+  },
+  {
+   "name": "Coop Online",
+   "cat": "delivery",
+   "pkg": "ch.coop.coopapp",
+   "note": "Lebensmittel online bestellen",
+   "use": "ok",
+   "src": "https://www.coop.ch"
+  },
+  {
+   "name": "Museums-PASS-Musées",
+   "cat": "tourism",
+   "pkg": "fr.nartex.passmusees",
+   "note": "Museumspass Oberrhein, auch Basel",
+   "use": "ok",
+   "src": "https://www.museumspass.com"
+  },
+  {
+   "name": "Grand Tour of Switzerland",
+   "cat": "tourism",
+   "pkg": "com.myswitzerland.grandtour",
+   "note": "Offizielle Route von Schweiz Tourismus",
+   "use": "ok",
+   "src": "https://www.myswitzerland.com"
+  },
+  {
+   "name": "Grand Train Tour",
+   "cat": "tourism",
+   "pkg": "com.GrandTrainTour",
+   "note": "Panoramazüge, App von Schweiz Tourismus",
+   "use": "ok",
+   "src": "https://www.myswitzerland.com"
+  },
+  {
+   "name": "Swiss Snow",
+   "cat": "tourism",
+   "pkg": "com.SnowReport.screens",
+   "note": "Schneebericht der Skigebiete",
+   "use": "ok",
+   "src": "https://www.myswitzerland.com"
+  },
+  {
+   "name": "Basel City Guide",
+   "cat": "tourism",
+   "pkg": "com.choicely.studio.baselcity",
+   "note": "Offizieller Stadtführer von Basel Tourismus",
+   "city": "Basel",
+   "use": "ok",
+   "src": "https://www.basel.com"
+  },
+  {
+   "name": "Swiss National Museum",
+   "cat": "tourism",
+   "pkg": "com.landesmuseum.snmch",
+   "note": "Landesmuseum Zürich und weitere Häuser",
+   "city": "Zurich",
+   "use": "ok",
+   "src": "https://www.landesmuseum.ch"
+  },
+  {
+   "name": "SAC",
+   "cat": "tourism",
+   "pkg": "ch.sac_cas",
+   "note": "Hütten und Touren des Schweizer Alpen-Clubs",
+   "use": "ok",
+   "src": "https://www.sac-cas.ch"
+  },
+  {
+   "name": "SRF Meteo",
+   "cat": "safety",
+   "pkg": "ch.srf.meteo",
+   "note": "Wetter und Unwetterwarnungen vom SRF",
+   "use": "ok",
+   "src": "https://www.srf.ch/meteo"
+  },
+  {
+   "name": "meteoblue",
+   "cat": "safety",
+   "pkg": "com.meteoblue.droid",
+   "note": "Genaue Wettervorhersage, auch für Berge",
+   "use": "ok",
+   "src": "https://www.meteoblue.com"
+  },
+  {
+   "name": "EchoSOS",
+   "cat": "safety",
+   "pkg": "ch.mobilemed.echo112",
+   "note": "Notruf mit Standortübermittlung",
+   "use": "ok",
+   "src": "https://echosos.com"
+  },
+  {
+   "name": "TCS",
+   "cat": "safety",
+   "pkg": "com.iAgentur.tcs",
+   "note": "Pannenhilfe und Verkehrsinfos des Touring Clubs",
+   "use": "ok",
+   "src": "https://www.tcs.ch"
+  },
+  {
+   "name": "SwitzerlandMobility",
+   "cat": "maps",
+   "pkg": "ch.schweizmobil",
+   "note": "Offizielle Wander-, Velo- und Skatingrouten",
+   "use": "ok",
+   "src": "https://www.schweizmobil.ch"
+  },
+  {
+   "name": "GVApp",
+   "cat": "flights",
+   "pkg": "com.zapek.android.gvamobile",
+   "note": "Offizielle App des Flughafens Genf",
+   "city": "Geneva",
+   "use": "ok",
+   "src": "https://www.gva.ch"
+  },
+  {
+   "name": "SWISS",
+   "cat": "flights",
+   "pkg": "com.yoc.swiss.swiss",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.swiss.com"
+  },
+  {
+   "name": "park4night",
+   "cat": "hotels",
+   "pkg": "fr.tramb.park4night",
+   "note": "Stellplätze für Wohnmobile und Camper",
+   "use": "ok",
+   "src": "https://park4night.com"
+  },
+  {
+   "name": "Campercontact",
+   "cat": "hotels",
+   "pkg": "nl.nkc.camperplaats",
+   "note": "Wohnmobil Stellplätze in Europa",
+   "use": "ok",
+   "src": "https://www.campercontact.com"
+  },
+  {
+   "name": "camping.info",
+   "cat": "hotels",
+   "pkg": "com.camparound.camperapp.android",
+   "note": "Campingplätze suchen und bewerten",
+   "use": "ok",
+   "src": "https://www.camping.info"
+  },
+  {
+   "name": "Migros",
+   "cat": "shopping",
+   "pkg": "ch.migros.app",
+   "note": "Größter Supermarkt, Angebote und Filialen",
+   "use": "ok",
+   "src": "https://www.migros.ch"
+  },
+  {
+   "name": "Coop Supercard",
+   "cat": "shopping",
+   "pkg": "ch.coop.supercard",
+   "note": "Rabatte und Aktionen bei Coop",
+   "use": "ok",
+   "src": "https://www.supercard.ch"
+  },
+  {
+   "name": "Denner",
+   "cat": "shopping",
+   "pkg": "ch.denner",
+   "note": "Discounter mit Aktionen",
+   "use": "ok",
+   "src": "https://www.denner.ch"
+  },
+  {
+   "name": "ALDI SUISSE",
+   "cat": "shopping",
+   "pkg": "de.apptiv.business.android.aldi_ch",
+   "note": "Angebote und Filialen von Aldi",
+   "use": "ok",
+   "src": "https://www.aldi-suisse.ch"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialsuche bei Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.ch"
+  },
+  {
+   "name": "migrolino",
+   "cat": "shopping",
+   "pkg": "ch.ti8m.migrolino.couponing",
+   "note": "Shops an Bahnhöfen und Tankstellen, lange offen",
+   "use": "ok",
+   "src": "https://www.migrolino.ch"
   }
  ],
  "replace": [

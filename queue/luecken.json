@@ -2,13 +2,6 @@
  "stand": "2026-11-26",
  "offen": [
   {
-   "cc": "GB",
-   "name": "Großbritannien",
-   "cat": "payment",
-   "gewicht": 51,
-   "zuletzt": ""
-  },
-  {
    "cc": "UA",
    "name": "Ukraine",
    "cat": "parking",
@@ -30,26 +23,12 @@
    "zuletzt": ""
   },
   {
-   "cc": "TN",
-   "name": "Tunesien",
-   "cat": "parking",
-   "gewicht": 14,
-   "zuletzt": ""
-  },
-  {
    "cc": "AW",
    "name": "Aruba",
    "cat": "payment",
    "gewicht": 13,
    "zuletzt": ""
-  },
-  {
-   "cc": "TD",
-   "name": "Tschad",
-   "cat": "taxi",
-   "gewicht": 5,
-   "zuletzt": ""
   }
  ],
- "ruhend": 800
+ "ruhend": 802
 }

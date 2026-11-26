@@ -498,6 +498,463 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/app/id1456106022"
+  },
+  {
+   "name": "BTaxi",
+   "cat": "taxi",
+   "pkg": "it.trisolutions.taxibo",
+   "note": "Taxizentrale CO.TA.BO in Bologna",
+   "city": "Bologna",
+   "use": "ok",
+   "url": "https://www.cotabo.it",
+   "src": "https://www.cotabo.it"
+  },
+  {
+   "name": "Wetaxi",
+   "cat": "taxi",
+   "pkg": "it.moveplus.easymoove.user",
+   "note": "Taxi mit Festpreis, vor allem Turin",
+   "city": "Turin",
+   "use": "ok",
+   "url": "https://www.wetaxi.it",
+   "src": "https://www.wetaxi.it"
+  },
+  {
+   "name": "TaxiMilano",
+   "cat": "taxi",
+   "pkg": "com.gullivernet.taxiblu",
+   "note": "Taxiblu 4040, Taxizentrale Mailand",
+   "city": "Milan",
+   "use": "ok",
+   "url": "https://www.taxiblu.it",
+   "src": "https://www.taxiblu.it"
+  },
+  {
+   "name": "Your Taxi 5966",
+   "cat": "taxi",
+   "pkg": "it.ud.microtek.genova",
+   "note": "Radiotaxi 5966 in Genua",
+   "city": "Genoa",
+   "use": "ok",
+   "url": "https://www.5966.it",
+   "src": "https://www.5966.it"
+  },
+  {
+   "name": "RadioTaxi Verona",
+   "cat": "taxi",
+   "pkg": "com.alfaservice.radiotaxi",
+   "note": "Taxizentrale in Verona",
+   "city": "Verona",
+   "use": "ok",
+   "url": "https://www.radiotaxiverona.it",
+   "src": "https://www.radiotaxiverona.it"
+  },
+  {
+   "name": "inTaxi",
+   "cat": "taxi",
+   "pkg": "it.ud.microtek.InTaxi",
+   "note": "Taxiverbund für mehrere italienische Städte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=it.ud.microtek.InTaxi"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing",
+   "use": "ok",
+   "url": "https://www.sixt.it",
+   "src": "https://www.sixt.it"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.clanmo.europcar",
+   "note": "Mietwagen an Flughäfen und Bahnhöfen",
+   "use": "ok",
+   "url": "https://www.europcar.it",
+   "src": "https://www.europcar.it"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen landesweit",
+   "use": "ok",
+   "url": "https://www.hertz.it",
+   "src": "https://www.hertz.it"
+  },
+  {
+   "name": "Corrente",
+   "cat": "carshare",
+   "pkg": "it.bo.corrente",
+   "note": "Elektro-Carsharing von TPER",
+   "city": "Bologna",
+   "use": "ok",
+   "url": "https://www.corrente.app",
+   "src": "https://www.corrente.app"
+  },
+  {
+   "name": "E-VAI",
+   "cat": "carshare",
+   "pkg": "it.ccsevai.app",
+   "note": "Elektro-Carsharing in der Lombardei",
+   "city": "Milan",
+   "use": "ok",
+   "url": "https://www.e-vai.com",
+   "src": "https://www.e-vai.com"
+  },
+  {
+   "name": "Yescapa",
+   "cat": "carshare",
+   "pkg": "com.yescapa",
+   "note": "Wohnmobile und Camper privat mieten",
+   "use": "ok",
+   "url": "https://www.yescapa.it",
+   "src": "https://www.yescapa.it"
+  },
+  {
+   "name": "RideMovi",
+   "cat": "micro",
+   "pkg": "com.ridemovi.app",
+   "note": "Leihräder und E-Bikes, u. a. Bologna, Florenz",
+   "use": "ok",
+   "url": "https://www.ridemovi.com",
+   "src": "https://www.ridemovi.com"
+  },
+  {
+   "name": "VAIMOO",
+   "cat": "micro",
+   "pkg": "com.vaimoo.barisharing",
+   "note": "Bike Sharing in Bari",
+   "city": "Bari",
+   "use": "ok",
+   "url": "https://www.vaimoo.com",
+   "src": "https://www.vaimoo.com"
+  },
+  {
+   "name": "Telepass",
+   "cat": "parking",
+   "pkg": "uk.co.novaware.telepass.android",
+   "note": "Parken, Maut und Tanken per App",
+   "use": "ok",
+   "url": "https://www.telepass.com",
+   "src": "https://www.telepass.com"
+  },
+  {
+   "name": "ParkingMyCar",
+   "cat": "parking",
+   "pkg": "it.parkingmycar.parkingmyapp",
+   "note": "Blaue Zonen in vielen Städten bezahlen",
+   "use": "ok",
+   "url": "https://www.parkingmycar.it",
+   "src": "https://www.parkingmycar.it"
+  },
+  {
+   "name": "easy Parking ADR",
+   "cat": "parking",
+   "pkg": "com.adr.easyParking",
+   "note": "Parken an den Flughäfen Rom",
+   "city": "Rome",
+   "use": "ok",
+   "url": "https://www.adr.it",
+   "src": "https://www.adr.it"
+  },
+  {
+   "name": "Everli",
+   "cat": "delivery",
+   "pkg": "it.supermercato24.supermercato24",
+   "note": "Lebensmittel aus Supermärkten liefern",
+   "use": "ok",
+   "url": "https://www.everli.com",
+   "src": "https://www.everli.com"
+  },
+  {
+   "name": "Esselunga OnLine",
+   "cat": "delivery",
+   "pkg": "it.esselunga.mobile.ecommerce",
+   "note": "Lieferdienst der Supermarktkette",
+   "use": "ok",
+   "url": "https://www.esselunga.it",
+   "src": "https://www.esselunga.it"
+  },
+  {
+   "name": "Cortilia",
+   "cat": "delivery",
+   "pkg": "it.cortilia.app",
+   "note": "Regionale Lebensmittel nach Hause",
+   "use": "ok",
+   "url": "https://www.cortilia.it",
+   "src": "https://www.cortilia.it"
+  },
+  {
+   "name": "BANCOMAT",
+   "cat": "payment",
+   "pkg": "it.bancomat.pay.user",
+   "note": "Italienisches Mobile Payment",
+   "use": "no",
+   "req": "Italienisches Bankkonto nötig",
+   "url": "https://www.bancomat.it",
+   "src": "https://www.bancomat.it"
+  },
+  {
+   "name": "Abbonamento Musei",
+   "cat": "tourism",
+   "pkg": "com.amapp",
+   "note": "Museumspass Piemont, Lombardei, Aostatal",
+   "use": "ok",
+   "url": "https://abbonamentomusei.it",
+   "src": "https://abbonamentomusei.it"
+  },
+  {
+   "name": "MyColosseum",
+   "cat": "tourism",
+   "pkg": "it.parcocolosseo.mycolosseum",
+   "note": "Offizielle App Kolosseum und Forum",
+   "city": "Rome",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=it.parcocolosseo.mycolosseum"
+  },
+  {
+   "name": "MyPompeii",
+   "cat": "tourism",
+   "pkg": "org.pompeiisites.pompeiiapp",
+   "note": "Offizielle App des Parks Pompeji",
+   "city": "Naples",
+   "use": "ok",
+   "url": "https://pompeiisites.org",
+   "src": "https://pompeiisites.org"
+  },
+  {
+   "name": "Musei Vaticani",
+   "cat": "tourism",
+   "pkg": "va.museivaticani.audioguide",
+   "note": "Offizieller Audioguide Vatikanische Museen",
+   "city": "Rome",
+   "use": "ok",
+   "url": "https://www.museivaticani.va",
+   "src": "https://www.museivaticani.va"
+  },
+  {
+   "name": "3B Meteo",
+   "cat": "safety",
+   "pkg": "com.Meteosolutions.Meteo3b",
+   "note": "Wetter mit Warnungen für Italien",
+   "use": "ok",
+   "url": "https://www.3bmeteo.com",
+   "src": "https://www.3bmeteo.com"
+  },
+  {
+   "name": "iLMeteo",
+   "cat": "safety",
+   "pkg": "com.ilmeteo.android.ilmeteo",
+   "note": "Bekannte italienische Wetter-App",
+   "use": "ok",
+   "url": "https://www.ilmeteo.it",
+   "src": "https://www.ilmeteo.it"
+  },
+  {
+   "name": "allertaLOM",
+   "cat": "safety",
+   "pkg": "it.lispa.sire.app.mobile.allertalom",
+   "note": "Zivilschutzwarnungen der Lombardei",
+   "use": "ok",
+   "url": "https://www.allertalom.regione.lombardia.it",
+   "src": "https://www.allertalom.regione.lombardia.it"
+  },
+  {
+   "name": "Autostrade per l'Italia",
+   "cat": "maps",
+   "pkg": "it.autostrade.hma",
+   "note": "Verkehr und Baustellen auf Autobahnen",
+   "use": "ok",
+   "url": "https://www.autostrade.it",
+   "src": "https://www.autostrade.it"
+  },
+  {
+   "name": "ITA Airways",
+   "cat": "flights",
+   "pkg": "ur7OWf.mobile",
+   "note": "Nationale Airline, Buchung und Check-in",
+   "use": "ok",
+   "url": "https://www.ita-airways.com",
+   "src": "https://www.ita-airways.com"
+  },
+  {
+   "name": "Milan Airports",
+   "cat": "flights",
+   "pkg": "com.ideolo.malpensa",
+   "note": "Flughäfen Malpensa und Linate",
+   "city": "Milan",
+   "use": "ok",
+   "url": "https://www.milanomalpensa-airport.com",
+   "src": "https://www.milanomalpensa-airport.com"
+  },
+  {
+   "name": "FlyNapoliSalerno",
+   "cat": "flights",
+   "pkg": "it.swdes.gesac.airport",
+   "note": "Flughafen Neapel und Salerno",
+   "city": "Naples",
+   "use": "ok",
+   "url": "https://www.aeroportodinapoli.it",
+   "src": "https://www.aeroportodinapoli.it"
+  },
+  {
+   "name": "BLQ Bologna Airport",
+   "cat": "flights",
+   "pkg": "it.BLQ.android",
+   "note": "Flughafen Bologna",
+   "city": "Bologna",
+   "use": "ok",
+   "url": "https://www.bologna-airport.it",
+   "src": "https://www.bologna-airport.it"
+  },
+  {
+   "name": "Volotea",
+   "cat": "flights",
+   "pkg": "com.volotea.droid",
+   "note": "Billigflieger mit vielen Italien-Routen",
+   "use": "ok",
+   "url": "https://www.volotea.com",
+   "src": "https://www.volotea.com"
+  },
+  {
+   "name": "Agricamper Italia",
+   "cat": "hotels",
+   "pkg": "com.goodbarber.agricamperital",
+   "note": "Stellplätze für Camper auf Bauernhöfen",
+   "use": "ok",
+   "url": "https://www.agricamper.com",
+   "src": "https://www.agricamper.com"
+  },
+  {
+   "name": "Esselunga",
+   "cat": "shopping",
+   "pkg": "it.esselunga.mobile",
+   "note": "Supermarkt: Filialen, Angebote, Fidaty",
+   "use": "ok",
+   "url": "https://www.esselunga.it",
+   "src": "https://www.esselunga.it"
+  },
+  {
+   "name": "HeyConad",
+   "cat": "shopping",
+   "pkg": "it.conad.mobileapp",
+   "note": "Supermarkt Conad: Angebote, Filialen",
+   "use": "ok",
+   "url": "https://www.conad.it",
+   "src": "https://www.conad.it"
+  },
+  {
+   "name": "Coop",
+   "cat": "shopping",
+   "pkg": "com.coopitalia.iCoopNew",
+   "note": "Supermarkt Coop: Angebote, Filialen",
+   "use": "ok",
+   "url": "https://www.e-coop.it",
+   "src": "https://www.e-coop.it"
+  },
+  {
+   "name": "Carrefour Italia",
+   "cat": "shopping",
+   "pkg": "it.carrefour.mycarrefour",
+   "note": "Supermarkt: Filialen und Angebote",
+   "use": "ok",
+   "url": "https://www.carrefour.it",
+   "src": "https://www.carrefour.it"
+  },
+  {
+   "name": "Eurospin Family",
+   "cat": "shopping",
+   "pkg": "it.eurospin.mobileapp",
+   "note": "Discounter Eurospin: Angebote",
+   "use": "ok",
+   "url": "https://www.eurospin.it",
+   "src": "https://www.eurospin.it"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Lidl: Coupons und Angebote",
+   "use": "ok",
+   "url": "https://www.lidl.it",
+   "src": "https://www.lidl.it"
+  },
+  {
+   "name": "Pam Perte Plus",
+   "cat": "shopping",
+   "pkg": "it.pampanorama.perteplus",
+   "note": "Supermarkt Pam: Angebote",
+   "use": "ok",
+   "url": "https://www.pampanorama.it",
+   "src": "https://www.pampanorama.it"
+  },
+  {
+   "name": "Trenord",
+   "cat": "rail",
+   "pkg": "it.nordcom.app",
+   "note": "Regionalzüge Lombardei, Malpensa Express",
+   "use": "ok",
+   "url": "https://www.trenord.it",
+   "src": "https://www.trenord.it"
+  },
+  {
+   "name": "Itabus",
+   "cat": "rail",
+   "pkg": "it.itabus.app",
+   "note": "Fernbusse quer durch Italien",
+   "use": "ok",
+   "url": "https://www.itabus.it",
+   "src": "https://www.itabus.it"
+  },
+  {
+   "name": "Moby Ferries",
+   "cat": "rail",
+   "pkg": "it.moby.mfc_app",
+   "note": "Fähren nach Sardinien, Korsika, Elba",
+   "use": "ok",
+   "url": "https://www.moby.it",
+   "src": "https://www.moby.it"
+  },
+  {
+   "name": "Caronte & Tourist",
+   "cat": "rail",
+   "pkg": "it.carontetourist.app",
+   "note": "Fähre über die Straße von Messina",
+   "use": "ok",
+   "url": "https://carontetourist.it",
+   "src": "https://carontetourist.it"
+  },
+  {
+   "name": "SNAV",
+   "cat": "rail",
+   "pkg": "com.snav",
+   "note": "Fähren Neapel, Capri, Ischia, Kroatien",
+   "use": "ok",
+   "url": "https://www.snav.it",
+   "src": "https://www.snav.it"
+  },
+  {
+   "name": "GO Eav",
+   "cat": "rail",
+   "pkg": "net.pluservice.eav",
+   "note": "Circumvesuviana und Regionalbahn Kampanien",
+   "city": "Naples",
+   "use": "ok",
+   "url": "https://www.eavsrl.it",
+   "src": "https://www.eavsrl.it"
+  },
+  {
+   "name": "ANM GO",
+   "cat": "transit",
+   "pkg": "it.anm.anm",
+   "note": "Metro und Busse in Neapel",
+   "city": "Naples",
+   "use": "ok",
+   "url": "https://www.anm.it",
+   "src": "https://www.anm.it"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",

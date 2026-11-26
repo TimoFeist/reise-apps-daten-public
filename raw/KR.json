@@ -388,6 +388,344 @@
    "use": "no",
    "req": "Koreanische Handynummer und Sprache nötig",
    "src": "https://www.koreaherald.com/article/1678253"
+  },
+  {
+   "name": "Seoul Subway Official",
+   "cat": "transit",
+   "pkg": "com.seoulmetro.safety_keeper",
+   "note": "Offizielle App der Seoul Metro",
+   "city": "Seoul",
+   "use": "ok",
+   "src": "http://www.seoulmetro.co.kr"
+  },
+  {
+   "name": "Busan Metro (Humetro)",
+   "cat": "transit",
+   "pkg": "kr.busan.humetro",
+   "note": "App der Busan Transportation Corporation",
+   "city": "Busan",
+   "use": "ok",
+   "src": "https://www.humetro.busan.kr"
+  },
+  {
+   "name": "AREX Airport Railroad",
+   "cat": "transit",
+   "pkg": "com.airportrailroad.arex.exp",
+   "note": "Flughafenzug Incheon nach Seoul, Tickets",
+   "city": "Incheon",
+   "use": "ok",
+   "src": "https://www.arex.or.kr"
+  },
+  {
+   "name": "KakaoMetro",
+   "cat": "transit",
+   "pkg": "net.orizinal.subway",
+   "note": "U-Bahn Routen für Seoul, Busan und andere Städte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.orizinal.subway"
+  },
+  {
+   "name": "KakaoBus",
+   "cat": "transit",
+   "pkg": "com.astroframe.seoulbus",
+   "note": "Busankünfte landesweit in Echtzeit",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.astroframe.seoulbus"
+  },
+  {
+   "name": "SRT",
+   "cat": "rail",
+   "pkg": "kr.co.srail.newapp",
+   "note": "Hochgeschwindigkeitszug SRT ab Seoul Suseo",
+   "use": "ok",
+   "src": "https://etk.srail.kr"
+  },
+  {
+   "name": "Express Bus T-money",
+   "cat": "rail",
+   "pkg": "com.kscc.scxb.mbl",
+   "note": "Fernbustickets für Expressbusse",
+   "use": "ok",
+   "src": "https://www.kobus.co.kr"
+  },
+  {
+   "name": "Bustago",
+   "cat": "rail",
+   "pkg": "com.ebcard.bustago",
+   "note": "Offizielle Buchung für Überlandbusse",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ebcard.bustago"
+  },
+  {
+   "name": "Gabogo sipeun seom",
+   "cat": "rail",
+   "pkg": "ksa.ticket.sale",
+   "note": "Fährtickets zu koreanischen Inseln",
+   "use": "ok",
+   "src": "https://island.theksa.co.kr"
+  },
+  {
+   "name": "TADA",
+   "cat": "taxi",
+   "pkg": "kr.co.vcnc.tada",
+   "note": "Taxi und Fahrdienst in Seoul",
+   "city": "Seoul",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kr.co.vcnc.tada"
+  },
+  {
+   "name": "T-money GO",
+   "cat": "taxi",
+   "pkg": "kr.co.tmoney.tia",
+   "note": "Taxi, Fernbus, Leihrad und Scooter in einer App",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kr.co.tmoney.tia"
+  },
+  {
+   "name": "G car",
+   "cat": "carshare",
+   "pkg": "com.greencar",
+   "note": "Carsharing von Lotte Rent a Car",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.greencar"
+  },
+  {
+   "name": "Kickgoing",
+   "cat": "micro",
+   "pkg": "com.olulo.kickgoing",
+   "note": "E-Scooter Sharing",
+   "use": "limited",
+   "req": "Führerscheinnachweis nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.olulo.kickgoing"
+  },
+  {
+   "name": "GCOO",
+   "cat": "micro",
+   "pkg": "io.gbike.gcooter",
+   "note": "E-Bikes und E-Scooter Sharing",
+   "use": "limited",
+   "req": "Führerscheinnachweis für Scooter",
+   "src": "https://play.google.com/store/apps/details?id=io.gbike.gcooter"
+  },
+  {
+   "name": "Beam",
+   "cat": "micro",
+   "pkg": "com.escooterapp",
+   "note": "E-Scooter Sharing",
+   "use": "limited",
+   "req": "Führerscheinnachweis nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.escooterapp"
+  },
+  {
+   "name": "Yogiyo",
+   "cat": "delivery",
+   "pkg": "com.fineapp.yogiyo",
+   "note": "Zweitgrößter Essenslieferdienst",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.fineapp.yogiyo"
+  },
+  {
+   "name": "Kurly",
+   "cat": "delivery",
+   "pkg": "com.dbs.kurly.m2",
+   "note": "Lebensmittel über Nacht geliefert",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dbs.kurly.m2"
+  },
+  {
+   "name": "Toss",
+   "cat": "payment",
+   "pkg": "viva.republica.toss",
+   "note": "Führende Bezahl und Bankapp",
+   "use": "no",
+   "req": "Koreanisches Bankkonto nötig",
+   "src": "https://toss.im"
+  },
+  {
+   "name": "KNPS Tambang Allimi",
+   "cat": "tourism",
+   "pkg": "kr.or.knps.parkapp",
+   "note": "Infos der Nationalparkverwaltung",
+   "use": "ok",
+   "src": "https://www.knps.or.kr"
+  },
+  {
+   "name": "KMA Weather",
+   "cat": "safety",
+   "pkg": "kr.go.kma.weatherapp",
+   "note": "Offizielle App des Wetterdienstes",
+   "use": "ok",
+   "src": "https://www.kma.go.kr"
+  },
+  {
+   "name": "Safe Korea (Anjeon Didimdol)",
+   "cat": "safety",
+   "pkg": "kr.or.klid.newsafekorea2025",
+   "note": "Katastrophenwarnungen und Schutzräume",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kr.or.klid.newsafekorea2025"
+  },
+  {
+   "name": "TMAP",
+   "cat": "maps",
+   "pkg": "com.skt.tmap.ku",
+   "note": "Führende Auto Navigation in Korea",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.skt.tmap.ku"
+  },
+  {
+   "name": "Korean Air",
+   "cat": "flights",
+   "pkg": "com.koreanair.passenger",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.koreanair.com"
+  },
+  {
+   "name": "Asiana Airlines",
+   "cat": "flights",
+   "pkg": "com.ssm.asiana",
+   "note": "Zweite große Airline Koreas",
+   "use": "ok",
+   "src": "https://flyasiana.com"
+  },
+  {
+   "name": "Jeju Air",
+   "cat": "flights",
+   "pkg": "com.parksmt.jejuair.android16",
+   "note": "Größter Billigflieger, viele Inlandsflüge",
+   "use": "ok",
+   "src": "https://www.jejuair.net"
+  },
+  {
+   "name": "Jin Air",
+   "cat": "flights",
+   "pkg": "com.jinair.android",
+   "note": "Billigflieger von Korean Air",
+   "use": "ok",
+   "src": "https://www.jinair.com"
+  },
+  {
+   "name": "Trinity Airways",
+   "cat": "flights",
+   "pkg": "com.twayair.m.app",
+   "note": "Billigflieger, früher T'way Air",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.twayair.m.app"
+  },
+  {
+   "name": "Air Busan",
+   "cat": "flights",
+   "pkg": "com.airbusan.gcm",
+   "note": "Billigflieger aus Busan",
+   "city": "Busan",
+   "use": "ok",
+   "src": "https://www.airbusan.com"
+  },
+  {
+   "name": "SMART AIRPORT",
+   "cat": "flights",
+   "pkg": "kr.co.airport.app",
+   "note": "Flughäfen Gimpo, Gimhae, Jeju u. a.",
+   "use": "ok",
+   "src": "https://www.airport.co.kr"
+  },
+  {
+   "name": "ICN SMARTPASS",
+   "cat": "flights",
+   "pkg": "kr.airport.android.smartpass",
+   "note": "Schnelle Abfertigung am Flughafen Incheon",
+   "city": "Incheon",
+   "use": "ok",
+   "src": "https://www.airport.kr"
+  },
+  {
+   "name": "NOL (Yanolja)",
+   "cat": "hotels",
+   "pkg": "com.cultsotry.yanolja.nativeapp",
+   "note": "Führende Unterkunfts und Freizeitbuchung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.cultsotry.yanolja.nativeapp"
+  },
+  {
+   "name": "NOL World",
+   "cat": "hotels",
+   "pkg": "com.interparktriple.kint5",
+   "note": "Internationale Version von NOL für Ausländer",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.interparktriple.kint5"
+  },
+  {
+   "name": "Yeogi Eottae",
+   "cat": "hotels",
+   "pkg": "kr.goodchoice.abouthere",
+   "note": "Hotels und Motels buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kr.goodchoice.abouthere"
+  },
+  {
+   "name": "Coupang",
+   "cat": "shopping",
+   "pkg": "com.coupang.mobile",
+   "note": "Größter Onlinehändler mit Expresslieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.coupang.mobile"
+  },
+  {
+   "name": "Olive Young",
+   "cat": "shopping",
+   "pkg": "com.oliveyoung",
+   "note": "Drogerie und Kosmetikkette",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.oliveyoung"
+  },
+  {
+   "name": "GS25",
+   "cat": "shopping",
+   "pkg": "com.gsr.gs25",
+   "note": "Minimarkt Kette mit Angeboten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.gsr.gs25"
+  },
+  {
+   "name": "Pocket CU",
+   "cat": "shopping",
+   "pkg": "com.bgfcu.membership",
+   "note": "Minimarkt Kette CU",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bgfcu.membership"
+  },
+  {
+   "name": "emart",
+   "cat": "shopping",
+   "pkg": "com.emart.today",
+   "note": "Größte Supermarktkette",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.emart.today"
+  },
+  {
+   "name": "Daiso Mall",
+   "cat": "shopping",
+   "pkg": "com.uxlayer.wipoint",
+   "note": "Billigwarenkette Daiso",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.uxlayer.wipoint"
+  },
+  {
+   "name": "LOTTE DUTY FREE",
+   "cat": "shopping",
+   "pkg": "com.lotte.lottedutyfree",
+   "note": "Duty Free Einkauf für Reisende",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lotte.lottedutyfree"
+  },
+  {
+   "name": "Shinsegae Duty Free",
+   "cat": "shopping",
+   "pkg": "m.ssgdfm.com",
+   "note": "Duty Free Einkauf für Reisende",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=m.ssgdfm.com"
   }
  ]
 }

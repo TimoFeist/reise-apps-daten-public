@@ -371,6 +371,398 @@
    "use": "limited",
    "req": "Japanische Telefonnummer nötig",
    "src": "https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app&hl=en"
+  },
+  {
+   "name": "Tokyo Metro my! App",
+   "cat": "transit",
+   "pkg": "com.tokyometro",
+   "note": "Offizielle App der Tokyo Metro, Störungen und Routen",
+   "city": "Tokyo",
+   "use": "ok",
+   "src": "https://www.tokyometro.jp/"
+  },
+  {
+   "name": "Toei Transportation",
+   "cat": "transit",
+   "pkg": "jp.tokyo.metro.kotsu.toei.naviapp",
+   "note": "Offizielle App von Toei U Bahn und Bus",
+   "city": "Tokyo",
+   "use": "ok",
+   "src": "https://www.kotsu.metro.tokyo.jp/"
+  },
+  {
+   "name": "e METRO",
+   "cat": "transit",
+   "pkg": "jp.co.osakametro.maas.emetro.app",
+   "note": "Offizielle App der Osaka Metro, digitale Tickets",
+   "city": "Osaka",
+   "use": "ok",
+   "src": "https://subway.osakametro.co.jp/"
+  },
+  {
+   "name": "Sapporo Ekibus Navi",
+   "cat": "transit",
+   "pkg": "jp.sapporo.city.ekibus.app",
+   "note": "Offizielle Bus und U Bahn Auskunft der Stadt Sapporo",
+   "city": "Sapporo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.sapporo.city.ekibus.app"
+  },
+  {
+   "name": "NNR BusNavi",
+   "cat": "transit",
+   "pkg": "jp.co.nnr.busnavi",
+   "note": "Nishitetsu Busauskunft für Fukuoka",
+   "city": "Fukuoka",
+   "use": "ok",
+   "src": "https://www.nishitetsu.jp/"
+  },
+  {
+   "name": "NAVITIME Transit",
+   "cat": "transit",
+   "pkg": "com.navitime.transit.global",
+   "note": "Routenplaner für Bahn und Bus auf Englisch",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.navitime.transit.global"
+  },
+  {
+   "name": "WESTER",
+   "cat": "rail",
+   "pkg": "jp.co.westjr.wester",
+   "note": "Offizielle App von JR West, Fahrplan und Tickets",
+   "use": "ok",
+   "src": "https://www.westjr.co.jp/"
+  },
+  {
+   "name": "JR Kyushu App",
+   "cat": "rail",
+   "pkg": "jp.co.jrkyushu.jrqapp",
+   "note": "Offizielle App von JR Kyushu",
+   "use": "ok",
+   "src": "https://www.jrkyushu.co.jp/"
+  },
+  {
+   "name": "JR Central Shinkansen Fahrplan",
+   "cat": "rail",
+   "pkg": "jp.co.jr_central.timetable",
+   "note": "Tokaido und Sanyo Shinkansen Fahrplan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.jr_central.timetable"
+  },
+  {
+   "name": "Kintetsu App",
+   "cat": "rail",
+   "pkg": "jp.co.kintetsu.portal",
+   "note": "Betriebsinfos von Kintetsu, Osaka Nara Kyoto",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.kintetsu.portal"
+  },
+  {
+   "name": "Odakyu App",
+   "cat": "rail",
+   "pkg": "app.odakyu.odakyuapp",
+   "note": "Odakyu Bahn Tokio nach Hakone, Betriebsinfos",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=app.odakyu.odakyuapp"
+  },
+  {
+   "name": "WILLER TRAVEL",
+   "cat": "rail",
+   "pkg": "li.yapp.app73443AA0",
+   "note": "Fernbusse und Nachtbusse buchen",
+   "use": "ok",
+   "src": "https://travel.willer.co.jp/"
+  },
+  {
+   "name": "Kousoku Bus",
+   "cat": "rail",
+   "pkg": "jp.co.wbf.kosokubus",
+   "note": "Fernbusse von rund 140 Firmen buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.wbf.kosokubus"
+  },
+  {
+   "name": "Hassha Orai Net",
+   "cat": "rail",
+   "pkg": "jp.j_bus.app",
+   "note": "Großes Buchungsportal für Fernbusse",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.j_bus.app"
+  },
+  {
+   "name": "Shin Nihonkai Ferry",
+   "cat": "rail",
+   "pkg": "li.yapp.appAD11514D",
+   "note": "Fähren nach Hokkaido buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=li.yapp.appAD11514D"
+  },
+  {
+   "name": "S.RIDE",
+   "cat": "taxi",
+   "pkg": "jp.sride.userapp",
+   "note": "Taxi App vor allem in Tokio",
+   "use": "ok",
+   "src": "https://www.sride.jp/"
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "note": "Taxis in vielen japanischen Städten bestellen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.didiglobal.passenger"
+  },
+  {
+   "name": "Tokyo Musen Taxi",
+   "cat": "taxi",
+   "pkg": "jp.or.tokyomusen.smart.Main",
+   "note": "Große Taxizentrale in Tokio",
+   "city": "Tokyo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.or.tokyomusen.smart.Main"
+  },
+  {
+   "name": "NearMe",
+   "cat": "taxi",
+   "pkg": "jp.nearme.nearme",
+   "note": "Sammeltaxi zum und vom Flughafen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.nearme.nearme"
+  },
+  {
+   "name": "Times Car",
+   "cat": "carshare",
+   "pkg": "jp.co.park24.tcpquickapps",
+   "note": "Größtes Carsharing Japans, auch Mietwagen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.park24.tcpquickapps"
+  },
+  {
+   "name": "Nippon Rent A Car",
+   "cat": "carshare",
+   "pkg": "jp.co.nipponrentacar.nrapp.prd",
+   "note": "Großer japanischer Autovermieter",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.nipponrentacar.nrapp.prd"
+  },
+  {
+   "name": "Nissan Rent a Car",
+   "cat": "carshare",
+   "pkg": "com.nissan.rentacar.aprs",
+   "note": "Mietwagen von Nissan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.nissan.rentacar.aprs"
+  },
+  {
+   "name": "Tabirai Rental Car",
+   "cat": "carshare",
+   "pkg": "net.tabirai.CarApp",
+   "note": "Mietwagen in Japan vergleichen, auf Englisch",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.tabirai.CarApp"
+  },
+  {
+   "name": "Charichari",
+   "cat": "micro",
+   "pkg": "com.souzoh.android.merchari",
+   "note": "Leihräder in Fukuoka und weiteren Städten",
+   "city": "Fukuoka",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.souzoh.android.merchari"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "note": "Essenslieferung in vielen japanischen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.wolt.android"
+  },
+  {
+   "name": "7NOW",
+   "cat": "delivery",
+   "pkg": "jp.co.sej.sevennow.app",
+   "note": "Lieferung aus 7 Eleven Läden",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.sej.sevennow.app"
+  },
+  {
+   "name": "Yurekuru Call",
+   "cat": "safety",
+   "pkg": "jp.co.rcsc.yurekuru.android",
+   "note": "Erdbeben Frühwarnung aufs Handy",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.rcsc.yurekuru.android"
+  },
+  {
+   "name": "Yahoo Bousai Sokuhou",
+   "cat": "safety",
+   "pkg": "jp.co.yahoo.android.emg",
+   "note": "Warnungen zu Erdbeben, Tsunami, Starkregen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.emg"
+  },
+  {
+   "name": "NHK ONE News and Disaster Info",
+   "cat": "safety",
+   "pkg": "nhk.app.nwa",
+   "note": "Nachrichten und Katastrophenwarnungen der NHK",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=nhk.app.nwa"
+  },
+  {
+   "name": "tenki.jp",
+   "cat": "safety",
+   "pkg": "jwa.or.jp.tenkijp3",
+   "note": "Wetter und Regenradar des Japan Wetterverbands",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jwa.or.jp.tenkijp3"
+  },
+  {
+   "name": "NERV Disaster Prevention",
+   "cat": "safety",
+   "pkg": "app.nerv",
+   "note": "Schnelle Warnungen zu Erdbeben und Unwetter",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=app.nerv"
+  },
+  {
+   "name": "Yahoo Map",
+   "cat": "maps",
+   "pkg": "jp.co.yahoo.android.apps.map",
+   "note": "Japanische Karte mit Navigation und ÖPNV",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.yahoo.android.apps.map"
+  },
+  {
+   "name": "Japan Airlines",
+   "cat": "flights",
+   "pkg": "jp.co.jal.dom",
+   "note": "Nationale Airline, Buchung und Check in",
+   "use": "ok",
+   "src": "https://www.jal.co.jp/"
+  },
+  {
+   "name": "ANA",
+   "cat": "flights",
+   "pkg": "jp.co.ana.android.tabidachi",
+   "note": "All Nippon Airways, Buchung und Check in",
+   "use": "ok",
+   "src": "https://www.ana.co.jp/"
+  },
+  {
+   "name": "Peach",
+   "cat": "flights",
+   "pkg": "com.flypeach.flypeach",
+   "note": "Japanische Billigairline",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.flypeach.flypeach"
+  },
+  {
+   "name": "ZIPAIR",
+   "cat": "flights",
+   "pkg": "net.zipair.paxapp",
+   "note": "Billigairline der JAL Gruppe ab Tokio",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.zipair.paxapp"
+  },
+  {
+   "name": "HANEDA AIRPORT",
+   "cat": "flights",
+   "pkg": "li.yapp.appFB3BFC33",
+   "note": "Offizielle App des Flughafens Tokio Haneda",
+   "city": "Tokyo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=li.yapp.appFB3BFC33"
+  },
+  {
+   "name": "Rakuten Travel",
+   "cat": "hotels",
+   "pkg": "jp.co.rakuten.travel.andro",
+   "note": "Großes japanisches Hotelportal, auch Ryokan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.rakuten.travel.andro"
+  },
+  {
+   "name": "Jalan",
+   "cat": "hotels",
+   "pkg": "net.jalan.android",
+   "note": "Führendes japanisches Portal für Hotels und Ryokan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.jalan.android"
+  },
+  {
+   "name": "7 Eleven Japan",
+   "cat": "shopping",
+   "pkg": "jp.co.sej.app",
+   "note": "Größte Konbini Kette, Coupons",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.sej.app"
+  },
+  {
+   "name": "Lawson",
+   "cat": "shopping",
+   "pkg": "jp.co.lawson.android",
+   "note": "Konbini Kette, Coupons und Punkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.lawson.android"
+  },
+  {
+   "name": "FamilyMart FamiPay",
+   "cat": "shopping",
+   "pkg": "jp.co.family.familymart_app",
+   "note": "Konbini Kette, Coupons",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.family.familymart_app"
+  },
+  {
+   "name": "iAEON",
+   "cat": "shopping",
+   "pkg": "jp.co.aeonst.app.myaeon",
+   "note": "Supermarkt und Einkaufszentren Kette AEON",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.co.aeonst.app.myaeon"
+  },
+  {
+   "name": "majica Don Quijote",
+   "cat": "shopping",
+   "pkg": "com.donki.majica",
+   "note": "Discounter Don Quijote, Coupons",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.donki.majica"
+  },
+  {
+   "name": "UNIQLO",
+   "cat": "shopping",
+   "pkg": "com.uniqlo.ja.catalogue",
+   "note": "Kleidung, Laden und Online",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.uniqlo.ja.catalogue"
+  },
+  {
+   "name": "MUJI",
+   "cat": "shopping",
+   "pkg": "net.muji.passport.android",
+   "note": "Muji Läden, Angebote und Punkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.muji.passport.android"
+  },
+  {
+   "name": "LINE",
+   "cat": "misc",
+   "pkg": "jp.naver.line.android",
+   "note": "Standard Messenger in Japan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jp.naver.line.android"
+  },
+  {
+   "name": "Japan Wi Fi auto connect",
+   "cat": "misc",
+   "pkg": "com.nttbp.jw2",
+   "note": "Kostenloses WLAN an vielen Orten in Japan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.nttbp.jw2"
   }
  ],
  "replace": [

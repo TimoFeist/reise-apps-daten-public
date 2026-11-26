@@ -322,6 +322,107 @@
    "url": "https://www.visitbeijing.com.cn",
    "nostore": true,
    "src": "https://www.visitbeijing.com.cn"
+  },
+  {
+   "name": "Nihao China",
+   "cat": "payment",
+   "pkg": "com.unionpay.intl",
+   "note": "UnionPay App für Besucher, Bezahlen mit Karte",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.unionpay.intl",
+   "src": "https://www.unionpayintl.com"
+  },
+  {
+   "name": "MetroMan China",
+   "cat": "maps",
+   "pkg": "com.xinlukou.metroman",
+   "note": "Englische U-Bahn Pläne vieler Städte offline",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.xinlukou.metroman",
+   "src": "https://www.metroman.cn"
+  },
+  {
+   "name": "Air China",
+   "cat": "flights",
+   "pkg": "com.rytong.airchina",
+   "note": "Nationale Fluggesellschaft Chinas",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rytong.airchina",
+   "src": "https://www.airchina.com.cn"
+  },
+  {
+   "name": "China Eastern",
+   "cat": "flights",
+   "pkg": "com.ceair.global",
+   "note": "Große Airline mit Drehkreuz Shanghai",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ceair.global",
+   "src": "https://www.ceair.com"
+  },
+  {
+   "name": "Hainan Airlines",
+   "cat": "flights",
+   "pkg": "com.rytong.hnair",
+   "note": "Airline mit Direktflügen nach Europa",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rytong.hnair",
+   "src": "https://www.hainanairlines.com"
+  },
+  {
+   "name": "华住会 (H World)",
+   "cat": "hotels",
+   "pkg": "com.htinns",
+   "note": "Große Hotelkette, u. a. Hanting und Ji",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.htinns",
+   "src": "https://play.google.com/store/apps/details?id=com.htinns"
+  },
+  {
+   "name": "Shanghai Disney Resort",
+   "cat": "tourism",
+   "pkg": "com.disney.shanghaidisneyland_goo",
+   "note": "Offizielle App mit Tickets und Wartezeiten",
+   "city": "Shanghai",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.disney.shanghaidisneyland_goo",
+   "src": "https://www.shanghaidisneyresort.com"
+  },
+  {
+   "name": "SmartShanghai",
+   "cat": "tourism",
+   "pkg": "com.smartshanghaiapp.smartshanghaicompany.smartshanghai",
+   "note": "Englischer Stadtführer mit Lokalen und Events",
+   "city": "Shanghai",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.smartshanghaiapp.smartshanghaicompany.smartshanghai",
+   "src": "https://www.smartshanghai.com"
+  },
+  {
+   "name": "Taobao",
+   "cat": "shopping",
+   "pkg": "com.taobao.taobao",
+   "note": "Größter Online Marktplatz Chinas",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.taobao.taobao",
+   "src": "https://www.taobao.com"
+  },
+  {
+   "name": "JD.com",
+   "cat": "shopping",
+   "pkg": "com.jingdong.app.mall",
+   "note": "Onlinehändler mit schneller Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.jingdong.app.mall",
+   "src": "https://www.jd.com"
+  },
+  {
+   "name": "Microsoft Translator",
+   "cat": "misc",
+   "pkg": "com.microsoft.translator",
+   "note": "Übersetzer, der ohne Google Dienste läuft",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.microsoft.translator",
+   "src": "https://translator.microsoft.com"
   }
  ]
 }

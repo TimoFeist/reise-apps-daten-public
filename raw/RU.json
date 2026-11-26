@@ -480,6 +480,167 @@
    "use": "no",
    "req": "Russische Nummer und Bankkarte nötig",
    "src": "https://play.google.com/store/apps/details?id=ru.mosparking.appnew"
+  },
+  {
+   "name": "Maxim",
+   "cat": "taxi",
+   "pkg": "com.taxsee.taxsee",
+   "note": "Günstiger Taxidienst, viele Städte",
+   "use": "ok",
+   "url": "https://taximaxim.ru",
+   "src": "https://taximaxim.ru"
+  },
+  {
+   "name": "Vezet",
+   "cat": "taxi",
+   "pkg": "ru.yandex.vezet",
+   "note": "Taxivermittlung in vielen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ru.yandex.vezet"
+  },
+  {
+   "name": "Citydrive",
+   "cat": "carshare",
+   "pkg": "youdrive.today",
+   "note": "Carsharing in Moskau, St. Petersburg u. a.",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt, russische Nummer",
+   "url": "https://citydrive.ru",
+   "src": "https://citydrive.ru"
+  },
+  {
+   "name": "JET",
+   "cat": "micro",
+   "pkg": "com.jetscooters",
+   "note": "E-Scooter-Sharing in vielen Städten",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt",
+   "src": "https://play.google.com/store/apps/details?id=com.jetscooters"
+  },
+  {
+   "name": "Пятёрочка",
+   "cat": "delivery",
+   "pkg": "ru.pyaterochka.app.browser",
+   "note": "Supermarkt Pyaterochka mit Lieferung",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt",
+   "url": "https://5ka.ru",
+   "src": "https://5ka.ru"
+  },
+  {
+   "name": "Перекрёсток",
+   "cat": "delivery",
+   "pkg": "ru.perekrestok.app",
+   "note": "Supermarkt Perekrestok mit Lieferung",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt",
+   "url": "https://www.perekrestok.ru",
+   "src": "https://www.perekrestok.ru"
+  },
+  {
+   "name": "Hermitage Audioguide",
+   "cat": "tourism",
+   "pkg": "com.dnateam.hermitage_ag",
+   "note": "Audioguide für die Eremitage",
+   "city": "Saint Petersburg",
+   "use": "ok",
+   "url": "https://www.hermitageshop.ru",
+   "src": "https://www.hermitageshop.ru"
+  },
+  {
+   "name": "Yandex Weather",
+   "cat": "safety",
+   "pkg": "ru.yandex.weatherplugin",
+   "note": "Führende Wetter-App mit Regenradar",
+   "use": "ok",
+   "url": "https://yandex.ru/pogoda",
+   "src": "https://yandex.ru/pogoda"
+  },
+  {
+   "name": "Yandex Navigator",
+   "cat": "maps",
+   "pkg": "ru.yandex.yandexnavi",
+   "note": "Autonavigation mit Staus, in Russland führend",
+   "use": "ok",
+   "url": "https://yandex.ru/maps",
+   "src": "https://yandex.ru/maps"
+  },
+  {
+   "name": "S7 Airlines",
+   "cat": "flights",
+   "pkg": "ru.s7tl.app",
+   "note": "Große russische Airline, Buchung, Check-in",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt",
+   "url": "https://www.s7.ru",
+   "src": "https://www.s7.ru"
+  },
+  {
+   "name": "Tutu",
+   "cat": "rail",
+   "pkg": "ru.tutu.tutu_emp",
+   "note": "Zug, Bus und Flugtickets in Russland",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt",
+   "url": "https://www.tutu.ru",
+   "src": "https://www.tutu.ru"
+  },
+  {
+   "name": "Tutu Elektritschki",
+   "cat": "rail",
+   "pkg": "ru.tutu.etrains",
+   "note": "Fahrplan der Vorortzüge",
+   "use": "ok",
+   "url": "https://www.tutu.ru",
+   "src": "https://www.tutu.ru"
+  },
+  {
+   "name": "Aeroexpress",
+   "cat": "rail",
+   "pkg": "ru.lynx.aero",
+   "note": "Flughafenzüge in Moskau",
+   "city": "Moscow",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt",
+   "url": "https://aeroexpress.ru",
+   "src": "https://aeroexpress.ru"
+  },
+  {
+   "name": "Ozon Travel",
+   "cat": "hotels",
+   "pkg": "travel.ozon.mobile",
+   "note": "Hotels, Bahn und Flüge buchen",
+   "use": "no",
+   "req": "Russische Bankkarte nötig, westliche Karten gesperrt",
+   "url": "https://travel.ozon.ru",
+   "src": "https://travel.ozon.ru"
+  },
+  {
+   "name": "Магнит",
+   "cat": "shopping",
+   "pkg": "ru.tander.magnit",
+   "note": "Größte Supermarktkette: Angebote, Filialen",
+   "use": "ok",
+   "url": "https://magnit.ru",
+   "src": "https://magnit.ru"
+  },
+  {
+   "name": "Fix Price",
+   "cat": "shopping",
+   "pkg": "ru.bestprice.fixprice",
+   "note": "Preiswerte Ladenkette, Filialsuche",
+   "use": "ok",
+   "url": "https://fix-price.com",
+   "src": "https://fix-price.com"
+  },
+  {
+   "name": "Telegram",
+   "cat": "misc",
+   "pkg": "org.telegram.messenger",
+   "note": "Meistgenutzter Messenger in Russland",
+   "use": "ok",
+   "url": "https://telegram.org",
+   "src": "https://telegram.org"
   }
  ]
 }

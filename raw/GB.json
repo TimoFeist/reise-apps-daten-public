@@ -356,6 +356,575 @@
    "use": "limited",
    "req": "Konto zum Ticketkauf nötig",
    "src": "https://www.4ni.co.uk/northern-ireland-news/318907/mlink-surpasses-11m-passenger-journeys"
+  },
+  {
+   "name": "Arriva Bus",
+   "cat": "transit",
+   "pkg": "uk.co.arrivabus",
+   "note": "Bustickets in Liverpool und Nordengland",
+   "city": "Liverpool",
+   "use": "ok",
+   "src": "https://www.arrivabus.co.uk"
+  },
+  {
+   "name": "WM Bus mTicket",
+   "cat": "transit",
+   "pkg": "com.justride.nxwm",
+   "note": "Bustickets National Express West Midlands",
+   "city": "Birmingham",
+   "use": "ok",
+   "src": "https://nxbus.co.uk"
+  },
+  {
+   "name": "West Midlands Metro",
+   "cat": "transit",
+   "pkg": "com.xibis.trammanagement",
+   "note": "Straßenbahn Birmingham, Tickets per App",
+   "city": "Birmingham",
+   "use": "ok",
+   "src": "https://westmidlandsmetro.com"
+  },
+  {
+   "name": "Stagecoach Bus",
+   "cat": "transit",
+   "pkg": "com.stagecoach.stagecoachbus",
+   "note": "Bustickets in vielen Regionen, z. B. Manchester",
+   "use": "ok",
+   "src": "https://www.stagecoachbus.com"
+  },
+  {
+   "name": "Edinburgh Bus Tours",
+   "cat": "tourism",
+   "pkg": "com.edinburghtour.app",
+   "note": "Hop on Hop off Busse in Edinburgh",
+   "city": "Edinburgh",
+   "use": "ok",
+   "src": "https://edinburghtour.com"
+  },
+  {
+   "name": "Heathrow Express",
+   "cat": "rail",
+   "pkg": "com.heathrowexpress",
+   "note": "Schnellzug Heathrow nach Paddington",
+   "city": "London",
+   "use": "ok",
+   "src": "https://www.heathrowexpress.com"
+  },
+  {
+   "name": "Gatwick Express",
+   "cat": "rail",
+   "pkg": "com.gatwickexpress.ontrack",
+   "note": "Schnellzug Gatwick nach Victoria",
+   "city": "London",
+   "use": "ok",
+   "src": "https://www.gatwickexpress.com"
+  },
+  {
+   "name": "GWR",
+   "cat": "rail",
+   "pkg": "com.firstgreatwestern",
+   "note": "Great Western Railway, Tickets ohne Buchungsgebühr",
+   "use": "ok",
+   "src": "https://www.gwr.com"
+  },
+  {
+   "name": "Northern",
+   "cat": "rail",
+   "pkg": "org.northernrail.android",
+   "note": "Regionalzüge in Nordengland",
+   "use": "ok",
+   "src": "https://www.northernrailway.co.uk"
+  },
+  {
+   "name": "Megabus",
+   "cat": "rail",
+   "pkg": "com.versko.megabusapp",
+   "note": "Günstige Fernbusse",
+   "use": "ok",
+   "src": "https://uk.megabus.com"
+  },
+  {
+   "name": "BlaBlaCar",
+   "cat": "rail",
+   "pkg": "com.comuto",
+   "note": "Mitfahrgelegenheiten",
+   "use": "ok",
+   "src": "https://www.blablacar.co.uk"
+  },
+  {
+   "name": "Calmac Ferries",
+   "cat": "rail",
+   "pkg": "uk.co.calmac",
+   "note": "Fähren zu den schottischen Inseln",
+   "use": "ok",
+   "src": "https://www.calmac.co.uk"
+  },
+  {
+   "name": "Stena Line",
+   "cat": "rail",
+   "pkg": "com.digitaltravelassistant",
+   "note": "Fähren nach Irland und Holland",
+   "use": "ok",
+   "src": "https://www.stenaline.co.uk"
+  },
+  {
+   "name": "Red Funnel",
+   "cat": "rail",
+   "pkg": "com.redfunnel.mobileapp",
+   "note": "Fähre Southampton zur Isle of Wight",
+   "use": "ok",
+   "src": "https://www.redfunnel.co.uk"
+  },
+  {
+   "name": "Thames Clippers",
+   "cat": "rail",
+   "pkg": "com.thamesclippers.mobileapp",
+   "note": "Uber Boat Flussboote auf der Themse",
+   "city": "London",
+   "use": "ok",
+   "src": "https://www.thamesclippers.com"
+  },
+  {
+   "name": "Addison Lee",
+   "cat": "taxi",
+   "pkg": "com.haulmont.shamrock.android",
+   "note": "Bekannter Londoner Fahrdienst",
+   "city": "London",
+   "use": "ok",
+   "src": "https://www.addisonlee.com"
+  },
+  {
+   "name": "Veezu",
+   "cat": "taxi",
+   "pkg": "com.veezu.app",
+   "note": "Taxis und Mietwagen in vielen britischen Städten",
+   "use": "ok",
+   "src": "https://www.veezu.co.uk"
+  },
+  {
+   "name": "Glasgow Taxis",
+   "cat": "taxi",
+   "pkg": "com.glasgowtaxis.passengerapp",
+   "note": "Schwarze Taxis in Glasgow",
+   "city": "Glasgow",
+   "use": "ok",
+   "src": "https://www.glasgowtaxis.co.uk"
+  },
+  {
+   "name": "City Cabs Edinburgh",
+   "cat": "taxi",
+   "pkg": "com.cordic.edinburgh.citycabs",
+   "note": "Taxizentrale in Edinburgh",
+   "city": "Edinburgh",
+   "use": "ok",
+   "src": "https://www.citycabs.co.uk"
+  },
+  {
+   "name": "Delta Taxis Merseyside",
+   "cat": "taxi",
+   "pkg": "com.deltait.deltataxismerseysideandroid",
+   "note": "Großer Taxidienst in Liverpool",
+   "city": "Liverpool",
+   "use": "ok",
+   "src": "https://www.deltataxis.co.uk"
+  },
+  {
+   "name": "Street Cars Manchester",
+   "cat": "taxi",
+   "pkg": "com.autocab.street.manchester",
+   "note": "Taxidienst in Manchester",
+   "city": "Manchester",
+   "use": "ok",
+   "src": "https://www.streetcarsmanchester.co.uk"
+  },
+  {
+   "name": "fonaCAB",
+   "cat": "taxi",
+   "pkg": "uk.co.fonacab.taxi",
+   "note": "Taxidienst in Belfast",
+   "city": "Belfast",
+   "use": "ok",
+   "src": "https://www.fonacab.com"
+  },
+  {
+   "name": "Value Cabs",
+   "cat": "taxi",
+   "pkg": "com.autocab.taxibooker.value.cabs",
+   "note": "Taxidienst in Belfast",
+   "city": "Belfast",
+   "use": "ok",
+   "src": "https://www.valuecabs.co.uk"
+  },
+  {
+   "name": "Enterprise CarShare",
+   "cat": "carshare",
+   "pkg": "com.ehi.csma",
+   "note": "Carsharing in vielen britischen Städten",
+   "use": "ok",
+   "src": "https://www.enterprisecarclub.co.uk"
+  },
+  {
+   "name": "Co Wheels",
+   "cat": "carshare",
+   "pkg": "uk.org.cowheels",
+   "note": "Carsharing, oft mit E-Autos",
+   "use": "ok",
+   "src": "https://www.co-wheels.org.uk"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "com.ehi.enterprise.android",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.enterprise.co.uk"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und Bahnhöfen",
+   "use": "ok",
+   "src": "https://www.sixt.co.uk"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.hertz.co.uk"
+  },
+  {
+   "name": "Turo",
+   "cat": "carshare",
+   "pkg": "com.relayrides.android.relayrides",
+   "note": "Autos von Privatleuten mieten",
+   "use": "ok",
+   "src": "https://turo.com/gb/en"
+  },
+  {
+   "name": "Yescapa",
+   "cat": "carshare",
+   "pkg": "com.yescapa",
+   "note": "Wohnmobile und Camper von Privatleuten",
+   "use": "ok",
+   "src": "https://www.yescapa.co.uk"
+  },
+  {
+   "name": "JustPark",
+   "cat": "parking",
+   "pkg": "com.justpark.jp",
+   "note": "Private Stellplätze und Parkhäuser buchen",
+   "use": "ok",
+   "src": "https://www.justpark.com"
+  },
+  {
+   "name": "YourParkingSpace",
+   "cat": "parking",
+   "pkg": "com.netsells.yourparkingspace",
+   "note": "Stellplätze vorab buchen",
+   "use": "ok",
+   "src": "https://www.yourparkingspace.co.uk"
+  },
+  {
+   "name": "APCOA Connect",
+   "cat": "parking",
+   "pkg": "com.apcoaconnect",
+   "note": "Parken an Bahnhöfen und Parkplätzen",
+   "use": "ok",
+   "src": "https://www.apcoa.co.uk"
+  },
+  {
+   "name": "NCP",
+   "cat": "parking",
+   "pkg": "uk.co.ncp.flexipass",
+   "note": "Parkhäuser von National Car Parks",
+   "use": "ok",
+   "src": "https://www.ncp.co.uk"
+  },
+  {
+   "name": "AppyParking+",
+   "cat": "parking",
+   "pkg": "com.appyway.mobile.explorer",
+   "note": "Parkregeln je Straße und Bezahlen",
+   "use": "ok",
+   "src": "https://appyway.com"
+  },
+  {
+   "name": "TfL Pay to Drive",
+   "cat": "parking",
+   "pkg": "uk.gov.tfl.paytodrive",
+   "note": "Congestion Charge und ULEZ in London zahlen",
+   "city": "London",
+   "use": "ok",
+   "src": "https://tfl.gov.uk"
+  },
+  {
+   "name": "Tesco Grocery & Clubcard",
+   "cat": "delivery",
+   "pkg": "com.tesco.grocery.view",
+   "note": "Lebensmittel liefern lassen, Clubcard",
+   "use": "ok",
+   "src": "https://www.tesco.com"
+  },
+  {
+   "name": "Ocado",
+   "cat": "delivery",
+   "pkg": "com.ocadoretail.mobile.android",
+   "note": "Online Supermarkt mit Lieferung",
+   "use": "ok",
+   "src": "https://www.ocado.com"
+  },
+  {
+   "name": "Gopuff",
+   "cat": "delivery",
+   "pkg": "com.main.gopuff",
+   "note": "Schnelllieferung von Snacks und Getränken",
+   "use": "ok",
+   "src": "https://www.gopuff.com"
+  },
+  {
+   "name": "Foodhub",
+   "cat": "delivery",
+   "pkg": "com.t2s.foodhub",
+   "note": "Lieferdienst lokaler Imbisse",
+   "use": "ok",
+   "src": "https://foodhub.co.uk"
+  },
+  {
+   "name": "Wetherspoon",
+   "cat": "delivery",
+   "pkg": "com.wetherspoon.orderandpay",
+   "note": "Im Pub per App am Tisch bestellen",
+   "use": "ok",
+   "src": "https://www.jdwetherspoon.com"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übriggebliebenes Essen günstig abholen",
+   "use": "ok",
+   "src": "https://www.toogoodtogo.com"
+  },
+  {
+   "name": "National Trust",
+   "cat": "tourism",
+   "pkg": "uk.org.nt.android.app1",
+   "note": "Schlösser, Gärten und Küsten des National Trust",
+   "use": "ok",
+   "src": "https://www.nationaltrust.org.uk"
+  },
+  {
+   "name": "Stonehenge Audio Guide",
+   "cat": "tourism",
+   "pkg": "com.stonehenge",
+   "note": "Offizieller Audioguide von English Heritage",
+   "use": "ok",
+   "src": "https://www.english-heritage.org.uk"
+  },
+  {
+   "name": "Historic Houses",
+   "cat": "tourism",
+   "pkg": "com.Arcade.HistoricHouses",
+   "note": "Historische Herrenhäuser und Gärten",
+   "use": "ok",
+   "src": "https://www.historichouses.org"
+  },
+  {
+   "name": "BBC Weather",
+   "cat": "safety",
+   "pkg": "bbc.mobile.weather",
+   "note": "Wetter und Warnungen der BBC",
+   "use": "ok",
+   "src": "https://www.bbc.co.uk/weather"
+  },
+  {
+   "name": "what3words",
+   "cat": "safety",
+   "pkg": "com.what3words.android",
+   "note": "Standort per drei Wörtern, nutzt der Notruf",
+   "use": "ok",
+   "src": "https://what3words.com"
+  },
+  {
+   "name": "Traveline Scotland",
+   "cat": "maps",
+   "pkg": "com.trapezegroup.njp.prod.transportscotland",
+   "note": "Routenplaner für Bus, Bahn und Fähre in Schottland",
+   "use": "ok",
+   "src": "https://www.travelinescotland.com"
+  },
+  {
+   "name": "LHR Heathrow",
+   "cat": "flights",
+   "pkg": "com.baa.heathrow",
+   "note": "Offizielle App des Flughafens Heathrow",
+   "city": "London",
+   "use": "ok",
+   "src": "https://www.heathrow.com"
+  },
+  {
+   "name": "Glasgow Airport",
+   "cat": "flights",
+   "pkg": "com.gla.app",
+   "note": "Offizielle App des Flughafens Glasgow",
+   "city": "Glasgow",
+   "use": "ok",
+   "src": "https://www.glasgowairport.com"
+  },
+  {
+   "name": "British Airways",
+   "cat": "flights",
+   "pkg": "com.ba.mobile",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.britishairways.com"
+  },
+  {
+   "name": "Virgin Atlantic",
+   "cat": "flights",
+   "pkg": "com.virginatlantic.app",
+   "note": "Britische Langstreckenairline",
+   "use": "ok",
+   "src": "https://www.virginatlantic.com"
+  },
+  {
+   "name": "easyJet",
+   "cat": "flights",
+   "pkg": "com.mttnow.droid.easyjet",
+   "note": "Britische Billigfluggesellschaft",
+   "use": "ok",
+   "src": "https://www.easyjet.com"
+  },
+  {
+   "name": "Holiday Extras",
+   "cat": "flights",
+   "pkg": "com.HolidayExtras.Tripapp",
+   "note": "Flughafenparken, Lounges und Hotels",
+   "use": "ok",
+   "src": "https://www.holidayextras.com"
+  },
+  {
+   "name": "Premier Inn",
+   "cat": "hotels",
+   "pkg": "com.whitbread.premierinn",
+   "note": "Größte britische Hotelkette",
+   "use": "ok",
+   "src": "https://www.premierinn.com"
+  },
+  {
+   "name": "Travelodge",
+   "cat": "hotels",
+   "pkg": "co.uk.travelodge.app",
+   "note": "Günstige Hotelkette",
+   "use": "ok",
+   "src": "https://www.travelodge.co.uk"
+  },
+  {
+   "name": "Hipcamp",
+   "cat": "hotels",
+   "pkg": "com.hipcamp.pocketknife",
+   "note": "Campingplätze und Hütten auf privatem Land",
+   "use": "ok",
+   "src": "https://www.hipcamp.com/en-GB"
+  },
+  {
+   "name": "Campsites.co.uk",
+   "cat": "hotels",
+   "pkg": "com.campsites.co.uk",
+   "note": "Britische Campingplätze suchen",
+   "use": "ok",
+   "src": "https://www.campsites.co.uk"
+  },
+  {
+   "name": "park4night",
+   "cat": "hotels",
+   "pkg": "fr.tramb.park4night",
+   "note": "Stellplätze für Wohnmobile und Camper",
+   "use": "ok",
+   "src": "https://park4night.com"
+  },
+  {
+   "name": "Sainsbury's",
+   "cat": "shopping",
+   "pkg": "com.sainsburys.gol",
+   "note": "Supermarkt, Angebote mit Nectar",
+   "use": "ok",
+   "src": "https://www.sainsburys.co.uk"
+  },
+  {
+   "name": "Nectar",
+   "cat": "shopping",
+   "pkg": "com.ga.loyalty.android.nectar.activities",
+   "note": "Bonuspunkte bei Sainsbury's und Argos",
+   "use": "ok",
+   "src": "https://www.nectar.com"
+  },
+  {
+   "name": "ASDA",
+   "cat": "shopping",
+   "pkg": "com.asda.android",
+   "note": "Supermarktkette mit Angeboten",
+   "use": "ok",
+   "src": "https://www.asda.com"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialsuche bei Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.co.uk"
+  },
+  {
+   "name": "Co-op",
+   "cat": "shopping",
+   "pkg": "uk.co.coop.app",
+   "note": "Nachbarschaftsläden mit Mitgliederpreisen",
+   "use": "ok",
+   "src": "https://www.coop.co.uk"
+  },
+  {
+   "name": "Morrisons",
+   "cat": "shopping",
+   "pkg": "com.morrisons.atm.mobile.android",
+   "note": "Supermarktkette mit Angeboten",
+   "use": "ok",
+   "src": "https://www.morrisons.com"
+  },
+  {
+   "name": "Waitrose",
+   "cat": "shopping",
+   "pkg": "com.waitrose.groceries",
+   "note": "Supermarkt, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://www.waitrose.com"
+  },
+  {
+   "name": "M&S",
+   "cat": "shopping",
+   "pkg": "com.marksandspencer.app",
+   "note": "Marks and Spencer, Mode und Lebensmittel",
+   "use": "ok",
+   "src": "https://www.marksandspencer.com"
+  },
+  {
+   "name": "Boots",
+   "cat": "shopping",
+   "pkg": "com.boots.flagship.android",
+   "note": "Drogerie und Apotheke",
+   "use": "ok",
+   "src": "https://www.boots.com"
+  },
+  {
+   "name": "Superdrug",
+   "cat": "shopping",
+   "pkg": "superdrug.com.beautycard",
+   "note": "Drogeriekette",
+   "use": "ok",
+   "src": "https://www.superdrug.com"
   }
  ],
  "replace": [

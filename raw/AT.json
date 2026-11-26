@@ -308,6 +308,298 @@
    "use": "limited",
    "req": "Österreichisches oder deutsches Bankkonto nötig",
    "src": "https://bluecode.com/en/pages/bluecode-app"
+  },
+  {
+   "name": "VOR AnachB",
+   "cat": "transit",
+   "pkg": "de.hafas.android.vao",
+   "note": "Routen und Tickets im Verkehrsverbund Ost Region",
+   "city": "Wien",
+   "use": "ok",
+   "src": "https://anachb.vor.at"
+  },
+  {
+   "name": "VVT Tickets",
+   "cat": "transit",
+   "pkg": "at.vtg.tickets",
+   "note": "Tickets des Verkehrsverbunds Tirol",
+   "city": "Innsbruck",
+   "use": "ok",
+   "src": "https://www.vvt.at"
+  },
+  {
+   "name": "BusBahnBim",
+   "cat": "transit",
+   "pkg": "de.hafas.android.stv",
+   "note": "Fahrplan und Tickets Verbund Steiermark",
+   "city": "Graz",
+   "use": "ok",
+   "src": "https://www.verbundlinie.at"
+  },
+  {
+   "name": "OÖVV Ticket-App",
+   "cat": "transit",
+   "pkg": "at.ooevv.tickets",
+   "note": "Tickets des Verkehrsverbunds Oberösterreich",
+   "city": "Linz",
+   "use": "ok",
+   "src": "https://www.ooevv.at"
+  },
+  {
+   "name": "Taxi 40100",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Wien40100",
+   "note": "Große Wiener Taxizentrale, auch Fixpreis",
+   "city": "Wien",
+   "use": "ok",
+   "src": "https://www.40100.at"
+  },
+  {
+   "name": "Taxi 31300",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Wien31300",
+   "note": "Wiener Taxizentrale 31300",
+   "city": "Wien",
+   "use": "ok",
+   "src": "https://www.31300.at"
+  },
+  {
+   "name": "Taxi Graz 878",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Graz878",
+   "note": "Taxizentrale 878 in Graz",
+   "city": "Graz",
+   "use": "ok",
+   "src": "https://www.878.at"
+  },
+  {
+   "name": "Taxi 8111",
+   "cat": "taxi",
+   "pkg": "it.ud.microtek.Taxi8111",
+   "note": "Salzburger Taxizentrale 8111",
+   "city": "Salzburg",
+   "use": "ok",
+   "src": "https://www.taxi.at"
+  },
+  {
+   "name": "Taxi 5311",
+   "cat": "taxi",
+   "pkg": "it.ud.microtek.Taxi5311",
+   "note": "Innsbrucker Taxizentrale 5311",
+   "city": "Innsbruck",
+   "use": "ok",
+   "src": "https://www.taxi5311.at"
+  },
+  {
+   "name": "ÖBB Rail&Drive",
+   "cat": "carshare",
+   "pkg": "at.railanddrive",
+   "note": "Mietautos an vielen ÖBB Bahnhöfen",
+   "use": "ok",
+   "src": "https://www.railanddrive.at"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing von Sixt",
+   "use": "ok",
+   "src": "https://www.sixt.at"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.europcar.europcarmobility",
+   "note": "Mietwagen von Europcar buchen",
+   "use": "ok",
+   "src": "https://www.europcar.at"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen von Hertz",
+   "use": "ok",
+   "src": "https://www.hertz.at"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "note": "Mietwagen von Avis",
+   "use": "ok",
+   "src": "https://www.avis.at"
+  },
+  {
+   "name": "HANDYPARKEN",
+   "cat": "parking",
+   "pkg": "at.mobilkom.android.handyparken",
+   "note": "Kurzparkscheine in Wien und vielen Städten",
+   "use": "ok",
+   "src": "https://www.handyparken.at"
+  },
+  {
+   "name": "APCOA FLOW",
+   "cat": "parking",
+   "pkg": "com.apcoaflow.consumer",
+   "note": "Parkhäuser von APCOA ohne Ticket",
+   "use": "ok",
+   "src": "https://www.apcoa.at"
+  },
+  {
+   "name": "Gurkerl.at",
+   "cat": "delivery",
+   "pkg": "at.gurkerl.app",
+   "note": "Lebensmittel online, Lieferung nach Hause",
+   "use": "ok",
+   "src": "https://www.gurkerl.at"
+  },
+  {
+   "name": "Alfies",
+   "cat": "delivery",
+   "pkg": "at.alfies.store",
+   "note": "Schnelle Lebensmittellieferung in Wien",
+   "city": "Wien",
+   "use": "ok",
+   "src": "https://www.alfies.at"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übrige Speisen günstig abholen",
+   "use": "ok",
+   "src": "https://www.toogoodtogo.com"
+  },
+  {
+   "name": "Schönbrunn",
+   "cat": "tourism",
+   "pkg": "app.digitalexperience.skb",
+   "note": "Offizielle App zu Schloss Schönbrunn",
+   "city": "Wien",
+   "use": "ok",
+   "src": "https://www.schoenbrunn.at"
+  },
+  {
+   "name": "Erlebnis Nationalpark",
+   "cat": "tourism",
+   "pkg": "com.outdooractive.hohetauern",
+   "note": "Touren im Nationalpark Hohe Tauern",
+   "use": "ok",
+   "src": "https://hohetauern.at"
+  },
+  {
+   "name": "DEC112 2.0",
+   "cat": "safety",
+   "pkg": "com.meecode.dec112.mobile.twodotzero",
+   "note": "Offizieller Notruf per Chat für Gehörlose",
+   "use": "ok",
+   "src": "https://www.dec112.at"
+  },
+  {
+   "name": "UWZ Österreich",
+   "cat": "safety",
+   "pkg": "com.ubimet.uwz",
+   "note": "Unwetterwarnungen für Österreich",
+   "use": "ok",
+   "src": "https://uwz.at"
+  },
+  {
+   "name": "SnowSafe",
+   "cat": "safety",
+   "pkg": "com.roomfour0four.android.avalanche",
+   "note": "Lawinenlage und Warnungen der Alpen",
+   "use": "ok",
+   "src": "https://snowsafe.at"
+  },
+  {
+   "name": "ÖAMTC",
+   "cat": "maps",
+   "pkg": "at.oeamtc.android",
+   "note": "Verkehr, Pannenhilfe, Tankstellen, Routen",
+   "use": "ok",
+   "src": "https://www.oeamtc.at"
+  },
+  {
+   "name": "bergfex Touren",
+   "cat": "maps",
+   "pkg": "com.bergfex.tour",
+   "note": "Wandern und Touren mit Offlinekarten",
+   "use": "ok",
+   "src": "https://www.bergfex.at"
+  },
+  {
+   "name": "Outdooractive",
+   "cat": "maps",
+   "pkg": "com.outdooractive.Outdooractive",
+   "note": "Wander und Radtouren mit Offlinekarten",
+   "use": "ok",
+   "src": "https://www.outdooractive.com"
+  },
+  {
+   "name": "Austrian Airlines",
+   "cat": "flights",
+   "pkg": "com.austrian.connector.android",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.austrian.com"
+  },
+  {
+   "name": "camping.info",
+   "cat": "hotels",
+   "pkg": "com.camparound.camperapp.android",
+   "note": "Campingplätze in Österreich und Europa",
+   "use": "ok",
+   "src": "https://www.camping.info"
+  },
+  {
+   "name": "BILLA",
+   "cat": "shopping",
+   "pkg": "at.billa.service",
+   "note": "Supermarkt BILLA mit Angeboten",
+   "use": "ok",
+   "src": "https://www.billa.at"
+  },
+  {
+   "name": "SPAR",
+   "cat": "shopping",
+   "pkg": "at.spar.app",
+   "note": "Supermarkt SPAR, Filialen und Angebote",
+   "use": "ok",
+   "src": "https://www.spar.at"
+  },
+  {
+   "name": "HOFER",
+   "cat": "shopping",
+   "pkg": "de.apptiv.business.android.aldi_at",
+   "note": "Discounter HOFER, Angebote und Filialen",
+   "use": "ok",
+   "src": "https://www.hofer.at"
+  },
+  {
+   "name": "PENNY Österreich",
+   "cat": "shopping",
+   "pkg": "at.penny.app",
+   "note": "Discounter PENNY mit Angeboten",
+   "use": "ok",
+   "src": "https://www.penny.at"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialsuche bei Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.at"
+  },
+  {
+   "name": "MPREIS",
+   "cat": "shopping",
+   "pkg": "at.mpreis.app",
+   "note": "Tiroler Supermarktkette",
+   "city": "Innsbruck",
+   "use": "ok",
+   "src": "https://www.mpreis.at"
   }
  ],
  "replace": [

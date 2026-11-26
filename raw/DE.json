@@ -431,6 +431,649 @@
    "use": "limited",
    "req": "Konto bei teilnehmender Bank nötig",
    "src": "https://www.db.com/news/detail/20251217-deutsche-bank-launches-wero-for-more-simple-and-sovereign-digital-payments-in-europe"
+  },
+  {
+   "name": "MVV-App",
+   "cat": "transit",
+   "pkg": "com.mdv.companion",
+   "note": "Verbundtickets und Fahrplan für Großraum München",
+   "city": "Munich",
+   "use": "ok",
+   "src": "https://www.mvv-muenchen.de"
+  },
+  {
+   "name": "VGN Fahrplan & Tickets",
+   "cat": "transit",
+   "pkg": "com.mdv.VGNCompanion",
+   "note": "Tickets und Fahrplan im Verbund Großraum Nürnberg",
+   "city": "Nuremberg",
+   "use": "ok",
+   "src": "https://www.vgn.de"
+  },
+  {
+   "name": "VRS",
+   "cat": "transit",
+   "pkg": "de.vrsinfo",
+   "note": "Verbundapp Rhein Sieg mit Tickets für Köln und Bonn",
+   "city": "Cologne",
+   "use": "ok",
+   "src": "https://www.vrs.de"
+  },
+  {
+   "name": "BVG Jelbi",
+   "cat": "transit",
+   "pkg": "com.trafi.whitelabel.bvg",
+   "note": "Berliner Mobilitätsapp: ÖPNV, Sharing und Taxi",
+   "city": "Berlin",
+   "use": "ok",
+   "src": "https://www.jelbi.de"
+  },
+  {
+   "name": "hvv hop",
+   "cat": "transit",
+   "pkg": "com.ioki.hamburg",
+   "note": "Rufshuttle der Hochbahn in Hamburger Randgebieten",
+   "city": "Hamburg",
+   "use": "ok",
+   "src": "https://www.hvv.de"
+  },
+  {
+   "name": "BlaBlaCar",
+   "cat": "rail",
+   "pkg": "com.comuto",
+   "note": "Mitfahrgelegenheiten und Fernbusse",
+   "use": "ok",
+   "src": "https://www.blablacar.de"
+  },
+  {
+   "name": "ÖBB Tickets",
+   "cat": "rail",
+   "pkg": "at.oebb.ts",
+   "note": "Tickets für Nightjet und Züge nach Österreich",
+   "use": "ok",
+   "src": "https://www.oebb.at"
+  },
+  {
+   "name": "Scandlines",
+   "cat": "rail",
+   "pkg": "lsretail.loyalty.android.scandlines",
+   "note": "Fähren Puttgarden Rødby und Rostock Gedser",
+   "use": "ok",
+   "src": "https://www.scandlines.de"
+  },
+  {
+   "name": "FRS Travel",
+   "cat": "rail",
+   "pkg": "world.frs.booking.android",
+   "note": "Fährtickets u. a. nach Helgoland und Sylt",
+   "use": "ok",
+   "src": "https://www.frs.world"
+  },
+  {
+   "name": "taxi.eu",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_BerlinTZBEU",
+   "note": "Taxi bestellen über Taxizentralen in vielen Städten",
+   "use": "ok",
+   "src": "https://www.taxi.eu"
+  },
+  {
+   "name": "Taxi Deutschland",
+   "cat": "taxi",
+   "pkg": "net.gefos.deintaxideutschland",
+   "note": "Bundesweite App der Taxizentralen",
+   "use": "ok",
+   "src": "https://www.taxi-deutschland.net"
+  },
+  {
+   "name": "Taxi.de",
+   "cat": "taxi",
+   "pkg": "com.sic.taxibutton",
+   "note": "Taxi bundesweit bei lokalen Zentralen bestellen",
+   "use": "ok",
+   "src": "https://www.taxi.de"
+  },
+  {
+   "name": "Taxi Berlin",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_BerlinTZB",
+   "note": "App der Berliner Taxizentrale 202020",
+   "city": "Berlin",
+   "use": "ok",
+   "src": "https://www.taxi-berlin.de"
+  },
+  {
+   "name": "Taxi 211 211",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Hansafunk",
+   "note": "Hamburger Taxizentrale Hansa Funktaxi",
+   "city": "Hamburg",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=at.austrosoft.t4me.MB_Hansafunk"
+  },
+  {
+   "name": "Rhein-Taxi 212121",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Duesseldorf",
+   "note": "Düsseldorfer Taxizentrale",
+   "city": "Dusseldorf",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=at.austrosoft.t4me.MB_Duesseldorf"
+  },
+  {
+   "name": "cambio CarSharing",
+   "cat": "carshare",
+   "pkg": "de.cambio.app",
+   "note": "Stationsbasiertes Carsharing u. a. in Köln, Hamburg",
+   "use": "ok",
+   "src": "https://www.cambio-carsharing.de"
+  },
+  {
+   "name": "teilAuto",
+   "cat": "carshare",
+   "pkg": "net.teilauto.m",
+   "note": "Carsharing in Leipzig, Dresden und Mitteldeutschland",
+   "use": "ok",
+   "src": "https://www.teilauto.net"
+  },
+  {
+   "name": "book-n-drive",
+   "cat": "carshare",
+   "pkg": "de.bookndrive.rn",
+   "note": "Carsharing im Rhein Main Gebiet um Frankfurt",
+   "city": "Frankfurt",
+   "use": "ok",
+   "src": "https://www.book-n-drive.de"
+  },
+  {
+   "name": "DB Flinkster",
+   "cat": "carshare",
+   "pkg": "de.flinkster.sharing.app",
+   "note": "Carsharing der Bahn an Bahnhöfen",
+   "use": "ok",
+   "src": "https://www.flinkster.de"
+  },
+  {
+   "name": "scouter",
+   "cat": "carshare",
+   "pkg": "de.sharegroup.scouter",
+   "note": "Stationsbasiertes Carsharing in vielen Städten",
+   "use": "ok",
+   "src": "https://www.scouter.de"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.europcar.europcarmobility",
+   "note": "Mietwagen buchen und verwalten",
+   "use": "ok",
+   "src": "https://www.europcar.de"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "note": "Mietwagen von Avis",
+   "use": "ok",
+   "src": "https://www.avis.de"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen von Hertz",
+   "use": "ok",
+   "src": "https://www.hertz.de"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "com.ehi.enterprise.android",
+   "note": "Mietwagen von Enterprise",
+   "use": "ok",
+   "src": "https://www.enterprise.de"
+  },
+  {
+   "name": "ADAC Autovermietung",
+   "cat": "carshare",
+   "pkg": "de.adac.mobility",
+   "note": "Mietwagen mit ADAC Vorteilen",
+   "use": "ok",
+   "src": "https://www.adac.de/autovermietung"
+  },
+  {
+   "name": "billiger-mietwagen.de",
+   "cat": "carshare",
+   "pkg": "de.billigermietwagen.app.de",
+   "note": "Mietwagen Preisvergleich",
+   "use": "ok",
+   "src": "https://www.billiger-mietwagen.de"
+  },
+  {
+   "name": "PaulCamper",
+   "cat": "carshare",
+   "pkg": "com.paulcamper",
+   "note": "Wohnmobile von Privat mieten",
+   "use": "ok",
+   "src": "https://paulcamper.de"
+  },
+  {
+   "name": "Yescapa",
+   "cat": "carshare",
+   "pkg": "com.yescapa",
+   "note": "Wohnmobile und Campervans mieten",
+   "use": "ok",
+   "src": "https://www.yescapa.de"
+  },
+  {
+   "name": "DB Call a Bike",
+   "cat": "micro",
+   "pkg": "de.bahn.callabike",
+   "note": "Leihräder der Bahn in vielen Städten",
+   "use": "ok",
+   "src": "https://www.callabike.de"
+  },
+  {
+   "name": "StadtRAD Hamburg",
+   "cat": "micro",
+   "pkg": "de.stadtrad.hamburg",
+   "note": "Hamburger Leihradsystem",
+   "city": "Hamburg",
+   "use": "ok",
+   "src": "https://stadtrad.hamburg.de"
+  },
+  {
+   "name": "HandyParken München",
+   "cat": "parking",
+   "pkg": "de.swm.parken.handyparken",
+   "note": "Parkgebühren in München per App zahlen",
+   "city": "Munich",
+   "use": "ok",
+   "src": "https://www.swm.de"
+  },
+  {
+   "name": "Parkster",
+   "cat": "parking",
+   "pkg": "se.parkster.client.android",
+   "note": "Handyparken in vielen deutschen Städten",
+   "use": "ok",
+   "src": "https://www.parkster.com/de"
+  },
+  {
+   "name": "mobilet.de",
+   "cat": "parking",
+   "pkg": "pl.mobilet.android.de.prod",
+   "note": "Handyparken und Tickets in deutschen Städten",
+   "use": "ok",
+   "src": "https://www.mobilet.de"
+  },
+  {
+   "name": "PARCO",
+   "cat": "parking",
+   "pkg": "eu.parkhere.smartcity",
+   "note": "Parken per App in mehreren Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=eu.parkhere.smartcity"
+  },
+  {
+   "name": "Q-Park",
+   "cat": "parking",
+   "pkg": "com.qpark.mobilepark.android",
+   "note": "Parkhäuser von Q-Park finden und buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.qpark.mobilepark.android"
+  },
+  {
+   "name": "ampido",
+   "cat": "parking",
+   "pkg": "com.ampido.app",
+   "note": "Private und gewerbliche Parkplätze buchen",
+   "use": "ok",
+   "src": "https://www.ampido.com"
+  },
+  {
+   "name": "Flink",
+   "cat": "delivery",
+   "pkg": "com.pickery.app",
+   "note": "Lebensmittel in Minuten geliefert",
+   "use": "ok",
+   "src": "https://www.goflink.com"
+  },
+  {
+   "name": "Knuspr",
+   "cat": "delivery",
+   "pkg": "de.knuspr.app",
+   "note": "Online Supermarkt mit Lieferung",
+   "use": "ok",
+   "src": "https://www.knuspr.de"
+  },
+  {
+   "name": "Picnic",
+   "cat": "delivery",
+   "pkg": "com.picnic.android",
+   "note": "Lebensmittel Lieferdienst",
+   "use": "ok",
+   "src": "https://picnic.app/de"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übrige Speisen von Läden günstig retten",
+   "use": "ok",
+   "src": "https://www.toogoodtogo.com/de"
+  },
+  {
+   "name": "PayPal",
+   "cat": "payment",
+   "pkg": "com.paypal.android.p2pmobile",
+   "note": "Bezahlen und Geld senden, in DE weit verbreitet",
+   "use": "ok",
+   "src": "https://www.paypal.com/de"
+  },
+  {
+   "name": "Mobiles Bezahlen Sparkasse",
+   "cat": "payment",
+   "pkg": "com.s_payment.mobiles_bezahlen",
+   "note": "Kontaktlos mit Sparkassenkarte zahlen",
+   "use": "limited",
+   "req": "Nur für Sparkassenkunden",
+   "src": "https://play.google.com/store/apps/details?id=com.s_payment.mobiles_bezahlen"
+  },
+  {
+   "name": "Explore Leipzig",
+   "cat": "tourism",
+   "pkg": "de.droidsolutions.ltm.aggregator",
+   "note": "Stadttouren und Tipps für Leipzig",
+   "city": "Leipzig",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=de.droidsolutions.ltm.aggregator"
+  },
+  {
+   "name": "Schlösserland erleben",
+   "cat": "tourism",
+   "pkg": "com.fluxguide.schloesserland",
+   "note": "Schlösser und Gärten in Sachsen",
+   "city": "Dresden",
+   "use": "ok",
+   "src": "https://www.schloesserland-sachsen.de"
+  },
+  {
+   "name": "KATWARN",
+   "cat": "safety",
+   "pkg": "de.combirisk.katwarn",
+   "note": "Offizielle Warnungen für Ort und Region",
+   "use": "ok",
+   "src": "https://www.katwarn.de"
+  },
+  {
+   "name": "BIWAPP",
+   "cat": "safety",
+   "pkg": "de.mplg.biwapp",
+   "note": "Bürger Info und Warnapp vieler Landkreise",
+   "use": "ok",
+   "src": "https://www.biwapp.de"
+  },
+  {
+   "name": "WarnWetter",
+   "cat": "safety",
+   "pkg": "de.dwd.warnapp",
+   "note": "Unwetterwarnungen des Deutschen Wetterdienstes",
+   "use": "ok",
+   "src": "https://www.dwd.de"
+  },
+  {
+   "name": "nora Notruf",
+   "cat": "safety",
+   "pkg": "de.noranotruf",
+   "note": "Offizielle Notruf App der Bundesländer",
+   "use": "ok",
+   "src": "https://www.nora-notruf.de"
+  },
+  {
+   "name": "WetterOnline",
+   "cat": "safety",
+   "pkg": "de.wetteronline.wetterapp",
+   "note": "Wetter, Regenradar und Warnungen",
+   "use": "ok",
+   "src": "https://www.wetteronline.de"
+  },
+  {
+   "name": "Outdooractive",
+   "cat": "maps",
+   "pkg": "com.outdooractive.Outdooractive",
+   "note": "Wander und Radtouren mit Offlinekarten",
+   "use": "ok",
+   "src": "https://www.outdooractive.com"
+  },
+  {
+   "name": "Bikemap",
+   "cat": "maps",
+   "pkg": "com.toursprung.bikemap",
+   "note": "Radrouten und Navigation",
+   "use": "ok",
+   "src": "https://www.bikemap.net"
+  },
+  {
+   "name": "BER Airport",
+   "cat": "flights",
+   "pkg": "de.berlinairport.app",
+   "note": "Offizielle App des Flughafens Berlin Brandenburg",
+   "city": "Berlin",
+   "use": "ok",
+   "src": "https://ber.berlin-airport.de"
+  },
+  {
+   "name": "Passngr",
+   "cat": "flights",
+   "pkg": "de.infogatesystem.passngr",
+   "note": "App des Flughafens München",
+   "city": "Munich",
+   "use": "ok",
+   "src": "https://www.munich-airport.de"
+  },
+  {
+   "name": "Cologne Bonn Airport",
+   "cat": "flights",
+   "pkg": "cgn.app",
+   "note": "Offizielle App des Flughafens Köln/Bonn",
+   "city": "Cologne",
+   "use": "ok",
+   "src": "https://www.koeln-bonn-airport.de"
+  },
+  {
+   "name": "Stuttgart Airport",
+   "cat": "flights",
+   "pkg": "airport.stuttgart.de",
+   "note": "Offizielle App des Flughafens Stuttgart",
+   "city": "Stuttgart",
+   "use": "ok",
+   "src": "https://www.flughafen-stuttgart.de"
+  },
+  {
+   "name": "Eurowings",
+   "cat": "flights",
+   "pkg": "com.germanwings.android",
+   "note": "Flüge und Bordkarten von Eurowings",
+   "use": "ok",
+   "src": "https://www.eurowings.com"
+  },
+  {
+   "name": "Condor",
+   "cat": "flights",
+   "pkg": "com.condor.buchung",
+   "note": "Ferienflieger Condor",
+   "use": "ok",
+   "src": "https://www.condor.com"
+  },
+  {
+   "name": "HRS",
+   "cat": "hotels",
+   "pkg": "com.hrs.b2c.android",
+   "note": "Hotelbuchung aus Deutschland",
+   "use": "ok",
+   "src": "https://www.hrs.de"
+  },
+  {
+   "name": "HolidayCheck",
+   "cat": "hotels",
+   "pkg": "com.holidaycheck",
+   "note": "Hotelbewertungen und Pauschalreisen",
+   "use": "ok",
+   "src": "https://www.holidaycheck.de"
+  },
+  {
+   "name": "CHECK24",
+   "cat": "hotels",
+   "pkg": "de.check24.check24",
+   "note": "Hotels, Flüge und Mietwagen vergleichen",
+   "use": "ok",
+   "src": "https://www.check24.de"
+  },
+  {
+   "name": "trivago",
+   "cat": "hotels",
+   "pkg": "com.trivago",
+   "note": "Hotelpreise vergleichen",
+   "use": "ok",
+   "src": "https://www.trivago.de"
+  },
+  {
+   "name": "PiNCAMP",
+   "cat": "hotels",
+   "pkg": "com.pincamp.de",
+   "note": "Campingplätze vom ADAC finden und buchen",
+   "use": "ok",
+   "src": "https://www.pincamp.de"
+  },
+  {
+   "name": "camping.info",
+   "cat": "hotels",
+   "pkg": "com.camparound.camperapp.android",
+   "note": "Campingplatzführer mit Bewertungen",
+   "use": "ok",
+   "src": "https://www.camping.info"
+  },
+  {
+   "name": "park4night",
+   "cat": "hotels",
+   "pkg": "fr.tramb.park4night",
+   "note": "Stellplätze für Wohnmobile und Vans",
+   "use": "ok",
+   "src": "https://park4night.com"
+  },
+  {
+   "name": "Landvergnügen",
+   "cat": "hotels",
+   "pkg": "com.landvergnuegen.app",
+   "note": "Stellplätze bei Höfen und Winzern",
+   "use": "limited",
+   "req": "Jahresvignette nötig",
+   "src": "https://www.landvergnuegen.com"
+  },
+  {
+   "name": "AlpacaCamping",
+   "cat": "hotels",
+   "pkg": "com.campingapp",
+   "note": "Besondere Stellplätze bei Privatleuten",
+   "use": "ok",
+   "src": "https://www.alpacacamping.de"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons, Angebote und Filialsuche bei Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.de"
+  },
+  {
+   "name": "REWE",
+   "cat": "shopping",
+   "pkg": "de.rewe.app.mobile",
+   "note": "Angebote, Märkte und Lieferservice",
+   "use": "ok",
+   "src": "https://www.rewe.de"
+  },
+  {
+   "name": "EDEKA",
+   "cat": "shopping",
+   "pkg": "de.edeka.genuss",
+   "note": "Angebote und Marktsuche bei Edeka",
+   "use": "ok",
+   "src": "https://www.edeka.de"
+  },
+  {
+   "name": "ALDI SÜD",
+   "cat": "shopping",
+   "pkg": "de.apptiv.business.android.aldi_de",
+   "note": "Angebote und Filialen von Aldi Süd",
+   "use": "ok",
+   "src": "https://www.aldi-sued.de"
+  },
+  {
+   "name": "ALDI Nord",
+   "cat": "shopping",
+   "pkg": "de.aldiNord.android",
+   "note": "Angebote und Filialen von Aldi Nord",
+   "use": "ok",
+   "src": "https://www.aldi-nord.de"
+  },
+  {
+   "name": "Kaufland",
+   "cat": "shopping",
+   "pkg": "com.kaufland.Kaufland",
+   "note": "Angebote und Filialen von Kaufland",
+   "use": "ok",
+   "src": "https://www.kaufland.de"
+  },
+  {
+   "name": "PENNY",
+   "cat": "shopping",
+   "pkg": "de.penny.app",
+   "note": "Angebote und Coupons von Penny",
+   "use": "ok",
+   "src": "https://www.penny.de"
+  },
+  {
+   "name": "Netto plus",
+   "cat": "shopping",
+   "pkg": "com.valuephone.vpnetto",
+   "note": "Angebote und Filialen von Netto Marken Discount",
+   "use": "ok",
+   "src": "https://www.netto-online.de"
+  },
+  {
+   "name": "Mein dm",
+   "cat": "shopping",
+   "pkg": "de.dm.meindm.android",
+   "note": "Drogerie dm mit Coupons und Filialsuche",
+   "use": "ok",
+   "src": "https://www.dm.de"
+  },
+  {
+   "name": "Rossmann",
+   "cat": "shopping",
+   "pkg": "de.rossmann.app.android",
+   "note": "Drogerie Rossmann mit Coupons",
+   "use": "ok",
+   "src": "https://www.rossmann.de"
+  },
+  {
+   "name": "PAYBACK",
+   "cat": "shopping",
+   "pkg": "de.payback.client.android",
+   "note": "Bonuspunkte bei vielen Händlern",
+   "use": "ok",
+   "src": "https://www.payback.de"
+  },
+  {
+   "name": "DeepL",
+   "cat": "misc",
+   "pkg": "com.deepl.mobiletranslator",
+   "note": "Übersetzer aus Köln",
+   "use": "ok",
+   "src": "https://www.deepl.com"
   }
  ]
 }

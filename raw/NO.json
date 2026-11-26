@@ -292,6 +292,327 @@
    "use": "no",
    "req": "Norwegische BankID und Konto nötig",
    "src": "https://play.google.com/store/apps/details?id=no.dnb.vipps&hl=en"
+  },
+  {
+   "name": "07000 Taxi",
+   "cat": "taxi",
+   "pkg": "com.edb.taxi.bergentaxi",
+   "note": "Taxizentrale Bergen, Taxi per App bestellen",
+   "city": "Bergen",
+   "use": "ok",
+   "url": "https://www.07000.no",
+   "src": "https://www.07000.no"
+  },
+  {
+   "name": "TrønderTaxi",
+   "cat": "taxi",
+   "pkg": "com.edb.taxi.trondertaxi",
+   "note": "Größte Taxizentrale in Trondheim",
+   "city": "Trondheim",
+   "use": "ok",
+   "url": "https://www.trondertaxi.no",
+   "src": "https://www.trondertaxi.no"
+  },
+  {
+   "name": "Norgestaxi",
+   "cat": "taxi",
+   "pkg": "com.cabonline.norgestaxi",
+   "note": "Landesweite Taxikette, u. a. Oslo",
+   "use": "ok",
+   "url": "https://www.norgestaxi.no",
+   "src": "https://www.norgestaxi.no"
+  },
+  {
+   "name": "Din Taxi",
+   "cat": "taxi",
+   "pkg": "com.dintaxi.tromso",
+   "note": "Taxizentrale in Tromsø",
+   "city": "Tromsø",
+   "use": "ok",
+   "url": "https://www.dintaxi.no",
+   "src": "https://www.dintaxi.no"
+  },
+  {
+   "name": "Bilkollektivet",
+   "cat": "carshare",
+   "pkg": "no.shortcut.bilkollektivet",
+   "note": "Carsharing-Genossenschaft, vor allem Oslo",
+   "city": "Oslo",
+   "use": "limited",
+   "req": "Mitgliedschaft nötig",
+   "url": "https://bilkollektivet.no",
+   "src": "https://bilkollektivet.no"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und in Städten",
+   "use": "ok",
+   "url": "https://www.sixt.no",
+   "src": "https://www.sixt.no"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen landesweit",
+   "use": "ok",
+   "url": "https://www.hertz.no",
+   "src": "https://www.hertz.no"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "note": "Mietwagen landesweit",
+   "use": "ok",
+   "url": "https://www.avis.no",
+   "src": "https://www.avis.no"
+  },
+  {
+   "name": "APCOA FLOW",
+   "cat": "parking",
+   "pkg": "com.europark.mobilparkering",
+   "note": "Parkhäuser und Parkplätze von APCOA",
+   "use": "ok",
+   "url": "https://www.apcoa.no",
+   "src": "https://www.apcoa.no"
+  },
+  {
+   "name": "Aimo Park",
+   "cat": "parking",
+   "pkg": "com.aimoone.app",
+   "note": "Parken auf Aimo-Plätzen per App",
+   "use": "ok",
+   "url": "https://www.aimopark.no",
+   "src": "https://www.aimopark.no"
+  },
+  {
+   "name": "SmartPark",
+   "cat": "parking",
+   "pkg": "no.giantleap.parko.trondheimparkering",
+   "note": "Städtisches Parken in Trondheim",
+   "city": "Trondheim",
+   "use": "ok",
+   "url": "https://www.smartpark.no",
+   "src": "https://www.smartpark.no"
+  },
+  {
+   "name": "Bane NOR Parkering",
+   "cat": "parking",
+   "pkg": "no.giantleap.parko.banenor",
+   "note": "Parken an Bahnhöfen",
+   "use": "ok",
+   "url": "https://www.banenor.no",
+   "src": "https://www.banenor.no"
+  },
+  {
+   "name": "Oda",
+   "cat": "delivery",
+   "pkg": "no.kolonial.tienda",
+   "note": "Online-Supermarkt mit Lieferung",
+   "use": "ok",
+   "url": "https://oda.com/no/",
+   "src": "https://oda.com/no/"
+  },
+  {
+   "name": "visitnorway.com",
+   "cat": "tourism",
+   "pkg": "makingwaves.in.vn.android.app",
+   "note": "Offizielle Reise-App von Visit Norway",
+   "use": "ok",
+   "url": "https://www.visitnorway.com",
+   "src": "https://www.visitnorway.com"
+  },
+  {
+   "name": "Hjelp 113",
+   "cat": "safety",
+   "pkg": "com.favouritesystems.android.emergencyapp.nla113",
+   "note": "Notruf 113 mit Standortübermittlung",
+   "use": "ok",
+   "url": "https://norskluftambulanse.no",
+   "src": "https://norskluftambulanse.no"
+  },
+  {
+   "name": "UT",
+   "cat": "maps",
+   "pkg": "no.bouvet.nrkut",
+   "note": "Wanderkarte mit Touren und DNT-Hütten",
+   "use": "ok",
+   "url": "https://ut.no",
+   "src": "https://ut.no"
+  },
+  {
+   "name": "Avinor",
+   "cat": "flights",
+   "pkg": "no.avinor.avinorflights",
+   "note": "Abflüge und Ankünfte aller Avinor-Flughäfen",
+   "use": "ok",
+   "url": "https://avinor.no",
+   "src": "https://avinor.no"
+  },
+  {
+   "name": "Norwegian",
+   "cat": "flights",
+   "pkg": "com.norwegian.travelassistant",
+   "note": "Norwegian Air: Buchung und Bordkarte",
+   "use": "ok",
+   "url": "https://www.norwegian.com",
+   "src": "https://www.norwegian.com"
+  },
+  {
+   "name": "Widerøe",
+   "cat": "flights",
+   "pkg": "com.wideroeas.wideroe",
+   "note": "Regionalflüge, auch Nordnorwegen",
+   "use": "ok",
+   "url": "https://www.wideroe.no",
+   "src": "https://www.wideroe.no"
+  },
+  {
+   "name": "SAS",
+   "cat": "flights",
+   "pkg": "se.sas.android",
+   "note": "Skandinavische Airline, Buchung und Check-in",
+   "use": "ok",
+   "url": "https://www.flysas.com",
+   "src": "https://www.flysas.com"
+  },
+  {
+   "name": "Scandic Hotels",
+   "cat": "hotels",
+   "pkg": "com.scandichotels.app",
+   "note": "Große Hotelkette in Norwegen",
+   "use": "ok",
+   "url": "https://www.scandichotels.no",
+   "src": "https://www.scandichotels.no"
+  },
+  {
+   "name": "Strawberry",
+   "cat": "hotels",
+   "pkg": "com.nordicchoicehotels.breeze",
+   "note": "Hotelgruppe mit Clarion, Comfort, Quality",
+   "use": "ok",
+   "url": "https://strawberry.no",
+   "src": "https://strawberry.no"
+  },
+  {
+   "name": "REMA 1000",
+   "cat": "shopping",
+   "pkg": "no.rema.bella",
+   "note": "Supermarkt: Angebote und Rabatte",
+   "use": "ok",
+   "url": "https://www.rema.no",
+   "src": "https://www.rema.no"
+  },
+  {
+   "name": "Coop medlem",
+   "cat": "shopping",
+   "pkg": "no.coop.members",
+   "note": "Coop Extra, Obs, Prix: Angebote",
+   "use": "ok",
+   "url": "https://coop.no",
+   "src": "https://coop.no"
+  },
+  {
+   "name": "Trumf",
+   "cat": "shopping",
+   "pkg": "no.norgesgruppen.apps.trumf.trumf",
+   "note": "Bonusprogramm für Kiwi, Meny, Spar",
+   "use": "ok",
+   "url": "https://www.trumf.no",
+   "src": "https://www.trumf.no"
+  },
+  {
+   "name": "KIWI PLUSS",
+   "cat": "shopping",
+   "pkg": "no.norgesgruppen.apps.kiwipluss.production",
+   "note": "Discounter Kiwi: Angebote und Rabatte",
+   "use": "ok",
+   "url": "https://kiwi.no",
+   "src": "https://kiwi.no"
+  },
+  {
+   "name": "MENY",
+   "cat": "shopping",
+   "pkg": "no.norgesgruppen.apps.meny",
+   "note": "Supermarkt Meny: Angebote, Online-Einkauf",
+   "use": "ok",
+   "url": "https://meny.no",
+   "src": "https://meny.no"
+  },
+  {
+   "name": "Vinmonopolet",
+   "cat": "shopping",
+   "pkg": "no.vinmonopolet.android",
+   "note": "Staatlicher Alkoholladen: Filialen, Zeiten",
+   "use": "ok",
+   "url": "https://www.vinmonopolet.no",
+   "src": "https://www.vinmonopolet.no"
+  },
+  {
+   "name": "NOR-WAY Bussekspress",
+   "cat": "rail",
+   "pkg": "com.norway.bus",
+   "note": "Fernbusse zwischen norwegischen Städten",
+   "use": "ok",
+   "url": "https://www.nor-way.no",
+   "src": "https://www.nor-way.no"
+  },
+  {
+   "name": "Hurtigruten",
+   "cat": "rail",
+   "pkg": "com.hurtigrutenapp",
+   "note": "Postschiffroute entlang der Küste",
+   "use": "ok",
+   "url": "https://www.hurtigruten.com",
+   "src": "https://www.hurtigruten.com"
+  },
+  {
+   "name": "Color Line",
+   "cat": "rail",
+   "pkg": "com.colorline",
+   "note": "Fähren nach Kiel, Dänemark und Schweden",
+   "use": "ok",
+   "url": "https://www.colorline.no",
+   "src": "https://www.colorline.no"
+  },
+  {
+   "name": "Vy Flybussen",
+   "cat": "rail",
+   "pkg": "se.flygbussarna.blue",
+   "note": "Flughafenbusse, u. a. Oslo Gardermoen",
+   "use": "ok",
+   "url": "https://www.flybussen.no",
+   "src": "https://www.flybussen.no"
+  },
+  {
+   "name": "SJ",
+   "cat": "rail",
+   "pkg": "se.sj.android",
+   "note": "Züge Oslo Stockholm und SJ Nord Strecken",
+   "use": "ok",
+   "url": "https://www.sj.no",
+   "src": "https://www.sj.no"
+  },
+  {
+   "name": "Go-Ahead Nordic",
+   "cat": "rail",
+   "pkg": "gan.goalive.app",
+   "note": "Regionalzüge Süd- und Westnorwegen",
+   "use": "ok",
+   "url": "https://go-aheadnordic.no",
+   "src": "https://go-aheadnordic.no"
+  },
+  {
+   "name": "VærnesEkspressen",
+   "cat": "rail",
+   "pkg": "eu.fourc.bvtpaa",
+   "note": "Flughafenbus Trondheim Værnes",
+   "city": "Trondheim",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=eu.fourc.bvtpaa"
   }
  ]
 }

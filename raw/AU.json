@@ -531,6 +531,261 @@
    "use": "no",
    "req": "Australische Karte und Adresse nötig",
    "src": "https://www.afterpay.com/en-AU"
+  },
+  {
+   "name": "V/Line",
+   "cat": "rail",
+   "pkg": "com.vortilla.myline",
+   "note": "Regionalzüge und Busse in Victoria",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.vortilla.myline",
+   "src": "https://www.vline.com.au"
+  },
+  {
+   "name": "Go SeaLink Ferries",
+   "cat": "rail",
+   "pkg": "au.com.kelsiangroup.consumerapp",
+   "note": "Fähren u. a. nach Kangaroo Island",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.kelsiangroup.consumerapp",
+   "src": "https://www.sealink.com.au"
+  },
+  {
+   "name": "Silver Service",
+   "cat": "taxi",
+   "pkg": "au.com.silverservice",
+   "note": "Chauffeur Taxis von 13cabs",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.silverservice",
+   "src": "https://www.silverservice.com.au"
+  },
+  {
+   "name": "Black & White Cabs",
+   "cat": "taxi",
+   "pkg": "com.mti.bwbrisbane",
+   "note": "Große Taxizentrale in Brisbane",
+   "city": "Brisbane",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mti.bwbrisbane",
+   "src": "https://www.blackandwhitecabs.com.au"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen von Hertz",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.hertz.android.digital",
+   "src": "https://www.hertz.com.au"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.androidapp",
+   "note": "Mietwagen von Avis",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.avis.androidapp",
+   "src": "https://www.avis.com.au"
+  },
+  {
+   "name": "Budget",
+   "cat": "carshare",
+   "pkg": "com.budget.androidapp",
+   "note": "Günstige Mietwagen von Budget",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.budget.androidapp",
+   "src": "https://www.budget.com.au"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen von Sixt",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sixt.reservation",
+   "src": "https://www.sixt.com.au"
+  },
+  {
+   "name": "Camplify",
+   "cat": "carshare",
+   "pkg": "au.com.camplify.mobileapp",
+   "note": "Wohnmobile und Camper von Privat mieten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.camplify.mobileapp",
+   "src": "https://www.camplify.com.au"
+  },
+  {
+   "name": "Wilson Parking",
+   "cat": "parking",
+   "pkg": "au.com.wilsonone",
+   "note": "Parkhäuser buchen und zahlen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.wilsonone",
+   "src": "https://www.wilsonparking.com.au"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "net.easypark.android",
+   "note": "Straßenparken per App in vielen Gemeinden",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=net.easypark.android",
+   "src": "https://www.easypark.com.au"
+  },
+  {
+   "name": "NSW National Parks",
+   "cat": "tourism",
+   "pkg": "au.gov.nsw.npws.nswparks",
+   "note": "Offizielle Nationalpark App von NSW",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.gov.nsw.npws.nswparks",
+   "src": "https://www.nationalparks.nsw.gov.au"
+  },
+  {
+   "name": "Discover Tasmania",
+   "cat": "tourism",
+   "pkg": "au.com.discovertasmania",
+   "note": "Offizieller Reiseführer von Tourism Tasmania",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.discovertasmania",
+   "src": "https://www.discovertasmania.com.au"
+  },
+  {
+   "name": "Brisbane",
+   "cat": "tourism",
+   "pkg": "au.gov.qld.brisbane.app",
+   "note": "Stadt-App Brisbane mit Infos und Diensten",
+   "city": "Brisbane",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.gov.qld.brisbane.app",
+   "src": "https://play.google.com/store/apps/details?id=au.gov.qld.brisbane.app"
+  },
+  {
+   "name": "Live Traffic NSW",
+   "cat": "maps",
+   "pkg": "com.livetrafficnsw",
+   "note": "Verkehrslage, Sperrungen und Brände NSW",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.livetrafficnsw",
+   "src": "https://www.livetraffic.com"
+  },
+  {
+   "name": "QLDTraffic",
+   "cat": "maps",
+   "pkg": "au.gov.qld.tmr.traffic",
+   "note": "Verkehr und Straßensperrungen Queensland",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.gov.qld.tmr.traffic",
+   "src": "https://qldtraffic.qld.gov.au"
+  },
+  {
+   "name": "Hema 4WD Maps",
+   "cat": "maps",
+   "pkg": "au.com.hemamaps.aust4wd",
+   "note": "Offline Karten für Outback und Pisten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.hemamaps.aust4wd",
+   "src": "https://www.hemamaps.com"
+  },
+  {
+   "name": "Qantas",
+   "cat": "flights",
+   "pkg": "au.com.qantas.qantas",
+   "note": "Nationale Fluggesellschaft Australiens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.qantas.qantas",
+   "src": "https://www.qantas.com"
+  },
+  {
+   "name": "Virgin Australia",
+   "cat": "flights",
+   "pkg": "com.virginaustralia.vaapp",
+   "note": "Zweitgrößte Airline Australiens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.virginaustralia.vaapp",
+   "src": "https://www.virginaustralia.com"
+  },
+  {
+   "name": "Jetstar",
+   "cat": "flights",
+   "pkg": "com.ink.jetstar.mobile.app",
+   "note": "Billigairline der Qantas Gruppe",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ink.jetstar.mobile.app",
+   "src": "https://www.jetstar.com"
+  },
+  {
+   "name": "Melbourne Airport",
+   "cat": "flights",
+   "pkg": "au.com.melair.app",
+   "note": "Offizielle App des Flughafens Melbourne",
+   "city": "Melbourne",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.melair.app",
+   "src": "https://www.melbourneairport.com.au"
+  },
+  {
+   "name": "Wotif",
+   "cat": "hotels",
+   "pkg": "com.wotif.android",
+   "note": "Australisches Hotel und Reiseportal",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.wotif.android",
+   "src": "https://www.wotif.com"
+  },
+  {
+   "name": "Hipcamp",
+   "cat": "hotels",
+   "pkg": "com.hipcamp.pocketknife",
+   "note": "Campingplätze und Hütten auf Privatland",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.hipcamp.pocketknife",
+   "src": "https://www.hipcamp.com"
+  },
+  {
+   "name": "G'day Parks",
+   "cat": "hotels",
+   "pkg": "au.com.discoveryholidayparks.gdayparks",
+   "note": "Holiday Parks und Campingplätze buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.discoveryholidayparks.gdayparks",
+   "src": "https://play.google.com/store/apps/details?id=au.com.discoveryholidayparks.gdayparks"
+  },
+  {
+   "name": "CAMPS Australia Wide",
+   "cat": "hotels",
+   "pkg": "au.net.iapps.campsaustralia",
+   "note": "Campingplätze und Rastplätze im ganzen Land",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.net.iapps.campsaustralia",
+   "src": "https://www.campsaustraliawide.com"
+  },
+  {
+   "name": "ALDI Australia",
+   "cat": "shopping",
+   "pkg": "de.apptiv.business.android.aldi_au",
+   "note": "Angebote und Filialen von ALDI",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=de.apptiv.business.android.aldi_au",
+   "src": "https://www.aldi.com.au"
+  },
+  {
+   "name": "Kmart",
+   "cat": "shopping",
+   "pkg": "au.com.kmart",
+   "note": "Günstiges Kaufhaus für Reisebedarf",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.kmart",
+   "src": "https://www.kmart.com.au"
+  },
+  {
+   "name": "Chemist Warehouse",
+   "cat": "shopping",
+   "pkg": "au.com.cwretailservices.cwapp",
+   "note": "Größte Apothekenkette, Sonnenschutz",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=au.com.cwretailservices.cwapp",
+   "src": "https://www.chemistwarehouse.com.au"
   }
  ],
  "replace": [

@@ -364,6 +364,387 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bctransit.com/whistler/fares/how-fares-work/umo/"
+  },
+  {
+   "name": "BC Ferries",
+   "cat": "rail",
+   "pkg": "com.bcferries",
+   "note": "Fähren zwischen Vancouver, Vancouver Island und Inseln",
+   "use": "ok",
+   "src": "https://www.bcferries.com"
+  },
+  {
+   "name": "Orléans Express",
+   "cat": "rail",
+   "pkg": "ca.keolis.orleansexpress",
+   "note": "Fernbusse in Québec, u. a. Montréal und Québec City",
+   "use": "ok",
+   "src": "https://www.orleansexpress.com"
+  },
+  {
+   "name": "Marine Atlantic",
+   "cat": "rail",
+   "pkg": "com.consumer.mai",
+   "note": "Fähre nach Neufundland",
+   "use": "ok",
+   "src": "https://www.marineatlantic.ca"
+  },
+  {
+   "name": "Beck Taxi",
+   "cat": "taxi",
+   "pkg": "com.beck.android.becktaxi",
+   "note": "Größte Taxizentrale Torontos",
+   "city": "Toronto",
+   "use": "ok",
+   "src": "https://www.becktaxi.com"
+  },
+  {
+   "name": "Téo Taxi",
+   "cat": "taxi",
+   "pkg": "com.taxelco.teotaxi",
+   "note": "Elektrotaxis in Montréal",
+   "city": "Montreal",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.taxelco.teotaxi"
+  },
+  {
+   "name": "Taxi Coop Montréal",
+   "cat": "taxi",
+   "pkg": "com.megataxi.taxicoopmtl",
+   "note": "Taxi Kooperative in Montréal",
+   "city": "Montreal",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.megataxi.taxicoopmtl"
+  },
+  {
+   "name": "Taxi Coop Québec",
+   "cat": "taxi",
+   "pkg": "ca.skex.taxicoop5191",
+   "note": "Taxi Kooperative in Québec City",
+   "city": "Quebec City",
+   "use": "ok",
+   "src": "https://www.taxicoop-quebec.com"
+  },
+  {
+   "name": "Yellow Cab Vancouver",
+   "cat": "taxi",
+   "pkg": "com.limolabs.vancouveryc",
+   "note": "Taxi in Vancouver bestellen",
+   "city": "Vancouver",
+   "use": "ok",
+   "src": "https://www.yellowcabonline.com"
+  },
+  {
+   "name": "Yellow Cab of Victoria",
+   "cat": "taxi",
+   "pkg": "com.limolabs.victoriayc",
+   "note": "Taxi in Victoria bestellen",
+   "city": "Victoria",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.limolabs.victoriayc"
+  },
+  {
+   "name": "Checker Cabs Calgary",
+   "cat": "taxi",
+   "pkg": "com.autocab.checkercabs.calgary",
+   "note": "Taxi in Calgary bestellen",
+   "city": "Calgary",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.autocab.checkercabs.calgary"
+  },
+  {
+   "name": "Communauto",
+   "cat": "carshare",
+   "pkg": "com.communauto.reservauto",
+   "note": "Carsharing in Montréal, Québec, Toronto, Calgary",
+   "use": "limited",
+   "req": "Registrierung mit Führerscheinprüfung",
+   "src": "https://communauto.com"
+  },
+  {
+   "name": "Modo",
+   "cat": "carshare",
+   "pkg": "coop.modo.app",
+   "note": "Carsharing Kooperative in Vancouver und Victoria",
+   "city": "Vancouver",
+   "use": "limited",
+   "req": "Registrierung mit Führerscheinprüfung",
+   "src": "https://modo.coop"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.androidapp",
+   "note": "Mietwagen von Avis",
+   "use": "ok",
+   "src": "https://www.avis.ca"
+  },
+  {
+   "name": "Budget",
+   "cat": "carshare",
+   "pkg": "com.budget.androidapp",
+   "note": "Mietwagen von Budget",
+   "use": "ok",
+   "src": "https://www.budget.ca"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "com.ehi.enterprise.android",
+   "note": "Mietwagen von Enterprise",
+   "use": "ok",
+   "src": "https://www.enterprise.ca"
+  },
+  {
+   "name": "National",
+   "cat": "carshare",
+   "pkg": "com.ehi.national.mobile",
+   "note": "Mietwagen von National",
+   "use": "ok",
+   "src": "https://www.nationalcar.ca"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen von Hertz",
+   "use": "ok",
+   "src": "https://www.hertz.ca"
+  },
+  {
+   "name": "Alamo",
+   "cat": "carshare",
+   "pkg": "com.alamo.mobile",
+   "note": "Mietwagen von Alamo",
+   "use": "ok",
+   "src": "https://www.alamo.ca"
+  },
+  {
+   "name": "Neuron",
+   "cat": "micro",
+   "pkg": "com.hhyu.neuron",
+   "note": "E-Scooter und E-Bikes u. a. in Calgary",
+   "use": "ok",
+   "src": "https://www.rideneuron.com"
+  },
+  {
+   "name": "Indigo Neo",
+   "cat": "parking",
+   "pkg": "com.parkindigo.ca",
+   "note": "Parkhäuser von Indigo bezahlen",
+   "use": "ok",
+   "src": "https://ca.parkindigo.com"
+  },
+  {
+   "name": "ParkVictoria",
+   "cat": "parking",
+   "pkg": "com.passportparking.mobile.parkvictoria",
+   "note": "Städtisches Parken in Victoria",
+   "city": "Victoria",
+   "use": "ok",
+   "src": "https://www.victoria.ca"
+  },
+  {
+   "name": "Park'N Fly",
+   "cat": "parking",
+   "pkg": "com.parknfly.parknfly",
+   "note": "Flughafenparken an großen Flughäfen",
+   "use": "ok",
+   "src": "https://www.parknfly.ca"
+  },
+  {
+   "name": "Instacart",
+   "cat": "delivery",
+   "pkg": "com.instacart.client",
+   "note": "Lebensmittel von Supermärkten liefern lassen",
+   "use": "ok",
+   "src": "https://www.instacart.ca"
+  },
+  {
+   "name": "Voilà",
+   "cat": "delivery",
+   "pkg": "com.voila.mobile.android",
+   "note": "Online Supermarkt von Sobeys",
+   "use": "ok",
+   "src": "https://voila.ca"
+  },
+  {
+   "name": "PC Express",
+   "cat": "delivery",
+   "pkg": "pc.express.grocery.pickup",
+   "note": "Lebensmittel von Loblaw abholen oder liefern",
+   "use": "ok",
+   "src": "https://www.pcexpress.ca"
+  },
+  {
+   "name": "Go Whistler Tours",
+   "cat": "tourism",
+   "pkg": "com.mytoursapp.android.app3357",
+   "note": "Touren der Tourismusbehörde Whistler",
+   "city": "Whistler",
+   "use": "ok",
+   "src": "https://www.whistler.com"
+  },
+  {
+   "name": "The Weather Network",
+   "cat": "safety",
+   "pkg": "com.pelmorex.WeatherEyeAndroid",
+   "note": "Führende kanadische Wetterapp mit Warnungen",
+   "use": "ok",
+   "src": "https://www.theweathernetwork.com"
+  },
+  {
+   "name": "Alberta Emergency Alert",
+   "cat": "safety",
+   "pkg": "ca.ab.gov.aea",
+   "note": "Offizielle Notfallwarnungen in Alberta",
+   "use": "ok",
+   "src": "https://www.alberta.ca/alberta-emergency-alert"
+  },
+  {
+   "name": "Alertable",
+   "cat": "safety",
+   "pkg": "com.artermobilize.alertable",
+   "note": "Notfallwarnungen vieler Gemeinden",
+   "use": "ok",
+   "src": "https://www.alertable.ca"
+  },
+  {
+   "name": "Avalanche Canada",
+   "cat": "safety",
+   "pkg": "ca.avalanche.mobile.v2",
+   "note": "Lawinenlage für Rockies und Küstengebirge",
+   "use": "ok",
+   "src": "https://avalanche.ca"
+  },
+  {
+   "name": "Québec 511",
+   "cat": "maps",
+   "pkg": "ca.qc.gouv.mtq.Quebec511",
+   "note": "Straßenzustand und Baustellen in Québec",
+   "use": "ok",
+   "src": "https://www.quebec511.info"
+  },
+  {
+   "name": "Air Canada",
+   "cat": "flights",
+   "pkg": "com.aircanada",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.aircanada.com"
+  },
+  {
+   "name": "WestJet",
+   "cat": "flights",
+   "pkg": "com.westjet",
+   "note": "Zweitgrößte Airline Kanadas",
+   "use": "ok",
+   "src": "https://www.westjet.com"
+  },
+  {
+   "name": "Porter Airlines",
+   "cat": "flights",
+   "pkg": "com.porterairlines.digital.prod.mobile",
+   "note": "Airline mit Basis Toronto",
+   "use": "ok",
+   "src": "https://www.flyporter.com"
+  },
+  {
+   "name": "Hipcamp",
+   "cat": "hotels",
+   "pkg": "com.hipcamp.pocketknife",
+   "note": "Camping und Hütten bei Privatleuten",
+   "use": "ok",
+   "src": "https://www.hipcamp.com"
+  },
+  {
+   "name": "PC Optimum",
+   "cat": "shopping",
+   "pkg": "com.sap.mdc.loblaw.nativ",
+   "note": "Punkte bei Loblaws, No Frills, Shoppers",
+   "use": "ok",
+   "src": "https://www.pcoptimum.ca"
+  },
+  {
+   "name": "Shoppers Drug Mart",
+   "cat": "shopping",
+   "pkg": "com.loblaw.shoppersdrugmart",
+   "note": "Drogerie und Apotheke",
+   "use": "ok",
+   "src": "https://www.shoppersdrugmart.ca"
+  },
+  {
+   "name": "Walmart Canada",
+   "cat": "shopping",
+   "pkg": "ca.walmart.ecommerceapp",
+   "note": "Supermarkt und Kaufhaus",
+   "use": "ok",
+   "src": "https://www.walmart.ca"
+  },
+  {
+   "name": "Costco",
+   "cat": "shopping",
+   "pkg": "com.costco.app.android",
+   "note": "Großmarkt mit Mitgliedschaft",
+   "use": "limited",
+   "req": "Mitgliedschaft nötig",
+   "src": "https://www.costco.ca"
+  },
+  {
+   "name": "Canadian Tire",
+   "cat": "shopping",
+   "pkg": "com.simplygood.ct",
+   "note": "Baumarkt, Camping und Autozubehör",
+   "use": "ok",
+   "src": "https://www.canadiantire.ca"
+  },
+  {
+   "name": "Sobeys",
+   "cat": "shopping",
+   "pkg": "com.sobeys",
+   "note": "Supermarktkette mit Angeboten",
+   "use": "ok",
+   "src": "https://www.sobeys.com"
+  },
+  {
+   "name": "IGA",
+   "cat": "shopping",
+   "pkg": "net.iga.app",
+   "note": "Supermärkte vor allem in Québec",
+   "use": "ok",
+   "src": "https://www.iga.net"
+  },
+  {
+   "name": "SCENE+",
+   "cat": "shopping",
+   "pkg": "com.scene.mobile",
+   "note": "Bonuspunkte bei Sobeys, Kinos und mehr",
+   "use": "ok",
+   "src": "https://www.sceneplus.ca"
+  },
+  {
+   "name": "LCBO",
+   "cat": "shopping",
+   "pkg": "com.lcbo.lcbo",
+   "note": "Staatliche Alkoholläden in Ontario",
+   "use": "ok",
+   "src": "https://www.lcbo.com"
+  },
+  {
+   "name": "SAQ",
+   "cat": "shopping",
+   "pkg": "com.saq.android",
+   "note": "Staatliche Alkoholläden in Québec",
+   "use": "ok",
+   "src": "https://www.saq.com"
+  },
+  {
+   "name": "Flipp",
+   "cat": "shopping",
+   "pkg": "com.wishabi.flipp",
+   "note": "Prospekte und Angebote aller Händler",
+   "use": "ok",
+   "src": "https://flipp.com"
   }
  ]
 }

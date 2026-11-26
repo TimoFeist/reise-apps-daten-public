@@ -81,6 +81,16 @@
    "use": "no",
    "req": "Airtel-Nummer aus dem Tschad nötig",
    "src": "https://play.google.com/store/apps/details?id=com.airtel.africa.selfcare"
+  },
+  {
+   "name": "Allons-y",
+   "cat": "taxi",
+   "pkg": "allonsy.passenger",
+   "note": "Taxi, Essen und Lieferungen in N'Djamena",
+   "city": "N'Djamena",
+   "use": "limited",
+   "req": "Nur N'Djamena, Anmeldung ungeprüft",
+   "src": "https://play.google.com/store/apps/details?id=allonsy.passenger"
   }
  ]
 }

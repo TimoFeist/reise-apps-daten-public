@@ -512,6 +512,669 @@
    "use": "no",
    "req": "Spanisches Bankkonto nötig",
    "src": "https://bizum.com/es/"
+  },
+  {
+   "name": "Metro de Sevilla",
+   "cat": "transit",
+   "pkg": "com.opinno.metrosevilla",
+   "note": "Offizielle App der Metro Sevilla",
+   "city": "Sevilla",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.opinno.metrosevilla",
+   "src": "https://www.metro-sevilla.es"
+  },
+  {
+   "name": "Metrovalencia",
+   "cat": "transit",
+   "pkg": "com.fgv.metrovalencia",
+   "note": "Metro und Tram Valencia, Fahrplan und Tickets",
+   "city": "Valencia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.fgv.metrovalencia",
+   "src": "https://www.metrovalencia.es"
+  },
+  {
+   "name": "Metro de Málaga",
+   "cat": "transit",
+   "pkg": "com.metromalaga",
+   "note": "Offizielle App der Metro Málaga",
+   "city": "Malaga",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.metromalaga",
+   "src": "https://metromalaga.es"
+  },
+  {
+   "name": "FGC",
+   "cat": "transit",
+   "pkg": "com.iboomobile.fgc",
+   "note": "Vorortbahnen FGC Barcelona, Fahrplan und Tarife",
+   "city": "Barcelona",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.iboomobile.fgc",
+   "src": "https://www.fgc.cat"
+  },
+  {
+   "name": "T-mobilitat",
+   "cat": "transit",
+   "pkg": "cat.atm.tmobilitat",
+   "note": "Digitales Ticket für ÖPNV im Raum Barcelona",
+   "city": "Barcelona",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=cat.atm.tmobilitat",
+   "src": "https://t-mobilitat.atm.cat"
+  },
+  {
+   "name": "AMB Mobilitat",
+   "cat": "transit",
+   "pkg": "com.amb.ambtemps",
+   "note": "Busse und Routen im Großraum Barcelona",
+   "city": "Barcelona",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.amb.ambtemps",
+   "src": "https://www.amb.cat"
+  },
+  {
+   "name": "Euskotren",
+   "cat": "transit",
+   "pkg": "eus.euskotren.app",
+   "note": "Baskische Bahn, Tram Bilbao, Tickets",
+   "city": "Bilbao",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=eus.euskotren.app",
+   "src": "https://www.euskotren.eus"
+  },
+  {
+   "name": "Madrid Mobility360",
+   "cat": "transit",
+   "pkg": "es.emtmadrid.mobility360",
+   "note": "EMT Madrid: Bus, BiciMAD, Parken in einer App",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.emtmadrid.mobility360",
+   "src": "https://www.emtmadrid.es"
+  },
+  {
+   "name": "Renfe Cercanías",
+   "cat": "rail",
+   "pkg": "com.renfe.renfecercanias",
+   "note": "Fahrpläne der Renfe Nahverkehrszüge",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.renfe.renfecercanias",
+   "src": "https://www.renfe.com"
+  },
+  {
+   "name": "Adif",
+   "cat": "rail",
+   "pkg": "com.adif.elcanomovil",
+   "note": "Abfahrten und Gleise an spanischen Bahnhöfen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.adif.elcanomovil",
+   "src": "https://www.adif.es"
+  },
+  {
+   "name": "Trainline",
+   "cat": "rail",
+   "pkg": "com.thetrainline",
+   "note": "Bahntickets für Renfe, iryo und Ouigo",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.thetrainline",
+   "src": "https://www.thetrainline.com"
+  },
+  {
+   "name": "Baleària",
+   "cat": "rail",
+   "pkg": "com.mo2o.balearia",
+   "note": "Fähren zu Balearen, Ceuta und Marokko",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mo2o.balearia",
+   "src": "https://www.balearia.com"
+  },
+  {
+   "name": "Armas Trasmediterránea",
+   "cat": "rail",
+   "pkg": "com.mo2o.navieraarmas",
+   "note": "Fähren zu Kanaren, Balearen und Nordafrika",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mo2o.navieraarmas",
+   "src": "https://www.navieraarmas.com"
+  },
+  {
+   "name": "Fred. Olsen Express",
+   "cat": "rail",
+   "pkg": "es.fredolsen.appmovil",
+   "note": "Schnellfähren zwischen den Kanarischen Inseln",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.fredolsen.appmovil",
+   "src": "https://www.fredolsen.es"
+  },
+  {
+   "name": "Trasmed",
+   "cat": "rail",
+   "pkg": "com.trasmedapp",
+   "note": "Fähren Festland und Balearen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.trasmedapp",
+   "src": "https://www.trasmed.com"
+  },
+  {
+   "name": "PideTaxi",
+   "cat": "taxi",
+   "pkg": "es.sooft.pidetaxi",
+   "note": "Lizenzierte Taxis in vielen spanischen Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.sooft.pidetaxi",
+   "src": "https://www.pidetaxi.es"
+  },
+  {
+   "name": "1Taxi!",
+   "cat": "taxi",
+   "pkg": "com.ega.taxi",
+   "note": "Taxi bestellen bei lokalen Funkzentralen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ega.taxi",
+   "src": "https://play.google.com/store/apps/details?id=com.ega.taxi"
+  },
+  {
+   "name": "Taxi Barcelona: Yellow",
+   "cat": "taxi",
+   "pkg": "es.com.yellow.taxi.barcelona.pasajero",
+   "note": "Gelbschwarze Taxis in Barcelona bestellen",
+   "city": "Barcelona",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.com.yellow.taxi.barcelona.pasajero",
+   "src": "https://play.google.com/store/apps/details?id=es.com.yellow.taxi.barcelona.pasajero"
+  },
+  {
+   "name": "TxMad",
+   "cat": "taxi",
+   "pkg": "es.madrid.GTAXIMVTAXAND",
+   "note": "Taxi-App der Stadt Madrid",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.madrid.GTAXIMVTAXAND",
+   "src": "https://play.google.com/store/apps/details?id=es.madrid.GTAXIMVTAXAND"
+  },
+  {
+   "name": "Radio TeleTaxi",
+   "cat": "taxi",
+   "pkg": "com.radioteletaxi.app",
+   "note": "Große Taxizentrale in Madrid",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.radioteletaxi.app",
+   "src": "https://play.google.com/store/apps/details?id=com.radioteletaxi.app"
+  },
+  {
+   "name": "Taxi Malaga",
+   "cat": "taxi",
+   "pkg": "com.autocab.taxibooker.taxiscostadelsol.spain",
+   "note": "Taxi Unión Málaga, Taxi bestellen",
+   "city": "Malaga",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.autocab.taxibooker.taxiscostadelsol.spain",
+   "src": "https://play.google.com/store/apps/details?id=com.autocab.taxibooker.taxiscostadelsol.spain"
+  },
+  {
+   "name": "Mallorcab",
+   "cat": "taxi",
+   "pkg": "com.mallorcab.client",
+   "note": "Taxis auf Mallorca bestellen",
+   "city": "Palma",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mallorcab.client",
+   "src": "https://play.google.com/store/apps/details?id=com.mallorcab.client"
+  },
+  {
+   "name": "TaxiClick",
+   "cat": "taxi",
+   "pkg": "com.interfacom.taxiclick",
+   "note": "Taxi bestellen und zahlen, viele Städte",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.interfacom.taxiclick",
+   "src": "https://play.google.com/store/apps/details?id=com.interfacom.taxiclick"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing von Sixt",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sixt.reservation",
+   "src": "https://www.sixt.es"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.clanmo.europcar",
+   "note": "Mietwagen und Transporter",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.clanmo.europcar",
+   "src": "https://www.europcar.es"
+  },
+  {
+   "name": "Centauro",
+   "cat": "carshare",
+   "pkg": "net.centauro.centauro",
+   "note": "Spanischer Mietwagenanbieter an Flughäfen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=net.centauro.centauro",
+   "src": "https://www.centauro.net"
+  },
+  {
+   "name": "Goldcar",
+   "cat": "carshare",
+   "pkg": "com.goldcar.app",
+   "note": "Günstige Mietwagen an spanischen Flughäfen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.goldcar.app",
+   "src": "https://www.goldcar.es"
+  },
+  {
+   "name": "OK Mobility",
+   "cat": "carshare",
+   "pkg": "com.okmobility.app",
+   "note": "Mietwagen aus Mallorca, viele Flughäfen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.okmobility.app",
+   "src": "https://okmobility.com"
+  },
+  {
+   "name": "Zity by Mobilize",
+   "cat": "carshare",
+   "pkg": "com.rcimobility.renaultmobility.b2c",
+   "note": "Elektro Carsharing in Madrid",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rcimobility.renaultmobility.b2c",
+   "src": "https://zity.eco"
+  },
+  {
+   "name": "Amovens",
+   "cat": "carshare",
+   "pkg": "com.amovens.pruebandroid",
+   "note": "Privat Autos mieten in Spanien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.amovens.pruebandroid",
+   "src": "https://play.google.com/store/apps/details?id=com.amovens.pruebandroid"
+  },
+  {
+   "name": "Yescapa",
+   "cat": "carshare",
+   "pkg": "com.yescapa",
+   "note": "Wohnmobile und Camper von Privat mieten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.yescapa",
+   "src": "https://www.yescapa.es"
+  },
+  {
+   "name": "bicimad",
+   "cat": "micro",
+   "pkg": "com.emtmadrid.bicimad.gestion2",
+   "note": "Öffentliche Leihräder in Madrid",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.emtmadrid.bicimad.gestion2",
+   "src": "https://www.bicimad.com"
+  },
+  {
+   "name": "Bilbaobizi",
+   "cat": "micro",
+   "pkg": "com.lyft.android.bilbaoapp",
+   "note": "Öffentliche Leihräder in Bilbao",
+   "city": "Bilbao",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lyft.android.bilbaoapp",
+   "src": "https://play.google.com/store/apps/details?id=com.lyft.android.bilbaoapp"
+  },
+  {
+   "name": "YEGO Mobility",
+   "cat": "micro",
+   "pkg": "com.getyugo.app",
+   "note": "Elektroroller Sharing in spanischen Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.getyugo.app",
+   "src": "https://www.rideyego.com"
+  },
+  {
+   "name": "Telpark",
+   "cat": "parking",
+   "pkg": "com.delaware.empark",
+   "note": "Parkuhr und Parkhäuser in vielen Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.delaware.empark",
+   "src": "https://www.telpark.com"
+  },
+  {
+   "name": "PayByPhone",
+   "cat": "parking",
+   "pkg": "com.paybyphone",
+   "note": "Straßenparken per Handy, u. a. Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.paybyphone",
+   "src": "https://www.paybyphone.es"
+  },
+  {
+   "name": "Parclick",
+   "cat": "parking",
+   "pkg": "com.parclick",
+   "note": "Parkplätze in Parkhäusern vorab buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.parclick",
+   "src": "https://parclick.es"
+  },
+  {
+   "name": "Parking Saba",
+   "cat": "parking",
+   "pkg": "es.saba.android",
+   "note": "Saba Parkhäuser finden und zahlen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.saba.android",
+   "src": "https://www.saba.eu"
+  },
+  {
+   "name": "Apparkya",
+   "cat": "parking",
+   "pkg": "com.parkinglibre.apparcaya",
+   "note": "Parkuhr per App in vielen Gemeinden",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.parkinglibre.apparcaya",
+   "src": "https://play.google.com/store/apps/details?id=com.parkinglibre.apparcaya"
+  },
+  {
+   "name": "Blinkay",
+   "cat": "parking",
+   "pkg": "com.integrapark.iparkmerel",
+   "note": "Straßenparken per App in vielen Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.integrapark.iparkmerel",
+   "src": "https://www.blinkay.com"
+  },
+  {
+   "name": "Madrid DUM 360",
+   "cat": "parking",
+   "pkg": "es.madrid.pimov.dumin",
+   "note": "Parken in Madrid (SER) der Stadt",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.madrid.pimov.dumin",
+   "src": "https://play.google.com/store/apps/details?id=es.madrid.pimov.dumin"
+  },
+  {
+   "name": "Just Eat ES",
+   "cat": "delivery",
+   "pkg": "com.justeat.app.es",
+   "note": "Essen bestellen in ganz Spanien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.justeat.app.es",
+   "src": "https://www.just-eat.es"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übrig gebliebenes Essen günstig abholen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.app.tgtg",
+   "src": "https://www.toogoodtogo.com"
+  },
+  {
+   "name": "Audioguía Oficial Alhambra",
+   "cat": "tourism",
+   "pkg": "es.juntadeandalucia.espacioalhambra",
+   "note": "Offizieller Audioguide der Alhambra",
+   "city": "Granada",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.juntadeandalucia.espacioalhambra",
+   "src": "https://play.google.com/store/apps/details?id=es.juntadeandalucia.espacioalhambra"
+  },
+  {
+   "name": "The Prado Guide",
+   "cat": "tourism",
+   "pkg": "es.museodelprado.guia3delpradoandroid",
+   "note": "Offizieller Führer des Prado Museums",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.museodelprado.guia3delpradoandroid",
+   "src": "https://www.museodelprado.es"
+  },
+  {
+   "name": "Visit València",
+   "cat": "tourism",
+   "pkg": "com.visitvalencia.app",
+   "note": "Offizieller Stadtführer, Valencia Tourist Card",
+   "city": "Valencia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.visitvalencia.app",
+   "src": "https://www.visitvalencia.com"
+  },
+  {
+   "name": "Madrid Móvil",
+   "cat": "tourism",
+   "pkg": "es.madrid.SGRSAMVANDCIU",
+   "note": "Stadt-App Madrid mit Infos und Diensten",
+   "city": "Madrid",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.madrid.SGRSAMVANDCIU",
+   "src": "https://play.google.com/store/apps/details?id=es.madrid.SGRSAMVANDCIU"
+  },
+  {
+   "name": "Parques Nacionales",
+   "cat": "tourism",
+   "pkg": "es.ign.parquesnacionales",
+   "note": "Karten und Infos zu Spaniens Nationalparks",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.ign.parquesnacionales",
+   "src": "https://www.ign.es"
+  },
+  {
+   "name": "Paradores",
+   "cat": "hotels",
+   "pkg": "com.parador.app",
+   "note": "Staatliche Hotels in Burgen und Klöstern",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.parador.app",
+   "src": "https://paradores.es"
+  },
+  {
+   "name": "My112",
+   "cat": "safety",
+   "pkg": "com.telefonica.my112",
+   "note": "Notruf 112 mit Standort, viele Regionen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.telefonica.my112",
+   "src": "https://www.my112.es"
+  },
+  {
+   "name": "112 SOS Deiak",
+   "cat": "safety",
+   "pkg": "com.gvdi.euskarri.app112",
+   "note": "Notruf und Warnungen im Baskenland",
+   "city": "Bilbao",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gvdi.euskarri.app112",
+   "src": "https://play.google.com/store/apps/details?id=com.gvdi.euskarri.app112"
+  },
+  {
+   "name": "GVA 112 Avisos",
+   "cat": "safety",
+   "pkg": "es.gva.GVA112",
+   "note": "Notfallwarnungen Region Valencia",
+   "city": "Valencia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.gva.GVA112",
+   "src": "https://play.google.com/store/apps/details?id=es.gva.GVA112"
+  },
+  {
+   "name": "AEMET",
+   "cat": "safety",
+   "pkg": "es.aemet",
+   "note": "Offizieller Wetterdienst mit Unwetterwarnungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.aemet",
+   "src": "https://www.aemet.es"
+  },
+  {
+   "name": "METEOCAT",
+   "cat": "safety",
+   "pkg": "cat.gencat.mobi.meteocat",
+   "note": "Wetter und Warnungen für Katalonien",
+   "city": "Barcelona",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=cat.gencat.mobi.meteocat",
+   "src": "https://www.meteo.cat"
+  },
+  {
+   "name": "Wikiloc",
+   "cat": "maps",
+   "pkg": "com.wikiloc.wikilocandroid",
+   "note": "Wanderwege aus Spanien, dort führend",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid",
+   "src": "https://www.wikiloc.com"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "note": "Navigation mit Verkehrsmeldungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.waze",
+   "src": "https://www.waze.com"
+  },
+  {
+   "name": "Aena",
+   "cat": "flights",
+   "pkg": "es.aena.mobile",
+   "note": "Alle spanischen Flughäfen, Fluginfos, Parken",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.aena.mobile",
+   "src": "https://www.aena.es"
+  },
+  {
+   "name": "Vueling",
+   "cat": "flights",
+   "pkg": "com.mo2o.vueling",
+   "note": "Spanische Billigairline aus Barcelona",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mo2o.vueling",
+   "src": "https://www.vueling.com"
+  },
+  {
+   "name": "Air Europa",
+   "cat": "flights",
+   "pkg": "com.aireuropa.mobile",
+   "note": "Spanische Fluggesellschaft",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.aireuropa.mobile",
+   "src": "https://www.aireuropa.com"
+  },
+  {
+   "name": "Binter",
+   "cat": "flights",
+   "pkg": "com.bintercanarias.binterApp",
+   "note": "Inselflüge auf den Kanaren",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.bintercanarias.binterApp",
+   "src": "https://www.bintercanarias.com"
+  },
+  {
+   "name": "Volotea",
+   "cat": "flights",
+   "pkg": "com.volotea.droid",
+   "note": "Billigflüge zwischen kleineren Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.volotea.droid",
+   "src": "https://www.volotea.com"
+  },
+  {
+   "name": "Ryanair",
+   "cat": "flights",
+   "pkg": "com.ryanair.cheapflights",
+   "note": "Größte Billigairline in Spanien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ryanair.cheapflights",
+   "src": "https://www.ryanair.com"
+  },
+  {
+   "name": "Meliá",
+   "cat": "hotels",
+   "pkg": "es.mobail.meliarewards",
+   "note": "Spanische Hotelkette, Buchung und Check in",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.mobail.meliarewards",
+   "src": "https://www.melia.com"
+  },
+  {
+   "name": "Barceló Hotel Group",
+   "cat": "hotels",
+   "pkg": "barcelo.app",
+   "note": "Hotels der Barceló Gruppe buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=barcelo.app",
+   "src": "https://www.barcelo.com"
+  },
+  {
+   "name": "Iberostar",
+   "cat": "hotels",
+   "pkg": "com.mo2o.iberostar",
+   "note": "Hotels und Resorts von Iberostar",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mo2o.iberostar",
+   "src": "https://www.iberostar.com"
+  },
+  {
+   "name": "park4night",
+   "cat": "hotels",
+   "pkg": "fr.tramb.park4night",
+   "note": "Stellplätze für Wohnmobile und Camper",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=fr.tramb.park4night",
+   "src": "https://park4night.com"
+  },
+  {
+   "name": "Mercadona",
+   "cat": "shopping",
+   "pkg": "es.mercadona.tienda",
+   "note": "Größte Supermarktkette Spaniens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.mercadona.tienda",
+   "src": "https://www.mercadona.es"
+  },
+  {
+   "name": "Mi Carrefour",
+   "cat": "shopping",
+   "pkg": "com.munrodev.crfmobile",
+   "note": "Carrefour Angebote und Märkte",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.munrodev.crfmobile",
+   "src": "https://www.carrefour.es"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Lidl Coupons und Filialen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus",
+   "src": "https://www.lidl.es"
+  },
+  {
+   "name": "EROSKI",
+   "cat": "shopping",
+   "pkg": "com.tempos21.eroskiclub.pro",
+   "note": "Supermärkte vor allem im Norden",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.tempos21.eroskiclub.pro",
+   "src": "https://www.eroski.es"
+  },
+  {
+   "name": "El Corte Inglés",
+   "cat": "shopping",
+   "pkg": "com.elcorteingles.app",
+   "note": "Größte Kaufhauskette Spaniens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.elcorteingles.app",
+   "src": "https://www.elcorteingles.es"
   }
  ],
  "replace": [

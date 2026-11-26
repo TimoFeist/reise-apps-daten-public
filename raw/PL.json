@@ -282,6 +282,310 @@
    "use": "no",
    "req": "Polnisches Bankkonto nötig",
    "src": "https://play.google.com/store/apps/details?id=pl.pkobp.iko&hl=en"
+  },
+  {
+   "name": "PEKA",
+   "cat": "transit",
+   "pkg": "pl.poznan.peka.app",
+   "note": "Tickets und Karte für Bus und Tram in Poznań",
+   "city": "Poznan",
+   "use": "ok",
+   "src": "https://www.ztm.poznan.pl/"
+  },
+  {
+   "name": "moBILET",
+   "cat": "transit",
+   "pkg": "pl.mobilet.app",
+   "note": "ÖPNV Tickets und Parken in vielen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.mobilet.app"
+  },
+  {
+   "name": "POLREGIO",
+   "cat": "rail",
+   "pkg": "pl.polregio",
+   "note": "Regionalzüge buchen, landesweit",
+   "use": "ok",
+   "src": "https://polregio.pl/"
+  },
+  {
+   "name": "Koleje Mazowieckie",
+   "cat": "rail",
+   "pkg": "pl.com.mazowieckie.amkm",
+   "note": "Regionalbahn rund um Warschau, Tickets",
+   "city": "Warsaw",
+   "use": "ok",
+   "src": "https://www.mazowieckie.com.pl/"
+  },
+  {
+   "name": "SKM KomPas",
+   "cat": "rail",
+   "pkg": "com.SKM.KomPas",
+   "note": "S-Bahn Danzig Gdynia Sopot, Fahrplan und Tickets",
+   "city": "Gdansk",
+   "use": "ok",
+   "src": "https://www.skm.pkp.pl/"
+  },
+  {
+   "name": "BILKOM",
+   "cat": "rail",
+   "pkg": "pl.promate.bilkom",
+   "note": "Bahntickets mehrerer polnischer Bahnen",
+   "use": "ok",
+   "src": "https://bilkom.pl/"
+  },
+  {
+   "name": "Portal Pasażera",
+   "cat": "rail",
+   "pkg": "pl.plksa.portalpasazera",
+   "note": "Offizielle Zuglage und Verspätungen der PKP PLK",
+   "use": "ok",
+   "src": "https://portalpasazera.pl/"
+  },
+  {
+   "name": "RegioJet",
+   "cat": "rail",
+   "pkg": "cz.studio9.sa",
+   "note": "Züge und Busse nach Tschechien und Österreich",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=cz.studio9.sa"
+  },
+  {
+   "name": "Stena Line",
+   "cat": "rail",
+   "pkg": "com.digitaltravelassistant",
+   "note": "Fähre Gdynia nach Karlskrona, Buchungen",
+   "use": "ok",
+   "src": "https://www.stenaline.pl/"
+  },
+  {
+   "name": "iTaxi",
+   "cat": "taxi",
+   "pkg": "com.geckolab.eotaxi.passenger",
+   "note": "Polnische Taxi App in vielen Großstädten",
+   "use": "ok",
+   "src": "https://www.itaxi.pl/"
+  },
+  {
+   "name": "iCAR TAXI Kraków",
+   "cat": "taxi",
+   "pkg": "pl.opst.icark",
+   "note": "Taxizentrale in Krakau",
+   "city": "Krakow",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.opst.icark"
+  },
+  {
+   "name": "Glob Taxi Warszawa",
+   "cat": "taxi",
+   "pkg": "com.tiskel.tma.warszawaglob",
+   "note": "Taxizentrale in Warschau",
+   "city": "Warsaw",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tiskel.tma.warszawaglob"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und in Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sixt.reservation"
+  },
+  {
+   "name": "ROOVEE",
+   "cat": "micro",
+   "pkg": "eu.roovee.mobile",
+   "note": "Leihräder in mehreren polnischen Städten",
+   "use": "ok",
+   "src": "https://roovee.eu/"
+  },
+  {
+   "name": "mPay",
+   "cat": "parking",
+   "pkg": "pl.mpay.app",
+   "note": "Parken und ÖPNV Tickets in vielen Städten",
+   "use": "ok",
+   "src": "https://www.mpay.pl/"
+  },
+  {
+   "name": "Autopay",
+   "cat": "parking",
+   "pkg": "pl.bluemedia.autopay.transport",
+   "note": "Autobahnmaut, Vignetten und Parken zahlen",
+   "use": "ok",
+   "src": "https://autopay.pl/"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "note": "Essenslieferung in vielen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bolt.deliveryclient"
+  },
+  {
+   "name": "Lisek",
+   "cat": "delivery",
+   "pkg": "com.lisek.app",
+   "note": "Lebensmittel Schnelllieferung in Großstädten",
+   "use": "ok",
+   "src": "https://lisek.app/"
+  },
+  {
+   "name": "Frisco",
+   "cat": "delivery",
+   "pkg": "pl.frisco.app",
+   "note": "Online Supermarkt mit Lieferung",
+   "use": "ok",
+   "src": "https://www.frisco.pl/"
+  },
+  {
+   "name": "Żabka Jush",
+   "cat": "delivery",
+   "pkg": "pl.jush.app",
+   "note": "Schnelllieferung aus Żabka Läden",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.jush.app"
+  },
+  {
+   "name": "Warsawpolis Guide",
+   "cat": "tourism",
+   "pkg": "app.WarsawpolisGuide",
+   "note": "Offizieller Stadtführer des Warschauer Tourismusbüros",
+   "city": "Warsaw",
+   "use": "ok",
+   "src": "https://warsawtour.pl/"
+  },
+  {
+   "name": "Alarm112",
+   "cat": "safety",
+   "pkg": "com.help.deafhelp",
+   "note": "Notruf per App für Hör und Sprachbehinderte",
+   "use": "limited",
+   "req": "Registrierung mit polnischer Nummer nötig",
+   "src": "https://www.gov.pl/web/numer-alarmowy-112"
+  },
+  {
+   "name": "Yanosik",
+   "cat": "maps",
+   "pkg": "pl.neptis.yanosik.mobi.android",
+   "note": "Führende Verkehrs und Blitzer App Polens",
+   "use": "ok",
+   "src": "https://yanosik.pl/"
+  },
+  {
+   "name": "Mapa Turystyczna",
+   "cat": "maps",
+   "pkg": "pl.mapa_turystyczna.app",
+   "note": "Wanderwege Polens offline, auch Tatra",
+   "use": "ok",
+   "src": "https://mapa-turystyczna.pl/"
+  },
+  {
+   "name": "LOT Polish Airlines",
+   "cat": "flights",
+   "pkg": "pl.lot.mobile",
+   "note": "Nationale Airline, Buchung und Check in",
+   "use": "ok",
+   "src": "https://www.lot.com/"
+  },
+  {
+   "name": "Kraków Airport",
+   "cat": "flights",
+   "pkg": "pl.amistad.krakow_airport",
+   "note": "Offizielle App des Flughafens Krakau",
+   "city": "Krakow",
+   "use": "ok",
+   "src": "https://www.krakowairport.pl/"
+  },
+  {
+   "name": "Biedronka",
+   "cat": "shopping",
+   "pkg": "pl.jmpolska.clos0.mojabiedronka",
+   "note": "Größte Supermarktkette, Angebote und Prospekte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.jmpolska.clos0.mojabiedronka"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Angebote bei Lidl",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus"
+  },
+  {
+   "name": "Żappka",
+   "cat": "shopping",
+   "pkg": "pl.zabka.apb2c",
+   "note": "Coupons der Żabka Läden an jeder Ecke",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.zabka.apb2c"
+  },
+  {
+   "name": "Mój Carrefour",
+   "cat": "shopping",
+   "pkg": "pl.carrefour.carrefourmobile",
+   "note": "Angebote und Treuekarte bei Carrefour",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.carrefour.carrefourmobile"
+  },
+  {
+   "name": "Kaufland",
+   "cat": "shopping",
+   "pkg": "com.kaufland.Kaufland",
+   "note": "Angebote und Prospekte der Kaufland Märkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.kaufland.Kaufland"
+  },
+  {
+   "name": "Rossmann PL",
+   "cat": "shopping",
+   "pkg": "pl.com.rossmann.centauros",
+   "note": "Drogerie, Angebote und Coupons",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.com.rossmann.centauros"
+  },
+  {
+   "name": "InPost Mobile",
+   "cat": "shopping",
+   "pkg": "pl.inpost.inmobile",
+   "note": "Pakete an Paketautomaten abholen und senden",
+   "use": "ok",
+   "src": "https://inpost.pl/"
+  },
+  {
+   "name": "ORLEN VITAY",
+   "cat": "shopping",
+   "pkg": "pl.orlen.vitay",
+   "note": "Tankstellenkette, Rabatte und Treuepunkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.orlen.vitay"
+  },
+  {
+   "name": "4Mobility",
+   "cat": "carshare",
+   "pkg": "pl.carsharing4mobility.carsharing",
+   "note": "Carsharing vor allem in Warschau",
+   "use": "ok",
+   "src": "https://4mobility.pl/"
+  },
+  {
+   "name": "Nocowanie.pl",
+   "cat": "hotels",
+   "pkg": "pl.nocowanie.app",
+   "note": "Polnisches Portal für Pensionen und Ferienzimmer",
+   "use": "ok",
+   "src": "https://www.nocowanie.pl/"
+  },
+  {
+   "name": "Szlaki Małopolski",
+   "cat": "tourism",
+   "pkg": "pl.treespot.amistad.pttkmalopolska",
+   "note": "Wanderrouten des PTTK in Kleinpolen und Tatra",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pl.treespot.amistad.pttkmalopolska"
   }
  ],
  "replace": [

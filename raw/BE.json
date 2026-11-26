@@ -352,6 +352,269 @@
    "use": "limited",
    "req": "Deutsche Bank mit Wero nötig",
    "src": "https://www.bancontact.com/en/news/the-payconiq-payment-solution-for-professionals-is-now-called-bancontact-pro"
+  },
+  {
+   "name": "Eurostar",
+   "cat": "rail",
+   "pkg": "com.eurostar.androidapp",
+   "note": "Hochgeschwindigkeitszug nach London, Paris, Köln",
+   "use": "ok",
+   "src": "https://www.eurostar.com"
+  },
+  {
+   "name": "BlaBlaCar",
+   "cat": "rail",
+   "pkg": "com.comuto",
+   "note": "Mitfahrgelegenheiten und Fernbusse",
+   "use": "ok",
+   "src": "https://www.blablacar.be"
+  },
+  {
+   "name": "flibco",
+   "cat": "rail",
+   "pkg": "com.flibco.customerapp",
+   "note": "Flughafenbusse, u. a. Brüssel nach Charleroi",
+   "use": "ok",
+   "src": "https://www.flibco.com"
+  },
+  {
+   "name": "Heetch",
+   "cat": "taxi",
+   "pkg": "com.heetch",
+   "note": "Fahrdienst in Brüssel, rund um die Uhr",
+   "city": "Brussels",
+   "use": "ok",
+   "src": "https://www.heetch.com"
+  },
+  {
+   "name": "Taxis Autolux Brussels",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.AutoluxBrussels",
+   "note": "Taxizentrale in Brüssel",
+   "city": "Brussels",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=at.austrosoft.t4me.AutoluxBrussels"
+  },
+  {
+   "name": "Antwerp Tax",
+   "cat": "taxi",
+   "pkg": "at.austrosoft.t4me.MB_Antwerpen",
+   "note": "Taxizentrale in Antwerpen",
+   "city": "Antwerp",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=at.austrosoft.t4me.MB_Antwerpen"
+  },
+  {
+   "name": "Taxi222Gent",
+   "cat": "taxi",
+   "pkg": "com.vhftaxi.vhftaxi",
+   "note": "Taxizentrale in Gent",
+   "city": "Ghent",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.vhftaxi.vhftaxi"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und Bahnhöfen",
+   "use": "ok",
+   "src": "https://www.sixt.be"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.europcar.europcarmobility",
+   "note": "Mietwagen buchen und verwalten",
+   "use": "ok",
+   "src": "https://www.europcar.be"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.avis.be"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen buchen",
+   "use": "ok",
+   "src": "https://www.hertz.be"
+  },
+  {
+   "name": "Seety",
+   "cat": "parking",
+   "pkg": "com.sparks",
+   "note": "Belgische Park-App mit Parkregeln je Straße",
+   "use": "ok",
+   "src": "https://seety.co"
+  },
+  {
+   "name": "handyPark",
+   "cat": "parking",
+   "pkg": "be.handypark.app",
+   "note": "Städtische Park-App von Antwerpen",
+   "city": "Antwerp",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=be.handypark.app"
+  },
+  {
+   "name": "Yellowbrick",
+   "cat": "parking",
+   "pkg": "com.oneshoe.yellowbrick",
+   "note": "Straßenparken per App in vielen Städten",
+   "use": "ok",
+   "src": "https://www.yellowbrick.be"
+  },
+  {
+   "name": "Interparking Pcard",
+   "cat": "parking",
+   "pkg": "com.interparkingmobileapp",
+   "note": "Parkhäuser von Interparking",
+   "use": "ok",
+   "src": "https://www.interparking.be"
+  },
+  {
+   "name": "Q-Park",
+   "cat": "parking",
+   "pkg": "com.qpark.mobilepark.android",
+   "note": "Parkhäuser buchen und bezahlen",
+   "use": "ok",
+   "src": "https://www.q-park.be"
+  },
+  {
+   "name": "INDIGO Neo",
+   "cat": "parking",
+   "pkg": "com.opngo.live",
+   "note": "Parkhäuser von Indigo",
+   "use": "ok",
+   "src": "https://www.indigoneo.be"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übriggebliebenes Essen günstig abholen",
+   "use": "ok",
+   "src": "https://www.toogoodtogo.com"
+  },
+  {
+   "name": "museumPASSmusées",
+   "cat": "tourism",
+   "pkg": "com.publiq.museumpassmusees.store",
+   "note": "Museumspass für über 200 belgische Museen",
+   "use": "ok",
+   "src": "https://www.museumpassmusees.be"
+  },
+  {
+   "name": "Antwerp City Pass",
+   "cat": "tourism",
+   "pkg": "com.otipass.antwerp",
+   "note": "Stadtpass mit Museen und ÖPNV",
+   "city": "Antwerp",
+   "use": "ok",
+   "src": "https://www.visitantwerpen.be"
+  },
+  {
+   "name": "Visit Bruges",
+   "cat": "tourism",
+   "pkg": "be.brugge.visitbruges",
+   "note": "Offizielle Routen-App der Stadt Brügge",
+   "use": "ok",
+   "src": "https://www.visitbruges.be"
+  },
+  {
+   "name": "Brussels Airport",
+   "cat": "flights",
+   "pkg": "be.brusselsairport.appyflight",
+   "note": "Flüge, Parken und Wartezeiten in Zaventem",
+   "city": "Brussels",
+   "use": "ok",
+   "src": "https://www.brusselsairport.be"
+  },
+  {
+   "name": "CRL Airport",
+   "cat": "flights",
+   "pkg": "com.bsca.APPPAX",
+   "note": "Flughafen Brüssel Charleroi",
+   "use": "ok",
+   "src": "https://www.brussels-charleroi-airport.com"
+  },
+  {
+   "name": "TUI fly",
+   "cat": "flights",
+   "pkg": "be.tuifly.tda",
+   "note": "Belgische Ferienfluggesellschaft",
+   "use": "ok",
+   "src": "https://www.tuifly.be"
+  },
+  {
+   "name": "park4night",
+   "cat": "hotels",
+   "pkg": "fr.tramb.park4night",
+   "note": "Stellplätze für Wohnmobile und Camper",
+   "use": "ok",
+   "src": "https://park4night.com"
+  },
+  {
+   "name": "Campercontact",
+   "cat": "hotels",
+   "pkg": "nl.nkc.camperplaats",
+   "note": "Wohnmobil Stellplätze in Europa",
+   "use": "ok",
+   "src": "https://www.campercontact.com"
+  },
+  {
+   "name": "My Delhaize",
+   "cat": "shopping",
+   "pkg": "be.delhaize.my",
+   "note": "Supermarkt mit Angeboten und Filialsuche",
+   "use": "ok",
+   "src": "https://www.delhaize.be"
+  },
+  {
+   "name": "Colruyt Xtra",
+   "cat": "shopping",
+   "pkg": "be.colruyt.xtra",
+   "note": "Kundenapp von Colruyt mit Angeboten",
+   "use": "ok",
+   "src": "https://www.colruyt.be"
+  },
+  {
+   "name": "Carrefour België",
+   "cat": "shopping",
+   "pkg": "be.carrefour.singleapp",
+   "note": "Supermarkt mit Angeboten und Filialen",
+   "use": "ok",
+   "src": "https://www.carrefour.be"
+  },
+  {
+   "name": "Albert Heijn",
+   "cat": "shopping",
+   "pkg": "com.icemobile.albertheijn",
+   "note": "Supermarkt, auch in Flandern",
+   "use": "ok",
+   "src": "https://www.ah.be"
+  },
+  {
+   "name": "ALDI België",
+   "cat": "shopping",
+   "pkg": "be.aldi.android",
+   "note": "Angebote und Filialen von Aldi",
+   "use": "ok",
+   "src": "https://www.aldi.be"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialsuche bei Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.be"
   }
  ],
  "replace": [

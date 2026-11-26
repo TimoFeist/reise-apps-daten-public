@@ -72,6 +72,10 @@ Ablauf je Lauf: Liste erzeugen, die ersten etwa 120 Lücken recherchieren (Regel
 `{"apps": [{"cc","name","cat","pkg","note","city","use","req","url","nostore","src"}], "leer": [{"cc","cat","notiz"}]}`
 speichern und mit `python3 tools/luecken_einspielen.py <datei>` einspielen. Das Werkzeug prüft die Einträge, schreibt `raw/<ISO>.json` und merkt sich die Versuche. Danach `merge_raw.py`, `tools/luecken.py` neu, committen und pushen.
 
+## Vollständigkeit (wöchentlich, gleiche Aufgabe)
+
+Ziel ist nicht eine App je Kategorie, sondern alle, die Touristen im Land nutzen können. `python3 tools/tiefe.py 12` wählt die nächsten 12 Länder (große Reiseziele zuerst) und schreibt sie mit den schon vorhandenen Apps je Kategorie nach `queue/tiefe.json`. Den Auftrag für die Recherche enthält `tools/tiefe-auftrag.md` (Hauptwerkzeug Google-Play-Suche je Land, Entwickler und Aktualität prüfen). Ergebnisse wie bei den Lücken mit `tools/luecken_einspielen.py` einspielen (es überspringt Apps, die im Land schon stehen), dann `python3 tools/tiefe.py --erledigt <ISO ...>`. Jedes Land kommt nach 90 Tagen wieder dran (`info/tiefe-versuche.json`).
+
 ## Weltweite Apps (Land „WW“)
 
 Apps unter `WW` erscheinen in der App zusätzlich bei jedem Land, in dem sie funktionieren:

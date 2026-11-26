@@ -1,38 +1,634 @@
-{"src": "https://www.bento.travel/united-arab-emirates", "fetched": "2026-11-17", "updated": "Last updated: August 2026", "note": "Deutsche reisen bis 90 Tage visumfrei mit biometrischem Reisepass ein, der 6 Monate gültig ist. Für bestimmte Medikamente vorab eine Einfuhrgenehmigung beantragen, Anrufe über Messenger sind oft gesperrt.", "lgbtq_note": "Homosexuelle Handlungen sind verboten und werden bei Anzeige strafrechtlich verfolgt, auch Cross-Dressing und Zärtlichkeiten in der Öffentlichkeit sind untersagt.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/vae-node/vaesicherheit-202332", "discontinued": [], "apps": [
-{"name": "Careem", "cat": "taxi", "pkg": "com.careem.acma", "ess": true, "note": "Fahrten, Hala-Taxis in Dubai und Essenslieferung in einer App", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Yango", "cat": "taxi", "pkg": "com.yandex.yango", "ess": true, "note": "Fahrdienst zum Preisvergleich, vor allem in Dubai", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": false, "note": "Eher teurer Fahrdienst in Dubai und Abu Dhabi", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": false, "note": "Lizenzierte Fahrzeuge und Taxis, Angebot oft knapp", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Abu Dhabi Taxi", "cat": "taxi", "pkg": "transad.abudhabi.taxi", "ess": false, "note": "Offizielle Taxi-App für Abu Dhabi und Al Ain", "city": "Abu Dhabi", "use": "limited", "req": "Registrierung und Kontakt zum Fahrer brauchen oft eine lokale Telefonnummer", "src": "https://www.bento.travel/united-arab-emirates/ride-hailing"},
-{"name": "talabat", "cat": "delivery", "pkg": "com.talabat", "ess": true, "note": "Größte Liefer-App für Restaurants und Einkäufe", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates/food-delivery"},
-{"name": "Deliveroo", "cat": "delivery", "pkg": "com.deliveroo.orderapp", "ess": false, "note": "Restaurantlieferung in Dubai, Abu Dhabi, Sharjah und Ajman", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates/food-delivery"},
-{"name": "Keeta", "cat": "delivery", "pkg": "com.sankuai.sailor.afooddelivery", "ess": false, "note": "Neue Liefer-App mit befristeten Rabatten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates/food-delivery"},
-{"name": "Smiles", "cat": "delivery", "pkg": "ae.etisalat.smiles", "ess": false, "note": "Bonus-App von e& mit Lieferdienst, nur bei gutem Angebot", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates/food-delivery"},
-{"name": "Noon", "cat": "shopping", "pkg": "com.noon.buyerapp", "ess": false, "note": "Marktplatz mit Schnelllieferung, auch Essen über noon Food", "city": "", "use": "limited", "req": "Bestätigungscode an ausländische Nummer kommt nicht immer an", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Amazon Shopping", "cat": "shopping", "pkg": "com.amazon.mShop.android.shopping", "ess": false, "note": "Einkäufe über Amazon.ae mit Lieferung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "botim", "cat": "misc", "pkg": "im.thebot.messenger", "ess": false, "note": "Erlaubte Internettelefonie, wenn beide die App nutzen", "city": "", "use": "limited", "req": "Gegenüber muss botim ebenfalls installiert haben, Wallet nicht für Kurzbesucher gedacht", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Waze", "cat": "maps", "pkg": "com.waze", "ess": false, "note": "Verkehrslage, Blitzer und Umleitungen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Etihad Rail", "cat": "rail", "pkg": "com.etihadrail.app_prod_sds", "ess": false, "note": "Zugtickets zwischen Abu Dhabi und Fujairah, Strecke prüfen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Apple Pay, Google Pay, Samsung Wallet", "cat": "payment", "pkg": "", "ess": false, "note": "Kontaktlos mit der eigenen Karte zahlen, Karte als Reserve", "city": "", "use": "limited", "req": "Heimische Bank muss das Wallet unterstützen, ausländische Karten werden teils abgelehnt", "src": "https://www.bento.travel/united-arab-emirates/payments"},
-{"name": "Aani", "cat": "payment", "pkg": "", "ess": false, "note": "Lokales Sofortzahlungssystem der VAE", "city": "", "use": "no", "req": "VAE-Telefonnummer, Emirates ID und lokales Bankkonto nötig", "src": "https://www.bento.travel/united-arab-emirates/payments"},
-{"name": "Payit", "cat": "payment", "pkg": "", "ess": false, "note": "Lokale Bezahl- und Wallet-App", "city": "", "use": "no", "req": "Für Einwohner gedacht, VAE-Telefonnummer oder Emirates ID nötig", "src": "https://www.bento.travel/united-arab-emirates/payments"},
-{"name": "ekar Car Rental", "cat": "carshare", "pkg": "ae.ekar", "ess": false, "note": "Carsharing pro Minute in Dubai, Abu Dhabi und Sharjah", "city": "", "use": "limited", "req": "Identitätsprüfung mit Reisepass und Führerschein in der App, Freischaltung kann dauern, Mindestalter 21", "src": "https://play.google.com/store/apps/details?id=ae.ekar"},
-{"name": "Udrive", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing nach Fahrzeit, Tank und Parken inklusive", "city": "", "use": "limited", "req": "Registrierung mit Ausweis oder Reisepass und Führerschein, deutscher Führerschein wird anerkannt, Mindestalter 21", "src": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-driving-in-the-uae-as-a-tourist-licence-rules-car-rentals-and-insurance-1.500388132"},
-{"name": "Yaldi", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen stunden- oder tageweise per App", "city": "", "use": "limited", "req": "Reisepass, Führerschein und Registrierung in der App nötig, Mindestalter 21", "src": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-driving-in-the-uae-as-a-tourist-licence-rules-car-rentals-and-insurance-1.500388132"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "com.grindrapp.android", "ess": false, "note": "Weltweite Dating-App, in den VAE gesperrt", "city": "", "use": "no", "req": "Im Land netzseitig gesperrt, Nutzung kann zu Strafverfolgung führen", "src": "https://www.dubaispots.com/en/guides/is-it-legal-to-use-dating-apps-in-dubai/"},
-{"name": "Go City", "cat": "tourism", "pkg": "com.gocitypass", "ess": false, "note": "Dubai-Pass, Eintritt per QR-Code in der App", "city": "", "use": "ok", "req": "", "src": "https://www.gocity.com/dubai"},
-{"name": "S'hail", "cat": "transit", "pkg": "com.rta.suhail", "ess": true, "note": "Offizieller RTA-Planer für Metro, Tram, Bus, Fähre und Taxi", "city": "Dubai", "use": "limited", "req": "Gastmodus nutzen, falls Registrierung oder Code an ausländische Nummer scheitert", "src": "https://www.rta.ae/wps/portal/rta/ae/home/smart-apps"},
-{"name": "nol Pay", "cat": "transit", "pkg": "com.snowballtech.rta", "ess": false, "note": "nol-Karte prüfen und aufladen, offizielle RTA-App", "city": "Dubai", "use": "limited", "req": "Handy mit NFC und physische nol-Karte nötig", "src": "https://www.rta.ae/wps/portal/rta/ae/home/smart-apps"},
-{"name": "Parkin", "cat": "parking", "pkg": "", "ess": false, "note": "Öffentliche Parkplätze in Dubai per Karte oder Wallet zahlen", "city": "Dubai", "use": "limited", "req": "Zahlung für andere Emirate nur mit VAE-Mobilfunkvertrag von e&, du oder Virgin Mobile", "src": "https://gulfnews.com/living-in-uae/transport/you-can-pay-for-parking-across-the-uae-through-one-app-1.500200328"},
-{"name": "Lime", "cat": "micro", "pkg": "", "ess": false, "note": "Zugelassene E-Scooter in ausgewählten Stadtteilen", "city": "Dubai", "use": "limited", "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16", "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"},
-{"name": "Dott", "cat": "micro", "pkg": "", "ess": false, "note": "Zugelassene E-Scooter in ausgewählten Stadtteilen", "city": "Dubai", "use": "limited", "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16", "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"},
-{"name": "Skurrt", "cat": "micro", "pkg": "", "ess": false, "note": "Lokaler Anbieter zugelassener E-Scooter", "city": "Dubai", "use": "limited", "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16", "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"},
-{"name": "Visit Dubai", "cat": "tourism", "pkg": "com.dtcm.dubaitourism", "ess": false, "note": "Offizieller Stadtführer mit Buchung von Attraktionen", "city": "Dubai", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "Dubai Police", "cat": "safety", "pkg": "", "ess": false, "note": "Hilfe anfordern und Touristenpolizei kontaktieren", "city": "Dubai", "use": "ok", "req": "", "src": "https://gulfnews.com/living-in-uae/ask-us/essential-dubai-apps-every-tourist-should-download-before-visiting-1.500146592"},
-{"name": "Abu Dhabi Link", "cat": "transit", "pkg": "abudhabi.healthlink", "ess": false, "note": "Sammelshuttle auf Abruf, etwa auf Yas und Saadiyat", "city": "Abu Dhabi", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates/transit"},
-{"name": "Darbi", "cat": "transit", "pkg": "", "ess": false, "note": "Offizielle ITC-App für Busplan, Hafilat-Aufladung und Mawaqif-Parken", "city": "Abu Dhabi", "use": "limited", "req": "Seit 2022 kaum aktualisiert, Busdaten oft ungenau, Hafilat-Karte vor Ort kaufen", "src": "https://apps.apple.com/ae/app/darbi/id840100351"},
-{"name": "Experience Abu Dhabi", "cat": "tourism", "pkg": "com.visitabudhabi.android", "ess": false, "note": "Offizieller Reiseführer für Abu Dhabi", "city": "Abu Dhabi", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates"},
-{"name": "RTA Sharjah", "cat": "transit", "pkg": "", "ess": false, "note": "Offizielle App für Taxi, Busfahrpläne und Parken in Sharjah", "city": "Sharjah", "use": "limited", "req": "Registrierung und Taxibuchung laut Nutzern oft fehlerhaft, Fahrpläne zusätzlich prüfen", "src": "https://apps.apple.com/app/id1187003188"},
-{"name": "Masaar Travel", "cat": "transit", "pkg": "com.bpcbt.billet.clientv2.ajman", "ess": false, "note": "Busse, Live-Ortung und Masaar-Karte in Ajman", "city": "Ajman", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates/transit"},
-{"name": "Sayr by RAKTA", "cat": "transit", "pkg": "ae.rakta.alhamrabus", "ess": false, "note": "Busse, Überlandbusse und Taxi in Ras Al Khaimah", "city": "Ras Al Khaimah", "use": "ok", "req": "", "src": "https://www.bento.travel/united-arab-emirates/transit"}
-]}
+{
+ "src": "https://www.bento.travel/united-arab-emirates",
+ "fetched": "2026-11-17",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche reisen bis 90 Tage visumfrei mit biometrischem Reisepass ein, der 6 Monate gültig ist. Für bestimmte Medikamente vorab eine Einfuhrgenehmigung beantragen, Anrufe über Messenger sind oft gesperrt.",
+ "lgbtq_note": "Homosexuelle Handlungen sind verboten und werden bei Anzeige strafrechtlich verfolgt, auch Cross-Dressing und Zärtlichkeiten in der Öffentlichkeit sind untersagt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/vae-node/vaesicherheit-202332",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "com.careem.acma",
+   "ess": true,
+   "note": "Fahrten, Hala-Taxis in Dubai und Essenslieferung in einer App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": true,
+   "note": "Fahrdienst zum Preisvergleich, vor allem in Dubai",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Eher teurer Fahrdienst in Dubai und Abu Dhabi",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Lizenzierte Fahrzeuge und Taxis, Angebot oft knapp",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Abu Dhabi Taxi",
+   "cat": "taxi",
+   "pkg": "transad.abudhabi.taxi",
+   "ess": false,
+   "note": "Offizielle Taxi-App für Abu Dhabi und Al Ain",
+   "city": "Abu Dhabi",
+   "use": "limited",
+   "req": "Registrierung und Kontakt zum Fahrer brauchen oft eine lokale Telefonnummer",
+   "src": "https://www.bento.travel/united-arab-emirates/ride-hailing"
+  },
+  {
+   "name": "talabat",
+   "cat": "delivery",
+   "pkg": "com.talabat",
+   "ess": true,
+   "note": "Größte Liefer-App für Restaurants und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+  },
+  {
+   "name": "Deliveroo",
+   "cat": "delivery",
+   "pkg": "com.deliveroo.orderapp",
+   "ess": false,
+   "note": "Restaurantlieferung in Dubai, Abu Dhabi, Sharjah und Ajman",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+  },
+  {
+   "name": "Keeta",
+   "cat": "delivery",
+   "pkg": "com.sankuai.sailor.afooddelivery",
+   "ess": false,
+   "note": "Neue Liefer-App mit befristeten Rabatten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+  },
+  {
+   "name": "Smiles",
+   "cat": "delivery",
+   "pkg": "ae.etisalat.smiles",
+   "ess": false,
+   "note": "Bonus-App von e& mit Lieferdienst, nur bei gutem Angebot",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates/food-delivery"
+  },
+  {
+   "name": "Noon",
+   "cat": "shopping",
+   "pkg": "com.noon.buyerapp",
+   "ess": false,
+   "note": "Marktplatz mit Schnelllieferung, auch Essen über noon Food",
+   "city": "",
+   "use": "limited",
+   "req": "Bestätigungscode an ausländische Nummer kommt nicht immer an",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Amazon Shopping",
+   "cat": "shopping",
+   "pkg": "com.amazon.mShop.android.shopping",
+   "ess": false,
+   "note": "Einkäufe über Amazon.ae mit Lieferung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "botim",
+   "cat": "misc",
+   "pkg": "im.thebot.messenger",
+   "ess": false,
+   "note": "Erlaubte Internettelefonie, wenn beide die App nutzen",
+   "city": "",
+   "use": "limited",
+   "req": "Gegenüber muss botim ebenfalls installiert haben, Wallet nicht für Kurzbesucher gedacht",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Verkehrslage, Blitzer und Umleitungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Etihad Rail",
+   "cat": "rail",
+   "pkg": "com.etihadrail.app_prod_sds",
+   "ess": false,
+   "note": "Zugtickets zwischen Abu Dhabi und Fujairah, Strecke prüfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Apple Pay, Google Pay, Samsung Wallet",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Kontaktlos mit der eigenen Karte zahlen, Karte als Reserve",
+   "city": "",
+   "use": "limited",
+   "req": "Heimische Bank muss das Wallet unterstützen, ausländische Karten werden teils abgelehnt",
+   "src": "https://www.bento.travel/united-arab-emirates/payments"
+  },
+  {
+   "name": "Aani",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokales Sofortzahlungssystem der VAE",
+   "city": "",
+   "use": "no",
+   "req": "VAE-Telefonnummer, Emirates ID und lokales Bankkonto nötig",
+   "src": "https://www.bento.travel/united-arab-emirates/payments"
+  },
+  {
+   "name": "Payit",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Bezahl- und Wallet-App",
+   "city": "",
+   "use": "no",
+   "req": "Für Einwohner gedacht, VAE-Telefonnummer oder Emirates ID nötig",
+   "src": "https://www.bento.travel/united-arab-emirates/payments"
+  },
+  {
+   "name": "ekar Car Rental",
+   "cat": "carshare",
+   "pkg": "ae.ekar",
+   "ess": false,
+   "note": "Carsharing pro Minute in Dubai, Abu Dhabi und Sharjah",
+   "city": "",
+   "use": "limited",
+   "req": "Identitätsprüfung mit Reisepass und Führerschein in der App, Freischaltung kann dauern, Mindestalter 21",
+   "src": "https://play.google.com/store/apps/details?id=ae.ekar"
+  },
+  {
+   "name": "Udrive",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing nach Fahrzeit, Tank und Parken inklusive",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Ausweis oder Reisepass und Führerschein, deutscher Führerschein wird anerkannt, Mindestalter 21",
+   "src": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-driving-in-the-uae-as-a-tourist-licence-rules-car-rentals-and-insurance-1.500388132"
+  },
+  {
+   "name": "Yaldi",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen stunden- oder tageweise per App",
+   "city": "",
+   "use": "limited",
+   "req": "Reisepass, Führerschein und Registrierung in der App nötig, Mindestalter 21",
+   "src": "https://gulfnews.com/ask-gulf-news/ask-gulf-news-driving-in-the-uae-as-a-tourist-licence-rules-car-rentals-and-insurance-1.500388132"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "com.grindrapp.android",
+   "ess": false,
+   "note": "Weltweite Dating-App, in den VAE gesperrt",
+   "city": "",
+   "use": "no",
+   "req": "Im Land netzseitig gesperrt, Nutzung kann zu Strafverfolgung führen",
+   "src": "https://www.dubaispots.com/en/guides/is-it-legal-to-use-dating-apps-in-dubai/"
+  },
+  {
+   "name": "Go City",
+   "cat": "tourism",
+   "pkg": "com.gocitypass",
+   "ess": false,
+   "note": "Dubai-Pass, Eintritt per QR-Code in der App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.gocity.com/dubai"
+  },
+  {
+   "name": "S'hail",
+   "cat": "transit",
+   "pkg": "com.rta.suhail",
+   "ess": true,
+   "note": "Offizieller RTA-Planer für Metro, Tram, Bus, Fähre und Taxi",
+   "city": "Dubai",
+   "use": "limited",
+   "req": "Gastmodus nutzen, falls Registrierung oder Code an ausländische Nummer scheitert",
+   "src": "https://www.rta.ae/wps/portal/rta/ae/home/smart-apps"
+  },
+  {
+   "name": "nol Pay",
+   "cat": "transit",
+   "pkg": "com.snowballtech.rta",
+   "ess": false,
+   "note": "nol-Karte prüfen und aufladen, offizielle RTA-App",
+   "city": "Dubai",
+   "use": "limited",
+   "req": "Handy mit NFC und physische nol-Karte nötig",
+   "src": "https://www.rta.ae/wps/portal/rta/ae/home/smart-apps"
+  },
+  {
+   "name": "Parkin",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Öffentliche Parkplätze in Dubai per Karte oder Wallet zahlen",
+   "city": "Dubai",
+   "use": "limited",
+   "req": "Zahlung für andere Emirate nur mit VAE-Mobilfunkvertrag von e&, du oder Virgin Mobile",
+   "src": "https://gulfnews.com/living-in-uae/transport/you-can-pay-for-parking-across-the-uae-through-one-app-1.500200328"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Zugelassene E-Scooter in ausgewählten Stadtteilen",
+   "city": "Dubai",
+   "use": "limited",
+   "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16",
+   "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"
+  },
+  {
+   "name": "Dott",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Zugelassene E-Scooter in ausgewählten Stadtteilen",
+   "city": "Dubai",
+   "use": "limited",
+   "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16",
+   "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"
+  },
+  {
+   "name": "Skurrt",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Anbieter zugelassener E-Scooter",
+   "city": "Dubai",
+   "use": "limited",
+   "req": "Online-Fahrgenehmigung der RTA nötig, Mindestalter 16",
+   "src": "https://www.rta.ae/wps/portal/rta/ae/home/about-rta/escooter"
+  },
+  {
+   "name": "Visit Dubai",
+   "cat": "tourism",
+   "pkg": "com.dtcm.dubaitourism",
+   "ess": false,
+   "note": "Offizieller Stadtführer mit Buchung von Attraktionen",
+   "city": "Dubai",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "Dubai Police",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Hilfe anfordern und Touristenpolizei kontaktieren",
+   "city": "Dubai",
+   "use": "ok",
+   "req": "",
+   "src": "https://gulfnews.com/living-in-uae/ask-us/essential-dubai-apps-every-tourist-should-download-before-visiting-1.500146592"
+  },
+  {
+   "name": "Abu Dhabi Link",
+   "cat": "transit",
+   "pkg": "abudhabi.healthlink",
+   "ess": false,
+   "note": "Sammelshuttle auf Abruf, etwa auf Yas und Saadiyat",
+   "city": "Abu Dhabi",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates/transit"
+  },
+  {
+   "name": "Darbi",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle ITC-App für Busplan, Hafilat-Aufladung und Mawaqif-Parken",
+   "city": "Abu Dhabi",
+   "use": "limited",
+   "req": "Seit 2022 kaum aktualisiert, Busdaten oft ungenau, Hafilat-Karte vor Ort kaufen",
+   "src": "https://apps.apple.com/ae/app/darbi/id840100351"
+  },
+  {
+   "name": "Experience Abu Dhabi",
+   "cat": "tourism",
+   "pkg": "com.visitabudhabi.android",
+   "ess": false,
+   "note": "Offizieller Reiseführer für Abu Dhabi",
+   "city": "Abu Dhabi",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates"
+  },
+  {
+   "name": "RTA Sharjah",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App für Taxi, Busfahrpläne und Parken in Sharjah",
+   "city": "Sharjah",
+   "use": "limited",
+   "req": "Registrierung und Taxibuchung laut Nutzern oft fehlerhaft, Fahrpläne zusätzlich prüfen",
+   "src": "https://apps.apple.com/app/id1187003188"
+  },
+  {
+   "name": "Masaar Travel",
+   "cat": "transit",
+   "pkg": "com.bpcbt.billet.clientv2.ajman",
+   "ess": false,
+   "note": "Busse, Live-Ortung und Masaar-Karte in Ajman",
+   "city": "Ajman",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates/transit"
+  },
+  {
+   "name": "Sayr by RAKTA",
+   "cat": "transit",
+   "pkg": "ae.rakta.alhamrabus",
+   "ess": false,
+   "note": "Busse, Überlandbusse und Taxi in Ras Al Khaimah",
+   "city": "Ras Al Khaimah",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/united-arab-emirates/transit"
+  },
+  {
+   "name": "RTA Dubai",
+   "cat": "transit",
+   "pkg": "com.rta.rtadubai",
+   "note": "Offizielle RTA App: nol Karte, Parken, Taxi, Fahrplan",
+   "city": "Dubai",
+   "use": "ok",
+   "src": "https://www.rta.ae"
+  },
+  {
+   "name": "Dubai Bus on Demand",
+   "cat": "transit",
+   "pkg": "dubai.rta",
+   "note": "Rufbus der RTA in einigen Stadtteilen",
+   "city": "Dubai",
+   "use": "ok",
+   "src": "https://www.rta.ae"
+  },
+  {
+   "name": "Zed",
+   "cat": "taxi",
+   "pkg": "com.zed.customer",
+   "note": "Taxi und Limousinen in Dubai",
+   "city": "Dubai",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.zed.customer"
+  },
+  {
+   "name": "invygo",
+   "cat": "carshare",
+   "pkg": "com.invygo.customer",
+   "note": "Mietwagen und Auto Abo per App",
+   "use": "ok",
+   "src": "https://www.invygo.com"
+  },
+  {
+   "name": "eZhire",
+   "cat": "carshare",
+   "pkg": "com.ionicframework.conference463383",
+   "note": "Mietwagen mit Lieferung ohne Kaution",
+   "use": "ok",
+   "src": "https://www.ezhire.ae"
+  },
+  {
+   "name": "Selfdrive",
+   "cat": "carshare",
+   "pkg": "com.selfdrive.application",
+   "note": "Mietwagen mit Zustellung",
+   "use": "ok",
+   "src": "https://www.selfdrive.ae"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen von Sixt",
+   "use": "ok",
+   "src": "https://www.sixt.ae"
+  },
+  {
+   "name": "Darb",
+   "cat": "parking",
+   "pkg": "com.qmobility.darbx",
+   "note": "Parken und Maut in Abu Dhabi",
+   "city": "Abu Dhabi",
+   "use": "ok",
+   "src": "https://www.qmobility.ae"
+  },
+  {
+   "name": "Mawqef",
+   "cat": "parking",
+   "pkg": "shj.municipality.parking",
+   "note": "Parkgebühren in Sharjah zahlen",
+   "city": "Sharjah",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=shj.municipality.parking"
+  },
+  {
+   "name": "instashop",
+   "cat": "delivery",
+   "pkg": "com.stedor.instashop",
+   "note": "Lebensmittel und mehr schnell geliefert",
+   "use": "ok",
+   "src": "https://instashop.com"
+  },
+  {
+   "name": "Spinneys",
+   "cat": "delivery",
+   "pkg": "com.dnc.spinneys",
+   "note": "Supermarkt Spinneys mit Lieferung",
+   "use": "ok",
+   "src": "https://www.spinneys.com"
+  },
+  {
+   "name": "Dubai Calendar",
+   "cat": "tourism",
+   "pkg": "com.dsf010.v2.dubaievents",
+   "note": "Offizieller Veranstaltungskalender von Dubai",
+   "city": "Dubai",
+   "use": "ok",
+   "src": "https://www.visitdubai.com"
+  },
+  {
+   "name": "Global Village",
+   "cat": "tourism",
+   "pkg": "com.reflectionsinfos.globalvillage",
+   "note": "Tickets und Infos für den Freizeitpark Global Village",
+   "city": "Dubai",
+   "use": "ok",
+   "src": "https://www.globalvillage.ae"
+  },
+  {
+   "name": "Louvre Abu Dhabi",
+   "cat": "tourism",
+   "pkg": "com.nous.ladguide.prod",
+   "note": "Offizieller Museumsguide des Louvre Abu Dhabi",
+   "city": "Abu Dhabi",
+   "use": "ok",
+   "src": "https://www.louvreabudhabi.ae"
+  },
+  {
+   "name": "Yas Island",
+   "cat": "tourism",
+   "pkg": "com.yas.app",
+   "note": "Freizeitparks auf Yas Island, Tickets und Infos",
+   "city": "Abu Dhabi",
+   "use": "ok",
+   "src": "https://www.yasisland.com"
+  },
+  {
+   "name": "UAE Weather",
+   "cat": "safety",
+   "pkg": "com.uae.ncms",
+   "note": "Wetter und Warnungen des staatlichen Wetterdienstes",
+   "use": "ok",
+   "src": "https://www.ncm.gov.ae"
+  },
+  {
+   "name": "MOI UAE",
+   "cat": "safety",
+   "pkg": "com.uaemoi.smartservices",
+   "note": "Innenministerium: Verkehrsstrafen, Meldungen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.uaemoi.smartservices"
+  },
+  {
+   "name": "Emirates",
+   "cat": "flights",
+   "pkg": "com.emirates.ek.android",
+   "note": "Fluggesellschaft aus Dubai",
+   "use": "ok",
+   "src": "https://www.emirates.com"
+  },
+  {
+   "name": "Etihad",
+   "cat": "flights",
+   "pkg": "com.mttnow.android.etihad",
+   "note": "Nationale Airline aus Abu Dhabi",
+   "use": "ok",
+   "src": "https://www.etihad.com"
+  },
+  {
+   "name": "flydubai",
+   "cat": "flights",
+   "pkg": "com.flydubai.booking",
+   "note": "Billigflieger aus Dubai",
+   "use": "ok",
+   "src": "https://www.flydubai.com"
+  },
+  {
+   "name": "Air Arabia",
+   "cat": "flights",
+   "pkg": "com.winit.airarabia",
+   "note": "Billigflieger aus Sharjah",
+   "use": "ok",
+   "src": "https://www.airarabia.com"
+  },
+  {
+   "name": "AUH Guest",
+   "cat": "flights",
+   "pkg": "ae.abudhabiairport.welcome",
+   "note": "App des Flughafens Abu Dhabi",
+   "city": "Abu Dhabi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ae.abudhabiairport.welcome"
+  },
+  {
+   "name": "Almosafer",
+   "cat": "hotels",
+   "pkg": "com.travel.almosafer",
+   "note": "Hotels und Flüge, in der Golfregion führend",
+   "use": "ok",
+   "src": "https://www.almosafer.com"
+  },
+  {
+   "name": "Wego",
+   "cat": "hotels",
+   "pkg": "com.wego.android",
+   "note": "Flug und Hotelsuche aus Dubai",
+   "use": "ok",
+   "src": "https://www.wego.ae"
+  },
+  {
+   "name": "Carrefour UAE",
+   "cat": "shopping",
+   "pkg": "com.aswat.carrefouruae",
+   "note": "Carrefour Supermärkte mit Lieferung",
+   "use": "ok",
+   "src": "https://www.carrefouruae.com"
+  },
+  {
+   "name": "LuLu Hypermarket",
+   "cat": "shopping",
+   "pkg": "com.akinon.lulushopping",
+   "note": "Große Supermarktkette mit Onlineshop",
+   "use": "ok",
+   "src": "https://www.luluhypermarket.com"
+  },
+  {
+   "name": "Dubai Mall",
+   "cat": "shopping",
+   "pkg": "com.thedubaimall",
+   "note": "Lageplan, Geschäfte und Angebote der Dubai Mall",
+   "city": "Dubai",
+   "use": "ok",
+   "src": "https://thedubaimall.com"
+  }
+ ]
+}

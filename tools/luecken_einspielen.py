@@ -7,6 +7,7 @@ Eingabe (eine oder mehrere Dateien):
 * Gedankenstriche in note/req werden durch Kommas ersetzt, note wird auf 60 Zeichen gekürzt.
 * Schon vorhandene Apps (gleiches pkg bzw. gleicher Name in derselben Stadt) werden nicht doppelt angelegt.
 * Jede Kombination Land|Kategorie landet in info/luecken-versuche.json (gefunden = Anzahl neuer Apps).
+Auch für Vollständigkeits-Ergebnisse (tools/tiefe.py) nutzbar; dort danach tools/tiefe.py --erledigt <ISO> ... aufrufen.
 Aufruf: python3 tools/luecken_einspielen.py ergebnis1.json [ergebnis2.json ...]   © 2026 Timo Feist
 """
 import datetime, json, os, re, sys
@@ -14,7 +15,21 @@ import datetime, json, os, re, sys
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RAW = os.path.join(HERE, "raw")
 VERS = os.path.join(HERE, "info", "luecken-versuche.json")
-CATS = {c["id"] for c in json.load(open(os.path.join(HERE, "data.json"), encoding="utf-8"))["categories"]}
+DATA = json.load(open(os.path.join(HERE, "data.json"), encoding="utf-8"))
+CATS = {c["id"] for c in DATA["categories"]}
+# Schon vorhandene Apps je Land (Paketname oder Name, inkl. Städte und weltweiter Apps für dieses Land)
+HAVE = {}
+_ww = next((c for c in DATA["countries"] if c["code"] == "WW"), {"apps": []})
+for _c in DATA["countries"]:
+    _s = HAVE.setdefault(_c["code"], set())
+    for _a in _c["apps"] + [x for ci in _c.get("cities", []) for x in ci["apps"]]:
+        _s.add((_a.get("pkg") or "").lower())
+        _s.add(_a["name"].strip().lower())
+    for _a in _ww["apps"]:
+        if _c["code"] in _a.get("countries", []):
+            _s.add((_a.get("pkg") or "").lower())
+for _s in HAVE.values():
+    _s.discard("")
 PKG = re.compile(r"^[A-Za-z][A-Za-z0-9_]*(\.[A-Za-z0-9_]+)+$")
 today = datetime.date.today().isoformat()
 vers = json.load(open(VERS, encoding="utf-8")) if os.path.exists(VERS) else {"versuche": {}}
@@ -62,6 +77,8 @@ for f in sys.argv[1:]:
         e["src"] = a["src"]
         r = raw(cc)
         k = (pkg or e["name"]).lower()
+        if (pkg.lower() in HAVE.get(cc, set()) and pkg) or (not pkg and e["name"].lower() in HAVE.get(cc, set())):
+            continue  # steht im Land schon (auch eigene, Stadt- oder weltweite Einträge)
         if any((x.get("pkg") or x.get("name", "")).lower() == k and (x.get("city") or "") == e.get("city", "") for x in r["apps"]):
             continue
         r["apps"].append(e)

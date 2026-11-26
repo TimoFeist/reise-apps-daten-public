@@ -315,6 +315,308 @@
    "note": "Offizielle App der türkischen Tourismusagentur",
    "use": "ok",
    "src": "https://play.google.com/store/apps/details?id=tr.gov.tga.chinaapp&hl=en"
+  },
+  {
+   "name": "Havaist",
+   "cat": "transit",
+   "pkg": "hava.ist",
+   "note": "Shuttlebusse zum Flughafen Istanbul",
+   "city": "Istanbul",
+   "use": "ok",
+   "src": "https://hava.ist"
+  },
+  {
+   "name": "Havaş Mobile",
+   "cat": "transit",
+   "pkg": "com.havas.mobile",
+   "note": "Flughafenbusse Havaş in vielen Städten",
+   "use": "ok",
+   "src": "https://www.havas.net"
+  },
+  {
+   "name": "İDO Mobile",
+   "cat": "rail",
+   "pkg": "net.btpro.client.ido",
+   "note": "Schnellfähren und Seebusse Istanbul, Marmara",
+   "city": "Istanbul",
+   "use": "ok",
+   "src": "https://www.ido.com.tr"
+  },
+  {
+   "name": "Kamil Koç",
+   "cat": "rail",
+   "pkg": "com.nilaccrra.kamilkoc",
+   "note": "Große Fernbuslinie",
+   "use": "ok",
+   "src": "https://www.kamilkoc.com.tr"
+  },
+  {
+   "name": "Pamukkale Turizm",
+   "cat": "rail",
+   "pkg": "tr.com.pamukkale.pamukkaleturizm",
+   "note": "Fernbuslinie Pamukkale",
+   "use": "ok",
+   "src": "https://www.pamukkale.com.tr"
+  },
+  {
+   "name": "Metro Turizm",
+   "cat": "rail",
+   "pkg": "tr.com.metroturizm.androidapp",
+   "note": "Fernbuslinie Metro Turizm",
+   "use": "ok",
+   "src": "https://www.metroturizm.com.tr"
+  },
+  {
+   "name": "Biletall",
+   "cat": "rail",
+   "pkg": "com.ipek.biletall",
+   "note": "Bus und Flugtickets vergleichen",
+   "use": "ok",
+   "src": "https://www.biletall.com"
+  },
+  {
+   "name": "Garenta",
+   "cat": "carshare",
+   "pkg": "acropole.garenta",
+   "note": "Türkische Autovermietung",
+   "use": "ok",
+   "src": "https://www.garenta.com.tr"
+  },
+  {
+   "name": "Avis Türkiye",
+   "cat": "carshare",
+   "pkg": "com.otokocotomotiv.avis",
+   "note": "Mietwagen von Avis in der Türkei",
+   "use": "ok",
+   "src": "https://www.avis.com.tr"
+  },
+  {
+   "name": "Budget Türkiye",
+   "cat": "carshare",
+   "pkg": "com.otokocotomotiv.budget",
+   "note": "Mietwagen von Budget in der Türkei",
+   "use": "ok",
+   "src": "https://www.budget.com.tr"
+  },
+  {
+   "name": "Enterprise Türkiye",
+   "cat": "carshare",
+   "pkg": "com.application.enterprise",
+   "note": "Mietwagen von Enterprise in der Türkei",
+   "use": "ok",
+   "src": "https://www.enterprise.com.tr"
+  },
+  {
+   "name": "Yolcu360",
+   "cat": "carshare",
+   "pkg": "com.yolcu360",
+   "note": "Mietwagen Vergleich aus der Türkei",
+   "use": "ok",
+   "src": "https://yolcu360.com"
+  },
+  {
+   "name": "Tıkla Gelsin",
+   "cat": "delivery",
+   "pkg": "com.ataexpress.tiklagelsin",
+   "note": "Essen von Ketten wie Burger King bestellen",
+   "use": "ok",
+   "src": "https://www.tiklagelsin.com"
+  },
+  {
+   "name": "İstanbul Senin",
+   "cat": "tourism",
+   "pkg": "com.tr.gov.ibb.istanbulsenin",
+   "note": "Stadt App Istanbul mit Infos und Diensten",
+   "city": "Istanbul",
+   "use": "ok",
+   "src": "https://istanbulsenin.istanbul"
+  },
+  {
+   "name": "Deprem AFAD",
+   "cat": "safety",
+   "pkg": "com.afad.deprembilgisistemi",
+   "note": "Offizielle Erdbebenmeldungen von AFAD",
+   "use": "ok",
+   "src": "https://deprem.afad.gov.tr"
+  },
+  {
+   "name": "Rasathane",
+   "cat": "safety",
+   "pkg": "edu.boun.rasathane",
+   "note": "Erdbebendaten der Kandilli Sternwarte",
+   "use": "ok",
+   "src": "http://www.koeri.boun.edu.tr"
+  },
+  {
+   "name": "Yandex Maps",
+   "cat": "maps",
+   "pkg": "ru.yandex.yandexmaps",
+   "note": "In der Türkei verbreitete Karten und Navigation",
+   "use": "ok",
+   "src": "https://yandex.com.tr/maps"
+  },
+  {
+   "name": "Turkish Airlines",
+   "cat": "flights",
+   "pkg": "com.turkishairlines.mobile",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.turkishairlines.com"
+  },
+  {
+   "name": "Pegasus",
+   "cat": "flights",
+   "pkg": "com.pozitron.pegasus",
+   "note": "Türkischer Billigflieger",
+   "use": "ok",
+   "src": "https://www.flypgs.com"
+  },
+  {
+   "name": "AJet",
+   "cat": "flights",
+   "pkg": "com.ajet.mobile",
+   "note": "Billigtochter von Turkish Airlines",
+   "use": "ok",
+   "src": "https://www.ajet.com"
+  },
+  {
+   "name": "SunExpress",
+   "cat": "flights",
+   "pkg": "com.sunexpress.lite",
+   "note": "Ferienflieger, viele Flüge aus Deutschland",
+   "use": "ok",
+   "src": "https://www.sunexpress.com"
+  },
+  {
+   "name": "İstanbul Airport",
+   "cat": "flights",
+   "pkg": "com.igasystem.iga",
+   "note": "Offizielle App des Flughafens Istanbul",
+   "city": "Istanbul",
+   "use": "ok",
+   "src": "https://www.istairport.com"
+  },
+  {
+   "name": "Sabiha Gökçen",
+   "cat": "flights",
+   "pkg": "com.rettermobile.isg",
+   "note": "Flughafen Istanbul Sabiha Gökçen",
+   "city": "Istanbul",
+   "use": "ok",
+   "src": "https://www.sabihagokcen.aero"
+  },
+  {
+   "name": "Antalya Airport",
+   "cat": "flights",
+   "pkg": "com.icfairports.mobile",
+   "note": "Flughafen Antalya",
+   "city": "Antalya",
+   "use": "ok",
+   "src": "https://www.antalya-airport.aero"
+  },
+  {
+   "name": "TAV Mobile",
+   "cat": "flights",
+   "pkg": "aero.tav.mobile",
+   "note": "App der TAV Flughäfen Izmir, Ankara, Bodrum",
+   "use": "ok",
+   "src": "https://www.tavairports.com"
+  },
+  {
+   "name": "DHMİ Uçuş Rehberim",
+   "cat": "flights",
+   "pkg": "ub.dhmi.gov.tr",
+   "note": "Fluginfos der staatlichen Flughäfen",
+   "use": "ok",
+   "src": "https://www.dhmi.gov.tr"
+  },
+  {
+   "name": "Etstur",
+   "cat": "hotels",
+   "pkg": "com.etstur",
+   "note": "Großes türkisches Hotelportal",
+   "use": "ok",
+   "src": "https://www.etstur.com"
+  },
+  {
+   "name": "Jolly Tur",
+   "cat": "hotels",
+   "pkg": "com.jolly.framework.mvvm",
+   "note": "Hotels und Pauschalreisen in der Türkei",
+   "use": "ok",
+   "src": "https://www.jollytur.com"
+  },
+  {
+   "name": "tatilsepeti",
+   "cat": "hotels",
+   "pkg": "com.dotto.tatilsepeti.activity",
+   "note": "Hotelportal für Urlaub in der Türkei",
+   "use": "ok",
+   "src": "https://www.tatilsepeti.com"
+  },
+  {
+   "name": "Tatilbudur",
+   "cat": "hotels",
+   "pkg": "com.mikatur.tatilbudur",
+   "note": "Hotels und Touren in der Türkei",
+   "use": "ok",
+   "src": "https://www.tatilbudur.com"
+  },
+  {
+   "name": "ENUYGUN",
+   "cat": "hotels",
+   "pkg": "com.mobilatolye.android.enuygun",
+   "note": "Flüge, Hotels, Busse und Mietwagen",
+   "use": "ok",
+   "src": "https://www.enuygun.com"
+  },
+  {
+   "name": "A101",
+   "cat": "shopping",
+   "pkg": "com.a101kapida.android",
+   "note": "Discounter A101 mit Lieferung",
+   "use": "ok",
+   "src": "https://www.a101.com.tr"
+  },
+  {
+   "name": "Cepte Şok",
+   "cat": "shopping",
+   "pkg": "com.positive.ceptesok",
+   "note": "Discounter Şok, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://www.sokmarket.com.tr"
+  },
+  {
+   "name": "CarrefourSA",
+   "cat": "shopping",
+   "pkg": "com.carrefoursa.ecommerce",
+   "note": "Supermarkt CarrefourSA online",
+   "use": "ok",
+   "src": "https://www.carrefoursa.com"
+  },
+  {
+   "name": "BİM",
+   "cat": "shopping",
+   "pkg": "com.bim.market",
+   "note": "Discounter BİM, Wochenangebote",
+   "use": "ok",
+   "src": "https://www.bim.com.tr"
+  },
+  {
+   "name": "Hepsiburada",
+   "cat": "shopping",
+   "pkg": "com.pozitron.hepsiburada",
+   "note": "Großer Online Marktplatz",
+   "use": "ok",
+   "src": "https://www.hepsiburada.com"
+  },
+  {
+   "name": "Trendyol",
+   "cat": "shopping",
+   "pkg": "trendyol.com",
+   "note": "Größter Online Marktplatz der Türkei",
+   "use": "ok",
+   "src": "https://www.trendyol.com"
   }
  ]
 }

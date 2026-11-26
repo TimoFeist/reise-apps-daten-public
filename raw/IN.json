@@ -522,6 +522,337 @@
    "req": "Indische Handynummer für OTP nötig",
    "url": "https://parkplus.io/parking",
    "src": "https://zeebiz.com/technology/apps/news-park-plus-fastag-recharge-offer-parking-lot-app-for-android-ios-car-owners-218316"
+  },
+  {
+   "name": "One Delhi",
+   "cat": "transit",
+   "pkg": "com.delhitransport.onedelhi",
+   "note": "Offizielle DTC App, Bus und Metro Tickets in Delhi",
+   "city": "Delhi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.delhitransport.onedelhi"
+  },
+  {
+   "name": "Namma BMTC",
+   "cat": "transit",
+   "pkg": "com.bmtc.bmtcavls",
+   "note": "Offizielle Bus App für Bengaluru mit Live Ortung",
+   "city": "Bengaluru",
+   "use": "ok",
+   "src": "https://mybmtc.karnataka.gov.in/"
+  },
+  {
+   "name": "BEST Prawas",
+   "cat": "transit",
+   "pkg": "com.dimts.best.bestapplication",
+   "note": "Offizielle App der BEST Busse in Mumbai",
+   "city": "Mumbai",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dimts.best.bestapplication"
+  },
+  {
+   "name": "m-Indicator",
+   "cat": "transit",
+   "pkg": "com.mobond.mindicator",
+   "note": "Standard App für Mumbais Vorortzüge und Busse",
+   "city": "Mumbai",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mobond.mindicator"
+  },
+  {
+   "name": "TGSRTC Gamyam",
+   "cat": "transit",
+   "pkg": "com.tsrtc",
+   "note": "Stadtbusse Hyderabad live verfolgen",
+   "city": "Hyderabad",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tsrtc"
+  },
+  {
+   "name": "ixigo Trains",
+   "cat": "rail",
+   "pkg": "com.ixigo.train.ixitrain",
+   "note": "Zugtickets über IRCTC buchen, Zugstatus",
+   "use": "limited",
+   "req": "Ausländer brauchen IRCTC Konto mit Pass",
+   "src": "https://play.google.com/store/apps/details?id=com.ixigo.train.ixitrain"
+  },
+  {
+   "name": "ConfirmTkt",
+   "cat": "rail",
+   "pkg": "com.confirmtkt.lite",
+   "note": "Zugtickets buchen, Wartelisten Prognose",
+   "use": "limited",
+   "req": "Ausländer brauchen IRCTC Konto mit Pass",
+   "src": "https://play.google.com/store/apps/details?id=com.confirmtkt.lite"
+  },
+  {
+   "name": "AbhiBus",
+   "cat": "rail",
+   "pkg": "com.app.abhibus",
+   "note": "Fernbusse in ganz Indien buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.app.abhibus"
+  },
+  {
+   "name": "IntrCity SmartBus",
+   "cat": "rail",
+   "pkg": "bus.tickets.intrcity",
+   "note": "Komfortable Fernbusse zwischen Großstädten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=bus.tickets.intrcity"
+  },
+  {
+   "name": "KSRTC AWATAR",
+   "cat": "rail",
+   "pkg": "com.ksrtc.awatar.new",
+   "note": "Staatliche Busse Karnatakas buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ksrtc.awatar.new"
+  },
+  {
+   "name": "TNSTC",
+   "cat": "rail",
+   "pkg": "com.tnstc",
+   "note": "Staatliche Busse Tamil Nadus buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tnstc"
+  },
+  {
+   "name": "MSRTC Bus Reservation",
+   "cat": "rail",
+   "pkg": "com.itms_consumer.msrtc.msrtc",
+   "note": "Staatliche Busse Maharashtras buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.itms_consumer.msrtc.msrtc"
+  },
+  {
+   "name": "UP RAAHI",
+   "cat": "rail",
+   "pkg": "com.scsoft.upsrtcmobileapp",
+   "note": "Staatliche Busse Uttar Pradeshs, etwa nach Agra",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.scsoft.upsrtcmobileapp"
+  },
+  {
+   "name": "Meru Cabs",
+   "cat": "taxi",
+   "pkg": "com.winit.merucab",
+   "note": "Taxis und Flughafentransfers in Großstädten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.winit.merucab"
+  },
+  {
+   "name": "Revv",
+   "cat": "carshare",
+   "pkg": "com.selfdrive",
+   "note": "Mietwagen zum Selbstfahren in vielen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.selfdrive"
+  },
+  {
+   "name": "MyChoize",
+   "cat": "carshare",
+   "pkg": "com.mychoize.cars",
+   "note": "Mietwagen von ORIX Indien",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mychoize.cars"
+  },
+  {
+   "name": "Freedo Rentals",
+   "cat": "micro",
+   "pkg": "com.heerofreedo",
+   "note": "Motorroller und Motorräder mieten von Hero",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.heerofreedo"
+  },
+  {
+   "name": "bigbasket",
+   "cat": "delivery",
+   "pkg": "com.bigbasket.mobileapp",
+   "note": "Lebensmittel Lieferung, auch in Minuten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bigbasket.mobileapp"
+  },
+  {
+   "name": "JioMart",
+   "cat": "delivery",
+   "pkg": "com.jpl.jiomart",
+   "note": "Lebensmittel und Waren online von Reliance",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.jpl.jiomart"
+  },
+  {
+   "name": "PhonePe",
+   "cat": "payment",
+   "pkg": "com.phonepe.app",
+   "note": "Größte UPI Bezahl App Indiens",
+   "use": "no",
+   "req": "Indisches Bankkonto und Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.phonepe.app"
+  },
+  {
+   "name": "BHIM",
+   "cat": "payment",
+   "pkg": "in.org.npci.upiapp",
+   "note": "Offizielle UPI App der NPCI",
+   "use": "no",
+   "req": "Indisches Bankkonto und Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=in.org.npci.upiapp"
+  },
+  {
+   "name": "Kerala Tourism",
+   "cat": "tourism",
+   "pkg": "org.keralatourism.travelkerala",
+   "note": "Offizielle App des Tourismus von Kerala",
+   "use": "ok",
+   "src": "https://www.keralatourism.org/"
+  },
+  {
+   "name": "Delhi Tourism Official",
+   "cat": "tourism",
+   "pkg": "com.dttdctech",
+   "note": "Offizielle App der Delhi Tourismusbehörde",
+   "city": "Delhi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dttdctech"
+  },
+  {
+   "name": "IRCTC Tourism",
+   "cat": "tourism",
+   "pkg": "com.irctc.tourism_new",
+   "note": "Rundreisen und Luxuszüge der Bahn",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.irctc.tourism_new"
+  },
+  {
+   "name": "OBMS Rajasthan",
+   "cat": "tourism",
+   "pkg": "com.obms.tourist",
+   "note": "Tickets für Forts und Museen in Rajasthan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.obms.tourist"
+  },
+  {
+   "name": "SACHET",
+   "cat": "safety",
+   "pkg": "com.cdotindia.capsachet",
+   "note": "Offizielle Katastrophen und Wetterwarnungen",
+   "use": "ok",
+   "src": "https://sachet.ndma.gov.in/"
+  },
+  {
+   "name": "Damini",
+   "cat": "safety",
+   "pkg": "com.lightening.app.damini",
+   "note": "Blitzwarnung des indischen Wetterinstituts",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lightening.app.damini"
+  },
+  {
+   "name": "Air India",
+   "cat": "flights",
+   "pkg": "com.bets.airindia.ui",
+   "note": "Nationale Airline, Buchung und Check in",
+   "use": "ok",
+   "src": "https://www.airindia.com/"
+  },
+  {
+   "name": "IndiGo",
+   "cat": "flights",
+   "pkg": "in.goindigo.android",
+   "note": "Größte Airline Indiens",
+   "use": "ok",
+   "src": "https://www.goindigo.in/"
+  },
+  {
+   "name": "Air India Express",
+   "cat": "flights",
+   "pkg": "com.airindiaexpress.AIX",
+   "note": "Billigairline der Air India Gruppe",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.airindiaexpress.AIX"
+  },
+  {
+   "name": "Akasa Air",
+   "cat": "flights",
+   "pkg": "com.akasaair.ibe",
+   "note": "Indische Billigairline",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.akasaair.ibe"
+  },
+  {
+   "name": "BLR Airport",
+   "cat": "flights",
+   "pkg": "com.bial.edp",
+   "note": "Offizielle App des Flughafens Bengaluru",
+   "city": "Bengaluru",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bial.edp"
+  },
+  {
+   "name": "Adani OneApp",
+   "cat": "flights",
+   "pkg": "com.adanione.android",
+   "note": "App der Adani Flughäfen Mumbai, Ahmedabad und mehr",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.adanione.android"
+  },
+  {
+   "name": "MakeMyTrip",
+   "cat": "hotels",
+   "pkg": "com.makemytrip",
+   "note": "Führendes indisches Reiseportal",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.makemytrip"
+  },
+  {
+   "name": "Goibibo",
+   "cat": "hotels",
+   "pkg": "com.goibibo",
+   "note": "Hotels, Flüge und Züge in Indien",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.goibibo"
+  },
+  {
+   "name": "OYO",
+   "cat": "hotels",
+   "pkg": "com.oyo.consumer",
+   "note": "Günstige Hotels in ganz Indien",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.oyo.consumer"
+  },
+  {
+   "name": "Cleartrip",
+   "cat": "hotels",
+   "pkg": "com.cleartrip.android",
+   "note": "Hotels und Flüge buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.cleartrip.android"
+  },
+  {
+   "name": "Flipkart",
+   "cat": "shopping",
+   "pkg": "com.flipkart.android",
+   "note": "Größter indischer Onlinehändler",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.flipkart.android"
+  },
+  {
+   "name": "Amazon India",
+   "cat": "shopping",
+   "pkg": "in.amazon.mShop.android.shopping",
+   "note": "Onlinehandel mit schneller Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping"
+  },
+  {
+   "name": "DMart Ready",
+   "cat": "shopping",
+   "pkg": "in.dmart",
+   "note": "Supermarktkette DMart, online bestellen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=in.dmart"
   }
  ]
 }
