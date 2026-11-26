@@ -1,14 +1,10 @@
 {
- "vc": 62,
- "vn": "1.0.62",
+ "vc": 63,
+ "vn": "1.0.63",
  "changes": [
-  "⭐ Termine merken: Stern antippen, am Vortag kommt eine Erinnerung, dazu der Filter „Gemerkt“",
-  "📝 Fehlt ein Termin? Über „Termin vorschlagen“ kannst du ihn uns schicken",
-  "🎭 Neue Art „Karneval“ mit queeren Sitzungen und Bällen in Köln, Düsseldorf, Essen und Wien",
-  "📱 Neues Widget „Termine in deiner Nähe“ für den Startbildschirm",
-  "⌨️ Im Chat verdeckt die Tastatur das Eingabefeld nicht mehr"
+  "💻 Konto: Unter „Angemeldete Geräte“ siehst du, wo dein Konto angemeldet ist, und kannst fremde oder alte Geräte abmelden"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=805eead5bb8a17b8",
- "size": 3955489,
- "sha256": "805eead5bb8a17b887b383a79fc15817f480ed4cca662e6e7d3eef9d8ae152e7"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=0507608609dd236d",
+ "size": 3972585,
+ "sha256": "0507608609dd236d9d44001a00a649c9466b87e402d39d8593559daf111731bd"
 }
