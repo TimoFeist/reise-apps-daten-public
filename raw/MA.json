@@ -222,6 +222,146 @@
    "use": "no",
    "req": "Nur mit marokkanischer Nummer",
    "src": "https://play.google.com/store/apps/details?id=com.orange.orangemoney"
+  },
+  {
+   "name": "Heetch",
+   "cat": "taxi",
+   "pkg": "com.heetch",
+   "note": "Fahrdienst mit Petit Taxis in Casablanca und Rabat",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.heetch",
+   "src": "https://www.heetch.com/"
+  },
+  {
+   "name": "roby taxi",
+   "cat": "taxi",
+   "pkg": "com.robytechnologies.roby",
+   "note": "Marokkanische App für Petit Taxis",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.robytechnologies.roby",
+   "src": "https://play.google.com/store/apps/details?id=com.robytechnologies.roby"
+  },
+  {
+   "name": "Yassir",
+   "cat": "taxi",
+   "pkg": "com.yatechnologies.yassir_rider",
+   "note": "Fahrten und Lieferungen, in Marokko aktiv",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.yatechnologies.yassir_rider",
+   "src": "https://play.google.com/store/apps/details?id=com.yatechnologies.yassir_rider"
+  },
+  {
+   "name": "BALEÀRIA",
+   "cat": "rail",
+   "pkg": "com.mo2o.balearia",
+   "note": "Fähren Tarifa und Algeciras nach Tanger",
+   "city": "Tangier",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mo2o.balearia",
+   "src": "https://www.balearia.com/"
+  },
+  {
+   "name": "FRS Travel",
+   "cat": "rail",
+   "pkg": "world.frs.booking.android",
+   "note": "Schnellfähre Tarifa nach Tanger Ville",
+   "city": "Tangier",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=world.frs.booking.android",
+   "src": "https://www.frs.es/"
+  },
+  {
+   "name": "Bringo by Carrefour Maroc",
+   "cat": "delivery",
+   "pkg": "ro.ascendnet.bringo.ma",
+   "note": "Supermarkt-Lieferung von Carrefour",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.ascendnet.bringo.ma",
+   "src": "https://play.google.com/store/apps/details?id=ro.ascendnet.bringo.ma"
+  },
+  {
+   "name": "CASH PLUS MOBILE",
+   "cat": "payment",
+   "pkg": "com.cashplus.mobileapp",
+   "note": "Geldtransfer und Wallet, marokkanisch",
+   "use": "limited",
+   "req": "Marokkanische Nummer und Ausweis nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.cashplus.mobileapp",
+   "src": "https://play.google.com/store/apps/details?id=com.cashplus.mobileapp"
+  },
+  {
+   "name": "Barid Pay",
+   "cat": "payment",
+   "pkg": "ma.baridcash.saphir.baridpay",
+   "note": "Mobile Wallet der marokkanischen Post",
+   "use": "limited",
+   "req": "Marokkanische Nummer und Ausweis nötig",
+   "url": "https://play.google.com/store/apps/details?id=ma.baridcash.saphir.baridpay",
+   "src": "https://play.google.com/store/apps/details?id=ma.baridcash.saphir.baridpay"
+  },
+  {
+   "name": "Royal Air Maroc",
+   "cat": "flights",
+   "pkg": "com.royalairmaroc.app",
+   "note": "Nationale Fluglinie Marokkos",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.royalairmaroc.app",
+   "src": "https://www.royalairmaroc.com/"
+  },
+  {
+   "name": "Air Arabia",
+   "cat": "flights",
+   "pkg": "com.winit.airarabia",
+   "note": "Billigairline mit Basis in Casablanca und Fès",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.winit.airarabia",
+   "src": "https://play.google.com/store/apps/details?id=com.winit.airarabia"
+  },
+  {
+   "name": "ADM TRAFIC",
+   "cat": "maps",
+   "pkg": "com.mobiblanc.admtrafic",
+   "note": "Verkehrslage und Baustellen auf Autobahnen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mobiblanc.admtrafic",
+   "src": "https://www.adm.co.ma/"
+  },
+  {
+   "name": "Jawaz",
+   "cat": "misc",
+   "pkg": "ma.co.adm.jawaz.mobile",
+   "note": "Elektronische Maut der Autoroutes du Maroc",
+   "use": "limited",
+   "req": "Jawaz-Box nötig, eher für Mietwagen mit Box",
+   "url": "https://play.google.com/store/apps/details?id=ma.co.adm.jawaz.mobile",
+   "src": "https://www.adm.co.ma/"
+  },
+  {
+   "name": "Marjane",
+   "cat": "shopping",
+   "pkg": "com.marjane.app",
+   "note": "Größte Hypermarktkette Marokkos",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.marjane.app",
+   "src": "https://play.google.com/store/apps/details?id=com.marjane.app"
+  },
+  {
+   "name": "Carrefour Maroc",
+   "cat": "shopping",
+   "pkg": "com.labelvie.fid",
+   "note": "Angebote und Treuekarte von Carrefour Marokko",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.labelvie.fid",
+   "src": "https://play.google.com/store/apps/details?id=com.labelvie.fid"
+  },
+  {
+   "name": "JUMIA Maroc",
+   "cat": "shopping",
+   "pkg": "com.jumia.android",
+   "note": "Größter Onlinehändler in Marokko",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.jumia.android",
+   "src": "https://play.google.com/store/apps/details?id=com.jumia.android"
   }
  ],
  "fetched": "2026-11-23"

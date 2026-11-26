@@ -260,6 +260,189 @@
    "use": "no",
    "req": "Kolumbianischer Ausweis und Nummer nötig",
    "src": "https://play.google.com/store/apps/details?id=com.davivienda.daviplataapp"
+  },
+  {
+   "name": "Expreso Bolivariano",
+   "cat": "rail",
+   "pkg": "br.com.rjconsultores.expressoBolivariano",
+   "note": "Großes Fernbusunternehmen, Tickets kaufen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=br.com.rjconsultores.expressoBolivariano&hl=en&gl=CO",
+   "src": "https://www.bolivariano.com.co"
+  },
+  {
+   "name": "Expreso Brasilia",
+   "cat": "rail",
+   "pkg": "com.expresobrasilia.viajes",
+   "note": "Fernbusse an der Karibikküste und landesweit",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.expresobrasilia.viajes&hl=en&gl=CO",
+   "src": "https://www.expresobrasilia.com"
+  },
+  {
+   "name": "Copetran",
+   "cat": "rail",
+   "pkg": "co.com.copetran",
+   "note": "Fernbusse im Nordosten, Tickets per App",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=co.com.copetran&hl=en&gl=CO",
+   "src": "https://www.copetran.com.co"
+  },
+  {
+   "name": "Picap",
+   "cat": "taxi",
+   "pkg": "co.picap.passenger",
+   "note": "Mototaxi und Autofahrten, sehr verbreitet",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=co.picap.passenger&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=co.picap.passenger&hl=en&gl=CO"
+  },
+  {
+   "name": "Easy Taxi",
+   "cat": "taxi",
+   "pkg": "br.com.easytaxi",
+   "note": "Lizenzierte Taxis bestellen, gehört zu Cabify",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=br.com.easytaxi&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=br.com.easytaxi&hl=en&gl=CO"
+  },
+  {
+   "name": "Buen Taxi Santa Marta",
+   "cat": "taxi",
+   "pkg": "gov.co.santamarta.buentaxiapp",
+   "note": "Registrierte Taxis in Santa Marta, Stadt",
+   "city": "Santa Marta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=gov.co.santamarta.buentaxiapp&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=gov.co.santamarta.buentaxiapp&hl=en&gl=CO"
+  },
+  {
+   "name": "Indigo NEO",
+   "cat": "parking",
+   "pkg": "com.parkindigo.co",
+   "note": "Parkhäuser von Indigo in Kolumbien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.parkindigo.co&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=com.parkindigo.co&hl=en&gl=CO"
+  },
+  {
+   "name": "Medellín Travel",
+   "cat": "tourism",
+   "pkg": "com.bontris.spot",
+   "note": "Offizielle Tourismus-App von Medellín",
+   "city": "Medellin",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.bontris.spot&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=com.bontris.spot&hl=en&gl=CO"
+  },
+  {
+   "name": "Avianca",
+   "cat": "flights",
+   "pkg": "areamovil.aviancataca",
+   "note": "Nationale Fluggesellschaft Kolumbiens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=areamovil.aviancataca&hl=en&gl=CO",
+   "src": "https://www.avianca.com"
+  },
+  {
+   "name": "LATAM",
+   "cat": "flights",
+   "pkg": "com.latam.xp",
+   "note": "Viele Inlandsflüge in Kolumbien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.latam.xp&hl=en&gl=CO",
+   "src": "https://www.latamairlines.com"
+  },
+  {
+   "name": "Wingo",
+   "cat": "flights",
+   "pkg": "com.wingo.app",
+   "note": "Billigflieger für Inland und Karibik",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.wingo.app&hl=en&gl=CO",
+   "src": "https://www.wingo.com"
+  },
+  {
+   "name": "Aeropuerto El Dorado",
+   "cat": "flights",
+   "pkg": "com.plm.opain.eldorado",
+   "note": "Offizielle App des Flughafens Bogotá",
+   "city": "Bogota",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.plm.opain.eldorado&hl=en&gl=CO",
+   "src": "https://eldorado.aero"
+  },
+  {
+   "name": "Despegar",
+   "cat": "hotels",
+   "pkg": "com.gm.despegar",
+   "note": "Führendes Reiseportal Lateinamerikas",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gm.despegar&hl=en&gl=CO",
+   "src": "https://www.despegar.com.co"
+  },
+  {
+   "name": "Éxito",
+   "cat": "shopping",
+   "pkg": "com.exito.appcompania",
+   "note": "Größte Supermarktkette, auch Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.exito.appcompania&hl=en&gl=CO",
+   "src": "https://www.exito.com"
+  },
+  {
+   "name": "Olímpica",
+   "cat": "shopping",
+   "pkg": "io.cordova.myapp5c2f9d",
+   "note": "Supermärkte vor allem an der Karibikküste",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=io.cordova.myapp5c2f9d&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=io.cordova.myapp5c2f9d&hl=en&gl=CO"
+  },
+  {
+   "name": "Jumbo Colombia",
+   "cat": "shopping",
+   "pkg": "com.cencosud.co.clientes",
+   "note": "Supermarkt mit Lieferung nach Hause",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cencosud.co.clientes&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=com.cencosud.co.clientes&hl=en&gl=CO"
+  },
+  {
+   "name": "D1",
+   "cat": "shopping",
+   "pkg": "com.koba.d1",
+   "note": "Größter Discounter Kolumbiens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.koba.d1&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=com.koba.d1&hl=en&gl=CO"
+  },
+  {
+   "name": "Tiendas Ara",
+   "cat": "shopping",
+   "pkg": "com.jeronimomartins.ara",
+   "note": "Discounter mit Angeboten in der App",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.jeronimomartins.ara&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=com.jeronimomartins.ara&hl=en&gl=CO"
+  },
+  {
+   "name": "Falabella",
+   "cat": "shopping",
+   "pkg": "com.falabella.falabellaApp",
+   "note": "Kaufhaus und Onlineshop",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.falabella.falabellaApp&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=com.falabella.falabellaApp&hl=en&gl=CO"
+  },
+  {
+   "name": "Mercado Libre",
+   "cat": "shopping",
+   "pkg": "com.mercadolibre",
+   "note": "Größter Onlinemarktplatz",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mercadolibre&hl=en&gl=CO",
+   "src": "https://play.google.com/store/apps/details?id=com.mercadolibre&hl=en&gl=CO"
   }
  ],
  "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Akzeptanz ist vor allem auf dem Land gering; das Auswärtige Amt warnt vor Raubüberfällen nach Treffen über Dating-Apps.",

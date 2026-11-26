@@ -279,6 +279,297 @@
    "use": "no",
    "req": "Finnisches Konto und Nummer nötig",
    "src": "https://play.google.com/store/apps/details?id=fi.danskebank.mobilepay&hl=en"
+  },
+  {
+   "name": "Oulu Tickets",
+   "cat": "transit",
+   "pkg": "net.payiq.oulunjoukkoliikenne",
+   "note": "Bustickets für den Nahverkehr Oulu",
+   "city": "Oulu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.payiq.oulunjoukkoliikenne"
+  },
+  {
+   "name": "Vilkku",
+   "cat": "transit",
+   "pkg": "fi.vilkku.mobiili",
+   "note": "Bustickets für den Nahverkehr Kuopio",
+   "city": "Kuopio",
+   "use": "ok",
+   "src": "https://vilkku.kuopio.fi"
+  },
+  {
+   "name": "Jyväskylä Tickets",
+   "cat": "transit",
+   "pkg": "net.payiq.linkki",
+   "note": "Bustickets für Linkki in Jyväskylä",
+   "city": "Jyvaskyla",
+   "use": "ok",
+   "src": "https://linkki.jyvaskyla.fi"
+  },
+  {
+   "name": "Viking Line",
+   "cat": "rail",
+   "pkg": "com.vikingline.owapp",
+   "note": "Fähren nach Tallinn, Stockholm und Åland",
+   "use": "ok",
+   "src": "https://www.vikingline.fi"
+  },
+  {
+   "name": "Tallink Silja Line",
+   "cat": "rail",
+   "pkg": "com.tallink.mikiandroid",
+   "note": "Fähren nach Tallinn und Stockholm",
+   "use": "ok",
+   "src": "https://www.tallink.com"
+  },
+  {
+   "name": "Eckerö Line",
+   "cat": "rail",
+   "pkg": "com.digia.eckeroline",
+   "note": "Fähre Helsinki nach Tallinn",
+   "use": "ok",
+   "src": "https://www.eckeroline.fi"
+  },
+  {
+   "name": "Finnlines",
+   "cat": "rail",
+   "pkg": "fi.finnlines",
+   "note": "Fähren nach Travemünde und Schweden",
+   "use": "ok",
+   "src": "https://www.finnlines.com"
+  },
+  {
+   "name": "OnniBus",
+   "cat": "rail",
+   "pkg": "com.onnibus",
+   "note": "Günstige Fernbusse in Finnland",
+   "use": "ok",
+   "src": "https://www.onnibus.com"
+  },
+  {
+   "name": "Taksi Helsinki",
+   "cat": "taxi",
+   "pkg": "fi.taksihelsinki.taksimobipro",
+   "note": "Größte Taxizentrale in Helsinki",
+   "city": "Helsinki",
+   "use": "ok",
+   "src": "https://www.taksihelsinki.fi"
+  },
+  {
+   "name": "Menevä",
+   "cat": "taxi",
+   "pkg": "uk.riide.meneva",
+   "note": "Taxi in ganz Finnland buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=uk.riide.meneva"
+  },
+  {
+   "name": "02 Taksi",
+   "cat": "taxi",
+   "pkg": "com.palvelut020202.taksi02",
+   "note": "Taxi über Valopilkku in vielen Städten",
+   "use": "ok",
+   "src": "https://www.02taksi.fi"
+  },
+  {
+   "name": "FixuTaxi",
+   "cat": "taxi",
+   "pkg": "com.cabonline.fixutaxi",
+   "note": "Festpreis Taxi in Finnland",
+   "use": "ok",
+   "src": "https://www.fixutaxi.fi"
+  },
+  {
+   "name": "Taksi Tampere",
+   "cat": "taxi",
+   "pkg": "fi.taksitampere.mobile",
+   "note": "Taxizentrale in Tampere",
+   "city": "Tampere",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=fi.taksitampere.mobile"
+  },
+  {
+   "name": "OTAXI",
+   "cat": "taxi",
+   "pkg": "digital.dispatch.mobilebooker.OTAXIOulu",
+   "note": "Taxizentrale in Oulu",
+   "city": "Oulu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=digital.dispatch.mobilebooker.OTAXIOulu"
+  },
+  {
+   "name": "Taksi Rovaniemi",
+   "cat": "taxi",
+   "pkg": "fi.semel.rovaniemenaluetaksi",
+   "note": "Taxizentrale in Rovaniemi",
+   "city": "Rovaniemi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=fi.semel.rovaniemenaluetaksi"
+  },
+  {
+   "name": "JYTAKSI",
+   "cat": "taxi",
+   "pkg": "digital.dispatch.mobilebooker.JYTAKSI",
+   "note": "Taxizentrale in Jyväskylä",
+   "city": "Jyvaskyla",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=digital.dispatch.mobilebooker.JYTAKSI"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing",
+   "use": "ok",
+   "src": "https://www.sixt.fi"
+  },
+  {
+   "name": "ParkMan",
+   "cat": "parking",
+   "pkg": "com.neligrate.parkman",
+   "note": "Parken in vielen Städten bezahlen",
+   "use": "ok",
+   "src": "https://parkman.fi"
+  },
+  {
+   "name": "eParking",
+   "cat": "parking",
+   "pkg": "fi.igl.eparking",
+   "note": "Straßenparken per App bezahlen",
+   "use": "ok",
+   "src": "https://www.eparking.fi"
+  },
+  {
+   "name": "S-kaupat",
+   "cat": "delivery",
+   "pkg": "fi.sok.skaupat",
+   "note": "Lebensmittel bestellen, Lieferung oder Abholung",
+   "use": "ok",
+   "src": "https://www.s-kaupat.fi"
+  },
+  {
+   "name": "ResQ Club",
+   "cat": "delivery",
+   "pkg": "club.resq.android",
+   "note": "Übrig gebliebenes Essen günstig abholen",
+   "use": "ok",
+   "src": "https://www.resq-club.com"
+  },
+  {
+   "name": "Museokortti",
+   "cat": "tourism",
+   "pkg": "com.fmacreations.consumermobile.prod",
+   "note": "Museumskarte für über 350 Museen",
+   "use": "ok",
+   "src": "https://museot.fi"
+  },
+  {
+   "name": "Tampere.Finland",
+   "cat": "tourism",
+   "pkg": "fi.visittampere.tamperefinland",
+   "note": "Offizielle Tourismus-App von Tampere",
+   "city": "Tampere",
+   "use": "ok",
+   "src": "https://visittampere.fi"
+  },
+  {
+   "name": "Levi Resort",
+   "cat": "tourism",
+   "pkg": "com.app.p8508EJ",
+   "note": "Skigebiet Levi, Lifte und Pisten",
+   "city": "Levi",
+   "use": "ok",
+   "src": "https://www.levi.fi"
+  },
+  {
+   "name": "RukaPyhä",
+   "cat": "tourism",
+   "pkg": "com.rukapyha.app",
+   "note": "Skigebiete Ruka und Pyhä",
+   "city": "Ruka",
+   "use": "ok",
+   "src": "https://www.ruka.fi"
+  },
+  {
+   "name": "Foreca",
+   "cat": "safety",
+   "pkg": "com.foreca.android.weather",
+   "note": "Finnischer Wetterdienst mit Radar",
+   "use": "ok",
+   "src": "https://www.foreca.fi"
+  },
+  {
+   "name": "IS Supersää",
+   "cat": "safety",
+   "pkg": "fi.supersaa",
+   "note": "Wetter und Warnungen von Ilta-Sanomat",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=fi.supersaa"
+  },
+  {
+   "name": "Fintraffic Mobiili",
+   "cat": "maps",
+   "pkg": "fi.fintraffic.fintraffic_mobiili",
+   "note": "Verkehrslage und Straßenwetter",
+   "use": "ok",
+   "src": "https://www.fintraffic.fi"
+  },
+  {
+   "name": "Maastokartat",
+   "cat": "maps",
+   "pkg": "com.swampsend.maastokartat",
+   "note": "Topografische Offlinekarten Finnland",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.swampsend.maastokartat"
+  },
+  {
+   "name": "Karttaselain",
+   "cat": "maps",
+   "pkg": "com.accelbit.karttaselain",
+   "note": "Topokarten der Landesvermessung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.accelbit.karttaselain"
+  },
+  {
+   "name": "Finnair",
+   "cat": "flights",
+   "pkg": "com.finnair",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.finnair.com"
+  },
+  {
+   "name": "Scandic Hotels",
+   "cat": "hotels",
+   "pkg": "com.scandichotels.app",
+   "note": "Größte Hotelkette im Norden",
+   "use": "ok",
+   "src": "https://www.scandichotels.fi"
+  },
+  {
+   "name": "K-Ruoka",
+   "cat": "shopping",
+   "pkg": "fi.ruokakesko.k_ruoka",
+   "note": "Supermärkte K-Citymarket und K-Market",
+   "use": "ok",
+   "src": "https://www.k-ruoka.fi"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialen von Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.fi"
+  },
+  {
+   "name": "Alko",
+   "cat": "shopping",
+   "pkg": "fi.alko.mobile",
+   "note": "Staatlicher Alkoholladen, Filialen und Sortiment",
+   "use": "ok",
+   "src": "https://www.alko.fi"
   }
  ],
  "replace": [

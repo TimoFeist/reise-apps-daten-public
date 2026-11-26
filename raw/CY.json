@@ -254,6 +254,47 @@
    "note": "Offizielle App, auch Überlandbusse mit Echtzeit",
    "use": "ok",
    "src": "https://intercity-buses.com/en/motion-app/"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen, Stationen an beiden Flughäfen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sixt.reservation"
+  },
+  {
+   "name": "Alphamega",
+   "cat": "shopping",
+   "pkg": "cy.com.alphamega.loyalty",
+   "note": "Große zyprische Supermarktkette, Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=cy.com.alphamega.loyalty"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Angebote bei Lidl Zypern",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus"
+  },
+  {
+   "name": "Cyprus Airways",
+   "cat": "flights",
+   "pkg": "com.cyprusairways.www",
+   "note": "Nationale Airline Zyperns, Buchung und Checkin",
+   "use": "ok",
+   "src": "https://www.cyprusairways.com"
+  },
+  {
+   "name": "Pafos Unesco Park",
+   "cat": "tourism",
+   "pkg": "com.unesco.pafos",
+   "note": "Infos zu den Ausgrabungen in Paphos",
+   "city": "Paphos",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.unesco.pafos"
   }
  ],
  "replace": [

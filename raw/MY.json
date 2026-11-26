@@ -1,303 +1,592 @@
 {
-"src": "https://www.bento.travel/malaysia",
-"fetched": "2026-11-18",
-"updated": "Last updated: August 2026",
-"note": "Deutsche bis 90 Tage visumfrei, MDAC bis 3 Tage vorher online ausfüllen. Für Bahn und Bus eine physische Touch 'n Go Karte nutzen.",
-"lgbtq_note": "Einvernehmliche homosexuelle Handlungen können mit bis zu 20 Jahren Haft bestraft werden, seit 2023 sind auch LGBTIQ-Symbole wie Regenbogen-Accessoires verboten.",
-"lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malaysia-node/malaysiasicherheit-223616",
-"discontinued": [
-{
-"name": "SOCAR",
-"pkg": "",
-"src": "https://soyacincau.com/2026/08/15/socar-malaysia-on-demand-car-sharing-shutdown-31-august-2026/"
-}
-],
-"apps": [
-{
-"name": "MyNIISe",
-"cat": "entry",
-"pkg": "",
-"ess": false,
-"note": "Offizielle Einwanderungs-App, u. a. mit MDAC-Funktion",
-"city": "",
-"use": "limited",
-"req": "Nutzung durch Touristen nicht bestätigt, MDAC sonst per Webformular",
-"src": "https://www.businesstoday.com.my/2025/12/24/top-features-of-the-new-immigration-application-from-the-home-ministry/"
-},
-{
-"name": "Grab",
-"cat": "taxi",
-"pkg": "com.grabtaxi.passenger",
-"ess": true,
-"note": "Wichtigster Fahrdienst, Zahlung bar oder per Karte",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.bento.travel/malaysia/ride-hailing"
-},
-{
-"name": "AirAsia MOVE",
-"cat": "taxi",
-"pkg": "com.airasia.mobile",
-"ess": false,
-"note": "Zweites Angebot für Fahrten und Flughafentransfers",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.bento.travel/malaysia/ride-hailing"
-},
-{
-"name": "Bolt",
-"cat": "taxi",
-"pkg": "ee.mtakso.client",
-"ess": false,
-"note": "Lizenzierter Fahrdienst zum Preisvergleich",
-"city": "Kuala Lumpur",
-"use": "ok",
-"req": "",
-"src": "https://www.bento.travel/malaysia/ride-hailing"
-},
-{
-"name": "foodpanda",
-"cat": "delivery",
-"pkg": "com.global.foodpanda.android",
-"ess": false,
-"note": "Zweite große Lieferplattform neben GrabFood",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.bento.travel/malaysia/food-delivery"
-},
-{
-"name": "Shopee",
-"cat": "delivery",
-"pkg": "",
-"ess": false,
-"note": "Enthält ShopeeFood, für Kurzurlauber eher umständlich",
-"city": "",
-"use": "limited",
-"req": "Einrichtung und lokale Zahlungswege aufwendig",
-"src": "https://www.bento.travel/malaysia/food-delivery"
-},
-{
-"name": "Touch 'n Go eWallet",
-"cat": "payment",
-"pkg": "my.com.tngdigital.ewallet",
-"ess": false,
-"note": "Verbreitete QR-Wallet, ersetzt nicht die TnG-Karte",
-"city": "",
-"use": "no",
-"req": "Malaysische oder singapurische Nummer nötig, Deutschland nicht freigeschaltet",
-"src": "https://www.bento.travel/malaysia/payments"
-},
-{
-"name": "Boost",
-"cat": "payment",
-"pkg": "",
-"ess": false,
-"note": "Lokale E-Wallet für QR-Zahlungen und Parken",
-"city": "",
-"use": "no",
-"req": "Malaysische Handynummer nötig",
-"src": "https://ringgitplus.com/en/e-wallet/Boost-Wallet.html"
-},
-{
-"name": "MAE by Maybank2u",
-"cat": "payment",
-"pkg": "",
-"ess": false,
-"note": "Digitales Konto und Wallet der Maybank",
-"city": "",
-"use": "limited",
-"req": "Laut FAQ auch für Ausländer, für Touristen nicht bestätigt",
-"src": "https://www.maybank2u.com.my/iwov-resources/pdf/personal/digital_banking/MAE_FAQ.pdf"
-},
-{
-"name": "MyRapid PULSE",
-"cat": "transit",
-"pkg": "com.prasarana.pulse.v4",
-"ess": true,
-"note": "Offizielle Routenplanung für Rapid KL, Penang und Kuantan",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://myrapid.com.my/pulse/mobile-app"
-},
-{
-"name": "GoKL",
-"cat": "transit",
-"pkg": "",
-"ess": false,
-"note": "Echtzeit für die DBKL-Stadtbusse, Ausländer zahlen RM1",
-"city": "Kuala Lumpur",
-"use": "ok",
-"req": "",
-"src": "https://klccc.dbkl.gov.my/gokl-2/"
-},
-{
-"name": "Rapid On-Demand",
-"cat": "transit",
-"pkg": "",
-"ess": false,
-"note": "Rufbus von Rapid Penang mit Live-Ortung",
-"city": "George Town",
-"use": "ok",
-"req": "",
-"src": "https://www.malaymail.com/news/malaysia/2025/11/10/rapid-penang-introduces-rapid-on-demand-app-to-replace-kummute-from-nov-15/197842"
-},
-{
-"name": "MyJohor Transport",
-"cat": "transit",
-"pkg": "com.paj",
-"ess": false,
-"note": "Offizielle App für Busse in Johor mit QR-Einstieg",
-"city": "Johor Bahru",
-"use": "limited",
-"req": "Registrierung laut Nutzerbewertungen oft fehlerhaft",
-"src": "https://play.google.com/store/apps/details?id=com.paj"
-},
-{
-"name": "KITS Style",
-"cat": "rail",
-"pkg": "mpay.apps.kits.superapp",
-"ess": true,
-"note": "Offizielle KTMB-App für ETS, Intercity und Komuter",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://appgoblin.info/apps/mpay.apps.kits.superapp"
-},
-{
-"name": "GoCar",
-"cat": "carshare",
-"pkg": "",
-"ess": false,
-"note": "Carsharing, Nachfolger für ehemalige SOCAR-Kunden",
-"city": "",
-"use": "limited",
-"req": "Reisepass, Führerschein oder IDP und Selfie-Prüfung nötig",
-"src": "https://discover.gocar.my/2024/11/03/can-i-use-gocar-if-im-a-foreigner-absolutely/"
-},
-{
-"name": "Beam",
-"cat": "micro",
-"pkg": "com.escooterapp",
-"ess": false,
-"note": "Leih-E-Scooter, E-Bikes und E-Mopeds in vielen Städten",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://ridebeam.com/my"
-},
-{
-"name": "EZ KL Smart Park",
-"cat": "parking",
-"pkg": "",
-"ess": false,
-"note": "Straßenparken in KL zahlen, Kartenaufladung möglich",
-"city": "Kuala Lumpur",
-"use": "ok",
-"req": "",
-"src": "https://paultan.org/2025/01/03/dbkl-no-longer-accepting-jomparking-for-payment-in-2025-six-other-apps-retained-for-public-parking/"
-},
-{
-"name": "Flexi Parking",
-"cat": "parking",
-"pkg": "",
-"ess": false,
-"note": "Parken bei vielen Kommunen, u. a. KL und Selangor",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.motorist.my/article/2567/the-motorist-guide-to-useful-parking-apps-for-malaysia-travels"
-},
-{
-"name": "Penang Smart Parking",
-"cat": "parking",
-"pkg": "",
-"ess": false,
-"note": "Offizielle Park-App der Stadträte MBPP und MBSP",
-"city": "George Town",
-"use": "ok",
-"req": "",
-"src": "https://www.thestar.com.my/news/nation/2025/01/03/free-parking-in-penang-until-app-outage-is-fixed-says-state-govt"
-},
-{
-"name": "Penang Hill Hiking Trails",
-"cat": "tourism",
-"pkg": "",
-"ess": false,
-"note": "Wanderwege am Penang Hill mit Navigation und Wetter",
-"city": "George Town",
-"use": "ok",
-"req": "",
-"src": "https://thestar.com.my/metro/metro-news/2025/01/16/app-offers-happy-trails-for-penang-hill-hikers"
-},
-{
-"name": "SaveME999",
-"cat": "safety",
-"pkg": "my.gov.onegovappstore.saveme999",
-"ess": false,
-"note": "Staatliche Notruf-App, Anruf unter 999 geht weiter",
-"city": "",
-"use": "no",
-"req": "Registrierung verlangt Foto der malaysischen MyKad",
-"src": "https://says.com/my/tech/how-set-up-saveme999-latest-app-report-emergencies-malaysia"
-},
-{
-"name": "MyDIMS",
-"cat": "safety",
-"pkg": "",
-"ess": false,
-"note": "Katastrophenwarnungen der NADMA mit Evakuierungskarte",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.malaymail.com/amp/news/malaysia/2026/04/24/nadma-launches-mydims-app-for-realtime-disaster-alerts-and-reporting/217562"
-},
-{
-"name": "Grindr",
-"cat": "lgbtq",
-"pkg": "",
-"ess": false,
-"note": "Weltweite Dating-App, in Malaysia blockiert",
-"city": "",
-"use": "no",
-"req": "Seit Februar 2026 von der MCMC gesperrt",
-"src": "https://www.therakyatpost.com/news/malaysia/2026/02/26/malaysia-blocks-grindr-and-blued-dating-apps/"
-},
-{
-"name": "Blued",
-"cat": "lgbtq",
-"pkg": "",
-"ess": false,
-"note": "Dating-App für Männer, in Malaysia blockiert",
-"city": "",
-"use": "no",
-"req": "Seit Februar 2026 von der MCMC gesperrt",
-"src": "https://www.therakyatpost.com/news/malaysia/2026/02/26/malaysia-blocks-grindr-and-blued-dating-apps/"
-},
-{
-"name": "Waze",
-"cat": "maps",
-"pkg": "com.waze",
-"ess": false,
-"note": "Fahrer-App für Verkehr, Gefahren und Umleitungen",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.bento.travel/malaysia"
-},
-{
-"name": "redBus",
-"cat": "rail",
-"pkg": "in.redbus.android",
-"ess": false,
-"note": "Vermittler für viele Fernbusse und ausgewählte Fähren",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.bento.travel/malaysia"
-}
-]
+ "src": "https://www.bento.travel/malaysia",
+ "fetched": "2026-11-18",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche bis 90 Tage visumfrei, MDAC bis 3 Tage vorher online ausfüllen. Für Bahn und Bus eine physische Touch 'n Go Karte nutzen.",
+ "lgbtq_note": "Einvernehmliche homosexuelle Handlungen können mit bis zu 20 Jahren Haft bestraft werden, seit 2023 sind auch LGBTIQ-Symbole wie Regenbogen-Accessoires verboten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malaysia-node/malaysiasicherheit-223616",
+ "discontinued": [
+  {
+   "name": "SOCAR",
+   "pkg": "",
+   "src": "https://soyacincau.com/2026/08/15/socar-malaysia-on-demand-car-sharing-shutdown-31-august-2026/"
+  }
+ ],
+ "apps": [
+  {
+   "name": "MyNIISe",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Einwanderungs-App, u. a. mit MDAC-Funktion",
+   "city": "",
+   "use": "limited",
+   "req": "Nutzung durch Touristen nicht bestätigt, MDAC sonst per Webformular",
+   "src": "https://www.businesstoday.com.my/2025/12/24/top-features-of-the-new-immigration-application-from-the-home-ministry/"
+  },
+  {
+   "name": "Grab",
+   "cat": "taxi",
+   "pkg": "com.grabtaxi.passenger",
+   "ess": true,
+   "note": "Wichtigster Fahrdienst, Zahlung bar oder per Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/malaysia/ride-hailing"
+  },
+  {
+   "name": "AirAsia MOVE",
+   "cat": "taxi",
+   "pkg": "com.airasia.mobile",
+   "ess": false,
+   "note": "Zweites Angebot für Fahrten und Flughafentransfers",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/malaysia/ride-hailing"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Lizenzierter Fahrdienst zum Preisvergleich",
+   "city": "Kuala Lumpur",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/malaysia/ride-hailing"
+  },
+  {
+   "name": "foodpanda",
+   "cat": "delivery",
+   "pkg": "com.global.foodpanda.android",
+   "ess": false,
+   "note": "Zweite große Lieferplattform neben GrabFood",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/malaysia/food-delivery"
+  },
+  {
+   "name": "Shopee",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Enthält ShopeeFood, für Kurzurlauber eher umständlich",
+   "city": "",
+   "use": "limited",
+   "req": "Einrichtung und lokale Zahlungswege aufwendig",
+   "src": "https://www.bento.travel/malaysia/food-delivery"
+  },
+  {
+   "name": "Touch 'n Go eWallet",
+   "cat": "payment",
+   "pkg": "my.com.tngdigital.ewallet",
+   "ess": false,
+   "note": "Verbreitete QR-Wallet, ersetzt nicht die TnG-Karte",
+   "city": "",
+   "use": "no",
+   "req": "Malaysische oder singapurische Nummer nötig, Deutschland nicht freigeschaltet",
+   "src": "https://www.bento.travel/malaysia/payments"
+  },
+  {
+   "name": "Boost",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale E-Wallet für QR-Zahlungen und Parken",
+   "city": "",
+   "use": "no",
+   "req": "Malaysische Handynummer nötig",
+   "src": "https://ringgitplus.com/en/e-wallet/Boost-Wallet.html"
+  },
+  {
+   "name": "MAE by Maybank2u",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Digitales Konto und Wallet der Maybank",
+   "city": "",
+   "use": "limited",
+   "req": "Laut FAQ auch für Ausländer, für Touristen nicht bestätigt",
+   "src": "https://www.maybank2u.com.my/iwov-resources/pdf/personal/digital_banking/MAE_FAQ.pdf"
+  },
+  {
+   "name": "MyRapid PULSE",
+   "cat": "transit",
+   "pkg": "com.prasarana.pulse.v4",
+   "ess": true,
+   "note": "Offizielle Routenplanung für Rapid KL, Penang und Kuantan",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://myrapid.com.my/pulse/mobile-app"
+  },
+  {
+   "name": "GoKL",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Echtzeit für die DBKL-Stadtbusse, Ausländer zahlen RM1",
+   "city": "Kuala Lumpur",
+   "use": "ok",
+   "req": "",
+   "src": "https://klccc.dbkl.gov.my/gokl-2/"
+  },
+  {
+   "name": "Rapid On-Demand",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Rufbus von Rapid Penang mit Live-Ortung",
+   "city": "George Town",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.malaymail.com/news/malaysia/2025/11/10/rapid-penang-introduces-rapid-on-demand-app-to-replace-kummute-from-nov-15/197842"
+  },
+  {
+   "name": "MyJohor Transport",
+   "cat": "transit",
+   "pkg": "com.paj",
+   "ess": false,
+   "note": "Offizielle App für Busse in Johor mit QR-Einstieg",
+   "city": "Johor Bahru",
+   "use": "limited",
+   "req": "Registrierung laut Nutzerbewertungen oft fehlerhaft",
+   "src": "https://play.google.com/store/apps/details?id=com.paj"
+  },
+  {
+   "name": "KITS Style",
+   "cat": "rail",
+   "pkg": "mpay.apps.kits.superapp",
+   "ess": true,
+   "note": "Offizielle KTMB-App für ETS, Intercity und Komuter",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/mpay.apps.kits.superapp"
+  },
+  {
+   "name": "GoCar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing, Nachfolger für ehemalige SOCAR-Kunden",
+   "city": "",
+   "use": "limited",
+   "req": "Reisepass, Führerschein oder IDP und Selfie-Prüfung nötig",
+   "src": "https://discover.gocar.my/2024/11/03/can-i-use-gocar-if-im-a-foreigner-absolutely/"
+  },
+  {
+   "name": "Beam",
+   "cat": "micro",
+   "pkg": "com.escooterapp",
+   "ess": false,
+   "note": "Leih-E-Scooter, E-Bikes und E-Mopeds in vielen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://ridebeam.com/my"
+  },
+  {
+   "name": "EZ KL Smart Park",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Straßenparken in KL zahlen, Kartenaufladung möglich",
+   "city": "Kuala Lumpur",
+   "use": "ok",
+   "req": "",
+   "src": "https://paultan.org/2025/01/03/dbkl-no-longer-accepting-jomparking-for-payment-in-2025-six-other-apps-retained-for-public-parking/"
+  },
+  {
+   "name": "Flexi Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parken bei vielen Kommunen, u. a. KL und Selangor",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.motorist.my/article/2567/the-motorist-guide-to-useful-parking-apps-for-malaysia-travels"
+  },
+  {
+   "name": "Penang Smart Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Park-App der Stadträte MBPP und MBSP",
+   "city": "George Town",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.thestar.com.my/news/nation/2025/01/03/free-parking-in-penang-until-app-outage-is-fixed-says-state-govt"
+  },
+  {
+   "name": "Penang Hill Hiking Trails",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Wanderwege am Penang Hill mit Navigation und Wetter",
+   "city": "George Town",
+   "use": "ok",
+   "req": "",
+   "src": "https://thestar.com.my/metro/metro-news/2025/01/16/app-offers-happy-trails-for-penang-hill-hikers"
+  },
+  {
+   "name": "SaveME999",
+   "cat": "safety",
+   "pkg": "my.gov.onegovappstore.saveme999",
+   "ess": false,
+   "note": "Staatliche Notruf-App, Anruf unter 999 geht weiter",
+   "city": "",
+   "use": "no",
+   "req": "Registrierung verlangt Foto der malaysischen MyKad",
+   "src": "https://says.com/my/tech/how-set-up-saveme999-latest-app-report-emergencies-malaysia"
+  },
+  {
+   "name": "MyDIMS",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Katastrophenwarnungen der NADMA mit Evakuierungskarte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.malaymail.com/amp/news/malaysia/2026/04/24/nadma-launches-mydims-app-for-realtime-disaster-alerts-and-reporting/217562"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in Malaysia blockiert",
+   "city": "",
+   "use": "no",
+   "req": "Seit Februar 2026 von der MCMC gesperrt",
+   "src": "https://www.therakyatpost.com/news/malaysia/2026/02/26/malaysia-blocks-grindr-and-blued-dating-apps/"
+  },
+  {
+   "name": "Blued",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App für Männer, in Malaysia blockiert",
+   "city": "",
+   "use": "no",
+   "req": "Seit Februar 2026 von der MCMC gesperrt",
+   "src": "https://www.therakyatpost.com/news/malaysia/2026/02/26/malaysia-blocks-grindr-and-blued-dating-apps/"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Fahrer-App für Verkehr, Gefahren und Umleitungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/malaysia"
+  },
+  {
+   "name": "redBus",
+   "cat": "rail",
+   "pkg": "in.redbus.android",
+   "ess": false,
+   "note": "Vermittler für viele Fernbusse und ausgewählte Fähren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/malaysia"
+  },
+  {
+   "name": "Bas.my Kuching",
+   "cat": "transit",
+   "pkg": "bsmart.technology.journery.planner.biaramas",
+   "note": "Stadtbusse Bas.my in Kuching mit Live Ortung",
+   "city": "Kuching",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bsmart.technology.journery.planner.biaramas&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=bsmart.technology.journery.planner.biaramas&hl=en&gl=MY"
+  },
+  {
+   "name": "Kuching Metro",
+   "cat": "transit",
+   "pkg": "com.kuchingmetro.my",
+   "note": "Neue Schnellbuslinien ART in Kuching",
+   "city": "Kuching",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.kuchingmetro.my&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.kuchingmetro.my&hl=en&gl=MY"
+  },
+  {
+   "name": "KTMB Mobile",
+   "cat": "rail",
+   "pkg": "com.ktmb.user.mobile",
+   "note": "Bahntickets der staatlichen KTM, ETS Züge",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ktmb.user.mobile&hl=en&gl=MY",
+   "src": "https://www.ktmb.com.my"
+  },
+  {
+   "name": "Easybook",
+   "cat": "rail",
+   "pkg": "easiphone.easibookbustickets",
+   "note": "Bus und Fähre in Malaysia und Singapur",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=easiphone.easibookbustickets&hl=en&gl=MY",
+   "src": "https://www.easybook.com"
+  },
+  {
+   "name": "BusOnlineTicket",
+   "cat": "rail",
+   "pkg": "com.busonlineticketmy.app",
+   "note": "Fernbusse, Fähren und Züge buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.busonlineticketmy.app&hl=en&gl=MY",
+   "src": "https://www.busonlineticket.com"
+  },
+  {
+   "name": "Maxim",
+   "cat": "taxi",
+   "pkg": "com.taxsee.taxsee",
+   "note": "Günstiger Fahrdienst, auch in Sabah, Sarawak",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.taxsee.taxsee&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.taxsee.taxsee&hl=en&gl=MY"
+  },
+  {
+   "name": "TREVO",
+   "cat": "carshare",
+   "pkg": "my.trevo.trevoapp",
+   "note": "Carsharing von privaten Autos per App",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.trevo.trevoapp&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.trevo.trevoapp&hl=en&gl=MY"
+  },
+  {
+   "name": "SOCAR",
+   "cat": "carshare",
+   "pkg": "my.socar.flex",
+   "note": "Carsharing mit Autos an vielen Stationen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.socar.flex&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.socar.flex&hl=en&gl=MY"
+  },
+  {
+   "name": "Smart Selangor Parking",
+   "cat": "parking",
+   "pkg": "my.com.lits.smartselangorparking",
+   "note": "Straßenparken in Selangor zahlen",
+   "city": "Kuala Lumpur",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.com.lits.smartselangorparking&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.com.lits.smartselangorparking&hl=en&gl=MY"
+  },
+  {
+   "name": "JomParking",
+   "cat": "parking",
+   "pkg": "com.appcable.jomparking.app",
+   "note": "Straßenparken in vielen Gemeinden zahlen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.appcable.jomparking.app&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.appcable.jomparking.app&hl=en&gl=MY"
+  },
+  {
+   "name": "Melaka Smart Parking",
+   "cat": "parking",
+   "pkg": "my.com.aimforce.smartparking.melaka",
+   "note": "Parkgebühren in Melaka per App",
+   "city": "Malacca",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.com.aimforce.smartparking.melaka&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.com.aimforce.smartparking.melaka&hl=en&gl=MY"
+  },
+  {
+   "name": "Sabah Smart Parking",
+   "cat": "parking",
+   "pkg": "my.com.sabahsmartparking.sabahsmartparking",
+   "note": "Parken in Kota Kinabalu, Stadtwerke DBKK",
+   "city": "Kota Kinabalu",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.com.sabahsmartparking.sabahsmartparking&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.com.sabahsmartparking.sabahsmartparking&hl=en&gl=MY"
+  },
+  {
+   "name": "Park@Perak",
+   "cat": "parking",
+   "pkg": "my.gov.onegovappstore.parkatperak",
+   "note": "Parkgebühren in Perak und Ipoh zahlen",
+   "city": "Ipoh",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.parkatperak&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.gov.onegovappstore.parkatperak&hl=en&gl=MY"
+  },
+  {
+   "name": "Parkmax @ Johor",
+   "cat": "parking",
+   "pkg": "my.com.southmax.parkmax",
+   "note": "Parken in Johor zahlen",
+   "city": "Johor Bahru",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.com.southmax.parkmax&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.com.southmax.parkmax&hl=en&gl=MY"
+  },
+  {
+   "name": "Malaysia Truly Asia",
+   "cat": "tourism",
+   "pkg": "my.com.itmax.motac",
+   "note": "App des Tourismusministeriums Malaysia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.com.itmax.motac&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.com.itmax.motac&hl=en&gl=MY"
+  },
+  {
+   "name": "Penang Hill Mobile Guide",
+   "cat": "tourism",
+   "pkg": "my.gov.penanghill.app",
+   "note": "Offizieller Führer zum Penang Hill",
+   "city": "George Town",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.gov.penanghill.app&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.gov.penanghill.app&hl=en&gl=MY"
+  },
+  {
+   "name": "Cuti Cuti Langkawi",
+   "cat": "tourism",
+   "pkg": "com.cuticutilangkawi.ccl",
+   "note": "Fähren, Touren und Mietwagen auf Langkawi",
+   "city": "Langkawi",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cuticutilangkawi.ccl&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.cuticutilangkawi.ccl&hl=en&gl=MY"
+  },
+  {
+   "name": "myCuaca",
+   "cat": "safety",
+   "pkg": "my.gov.met.mycuaca",
+   "note": "Wetter und Warnungen vom Wetterdienst MET",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.gov.met.mycuaca&hl=en&gl=MY",
+   "src": "https://www.met.gov.my"
+  },
+  {
+   "name": "Malaysia Airlines",
+   "cat": "flights",
+   "pkg": "aero.sita.lab.resmobileweb.android.mh",
+   "note": "Nationale Fluggesellschaft Malaysias",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=aero.sita.lab.resmobileweb.android.mh&hl=en&gl=MY",
+   "src": "https://www.malaysiaairlines.com"
+  },
+  {
+   "name": "Batik Air",
+   "cat": "flights",
+   "pkg": "com.goquo.ig.app",
+   "note": "Fluggesellschaft mit vielen Inlandsflügen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.goquo.ig.app&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.goquo.ig.app&hl=en&gl=MY"
+  },
+  {
+   "name": "Firefly",
+   "cat": "flights",
+   "pkg": "com.metech.firefly",
+   "note": "Regionalflüge, z. B. Penang und Borneo",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.metech.firefly&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.metech.firefly&hl=en&gl=MY"
+  },
+  {
+   "name": "MYairports",
+   "cat": "flights",
+   "pkg": "klia.mahb.ios",
+   "note": "Flughäfen von Malaysia Airports, KLIA",
+   "city": "Kuala Lumpur",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=klia.mahb.ios&hl=en&gl=MY",
+   "src": "https://www.malaysiaairports.com.my"
+  },
+  {
+   "name": "Agoda",
+   "cat": "hotels",
+   "pkg": "com.agoda.mobile.consumer",
+   "note": "In Südostasien führend für Hotels",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer&hl=en&gl=MY"
+  },
+  {
+   "name": "Traveloka",
+   "cat": "hotels",
+   "pkg": "com.traveloka.android",
+   "note": "Hotels, Flüge und Aktivitäten in Asien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.traveloka.android&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.traveloka.android&hl=en&gl=MY"
+  },
+  {
+   "name": "Trip.com",
+   "cat": "hotels",
+   "pkg": "ctrip.english",
+   "note": "Hotels und Flüge in Asien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ctrip.english&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=ctrip.english&hl=en&gl=MY"
+  },
+  {
+   "name": "Lotus's",
+   "cat": "shopping",
+   "pkg": "com.lotuss.oneapp.my",
+   "note": "Hypermärkte mit Lieferung und Angeboten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lotuss.oneapp.my&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.lotuss.oneapp.my&hl=en&gl=MY"
+  },
+  {
+   "name": "myAEON2go",
+   "cat": "shopping",
+   "pkg": "my.com.aeon",
+   "note": "AEON Supermärkte mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.com.aeon&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.com.aeon&hl=en&gl=MY"
+  },
+  {
+   "name": "MYDIN Rewards",
+   "cat": "shopping",
+   "pkg": "my.mydin.meriah",
+   "note": "Günstige Supermarktkette Mydin",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.mydin.meriah&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.mydin.meriah&hl=en&gl=MY"
+  },
+  {
+   "name": "MY FamilyMart",
+   "cat": "shopping",
+   "pkg": "com.maxincome.fmcrm",
+   "note": "FamilyMart Läden mit Angeboten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.maxincome.fmcrm&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.maxincome.fmcrm&hl=en&gl=MY"
+  },
+  {
+   "name": "KK Rewards",
+   "cat": "shopping",
+   "pkg": "my.kkmart.app",
+   "note": "Rund um die Uhr Läden KK Mart",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=my.kkmart.app&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=my.kkmart.app&hl=en&gl=MY"
+  },
+  {
+   "name": "Watsons MY",
+   "cat": "shopping",
+   "pkg": "com.watsons.mcommerce",
+   "note": "Drogeriekette mit Filialsuche",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.watsons.mcommerce&hl=en&gl=MY",
+   "src": "https://play.google.com/store/apps/details?id=com.watsons.mcommerce&hl=en&gl=MY"
+  }
+ ]
 }

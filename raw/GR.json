@@ -245,6 +245,242 @@
    "url": "https://www.dias.com.gr/en/",
    "nostore": true,
    "src": "https://www.dias.com.gr/en/news-center/press-releases/dias-iris-everywhere-greece-becomes-the-first-country-in-europe-with-universal-acceptance-of-instant-payments-across-all-points-of-sale/"
+  },
+  {
+   "name": "ATH.ENA Card",
+   "cat": "transit",
+   "pkg": "com.lgcns.greece",
+   "note": "ATH.ENA Karte per Handy aufladen, Athen",
+   "city": "Athen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lgcns.greece"
+  },
+  {
+   "name": "Green Buses (KTEL Kerkyras)",
+   "cat": "transit",
+   "pkg": "ime.com.gr.ticketweb.ker",
+   "note": "Inselbusse Korfu, Fahrplan und Tickets",
+   "city": "Corfu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ime.com.gr.ticketweb.ker"
+  },
+  {
+   "name": "KTEL Zakynthou",
+   "cat": "transit",
+   "pkg": "ime.com.gr.ticketweb.zak",
+   "note": "Inselbusse Zakynthos, Fahrplan und Tickets",
+   "city": "Zakynthos",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ime.com.gr.ticketweb.zak"
+  },
+  {
+   "name": "KTEL Kefalonias",
+   "cat": "transit",
+   "pkg": "ime.com.gr.ticketweb.kef",
+   "note": "Inselbusse Kefalonia, Fahrplan und Tickets",
+   "city": "Kefalonia",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ime.com.gr.ticketweb.kef"
+  },
+  {
+   "name": "KTEL Lefkadas",
+   "cat": "transit",
+   "pkg": "ime.com.gr.ticketweb.lef",
+   "note": "Busse auf Lefkada, Fahrplan und Tickets",
+   "city": "Lefkada",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ime.com.gr.ticketweb.lef"
+  },
+  {
+   "name": "KTEL Argolida",
+   "cat": "transit",
+   "pkg": "ime.com.gr.ticketweb.arg",
+   "note": "Regionalbusse Argolis ab Nafplio",
+   "city": "Nafplio",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ime.com.gr.ticketweb.arg"
+  },
+  {
+   "name": "KTEL Heraklion-Lasithi",
+   "cat": "rail",
+   "pkg": "gr.ktelherlas.app",
+   "note": "Überlandbusse Ostkreta, offizielle App",
+   "city": "Heraklion",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=gr.ktelherlas.app"
+  },
+  {
+   "name": "Hellenic Train",
+   "cat": "rail",
+   "pkg": "com.trainose.android",
+   "note": "Griechische Bahn, Fahrkarten und Fahrplan",
+   "use": "ok",
+   "src": "https://www.hellenictrain.gr"
+  },
+  {
+   "name": "seamore (Blue Star, Superfast)",
+   "cat": "rail",
+   "pkg": "gr.attica.android.seamore",
+   "note": "Fähren der Attica Group buchen",
+   "use": "ok",
+   "src": "https://www.attica-group.com"
+  },
+  {
+   "name": "Ferryscanner",
+   "cat": "rail",
+   "pkg": "com.ferryscanner.mobile",
+   "note": "Fährvergleich und Buchung Griechenland",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ferryscanner.mobile"
+  },
+  {
+   "name": "Taxiplon",
+   "cat": "taxi",
+   "pkg": "gr.iqs.taxi_plon",
+   "note": "Große Taxizentrale Athen",
+   "city": "Athen",
+   "use": "ok",
+   "src": "https://www.taxiplon.gr"
+  },
+  {
+   "name": "taxi.gr",
+   "cat": "taxi",
+   "pkg": "com.taxigr.customer",
+   "note": "Taxi bestellen in griechischen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.taxigr.customer"
+  },
+  {
+   "name": "Ermis Taxi Athens",
+   "cat": "taxi",
+   "pkg": "gr.iqs.ermis_client",
+   "note": "Funktaxi Athen",
+   "city": "Athen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=gr.iqs.ermis_client"
+  },
+  {
+   "name": "Way up",
+   "cat": "taxi",
+   "pkg": "leykos.pirgos.taxiThessalonikiClient",
+   "note": "Taxinetz Thessaloniki und andere Städte",
+   "city": "Thessaloniki",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=leykos.pirgos.taxiThessalonikiClient"
+  },
+  {
+   "name": "Aegean Taxi",
+   "cat": "taxi",
+   "pkg": "aegean.taxi.ride.app.mykonos.santorini.athens.greece.passenger",
+   "note": "Fahrdienst Athen, Mykonos, Santorini",
+   "use": "ok",
+   "src": "https://www.aegeantaxi.com"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sixt.reservation"
+  },
+  {
+   "name": "E-Bike Sharing (AMCO)",
+   "cat": "micro",
+   "pkg": "com.amco.bikesharing",
+   "note": "Leihräder in griechischen Gemeinden",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.amco.bikesharing"
+  },
+  {
+   "name": "ParkPal",
+   "cat": "parking",
+   "pkg": "gr.parkpal.app",
+   "note": "Straßenparken per App in Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=gr.parkpal.app"
+  },
+  {
+   "name": "Cityzen Parking",
+   "cat": "parking",
+   "pkg": "com.betheres.cityzen",
+   "note": "Parkgebühren per App, mehrere Städte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.betheres.cityzen"
+  },
+  {
+   "name": "i-PARK Chania",
+   "cat": "parking",
+   "pkg": "com.chania.ipark",
+   "note": "Parken in Chania per App",
+   "city": "Chania",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.chania.ipark"
+  },
+  {
+   "name": "BOX",
+   "cat": "delivery",
+   "pkg": "gr.cosmote.box",
+   "note": "Essen und Einkäufe liefern lassen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=gr.cosmote.box"
+  },
+  {
+   "name": "Thessaloniki Tourism Card",
+   "cat": "tourism",
+   "pkg": "gr.softweb.tbccompose",
+   "note": "Stadtpass Thessaloniki mit Rabatten",
+   "city": "Thessaloniki",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=gr.softweb.tbccompose"
+  },
+  {
+   "name": "POSEIDON Weather",
+   "cat": "safety",
+   "pkg": "gr.hcmr.poseidon.twa",
+   "note": "Wetter und Seegang, Forschungszentrum HCMR",
+   "use": "ok",
+   "src": "https://poseidon.hcmr.gr"
+  },
+  {
+   "name": "Aegean Airlines",
+   "cat": "flights",
+   "pkg": "com.aegean.airlines.prod",
+   "note": "Nationale Fluglinie, Check-in und Buchung",
+   "use": "ok",
+   "src": "https://en.aegeanair.com"
+  },
+  {
+   "name": "AB Vassilopoulos",
+   "cat": "shopping",
+   "pkg": "gr.delhaize",
+   "note": "Supermarktkette AB, Angebote und Filialen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=gr.delhaize"
+  },
+  {
+   "name": "Masoutis",
+   "cat": "shopping",
+   "pkg": "softways.mobile.masoutis",
+   "note": "Supermärkte Nordgriechenland, Filialen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=softways.mobile.masoutis"
+  },
+  {
+   "name": "My market",
+   "cat": "shopping",
+   "pkg": "com.msensis.mymarket",
+   "note": "Supermarktkette My market, Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.msensis.mymarket"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Lidl Angebote und Coupons",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",

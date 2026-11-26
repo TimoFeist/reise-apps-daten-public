@@ -323,6 +323,128 @@
    "use": "limited",
    "req": "Kontoeröffnung mit Ausweisprüfung nötig",
    "src": "https://www.paysera.lt"
+  },
+  {
+   "name": "ŠR bilietas",
+   "cat": "transit",
+   "pkg": "com.ridango.siauliai.app",
+   "note": "Bustickets für den Stadtverkehr Šiauliai",
+   "city": "Siauliai",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ridango.siauliai.app",
+   "src": "https://play.google.com/store/apps/details?id=com.ridango.siauliai.app"
+  },
+  {
+   "name": "e.bilietas Panevėžys",
+   "cat": "transit",
+   "pkg": "com.ridango.panevezys.app",
+   "note": "Bustickets für den Stadtverkehr Panevėžys",
+   "city": "Panevezys",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ridango.panevezys.app",
+   "src": "https://play.google.com/store/apps/details?id=com.ridango.panevezys.app"
+  },
+  {
+   "name": "Parkavimas Kaune",
+   "cat": "parking",
+   "pkg": "com.mobilisis.spotium.kaunas",
+   "note": "Offizielle Park-App der Stadt Kaunas",
+   "city": "Kaunas",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mobilisis.spotium.kaunas",
+   "src": "https://www.kaunas.lt/"
+  },
+  {
+   "name": "ParkOK",
+   "cat": "parking",
+   "pkg": "lt.parkuok.googleauthexporeactnative",
+   "note": "Litauische Park-App für Straßen und Parkplätze",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lt.parkuok.googleauthexporeactnative",
+   "src": "https://play.google.com/store/apps/details?id=lt.parkuok.googleauthexporeactnative"
+  },
+  {
+   "name": "e.Palanga",
+   "cat": "tourism",
+   "pkg": "com.MeritStory.PalangosMiestoKortele",
+   "note": "Stadtkarte Palanga mit Rabatten und Infos",
+   "city": "Palanga",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.MeritStory.PalangosMiestoKortele",
+   "src": "https://play.google.com/store/apps/details?id=com.MeritStory.PalangosMiestoKortele"
+  },
+  {
+   "name": "Trakų istorijos muziejus",
+   "cat": "tourism",
+   "pkg": "lt.trakaimuziejus.app",
+   "note": "App des Museums der Wasserburg Trakai",
+   "city": "Trakai",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lt.trakaimuziejus.app",
+   "src": "https://www.trakaimuziejus.lt/"
+  },
+  {
+   "name": "LastMile",
+   "cat": "delivery",
+   "pkg": "lt.lastmile.client",
+   "note": "Schnelle Lieferung aus Supermärkten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lt.lastmile.client",
+   "src": "https://play.google.com/store/apps/details?id=lt.lastmile.client"
+  },
+  {
+   "name": "Barbora",
+   "cat": "delivery",
+   "pkg": "lt.barbora",
+   "note": "Online-Supermarkt von Maxima mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lt.barbora",
+   "src": "https://play.google.com/store/apps/details?id=lt.barbora"
+  },
+  {
+   "name": "Meteo LT",
+   "cat": "safety",
+   "pkg": "lt.meteo.app",
+   "note": "Offizieller Wetterdienst Litauens mit Warnungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lt.meteo.app",
+   "src": "https://www.meteo.lt/"
+  },
+  {
+   "name": "MAXIMA",
+   "cat": "shopping",
+   "pkg": "lt.maxima.aciu",
+   "note": "Größte Supermarktkette Litauens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lt.maxima.aciu",
+   "src": "https://play.google.com/store/apps/details?id=lt.maxima.aciu"
+  },
+  {
+   "name": "IKI",
+   "cat": "shopping",
+   "pkg": "lt.iki.app",
+   "note": "Supermarktkette mit Angeboten und Filialen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lt.iki.app",
+   "src": "https://play.google.com/store/apps/details?id=lt.iki.app"
+  },
+  {
+   "name": "Rimi",
+   "cat": "shopping",
+   "pkg": "lv.rimi.card",
+   "note": "Rimi Supermärkte im Baltikum",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lv.rimi.card",
+   "src": "https://play.google.com/store/apps/details?id=lv.rimi.card"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialsuche bei Lidl Litauen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus",
+   "src": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus"
   }
  ],
  "replace": [

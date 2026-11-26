@@ -367,6 +367,486 @@
    "use": "no",
    "req": "Taiwanische Nummer und Konto nötig",
    "src": "https://play.google.com/store/apps/details?id=com.linepaytw.upay"
+  },
+  {
+   "name": "Tainan City Bus",
+   "cat": "transit",
+   "pkg": "tms.tw.governmentcase.TainanBus",
+   "note": "Offizielle Bus-App der Stadt Tainan mit Echtzeit",
+   "city": "Tainan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tms.tw.governmentcase.TainanBus&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tms.tw.governmentcase.TainanBus&hl=en&gl=TW"
+  },
+  {
+   "name": "高雄iBus+",
+   "cat": "transit",
+   "pkg": "com.foxconn.ibusAndroid",
+   "note": "Stadtbusse Kaohsiung in Echtzeit, Stadtverwaltung",
+   "city": "Kaohsiung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.foxconn.ibusAndroid&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.foxconn.ibusAndroid&hl=en&gl=TW"
+  },
+  {
+   "name": "台中Go",
+   "cat": "transit",
+   "pkg": "tms.tw.publictransit.TaichungCityBus",
+   "note": "Stadtbusse Taichung, App der Stadtverwaltung",
+   "city": "Taichung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tms.tw.publictransit.TaichungCityBus&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tms.tw.publictransit.TaichungCityBus&hl=en&gl=TW"
+  },
+  {
+   "name": "i搭桃捷 Taoyuan Airport MRT",
+   "cat": "transit",
+   "pkg": "com.tymetro.ios",
+   "note": "Offizielle App der Flughafenbahn Taoyuan",
+   "city": "Taoyuan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.tymetro.ios&hl=en&gl=TW",
+   "src": "https://www.tymetro.com.tw"
+  },
+  {
+   "name": "桃捷TICKETS",
+   "cat": "transit",
+   "pkg": "tw.com.tymetroticket.android",
+   "note": "QR Tickets für die Flughafenbahn Taoyuan",
+   "city": "Taoyuan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.tymetroticket.android&hl=en&gl=TW",
+   "src": "https://www.tymetro.com.tw"
+  },
+  {
+   "name": "桃園公車",
+   "cat": "transit",
+   "pkg": "tms.tw.governmentcase.TaoyuanBus",
+   "note": "Stadtbusse Taoyuan, Verkehrsamt der Stadt",
+   "city": "Taoyuan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tms.tw.governmentcase.TaoyuanBus&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tms.tw.governmentcase.TaoyuanBus&hl=en&gl=TW"
+  },
+  {
+   "name": "iBus 公路客運",
+   "cat": "rail",
+   "pkg": "tms.tw.governmentcase.longway",
+   "note": "Überlandbusse in Echtzeit, Straßenbehörde",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tms.tw.governmentcase.longway&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tms.tw.governmentcase.longway&hl=en&gl=TW"
+  },
+  {
+   "name": "台灣高鐵 (Info)",
+   "cat": "rail",
+   "pkg": "tw.com.thsrc.enterprise",
+   "note": "Fahrplan und Infos der Schnellbahn THSR",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.thsrc.enterprise&hl=en&gl=TW",
+   "src": "https://www.thsrc.com.tw"
+  },
+  {
+   "name": "Ubus 統聯客運",
+   "cat": "rail",
+   "pkg": "tw.com.ubus.allnewubus",
+   "note": "Fernbus Ubus: Tickets für Überlandlinien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.ubus.allnewubus&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.com.ubus.allnewubus&hl=en&gl=TW"
+  },
+  {
+   "name": "TBS臺北轉運站",
+   "cat": "rail",
+   "pkg": "com.WanDaTong.tbs",
+   "note": "Busbahnhof Taipei: Abfahrten und Linien",
+   "city": "Taipei",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.WanDaTong.tbs&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.WanDaTong.tbs&hl=en&gl=TW"
+  },
+  {
+   "name": "金門小三通",
+   "cat": "rail",
+   "pkg": "com.bitcontrol.wujiangshipticket",
+   "note": "Fähre Kinmen nach Xiamen buchen",
+   "city": "Kinmen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.bitcontrol.wujiangshipticket&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.bitcontrol.wujiangshipticket&hl=en&gl=TW"
+  },
+  {
+   "name": "大都會計程車 55178",
+   "cat": "taxi",
+   "pkg": "com.tmc.mtaxi",
+   "note": "Große Taxizentrale Taipei und Kaohsiung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.tmc.mtaxi&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.tmc.mtaxi&hl=en&gl=TW"
+  },
+  {
+   "name": "178叫計程車",
+   "cat": "taxi",
+   "pkg": "com.tmc.GetTaxi",
+   "note": "Taxi bestellen, landesweit",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.tmc.GetTaxi&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.tmc.GetTaxi&hl=en&gl=TW"
+  },
+  {
+   "name": "LINE GO",
+   "cat": "taxi",
+   "pkg": "com.taxigo.rider",
+   "note": "Taxi, Flughafentransfer, Mietwagen, Roller",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.taxigo.rider&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.taxigo.rider&hl=en&gl=TW"
+  },
+  {
+   "name": "gogoout",
+   "cat": "carshare",
+   "pkg": "com.gogoout.app",
+   "note": "Mietwagen aus Taiwan vergleichen und buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gogoout.app&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.gogoout.app&hl=en&gl=TW"
+  },
+  {
+   "name": "uTagGo",
+   "cat": "parking",
+   "pkg": "com.fetci.etaggo",
+   "note": "Parkgebühren und Maut zahlen, eTag Betreiber",
+   "use": "limited",
+   "req": "Taiwanisches Kfz nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.fetci.etaggo&hl=en&gl=TW",
+   "src": "https://www.fetc.net.tw"
+  },
+  {
+   "name": "停車大聲公",
+   "cat": "parking",
+   "pkg": "com.alfred.parkinglot",
+   "note": "Freie Parkplätze finden und Parken zahlen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.alfred.parkinglot&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.alfred.parkinglot&hl=en&gl=TW"
+  },
+  {
+   "name": "USPACE",
+   "cat": "parking",
+   "pkg": "com.uspace",
+   "note": "Private und öffentliche Parkplätze buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.uspace&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.uspace&hl=en&gl=TW"
+  },
+  {
+   "name": "易停網 SPACE4CAR",
+   "cat": "parking",
+   "pkg": "com.app.uparking",
+   "note": "Parkplätze suchen und reservieren",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.app.uparking&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.app.uparking&hl=en&gl=TW"
+  },
+  {
+   "name": "臺中交通網",
+   "cat": "parking",
+   "pkg": "gov.taichung.traffic.etraffic",
+   "note": "Parken und Verkehr Taichung, Stadtverwaltung",
+   "city": "Taichung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=gov.taichung.traffic.etraffic&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=gov.taichung.traffic.etraffic&hl=en&gl=TW"
+  },
+  {
+   "name": "Times停車場",
+   "cat": "parking",
+   "pkg": "tw.com.park24.parkingapp",
+   "note": "Parkhäuser von Times (Park24) in Taiwan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.park24.parkingapp&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.com.park24.parkingapp&hl=en&gl=TW"
+  },
+  {
+   "name": "一卡通 iPASS MONEY",
+   "cat": "payment",
+   "pkg": "com.ipass.ipassmoney",
+   "note": "Wallet von iPASS, verbreitet im Süden",
+   "use": "no",
+   "req": "Taiwanische ID und Bankkonto nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.ipass.ipassmoney&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.ipass.ipassmoney&hl=en&gl=TW"
+  },
+  {
+   "name": "icash Pay",
+   "cat": "payment",
+   "pkg": "tw.com.icash.a.icashpay",
+   "note": "Wallet von 7-ELEVEN Konzern",
+   "use": "no",
+   "req": "Taiwanische ID nötig",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.icash.a.icashpay&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.com.icash.a.icashpay&hl=en&gl=TW"
+  },
+  {
+   "name": "全支付 PX Pay Plus",
+   "cat": "payment",
+   "pkg": "com.pxpayplus.app",
+   "note": "Wallet der Supermarktkette PX Mart",
+   "use": "no",
+   "req": "Taiwanische ID nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.pxpayplus.app&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.pxpayplus.app&hl=en&gl=TW"
+  },
+  {
+   "name": "台灣行動支付 Taiwan Pay",
+   "cat": "payment",
+   "pkg": "tw.com.twmp.twhcewallet",
+   "note": "Bankenübergreifende QR Zahlung",
+   "use": "no",
+   "req": "Taiwanisches Bankkonto nötig",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.twmp.twhcewallet&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.com.twmp.twhcewallet&hl=en&gl=TW"
+  },
+  {
+   "name": "Taiwan PASS",
+   "cat": "tourism",
+   "pkg": "tw.com.fontrip.citypass.taiwan.production",
+   "note": "Reisepässe für Taiwan mit Verkehr und Eintritt",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.fontrip.citypass.taiwan.production&hl=en&gl=TW",
+   "src": "https://www.taiwanpass.com"
+  },
+  {
+   "name": "Kaohsiung GO! Official Guide",
+   "cat": "tourism",
+   "pkg": "travel.kaohsiung.app",
+   "note": "Offizieller Reiseführer Kaohsiung",
+   "city": "Kaohsiung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=travel.kaohsiung.app&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=travel.kaohsiung.app&hl=en&gl=TW"
+  },
+  {
+   "name": "台中通 TCPASS",
+   "cat": "tourism",
+   "pkg": "tw.com.event.funtaichung",
+   "note": "Stadtapp Taichung mit Events und Gutscheinen",
+   "city": "Taichung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.com.event.funtaichung&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.com.event.funtaichung&hl=en&gl=TW"
+  },
+  {
+   "name": "TY Travel",
+   "cat": "tourism",
+   "pkg": "com.csii.fusing",
+   "note": "Tourismus App der Stadt Taoyuan",
+   "city": "Taoyuan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.csii.fusing&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.csii.fusing&hl=en&gl=TW"
+  },
+  {
+   "name": "Travel Taitung",
+   "cat": "tourism",
+   "pkg": "com.taitung",
+   "note": "Reiseführer für Taitung an der Ostküste",
+   "city": "Taitung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.taitung&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.taitung&hl=en&gl=TW"
+  },
+  {
+   "name": "森遊阿里山 Alipedia",
+   "cat": "tourism",
+   "pkg": "com.omniguider.alishan",
+   "note": "Führer für das Alishan Waldgebiet",
+   "city": "Alishan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.omniguider.alishan&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.omniguider.alishan&hl=en&gl=TW"
+  },
+  {
+   "name": "國家公園登山App",
+   "cat": "tourism",
+   "pkg": "tw.skyeyes.ar.spnp_play",
+   "note": "Wanderwege der Nationalparks, Nationalparkamt",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.skyeyes.ar.spnp_play&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.skyeyes.ar.spnp_play&hl=en&gl=TW"
+  },
+  {
+   "name": "KKday",
+   "cat": "tourism",
+   "pkg": "com.kkday.member",
+   "note": "Touren, Tickets und Bahnpässe aus Taiwan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.kkday.member&hl=en&gl=TW",
+   "src": "https://www.kkday.com"
+  },
+  {
+   "name": "110 Video Call",
+   "cat": "safety",
+   "pkg": "tw.gov.npa.videocall",
+   "note": "Polizeinotruf per Video, Polizeibehörde",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.gov.npa.videocall&hl=en&gl=TW",
+   "src": "https://www.npa.gov.tw"
+  },
+  {
+   "name": "警政服務",
+   "cat": "safety",
+   "pkg": "tw.gov.npa.callservice",
+   "note": "Polizei App mit Notruf und Fundsachen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.gov.npa.callservice&hl=en&gl=TW",
+   "src": "https://www.npa.gov.tw"
+  },
+  {
+   "name": "臺北市行動防災",
+   "cat": "safety",
+   "pkg": "tw.gov.taipei.eoc",
+   "note": "Katastrophenwarnungen und Schutzräume Taipei",
+   "city": "Taipei",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.gov.taipei.eoc&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.gov.taipei.eoc&hl=en&gl=TW"
+  },
+  {
+   "name": "DPIP 防災資訊",
+   "cat": "safety",
+   "pkg": "com.exptech.dpip",
+   "note": "Erdbebenwarnung und Unwetter, sehr verbreitet",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.exptech.dpip&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.exptech.dpip&hl=en&gl=TW"
+  },
+  {
+   "name": "Taoyuan Airport",
+   "cat": "flights",
+   "pkg": "com.whatsmedia.ttia",
+   "note": "Offizielle App des Flughafens Taoyuan",
+   "city": "Taoyuan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.whatsmedia.ttia&hl=en&gl=TW",
+   "src": "https://www.taoyuan-airport.com"
+  },
+  {
+   "name": "China Airlines",
+   "cat": "flights",
+   "pkg": "com.chinaairlines.mobile30",
+   "note": "Nationale Fluggesellschaft Taiwans",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.chinaairlines.mobile30&hl=en&gl=TW",
+   "src": "https://www.china-airlines.com"
+  },
+  {
+   "name": "EVA Air",
+   "cat": "flights",
+   "pkg": "com.evaair.android",
+   "note": "Große taiwanische Airline, Star Alliance",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.evaair.android&hl=en&gl=TW",
+   "src": "https://www.evaair.com"
+  },
+  {
+   "name": "STARLUX",
+   "cat": "flights",
+   "pkg": "com.starlux.cale",
+   "note": "Taiwanische Premium Airline",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.starlux.cale&hl=en&gl=TW",
+   "src": "https://www.starlux-airlines.com"
+  },
+  {
+   "name": "Mandarin Airlines",
+   "cat": "flights",
+   "pkg": "com.mandarin_airlines.app",
+   "note": "Inlandsflüge zu Inseln wie Penghu, Kinmen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mandarin_airlines.app&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.mandarin_airlines.app&hl=en&gl=TW"
+  },
+  {
+   "name": "Agoda",
+   "cat": "hotels",
+   "pkg": "com.agoda.mobile.consumer",
+   "note": "In Asien führend für Hotels",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer&hl=en&gl=TW"
+  },
+  {
+   "name": "易遊網 ezTravel",
+   "cat": "hotels",
+   "pkg": "com.eztravel",
+   "note": "Taiwanisches Reiseportal für Hotels",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.eztravel&hl=en&gl=TW",
+   "src": "https://www.eztravel.com.tw"
+  },
+  {
+   "name": "雄獅旅遊 Lion Travel",
+   "cat": "hotels",
+   "pkg": "com.liontravel.android.consumer",
+   "note": "Größter Reiseveranstalter Taiwans",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.liontravel.android.consumer&hl=en&gl=TW",
+   "src": "https://www.liontravel.com"
+  },
+  {
+   "name": "AsiaYo",
+   "cat": "hotels",
+   "pkg": "com.asiayo.app",
+   "note": "Unterkünfte und Pensionen in Taiwan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.asiayo.app&hl=en&gl=TW",
+   "src": "https://asiayo.com"
+  },
+  {
+   "name": "Trip.com",
+   "cat": "hotels",
+   "pkg": "ctrip.english",
+   "note": "Hotels, Flüge und Bahn in Asien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ctrip.english&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=ctrip.english&hl=en&gl=TW"
+  },
+  {
+   "name": "全聯福利中心 PX Mart",
+   "cat": "shopping",
+   "pkg": "com.pxmart.android",
+   "note": "Größte Supermarktkette, auch Lieferdienst",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.pxmart.android&hl=en&gl=TW",
+   "src": "https://www.pxmart.com.tw"
+  },
+  {
+   "name": "7-ELEVEN Taiwan",
+   "cat": "shopping",
+   "pkg": "ecowork.seven",
+   "note": "Filialsuche und Angebote von 7-ELEVEN",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ecowork.seven&hl=en&gl=TW",
+   "src": "https://www.7-11.com.tw"
+  },
+  {
+   "name": "OPENPOINT",
+   "cat": "shopping",
+   "pkg": "tw.net.pic.m.openpoint",
+   "note": "Treuepunkte und Vorbestellung bei 7-ELEVEN",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tw.net.pic.m.openpoint&hl=en&gl=TW",
+   "src": "https://play.google.com/store/apps/details?id=tw.net.pic.m.openpoint&hl=en&gl=TW"
+  },
+  {
+   "name": "全家 FamilyMart",
+   "cat": "shopping",
+   "pkg": "grasea.familife",
+   "note": "Filialen und Angebote von FamilyMart",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=grasea.familife&hl=en&gl=TW",
+   "src": "https://www.family.com.tw"
   }
  ]
 }

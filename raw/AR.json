@@ -260,6 +260,313 @@
    "url": "https://www.argentina.travel",
    "nostore": true,
    "src": "https://www.argentina.travel"
+  },
+  {
+   "name": "Emova Subte Buenos Aires",
+   "cat": "transit",
+   "pkg": "ar.com.emova.app",
+   "note": "App des U-Bahn-Betreibers in Buenos Aires",
+   "city": "Buenos Aires",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ar.com.emova.app&hl=en&gl=AR",
+   "src": "https://emova.com.ar"
+  },
+  {
+   "name": "Saeta",
+   "cat": "transit",
+   "pkg": "com.red_bus.salta",
+   "note": "Stadtbusse Salta mit Ankunftszeiten",
+   "city": "Salta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.red_bus.salta&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.red_bus.salta&hl=en&gl=AR"
+  },
+  {
+   "name": "Mi Bondi Ushuaia Integral",
+   "cat": "transit",
+   "pkg": "com.ushuaia.integral.app",
+   "note": "Stadtbusse Ushuaia in Echtzeit",
+   "city": "Ushuaia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ushuaia.integral.app&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.ushuaia.integral.app&hl=en&gl=AR"
+  },
+  {
+   "name": "¿Cuándo Llega? MGP",
+   "cat": "transit",
+   "pkg": "com.mgp.cuandoLlega",
+   "note": "Busankunft Mar del Plata, Stadtverwaltung",
+   "city": "Mar del Plata",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mgp.cuandoLlega&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.mgp.cuandoLlega&hl=en&gl=AR"
+  },
+  {
+   "name": "Flechabus",
+   "cat": "rail",
+   "pkg": "com.flechabus",
+   "note": "Großes Fernbusunternehmen, Tickets kaufen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.flechabus&hl=en&gl=AR",
+   "src": "https://www.flechabus.com.ar"
+  },
+  {
+   "name": "Chevallier",
+   "cat": "rail",
+   "pkg": "com.chevallierapp",
+   "note": "Fernbusse ab Buenos Aires ins Landesinnere",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.chevallierapp&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.chevallierapp&hl=en&gl=AR"
+  },
+  {
+   "name": "Maxim",
+   "cat": "taxi",
+   "pkg": "com.taxsee.taxsee",
+   "note": "Günstiger Fahrdienst in vielen Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.taxsee.taxsee&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.taxsee.taxsee&hl=en&gl=AR"
+  },
+  {
+   "name": "Taxicoop Mar del Plata",
+   "cat": "taxi",
+   "pkg": "com.nrs.gael_clientes.taxicoop",
+   "note": "Taxi Genossenschaft in Mar del Plata",
+   "city": "Mar del Plata",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.nrs.gael_clientes.taxicoop&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.nrs.gael_clientes.taxicoop&hl=en&gl=AR"
+  },
+  {
+   "name": "Servitaxi Mar del Plata",
+   "cat": "taxi",
+   "pkg": "com.nrs.gael_clientes.servitaxi",
+   "note": "Taxizentrale in Mar del Plata",
+   "city": "Mar del Plata",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.nrs.gael_clientes.servitaxi&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.nrs.gael_clientes.servitaxi&hl=en&gl=AR"
+  },
+  {
+   "name": "Rentcars",
+   "cat": "carshare",
+   "pkg": "com.rentcars.rentcarscom",
+   "note": "Mietwagen in Südamerika vergleichen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rentcars.rentcarscom&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.rentcars.rentcarscom&hl=en&gl=AR"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen an Flughäfen und in Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.hertz.android.digital&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.hertz.android.digital&hl=en&gl=AR"
+  },
+  {
+   "name": "Bici Ushuaia",
+   "cat": "micro",
+   "pkg": "ar.com.ushuaia.biciushuaia",
+   "note": "Städtische Leihräder in Ushuaia",
+   "city": "Ushuaia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ar.com.ushuaia.biciushuaia&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=ar.com.ushuaia.biciushuaia&hl=en&gl=AR"
+  },
+  {
+   "name": "SEMM Cba",
+   "cat": "parking",
+   "pkg": "ar.gob.cordoba.gobiernoabierto.semm",
+   "note": "Parkgebühren in Córdoba zahlen, Stadt",
+   "city": "Córdoba",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ar.gob.cordoba.gobiernoabierto.semm&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=ar.gob.cordoba.gobiernoabierto.semm&hl=en&gl=AR"
+  },
+  {
+   "name": "Estacionamiento Medido Rosario",
+   "cat": "parking",
+   "pkg": "com.parkit.selfcare",
+   "note": "Parkgebühren in Rosario per App",
+   "city": "Rosario",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.parkit.selfcare&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.parkit.selfcare&hl=en&gl=AR"
+  },
+  {
+   "name": "Sem Bariloche",
+   "cat": "parking",
+   "pkg": "com.altec.sem.bariloche",
+   "note": "Parkgebühren in Bariloche per App",
+   "city": "Bariloche",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.altec.sem.bariloche&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.altec.sem.bariloche&hl=en&gl=AR"
+  },
+  {
+   "name": "MODO",
+   "cat": "payment",
+   "pkg": "com.playdigital.modo",
+   "note": "QR Zahlungen der argentinischen Banken",
+   "use": "no",
+   "req": "Argentinisches Bankkonto nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.playdigital.modo&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.playdigital.modo&hl=en&gl=AR"
+  },
+  {
+   "name": "Ualá",
+   "cat": "payment",
+   "pkg": "ar.com.bancar.uala",
+   "note": "Digitale Bank und Karte",
+   "use": "no",
+   "req": "DNI nötig",
+   "url": "https://play.google.com/store/apps/details?id=ar.com.bancar.uala&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=ar.com.bancar.uala&hl=en&gl=AR"
+  },
+  {
+   "name": "Personal Pay",
+   "cat": "payment",
+   "pkg": "ar.com.personalpay",
+   "note": "Wallet von Telecom Argentina",
+   "use": "no",
+   "req": "DNI nötig",
+   "url": "https://play.google.com/store/apps/details?id=ar.com.personalpay&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=ar.com.personalpay&hl=en&gl=AR"
+  },
+  {
+   "name": "Naranja X",
+   "cat": "payment",
+   "pkg": "com.tarjetanaranja.ncuenta",
+   "note": "Verbreitete Wallet mit QR Zahlung",
+   "use": "no",
+   "req": "DNI nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.tarjetanaranja.ncuenta&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.tarjetanaranja.ncuenta&hl=en&gl=AR"
+  },
+  {
+   "name": "Rosario Turismo",
+   "cat": "tourism",
+   "pkg": "com.rma.etur",
+   "note": "Offizielle Tourismus-App von Rosario",
+   "city": "Rosario",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rma.etur&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.rma.etur&hl=en&gl=AR"
+  },
+  {
+   "name": "Ushuaia Turismo",
+   "cat": "tourism",
+   "pkg": "ar.gob.ushuaia.turismo",
+   "note": "Tourismus-App der Stadt Ushuaia",
+   "city": "Ushuaia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ar.gob.ushuaia.turismo&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=ar.gob.ushuaia.turismo&hl=en&gl=AR"
+  },
+  {
+   "name": "Buenos Aires City Bus",
+   "cat": "tourism",
+   "pkg": "com.graylineargentina.busturistico",
+   "note": "Stadtrundfahrt Hop on Hop off Buenos Aires",
+   "city": "Buenos Aires",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.graylineargentina.busturistico&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.graylineargentina.busturistico&hl=en&gl=AR"
+  },
+  {
+   "name": "CatedralApp",
+   "cat": "tourism",
+   "pkg": "com.pmf.catedralapp",
+   "note": "Skigebiet Cerro Catedral: Pisten, Lifte",
+   "city": "Bariloche",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.pmf.catedralapp&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.pmf.catedralapp&hl=en&gl=AR"
+  },
+  {
+   "name": "Cerro Castor",
+   "cat": "tourism",
+   "pkg": "com.blabsolutions.CerroCastor",
+   "note": "Skigebiet Cerro Castor bei Ushuaia",
+   "city": "Ushuaia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.blabsolutions.CerroCastor&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.blabsolutions.CerroCastor&hl=en&gl=AR"
+  },
+  {
+   "name": "Aerolíneas Argentinas",
+   "cat": "flights",
+   "pkg": "net.aper.ARMobile",
+   "note": "Nationale Fluggesellschaft, viele Inlandsflüge",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=net.aper.ARMobile&hl=en&gl=AR",
+   "src": "https://www.aerolineas.com.ar"
+  },
+  {
+   "name": "Turismocity",
+   "cat": "flights",
+   "pkg": "com.grupodc.turismocity",
+   "note": "Flugsuche, in Argentinien sehr verbreitet",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.grupodc.turismocity&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.grupodc.turismocity&hl=en&gl=AR"
+  },
+  {
+   "name": "Despegar",
+   "cat": "hotels",
+   "pkg": "com.gm.despegar",
+   "note": "Führendes Reiseportal Lateinamerikas",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gm.despegar&hl=en&gl=AR",
+   "src": "https://www.despegar.com.ar"
+  },
+  {
+   "name": "Mercado Libre",
+   "cat": "shopping",
+   "pkg": "com.mercadolibre",
+   "note": "Größter Onlinehändler Argentiniens",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mercadolibre&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.mercadolibre&hl=en&gl=AR"
+  },
+  {
+   "name": "Carrefour Argentina",
+   "cat": "shopping",
+   "pkg": "ar.com.carrefourargentina.app",
+   "note": "Supermarkt mit Angeboten und Filialsuche",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ar.com.carrefourargentina.app&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=ar.com.carrefourargentina.app&hl=en&gl=AR"
+  },
+  {
+   "name": "Jumbo",
+   "cat": "shopping",
+   "pkg": "com.cencosud.jumbo.ar",
+   "note": "Supermarktkette mit Onlineeinkauf",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cencosud.jumbo.ar&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.cencosud.jumbo.ar&hl=en&gl=AR"
+  },
+  {
+   "name": "Dia",
+   "cat": "shopping",
+   "pkg": "ar.com.supermercadosdia.customers",
+   "note": "Discounter mit Angeboten in der App",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ar.com.supermercadosdia.customers&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=ar.com.supermercadosdia.customers&hl=en&gl=AR"
+  },
+  {
+   "name": "COTO",
+   "cat": "shopping",
+   "pkg": "com.coto.superapp",
+   "note": "Supermarktkette im Raum Buenos Aires",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.coto.superapp&hl=en&gl=AR",
+   "src": "https://play.google.com/store/apps/details?id=com.coto.superapp&hl=en&gl=AR"
   }
  ],
  "fetched": "2026-11-17"

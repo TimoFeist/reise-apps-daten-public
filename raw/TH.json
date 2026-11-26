@@ -253,6 +253,229 @@
    "use": "limited",
    "req": "Thailändische Zahlungswege meist nötig",
    "src": "https://bangkokpost.com/thailand/general/2785789/mrta-trials-free-smart-parking-system"
+  },
+  {
+   "name": "BEM MRT",
+   "cat": "transit",
+   "pkg": "com.devsenses.mrt_app",
+   "note": "MRT Bangkok, Betreiber BEM, Fahrpläne",
+   "city": "Bangkok",
+   "use": "ok",
+   "src": "https://metro.bemplc.co.th"
+  },
+  {
+   "name": "My Rabbit",
+   "cat": "transit",
+   "pkg": "com.bss.rabbitmobileapp",
+   "note": "Rabbit Karte für BTS aufladen und prüfen",
+   "city": "Bangkok",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bss.rabbitmobileapp"
+  },
+  {
+   "name": "BMTA Application",
+   "cat": "transit",
+   "pkg": "com.bmtawallet",
+   "note": "Stadtbusse Bangkok, offizielle BMTA App",
+   "city": "Bangkok",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bmtawallet"
+  },
+  {
+   "name": "TSB Go Plus",
+   "cat": "transit",
+   "pkg": "com.kasidej.tsbgo_plus",
+   "note": "E-Busse Thai Smile Bus in Bangkok",
+   "city": "Bangkok",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.kasidej.tsbgo_plus"
+  },
+  {
+   "name": "BKS E-Ticket",
+   "cat": "rail",
+   "pkg": "th.co.transport.thaitransport",
+   "note": "Staatliche Fernbusse, Tickets online",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=th.co.transport.thaitransport"
+  },
+  {
+   "name": "BusX",
+   "cat": "rail",
+   "pkg": "com.thairoute.busx",
+   "note": "Bus, Van und Fähre buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.thairoute.busx"
+  },
+  {
+   "name": "Raja Ferry",
+   "cat": "rail",
+   "pkg": "com.readyplanet.raja_ferry",
+   "note": "Autofähre Donsak nach Koh Samui buchen",
+   "city": "Koh Samui",
+   "use": "ok",
+   "src": "https://www.rajaferryport.com"
+  },
+  {
+   "name": "Drivehub",
+   "cat": "carshare",
+   "pkg": "com.drivehub.user.user",
+   "note": "Mietwagen lokaler Anbieter vergleichen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.drivehub.user.user"
+  },
+  {
+   "name": "Skoot",
+   "cat": "micro",
+   "pkg": "com.skoot.now",
+   "note": "Roller von lokalen Vermietern mieten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.skoot.now"
+  },
+  {
+   "name": "Lotus's",
+   "cat": "delivery",
+   "pkg": "com.lotuss.oneapp",
+   "note": "Lebensmittel liefern lassen, Lotus's",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lotuss.oneapp"
+  },
+  {
+   "name": "Tops Online",
+   "cat": "delivery",
+   "pkg": "com.iplus.tops",
+   "note": "Supermarkt Tops, Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.iplus.tops"
+  },
+  {
+   "name": "Thailand VRT",
+   "cat": "payment",
+   "pkg": "th.co.ktb.vrt",
+   "note": "Mehrwertsteuer Rückerstattung für Touristen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=th.co.ktb.vrt"
+  },
+  {
+   "name": "K PLUS",
+   "cat": "payment",
+   "pkg": "com.kasikorn.retail.mbanking.wap",
+   "note": "Bank App, QR Zahlungen PromptPay",
+   "use": "no",
+   "req": "Thailändisches Bankkonto nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.kasikorn.retail.mbanking.wap"
+  },
+  {
+   "name": "SCB EASY",
+   "cat": "payment",
+   "pkg": "com.scb.phone",
+   "note": "Bank App, QR Zahlungen PromptPay",
+   "use": "no",
+   "req": "Thailändisches Bankkonto nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.scb.phone"
+  },
+  {
+   "name": "Amazing Thailand",
+   "cat": "tourism",
+   "pkg": "com.tat.amazingthailand",
+   "note": "Offizielle App der Tourismusbehörde TAT",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tat.amazingthailand"
+  },
+  {
+   "name": "Thai Weather",
+   "cat": "safety",
+   "pkg": "com.tmddev.thaiweather",
+   "note": "Wetterdienst TMD, Warnungen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tmddev.thaiweather"
+  },
+  {
+   "name": "THAI DISASTER ALERT",
+   "cat": "safety",
+   "pkg": "com.THAIDAlert.DPM",
+   "note": "Katastrophenwarnungen der Behörde DDPM",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.THAIDAlert.DPM"
+  },
+  {
+   "name": "Longdo Map",
+   "cat": "maps",
+   "pkg": "com.longdo.map.android",
+   "note": "Thailändische Karte mit Verkehrslage",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.longdo.map.android"
+  },
+  {
+   "name": "Thai Airways",
+   "cat": "flights",
+   "pkg": "com.thaiairways.mobile",
+   "note": "Nationale Fluglinie, Buchung, Check-in",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.thaiairways.mobile"
+  },
+  {
+   "name": "Bangkok Airways",
+   "cat": "flights",
+   "pkg": "com.bangkokairways.main",
+   "note": "Flüge nach Koh Samui und Inseln",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bangkokairways.main"
+  },
+  {
+   "name": "Thai Lion Air",
+   "cat": "flights",
+   "pkg": "com.thailionair.app",
+   "note": "Billigflieger Inlandsflüge",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.thailionair.app"
+  },
+  {
+   "name": "Vietjet Thailand",
+   "cat": "flights",
+   "pkg": "com.vietjetair.thaivietjet",
+   "note": "Billigflieger Thai Vietjet",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.vietjetair.thaivietjet"
+  },
+  {
+   "name": "SAWASDEE by AOT",
+   "cat": "flights",
+   "pkg": "com.AOT",
+   "note": "Offizielle App der Thai Flughäfen AOT",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.AOT"
+  },
+  {
+   "name": "AirAsia MOVE",
+   "cat": "flights",
+   "pkg": "com.airasia.mobile",
+   "note": "Thai AirAsia Flüge und Hotels",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.airasia.mobile"
+  },
+  {
+   "name": "Agoda",
+   "cat": "hotels",
+   "pkg": "com.agoda.mobile.consumer",
+   "note": "Führende Hotelbuchung in Thailand",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer"
+  },
+  {
+   "name": "7-Eleven TH",
+   "cat": "shopping",
+   "pkg": "asuk.com.android.app",
+   "note": "7-Eleven Angebote, Lieferung, Punkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=asuk.com.android.app"
+  },
+  {
+   "name": "Big C PLUS",
+   "cat": "shopping",
+   "pkg": "com.t2p.bigc",
+   "note": "Hypermarkt Big C, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.t2p.bigc"
   }
  ]
 }

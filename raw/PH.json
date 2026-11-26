@@ -368,6 +368,130 @@
    "use": "limited",
    "req": "Zahlung per GCash, Maya oder Karte je nach Ort",
    "src": "https://mb.com.ph/2025/12/03/new-parking-app-luvpark-lets-you-pick-and-reserve-a-spot-in-advance"
+  },
+  {
+   "name": "LezzGo Cebu",
+   "cat": "rail",
+   "pkg": "com.topline.travelapp",
+   "note": "Fahrten und Transfers in Cebu buchen",
+   "city": "Cebu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.topline.travelapp"
+  },
+  {
+   "name": "Barkota",
+   "cat": "rail",
+   "pkg": "com.barkota.mobilebooking",
+   "note": "Fährtickets vieler Reedereien",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.barkota.mobilebooking"
+  },
+  {
+   "name": "Chelsea Travel",
+   "cat": "rail",
+   "pkg": "ph.chelseatravel.www.ChelseaLogisticsVoyageBooking",
+   "note": "Fähren der Chelsea Gruppe buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ph.chelseatravel.www.ChelseaLogisticsVoyageBooking"
+  },
+  {
+   "name": "Xpress",
+   "cat": "taxi",
+   "pkg": "com.xpress.everydayapp",
+   "note": "Moto und Autotaxi bestellen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.xpress.everydayapp"
+  },
+  {
+   "name": "Carbnb",
+   "cat": "carshare",
+   "pkg": "com.cbrentals.carbnb",
+   "note": "Mietwagen von privat und Firmen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.cbrentals.carbnb"
+  },
+  {
+   "name": "MetroMart",
+   "cat": "delivery",
+   "pkg": "com.metromart.metromart",
+   "note": "Lebensmittel aus Supermärkten liefern",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.metromart.metromart"
+  },
+  {
+   "name": "Lalamove",
+   "cat": "delivery",
+   "pkg": "hk.easyvan.app.client",
+   "note": "Kurierfahrten in der Stadt",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=hk.easyvan.app.client"
+  },
+  {
+   "name": "PalawanPay",
+   "cat": "payment",
+   "pkg": "com.palawanpay.ewallet",
+   "note": "E-Wallet von Palawan Express",
+   "use": "limited",
+   "req": "PH-Nummer und Ausweisprüfung nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.palawanpay.ewallet"
+  },
+  {
+   "name": "Travel Philippines",
+   "cat": "tourism",
+   "pkg": "com.travelphilippines.app",
+   "note": "Offizielle App des Tourism Promotions Board",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.travelphilippines.app"
+  },
+  {
+   "name": "GO! Manila",
+   "cat": "tourism",
+   "pkg": "net.gomanila.app",
+   "note": "Offizielle Stadtapp Manila",
+   "city": "Manila",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.gomanila.app"
+  },
+  {
+   "name": "BIMP+ Baguio",
+   "cat": "tourism",
+   "pkg": "ph.gov.baguio.bimp",
+   "note": "Offizielle Stadtapp Baguio",
+   "city": "Baguio",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ph.gov.baguio.bimp"
+  },
+  {
+   "name": "Traveloka",
+   "cat": "hotels",
+   "pkg": "com.traveloka.android",
+   "note": "Hotels und Flüge buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.traveloka.android"
+  },
+  {
+   "name": "SM Malls Online",
+   "cat": "shopping",
+   "pkg": "com.smsupermalls.smmallsonline",
+   "note": "SM Malls, Geschäfte und Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.smsupermalls.smmallsonline"
+  },
+  {
+   "name": "Puregold Mobile",
+   "cat": "shopping",
+   "pkg": "com.grocery.puregold",
+   "note": "Supermarkt Puregold, Bestellung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.grocery.puregold"
+  },
+  {
+   "name": "Watsons Philippines",
+   "cat": "shopping",
+   "pkg": "com.mtelnet.watson.ph",
+   "note": "Drogerie Watsons, Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mtelnet.watson.ph"
   }
  ]
 }

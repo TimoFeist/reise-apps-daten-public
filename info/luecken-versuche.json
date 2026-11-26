@@ -305,10 +305,65 @@
    "gefunden": 0,
    "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
   },
+  "AR|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "AR|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Visumfrei für Deutsche bis 90 Tage, kein Online-Formular"
+  },
+  "AR|flights": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "AR|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "AR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "AR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "AR|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "AR|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "AR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "AR|transit": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
   },
   "AS|carshare": {
    "am": "2026-11-26",
@@ -694,6 +749,36 @@
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "BG|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BG|flights": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BG|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "BG|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "BG|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
   },
   "BH|entry": {
    "am": "2026-11-26",
@@ -1565,7 +1650,42 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "CO|flights": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "CO|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "CO|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CO|rail": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "CO|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 7,
+   "notiz": ""
+  },
+  "CO|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "CO|tourism": {
    "am": "2026-11-26",
    "gefunden": 1,
    "notiz": ""
@@ -1705,6 +1825,16 @@
    "gefunden": 0,
    "notiz": "Kein ÖPNV"
   },
+  "CY|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CY|flights": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "CY|payment": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -1715,9 +1845,69 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "CY|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "CY|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CZ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "CZ|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "CZ|flights": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CZ|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
   "CZ|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "CZ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CZ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "CZ|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 7,
+   "notiz": ""
+  },
+  "CZ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "CZ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 5,
    "notiz": ""
   },
   "DE|carshare": {
@@ -2145,9 +2335,69 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "FI|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FI|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "FI|flights": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FI|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FI|maps": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "FI|parking": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "FI|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "FI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "FI|safety": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "FI|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "FI|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 8,
+   "notiz": ""
+  },
+  "FI|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "FI|transit": {
+   "am": "2026-11-26",
+   "gefunden": 3,
    "notiz": ""
   },
   "FJ|carshare": {
@@ -2745,9 +2995,64 @@
    "gefunden": 0,
    "notiz": "Kein App-Angebot belegt"
   },
+  "GR|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GR|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GR|flights": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
   "GR|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "GR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "GR|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GR|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "GR|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "GR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GR|transit": {
+   "am": "2026-11-26",
+   "gefunden": 6,
    "notiz": ""
   },
   "GT|micro": {
@@ -2905,6 +3210,51 @@
    "gefunden": 0,
    "notiz": "kein App-Angebot gefunden"
   },
+  "HR|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HR|flights": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HR|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "HR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HR|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HR|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "HR|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "HR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HR|transit": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "HT|carshare": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -2940,9 +3290,189 @@
    "gefunden": 0,
    "notiz": "nur Tap-Taps ohne App"
   },
+  "HU|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HU|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HU|flights": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HU|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HU|micro": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "HU|rail": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "HU|safety": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "HU|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "HU|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "HU|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "HU|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ID|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ID|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "ID|flights": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "ID|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "ID|misc": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ID|payment": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "ID|rail": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "ID|safety": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "ID|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "ID|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ID|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ID|transit": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "IE|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "IE|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IE|flights": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "IE|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IE|micro": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IE|parking": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
   "IE|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "IE|rail": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "IE|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "IE|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "IE|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "IE|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IL|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "IL|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
    "notiz": ""
   },
   "IL|entry": {
@@ -2950,9 +3480,44 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "IL|flights": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "IL|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IL|maps": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IL|misc": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "IL|payment": {
    "am": "2026-11-26",
    "gefunden": 2,
+   "notiz": ""
+  },
+  "IL|safety": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "IL|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "IL|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
    "notiz": ""
   },
   "IM|carshare": {
@@ -3780,9 +4345,39 @@
    "gefunden": 0,
    "notiz": "Minibus-Taxis ohne App"
   },
+  "LT|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "LT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "LT|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "LT|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LT|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "LT|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "LT|transit": {
+   "am": "2026-11-26",
+   "gefunden": 2,
    "notiz": ""
   },
   "LU|payment": {
@@ -3815,10 +4410,30 @@
    "gefunden": 0,
    "notiz": "Kein Angebot belegt, Reisewarnung"
   },
+  "MA|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "MA|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Visumfrei, kein Online-Formular"
+  },
+  "MA|flights": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "MA|maps": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MA|misc": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
   },
   "MA|parking": {
    "am": "2026-11-26",
@@ -3828,6 +4443,21 @@
   "MA|payment": {
    "am": "2026-11-26",
    "gefunden": 2,
+   "notiz": ""
+  },
+  "MA|rail": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "MA|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MA|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 3,
    "notiz": ""
   },
   "MC|payment": {
@@ -4335,6 +4965,106 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "MX|flights": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MX|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MX|parking": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MX|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MX|rail": {
+   "am": "2026-11-26",
+   "gefunden": 7,
+   "notiz": ""
+  },
+  "MX|safety": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "MX|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "MX|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MX|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MX|transit": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "MY|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "MY|flights": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "MY|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MY|parking": {
+   "am": "2026-11-26",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "MY|rail": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MY|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MY|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "MY|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MY|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "MY|transit": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "MZ|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -4545,9 +5275,69 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "NL|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "NL|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "NL|flights": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "NL|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "NL|maps": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "NL|parking": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
   "NL|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "NL|rail": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "NL|safety": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "NL|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 7,
+   "notiz": ""
+  },
+  "NL|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NL|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 9,
+   "notiz": ""
+  },
+  "NL|transit": {
+   "am": "2026-11-26",
+   "gefunden": 2,
    "notiz": ""
   },
   "NO|carshare": {
@@ -4875,6 +5665,46 @@
    "gefunden": 0,
    "notiz": "Nur PMV-Minibusse ohne App"
   },
+  "PH|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PH|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PH|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PH|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PH|rail": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "PH|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "PH|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PH|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
   "PK|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -5035,6 +5865,51 @@
    "gefunden": 0,
    "notiz": "keine Eisenbahn in Betrieb"
   },
+  "PT|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PT|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "PT|flights": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "PT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "PT|rail": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PT|safety": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "PT|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "PT|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PT|transit": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
   "PW|delivery": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -5110,9 +5985,59 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "RO|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "RO|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "RO|flights": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "RO|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RO|misc": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
   "RO|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "RO|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 8,
+   "notiz": ""
+  },
+  "RO|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "RO|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "RO|transit": {
+   "am": "2026-11-26",
+   "gefunden": 5,
    "notiz": ""
   },
   "RS|entry": {
@@ -5535,10 +6460,40 @@
    "gefunden": 0,
    "notiz": "Kein Linien-ÖPNV mit App in Longyearbyen"
   },
+  "SK|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SK|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SK|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "SK|payment": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "keine eigene lokale Wallet, Karte/Google Pay üblich"
+  },
+  "SK|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "SK|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "SK|transit": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
   },
   "SL|carshare": {
    "am": "2026-11-26",
@@ -5995,6 +6950,66 @@
    "gefunden": 0,
    "notiz": "keine offizielle Tourismusseite bestätigt"
   },
+  "TH|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TH|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "TH|flights": {
+   "am": "2026-11-26",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "TH|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TH|maps": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TH|micro": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TH|payment": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "TH|rail": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "TH|safety": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "TH|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "TH|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TH|transit": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
   "TJ|carshare": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -6290,9 +7305,54 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "TW|flights": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "TW|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "TW|parking": {
+   "am": "2026-11-26",
+   "gefunden": 6,
+   "notiz": ""
+  },
   "TW|payment": {
    "am": "2026-11-26",
-   "gefunden": 1,
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "TW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "TW|safety": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "TW|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "TW|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "TW|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 8,
+   "notiz": ""
+  },
+  "TW|transit": {
+   "am": "2026-11-26",
+   "gefunden": 6,
    "notiz": ""
   },
   "TZ|micro": {
@@ -6570,6 +7630,21 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "VN|flights": {
+   "am": "2026-11-26",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "VN|hotels": {
+   "am": "2026-11-26",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "VN|maps": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "VN|parking": {
    "am": "2026-11-26",
    "gefunden": 1,
@@ -6577,7 +7652,22 @@
   },
   "VN|rail": {
    "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "VN|shopping": {
+   "am": "2026-11-26",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "VN|tourism": {
+   "am": "2026-11-26",
    "gefunden": 2,
+   "notiz": ""
+  },
+  "VN|transit": {
+   "am": "2026-11-26",
+   "gefunden": 5,
    "notiz": ""
   },
   "VU|delivery": {

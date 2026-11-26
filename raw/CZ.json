@@ -276,6 +276,251 @@
    "note": "Restaurantrechnung per QR Code am Tisch zahlen",
    "use": "ok",
    "src": "https://www.qerko.com/eng/pay"
+  },
+  {
+   "name": "MojeDPO",
+   "cat": "transit",
+   "pkg": "cz.dpo.app",
+   "note": "Fahrplan und Tickets für Ostrava",
+   "city": "Ostrava",
+   "use": "ok",
+   "src": "https://www.dpo.cz"
+  },
+  {
+   "name": "DPMCB",
+   "cat": "transit",
+   "pkg": "cz.dpmcb.dpmcb",
+   "note": "Verbindungen und Tickets in České Budějovice",
+   "city": "Ceske Budejovice",
+   "use": "ok",
+   "src": "https://www.dpmcb.cz"
+  },
+  {
+   "name": "Idolka",
+   "cat": "transit",
+   "pkg": "cz.oict.idolka",
+   "note": "Tickets für Bus und Bahn in der Region Liberec",
+   "city": "Liberec",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=cz.oict.idolka"
+  },
+  {
+   "name": "Vary Virtual",
+   "cat": "transit",
+   "pkg": "cz.odp.varyvirtual",
+   "note": "Handytickets für Busse in Karlsbad",
+   "city": "Karlovy Vary",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=cz.odp.varyvirtual"
+  },
+  {
+   "name": "KrumBusík",
+   "cat": "transit",
+   "pkg": "io.citya.pas.krumbusik",
+   "note": "Rufbus in Český Krumlov",
+   "city": "Cesky Krumlov",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=io.citya.pas.krumbusik"
+  },
+  {
+   "name": "Arriva CZ",
+   "cat": "rail",
+   "pkg": "cz.arriva.arrivapka",
+   "note": "Regionalzüge und Busse von Arriva",
+   "use": "ok",
+   "src": "https://arriva.cz"
+  },
+  {
+   "name": "CAR4WAY",
+   "cat": "carshare",
+   "pkg": "cz.car4way.car4way",
+   "note": "Carsharing in Prag und Brno",
+   "use": "ok",
+   "src": "https://www.car4way.cz"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing",
+   "use": "ok",
+   "src": "https://www.sixt.cz"
+  },
+  {
+   "name": "Smart4City Parkování",
+   "cat": "parking",
+   "pkg": "com.spel.smart4city2",
+   "note": "Parkgebühren in vielen Städten zahlen",
+   "use": "ok",
+   "src": "https://www.smart4city.cz"
+  },
+  {
+   "name": "ParkSimply Brno",
+   "cat": "parking",
+   "pkg": "cz.globdata.parksimply.brno",
+   "note": "Parken in Brno bezahlen",
+   "city": "Brno",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=cz.globdata.parksimply.brno"
+  },
+  {
+   "name": "MR.PARKIT",
+   "cat": "parking",
+   "pkg": "com.mrparkit.twa",
+   "note": "Parkplätze in Prag vorab reservieren",
+   "city": "Prag",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mrparkit.twa"
+  },
+  {
+   "name": "Rohlik.cz",
+   "cat": "delivery",
+   "pkg": "cz.rohlik.app",
+   "note": "Lebensmittel schnell nach Hause liefern",
+   "use": "limited",
+   "req": "Lieferadresse in CZ nötig",
+   "src": "https://www.rohlik.cz"
+  },
+  {
+   "name": "Košík.cz",
+   "cat": "delivery",
+   "pkg": "cz.kosik",
+   "note": "Online-Supermarkt mit Lieferung",
+   "use": "limited",
+   "req": "Lieferadresse in CZ nötig",
+   "src": "https://www.kosik.cz"
+  },
+  {
+   "name": "Tesco Online Groceries CZ",
+   "cat": "delivery",
+   "pkg": "cz.anywhere.itesco",
+   "note": "Tesco Einkauf mit Lieferung",
+   "use": "limited",
+   "req": "Lieferadresse in CZ nötig",
+   "src": "https://nakup.itesco.cz"
+  },
+  {
+   "name": "Prague CoolPass",
+   "cat": "tourism",
+   "pkg": "com.bookletia.coolpassprague",
+   "note": "Sightseeing-Pass für Prag mit Guide",
+   "city": "Prag",
+   "use": "ok",
+   "src": "https://www.praguecoolpass.com"
+  },
+  {
+   "name": "Play Brno",
+   "cat": "tourism",
+   "pkg": "com.TastyAir.PlayBrno",
+   "note": "Stadtführer der Touristeninfo Brno",
+   "city": "Brno",
+   "use": "ok",
+   "src": "https://www.gotobrno.cz"
+  },
+  {
+   "name": "Olomouc region Card",
+   "cat": "tourism",
+   "pkg": "com.cardberg.olomouccard",
+   "note": "Gästekarte für Olomouc und Jeseníky",
+   "city": "Olomouc",
+   "use": "ok",
+   "src": "https://www.olomoucregioncard.cz"
+  },
+  {
+   "name": "Vlakem na výlet",
+   "cat": "tourism",
+   "pkg": "cz.vlakemnavylet",
+   "note": "Ausflugstipps mit dem Zug von ČD",
+   "use": "ok",
+   "src": "https://www.cd.cz"
+  },
+  {
+   "name": "Počasí ČHMÚ",
+   "cat": "safety",
+   "pkg": "cz.chmu.pocasi",
+   "note": "Wetter und Warnungen des Wetterdienstes",
+   "use": "ok",
+   "src": "https://www.chmi.cz"
+  },
+  {
+   "name": "Meteor meteoradar",
+   "cat": "safety",
+   "pkg": "org.androworks.meteor",
+   "note": "Regenradar für Tschechien",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=org.androworks.meteor"
+  },
+  {
+   "name": "Smartwings",
+   "cat": "flights",
+   "pkg": "com.amadeus.merci.qs",
+   "note": "Größte tschechische Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.smartwings.com"
+  },
+  {
+   "name": "Campu.eu",
+   "cat": "hotels",
+   "pkg": "cz.bezkempu.bezkempu",
+   "note": "Legales Wildcampen auf Privatgrund",
+   "use": "ok",
+   "src": "https://campu.eu"
+  },
+  {
+   "name": "Můj Albert",
+   "cat": "shopping",
+   "pkg": "cz.albert.app",
+   "note": "Supermarktkette Albert, Angebote",
+   "use": "ok",
+   "src": "https://www.albert.cz"
+  },
+  {
+   "name": "BILLA",
+   "cat": "shopping",
+   "pkg": "at.billa.international.czech",
+   "note": "Supermarktkette BILLA, Angebote",
+   "use": "ok",
+   "src": "https://www.billa.cz"
+  },
+  {
+   "name": "PENNY",
+   "cat": "shopping",
+   "pkg": "cz.penny.app",
+   "note": "Discounter PENNY, Angebote",
+   "use": "ok",
+   "src": "https://www.penny.cz"
+  },
+  {
+   "name": "Tesco Clubcard",
+   "cat": "shopping",
+   "pkg": "cz.tesco.clubcard",
+   "note": "Tesco Kundenkarte und Angebote",
+   "use": "ok",
+   "src": "https://www.itesco.cz"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialen von Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.cz"
+  },
+  {
+   "name": "Kaufland",
+   "cat": "shopping",
+   "pkg": "com.kaufland.Kaufland",
+   "note": "Angebote und Filialen von Kaufland",
+   "use": "ok",
+   "src": "https://www.kaufland.cz"
+  },
+  {
+   "name": "Alza",
+   "cat": "shopping",
+   "pkg": "cz.alza.eshop",
+   "note": "Größter Onlinehändler, Abholboxen",
+   "use": "ok",
+   "src": "https://www.alza.cz"
   }
  ]
 }

@@ -276,6 +276,248 @@
    "url": "https://www.visitlisboa.com/en/p/lisboa-card",
    "nostore": true,
    "src": "https://shop.visitlisboa.com/collections/tourist-cards/products/lisboa-card"
+  },
+  {
+   "name": "SMTUC",
+   "cat": "transit",
+   "pkg": "pt.smtuc.move_me3",
+   "note": "Stadtbusse Coimbra, Fahrplan und Tickets",
+   "city": "Coimbra",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.smtuc.move_me3",
+   "src": "https://www.smtuc.pt"
+  },
+  {
+   "name": "TUB Mobile",
+   "cat": "transit",
+   "pkg": "pt.tub.smartapp",
+   "note": "Stadtbusse Braga, offizielle App",
+   "city": "Braga",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.tub.smartapp",
+   "src": "https://www.tub.pt"
+  },
+  {
+   "name": "guimabus",
+   "cat": "transit",
+   "pkg": "pt.eleven.gmr",
+   "note": "Stadtbusse in Guimarães",
+   "city": "Guimaraes",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.eleven.gmr",
+   "src": "https://guimabus.pt"
+  },
+  {
+   "name": "PDL MiniBus",
+   "cat": "transit",
+   "pkg": "pt.eleven.pdl",
+   "note": "Minibusse in Ponta Delgada, Azoren",
+   "city": "Ponta Delgada",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.eleven.pdl",
+   "src": "https://pdlminibus.pt"
+  },
+  {
+   "name": "TTSL Transtejo",
+   "cat": "rail",
+   "pkg": "pt.transtejo.ttsl",
+   "note": "Fähren über den Tejo in Lissabon",
+   "city": "Lissabon",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.transtejo.ttsl",
+   "src": "https://ttsl.pt/"
+  },
+  {
+   "name": "Fertagus",
+   "cat": "rail",
+   "pkg": "pt.browsersa.fertagus.android",
+   "note": "Vorortzug über die Brücke 25 de Abril",
+   "city": "Lissabon",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.browsersa.fertagus.android",
+   "src": "https://www.fertagus.pt"
+  },
+  {
+   "name": "Taxi-Link",
+   "cat": "taxi",
+   "pkg": "pt.geolink.taxilinkclient",
+   "note": "Landesweite App für reguläre Taxis",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.geolink.taxilinkclient",
+   "src": "https://www.taxi-link.com/"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und in Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sixt.reservation",
+   "src": "https://www.sixt.pt"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.europcar.europcarmobility",
+   "note": "Mietwagen buchen und verwalten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.europcar.europcarmobility",
+   "src": "https://www.europcar.pt"
+  },
+  {
+   "name": "Via Verde",
+   "cat": "parking",
+   "pkg": "pt.viaverde.clientes",
+   "note": "Maut, Parkhäuser und Parken per App",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.viaverde.clientes",
+   "src": "https://www.viaverde.pt"
+  },
+  {
+   "name": "Telpark",
+   "cat": "parking",
+   "pkg": "com.delaware.empark",
+   "note": "Straßenparken und Parkhäuser bezahlen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.delaware.empark",
+   "src": "https://www.telpark.com/"
+  },
+  {
+   "name": "iParque Driver",
+   "cat": "parking",
+   "pkg": "com.acin.iparque",
+   "note": "Parken in vielen Gemeinden bezahlen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.acin.iparque",
+   "src": "https://driver.iparque.pt/"
+  },
+  {
+   "name": "Continente Online",
+   "cat": "delivery",
+   "pkg": "pt.continente.LojaContinente",
+   "note": "Supermarkteinkauf mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.continente.LojaContinente",
+   "src": "https://www.continente.pt"
+  },
+  {
+   "name": "Quico Continente",
+   "cat": "delivery",
+   "pkg": "pt.continente.quico",
+   "note": "Lebensmittel in rund 30 Minuten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.continente.quico",
+   "src": "https://www.continente.pt"
+  },
+  {
+   "name": "Too Good To Go",
+   "cat": "delivery",
+   "pkg": "com.app.tgtg",
+   "note": "Übrig gebliebenes Essen günstig retten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.app.tgtg",
+   "src": "https://www.toogoodtogo.com"
+  },
+  {
+   "name": "O Meu Pingo Doce",
+   "cat": "shopping",
+   "pkg": "pt.pingodoce",
+   "note": "Supermarktkette Pingo Doce, Angebote",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.pingodoce",
+   "src": "https://www.pingodoce.pt"
+  },
+  {
+   "name": "Cartão Continente",
+   "cat": "shopping",
+   "pkg": "pt.continente.ContinenteTelemovel",
+   "note": "Treuekarte und Coupons bei Continente",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.continente.ContinenteTelemovel",
+   "src": "https://www.continente.pt"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Prospekte bei Lidl",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus",
+   "src": "https://www.lidlplus.com"
+  },
+  {
+   "name": "Mercadona",
+   "cat": "shopping",
+   "pkg": "es.mercadona.tienda",
+   "note": "Supermärkte Mercadona, auch Onlineeinkauf",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=es.mercadona.tienda",
+   "src": "https://www.mercadona.pt"
+  },
+  {
+   "name": "Meteo@IPMA",
+   "cat": "safety",
+   "pkg": "pt.ipma.meteo",
+   "note": "Offizielle Wettervorhersage des IPMA",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.ipma.meteo",
+   "src": "https://www.ipma.pt"
+  },
+  {
+   "name": "Avisos@IPMA",
+   "cat": "safety",
+   "pkg": "pt.ipma.avisos",
+   "note": "Amtliche Wetterwarnungen Portugal",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.ipma.avisos",
+   "src": "https://www.ipma.pt"
+  },
+  {
+   "name": "MadeiraWeather",
+   "cat": "safety",
+   "pkg": "com.ciimarmadeira.madeiraweather",
+   "note": "Wetter und Meer für Madeira",
+   "city": "Madeira",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ciimarmadeira.madeiraweather",
+   "src": "https://play.google.com/store/apps/details?id=com.ciimarmadeira.madeiraweather"
+  },
+  {
+   "name": "Azores Quake",
+   "cat": "safety",
+   "pkg": "pt.gov.ivar",
+   "note": "Erdbebenmeldungen Azoren von CIVISA",
+   "city": "Azores",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.gov.ivar",
+   "src": "https://play.google.com/store/apps/details?id=pt.gov.ivar"
+  },
+  {
+   "name": "TAP Air Portugal",
+   "cat": "flights",
+   "pkg": "com.megasis.android",
+   "note": "Nationale Airline, Buchung und Check-in",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.megasis.android",
+   "src": "https://www.flytap.com"
+  },
+  {
+   "name": "ANA Portuguese Airports",
+   "cat": "flights",
+   "pkg": "com.innovagency.ana",
+   "note": "Flughäfen Lissabon, Porto, Faro, Inseln",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.innovagency.ana",
+   "src": "https://www.ana.pt"
+  },
+  {
+   "name": "SATA Azores Airlines",
+   "cat": "flights",
+   "pkg": "pt.sata.lookup",
+   "note": "Airline der Azoren, Inselflüge",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=pt.sata.lookup",
+   "src": "https://www.azoresairlines.pt/"
   }
  ]
 }

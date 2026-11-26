@@ -341,6 +341,137 @@
    "url": "https://israel-entry.piba.gov.il/",
    "nostore": true,
    "src": "https://new.embassies.gov.il/berlin/en/services/foreign-citizens/entry-visa-visiting-or-touring-israel"
+  },
+  {
+   "name": "Bus Nearby",
+   "cat": "transit",
+   "pkg": "com.mosko.bus",
+   "note": "Echtzeit für Bus und Bahn in ganz Israel",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mosko.bus"
+  },
+  {
+   "name": "AutoTel",
+   "cat": "carshare",
+   "pkg": "com.car2go.autotel",
+   "note": "Städtisches Carsharing in Tel Aviv Jaffa",
+   "city": "Tel Aviv",
+   "use": "limited",
+   "req": "Israelischer oder internationaler Führerschein nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.car2go.autotel"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen von Shlomo Sixt in Israel",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sixt.reservation"
+  },
+  {
+   "name": "HAAT Delivery",
+   "cat": "delivery",
+   "pkg": "com.haat.client",
+   "note": "Essen und Einkäufe liefern lassen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.haat.client"
+  },
+  {
+   "name": "Yango Deli",
+   "cat": "delivery",
+   "pkg": "com.yandex.yangodeli",
+   "note": "Schnelle Lebensmittellieferung in Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.yandex.yangodeli"
+  },
+  {
+   "name": "Shufersal",
+   "cat": "shopping",
+   "pkg": "com.Shufersal",
+   "note": "Größte Supermarktkette, Online Einkauf",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.Shufersal"
+  },
+  {
+   "name": "Super-Pharm",
+   "cat": "shopping",
+   "pkg": "com.moblin.superpharm",
+   "note": "Drogerie und Apothekenkette, Filialsuche",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.moblin.superpharm"
+  },
+  {
+   "name": "Ben Gurion Airport",
+   "cat": "flights",
+   "pkg": "com.iaa.mobile",
+   "note": "Offizielle App des Flughafens Tel Aviv",
+   "city": "Tel Aviv",
+   "use": "ok",
+   "src": "https://www.iaa.gov.il"
+  },
+  {
+   "name": "EL AL",
+   "cat": "flights",
+   "pkg": "il.co.elal.mobile",
+   "note": "Nationale Airline Israels",
+   "use": "ok",
+   "src": "https://www.elal.com"
+  },
+  {
+   "name": "Israir",
+   "cat": "flights",
+   "pkg": "co.pushapp.israir",
+   "note": "Israelische Airline, auch Flüge nach Eilat",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=co.pushapp.israir"
+  },
+  {
+   "name": "Israel Meteorological Service",
+   "cat": "safety",
+   "pkg": "il.gov.ims.app",
+   "note": "Offizieller Wetterdienst mit Warnungen",
+   "use": "ok",
+   "src": "https://ims.gov.il"
+  },
+  {
+   "name": "MY MDA",
+   "cat": "safety",
+   "pkg": "il.org.mda.mymada",
+   "note": "Offizielle Rettungsdienst App, Notruf mit Ort",
+   "use": "ok",
+   "src": "https://www.mdais.org"
+  },
+  {
+   "name": "Tzofar Red Alert",
+   "cat": "safety",
+   "pkg": "com.redalert.tzevaadom",
+   "note": "Raketenalarm in Echtzeit auf dem Handy",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.redalert.tzevaadom"
+  },
+  {
+   "name": "Israel Hiking Map",
+   "cat": "maps",
+   "pkg": "il.org.osm.israelhiking",
+   "note": "Offline Wanderkarte für ganz Israel",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=il.org.osm.israelhiking"
+  },
+  {
+   "name": "Isrotel",
+   "cat": "hotels",
+   "pkg": "com.isrotel.guestapp",
+   "note": "Große Hotelkette, auch in Eilat und am Toten Meer",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.isrotel.guestapp"
+  },
+  {
+   "name": "Ontopo",
+   "cat": "misc",
+   "pkg": "io.ontopo.topapp",
+   "note": "Restaurants finden und Tisch reservieren",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=io.ontopo.topapp"
   }
  ]
 }

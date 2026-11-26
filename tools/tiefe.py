@@ -2,7 +2,8 @@
 dort nutzen können, nicht nur eine je Kategorie), und schreibt sie mit den schon vorhandenen Apps nach queue/tiefe.json.
 
 Reihenfolge: Länder mit vielen Einträgen und Städten (große Reiseziele) zuerst; ein Land kommt erst 90 Tage nach
-seiner letzten Vollständigkeitsprüfung wieder dran (info/tiefe-versuche.json: {"laender": {"<ISO>": "JJJJ-MM-TT"}}).
+seiner letzten Vollständigkeitsprüfung wieder dran (info/tiefe-versuche.json: {"laender": {"<ISO>": {"am": "JJJJ-MM-TT", "regionen": true}}}).
+Länder, die vor Einführung der Urlaubsregionen geprüft wurden (nur Datum), kommen noch einmal dran.
 
 Aufruf: python3 tools/tiefe.py 8              (die nächsten 8 Länder nach queue/tiefe.json)
         python3 tools/tiefe.py --erledigt DE FR  (Prüfung für diese Länder heute eintragen)
@@ -25,7 +26,7 @@ def save():
 
 if len(sys.argv) > 1 and sys.argv[1] == "--erledigt":
     for cc in sys.argv[2:]:
-        vers["laender"][cc.upper()] = today.isoformat()
+        vers["laender"][cc.upper()] = {"am": today.isoformat(), "regionen": True}
     save()
     print("eingetragen:", " ".join(sys.argv[2:]))
     sys.exit(0)
@@ -39,13 +40,15 @@ for c in data["countries"]:
     if cc == "WW":
         continue
     last = vers["laender"].get(cc)
-    if last and (today - datetime.date.fromisoformat(last)).days < 90:
+    # alte Einträge (nur Datum) wurden noch ohne Urlaubsregionen geprüft und kommen wieder dran
+    if isinstance(last, dict) and last.get("regionen") and (today - datetime.date.fromisoformat(last["am"])).days < 90:
         continue
     weight = len(c["apps"]) + sum(len(ci["apps"]) for ci in c.get("cities", [])) + 5 * len(c.get("cities", []))
-    cand.append((weight, cc, c))
-cand.sort(key=lambda x: (-x[0], x[1]))
+    cand.append((1 if last else 0, weight, cc, c))
+# nie geprüfte Länder zuerst, dann die ohne Urlaubsregionen bzw. ältesten; je Gruppe große Reiseziele zuerst
+cand.sort(key=lambda x: (x[0], -x[1], x[2]))
 out = []
-for _, cc, c in cand[:n]:
+for _, _, cc, c in cand[:n]:
     have = {k: [] for k in KAT}
     for a in c["apps"]:
         have.setdefault(a["cat"], []).append(a["name"])
@@ -58,4 +61,4 @@ for _, cc, c in cand[:n]:
     out.append({"cc": cc, "name": c["name"], "staedte": [ci["name"] for ci in c.get("cities", [])],
                 "vorhanden": {k: sorted(set(v)) for k, v in have.items() if v or k in KAT[:11]}})
 json.dump({"stand": today.isoformat(), "laender": out}, open(OUT, "w", encoding="utf-8", newline="\n"), ensure_ascii=False, indent=1)
-print("ausgewählt:", " ".join(x["cc"] for x in out), "· noch nicht geprüft:", len(cand) - len(out))
+print("ausgewählt:", " ".join(x["cc"] for x in out), "· danach noch offen:", len(cand) - len(out))

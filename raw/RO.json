@@ -241,6 +241,309 @@
    "url": "https://www.transfond.ro/ropay/",
    "nostore": true,
    "src": "https://hotnews.ro/ropay-noua-metoda-de-plata-cu-telefonul-pentru-care-nu-ai-nevoie-de-date-bancare-ci-foosesti-doar-un-cod-qr-1812506"
+  },
+  {
+   "name": "SibiuBus",
+   "cat": "transit",
+   "pkg": "snt.eticketing.mobileapp",
+   "note": "Routen und Tickets für Stadtbusse in Sibiu",
+   "city": "Sibiu",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=snt.eticketing.mobileapp",
+   "src": "https://play.google.com/store/apps/details?id=snt.eticketing.mobileapp"
+  },
+  {
+   "name": "CT Bus",
+   "cat": "transit",
+   "pkg": "ro.ratc",
+   "note": "Stadtbusse Constanța, auch Linien nach Mamaia",
+   "city": "Constanta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.ratc",
+   "src": "https://play.google.com/store/apps/details?id=ro.ratc"
+  },
+  {
+   "name": "IA’ȘI BILET",
+   "cat": "transit",
+   "pkg": "ro.iasi.ctp",
+   "note": "Tickets für Bus und Tram in Iași",
+   "city": "Iasi",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.iasi.ctp",
+   "src": "https://www.sctpiasi.ro/"
+  },
+  {
+   "name": "Sinaia Transport",
+   "cat": "transit",
+   "pkg": "com.modeshift.sinaia",
+   "note": "Stadtbus Sinaia, Fahrplan und Tickets",
+   "city": "Sinaia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.modeshift.sinaia",
+   "src": "https://sinaia-transport.com/"
+  },
+  {
+   "name": "Transport Public Tulcea",
+   "cat": "transit",
+   "pkg": "com.modeshift.tulcea",
+   "note": "Stadtbus Tulcea, Tor zum Donaudelta",
+   "city": "Tulcea",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.modeshift.tulcea",
+   "src": "https://www.modeshift.com/"
+  },
+  {
+   "name": "Speed Taxi",
+   "cat": "taxi",
+   "pkg": "ro.mobiessence.android.clevertaxi.speedtaxi",
+   "note": "Große Taxizentrale in Bukarest",
+   "city": "Bukarest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.mobiessence.android.clevertaxi.speedtaxi",
+   "src": "http://www.speedtaxi.ro"
+  },
+  {
+   "name": "Meridian Taxi",
+   "cat": "taxi",
+   "pkg": "ro.meridiantaxi.client",
+   "note": "Taxizentrale Meridian in Bukarest",
+   "city": "Bukarest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.meridiantaxi.client",
+   "src": "https://meridiantaxi.ro/"
+  },
+  {
+   "name": "Cluj TAXI",
+   "cat": "taxi",
+   "pkg": "com.cluj.taxi",
+   "note": "Taxi Pro Napoca in Cluj bestellen",
+   "city": "Cluj-Napoca",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cluj.taxi",
+   "src": "https://play.google.com/store/apps/details?id=com.cluj.taxi"
+  },
+  {
+   "name": "ROTAXI Brasov",
+   "cat": "taxi",
+   "pkg": "com.indexapp.rotaxi",
+   "note": "Taxizentrale in Brașov",
+   "city": "Brasov",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.indexapp.rotaxi",
+   "src": "https://play.google.com/store/apps/details?id=com.indexapp.rotaxi"
+  },
+  {
+   "name": "CTtaxi",
+   "cat": "taxi",
+   "pkg": "ro.indexdispatch.cttaxi",
+   "note": "Taxi in Constanța und Mamaia",
+   "city": "Constanta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.indexdispatch.cttaxi",
+   "src": "https://play.google.com/store/apps/details?id=ro.indexdispatch.cttaxi"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und in Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sixt.reservation",
+   "src": "https://www.sixt.ro"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.europcar.europcarmobility",
+   "note": "Mietwagen buchen und verwalten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.europcar.europcarmobility",
+   "src": "https://www.europcar.ro"
+  },
+  {
+   "name": "AmParcat",
+   "cat": "parking",
+   "pkg": "com.tapptitude.amparcat",
+   "note": "Parken per App in vielen Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.tapptitude.amparcat",
+   "src": "https://amparcat.ro"
+  },
+  {
+   "name": "Parking Bucuresti",
+   "cat": "parking",
+   "pkg": "com.cmpb.bordeac03",
+   "note": "Städtisches Parken in Bukarest bezahlen",
+   "city": "Bukarest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cmpb.bordeac03",
+   "src": "https://play.google.com/store/apps/details?id=com.cmpb.bordeac03"
+  },
+  {
+   "name": "Constanta Parking",
+   "cat": "parking",
+   "pkg": "com.constantaparking",
+   "note": "Parkplätze in Constanța finden und zahlen",
+   "city": "Constanta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.constantaparking",
+   "src": "https://play.google.com/store/apps/details?id=com.constantaparking"
+  },
+  {
+   "name": "Freshful by eMAG",
+   "cat": "delivery",
+   "pkg": "ro.freshful.app",
+   "note": "Online-Supermarkt mit Lieferung, Bukarest",
+   "city": "Bukarest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.freshful.app",
+   "src": "https://www.freshful.ro/"
+  },
+  {
+   "name": "Bringo",
+   "cat": "delivery",
+   "pkg": "ro.ascendnet.bringo",
+   "note": "Einkauf aus Supermärkten liefern lassen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.ascendnet.bringo",
+   "src": "https://www.bringo.ro"
+  },
+  {
+   "name": "Attractive Romania",
+   "cat": "tourism",
+   "pkg": "net.mipe.android.romania_atractiva",
+   "note": "Reiseziele und Routen, staatliche App",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=net.mipe.android.romania_atractiva",
+   "src": "https://play.google.com/store/apps/details?id=net.mipe.android.romania_atractiva"
+  },
+  {
+   "name": "Brașov Tourism",
+   "cat": "tourism",
+   "pkg": "net.eventya.android.brasov_county",
+   "note": "Offizielle Tourismus-App des Kreises Brașov",
+   "city": "Brasov",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=net.eventya.android.brasov_county",
+   "src": "https://brasovtourism.app/"
+  },
+  {
+   "name": "TAROM",
+   "cat": "flights",
+   "pkg": "com.tarom.app.ro",
+   "note": "Nationale Fluggesellschaft, Buchung, Check-in",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.tarom.app.ro",
+   "src": "https://www.tarom.ro"
+  },
+  {
+   "name": "Henri AppPort",
+   "cat": "flights",
+   "pkg": "com.expremio.henriappport",
+   "note": "App des Flughafens Bukarest Henri Coandă",
+   "city": "Bukarest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.expremio.henriappport",
+   "src": "https://bucharestairports.ro/en/news/the-first-mobile-application-in-romania-designed-for-an-airport"
+  },
+  {
+   "name": "GoVola",
+   "cat": "flights",
+   "pkg": "com.vola.ro",
+   "note": "Rumänisches Flug- und Hotelportal Vola",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.vola.ro",
+   "src": "https://www.vola.ro"
+  },
+  {
+   "name": "Travelminit",
+   "cat": "hotels",
+   "pkg": "ro.travelminit.app",
+   "note": "Rumänisches Portal für Hotels und Pensionen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.travelminit.app",
+   "src": "https://travelminit.ro/app"
+  },
+  {
+   "name": "Kaufland",
+   "cat": "shopping",
+   "pkg": "com.kaufland.Kaufland",
+   "note": "Angebote und Filialen von Kaufland",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.kaufland.Kaufland",
+   "src": "https://www.kaufland.ro"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Prospekte bei Lidl",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus",
+   "src": "https://www.lidlplus.com"
+  },
+  {
+   "name": "Mega Image",
+   "cat": "shopping",
+   "pkg": "ro.delhaize",
+   "note": "Supermärkte Mega Image, Angebote",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.delhaize",
+   "src": "https://www.mega-image.ro"
+  },
+  {
+   "name": "Profi",
+   "cat": "shopping",
+   "pkg": "ro.profi.store",
+   "note": "Nachbarschaftsmärkte Profi, oft lang geöffnet",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.profi.store",
+   "src": "https://www.profi.ro"
+  },
+  {
+   "name": "Carrefour România",
+   "cat": "shopping",
+   "pkg": "com.carrefourpay.ro",
+   "note": "Angebote und Treuekarte bei Carrefour",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.carrefourpay.ro",
+   "src": "https://carrefour.ro"
+  },
+  {
+   "name": "PENNY România",
+   "cat": "shopping",
+   "pkg": "ro.penny.app",
+   "note": "Discounter PENNY, Prospekte und Coupons",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.penny.app",
+   "src": "https://www.penny.ro"
+  },
+  {
+   "name": "Auchan",
+   "cat": "shopping",
+   "pkg": "com.auchan.smi",
+   "note": "Hypermärkte Auchan, Angebote",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.auchan.smi",
+   "src": "https://www.auchan.ro"
+  },
+  {
+   "name": "eMAG",
+   "cat": "shopping",
+   "pkg": "ro.emag.android",
+   "note": "Größter Onlinehändler des Landes",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.emag.android",
+   "src": "https://www.emag.ro"
+  },
+  {
+   "name": "TollRo",
+   "cat": "misc",
+   "pkg": "ro.cnair.tollro",
+   "note": "Offizielle Rovinieta und Brückenmaut kaufen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ro.cnair.tollro",
+   "src": "https://www.roviniete.ro"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, Diskriminierung ist gesetzlich verboten, gesellschaftliche Vorbehalte gibt es aber.",

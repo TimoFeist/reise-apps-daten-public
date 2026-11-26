@@ -289,6 +289,181 @@
    "use": "limited",
    "req": "Vietnamesische Nummer oder Bankkonto nötig",
    "src": "https://en.vietnamplus.vn/smart-parking-app-debuts-in-downtown-hcm-city/119920.vnp"
+  },
+  {
+   "name": "Thẻ Vé Giao Thông HN",
+   "cat": "transit",
+   "pkg": "com.vnpass.hn_bus_customer",
+   "note": "Offizielle Buskarte Hanoi, virtuelle Karte",
+   "city": "Hanoi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.vnpass.hn_bus_customer"
+  },
+  {
+   "name": "VinBus",
+   "cat": "transit",
+   "pkg": "vn.vinbus.app.prd",
+   "note": "E-Busse VinBus Hanoi, Fahrpläne",
+   "city": "Hanoi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=vn.vinbus.app.prd"
+  },
+  {
+   "name": "VinBus",
+   "cat": "transit",
+   "pkg": "vn.vinbus.app.prd",
+   "note": "E-Busse auf Phu Quoc, Fahrpläne",
+   "city": "Phu Quoc",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=vn.vinbus.app.prd"
+  },
+  {
+   "name": "Go!Bus HCMC",
+   "cat": "transit",
+   "pkg": "com.fts.mybus",
+   "note": "Busse Ho Chi Minh Stadt, Echtzeit",
+   "city": "Ho Chi Minh City",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.fts.mybus"
+  },
+  {
+   "name": "DanaBus",
+   "cat": "transit",
+   "pkg": "asia.vietnam.danabus.danang",
+   "note": "Stadtbusse Da Nang, offizielle Stadtapp",
+   "city": "Da Nang",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=asia.vietnam.danabus.danang"
+  },
+  {
+   "name": "FUTA Bus Lines",
+   "cat": "rail",
+   "pkg": "client.facecar.com",
+   "note": "Fernbusse Phuong Trang buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=client.facecar.com"
+  },
+  {
+   "name": "Danang Smart City",
+   "cat": "tourism",
+   "pkg": "com.smartdngapp",
+   "note": "Offizielle Stadtapp Da Nang",
+   "city": "Da Nang",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.smartdngapp"
+  },
+  {
+   "name": "Vietnam Travel",
+   "cat": "tourism",
+   "pkg": "com.biin.tourism",
+   "note": "Offizielle App der Tourismusbehörde",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.biin.tourism"
+  },
+  {
+   "name": "VIETMAP LIVE",
+   "cat": "maps",
+   "pkg": "vn.vietmap.live",
+   "note": "Vietnamesische Navigation mit Blitzern",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=vn.vietmap.live"
+  },
+  {
+   "name": "Vietnam Airlines",
+   "cat": "flights",
+   "pkg": "com.vietnamairlines.android.app",
+   "note": "Nationale Fluglinie, Buchung, Check-in",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.vietnamairlines.android.app"
+  },
+  {
+   "name": "VietJet Air",
+   "cat": "flights",
+   "pkg": "com.vietjetair.vjmobileapp",
+   "note": "Größter Billigflieger Vietnams",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.vietjetair.vjmobileapp"
+  },
+  {
+   "name": "Bamboo Airways",
+   "cat": "flights",
+   "pkg": "com.bambooairways.app",
+   "note": "Inlandsflüge Bamboo Airways",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bambooairways.app"
+  },
+  {
+   "name": "Sun PhuQuoc Airways",
+   "cat": "flights",
+   "pkg": "sun.phuquoc.airways",
+   "note": "Neue Fluglinie mit Basis Phu Quoc",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=sun.phuquoc.airways"
+  },
+  {
+   "name": "iNIA",
+   "cat": "flights",
+   "pkg": "com.noibaiairport.nia",
+   "note": "Offizielle App Flughafen Noi Bai",
+   "city": "Hanoi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.noibaiairport.nia"
+  },
+  {
+   "name": "Traveloka",
+   "cat": "hotels",
+   "pkg": "com.traveloka.android",
+   "note": "Hotels und Flüge, in Vietnam verbreitet",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.traveloka.android"
+  },
+  {
+   "name": "MyVinpearl",
+   "cat": "hotels",
+   "pkg": "net.cloudhms.booking.vinpearl",
+   "note": "Resorts und Parks von Vinpearl",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.cloudhms.booking.vinpearl"
+  },
+  {
+   "name": "Go2Joy",
+   "cat": "hotels",
+   "pkg": "com.appromobile.hotel",
+   "note": "Hotels stundenweise oder für die Nacht",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.appromobile.hotel"
+  },
+  {
+   "name": "GO!",
+   "cat": "shopping",
+   "pkg": "com.bigc.appbigc",
+   "note": "Hypermärkte GO! und Big C",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bigc.appbigc"
+  },
+  {
+   "name": "LOTTE Mart Vietnam",
+   "cat": "shopping",
+   "pkg": "vn.ldcc.martonline",
+   "note": "LOTTE Mart, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=vn.ldcc.martonline"
+  },
+  {
+   "name": "AEONMALL Vietnam",
+   "cat": "shopping",
+   "pkg": "com.aeonmall.app",
+   "note": "Einkaufszentren AEON Mall, Infos",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.aeonmall.app"
+  },
+  {
+   "name": "CK Club",
+   "cat": "shopping",
+   "pkg": "com.app.ckvietnam",
+   "note": "Circle K Vietnam, Angebote und Punkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.app.ckvietnam"
   }
  ]
 }

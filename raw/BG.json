@@ -274,6 +274,110 @@
    "url": "https://visitbulgaria.com",
    "nostore": true,
    "src": "https://visitbulgaria.com"
+  },
+  {
+   "name": "Triumf Taxi",
+   "cat": "taxi",
+   "pkg": "com.triumftaxi.app.android",
+   "note": "Große Taxizentrale in Varna, Kartenzahlung",
+   "city": "Varna",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.triumftaxi.app.android",
+   "src": "https://triumftaxi.com"
+  },
+  {
+   "name": "Hippo Taxi",
+   "cat": "taxi",
+   "pkg": "app.hippotaxi.bg",
+   "note": "Taxi bestellen in Varna, Zahlung per Karte",
+   "city": "Varna",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=app.hippotaxi.bg",
+   "src": "https://hippotaxi.bg"
+  },
+  {
+   "name": "Varna Parking",
+   "cat": "parking",
+   "pkg": "bg.varna.parking.public",
+   "note": "Blaue Zone Varna per App bezahlen",
+   "city": "Varna",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bg.varna.parking.public",
+   "src": "https://play.google.com/store/apps/details?id=bg.varna.parking.public"
+  },
+  {
+   "name": "Takeaway.com Bulgaria",
+   "cat": "delivery",
+   "pkg": "com.bgmenu.android",
+   "note": "Essen bestellen, ehemals BGmenu",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.bgmenu.android",
+   "src": "https://www.takeaway.com/bg/"
+  },
+  {
+   "name": "Kaufland",
+   "cat": "shopping",
+   "pkg": "com.kaufland.Kaufland",
+   "note": "Angebote und Filialen von Kaufland Bulgarien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.kaufland.Kaufland",
+   "src": "https://www.kaufland.bg"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Prospekte bei Lidl",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus",
+   "src": "https://www.lidlplus.com"
+  },
+  {
+   "name": "BILLA България",
+   "cat": "shopping",
+   "pkg": "bg.billa.app",
+   "note": "Angebote und Bonus der Kette BILLA",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bg.billa.app",
+   "src": "https://www.billa.bg"
+  },
+  {
+   "name": "eMAG",
+   "cat": "shopping",
+   "pkg": "bg.emag.android",
+   "note": "Größter Onlinehändler des Landes",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bg.emag.android",
+   "src": "https://www.emag.bg"
+  },
+  {
+   "name": "Bulgaria Air",
+   "cat": "flights",
+   "pkg": "bg.air.mobile",
+   "note": "Nationale Fluggesellschaft, Check-in",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bg.air.mobile",
+   "src": "https://www.air.bg"
+  },
+  {
+   "name": "Bansko Ski",
+   "cat": "tourism",
+   "pkg": "bg.openlinksw.banskoski",
+   "note": "Offizielle App des Skigebiets Bansko",
+   "city": "Bansko",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bg.openlinksw.banskoski",
+   "src": "http://banskoski.com"
+  },
+  {
+   "name": "My Borovets",
+   "cat": "tourism",
+   "pkg": "bg.openlinksw.myborovets",
+   "note": "Lifte, Pisten und Skipass in Borovets",
+   "city": "Borovets",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bg.openlinksw.myborovets",
+   "src": "https://www.borovets-bg.com"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen und Diskriminierung ist verboten, Ehe oder Partnerschaft für gleichgeschlechtliche Paare gibt es nicht.",

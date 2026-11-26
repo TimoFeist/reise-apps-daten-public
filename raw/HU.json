@@ -241,6 +241,236 @@
    "url": "https://bkk.hu/en/tickets-and-passes/budapest-card/",
    "nostore": true,
    "src": "https://bkk.hu/en/tickets-and-passes/budapest-card/"
+  },
+  {
+   "name": "Főtaxi",
+   "cat": "taxi",
+   "pkg": "com.nerddevelopments.taxidriver.orderapp",
+   "note": "Größte Taxizentrale Budapests mit Festpreisen",
+   "city": "Budapest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.nerddevelopments.taxidriver.orderapp",
+   "src": "https://www.fotaxi.hu/"
+  },
+  {
+   "name": "City Taxi Budapest",
+   "cat": "taxi",
+   "pkg": "com.qualysoft.cityTaxi",
+   "note": "Taxi bestellen bei City Taxi Budapest",
+   "city": "Budapest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.qualysoft.cityTaxi",
+   "src": "https://play.google.com/store/apps/details?id=com.qualysoft.cityTaxi"
+  },
+  {
+   "name": "CityTaxi Debrecen",
+   "cat": "taxi",
+   "pkg": "com.sl.orderclient.ctdebrecen",
+   "note": "Taxizentrale in Debrecen",
+   "city": "Debrecen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sl.orderclient.ctdebrecen",
+   "src": "https://play.google.com/store/apps/details?id=com.sl.orderclient.ctdebrecen"
+  },
+  {
+   "name": "Volán Taxi Pécs",
+   "cat": "taxi",
+   "pkg": "hu.flcom.volantaxi",
+   "note": "Taxi bestellen in Pécs",
+   "city": "Pecs",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.flcom.volantaxi",
+   "src": "https://play.google.com/store/apps/details?id=hu.flcom.volantaxi"
+  },
+  {
+   "name": "Taxi Plusz Szeged",
+   "cat": "taxi",
+   "pkg": "com.nerddevelopments.taxidriver.taxiplusz.orderapp",
+   "note": "Taxizentrale in Szeged",
+   "city": "Szeged",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.nerddevelopments.taxidriver.taxiplusz.orderapp",
+   "src": "https://play.google.com/store/apps/details?id=com.nerddevelopments.taxidriver.taxiplusz.orderapp"
+  },
+  {
+   "name": "NonStopTaxi Miskolc",
+   "cat": "taxi",
+   "pkg": "com.mobilelbs.nonstop",
+   "note": "Taxi bestellen in Miskolc",
+   "city": "Miskolc",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mobilelbs.nonstop",
+   "src": "https://play.google.com/store/apps/details?id=com.mobilelbs.nonstop"
+  },
+  {
+   "name": "MVK MobilON+",
+   "cat": "transit",
+   "pkg": "com.hclinear.metaccaze_miskolc",
+   "note": "Fahrplan und Tickets der Verkehrsbetriebe Miskolc",
+   "city": "Miskolc",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.hclinear.metaccaze_miskolc",
+   "src": "https://play.google.com/store/apps/details?id=com.hclinear.metaccaze_miskolc"
+  },
+  {
+   "name": "Vonatinfó",
+   "cat": "rail",
+   "pkg": "hu.mavszk.vonatinfo",
+   "note": "Live-Zugpositionen und Verspätungen der MÁV",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.mavszk.vonatinfo",
+   "src": "https://play.google.com/store/apps/details?id=hu.mavszk.vonatinfo"
+  },
+  {
+   "name": "Menetrendek.hu",
+   "cat": "rail",
+   "pkg": "app.mav.menetrend",
+   "note": "Landesweite Fahrpläne für Zug, Bus und Schiff",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=app.mav.menetrend",
+   "src": "https://play.google.com/store/apps/details?id=app.mav.menetrend"
+  },
+  {
+   "name": "BalatonBike365",
+   "cat": "micro",
+   "pkg": "com.mksz.bb365",
+   "note": "Leihräder rund um den Balaton",
+   "city": "Lake Balaton",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mksz.bb365",
+   "src": "https://play.google.com/store/apps/details?id=com.mksz.bb365"
+  },
+  {
+   "name": "EGER Bringa",
+   "cat": "micro",
+   "pkg": "hu.cycleme.egerbringa",
+   "note": "Städtisches Leihradsystem in Eger",
+   "city": "Eger",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.cycleme.egerbringa",
+   "src": "https://play.google.com/store/apps/details?id=hu.cycleme.egerbringa"
+  },
+  {
+   "name": "wigo carsharing",
+   "cat": "carshare",
+   "pkg": "com.wigo.carsharing",
+   "note": "Elektro-Carsharing mit Minutentarif",
+   "city": "Budapest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.wigo.carsharing",
+   "src": "https://play.google.com/store/apps/details?id=com.wigo.carsharing"
+  },
+  {
+   "name": "Kifli.hu",
+   "cat": "delivery",
+   "pkg": "hu.kifli.app",
+   "note": "Lebensmittel online bestellen, Lieferung nach Hause",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.kifli.app",
+   "src": "https://play.google.com/store/apps/details?id=hu.kifli.app"
+  },
+  {
+   "name": "Időkép",
+   "cat": "safety",
+   "pkg": "hu.idokep.idokep",
+   "note": "Ungarns führende Wetter- und Unwetter-App",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.idokep.idokep",
+   "src": "https://play.google.com/store/apps/details?id=hu.idokep.idokep"
+  },
+  {
+   "name": "Balatoni viharjelző",
+   "cat": "safety",
+   "pkg": "hu.met.vhrbalaton",
+   "note": "Offizielle Sturmwarnung für den Balaton",
+   "city": "Lake Balaton",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.met.vhrbalaton",
+   "src": "https://www.met.hu/"
+  },
+  {
+   "name": "Wizz Air",
+   "cat": "flights",
+   "pkg": "com.wizzair.WizzAirApp",
+   "note": "Ungarische Billigairline mit Basis Budapest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.wizzair.WizzAirApp",
+   "src": "https://wizzair.com/"
+  },
+  {
+   "name": "Szallas.hu",
+   "cat": "hotels",
+   "pkg": "hu.sanomamedia.szallashu",
+   "note": "Ungarns größtes Unterkunftsportal",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.sanomamedia.szallashu",
+   "src": "https://szallas.hu/"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialsuche bei Lidl Ungarn",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus",
+   "src": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus"
+  },
+  {
+   "name": "Clubcard Tesco Hungary",
+   "cat": "shopping",
+   "pkg": "hu.tesco.clubcard",
+   "note": "Tesco Rabatte, Filialen und Öffnungszeiten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.tesco.clubcard",
+   "src": "https://play.google.com/store/apps/details?id=hu.tesco.clubcard"
+  },
+  {
+   "name": "MySPAR",
+   "cat": "shopping",
+   "pkg": "hu.spar.mobile",
+   "note": "SPAR Ungarn Angebote und Filialsuche",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.spar.mobile",
+   "src": "https://play.google.com/store/apps/details?id=hu.spar.mobile"
+  },
+  {
+   "name": "OkAuchan",
+   "cat": "shopping",
+   "pkg": "com.auchan.okauchan",
+   "note": "Auchan Ungarn Angebote und Filialen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.auchan.okauchan",
+   "src": "https://play.google.com/store/apps/details?id=com.auchan.okauchan"
+  },
+  {
+   "name": "BudapestSpas",
+   "cat": "tourism",
+   "pkg": "com.cellum.budapestspas",
+   "note": "Tickets für Széchenyi, Gellért und andere Bäder",
+   "city": "Budapest",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cellum.budapestspas",
+   "src": "https://www.budapestspas.hu/"
+  },
+  {
+   "name": "Szentendre",
+   "cat": "tourism",
+   "pkg": "hu.smapp.szentendre",
+   "note": "Offizielle Stadt-App mit Sehenswürdigkeiten",
+   "city": "Szentendre",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=hu.smapp.szentendre",
+   "src": "https://play.google.com/store/apps/details?id=hu.smapp.szentendre"
+  },
+  {
+   "name": "Pécs",
+   "cat": "tourism",
+   "pkg": "com.pecs.app",
+   "note": "Offizielle Stadt-App von Pécs",
+   "city": "Pecs",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.pecs.app",
+   "src": "https://play.google.com/store/apps/details?id=com.pecs.app"
   }
  ],
  "lgbtq_note": "Gleichgeschlechtliche Partnerschaften sind legal und eintragbar, die Ehe nicht; Pride-Veranstaltungen können seit 2025 verboten und Teilnehmende bestraft werden.",

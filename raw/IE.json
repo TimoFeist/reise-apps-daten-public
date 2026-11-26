@@ -269,6 +269,256 @@
    "url": "https://bpfi.ie/launch-of-new-irish-mobile-payment-service/",
    "nostore": true,
    "src": "https://www.rte.ie/news/ireland/2026/0309/1562267-zippay-payment-service"
+  },
+  {
+   "name": "Lynk Taxis",
+   "cat": "taxi",
+   "pkg": "com.rightcab.eighttwentycabs",
+   "note": "Große Taxizentrale in Dublin, Buchung per App",
+   "city": "Dublin",
+   "use": "ok",
+   "src": "https://www.lynk.ie"
+  },
+  {
+   "name": "Big O Taxis",
+   "cat": "taxi",
+   "pkg": "com.icabbi.bigotaxisApp",
+   "note": "Taxizentrale in Galway",
+   "city": "Galway",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.icabbi.bigotaxisApp"
+  },
+  {
+   "name": "Galway Taxis",
+   "cat": "taxi",
+   "pkg": "com.taxicaller.galway.app",
+   "note": "Taxiunternehmen in Galway, Buchung per App",
+   "city": "Galway",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.taxicaller.galway.app"
+  },
+  {
+   "name": "Budget Car Rental Ireland",
+   "cat": "carshare",
+   "pkg": "mobile.budget.ie",
+   "note": "Mietwagen von Budget in Irland",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=mobile.budget.ie"
+  },
+  {
+   "name": "Avis Car Hire",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "note": "Mietwagen, viele Stationen an Flughäfen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.avis.mobile"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen, Stationen an irischen Flughäfen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.hertz.android.digital"
+  },
+  {
+   "name": "Enterprise Car Rental",
+   "cat": "carshare",
+   "pkg": "com.ehi.enterprise.android",
+   "note": "Mietwagen von Enterprise in Irland",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ehi.enterprise.android"
+  },
+  {
+   "name": "MOBY MOVE",
+   "cat": "micro",
+   "pkg": "com.sharebike.android.moby",
+   "note": "Leih E-Bikes von MOBY in Dublin",
+   "city": "Dublin",
+   "use": "ok",
+   "src": "https://www.mobybikes.com"
+  },
+  {
+   "name": "APCOA Connect Ireland",
+   "cat": "parking",
+   "pkg": "ie.apcoaconnect",
+   "note": "Parken per App in vielen irischen Orten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ie.apcoaconnect"
+  },
+  {
+   "name": "Q-Park",
+   "cat": "parking",
+   "pkg": "com.qpark.mobilepark.android",
+   "note": "Parkhäuser von Q-Park, auch in Dublin",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.qpark.mobilepark.android"
+  },
+  {
+   "name": "ParkMagic",
+   "cat": "parking",
+   "pkg": "com.parkmagic.mobile",
+   "note": "Straßenparken per Handy in vielen Kommunen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.parkmagic.mobile"
+  },
+  {
+   "name": "Mayo E-Parking",
+   "cat": "parking",
+   "pkg": "com.parkmagic.mayoparking",
+   "note": "Parken per App im County Mayo",
+   "city": "Westport",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.parkmagic.mayoparking"
+  },
+  {
+   "name": "Tesco Ireland",
+   "cat": "shopping",
+   "pkg": "com.puca.tesco",
+   "note": "Supermarkt mit Lieferung und Clubcard",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.puca.tesco"
+  },
+  {
+   "name": "Dunnes Stores",
+   "cat": "shopping",
+   "pkg": "com.dunnes.valueclubcard",
+   "note": "Irische Supermarktkette, Angebote und Karte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dunnes.valueclubcard"
+  },
+  {
+   "name": "SuperValu",
+   "cat": "shopping",
+   "pkg": "com.ammeon.supervalu",
+   "note": "Supermarktkette, Angebote und Online Einkauf",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ammeon.supervalu"
+  },
+  {
+   "name": "ALDI Ireland",
+   "cat": "shopping",
+   "pkg": "de.apptiv.business.android.aldi_ie",
+   "note": "Angebote und Filialen von ALDI in Irland",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=de.apptiv.business.android.aldi_ie"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Angebote bei Lidl Irland",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus"
+  },
+  {
+   "name": "Buymie",
+   "cat": "delivery",
+   "pkg": "eu.buymie.customer",
+   "note": "Lebensmittel von Dunnes nach Hause liefern",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=eu.buymie.customer"
+  },
+  {
+   "name": "Irish Ferries",
+   "cat": "rail",
+   "pkg": "com.irishferries.app",
+   "note": "Fähren nach Wales, England und Frankreich",
+   "use": "ok",
+   "src": "https://www.irishferries.com"
+  },
+  {
+   "name": "Stena Line",
+   "cat": "rail",
+   "pkg": "com.digitaltravelassistant",
+   "note": "Fähren Dublin/Rosslare nach Großbritannien",
+   "use": "ok",
+   "src": "https://www.stenaline.ie"
+  },
+  {
+   "name": "MyExpressway",
+   "cat": "rail",
+   "pkg": "com.buseireann.expressway",
+   "note": "Fernbusse von Bus Éireann, Tickets per App",
+   "use": "ok",
+   "src": "https://www.expressway.ie"
+  },
+  {
+   "name": "Dublin Express",
+   "cat": "rail",
+   "pkg": "ie.dublinexpress.app",
+   "note": "Expressbus Flughafen Dublin und Stadt",
+   "city": "Dublin",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ie.dublinexpress.app"
+  },
+  {
+   "name": "Luas",
+   "cat": "transit",
+   "pkg": "ie.dovetail.rpa.luas",
+   "note": "Offizielle App der Dubliner Straßenbahn",
+   "city": "Dublin",
+   "use": "ok",
+   "src": "https://luas.ie"
+  },
+  {
+   "name": "Dublin Airport",
+   "cat": "flights",
+   "pkg": "com.daa",
+   "note": "Offizielle App des Flughafens Dublin",
+   "city": "Dublin",
+   "use": "ok",
+   "src": "https://www.dublinairport.com"
+  },
+  {
+   "name": "Shannon Airport",
+   "cat": "flights",
+   "pkg": "com.ShannonAirport.ShannonAirport",
+   "note": "Offizielle App des Flughafens Shannon",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ShannonAirport.ShannonAirport"
+  },
+  {
+   "name": "Aer Lingus",
+   "cat": "flights",
+   "pkg": "com.aerlingus.mobile",
+   "note": "Nationale Airline Irlands",
+   "use": "ok",
+   "src": "https://www.aerlingus.com"
+  },
+  {
+   "name": "Ryanair",
+   "cat": "flights",
+   "pkg": "com.ryanair.cheapflights",
+   "note": "Irische Billigairline mit Bordkarte in App",
+   "use": "ok",
+   "src": "https://www.ryanair.com"
+  },
+  {
+   "name": "Visit Trinity",
+   "cat": "tourism",
+   "pkg": "com.waymigo.trinitytrails",
+   "note": "Trinity College mit Book of Kells, Tickets",
+   "city": "Dublin",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.waymigo.trinitytrails"
+  },
+  {
+   "name": "Explore Cork",
+   "cat": "tourism",
+   "pkg": "io.traceapp.explorecorkapp",
+   "note": "Tourismus App des County Cork",
+   "city": "Cork",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=io.traceapp.explorecorkapp"
+  },
+  {
+   "name": "Hostelworld",
+   "cat": "hotels",
+   "pkg": "com.hostelworld.app",
+   "note": "Hostels buchen, Firma aus Dublin",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.hostelworld.app"
   }
  ]
 }

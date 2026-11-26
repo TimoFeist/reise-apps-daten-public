@@ -30,6 +30,30 @@ for _c in DATA["countries"]:
             _s.add((_a.get("pkg") or "").lower())
 for _s in HAVE.values():
     _s.discard("")
+import difflib, unicodedata
+
+
+def fold(x):
+    return "".join(ch for ch in unicodedata.normalize("NFKD", x.lower()) if not unicodedata.combining(ch)).replace("-", " ").strip()
+
+
+# Stadtnamen der Daten je Land (Anzeige + match), um Schreibvarianten (Marrakech/Marrakesh, Zurich/Zürich) zuzuordnen
+CITYNAMES = {}
+for _c in DATA["countries"]:
+    for _ci in _c.get("cities", []):
+        for _n in [_ci["name"]] + _ci.get("match", []):
+            CITYNAMES.setdefault(_c["code"], {})[fold(_n)] = _ci["name"]
+
+
+def city_of(cc, name):
+    names = CITYNAMES.get(cc, {})
+    f = fold(name)
+    if f in names:
+        return names[f]
+    m = difflib.get_close_matches(f, list(names), n=1, cutoff=0.86)
+    return names[m[0]] if m else name
+
+
 PKG = re.compile(r"^[A-Za-z][A-Za-z0-9_]*(\.[A-Za-z0-9_]+)+$")
 today = datetime.date.today().isoformat()
 vers = json.load(open(VERS, encoding="utf-8")) if os.path.exists(VERS) else {"versuche": {}}
@@ -65,7 +89,7 @@ for f in sys.argv[1:]:
         if note:
             e["note"] = note if len(note) <= 60 else note[:59].rsplit(" ", 1)[0]
         if (a.get("city") or "").strip():
-            e["city"] = a["city"].strip()
+            e["city"] = city_of(cc, a["city"].strip())
         use = a.get("use") if a.get("use") in ("ok", "limited", "no") else "ok"
         e["use"] = use
         if use != "ok" and clean(a.get("req")):

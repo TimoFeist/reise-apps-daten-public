@@ -334,6 +334,411 @@
    "use": "limited",
    "req": "Bank mit iDEAL oder Wero nötig",
    "src": "https://support.n26.com/en-de/payments-transfers-and-withdrawals/cards-and-online-payments/how-can-i-use-tikkie-with-n26"
+  },
+  {
+   "name": "Arriva",
+   "cat": "transit",
+   "pkg": "nl.arriva.planner",
+   "note": "Bus und Bahn in Limburg, Tickets und Fahrplan",
+   "city": "Maastricht",
+   "use": "ok",
+   "src": "https://www.arriva.nl"
+  },
+  {
+   "name": "Watertaxi Rotterdam",
+   "cat": "transit",
+   "pkg": "nl.watertaxirotterdam.app",
+   "note": "Wassertaxi auf der Maas buchen",
+   "city": "Rotterdam",
+   "use": "ok",
+   "src": "https://www.watertaxirotterdam.nl"
+  },
+  {
+   "name": "Stena Line",
+   "cat": "rail",
+   "pkg": "com.digitaltravelassistant",
+   "note": "Fähre Hoek van Holland nach Harwich",
+   "use": "ok",
+   "src": "https://www.stenaline.nl"
+  },
+  {
+   "name": "DFDS",
+   "cat": "rail",
+   "pkg": "com.dfds.pax",
+   "note": "Fähre IJmuiden nach Newcastle",
+   "use": "ok",
+   "src": "https://www.dfds.com"
+  },
+  {
+   "name": "sneleentaxi",
+   "cat": "taxi",
+   "pkg": "com.sneleentaxi.passenger",
+   "note": "Taxi in vielen Städten der Niederlande buchen",
+   "use": "ok",
+   "src": "https://www.sneleentaxi.nl"
+  },
+  {
+   "name": "SnappCar",
+   "cat": "carshare",
+   "pkg": "nl.snappcar.app",
+   "note": "Privatautos und Transporter mieten",
+   "use": "ok",
+   "src": "https://www.snappcar.nl"
+  },
+  {
+   "name": "Getaround",
+   "cat": "carshare",
+   "pkg": "com.c4mprod.voiturelib",
+   "note": "Autos von privat und Firmen mieten",
+   "use": "ok",
+   "src": "https://nl.getaround.com"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing",
+   "use": "ok",
+   "src": "https://www.sixt.nl"
+  },
+  {
+   "name": "Yellowbrick",
+   "cat": "parking",
+   "pkg": "com.oneshoe.yellowbrick",
+   "note": "Straßenparken per App bezahlen",
+   "use": "ok",
+   "src": "https://www.yellowbrick.nl"
+  },
+  {
+   "name": "APP Parking",
+   "cat": "parking",
+   "pkg": "nl.smsparking.smsparking_app",
+   "note": "Parken per App oder SMS bezahlen",
+   "use": "ok",
+   "src": "https://www.smsparking.nl"
+  },
+  {
+   "name": "ParkBee",
+   "cat": "parking",
+   "pkg": "com.parkbee.mobile",
+   "note": "Parkplätze in Garagen vorab buchen",
+   "use": "ok",
+   "src": "https://www.parkbee.com"
+  },
+  {
+   "name": "PayByPhone",
+   "cat": "parking",
+   "pkg": "com.paybyphone",
+   "note": "Parken in vielen Gemeinden bezahlen",
+   "use": "ok",
+   "src": "https://www.paybyphone.nl"
+  },
+  {
+   "name": "Parking The Hague",
+   "cat": "parking",
+   "pkg": "nl.appsint.pom",
+   "note": "Parken in Den Haag bezahlen",
+   "city": "Den Haag",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=nl.appsint.pom"
+  },
+  {
+   "name": "Picnic",
+   "cat": "delivery",
+   "pkg": "com.picnic.android",
+   "note": "Lebensmittel nach Hause liefern",
+   "use": "limited",
+   "req": "NL-Lieferadresse nötig",
+   "src": "https://picnic.app/nl"
+  },
+  {
+   "name": "Crisp",
+   "cat": "delivery",
+   "pkg": "com.freshfoodventures.crisp",
+   "note": "Frische Lebensmittel online bestellen",
+   "use": "limited",
+   "req": "NL-Lieferadresse nötig",
+   "src": "https://crisp.nl"
+  },
+  {
+   "name": "Museumkaart",
+   "cat": "tourism",
+   "pkg": "nl.museum.app",
+   "note": "Museumskarte für über 500 Museen",
+   "use": "ok",
+   "src": "https://www.museum.nl"
+  },
+  {
+   "name": "Rotterdam City Card",
+   "cat": "tourism",
+   "pkg": "at.reinisch.rotterdamcitycard",
+   "note": "Stadtpass mit ÖPNV und Rabatten",
+   "city": "Rotterdam",
+   "use": "ok",
+   "src": "https://rotterdam.info"
+  },
+  {
+   "name": "Rijksmuseum",
+   "cat": "tourism",
+   "pkg": "nl.rijksmuseum.mmt",
+   "note": "Offizieller Museumsführer",
+   "city": "Amsterdam",
+   "use": "ok",
+   "src": "https://www.rijksmuseum.nl"
+  },
+  {
+   "name": "Efteling",
+   "cat": "tourism",
+   "pkg": "nl.efteling.android",
+   "note": "Freizeitpark Wartezeiten und Karte",
+   "use": "ok",
+   "src": "https://www.efteling.com"
+  },
+  {
+   "name": "ANWB Eropuit",
+   "cat": "tourism",
+   "pkg": "com.themobilecompany.Fietsen",
+   "note": "Rad- und Wanderrouten des ANWB",
+   "use": "ok",
+   "src": "https://www.anwb.nl"
+  },
+  {
+   "name": "NL-Alert",
+   "cat": "safety",
+   "pkg": "org.landelijkemeldkamer.nlalert",
+   "note": "Offizielle Warnmeldungen der Behörden",
+   "use": "ok",
+   "src": "https://www.nl-alert.nl"
+  },
+  {
+   "name": "112NL",
+   "cat": "safety",
+   "pkg": "org.landelijkemeldkamer.app112",
+   "note": "Notruf per App, auch für Gehörlose",
+   "use": "limited",
+   "req": "Registrierung mit NL-Nummer",
+   "src": "https://www.112.nl"
+  },
+  {
+   "name": "Buienradar",
+   "cat": "safety",
+   "pkg": "com.supportware.Buienradar",
+   "note": "Regenradar und Wetter",
+   "use": "ok",
+   "src": "https://www.buienradar.nl"
+  },
+  {
+   "name": "Buienalarm",
+   "cat": "safety",
+   "pkg": "org.yoki.android.buienalarm",
+   "note": "Regenwarnung minutengenau",
+   "use": "ok",
+   "src": "https://www.buienalarm.nl"
+  },
+  {
+   "name": "Weeronline",
+   "cat": "safety",
+   "pkg": "com.xs2theworld.weeronline",
+   "note": "Wetterbericht und Regenradar",
+   "use": "ok",
+   "src": "https://www.weeronline.nl"
+  },
+  {
+   "name": "Flitsmeister",
+   "cat": "maps",
+   "pkg": "nl.flitsmeister",
+   "note": "Navigation mit Blitzer- und Stauwarnung",
+   "use": "ok",
+   "src": "https://www.flitsmeister.nl"
+  },
+  {
+   "name": "ANWB Onderweg",
+   "cat": "maps",
+   "pkg": "com.themobilecompany.Onderweg",
+   "note": "Verkehr, Tanken, Pannenhilfe ANWB",
+   "use": "ok",
+   "src": "https://www.anwb.nl"
+  },
+  {
+   "name": "Fietsknoop",
+   "cat": "maps",
+   "pkg": "nl.vv.fietsknoop",
+   "note": "Radrouten über das Knotenpunktnetz",
+   "use": "ok",
+   "src": "https://www.fietsknoop.nl"
+  },
+  {
+   "name": "Schiphol",
+   "cat": "flights",
+   "pkg": "org.schiphol",
+   "note": "Flughafen Amsterdam Schiphol",
+   "use": "ok",
+   "src": "https://www.schiphol.nl"
+  },
+  {
+   "name": "KLM",
+   "cat": "flights",
+   "pkg": "com.afklm.mobile.android.gomobile.klm",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.klm.nl"
+  },
+  {
+   "name": "Transavia",
+   "cat": "flights",
+   "pkg": "com.mttnow.droid.transavia",
+   "note": "Billigflieger der KLM-Gruppe",
+   "use": "ok",
+   "src": "https://www.transavia.com"
+  },
+  {
+   "name": "Rotterdam The Hague Airport",
+   "cat": "flights",
+   "pkg": "fourpx.rtha",
+   "note": "Flughafen Rotterdam Den Haag",
+   "use": "ok",
+   "src": "https://www.rotterdamthehagueairport.nl"
+  },
+  {
+   "name": "Landal",
+   "cat": "hotels",
+   "pkg": "com.landal.parkapp",
+   "note": "Ferienparks und Bungalows",
+   "use": "ok",
+   "src": "https://www.landal.nl"
+  },
+  {
+   "name": "Center Parcs",
+   "cat": "hotels",
+   "pkg": "com.planet.centerparcs",
+   "note": "Ferienparks mit Badeparadies",
+   "use": "ok",
+   "src": "https://www.centerparcs.nl"
+  },
+  {
+   "name": "Roompot",
+   "cat": "hotels",
+   "pkg": "nl.roompot.parksites",
+   "note": "Ferienparks und Campingplätze",
+   "use": "ok",
+   "src": "https://www.roompot.nl"
+  },
+  {
+   "name": "Natuurhuisje",
+   "cat": "hotels",
+   "pkg": "nl.natuurhuisje.app",
+   "note": "Ferienhäuser in der Natur",
+   "use": "ok",
+   "src": "https://www.natuurhuisje.nl"
+  },
+  {
+   "name": "ACSI Campsites Europe",
+   "cat": "hotels",
+   "pkg": "eu.acsi.europa",
+   "note": "Campingführer, niederländischer Anbieter",
+   "use": "ok",
+   "src": "https://www.acsi.eu"
+  },
+  {
+   "name": "ANWB Camping",
+   "cat": "hotels",
+   "pkg": "com.pincamp.anwb",
+   "note": "Campingplätze suchen und buchen",
+   "use": "ok",
+   "src": "https://www.anwb.nl/kamperen"
+  },
+  {
+   "name": "Albert Heijn",
+   "cat": "shopping",
+   "pkg": "com.icemobile.albertheijn",
+   "note": "Größte Supermarktkette, Angebote",
+   "use": "ok",
+   "src": "https://www.ah.nl"
+  },
+  {
+   "name": "Jumbo",
+   "cat": "shopping",
+   "pkg": "com.icemobile.jumboclient",
+   "note": "Supermarktkette, Angebote und Filialen",
+   "use": "ok",
+   "src": "https://www.jumbo.com"
+  },
+  {
+   "name": "PLUS",
+   "cat": "shopping",
+   "pkg": "com.mobgen.plus",
+   "note": "Supermarktkette, Angebote",
+   "use": "ok",
+   "src": "https://www.plus.nl"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialen von Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.nl"
+  },
+  {
+   "name": "HEMA",
+   "cat": "shopping",
+   "pkg": "nl.hema.mobiel",
+   "note": "Kaufhauskette für Alltagsbedarf",
+   "use": "ok",
+   "src": "https://www.hema.nl"
+  },
+  {
+   "name": "Kruidvat",
+   "cat": "shopping",
+   "pkg": "nl.kruidvat.voordeelkaart",
+   "note": "Drogeriekette, Angebote",
+   "use": "ok",
+   "src": "https://www.kruidvat.nl"
+  },
+  {
+   "name": "bol",
+   "cat": "shopping",
+   "pkg": "com.bol.shop",
+   "note": "Größter Onlinehändler der Niederlande",
+   "use": "limited",
+   "req": "Lieferung nur NL/BE",
+   "src": "https://www.bol.com"
+  },
+  {
+   "name": "@texel",
+   "cat": "tourism",
+   "pkg": "net.texel",
+   "note": "Offizielle Insel-App des VVV Texel",
+   "city": "Texel",
+   "use": "ok",
+   "src": "https://www.texel.net"
+  },
+  {
+   "name": "Terschelling Tips",
+   "cat": "tourism",
+   "pkg": "app.gohere.terschellingtips",
+   "note": "Insel-App des VVV Terschelling",
+   "city": "Terschelling",
+   "use": "ok",
+   "src": "https://www.vvv-terschelling.nl"
+  },
+  {
+   "name": "Ameland",
+   "cat": "tourism",
+   "pkg": "nl.vvvameland.dev.app2",
+   "note": "Insel-App des VVV Ameland",
+   "city": "Ameland",
+   "use": "ok",
+   "src": "https://www.vvvameland.nl"
+  },
+  {
+   "name": "Op pad Veluwe",
+   "cat": "tourism",
+   "pkg": "nl.irias.routebureauveluwe",
+   "note": "Wander- und Radrouten in der Veluwe",
+   "city": "Veluwe",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=nl.irias.routebureauveluwe"
   }
  ]
 }

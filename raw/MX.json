@@ -254,6 +254,304 @@
    "url": "https://www.inm.gob.mx/fmme/publico/en/solicitud.html",
    "nostore": true,
    "src": "https://consulmex.sre.gob.mx/vancouver/index.php/es/fmme"
+  },
+  {
+   "name": "Cabify",
+   "cat": "taxi",
+   "pkg": "com.cabify.rider",
+   "note": "Fahrdienst in Mexiko-Stadt, Monterrey, Guadalajara",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.cabify.rider",
+   "src": "https://cabify.com/"
+  },
+  {
+   "name": "Binnibus",
+   "cat": "transit",
+   "pkg": "mx.gob.oaxaca.ios.binnibus",
+   "note": "Stadtbusse Oaxaca mit Liveposition, staatlich",
+   "city": "Oaxaca",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=mx.gob.oaxaca.ios.binnibus",
+   "src": "https://play.google.com/store/apps/details?id=mx.gob.oaxaca.ios.binnibus"
+  },
+  {
+   "name": "Qrobús",
+   "cat": "transit",
+   "pkg": "mx.gob.iqt.qrobus",
+   "note": "Offizielle Busapp für Querétaro",
+   "city": "Queretaro",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=mx.gob.iqt.qrobus",
+   "src": "https://play.google.com/store/apps/details?id=mx.gob.iqt.qrobus"
+  },
+  {
+   "name": "Mi Suburbano",
+   "cat": "rail",
+   "pkg": "com.nuvomarketing.trensuburbano",
+   "note": "Infos zum Tren Suburbano im Großraum Mexiko-Stadt",
+   "city": "Mexiko-Stadt",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.nuvomarketing.trensuburbano",
+   "src": "https://play.google.com/store/apps/details?id=com.nuvomarketing.trensuburbano"
+  },
+  {
+   "name": "ETN",
+   "cat": "rail",
+   "pkg": "mx.com.etn.etnturistarlujo",
+   "note": "Luxus-Fernbusse ETN und Turistar",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=mx.com.etn.etnturistarlujo",
+   "src": "https://play.google.com/store/apps/details?id=mx.com.etn.etnturistarlujo"
+  },
+  {
+   "name": "Primera Plus",
+   "cat": "rail",
+   "pkg": "com.gfa.PrimeraPlus",
+   "note": "Fernbusse im Zentrum und Bajío",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gfa.PrimeraPlus",
+   "src": "https://play.google.com/store/apps/details?id=com.gfa.PrimeraPlus"
+  },
+  {
+   "name": "Omnibus de México",
+   "cat": "rail",
+   "pkg": "com.omnibusdemexico.odmapp",
+   "note": "Fernbustickets landesweit",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.omnibusdemexico.odmapp",
+   "src": "https://play.google.com/store/apps/details?id=com.omnibusdemexico.odmapp"
+  },
+  {
+   "name": "Estrella Roja",
+   "cat": "rail",
+   "pkg": "com.estrellaroja.aeropuerto",
+   "note": "Busse Puebla und Flughafen Mexiko-Stadt",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.estrellaroja.aeropuerto",
+   "src": "https://play.google.com/store/apps/details?id=com.estrellaroja.aeropuerto"
+  },
+  {
+   "name": "Transpais",
+   "cat": "rail",
+   "pkg": "com.kaandev.transpaisapp",
+   "note": "Fernbusse im Nordosten, etwa Monterrey",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.kaandev.transpaisapp",
+   "src": "https://play.google.com/store/apps/details?id=com.kaandev.transpaisapp"
+  },
+  {
+   "name": "Ferry Xcaret",
+   "cat": "rail",
+   "pkg": "com.xcaret.xcaret_ferries",
+   "note": "Fähre Playa del Carmen nach Cozumel",
+   "city": "Cozumel",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.xcaret.xcaret_ferries",
+   "src": "https://www.xcaretferries.com/"
+  },
+  {
+   "name": "Kigo - Parkimovil",
+   "cat": "parking",
+   "pkg": "com.parkimovil.app",
+   "note": "Parkuhren und Parkhäuser in vielen Städten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.parkimovil.app",
+   "src": "https://play.google.com/store/apps/details?id=com.parkimovil.app"
+  },
+  {
+   "name": "Parco",
+   "cat": "parking",
+   "pkg": "com.parcoapp",
+   "note": "Parkhäuser per App bezahlen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.parcoapp",
+   "src": "https://play.google.com/store/apps/details?id=com.parcoapp"
+  },
+  {
+   "name": "PASE",
+   "cat": "parking",
+   "pkg": "com.idmexico.tutag",
+   "note": "Mauttag für Autobahnen und Parkhäuser",
+   "use": "limited",
+   "req": "Tag-Aufkleber und mexikanische Zahlung nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.idmexico.tutag",
+   "src": "https://play.google.com/store/apps/details?id=com.idmexico.tutag"
+  },
+  {
+   "name": "Cashi",
+   "cat": "payment",
+   "pkg": "com.walmartmexico.wallet",
+   "note": "Wallet von Walmart Mexiko",
+   "use": "limited",
+   "req": "Mexikanische Nummer nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.walmartmexico.wallet",
+   "src": "https://play.google.com/store/apps/details?id=com.walmartmexico.wallet"
+  },
+  {
+   "name": "SkyAlert",
+   "cat": "safety",
+   "pkg": "com.disappster.skyalert",
+   "note": "Erdbebenwarnung für Mexiko",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.disappster.skyalert",
+   "src": "https://play.google.com/store/apps/details?id=com.disappster.skyalert"
+  },
+  {
+   "name": "Alerta Sísmica México SASSLA",
+   "cat": "safety",
+   "pkg": "com.safelivealert.earthquake",
+   "note": "Erdbebenwarnung mit SASMEX-Signal",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.safelivealert.earthquake",
+   "src": "https://play.google.com/store/apps/details?id=com.safelivealert.earthquake"
+  },
+  {
+   "name": "CONAGUAClima",
+   "cat": "safety",
+   "pkg": "conagua.gob.mx.smntiempo",
+   "note": "Offizieller Wetterdienst und Hurrikanwarnungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=conagua.gob.mx.smntiempo",
+   "src": "https://smn.conagua.gob.mx/"
+  },
+  {
+   "name": "Jalisco Alerta",
+   "cat": "safety",
+   "pkg": "mx.erlia.jal.android",
+   "note": "Notruf und Alarm für Jalisco",
+   "city": "Guadalajara",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=mx.erlia.jal.android",
+   "src": "https://play.google.com/store/apps/details?id=mx.erlia.jal.android"
+  },
+  {
+   "name": "Aeroméxico",
+   "cat": "flights",
+   "pkg": "com.aeromexico.aeromexico.app",
+   "note": "Nationale Fluglinie Mexikos",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.aeromexico.aeromexico.app",
+   "src": "https://aeromexico.com/"
+  },
+  {
+   "name": "Volaris",
+   "cat": "flights",
+   "pkg": "com.volaris.app",
+   "note": "Größte Billigairline Mexikos",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.volaris.app",
+   "src": "https://play.google.com/store/apps/details?id=com.volaris.app"
+  },
+  {
+   "name": "Viva",
+   "cat": "flights",
+   "pkg": "com.vivaaerobus.app",
+   "note": "Billigairline Viva Aerobus",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.vivaaerobus.app",
+   "src": "https://play.google.com/store/apps/details?id=com.vivaaerobus.app"
+  },
+  {
+   "name": "Despegar",
+   "cat": "hotels",
+   "pkg": "com.gm.despegar",
+   "note": "Lateinamerikas große Reise- und Hotelbuchung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gm.despegar",
+   "src": "https://play.google.com/store/apps/details?id=com.gm.despegar"
+  },
+  {
+   "name": "PriceTravel",
+   "cat": "hotels",
+   "pkg": "com.pricetravel",
+   "note": "Mexikanisches Hotelportal, stark in Cancún",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.pricetravel",
+   "src": "https://play.google.com/store/apps/details?id=com.pricetravel"
+  },
+  {
+   "name": "Best Day",
+   "cat": "hotels",
+   "pkg": "com.mobile.bestday",
+   "note": "Mexikanische Pauschalreisen und Hotels",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mobile.bestday",
+   "src": "https://play.google.com/store/apps/details?id=com.mobile.bestday"
+  },
+  {
+   "name": "Walmart Mexiko",
+   "cat": "shopping",
+   "pkg": "com.walmart.mg",
+   "note": "Walmart und Walmart Express Einkauf",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.walmart.mg",
+   "src": "https://play.google.com/store/apps/details?id=com.walmart.mg"
+  },
+  {
+   "name": "Bodega Aurrera",
+   "cat": "shopping",
+   "pkg": "com.mx.walmart.bodega",
+   "note": "Discounter mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mx.walmart.bodega",
+   "src": "https://play.google.com/store/apps/details?id=com.mx.walmart.bodega"
+  },
+  {
+   "name": "Soriana",
+   "cat": "shopping",
+   "pkg": "com.soriana.appsoriana",
+   "note": "Supermarktkette mit Angeboten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.soriana.appsoriana",
+   "src": "https://play.google.com/store/apps/details?id=com.soriana.appsoriana"
+  },
+  {
+   "name": "Chedraui",
+   "cat": "shopping",
+   "pkg": "com.planetmedia.paymentsloyalty.chedraui",
+   "note": "Supermarkt, stark im Süden und Yucatán",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.planetmedia.paymentsloyalty.chedraui",
+   "src": "https://play.google.com/store/apps/details?id=com.planetmedia.paymentsloyalty.chedraui"
+  },
+  {
+   "name": "Liverpool",
+   "cat": "shopping",
+   "pkg": "mx.com.liverpool.shoppingapp",
+   "note": "Größte Kaufhauskette Mexikos",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=mx.com.liverpool.shoppingapp",
+   "src": "https://play.google.com/store/apps/details?id=mx.com.liverpool.shoppingapp"
+  },
+  {
+   "name": "Guadalajara App",
+   "cat": "tourism",
+   "pkg": "com.gdlmun.appcity",
+   "note": "Offizielle Stadt-App von Guadalajara",
+   "city": "Guadalajara",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gdlmun.appcity",
+   "src": "https://play.google.com/store/apps/details?id=com.gdlmun.appcity"
+  },
+  {
+   "name": "App Oaxaca",
+   "cat": "tourism",
+   "pkg": "mx.gob.oaxaca.android.app_oaxaca",
+   "note": "Offizielle App des Bundesstaats Oaxaca",
+   "city": "Oaxaca",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=mx.gob.oaxaca.android.app_oaxaca",
+   "src": "https://play.google.com/store/apps/details?id=mx.gob.oaxaca.android.app_oaxaca"
+  },
+  {
+   "name": "APP QRO",
+   "cat": "tourism",
+   "pkg": "appqro.queretaro.gob.mx",
+   "note": "Offizielle App des Bundesstaats Querétaro",
+   "city": "Queretaro",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=appqro.queretaro.gob.mx",
+   "src": "https://play.google.com/store/apps/details?id=appqro.queretaro.gob.mx"
   }
  ]
 }

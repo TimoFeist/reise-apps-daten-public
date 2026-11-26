@@ -255,6 +255,172 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=co.mediatorium.explorecroatia",
    "src": "https://croatia.hr"
+  },
+  {
+   "name": "Mobility Plus",
+   "cat": "transit",
+   "pkg": "mobility.plus.app",
+   "note": "Stadtbusse in Pula, Tickets und Live-Ortung",
+   "city": "Pula",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=mobility.plus.app"
+  },
+  {
+   "name": "Gradski parking Šibenik",
+   "cat": "transit",
+   "pkg": "com.etranet.gpsh",
+   "note": "Bus- und Bootstickets sowie Parken in Šibenik",
+   "city": "Sibenik",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.etranet.gpsh"
+  },
+  {
+   "name": "Traveling.com",
+   "cat": "rail",
+   "pkg": "com.getbybus.mobile",
+   "note": "Bus- und Fährtickets in ganz Kroatien",
+   "use": "ok",
+   "src": "https://traveling.com"
+  },
+  {
+   "name": "TAXI 1717",
+   "cat": "taxi",
+   "pkg": "hr.intendanet.rtz",
+   "note": "Radio Taxi Zagreb bestellen",
+   "city": "Zagreb",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=hr.intendanet.rtz"
+  },
+  {
+   "name": "EKOTAXI",
+   "cat": "taxi",
+   "pkg": "hr.intendanet.yuber.ekotaxi",
+   "note": "Elektrotaxi in mehreren Städten Kroatiens",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=hr.intendanet.yuber.ekotaxi"
+  },
+  {
+   "name": "Taxi Plavi Dubrovnik",
+   "cat": "taxi",
+   "pkg": "hr.intendanet.taxiplavidubrovnik",
+   "note": "Taxizentrale in Dubrovnik",
+   "city": "Dubrovnik",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=hr.intendanet.taxiplavidubrovnik"
+  },
+  {
+   "name": "PickApp Hvar",
+   "cat": "taxi",
+   "pkg": "hr.com.pickapp.client",
+   "note": "Taxi auf der Insel Hvar",
+   "city": "Hvar",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=hr.com.pickapp.client"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen an Flughäfen und in Städten",
+   "use": "ok",
+   "src": "https://www.sixt.hr"
+  },
+  {
+   "name": "Brijuni Pocket Guide",
+   "cat": "tourism",
+   "pkg": "com.brijunipocketreactnative",
+   "note": "Offizielle App des Nationalparks Brijuni",
+   "city": "Brijuni",
+   "use": "ok",
+   "src": "https://www.np-brijuni.hr"
+  },
+  {
+   "name": "HRT METEO",
+   "cat": "safety",
+   "pkg": "agency.sevenofnine.hrtmeteo",
+   "note": "Wetter vom kroatischen Rundfunk HRT",
+   "use": "ok",
+   "src": "https://meteo.hrt.hr"
+  },
+  {
+   "name": "Croatia Airlines",
+   "cat": "flights",
+   "pkg": "com.croatiaairlines.app",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://www.croatiaairlines.com"
+  },
+  {
+   "name": "Valamar",
+   "cat": "hotels",
+   "pkg": "com.valamar.myvalamar",
+   "note": "Hotels und Campingplätze in Istrien und Dalmatien",
+   "use": "ok",
+   "src": "https://www.valamar.com"
+  },
+  {
+   "name": "Maistra",
+   "cat": "hotels",
+   "pkg": "hr.shape.maistra",
+   "note": "Hotels und Camps in Rovinj, Vrsar und Dubrovnik",
+   "use": "ok",
+   "src": "https://www.maistra.com"
+  },
+  {
+   "name": "Arena Campsites",
+   "cat": "hotels",
+   "pkg": "uno.intersoft.arenacampsites",
+   "note": "Campingplätze der Arena-Gruppe in Istrien",
+   "use": "ok",
+   "src": "https://www.arenacampsites.com"
+  },
+  {
+   "name": "Konzum",
+   "cat": "shopping",
+   "pkg": "com.ingemark.konzumweb",
+   "note": "Größte Supermarktkette, auch Lieferung",
+   "use": "ok",
+   "src": "https://www.konzum.hr"
+  },
+  {
+   "name": "SPAR",
+   "cat": "shopping",
+   "pkg": "hr.spar.app",
+   "note": "Supermärkte und Interspar, Angebote",
+   "use": "ok",
+   "src": "https://www.spar.hr"
+  },
+  {
+   "name": "Moj Studenac",
+   "cat": "shopping",
+   "pkg": "com.loyalguru.customerMojStudenac",
+   "note": "Kleine Supermärkte an der Küste, Bonus",
+   "use": "ok",
+   "src": "https://www.studenac.hr"
+  },
+  {
+   "name": "Tommy",
+   "cat": "shopping",
+   "pkg": "com.locastic.tommyspiza",
+   "note": "Supermarktkette in Dalmatien",
+   "use": "ok",
+   "src": "https://www.tommy.hr"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Filialen von Lidl",
+   "use": "ok",
+   "src": "https://www.lidl.hr"
+  },
+  {
+   "name": "Kaufland",
+   "cat": "shopping",
+   "pkg": "com.kaufland.Kaufland",
+   "note": "Angebote und Filialen von Kaufland",
+   "use": "ok",
+   "src": "https://www.kaufland.hr"
   }
  ],
  "lgbtq_note": "Homosexualität ist gesetzlich respektiert und eingetragene Partnerschaften sind möglich; abseits der Städte und Urlaubsorte ist die Akzeptanz teils gering.",

@@ -199,7 +199,7 @@
    "pkg": "",
    "ess": false,
    "note": "QR-Tickets und Guthaben für Metro und CPTM",
-   "city": "Sao Paulo",
+   "city": "São Paulo",
    "use": "limited",
    "req": "Konto an CPF gebunden, Aufladen per Pix",
    "src": "https://www.agenciasp.sp.gov.br/transporte-e-transito/transportes-metropolitanos-de-sp-aceitam-pagamento-por-aproximacao-nas-estacoes/"
@@ -302,7 +302,7 @@
    "cat": "transit",
    "pkg": "br.gov.sp.cptm.mobile",
    "note": "S Bahn Züge der CPTM in São Paulo",
-   "city": "Sao Paulo",
+   "city": "São Paulo",
    "use": "ok",
    "src": "https://www.cptm.sp.gov.br"
   },
@@ -311,7 +311,7 @@
    "cat": "transit",
    "pkg": "br.com.metrosp.appmetro",
    "note": "Offizielle App der Metro São Paulo",
-   "city": "Sao Paulo",
+   "city": "São Paulo",
    "use": "ok",
    "src": "https://www.metro.sp.gov.br"
   },
@@ -370,7 +370,7 @@
    "cat": "taxi",
    "pkg": "br.com.taxidigitaluse",
    "note": "Taxi in São Paulo bestellen",
-   "city": "Sao Paulo",
+   "city": "São Paulo",
    "use": "ok",
    "src": "https://play.google.com/store/apps/details?id=br.com.taxidigitaluse"
   },
@@ -395,7 +395,7 @@
    "cat": "carshare",
    "pkg": "br.com.turbi.turbi",
    "note": "Mietwagen ohne Schalter, per App öffnen",
-   "city": "Sao Paulo",
+   "city": "São Paulo",
    "use": "ok",
    "src": "https://turbi.com.br"
   },

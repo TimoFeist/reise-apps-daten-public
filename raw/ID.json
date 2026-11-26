@@ -356,6 +356,326 @@
    "use": "ok",
    "url": "https://www.ridebeam.com/id",
    "src": "https://www.ridebeam.com/id"
+  },
+  {
+   "name": "Trans Jogja",
+   "cat": "transit",
+   "pkg": "ngi.transjogja.apppublic",
+   "note": "Busrouten und Haltestellen von Trans Jogja",
+   "city": "Yogyakarta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ngi.transjogja.apppublic",
+   "src": "https://nginovasi.com/"
+  },
+  {
+   "name": "Trans Metro Dewata",
+   "cat": "transit",
+   "pkg": "ngi.muchi.bali",
+   "note": "Stadtbusse Denpasar und Südbali mit Live-Ortung",
+   "city": "Bali",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ngi.muchi.bali",
+   "src": "https://nginovasi.com/"
+  },
+  {
+   "name": "TRANSJATIM - AJAIB",
+   "cat": "transit",
+   "pkg": "ngi.muchi.jatimajaib",
+   "note": "Busse der Provinz Ostjava rund um Surabaya",
+   "city": "Surabaya",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ngi.muchi.jatimajaib",
+   "src": "https://dishub.jatimprov.go.id/"
+  },
+  {
+   "name": "Metro Jabar Trans",
+   "cat": "transit",
+   "pkg": "ngi.muchi.mjt",
+   "note": "Stadtbusse im Großraum Bandung",
+   "city": "Bandung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ngi.muchi.mjt",
+   "src": "https://nginovasi.com/"
+  },
+  {
+   "name": "DAMRI Apps",
+   "cat": "rail",
+   "pkg": "com.simadamri.damriapps",
+   "note": "Fernbusse und Flughafenbusse des Staatsbetriebs",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.simadamri.damriapps",
+   "src": "https://damri.co.id"
+  },
+  {
+   "name": "Cititrans",
+   "cat": "rail",
+   "pkg": "air.com.cititrans.birdev02",
+   "note": "Shuttlebusse z. B. Jakarta Bandung, Blue Bird",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=air.com.cititrans.birdev02",
+   "src": "https://www.cititrans.co.id"
+  },
+  {
+   "name": "Rosalia Indah",
+   "cat": "rail",
+   "pkg": "com.rosalia.indah",
+   "note": "Großer Fernbusbetreiber auf Java und Bali",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rosalia.indah",
+   "src": "https://www.rosalia-indah.co.id/web/"
+  },
+  {
+   "name": "12Go",
+   "cat": "rail",
+   "pkg": "co.go12.ticketapp",
+   "note": "Fähren, Schnellboote, Busse, Bahn buchen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=co.go12.ticketapp",
+   "src": "https://12go.com"
+  },
+  {
+   "name": "redBus",
+   "cat": "rail",
+   "pkg": "in.redbus.android",
+   "note": "Fernbus- und Shuttletickets in Indonesien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=in.redbus.android",
+   "src": "https://www.redbus.id"
+  },
+  {
+   "name": "JogjaKita",
+   "cat": "taxi",
+   "pkg": "com.bm.sc.jogjakita",
+   "note": "Lokale Ojek- und Auto-App in Yogyakarta",
+   "city": "Yogyakarta",
+   "use": "limited",
+   "req": "indonesische Nummer empfohlen",
+   "url": "https://play.google.com/store/apps/details?id=com.bm.sc.jogjakita",
+   "src": "https://jogjakita.co.id"
+  },
+  {
+   "name": "Movic",
+   "cat": "carshare",
+   "pkg": "id.astra.adp.movic",
+   "note": "Mietwagen mit und ohne Fahrer, Astra-Gruppe",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=id.astra.adp.movic",
+   "src": "https://movic.id"
+  },
+  {
+   "name": "ASTRO",
+   "cat": "delivery",
+   "pkg": "com.astro.shop",
+   "note": "Lebensmittel in Minuten, Großraum Jakarta",
+   "city": "Jakarta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.astro.shop",
+   "src": "https://astronauts.id/"
+  },
+  {
+   "name": "Sayurbox",
+   "cat": "delivery",
+   "pkg": "com.sayurbox",
+   "note": "Frische Lebensmittel online, Java und Bali",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sayurbox",
+   "src": "https://www.sayurbox.com"
+  },
+  {
+   "name": "Segari",
+   "cat": "delivery",
+   "pkg": "id.segari.customer",
+   "note": "Supermarkt-Lieferdienst im Großraum Jakarta",
+   "city": "Jakarta",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=id.segari.customer",
+   "src": "http://segari.id"
+  },
+  {
+   "name": "HappyFresh",
+   "cat": "delivery",
+   "pkg": "com.happyfresh.android",
+   "note": "Supermarkteinkauf mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.happyfresh.android",
+   "src": "https://www.happyfresh.com/"
+  },
+  {
+   "name": "OVO",
+   "cat": "payment",
+   "pkg": "ovo.id",
+   "note": "Verbreitetes E-Wallet für QRIS-Zahlungen",
+   "use": "limited",
+   "req": "indonesische Nummer und Ausweisprüfung nötig",
+   "url": "https://play.google.com/store/apps/details?id=ovo.id",
+   "src": "https://www.ovo.id/"
+  },
+  {
+   "name": "ShopeePay",
+   "cat": "payment",
+   "pkg": "com.shopeepay.id",
+   "note": "E-Wallet von Shopee, QRIS überall",
+   "use": "limited",
+   "req": "indonesische Nummer nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.shopeepay.id",
+   "src": "https://shopeepay.co.id"
+  },
+  {
+   "name": "LinkAja",
+   "cat": "payment",
+   "pkg": "com.telkom.mwallet",
+   "note": "Staatliches E-Wallet mit QRIS",
+   "use": "limited",
+   "req": "indonesische Nummer nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.telkom.mwallet",
+   "src": "https://www.linkaja.id"
+  },
+  {
+   "name": "eRinjani",
+   "cat": "tourism",
+   "pkg": "com.sasambodeveloper.erinjani",
+   "note": "Offizielle Buchung für Rinjani-Besteigung",
+   "city": "Lombok",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sasambodeveloper.erinjani",
+   "src": "https://www.rinjaninationalpark.id/"
+  },
+  {
+   "name": "MAGMA Indonesia",
+   "cat": "safety",
+   "pkg": "com.magma.pvmbg.magmaindonesia",
+   "note": "Vulkanwarnstufen und Ausbruchsmeldungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.magma.pvmbg.magmaindonesia",
+   "src": "https://magma.vsi.esdm.go.id/"
+  },
+  {
+   "name": "inaRISK Personal",
+   "cat": "safety",
+   "pkg": "com.inarisk.bnpb",
+   "note": "Katastrophenrisiko am Standort, Behörde BNPB",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.inarisk.bnpb",
+   "src": "http://inarisk.bnpb.go.id"
+  },
+  {
+   "name": "FlyGaruda",
+   "cat": "flights",
+   "pkg": "com.ursabyte.garudaindonesiaairlines",
+   "note": "Nationale Airline Garuda Indonesia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ursabyte.garudaindonesiaairlines",
+   "src": "https://www.garuda-indonesia.com"
+  },
+  {
+   "name": "Citilink",
+   "cat": "flights",
+   "pkg": "id.co.m.citilink.tras",
+   "note": "Billigtochter von Garuda, viele Inlandsflüge",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=id.co.m.citilink.tras",
+   "src": "https://www.citilink.co.id"
+  },
+  {
+   "name": "Batik Air",
+   "cat": "flights",
+   "pkg": "com.goquo.ig.app",
+   "note": "Airline der Lion Air Gruppe",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.goquo.ig.app",
+   "src": "http://www.batikair.com"
+  },
+  {
+   "name": "AirAsia MOVE",
+   "cat": "flights",
+   "pkg": "com.airasia.mobile",
+   "note": "Indonesia AirAsia Flüge, u. a. ab Bali",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.airasia.mobile",
+   "src": "https://www.airasia.com"
+  },
+  {
+   "name": "ExperIA",
+   "cat": "flights",
+   "pkg": "com.injourneyairports.experia",
+   "note": "App der Flughäfen von InJourney Airports",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.injourneyairports.experia",
+   "src": "https://injourneyairports.id/"
+  },
+  {
+   "name": "Agoda",
+   "cat": "hotels",
+   "pkg": "com.agoda.mobile.consumer",
+   "note": "Große Hotelauswahl in Südostasien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer",
+   "src": "https://www.agoda.com"
+  },
+  {
+   "name": "RedDoorz",
+   "cat": "hotels",
+   "pkg": "com.reddoorz.app",
+   "note": "Günstige Budget-Hotels landesweit",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.reddoorz.app",
+   "src": "https://www.reddoorz.com"
+  },
+  {
+   "name": "OYO",
+   "cat": "hotels",
+   "pkg": "com.oyo.consumer",
+   "note": "Budget-Hotels und Gästehäuser",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.oyo.consumer",
+   "src": "https://www.oyorooms.com"
+  },
+  {
+   "name": "Alfagift",
+   "cat": "shopping",
+   "pkg": "com.alfamart.alfagift",
+   "note": "App der Minimarkt-Kette Alfamart",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.alfamart.alfagift",
+   "src": "https://alfamart.co.id/"
+  },
+  {
+   "name": "Klik Indomaret",
+   "cat": "shopping",
+   "pkg": "com.indomaret.klikindomaret",
+   "note": "App der Minimarkt-Kette Indomaret",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.indomaret.klikindomaret",
+   "src": "https://www.klikindomaret.com"
+  },
+  {
+   "name": "My Super Indo",
+   "cat": "shopping",
+   "pkg": "id.co.superindo.mysuperindo",
+   "note": "Supermarktkette Super Indo, Angebote",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=id.co.superindo.mysuperindo",
+   "src": "https://www.superindo.co.id"
+  },
+  {
+   "name": "Tokopedia",
+   "cat": "shopping",
+   "pkg": "com.tokopedia.tkpd",
+   "note": "Großer Online-Marktplatz",
+   "use": "limited",
+   "req": "indonesische Nummer nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.tokopedia.tkpd",
+   "src": "https://www.tokopedia.com"
+  },
+  {
+   "name": "Halodoc",
+   "cat": "misc",
+   "pkg": "com.linkdokter.halodoc.android",
+   "note": "Arzt per Video und Medikamente liefern",
+   "use": "limited",
+   "req": "indonesische Nummer nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.linkdokter.halodoc.android",
+   "src": "https://www.halodoc.com"
   }
  ],
  "replace": [
