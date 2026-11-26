@@ -268,6 +268,167 @@
    "url": "https://www.ema.gov.eg",
    "nostore": true,
    "src": "https://alertingauthority.wmo.int/authorities.php?recId=45"
+  },
+  {
+   "name": "Mwasalat Misr",
+   "cat": "transit",
+   "pkg": "com.mwasalatmisr",
+   "note": "Moderne Stadtbusse im Großraum Kairo, Linien und Tickets",
+   "city": "Kairo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mwasalatmisr"
+  },
+  {
+   "name": "Swvl",
+   "cat": "transit",
+   "pkg": "io.swvl.customer",
+   "note": "Feste Minibus-Linien in und zwischen Städten, Sitz buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=io.swvl.customer"
+  },
+  {
+   "name": "Superjet",
+   "cat": "rail",
+   "pkg": "com.superjet.app",
+   "note": "Fernbus-Tickets, u. a. Richtung Rotes Meer und Sinai",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.superjet.app"
+  },
+  {
+   "name": "WE BUS",
+   "cat": "rail",
+   "pkg": "com.techsexperts.webus",
+   "note": "Fernbusse quer durch Ägypten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.techsexperts.webus"
+  },
+  {
+   "name": "London Cab Egypt",
+   "cat": "taxi",
+   "pkg": "com.sixt.londoncab",
+   "note": "Taxi-Dienst mit App-Buchung, auch Flughafentransfer",
+   "city": "Kairo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sixt.londoncab"
+  },
+  {
+   "name": "SharmTaxi",
+   "cat": "taxi",
+   "pkg": "sharm.taxi.passenger",
+   "note": "Taxi-App für Sharm El Sheikh mit Festpreisen, Flughafen",
+   "city": "Sharm El Sheikh",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=sharm.taxi.passenger"
+  },
+  {
+   "name": "8Orders",
+   "cat": "delivery",
+   "pkg": "com.HadafSolutions.Otlobly",
+   "note": "Essen, Lebensmittel und Apotheke geliefert in Hurghada",
+   "city": "Hurghada",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.HadafSolutions.Otlobly"
+  },
+  {
+   "name": "noon",
+   "cat": "delivery",
+   "pkg": "com.noon.buyerapp",
+   "note": "Großer Onlinehändler mit Essens- und Lebensmittellieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.noon.buyerapp"
+  },
+  {
+   "name": "Chefaa",
+   "cat": "delivery",
+   "pkg": "app.com.chefaa",
+   "note": "Medikamente und Drogerie aus Apotheken liefern lassen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=app.com.chefaa"
+  },
+  {
+   "name": "Carrefour",
+   "cat": "shopping",
+   "pkg": "com.aswat.carrefouruae",
+   "note": "Hypermarkt-Kette, Angebote und Lieferung von Lebensmitteln",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.aswat.carrefouruae"
+  },
+  {
+   "name": "Spinneys Egypt",
+   "cat": "shopping",
+   "pkg": "com.emotion.spinneys",
+   "note": "Supermarktkette mit Onlinebestellung und Angeboten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.emotion.spinneys"
+  },
+  {
+   "name": "Jumia",
+   "cat": "shopping",
+   "pkg": "com.jumia.android",
+   "note": "Großer Online-Marktplatz in Ägypten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.jumia.android"
+  },
+  {
+   "name": "EGYPTAIR",
+   "cat": "flights",
+   "pkg": "com.linkdev.egyptair.app",
+   "note": "Nationale Airline: Buchung, Check-in, Bordkarte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.linkdev.egyptair.app"
+  },
+  {
+   "name": "Air Cairo",
+   "cat": "flights",
+   "pkg": "com.emotion.aircairo",
+   "note": "Ägyptische Ferien-Airline, Buchung und Check-in",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.emotion.aircairo"
+  },
+  {
+   "name": "Nile Air",
+   "cat": "flights",
+   "pkg": "com.amadeus.merci.np",
+   "note": "Private ägyptische Airline, Buchung und Check-in",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.amadeus.merci.np"
+  },
+  {
+   "name": "Cairo Int Airport",
+   "cat": "flights",
+   "pkg": "com.cairo.airport",
+   "note": "Offizielle Flughafen-App: Lounges und Zusatzservices buchen",
+   "city": "Kairo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.cairo.airport"
+  },
+  {
+   "name": "Egypt e-Visa Portal",
+   "cat": "entry",
+   "note": "Offizielles E-Visum vorab online beantragen",
+   "use": "ok",
+   "url": "https://visa2egypt.gov.eg",
+   "nostore": true,
+   "src": "https://visa2egypt.gov.eg"
+  },
+  {
+   "name": "Egymonuments Tickets",
+   "cat": "tourism",
+   "note": "Offizielle Online-Tickets für Tempel, Museen, Pyramiden",
+   "use": "ok",
+   "url": "https://egymonuments.com",
+   "nostore": true,
+   "src": "https://egymonuments.com"
+  },
+  {
+   "name": "Grand Egyptian Museum Tickets",
+   "cat": "tourism",
+   "note": "Offizieller Ticketshop des Grand Egyptian Museum in Gizeh",
+   "city": "Kairo",
+   "use": "ok",
+   "url": "https://visit-gem.com",
+   "nostore": true,
+   "src": "https://visit-gem.com"
   }
  ],
  "fetched": "2026-11-23"

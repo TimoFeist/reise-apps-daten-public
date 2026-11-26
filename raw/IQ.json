@@ -180,6 +180,73 @@
    "url": "https://meteoseism.gov.iq/",
    "nostore": true,
    "src": "https://meteoseism.gov.iq/"
+  },
+  {
+   "name": "Obr",
+   "cat": "taxi",
+   "pkg": "com.obr.passenger",
+   "note": "Fahrdienst in Bagdad und weiteren Provinzen",
+   "use": "ok",
+   "src": "https://obr.taxi/"
+  },
+  {
+   "name": "Nasyar",
+   "cat": "taxi",
+   "pkg": "tech.blackace.nasyar",
+   "note": "Taxi und Lieferdienst in Sulaimaniyya",
+   "city": "Sulaymaniyah",
+   "use": "ok",
+   "src": "https://www.nasyar.co/"
+  },
+  {
+   "name": "Toters",
+   "cat": "delivery",
+   "pkg": "com.toters.customer",
+   "note": "Essen und Einkäufe, auch in Kurdistan",
+   "use": "ok",
+   "src": "http://www.totersapp.com"
+  },
+  {
+   "name": "Talabatey",
+   "cat": "delivery",
+   "pkg": "com.talabatey",
+   "note": "Essenslieferung aus über 1000 Restaurants",
+   "use": "ok",
+   "src": "http://www.talabatey.com"
+  },
+  {
+   "name": "Alsaree3",
+   "cat": "delivery",
+   "pkg": "com.alsaree3",
+   "note": "Essenslieferdienst in Bagdad",
+   "city": "Baghdad",
+   "use": "ok",
+   "src": "https://alsaree3.com"
+  },
+  {
+   "name": "Wade",
+   "cat": "delivery",
+   "pkg": "app.trytiptop.customer",
+   "note": "Essen, Einkäufe und Taxi in mehreren Städten",
+   "use": "ok",
+   "src": "https://wadedelivery.com/"
+  },
+  {
+   "name": "FastPay",
+   "cat": "payment",
+   "pkg": "com.sslwireless.fastpay",
+   "note": "Verbreitete irakische Wallet",
+   "use": "no",
+   "req": "Ausländer brauchen irakische Aufenthaltskarte",
+   "src": "https://fast-pay.iq/about"
+  },
+  {
+   "name": "Fly Erbil",
+   "cat": "flights",
+   "pkg": "com.flyerbil.mobileapp.release",
+   "note": "Airline aus Erbil: Flüge buchen und verwalten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.flyerbil.mobileapp.release"
   }
  ]
 }

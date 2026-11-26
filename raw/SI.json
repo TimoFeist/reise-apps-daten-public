@@ -218,6 +218,122 @@
    "use": "no",
    "req": "Konto bei slowenischer Bank nötig",
    "src": "https://www.bankart.si/en/flik-pay/"
+  },
+  {
+   "name": "Arriva Piran",
+   "cat": "transit",
+   "pkg": "com.margento.piran",
+   "note": "Stadtbus Piran: Fahrt bezahlen, Guthaben, Abfahrten",
+   "city": "Piran",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.margento.piran"
+  },
+  {
+   "name": "Centralka",
+   "cat": "transit",
+   "pkg": "com.margento.cipmoc.centralka",
+   "note": "Stadtkarte Celje: Bus und Parken bargeldlos in einer App",
+   "city": "Celje",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.margento.cipmoc.centralka"
+  },
+  {
+   "name": "Nomago",
+   "cat": "rail",
+   "pkg": "si.nomago.maas.android",
+   "note": "Überland- und Fernbusse sowie Nomago-Leihräder buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=si.nomago.maas.android"
+  },
+  {
+   "name": "GoOpti",
+   "cat": "rail",
+   "pkg": "com.goopti.passengerapp",
+   "note": "Flughafen-Shuttles: Buchungen verwalten, Fahrt verfolgen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.goopti.passengerapp"
+  },
+  {
+   "name": "Laguna taxi Slovenija",
+   "cat": "taxi",
+   "pkg": "com.netinformatika.laguna",
+   "note": "Taxi per App bestellen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.netinformatika.laguna"
+  },
+  {
+   "name": "Yalla Taxi Ljubljana",
+   "cat": "taxi",
+   "pkg": "yalla.taxi.ljubljana.slovenia.passenger",
+   "note": "Taxi mit Festpreis, auch Flughafentransfer",
+   "city": "Ljubljana",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=yalla.taxi.ljubljana.slovenia.passenger"
+  },
+  {
+   "name": "eVinjeta",
+   "cat": "misc",
+   "pkg": "si.dars.evinjeta",
+   "note": "Gültigkeit der E-Vignette prüfen, Kauf auf evinjeta.dars.si",
+   "use": "ok",
+   "src": "https://evinjeta.dars.si"
+  },
+  {
+   "name": "Petrol GO",
+   "cat": "misc",
+   "pkg": "si.petrol.napoti",
+   "note": "Tanken und Waschen an Petrol-Tankstellen per App bezahlen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=si.petrol.napoti"
+  },
+  {
+   "name": "iSKI Slovenija",
+   "cat": "tourism",
+   "pkg": "intermaps.iskislovenija",
+   "note": "Skigebiete Sloweniens: Live-Infos zu Liften und Pisten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=intermaps.iskislovenija"
+  },
+  {
+   "name": "Slovenia Outdoor",
+   "cat": "tourism",
+   "pkg": "com.outdooractive.sloutdoor",
+   "note": "Offizieller Outdoor-Führer: Wandern, Rad, Touren mit Karte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.outdooractive.sloutdoor"
+  },
+  {
+   "name": "Juliana Trail",
+   "cat": "tourism",
+   "pkg": "com.outdooractive.julianalps",
+   "note": "Fernwanderweg rund um die Julischen Alpen mit Etappen",
+   "city": "Julian Alps",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.outdooractive.julianalps"
+  },
+  {
+   "name": "SPAR plus",
+   "cat": "shopping",
+   "pkg": "plus.spar.si",
+   "note": "Supermarkt SPAR: Angebote und Coupons",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=plus.spar.si"
+  },
+  {
+   "name": "MOJ M (Mercator)",
+   "cat": "shopping",
+   "pkg": "si.mercator.mojm",
+   "note": "Supermarktkette Mercator: Angebote und Pika-Kundenkarte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=si.mercator.mojm"
+  },
+  {
+   "name": "HOFER",
+   "cat": "shopping",
+   "pkg": "de.apptiv.business.android.aldi_si",
+   "note": "Discounter Hofer: Angebote, Filialen, Öffnungszeiten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=de.apptiv.business.android.aldi_si"
   }
  ],
  "lgbtq_note": "Gleichgeschlechtliche Paare sind rechtlich gleichgestellt, die Gesellschaft ist vor allem in Ljubljana offen.",

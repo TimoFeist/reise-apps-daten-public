@@ -226,6 +226,167 @@
    "use": "no",
    "req": "Chilenische RUT nötig",
    "src": "https://www.mercadopago.cl/"
+  },
+  {
+   "name": "Metro de Santiago",
+   "cat": "transit",
+   "pkg": "cl.metro.mobile",
+   "note": "Offizielle Metro-App: Routen, Störungen, bip! aufladen",
+   "city": "Santiago",
+   "use": "ok",
+   "src": "https://www.metro.cl"
+  },
+  {
+   "name": "EFE Trenes de Chile",
+   "cat": "rail",
+   "pkg": "com.efe_mobile",
+   "note": "Staatsbahn: Tickets und Fahrpläne, auch Tren Valparaíso",
+   "use": "ok",
+   "src": "https://www.efe.cl"
+  },
+  {
+   "name": "kupos",
+   "cat": "rail",
+   "pkg": "com.bitla.mba.pasajebus",
+   "note": "Fernbustickets vieler Anbieter vergleichen und kaufen",
+   "use": "ok",
+   "src": "https://www.kupos.cl"
+  },
+  {
+   "name": "Turbus",
+   "cat": "rail",
+   "pkg": "com.kupos.turbus",
+   "note": "Tickets des größten Fernbusunternehmens in Chile",
+   "use": "ok",
+   "src": "https://www.turbus.cl"
+  },
+  {
+   "name": "Pullman Bus",
+   "cat": "rail",
+   "pkg": "com.kupos.pullmanbus",
+   "note": "Fernbustickets von Pullman Bus im ganzen Land",
+   "use": "ok",
+   "src": "https://www.pullmanbus.cl"
+  },
+  {
+   "name": "ChilePasajes",
+   "cat": "rail",
+   "pkg": "io.ionic.chile.pasajes",
+   "note": "Fernbustickets, Zahlung per WebPay oder PayPal",
+   "use": "ok",
+   "src": "https://www.chilepasajes.cl"
+  },
+  {
+   "name": "Tabsa",
+   "cat": "rail",
+   "pkg": "cl.tabsaApp.app",
+   "note": "Fähren der Magellanstraße, Tickets nach Porvenir",
+   "city": "Punta Arenas",
+   "use": "ok",
+   "src": "https://www.tabsa.cl"
+  },
+  {
+   "name": "Transvip",
+   "cat": "taxi",
+   "pkg": "com.transvip.customer",
+   "note": "Flughafentransfer und Sammeltaxi, vor allem Santiago",
+   "use": "ok",
+   "src": "https://www.transvip.cl"
+  },
+  {
+   "name": "Rappi",
+   "cat": "delivery",
+   "pkg": "com.grability.rappi",
+   "note": "Essen, Supermarkt und Apotheke liefern lassen",
+   "use": "ok",
+   "src": "https://www.rappi.cl"
+  },
+  {
+   "name": "Jumbo",
+   "cat": "shopping",
+   "pkg": "com.cencosud.cl.jumboahora",
+   "note": "Große Supermarktkette: Angebote, Filialen, Lieferung",
+   "use": "ok",
+   "src": "https://www.jumbo.cl"
+  },
+  {
+   "name": "Lider",
+   "cat": "shopping",
+   "pkg": "cl.walmart.liderapp",
+   "note": "Walmart-Supermärkte: Angebote, Filialen, Lieferung",
+   "use": "ok",
+   "src": "https://www.lider.cl"
+  },
+  {
+   "name": "LATAM Airlines",
+   "cat": "flights",
+   "pkg": "com.latam.xp",
+   "note": "Größte Airline Chiles: Buchung, Check-in, Bordkarte",
+   "use": "ok",
+   "src": "https://www.latamairlines.com"
+  },
+  {
+   "name": "SKY Airline",
+   "cat": "flights",
+   "pkg": "com.skyairline",
+   "note": "Billigflieger für Inlandsflüge, Check-in per App",
+   "use": "ok",
+   "src": "https://www.skyairline.com"
+  },
+  {
+   "name": "Aeropuerto Santiago",
+   "cat": "flights",
+   "pkg": "com.massiva.nuevopudahuel",
+   "note": "Offizielle Flughafen-App mit Fluginfos in Echtzeit",
+   "city": "Santiago",
+   "use": "ok",
+   "src": "https://www.nuevopudahuel.cl"
+  },
+  {
+   "name": "Turistik",
+   "cat": "tourism",
+   "pkg": "com.globalguidesystems.tracker.tuc",
+   "note": "Hop-on-Hop-off-Bus mit Live-Standort und Stadtkarte",
+   "city": "Santiago",
+   "use": "ok",
+   "src": "https://turistik.com"
+  },
+  {
+   "name": "Chiletur Copec",
+   "cat": "tourism",
+   "pkg": "cl.copec.chileturapp",
+   "note": "Bekannter Reiseführer mit Routen durchs Land, Spanisch",
+   "use": "limited",
+   "req": "Nur auf Spanisch",
+   "src": "https://www.chiletur.cl"
+  },
+  {
+   "name": "Pases Parques (CONAF)",
+   "cat": "tourism",
+   "note": "Eintritt Nationalparks online, Pflicht für Torres del Paine",
+   "use": "ok",
+   "url": "https://www.pasesparques.cl",
+   "nostore": true,
+   "src": "https://www.pasesparques.cl"
+  },
+  {
+   "name": "Andacor",
+   "cat": "tourism",
+   "pkg": "com.wdreams.elcolorado",
+   "note": "Skigebiete El Colorado und Farellones: Pässe und Pisten",
+   "city": "Farellones",
+   "use": "ok",
+   "src": "https://www.elcolorado.cl"
+  },
+  {
+   "name": "FUI Rapa Nui",
+   "cat": "entry",
+   "note": "Pflichtformular vor dem Flug zur Osterinsel, kostenlos",
+   "city": "Easter Island",
+   "use": "ok",
+   "url": "https://ingresorapanui.interior.gob.cl",
+   "nostore": true,
+   "src": "https://www.chileatiende.gob.cl/fichas/77683-formulario-unico-de-ingreso-a-rapa-nui-fui"
   }
  ],
  "fetched": "2026-11-17"

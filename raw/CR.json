@@ -181,6 +181,96 @@
    "url": "https://www.bccr.fi.cr",
    "nostore": true,
    "src": "https://www.bccr.fi.cr"
+  },
+  {
+   "name": "Rappi",
+   "cat": "delivery",
+   "pkg": "com.grability.rappi",
+   "note": "Essen und Einkäufe liefern lassen",
+   "use": "ok",
+   "src": "https://www.rappi.co.cr/"
+  },
+  {
+   "name": "Adobe Rent a Car",
+   "cat": "carshare",
+   "pkg": "com.baum.adobe",
+   "note": "Mietwagen beim lokalen Vermieter Adobe buchen",
+   "use": "ok",
+   "src": "https://www.adobecar.com/"
+  },
+  {
+   "name": "Parquímetros Turrialba",
+   "cat": "parking",
+   "pkg": "com.novaq.turri.parquimetros",
+   "note": "Parkzeit der Gemeinde Turrialba per App kaufen",
+   "city": "Turrialba",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.novaq.turri.parquimetros"
+  },
+  {
+   "name": "SINAC Nationalpark-Tickets",
+   "cat": "tourism",
+   "note": "Offizielle Online-Tickets für Nationalparks",
+   "use": "ok",
+   "url": "https://serviciosenlinea.sinac.go.cr/",
+   "nostore": true,
+   "src": "https://serviciosenlinea.sinac.go.cr/"
+  },
+  {
+   "name": "UNA Costa Segura",
+   "cat": "safety",
+   "pkg": "cr.una.unacostasegura",
+   "note": "Tsunami-Warnungen und Gezeiten der Universität UNA",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=cr.una.unacostasegura"
+  },
+  {
+   "name": "Auto Mercado",
+   "cat": "shopping",
+   "pkg": "com.app.automercado",
+   "note": "Supermarktkette: Filialen, Angebote, Bestellung",
+   "use": "ok",
+   "src": "https://www.automercado.cr/"
+  },
+  {
+   "name": "Walmart Centroamérica",
+   "cat": "shopping",
+   "pkg": "com.walmart.cam.walmart",
+   "note": "Walmart: Filialen, Angebote und Onlinekauf",
+   "use": "ok",
+   "src": "https://www.walmart.co.cr/"
+  },
+  {
+   "name": "Masxmenos",
+   "cat": "shopping",
+   "pkg": "com.walmart.cam.masxmenos",
+   "note": "Supermarktkette: Angebote und Onlinekauf",
+   "use": "ok",
+   "src": "https://www.masxmenos.cr/"
+  },
+  {
+   "name": "Fresh Market",
+   "cat": "shopping",
+   "pkg": "com.freshmarket.cr",
+   "note": "Kette kleiner Supermärkte: Filialen und Angebote",
+   "use": "ok",
+   "src": "https://www.freshmarket.co.cr/"
+  },
+  {
+   "name": "Volaris",
+   "cat": "flights",
+   "pkg": "com.volaris.app",
+   "note": "Billigflieger mit Flügen ab San José",
+   "use": "ok",
+   "src": "https://www.volaris.com/"
+  },
+  {
+   "name": "avianca",
+   "cat": "flights",
+   "pkg": "areamovil.aviancataca",
+   "note": "Avianca: Flüge ab San José, Check-in",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=areamovil.aviancataca"
   }
  ]
 }

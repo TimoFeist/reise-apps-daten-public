@@ -222,6 +222,79 @@
    "use": "no",
    "req": "Isländische Kennnummer und Konto nötig",
    "src": "https://www.aur.is"
+  },
+  {
+   "name": "Icelandair",
+   "cat": "flights",
+   "pkg": "com.icelandair.mobile.app.android",
+   "note": "Nationale Airline: Buchung, Check-in, Bordkarte",
+   "use": "ok",
+   "src": "https://www.icelandair.com/"
+  },
+  {
+   "name": "Umferðin (Vegagerðin)",
+   "cat": "safety",
+   "note": "Offizielle Karte zu Straßenzustand und Sperrungen",
+   "use": "ok",
+   "url": "https://umferdin.is/en",
+   "nostore": true,
+   "src": "https://umferdin.is/en"
+  },
+  {
+   "name": "Iceland Road Guide",
+   "cat": "tourism",
+   "pkg": "com.locatify.roadatlas.iceland",
+   "note": "Straßenatlas Vegahandbókin mit 3000 Orten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.locatify.roadatlas.iceland"
+  },
+  {
+   "name": "Guide to Iceland",
+   "cat": "tourism",
+   "pkg": "is.guidetoiceland.twa",
+   "note": "Großer Marktplatz für Touren und Unterkünfte",
+   "use": "ok",
+   "src": "https://guidetoiceland.is/"
+  },
+  {
+   "name": "Kringum Iceland",
+   "cat": "tourism",
+   "pkg": "com.thoroddsen.kringum",
+   "note": "Geschichten und Sehenswertes rund um den Standort",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.thoroddsen.kringum"
+  },
+  {
+   "name": "Icelandic Coupons",
+   "cat": "misc",
+   "pkg": "com.loftfar.coupons",
+   "note": "Rabattcoupons für Restaurants, Bars und Touren",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.loftfar.coupons"
+  },
+  {
+   "name": "Dineout Iceland",
+   "cat": "misc",
+   "pkg": "com.dineout.mobile",
+   "note": "Tisch in isländischen Restaurants reservieren",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dineout.mobile"
+  },
+  {
+   "name": "ON appið",
+   "cat": "misc",
+   "pkg": "is.on.charge.android",
+   "note": "E-Auto laden an ON-Säulen im ganzen Land",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=is.on.charge.android"
+  },
+  {
+   "name": "e1",
+   "cat": "misc",
+   "pkg": "is.e1.app2",
+   "note": "E-Auto laden bei mehreren Anbietern mit einer App",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=is.e1.app2"
   }
  ]
 }

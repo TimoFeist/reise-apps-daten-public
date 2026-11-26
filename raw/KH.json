@@ -221,6 +221,95 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/id6751818603"
+  },
+  {
+   "name": "TADA",
+   "cat": "taxi",
+   "pkg": "io.mvlchain.tada",
+   "note": "Fahrdienst mit Auto und Tuk-Tuk, Festpreis vorab",
+   "use": "ok",
+   "src": "https://tada.global"
+  },
+  {
+   "name": "E-GetS",
+   "cat": "delivery",
+   "pkg": "com.egets.takeaways",
+   "note": "Essens- und Getränkelieferung, App auch auf Englisch",
+   "use": "ok",
+   "src": "https://www.e-gets.com"
+  },
+  {
+   "name": "12Go",
+   "cat": "rail",
+   "pkg": "co.go12.ticketapp",
+   "note": "Bus, Fähre und Zug in Südostasien vergleichen und buchen",
+   "use": "ok",
+   "src": "https://12go.asia"
+  },
+  {
+   "name": "VET Air Bus (Vireak Buntham)",
+   "cat": "rail",
+   "pkg": "com.bookmebus.vet",
+   "note": "Fernbusse und Nachtbusse von Vireak Buntham buchen",
+   "use": "ok",
+   "src": "https://www.vireakbuntham.com"
+  },
+  {
+   "name": "Larryta Bus",
+   "cat": "rail",
+   "pkg": "com.larrytabus.express",
+   "note": "Fernbus und Minivan zwischen den großen Städten",
+   "use": "ok",
+   "src": "https://larryta.com"
+  },
+  {
+   "name": "Capitol Cambodia",
+   "cat": "rail",
+   "pkg": "com.udaya.capitol_cambodia",
+   "note": "Tickets für Fernbusse von Capitol Bus",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.udaya.capitol_cambodia"
+  },
+  {
+   "name": "Camboticket",
+   "cat": "rail",
+   "pkg": "com.camboticket.magicbus",
+   "note": "Vergleichsportal für Bus, Fähre und Privattaxi",
+   "use": "ok",
+   "src": "https://www.camboticket.com"
+  },
+  {
+   "name": "GTVC Speedboat",
+   "cat": "rail",
+   "pkg": "com.bookmebus.gtvc",
+   "note": "Schnellfähre ab Sihanoukville nach Koh Rong und Samloem",
+   "city": "Koh Rong",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bookmebus.gtvc"
+  },
+  {
+   "name": "MOWRAM Weather",
+   "cat": "safety",
+   "pkg": "com.cammob.weather.mowram",
+   "note": "Amtliches Wetter mit Sturm- und Hochwasserwarnungen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.cammob.weather.mowram"
+  },
+  {
+   "name": "Agoda",
+   "cat": "hotels",
+   "pkg": "com.agoda.mobile.consumer",
+   "note": "In Südostasien führende Hotelbuchung, viele Gästehäuser",
+   "use": "ok",
+   "src": "https://www.agoda.com"
+  },
+  {
+   "name": "Cambodia Tour",
+   "cat": "tourism",
+   "pkg": "kh.gov.rac.cambodiatour",
+   "note": "Staatlicher Reiseführer zu Sehenswürdigkeiten je Provinz",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kh.gov.rac.cambodiatour"
   }
  ],
  "replace": [

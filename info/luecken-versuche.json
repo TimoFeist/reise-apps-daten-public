@@ -1555,13 +1555,48 @@
    "gefunden": 0,
    "notiz": "kein App-Angebot"
   },
-  "CL|entry": {
-   "am": "2026-11-26",
+  "CL|delivery": {
+   "am": "2026-11-27",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "CL|entry": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CL|flights": {
+   "am": "2026-11-27",
+   "gefunden": 3,
    "notiz": ""
   },
   "CL|payment": {
    "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CL|rail": {
+   "am": "2026-11-27",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "CL|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "CL|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CL|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "CL|transit": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
@@ -1690,18 +1725,53 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "CR|carshare": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CR|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "CR|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "visumfrei, kein Einreiseformular"
+  },
+  "CR|flights": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
   },
   "CR|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "kein Leihrad/E-Scooter-Angebot gefunden"
   },
+  "CR|parking": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "CR|payment": {
    "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CR|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CR|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "CR|tourism": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
@@ -2145,19 +2215,104 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "EE|carshare": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EE|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EE|maps": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EE|micro": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EE|parking": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
   "EE|payment": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Kartenzahlung üblich, keine eigene Wallet"
+  },
+  "EE|rail": {
+   "am": "2026-11-27",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "EE|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EE|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "EE|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EG|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "EG|entry": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EG|flights": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
   },
   "EG|parking": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Keine Park-App belegt, Parkin erst geplant"
   },
+  "EG|rail": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "EG|safety": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "EG|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "EG|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "EG|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "EG|transit": {
+   "am": "2026-11-27",
+   "gefunden": 2,
    "notiz": ""
   },
   "EH|entry": {
@@ -3605,6 +3760,16 @@
    "gefunden": 5,
    "notiz": ""
   },
+  "IQ|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "IQ|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "IQ|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -3615,6 +3780,11 @@
    "gefunden": 0,
    "notiz": "Kein Angebot belegt"
   },
+  "IQ|payment": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "IQ|rail": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -3623,6 +3793,11 @@
   "IQ|safety": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "IQ|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 2,
    "notiz": ""
   },
   "IQ|transit": {
@@ -3670,6 +3845,16 @@
    "gefunden": 0,
    "notiz": "Kein für Touristen nutzbares Angebot belegt"
   },
+  "IS|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IS|misc": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
   "IS|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
@@ -3678,6 +3863,16 @@
   "IS|rail": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "IS|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IS|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 3,
    "notiz": ""
   },
   "IT|carshare": {
@@ -3915,10 +4110,40 @@
    "gefunden": 0,
    "notiz": "kein Carsharing per App belegt"
   },
+  "KH|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KH|hotels": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "KH|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Go2 seit 2021 ohne Update, kein aktives Sharing belegt"
+  },
+  "KH|rail": {
+   "am": "2026-11-27",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "KH|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KH|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KH|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
   },
   "KI|carshare": {
    "am": "2026-11-26",
@@ -4383,6 +4608,41 @@
   "LU|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "LV|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LV|maps": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "LV|parking": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LV|rail": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "LV|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LV|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "LV|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 2,
    "notiz": ""
   },
   "LY|entry": {
@@ -5705,6 +5965,21 @@
    "gefunden": 3,
    "notiz": ""
   },
+  "PK|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PK|flights": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "PK|maps": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "PK|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -5716,7 +5991,32 @@
    "notiz": "Digitales Parken in Islamabad gestoppt, keine aktive Park-App belegt"
   },
   "PK|payment": {
-   "am": "2026-11-26",
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PK|rail": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "PK|safety": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PK|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "PK|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PK|transit": {
+   "am": "2026-11-27",
    "gefunden": 2,
    "notiz": ""
   },
@@ -6040,13 +6340,28 @@
    "gefunden": 5,
    "notiz": ""
   },
+  "RS|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "RS|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "visumfrei, kein Formular"
   },
+  "RS|flights": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "RS|micro": {
    "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RS|misc": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
@@ -6054,6 +6369,31 @@
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "keine Wallet für Touristen, Karte üblich"
+  },
+  "RS|rail": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RS|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RS|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RS|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "RS|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
   },
   "RU|carshare": {
    "am": "2026-11-26",
@@ -6410,9 +6750,39 @@
    "gefunden": 0,
    "notiz": "Kein ÖPNV mit App"
   },
+  "SI|misc": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "SI|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "SI|rail": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "SI|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "SI|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "SI|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "SI|transit": {
+   "am": "2026-11-27",
+   "gefunden": 2,
    "notiz": ""
   },
   "SJ|carshare": {
@@ -7370,15 +7740,55 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "UA|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
   "UA|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Deutsche reisen visumfrei ein, kein Online-Formular"
   },
+  "UA|micro": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "UA|misc": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "UA|parking": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Kyiv Digital steht schon im Land, deckt Parken in Kyjiw ab"
+  },
+  "UA|rail": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "UA|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "UA|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "UA|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UA|transit": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
   },
   "UG|carshare": {
    "am": "2026-11-26",

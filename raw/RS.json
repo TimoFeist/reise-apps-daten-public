@@ -207,6 +207,135 @@
    "city": "Belgrade",
    "use": "ok",
    "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/serbia-e-scooter-laws/"
+  },
+  {
+   "name": "Pink Taxi Nova",
+   "cat": "taxi",
+   "pkg": "com.pink.taxi",
+   "note": "Große Belgrader Taxizentrale, Preis vorab, bar oder Karte",
+   "city": "Belgrad",
+   "use": "ok",
+   "src": "https://www.pinktaxi.rs"
+  },
+  {
+   "name": "Beogradski Taxi 19801",
+   "cat": "taxi",
+   "pkg": "com.netinformatika.beogradskitaxi",
+   "note": "Taxizentrale 19801, Bestellung ohne Anruf",
+   "city": "Belgrad",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.netinformatika.beogradskitaxi"
+  },
+  {
+   "name": "City Taxi NS",
+   "cat": "taxi",
+   "pkg": "nstaxi.codecab.biz.app",
+   "note": "Taxizentrale in Novi Sad, Bestellung per App",
+   "city": "Novi Sad",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=nstaxi.codecab.biz.app"
+  },
+  {
+   "name": "Pan Taxi Novi Sad",
+   "cat": "taxi",
+   "pkg": "com.netinformatika.pan",
+   "note": "Taxizentrale in Novi Sad, Wagen live verfolgen",
+   "city": "Novi Sad",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.netinformatika.pan"
+  },
+  {
+   "name": "Prvi Taxi Niš",
+   "cat": "taxi",
+   "pkg": "com.androcab.pub.prvinis",
+   "note": "Taxizentrale in Niš, Bestellung per App",
+   "city": "Nis",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.androcab.pub.prvinis"
+  },
+  {
+   "name": "Traveling.com (GetByBus)",
+   "cat": "rail",
+   "pkg": "com.getbybus.mobile",
+   "note": "Fernbus- und Fährtickets auf dem Balkan buchen",
+   "use": "ok",
+   "src": "https://traveling.com"
+  },
+  {
+   "name": "Alideda",
+   "cat": "delivery",
+   "pkg": "rs.alideda.dostava",
+   "note": "Serbischer Essenslieferdienst, bar oder online zahlen",
+   "use": "ok",
+   "src": "https://alideda.rs"
+  },
+  {
+   "name": "Maxi Online",
+   "cat": "delivery",
+   "pkg": "rs.delhaize",
+   "note": "Lebensmittel der Supermarktkette Maxi liefern lassen",
+   "use": "ok",
+   "src": "https://www.maxi.rs"
+  },
+  {
+   "name": "Air Serbia",
+   "cat": "flights",
+   "pkg": "com.airserbia.mobileapp",
+   "note": "Nationale Airline: Buchung, Check-in, Bordkarte",
+   "use": "ok",
+   "src": "https://www.airserbia.com"
+  },
+  {
+   "name": "Belgrade Airport",
+   "cat": "flights",
+   "pkg": "com.hugemedia.belgrade_airport",
+   "note": "Offizielle Flughafen-App mit Abflügen und Ankünften",
+   "city": "Belgrad",
+   "use": "ok",
+   "src": "https://beg.aero"
+  },
+  {
+   "name": "Skijališta Srbije",
+   "cat": "tourism",
+   "pkg": "rs.skijalista.mobile",
+   "note": "Offiziell: Pisten, Lifte, Karte für Kopaonik, Tornik u. a.",
+   "city": "Kopaonik",
+   "use": "ok",
+   "src": "https://www.skijalistasrbije.rs"
+  },
+  {
+   "name": "infoKOP Kopaonik",
+   "cat": "tourism",
+   "pkg": "com.infokop",
+   "note": "Webcams, Schneelage und Ski-Infos, nur Serbisch",
+   "city": "Kopaonik",
+   "use": "limited",
+   "req": "Nur auf Serbisch",
+   "src": "https://www.infokop.net"
+  },
+  {
+   "name": "Putevi Srbije",
+   "cat": "misc",
+   "pkg": "com.putevi.srbije",
+   "note": "Staatliche Straßen-App: Verkehrslage und Mautrechner",
+   "use": "ok",
+   "src": "https://www.putevi-srbije.rs"
+  },
+  {
+   "name": "AMSS",
+   "cat": "safety",
+   "pkg": "rs.org.amss",
+   "note": "Automobilclub: Pannenhilfe rufen, Verkehrs- und Grenzlage",
+   "use": "ok",
+   "src": "https://www.amss.org.rs"
+  },
+  {
+   "name": "Moj Maxi",
+   "cat": "shopping",
+   "pkg": "com.delhaize.maxi.loyalty",
+   "note": "Größte Supermarktkette: Angebote und Filialen",
+   "use": "ok",
+   "src": "https://www.maxi.rs"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.",

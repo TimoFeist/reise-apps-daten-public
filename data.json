@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-26 22:24",
+ "version": "2026-11-26 23:44",
  "categories": [
   {
    "id": "entry",
@@ -489,7 +489,8 @@
       "RS",
       "SE",
       "SI",
-      "SK"
+      "SK",
+      "XK"
      ]
     },
     {
@@ -12296,6 +12297,136 @@
      "pkg": "com.primeleasing.citybee",
      "ios": 966537355,
      "ic": "kGe3MWWNKm-xJHkN17RH8v71vm3ZOdoXr2qC0wviAIMyvMJNMi4mGxQXIf5rpwEvKwFJCLIXH7gXfKmxWjco"
+    },
+    {
+     "name": "Lux Express",
+     "cat": "rail",
+     "pkg": "com.luxexpress",
+     "note": "Fernbusse im Baltikum, Tickets und Sitzplatzwahl",
+     "src": "https://luxexpress.eu"
+    },
+    {
+     "name": "Tallink Silja Line",
+     "cat": "rail",
+     "pkg": "com.tallink.mikiandroid",
+     "note": "Fähren Tallinn nach Helsinki und Stockholm buchen",
+     "src": "https://www.tallink.com",
+     "ios": 1107519850,
+     "ic": "aGUum3_xDEqYFDGlhemyp76GDrpwR10ttJXPM7meZLdomexrc9zXF3AOqac-xelLCdGLa8uNpZZdegtx4wJ4qQ"
+    },
+    {
+     "name": "Viking Line",
+     "cat": "rail",
+     "pkg": "com.vikingline.owapp",
+     "note": "Fähre Tallinn nach Helsinki, Buchung und Bordkarte",
+     "src": "https://play.google.com/store/apps/details?id=com.vikingline.owapp",
+     "ios": 954827314,
+     "ic": "ym9BnDoPy8gCcVdwK42O2IPHfWzZ0p-nlz_v5ZCFekAeNmuJpfOinVQNJhlGwlAUgkIX_TbE3vVFTZesRJLBGQ"
+    },
+    {
+     "name": "Eckerö Line",
+     "cat": "rail",
+     "pkg": "com.digia.eckeroline",
+     "note": "Fähre Tallinn nach Helsinki mit der MS Finlandia",
+     "src": "https://www.eckeroline.com"
+    },
+    {
+     "name": "ECOLINES",
+     "cat": "rail",
+     "pkg": "net.ecolines.loyalty",
+     "note": "Internationale Fernbusse im Baltikum, Tickets in der App",
+     "src": "https://ecolines.net"
+    },
+    {
+     "name": "Beast Rent",
+     "cat": "carshare",
+     "pkg": "co.electricbeast.beast",
+     "note": "Tesla per App mieten, schlüssellos und rund um die Uhr",
+     "src": "https://beast.rent"
+    },
+    {
+     "name": "Hoog",
+     "cat": "micro",
+     "pkg": "hoog.app",
+     "note": "E-Scooter und Anhänger mieten in Tallinn und Tartu",
+     "src": "https://play.google.com/store/apps/details?id=hoog.app"
+    },
+    {
+     "name": "EuroPark",
+     "cat": "parking",
+     "pkg": "lt.unipark.europark",
+     "note": "Parken auf EuroPark Flächen per App bezahlen",
+     "src": "https://www.europark.ee"
+    },
+    {
+     "name": "Snabb",
+     "cat": "parking",
+     "pkg": "ee.barking.app",
+     "note": "Parkplätze und Autowäsche in Estland mobil bezahlen",
+     "src": "https://play.google.com/store/apps/details?id=ee.barking.app"
+    },
+    {
+     "name": "Autlo",
+     "cat": "parking",
+     "pkg": "com.autlo.android",
+     "note": "Parken mit Karte, Zonen und Freiparkzeit automatisch",
+     "src": "https://autlo.com"
+    },
+    {
+     "name": "Parkner",
+     "cat": "parking",
+     "pkg": "ee.parkner.production",
+     "note": "Parkplätze von Ühisteenused ohne Anmeldung bezahlen",
+     "src": "https://parkner.ee"
+    },
+    {
+     "name": "Barbora.EE",
+     "cat": "delivery",
+     "pkg": "ee.barbora",
+     "note": "Lebensmittel von Maxima nach Hause liefern lassen",
+     "src": "https://barbora.ee"
+    },
+    {
+     "name": "ILM+",
+     "cat": "safety",
+     "pkg": "ee.applaud.kemit",
+     "note": "Amtliches Wetter und Unwetterwarnungen für Estland",
+     "src": "https://www.ilmateenistus.ee"
+    },
+    {
+     "name": "BalticMaps",
+     "cat": "maps",
+     "pkg": "eu.balticmaps.android",
+     "note": "Detailkarten des Baltikums von Jāņa sēta mit GPS",
+     "src": "https://www.balticmaps.eu"
+    },
+    {
+     "name": "Rimi",
+     "cat": "shopping",
+     "pkg": "lv.rimi.card",
+     "note": "Rimi Supermärkte: Angebote, Filialen, Kundenkarte",
+     "src": "https://www.rimi.ee"
+    },
+    {
+     "name": "Maxima",
+     "cat": "shopping",
+     "pkg": "ee.maxima",
+     "note": "Maxima Supermärkte: Angebote und Kundenkarte",
+     "src": "https://www.maxima.ee"
+    },
+    {
+     "name": "Coop Eesti",
+     "cat": "shopping",
+     "pkg": "ee.coop.shopping.app",
+     "note": "Coop Läden in Estland: Angebote und Kundenkarte",
+     "src": "https://www.coop.ee"
+    },
+    {
+     "name": "Lidl Plus",
+     "cat": "shopping",
+     "pkg": "com.lidl.eci.lidlplus",
+     "note": "Lidl Angebote, Coupons und Filialsuche",
+     "src": "https://www.lidl.ee"
     }
    ],
    "cities": [
@@ -12342,6 +12473,13 @@
        "src": "https://bento.travel/estonia",
        "ios": 6468649956,
        "ic": "u_7ut4wS4TEKOfzdHarhKsWIv7CpppBhXV2uh87GGzJ6iwjmHlnKEaeb-KZwScompNpLsFtCCcMEa56mc5TWig"
+      },
+      {
+       "name": "EURO TAKSO",
+       "cat": "taxi",
+       "pkg": "ee.taksiapp.client",
+       "note": "Taxi in Tallinn per App bestellen und verfolgen",
+       "src": "https://play.google.com/store/apps/details?id=ee.taksiapp.client"
       }
      ],
      "ll": [
@@ -12630,6 +12768,90 @@
      "ess": true,
      "src": "https://www.bento.travel/latvia",
      "ic": "9600b1gjqQmtIjPa8Rea4gQoPh-kEjILaOv8LNgpxnrdnsgWqf9iyHAetM4USJ9kA2MZYn9FXm5r5T2kx-dzoQ"
+    },
+    {
+     "name": "Lux Express",
+     "cat": "rail",
+     "pkg": "com.luxexpress",
+     "note": "Fernbusse ab Riga nach Tallinn und Vilnius",
+     "src": "https://luxexpress.eu"
+    },
+    {
+     "name": "ECOLINES",
+     "cat": "rail",
+     "pkg": "net.ecolines.loyalty",
+     "note": "Fernbusse ab Riga, Tickets in der App",
+     "src": "https://ecolines.net"
+    },
+    {
+     "name": "Autlo",
+     "cat": "parking",
+     "pkg": "com.autlo.android",
+     "note": "Parken mit Karte, Zonen und Freiparkzeit automatisch",
+     "src": "https://autlo.com"
+    },
+    {
+     "name": "Barbora.LV",
+     "cat": "delivery",
+     "pkg": "lv.barbora",
+     "note": "Lebensmittel von Maxima nach Hause liefern lassen",
+     "src": "https://barbora.lv"
+    },
+    {
+     "name": "Nature Tourism",
+     "cat": "tourism",
+     "pkg": "lv.cube.daba",
+     "note": "Über 500 Naturpfade, Türme und Ziele der Naturschutzbehörde",
+     "src": "https://www.daba.gov.lv"
+    },
+    {
+     "name": "Meteo.lv",
+     "cat": "safety",
+     "pkg": "com.lvgmc.meteolv",
+     "note": "Amtliches Wetter und Warnungen des lettischen Wetterdienstes",
+     "src": "https://videscentrs.lvgmc.lv"
+    },
+    {
+     "name": "BalticMaps",
+     "cat": "maps",
+     "pkg": "eu.balticmaps.android",
+     "note": "Detailkarten des Baltikums von Jāņa sēta mit GPS",
+     "src": "https://www.balticmaps.eu"
+    },
+    {
+     "name": "LVM GEO",
+     "cat": "maps",
+     "pkg": "com.lvm.mobile.du",
+     "note": "Karten der Staatsforsten mit Erholungsorten und Wegen",
+     "src": "https://www.lvmgeo.lv"
+    },
+    {
+     "name": "Rimi",
+     "cat": "shopping",
+     "pkg": "lv.rimi.card",
+     "note": "Rimi Supermärkte: Angebote, Filialen, Kundenkarte",
+     "src": "https://www.rimi.lv"
+    },
+    {
+     "name": "MAXIMA",
+     "cat": "shopping",
+     "pkg": "lv.maxima",
+     "note": "Maxima Supermärkte: Angebote und Kundenkarte",
+     "src": "https://www.maxima.lv"
+    },
+    {
+     "name": "mans top!",
+     "cat": "shopping",
+     "pkg": "com.bbit.manstop",
+     "note": "Lettische Ladenkette top!: Angebote und Kundenkarte",
+     "src": "https://play.google.com/store/apps/details?id=com.bbit.manstop"
+    },
+    {
+     "name": "Lidl Plus",
+     "cat": "shopping",
+     "pkg": "com.lidl.eci.lidlplus",
+     "note": "Lidl Angebote, Coupons und Filialsuche",
+     "src": "https://www.lidl.lv"
     }
    ],
    "cities": [
@@ -12733,6 +12955,21 @@
      "ll": [
       56.946,
       24.1059
+     ]
+    },
+    {
+     "name": "Sigulda",
+     "match": [
+      "Sigulda"
+     ],
+     "apps": [
+      {
+       "name": "Sigulda",
+       "cat": "tourism",
+       "pkg": "lv.lmt.manapilseta.sigulda",
+       "note": "Stadt-App Sigulda: Termine, Neuigkeiten, Sehenswertes",
+       "src": "https://play.google.com/store/apps/details?id=lv.lmt.manapilseta.sigulda"
+      }
      ]
     }
    ],
@@ -16188,6 +16425,70 @@
      "use": "no",
      "req": "Isländische Kennnummer und Konto nötig",
      "src": "https://www.aur.is"
+    },
+    {
+     "name": "Icelandair",
+     "cat": "flights",
+     "pkg": "com.icelandair.mobile.app.android",
+     "note": "Nationale Airline: Buchung, Check-in, Bordkarte",
+     "src": "https://www.icelandair.com/"
+    },
+    {
+     "name": "Umferðin (Vegagerðin)",
+     "cat": "safety",
+     "note": "Offizielle Karte zu Straßenzustand und Sperrungen",
+     "url": "https://umferdin.is/en",
+     "nostore": true,
+     "src": "https://umferdin.is/en"
+    },
+    {
+     "name": "Iceland Road Guide",
+     "cat": "tourism",
+     "pkg": "com.locatify.roadatlas.iceland",
+     "note": "Straßenatlas Vegahandbókin mit 3000 Orten",
+     "src": "https://play.google.com/store/apps/details?id=com.locatify.roadatlas.iceland"
+    },
+    {
+     "name": "Guide to Iceland",
+     "cat": "tourism",
+     "pkg": "is.guidetoiceland.twa",
+     "note": "Großer Marktplatz für Touren und Unterkünfte",
+     "src": "https://guidetoiceland.is/"
+    },
+    {
+     "name": "Kringum Iceland",
+     "cat": "tourism",
+     "pkg": "com.thoroddsen.kringum",
+     "note": "Geschichten und Sehenswertes rund um den Standort",
+     "src": "https://play.google.com/store/apps/details?id=com.thoroddsen.kringum"
+    },
+    {
+     "name": "Icelandic Coupons",
+     "cat": "misc",
+     "pkg": "com.loftfar.coupons",
+     "note": "Rabattcoupons für Restaurants, Bars und Touren",
+     "src": "https://play.google.com/store/apps/details?id=com.loftfar.coupons"
+    },
+    {
+     "name": "Dineout Iceland",
+     "cat": "misc",
+     "pkg": "com.dineout.mobile",
+     "note": "Tisch in isländischen Restaurants reservieren",
+     "src": "https://play.google.com/store/apps/details?id=com.dineout.mobile"
+    },
+    {
+     "name": "ON appið",
+     "cat": "misc",
+     "pkg": "is.on.charge.android",
+     "note": "E-Auto laden an ON-Säulen im ganzen Land",
+     "src": "https://play.google.com/store/apps/details?id=is.on.charge.android"
+    },
+    {
+     "name": "e1",
+     "cat": "misc",
+     "pkg": "is.e1.app2",
+     "note": "E-Auto laden bei mehreren Anbietern mit einer App",
+     "src": "https://play.google.com/store/apps/details?id=is.e1.app2"
     }
    ],
    "cities": [
@@ -25119,6 +25420,101 @@
      "url": "https://www.ema.gov.eg",
      "nostore": true,
      "src": "https://alertingauthority.wmo.int/authorities.php?recId=45"
+    },
+    {
+     "name": "Swvl",
+     "cat": "transit",
+     "pkg": "io.swvl.customer",
+     "note": "Feste Minibus-Linien in und zwischen Städten, Sitz buchen",
+     "src": "https://play.google.com/store/apps/details?id=io.swvl.customer"
+    },
+    {
+     "name": "Superjet",
+     "cat": "rail",
+     "pkg": "com.superjet.app",
+     "note": "Fernbus-Tickets, u. a. Richtung Rotes Meer und Sinai",
+     "src": "https://play.google.com/store/apps/details?id=com.superjet.app"
+    },
+    {
+     "name": "WE BUS",
+     "cat": "rail",
+     "pkg": "com.techsexperts.webus",
+     "note": "Fernbusse quer durch Ägypten",
+     "src": "https://play.google.com/store/apps/details?id=com.techsexperts.webus"
+    },
+    {
+     "name": "noon",
+     "cat": "delivery",
+     "pkg": "com.noon.buyerapp",
+     "note": "Großer Onlinehändler mit Essens- und Lebensmittellieferung",
+     "src": "https://play.google.com/store/apps/details?id=com.noon.buyerapp",
+     "ios": 1269038866,
+     "ic": "8zbhHOD1GIysqml4_Nc8OdhBjFnd5Tvb_lra5seU-b5luWff8IOkkDyzNJq5scFM-pDanZIRvdjVt9-8ly9h_A"
+    },
+    {
+     "name": "Chefaa",
+     "cat": "delivery",
+     "pkg": "app.com.chefaa",
+     "note": "Medikamente und Drogerie aus Apotheken liefern lassen",
+     "src": "https://play.google.com/store/apps/details?id=app.com.chefaa"
+    },
+    {
+     "name": "Carrefour",
+     "cat": "shopping",
+     "pkg": "com.aswat.carrefouruae",
+     "note": "Hypermarkt-Kette, Angebote und Lieferung von Lebensmitteln",
+     "src": "https://play.google.com/store/apps/details?id=com.aswat.carrefouruae"
+    },
+    {
+     "name": "Spinneys Egypt",
+     "cat": "shopping",
+     "pkg": "com.emotion.spinneys",
+     "note": "Supermarktkette mit Onlinebestellung und Angeboten",
+     "src": "https://play.google.com/store/apps/details?id=com.emotion.spinneys"
+    },
+    {
+     "name": "Jumia",
+     "cat": "shopping",
+     "pkg": "com.jumia.android",
+     "note": "Großer Online-Marktplatz in Ägypten",
+     "src": "https://play.google.com/store/apps/details?id=com.jumia.android"
+    },
+    {
+     "name": "EGYPTAIR",
+     "cat": "flights",
+     "pkg": "com.linkdev.egyptair.app",
+     "note": "Nationale Airline: Buchung, Check-in, Bordkarte",
+     "src": "https://play.google.com/store/apps/details?id=com.linkdev.egyptair.app"
+    },
+    {
+     "name": "Air Cairo",
+     "cat": "flights",
+     "pkg": "com.emotion.aircairo",
+     "note": "Ägyptische Ferien-Airline, Buchung und Check-in",
+     "src": "https://play.google.com/store/apps/details?id=com.emotion.aircairo"
+    },
+    {
+     "name": "Nile Air",
+     "cat": "flights",
+     "pkg": "com.amadeus.merci.np",
+     "note": "Private ägyptische Airline, Buchung und Check-in",
+     "src": "https://play.google.com/store/apps/details?id=com.amadeus.merci.np"
+    },
+    {
+     "name": "Egypt e-Visa Portal",
+     "cat": "entry",
+     "note": "Offizielles E-Visum vorab online beantragen",
+     "url": "https://visa2egypt.gov.eg",
+     "nostore": true,
+     "src": "https://visa2egypt.gov.eg"
+    },
+    {
+     "name": "Egymonuments Tickets",
+     "cat": "tourism",
+     "note": "Offizielle Online-Tickets für Tempel, Museen, Pyramiden",
+     "url": "https://egymonuments.com",
+     "nostore": true,
+     "src": "https://egymonuments.com"
     }
    ],
    "cities": [
@@ -25140,6 +25536,21 @@
      "ll": [
       27.3942,
       33.6782
+     ]
+    },
+    {
+     "name": "Hurghada",
+     "match": [
+      "Hurghada"
+     ],
+     "apps": [
+      {
+       "name": "8Orders",
+       "cat": "delivery",
+       "pkg": "com.HadafSolutions.Otlobly",
+       "note": "Essen, Lebensmittel und Apotheke geliefert in Hurghada",
+       "src": "https://play.google.com/store/apps/details?id=com.HadafSolutions.Otlobly"
+      }
      ]
     },
     {
@@ -25176,11 +25587,55 @@
        "src": "https://www.sixt.com/car-rental/egypt/cairo/cairo-airport",
        "ios": 295079411,
        "ic": "dirhuxbXhFds-2TQEw51a2M66bDwtP_DdshPFk8yjNHYIy_AJF5oN3pZkG4kgF08wW2qRpucdWZAHg5cL9Mqmw"
+      },
+      {
+       "name": "Mwasalat Misr",
+       "cat": "transit",
+       "pkg": "com.mwasalatmisr",
+       "note": "Moderne Stadtbusse im Großraum Kairo, Linien und Tickets",
+       "src": "https://play.google.com/store/apps/details?id=com.mwasalatmisr"
+      },
+      {
+       "name": "London Cab Egypt",
+       "cat": "taxi",
+       "pkg": "com.sixt.londoncab",
+       "note": "Taxi-Dienst mit App-Buchung, auch Flughafentransfer",
+       "src": "https://play.google.com/store/apps/details?id=com.sixt.londoncab"
+      },
+      {
+       "name": "Cairo Int Airport",
+       "cat": "flights",
+       "pkg": "com.cairo.airport",
+       "note": "Offizielle Flughafen-App: Lounges und Zusatzservices buchen",
+       "src": "https://play.google.com/store/apps/details?id=com.cairo.airport"
+      },
+      {
+       "name": "Grand Egyptian Museum Tickets",
+       "cat": "tourism",
+       "note": "Offizieller Ticketshop des Grand Egyptian Museum in Gizeh",
+       "url": "https://visit-gem.com",
+       "nostore": true,
+       "src": "https://visit-gem.com"
       }
      ],
      "ll": [
       30.0626,
       31.2497
+     ]
+    },
+    {
+     "name": "Sharm El Sheikh",
+     "match": [
+      "Sharm El Sheikh"
+     ],
+     "apps": [
+      {
+       "name": "SharmTaxi",
+       "cat": "taxi",
+       "pkg": "sharm.taxi.passenger",
+       "note": "Taxi-App für Sharm El Sheikh mit Festpreisen, Flughafen",
+       "src": "https://play.google.com/store/apps/details?id=sharm.taxi.passenger"
+      }
      ]
     }
    ],
@@ -26839,6 +27294,79 @@
      "use": "no",
      "req": "Costa Ricanisches Bankkonto nötig",
      "src": "https://www.bccr.fi.cr"
+    },
+    {
+     "name": "Rappi",
+     "cat": "delivery",
+     "pkg": "com.grability.rappi",
+     "note": "Essen und Einkäufe liefern lassen",
+     "src": "https://www.rappi.co.cr/",
+     "ios": 984044296,
+     "ic": "DRMEjQMXvGZ_0HueMefpvG2ARfcXvPHe7nFAXoOnfT72wdGuB87102ekj5jErWwI4XXAWSkBSR2-b1hrMmeX"
+    },
+    {
+     "name": "Adobe Rent a Car",
+     "cat": "carshare",
+     "pkg": "com.baum.adobe",
+     "note": "Mietwagen beim lokalen Vermieter Adobe buchen",
+     "src": "https://www.adobecar.com/"
+    },
+    {
+     "name": "SINAC Nationalpark-Tickets",
+     "cat": "tourism",
+     "note": "Offizielle Online-Tickets für Nationalparks",
+     "url": "https://serviciosenlinea.sinac.go.cr/",
+     "nostore": true,
+     "src": "https://serviciosenlinea.sinac.go.cr/"
+    },
+    {
+     "name": "UNA Costa Segura",
+     "cat": "safety",
+     "pkg": "cr.una.unacostasegura",
+     "note": "Tsunami-Warnungen und Gezeiten der Universität UNA",
+     "src": "https://play.google.com/store/apps/details?id=cr.una.unacostasegura"
+    },
+    {
+     "name": "Auto Mercado",
+     "cat": "shopping",
+     "pkg": "com.app.automercado",
+     "note": "Supermarktkette: Filialen, Angebote, Bestellung",
+     "src": "https://www.automercado.cr/"
+    },
+    {
+     "name": "Walmart Centroamérica",
+     "cat": "shopping",
+     "pkg": "com.walmart.cam.walmart",
+     "note": "Walmart: Filialen, Angebote und Onlinekauf",
+     "src": "https://www.walmart.co.cr/"
+    },
+    {
+     "name": "Masxmenos",
+     "cat": "shopping",
+     "pkg": "com.walmart.cam.masxmenos",
+     "note": "Supermarktkette: Angebote und Onlinekauf",
+     "src": "https://www.masxmenos.cr/"
+    },
+    {
+     "name": "Fresh Market",
+     "cat": "shopping",
+     "pkg": "com.freshmarket.cr",
+     "note": "Kette kleiner Supermärkte: Filialen und Angebote",
+     "src": "https://www.freshmarket.co.cr/"
+    },
+    {
+     "name": "Volaris",
+     "cat": "flights",
+     "pkg": "com.volaris.app",
+     "note": "Billigflieger mit Flügen ab San José",
+     "src": "https://www.volaris.com/"
+    },
+    {
+     "name": "avianca",
+     "cat": "flights",
+     "pkg": "areamovil.aviancataca",
+     "note": "Avianca: Flüge ab San José, Check-in",
+     "src": "https://play.google.com/store/apps/details?id=areamovil.aviancataca"
     }
    ],
    "cities": [
@@ -26905,6 +27433,21 @@
      "ll": [
       9.9339,
       -84.0849
+     ]
+    },
+    {
+     "name": "Turrialba",
+     "match": [
+      "Turrialba"
+     ],
+     "apps": [
+      {
+       "name": "Parquímetros Turrialba",
+       "cat": "parking",
+       "pkg": "com.novaq.turri.parquimetros",
+       "note": "Parkzeit der Gemeinde Turrialba per App kaufen",
+       "src": "https://play.google.com/store/apps/details?id=com.novaq.turri.parquimetros"
+      }
      ]
     }
    ],
@@ -28631,9 +29174,151 @@
      "src": "https://www.mercadopago.cl/",
      "ios": 925436649,
      "ic": "-WB4u-r62cAEy8kImGb4-pXGcr2T-nC71c54xJO4m1aIRtKb2eI2pW_rm7AZg6tEpOL1ZTdIiozUMHgA6eZFl9Y"
+    },
+    {
+     "name": "EFE Trenes de Chile",
+     "cat": "rail",
+     "pkg": "com.efe_mobile",
+     "note": "Staatsbahn: Tickets und Fahrpläne, auch Tren Valparaíso",
+     "src": "https://www.efe.cl"
+    },
+    {
+     "name": "kupos",
+     "cat": "rail",
+     "pkg": "com.bitla.mba.pasajebus",
+     "note": "Fernbustickets vieler Anbieter vergleichen und kaufen",
+     "src": "https://www.kupos.cl"
+    },
+    {
+     "name": "Turbus",
+     "cat": "rail",
+     "pkg": "com.kupos.turbus",
+     "note": "Tickets des größten Fernbusunternehmens in Chile",
+     "src": "https://www.turbus.cl"
+    },
+    {
+     "name": "Pullman Bus",
+     "cat": "rail",
+     "pkg": "com.kupos.pullmanbus",
+     "note": "Fernbustickets von Pullman Bus im ganzen Land",
+     "src": "https://www.pullmanbus.cl"
+    },
+    {
+     "name": "ChilePasajes",
+     "cat": "rail",
+     "pkg": "io.ionic.chile.pasajes",
+     "note": "Fernbustickets, Zahlung per WebPay oder PayPal",
+     "src": "https://www.chilepasajes.cl"
+    },
+    {
+     "name": "Transvip",
+     "cat": "taxi",
+     "pkg": "com.transvip.customer",
+     "note": "Flughafentransfer und Sammeltaxi, vor allem Santiago",
+     "src": "https://www.transvip.cl"
+    },
+    {
+     "name": "Rappi",
+     "cat": "delivery",
+     "pkg": "com.grability.rappi",
+     "note": "Essen, Supermarkt und Apotheke liefern lassen",
+     "src": "https://www.rappi.cl",
+     "ios": 984044296,
+     "ic": "DRMEjQMXvGZ_0HueMefpvG2ARfcXvPHe7nFAXoOnfT72wdGuB87102ekj5jErWwI4XXAWSkBSR2-b1hrMmeX"
+    },
+    {
+     "name": "Jumbo",
+     "cat": "shopping",
+     "pkg": "com.cencosud.cl.jumboahora",
+     "note": "Große Supermarktkette: Angebote, Filialen, Lieferung",
+     "src": "https://www.jumbo.cl"
+    },
+    {
+     "name": "Lider",
+     "cat": "shopping",
+     "pkg": "cl.walmart.liderapp",
+     "note": "Walmart-Supermärkte: Angebote, Filialen, Lieferung",
+     "src": "https://www.lider.cl"
+    },
+    {
+     "name": "LATAM Airlines",
+     "cat": "flights",
+     "pkg": "com.latam.xp",
+     "note": "Größte Airline Chiles: Buchung, Check-in, Bordkarte",
+     "src": "https://www.latamairlines.com"
+    },
+    {
+     "name": "SKY Airline",
+     "cat": "flights",
+     "pkg": "com.skyairline",
+     "note": "Billigflieger für Inlandsflüge, Check-in per App",
+     "src": "https://www.skyairline.com"
+    },
+    {
+     "name": "Chiletur Copec",
+     "cat": "tourism",
+     "pkg": "cl.copec.chileturapp",
+     "note": "Bekannter Reiseführer mit Routen durchs Land, Spanisch",
+     "use": "limited",
+     "req": "Nur auf Spanisch",
+     "src": "https://www.chiletur.cl"
+    },
+    {
+     "name": "Pases Parques (CONAF)",
+     "cat": "tourism",
+     "note": "Eintritt Nationalparks online, Pflicht für Torres del Paine",
+     "url": "https://www.pasesparques.cl",
+     "nostore": true,
+     "src": "https://www.pasesparques.cl"
     }
    ],
    "cities": [
+    {
+     "name": "Easter Island",
+     "match": [
+      "Easter Island"
+     ],
+     "apps": [
+      {
+       "name": "FUI Rapa Nui",
+       "cat": "entry",
+       "note": "Pflichtformular vor dem Flug zur Osterinsel, kostenlos",
+       "url": "https://ingresorapanui.interior.gob.cl",
+       "nostore": true,
+       "src": "https://www.chileatiende.gob.cl/fichas/77683-formulario-unico-de-ingreso-a-rapa-nui-fui"
+      }
+     ]
+    },
+    {
+     "name": "Farellones",
+     "match": [
+      "Farellones"
+     ],
+     "apps": [
+      {
+       "name": "Andacor",
+       "cat": "tourism",
+       "pkg": "com.wdreams.elcolorado",
+       "note": "Skigebiete El Colorado und Farellones: Pässe und Pisten",
+       "src": "https://www.elcolorado.cl"
+      }
+     ]
+    },
+    {
+     "name": "Punta Arenas",
+     "match": [
+      "Punta Arenas"
+     ],
+     "apps": [
+      {
+       "name": "Tabsa",
+       "cat": "rail",
+       "pkg": "cl.tabsaApp.app",
+       "note": "Fähren der Magellanstraße, Tickets nach Porvenir",
+       "src": "https://www.tabsa.cl"
+      }
+     ]
+    },
     {
      "name": "Santiago",
      "match": [
@@ -28680,6 +29365,27 @@
        "use": "limited",
        "req": "Karte nötig, gilt nur in teilnehmenden Gemeinden",
        "src": "https://www.emol.com/noticias/Economia/2026/10/22/1214595/simplepark-parquimetro-digital-empresa-chilena.html"
+      },
+      {
+       "name": "Metro de Santiago",
+       "cat": "transit",
+       "pkg": "cl.metro.mobile",
+       "note": "Offizielle Metro-App: Routen, Störungen, bip! aufladen",
+       "src": "https://www.metro.cl"
+      },
+      {
+       "name": "Aeropuerto Santiago",
+       "cat": "flights",
+       "pkg": "com.massiva.nuevopudahuel",
+       "note": "Offizielle Flughafen-App mit Fluginfos in Echtzeit",
+       "src": "https://www.nuevopudahuel.cl"
+      },
+      {
+       "name": "Turistik",
+       "cat": "tourism",
+       "pkg": "com.globalguidesystems.tracker.tuc",
+       "note": "Hop-on-Hop-off-Bus mit Live-Standort und Stadtkarte",
+       "src": "https://turistik.com"
       }
      ],
      "ll": [
@@ -63161,6 +63867,76 @@
      "src": "https://www.bankart.si/en/flik-pay/"
     },
     {
+     "name": "Nomago",
+     "cat": "rail",
+     "pkg": "si.nomago.maas.android",
+     "note": "Überland- und Fernbusse sowie Nomago-Leihräder buchen",
+     "src": "https://play.google.com/store/apps/details?id=si.nomago.maas.android"
+    },
+    {
+     "name": "GoOpti",
+     "cat": "rail",
+     "pkg": "com.goopti.passengerapp",
+     "note": "Flughafen-Shuttles: Buchungen verwalten, Fahrt verfolgen",
+     "src": "https://play.google.com/store/apps/details?id=com.goopti.passengerapp"
+    },
+    {
+     "name": "Laguna taxi Slovenija",
+     "cat": "taxi",
+     "pkg": "com.netinformatika.laguna",
+     "note": "Taxi per App bestellen",
+     "src": "https://play.google.com/store/apps/details?id=com.netinformatika.laguna"
+    },
+    {
+     "name": "eVinjeta",
+     "cat": "misc",
+     "pkg": "si.dars.evinjeta",
+     "note": "Gültigkeit der E-Vignette prüfen, Kauf auf evinjeta.dars.si",
+     "src": "https://evinjeta.dars.si"
+    },
+    {
+     "name": "Petrol GO",
+     "cat": "misc",
+     "pkg": "si.petrol.napoti",
+     "note": "Tanken und Waschen an Petrol-Tankstellen per App bezahlen",
+     "src": "https://play.google.com/store/apps/details?id=si.petrol.napoti"
+    },
+    {
+     "name": "iSKI Slovenija",
+     "cat": "tourism",
+     "pkg": "intermaps.iskislovenija",
+     "note": "Skigebiete Sloweniens: Live-Infos zu Liften und Pisten",
+     "src": "https://play.google.com/store/apps/details?id=intermaps.iskislovenija"
+    },
+    {
+     "name": "Slovenia Outdoor",
+     "cat": "tourism",
+     "pkg": "com.outdooractive.sloutdoor",
+     "note": "Offizieller Outdoor-Führer: Wandern, Rad, Touren mit Karte",
+     "src": "https://play.google.com/store/apps/details?id=com.outdooractive.sloutdoor"
+    },
+    {
+     "name": "SPAR plus",
+     "cat": "shopping",
+     "pkg": "plus.spar.si",
+     "note": "Supermarkt SPAR: Angebote und Coupons",
+     "src": "https://play.google.com/store/apps/details?id=plus.spar.si"
+    },
+    {
+     "name": "MOJ M (Mercator)",
+     "cat": "shopping",
+     "pkg": "si.mercator.mojm",
+     "note": "Supermarktkette Mercator: Angebote und Pika-Kundenkarte",
+     "src": "https://play.google.com/store/apps/details?id=si.mercator.mojm"
+    },
+    {
+     "name": "HOFER",
+     "cat": "shopping",
+     "pkg": "de.apptiv.business.android.aldi_si",
+     "note": "Discounter Hofer: Angebote, Filialen, Öffnungszeiten",
+     "src": "https://play.google.com/store/apps/details?id=de.apptiv.business.android.aldi_si"
+    },
+    {
      "name": "nextbike",
      "cat": "micro",
      "pkg": "de.nextbike",
@@ -63172,6 +63948,36 @@
     }
    ],
    "cities": [
+    {
+     "name": "Celje",
+     "match": [
+      "Celje"
+     ],
+     "apps": [
+      {
+       "name": "Centralka",
+       "cat": "transit",
+       "pkg": "com.margento.cipmoc.centralka",
+       "note": "Stadtkarte Celje: Bus und Parken bargeldlos in einer App",
+       "src": "https://play.google.com/store/apps/details?id=com.margento.cipmoc.centralka"
+      }
+     ]
+    },
+    {
+     "name": "Julian Alps",
+     "match": [
+      "Julian Alps"
+     ],
+     "apps": [
+      {
+       "name": "Juliana Trail",
+       "cat": "tourism",
+       "pkg": "com.outdooractive.julianalps",
+       "note": "Fernwanderweg rund um die Julischen Alpen mit Etappen",
+       "src": "https://play.google.com/store/apps/details?id=com.outdooractive.julianalps"
+      }
+     ]
+    },
     {
      "name": "Ljubljana",
      "match": [
@@ -63214,6 +64020,13 @@
        "pkg": "ee.mtakso.client",
        "ios": 675033630,
        "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM"
+      },
+      {
+       "name": "Yalla Taxi Ljubljana",
+       "cat": "taxi",
+       "pkg": "yalla.taxi.ljubljana.slovenia.passenger",
+       "note": "Taxi mit Festpreis, auch Flughafentransfer",
+       "src": "https://play.google.com/store/apps/details?id=yalla.taxi.ljubljana.slovenia.passenger"
       }
      ],
      "ll": [
@@ -63262,6 +64075,13 @@
        "cat": "tourism",
        "note": "Kostenloser Lehrpfad mit AR im Landschaftspark Strunjan",
        "src": "https://www.slovenia.info/en/press-centre/news-of-the-tourism-press-agency/28850-discover-the-enchanting-piran-countryside-new-cycle-routes-local-festivals-and-the-nexto-mobile-app"
+      },
+      {
+       "name": "Arriva Piran",
+       "cat": "transit",
+       "pkg": "com.margento.piran",
+       "note": "Stadtbus Piran: Fahrt bezahlen, Guthaben, Abfahrten",
+       "src": "https://play.google.com/store/apps/details?id=com.margento.piran"
       }
      ],
      "ll": [
@@ -66913,6 +67733,55 @@
      "url": "https://www.hidmet.gov.rs",
      "nostore": true,
      "src": "https://www.hidmet.gov.rs"
+    },
+    {
+     "name": "Traveling.com (GetByBus)",
+     "cat": "rail",
+     "pkg": "com.getbybus.mobile",
+     "note": "Fernbus- und Fährtickets auf dem Balkan buchen",
+     "src": "https://traveling.com"
+    },
+    {
+     "name": "Alideda",
+     "cat": "delivery",
+     "pkg": "rs.alideda.dostava",
+     "note": "Serbischer Essenslieferdienst, bar oder online zahlen",
+     "src": "https://alideda.rs"
+    },
+    {
+     "name": "Maxi Online",
+     "cat": "delivery",
+     "pkg": "rs.delhaize",
+     "note": "Lebensmittel der Supermarktkette Maxi liefern lassen",
+     "src": "https://www.maxi.rs"
+    },
+    {
+     "name": "Air Serbia",
+     "cat": "flights",
+     "pkg": "com.airserbia.mobileapp",
+     "note": "Nationale Airline: Buchung, Check-in, Bordkarte",
+     "src": "https://www.airserbia.com"
+    },
+    {
+     "name": "Putevi Srbije",
+     "cat": "misc",
+     "pkg": "com.putevi.srbije",
+     "note": "Staatliche Straßen-App: Verkehrslage und Mautrechner",
+     "src": "https://www.putevi-srbije.rs"
+    },
+    {
+     "name": "AMSS",
+     "cat": "safety",
+     "pkg": "rs.org.amss",
+     "note": "Automobilclub: Pannenhilfe rufen, Verkehrs- und Grenzlage",
+     "src": "https://www.amss.org.rs"
+    },
+    {
+     "name": "Moj Maxi",
+     "cat": "shopping",
+     "pkg": "com.delhaize.maxi.loyalty",
+     "note": "Größte Supermarktkette: Angebote und Filialen",
+     "src": "https://www.maxi.rs"
     }
    ],
    "cities": [
@@ -66986,11 +67855,56 @@
        "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/serbia-e-scooter-laws/",
        "ios": 675033630,
        "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM"
+      },
+      {
+       "name": "Pink Taxi Nova",
+       "cat": "taxi",
+       "pkg": "com.pink.taxi",
+       "note": "Große Belgrader Taxizentrale, Preis vorab, bar oder Karte",
+       "src": "https://www.pinktaxi.rs"
+      },
+      {
+       "name": "Beogradski Taxi 19801",
+       "cat": "taxi",
+       "pkg": "com.netinformatika.beogradskitaxi",
+       "note": "Taxizentrale 19801, Bestellung ohne Anruf",
+       "src": "https://play.google.com/store/apps/details?id=com.netinformatika.beogradskitaxi"
+      },
+      {
+       "name": "Belgrade Airport",
+       "cat": "flights",
+       "pkg": "com.hugemedia.belgrade_airport",
+       "note": "Offizielle Flughafen-App mit Abflügen und Ankünften",
+       "src": "https://beg.aero"
       }
      ],
      "ll": [
       44.804,
       20.4651
+     ]
+    },
+    {
+     "name": "Kopaonik",
+     "match": [
+      "Kopaonik"
+     ],
+     "apps": [
+      {
+       "name": "Skijališta Srbije",
+       "cat": "tourism",
+       "pkg": "rs.skijalista.mobile",
+       "note": "Offiziell: Pisten, Lifte, Karte für Kopaonik, Tornik u. a.",
+       "src": "https://www.skijalistasrbije.rs"
+      },
+      {
+       "name": "infoKOP Kopaonik",
+       "cat": "tourism",
+       "pkg": "com.infokop",
+       "note": "Webcams, Schneelage und Ski-Infos, nur Serbisch",
+       "use": "limited",
+       "req": "Nur auf Serbisch",
+       "src": "https://www.infokop.net"
+      }
      ]
     },
     {
@@ -67007,6 +67921,13 @@
        "pkg": "buslogic.jgpnis",
        "ic": "fJTOUPdVGfve4ZoOZADlvu7LEDGKg-m8SUsjJEzD_07JdShLvbUOQEWo8_avo4fPp0LiyNm2M2e9JvY7OBzKcP8",
        "ios": 1567012481
+      },
+      {
+       "name": "Prvi Taxi Niš",
+       "cat": "taxi",
+       "pkg": "com.androcab.pub.prvinis",
+       "note": "Taxizentrale in Niš, Bestellung per App",
+       "src": "https://play.google.com/store/apps/details?id=com.androcab.pub.prvinis"
       }
      ],
      "ll": [
@@ -67037,6 +67958,20 @@
        "pkg": "rs.parkingns.nspark",
        "ic": "qWpPGNND_4s0sR6mnEuet0DgvukWts4Vk-awDt6Faqhi_fIrlEQ1DlkelfIhf6Wn-ewuOd3Hj96G8jV7wAcGXr0",
        "ios": 6505144660
+      },
+      {
+       "name": "City Taxi NS",
+       "cat": "taxi",
+       "pkg": "nstaxi.codecab.biz.app",
+       "note": "Taxizentrale in Novi Sad, Bestellung per App",
+       "src": "https://play.google.com/store/apps/details?id=nstaxi.codecab.biz.app"
+      },
+      {
+       "name": "Pan Taxi Novi Sad",
+       "cat": "taxi",
+       "pkg": "com.netinformatika.pan",
+       "note": "Taxizentrale in Novi Sad, Wagen live verfolgen",
+       "src": "https://play.google.com/store/apps/details?id=com.netinformatika.pan"
       }
      ],
      "ll": [
@@ -68212,9 +69147,181 @@
      "src": "https://www.bento.travel/ukraine",
      "ios": 778437357,
      "ic": "_xckHFchRcdSo2EexTBAkO6QvInupeGdXdphN2Ea1PT4e2mJjxUvdnv6_p_B247dC6-hxenpgMPJqAfNdjs-9No"
+    },
+    {
+     "name": "BUSFOR",
+     "cat": "rail",
+     "pkg": "com.busfor.Busfor",
+     "note": "Fernbus-Tickets, gehört zu BlaBlaCar",
+     "src": "https://play.google.com/store/apps/details?id=com.busfor.Busfor"
+    },
+    {
+     "name": "BlaBlaCar",
+     "cat": "rail",
+     "pkg": "com.comuto",
+     "note": "Mitfahrgelegenheiten und Bustickets",
+     "src": "https://play.google.com/store/apps/details?id=com.comuto",
+     "ic": "iQr8MrRTu31OK2hFsu15b-tgWBe7Ui8uHZsBOjPtGbzRyvVHF3eUWCFINW7qj9b2mj86lBlq9RXvW9w0cmEGHw"
+    },
+    {
+     "name": "KLR Bus",
+     "cat": "rail",
+     "pkg": "com.klr.clients",
+     "note": "Fernbusse nach Europa, E-Ticket und Bus live verfolgen",
+     "src": "https://play.google.com/store/apps/details?id=com.klr.clients"
+    },
+    {
+     "name": "Tickets.ua",
+     "cat": "rail",
+     "pkg": "ua.tickets.gd",
+     "note": "Buchungsportal für Reisetickets",
+     "src": "https://play.google.com/store/apps/details?id=ua.tickets.gd"
+    },
+    {
+     "name": "OnTaxi",
+     "cat": "taxi",
+     "pkg": "ua.com.ontaxi.client",
+     "note": "Ukrainischer Taxidienst in über 100 Städten, Preis vorab",
+     "src": "https://play.google.com/store/apps/details?id=ua.com.ontaxi.client"
+    },
+    {
+     "name": "Opti Taxi",
+     "cat": "taxi",
+     "pkg": "ua.otaxi.client",
+     "note": "Landesweiter Taxidienst, Anmeldung per SMS-Code",
+     "src": "https://play.google.com/store/apps/details?id=ua.otaxi.client"
+    },
+    {
+     "name": "Taxi 838",
+     "cat": "taxi",
+     "pkg": "com.mobox.taxi",
+     "note": "Taxi-Zentrale 838, in allen Regionen verfügbar",
+     "src": "https://play.google.com/store/apps/details?id=com.mobox.taxi"
+    },
+    {
+     "name": "SHARK Taxi",
+     "cat": "taxi",
+     "pkg": "com.shark.taxi.client",
+     "note": "Taxi online oder per Telefon bestellen",
+     "src": "https://play.google.com/store/apps/details?id=com.shark.taxi.client"
+    },
+    {
+     "name": "JET Ride",
+     "cat": "micro",
+     "pkg": "jet.ua.app",
+     "note": "E-Scooter-Verleih, Karte in der App hinterlegen",
+     "src": "https://play.google.com/store/apps/details?id=jet.ua.app"
+    },
+    {
+     "name": "E-wings",
+     "cat": "micro",
+     "pkg": "ua.com.ewings.app",
+     "note": "Verleih von E-Scootern und E-Bikes",
+     "src": "https://play.google.com/store/apps/details?id=ua.com.ewings.app"
+    },
+    {
+     "name": "Silpo",
+     "cat": "delivery",
+     "pkg": "ua.silpo.android",
+     "note": "Supermarktkette mit Lebensmittel- und Essenslieferung",
+     "src": "https://play.google.com/store/apps/details?id=ua.silpo.android"
+    },
+    {
+     "name": "Zakaz.ua",
+     "cat": "delivery",
+     "pkg": "ua.zakaz.android",
+     "note": "Lebensmittel und Essen liefern lassen",
+     "src": "https://play.google.com/store/apps/details?id=ua.zakaz.android"
+    },
+    {
+     "name": "VARUS",
+     "cat": "delivery",
+     "pkg": "ua.omega.clientapp.android",
+     "note": "Supermarktkette mit Lieferung von Lebensmitteln",
+     "src": "https://play.google.com/store/apps/details?id=ua.omega.clientapp.android"
+    },
+    {
+     "name": "ATB-Market",
+     "cat": "shopping",
+     "pkg": "com.atb.atbmarket",
+     "note": "Große Discounterkette: Angebote und Filialen",
+     "src": "https://play.google.com/store/apps/details?id=com.atb.atbmarket"
+    },
+    {
+     "name": "ROZETKA",
+     "cat": "shopping",
+     "pkg": "ua.com.rozetka.shop",
+     "note": "Großer Onlinehändler und Marktplatz der Ukraine",
+     "src": "https://play.google.com/store/apps/details?id=ua.com.rozetka.shop"
+    },
+    {
+     "name": "Epicentr",
+     "cat": "shopping",
+     "pkg": "ua.epicentrk",
+     "note": "Große Bau- und Warenhauskette mit Onlineshop",
+     "src": "https://play.google.com/store/apps/details?id=ua.epicentrk"
+    },
+    {
+     "name": "Nova Post",
+     "cat": "misc",
+     "pkg": "eu.novapost",
+     "note": "Paketdienst Nova Poshta: Sendungen verfolgen und abholen",
+     "src": "https://play.google.com/store/apps/details?id=eu.novapost"
+    },
+    {
+     "name": "Tabletki.ua",
+     "cat": "misc",
+     "pkg": "com.tabletkiua.tabletki",
+     "note": "Medikamente in Apotheken suchen",
+     "src": "https://play.google.com/store/apps/details?id=com.tabletkiua.tabletki"
     }
    ],
    "cities": [
+    {
+     "name": "Bukovel",
+     "match": [
+      "Bukovel"
+     ],
+     "apps": [
+      {
+       "name": "Bukovel 24",
+       "cat": "tourism",
+       "pkg": "com.bukovel24",
+       "note": "Offizielle App des Skigebiets Bukovel: Planung und Buchung",
+       "src": "https://play.google.com/store/apps/details?id=com.bukovel24"
+      }
+     ]
+    },
+    {
+     "name": "Dnipro",
+     "match": [
+      "Dnipro"
+     ],
+     "apps": [
+      {
+       "name": "D-transport",
+       "cat": "transit",
+       "pkg": "com.icitydtransport",
+       "note": "Offizieller Routenplaner für Tram und Trolleybus in Dnipro",
+       "src": "https://play.google.com/store/apps/details?id=com.icitydtransport"
+      }
+     ]
+    },
+    {
+     "name": "Kharkiv",
+     "match": [
+      "Kharkiv"
+     ],
+     "apps": [
+      {
+       "name": "CityBus Kharkiv",
+       "cat": "transit",
+       "pkg": "ua.in.citybus.kharkiv",
+       "note": "Öffentlicher Verkehr in Charkiw live auf der Karte",
+       "src": "https://play.google.com/store/apps/details?id=ua.in.citybus.kharkiv"
+      }
+     ]
+    },
     {
      "name": "Kiew",
      "match": [
@@ -68280,6 +69387,21 @@
      "ll": [
       49.8383,
       24.0232
+     ]
+    },
+    {
+     "name": "Odesa",
+     "match": [
+      "Odesa"
+     ],
+     "apps": [
+      {
+       "name": "CityBus Odesa",
+       "cat": "transit",
+       "pkg": "ua.in.citybus.odesa",
+       "note": "Öffentlichen Verkehr in Odessa live auf der Karte verfolgen",
+       "src": "https://play.google.com/store/apps/details?id=ua.in.citybus.odesa"
+      }
      ]
     }
    ],
@@ -69549,9 +70671,100 @@
      "pkg": "com.mef.gdde.cam.park",
      "ic": "V_sVwtZF1ZDd7sG4GSlmHAbYYDrqL5W1Ru3GFrvxhLr9BcIQyTHyvGeYKWkaTn_2_pF81Z7frsWsbyBl332M6w",
      "ios": 6756403958
+    },
+    {
+     "name": "TADA",
+     "cat": "taxi",
+     "pkg": "io.mvlchain.tada",
+     "note": "Fahrdienst mit Auto und Tuk-Tuk, Festpreis vorab",
+     "src": "https://tada.global",
+     "ios": 1412329684,
+     "ic": "9eg7Wj6vAEq6pc6dR5hPdeWT50Xcw5-gRCvUa2KqltdoKyxCRfgXndwAfEmYzZ0SK93un1kR7_d35o-uXZlJ"
+    },
+    {
+     "name": "E-GetS",
+     "cat": "delivery",
+     "pkg": "com.egets.takeaways",
+     "note": "Essens- und Getränkelieferung, App auch auf Englisch",
+     "src": "https://www.e-gets.com"
+    },
+    {
+     "name": "12Go",
+     "cat": "rail",
+     "pkg": "co.go12.ticketapp",
+     "note": "Bus, Fähre und Zug in Südostasien vergleichen und buchen",
+     "src": "https://12go.asia",
+     "ios": 1492054704,
+     "ic": "f-0IbuVkbq2OSl3jDq2EMaHIn9Uorb8YXECQWCn-4B2J0335vFF5yQZiB4aOaRRsMNkdSokRNJdetOhVntzu"
+    },
+    {
+     "name": "VET Air Bus (Vireak Buntham)",
+     "cat": "rail",
+     "pkg": "com.bookmebus.vet",
+     "note": "Fernbusse und Nachtbusse von Vireak Buntham buchen",
+     "src": "https://www.vireakbuntham.com"
+    },
+    {
+     "name": "Larryta Bus",
+     "cat": "rail",
+     "pkg": "com.larrytabus.express",
+     "note": "Fernbus und Minivan zwischen den großen Städten",
+     "src": "https://larryta.com"
+    },
+    {
+     "name": "Capitol Cambodia",
+     "cat": "rail",
+     "pkg": "com.udaya.capitol_cambodia",
+     "note": "Tickets für Fernbusse von Capitol Bus",
+     "src": "https://play.google.com/store/apps/details?id=com.udaya.capitol_cambodia"
+    },
+    {
+     "name": "Camboticket",
+     "cat": "rail",
+     "pkg": "com.camboticket.magicbus",
+     "note": "Vergleichsportal für Bus, Fähre und Privattaxi",
+     "src": "https://www.camboticket.com"
+    },
+    {
+     "name": "MOWRAM Weather",
+     "cat": "safety",
+     "pkg": "com.cammob.weather.mowram",
+     "note": "Amtliches Wetter mit Sturm- und Hochwasserwarnungen",
+     "src": "https://play.google.com/store/apps/details?id=com.cammob.weather.mowram"
+    },
+    {
+     "name": "Agoda",
+     "cat": "hotels",
+     "pkg": "com.agoda.mobile.consumer",
+     "note": "In Südostasien führende Hotelbuchung, viele Gästehäuser",
+     "src": "https://www.agoda.com",
+     "ios": 440676901,
+     "ic": "OnX2KsVpNq1vK-18zV86P8eBxep0IlwvC1SaafZtYcrAb7TbP6F2W87AKzqOAZQku9oBslCxfD8UEVC0abhqrQ"
+    },
+    {
+     "name": "Cambodia Tour",
+     "cat": "tourism",
+     "pkg": "kh.gov.rac.cambodiatour",
+     "note": "Staatlicher Reiseführer zu Sehenswürdigkeiten je Provinz",
+     "src": "https://play.google.com/store/apps/details?id=kh.gov.rac.cambodiatour"
     }
    ],
    "cities": [
+    {
+     "name": "Koh Rong",
+     "match": [
+      "Koh Rong"
+     ],
+     "apps": [
+      {
+       "name": "GTVC Speedboat",
+       "cat": "rail",
+       "pkg": "com.bookmebus.gtvc",
+       "note": "Schnellfähre ab Sihanoukville nach Koh Rong und Samloem",
+       "src": "https://play.google.com/store/apps/details?id=com.bookmebus.gtvc"
+      }
+     ]
+    },
     {
      "name": "Phnom Penh",
      "match": [
@@ -69664,11 +70877,6 @@
      "+855"
     ],
     "holidays": [
-     {
-      "d": "2026-11-24",
-      "n": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-      "e": "Water Festival"
-     },
      {
       "d": "2026-11-25",
       "n": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
@@ -75930,6 +77138,52 @@
      "url": "https://meteoseism.gov.iq/",
      "nostore": true,
      "src": "https://meteoseism.gov.iq/"
+    },
+    {
+     "name": "Obr",
+     "cat": "taxi",
+     "pkg": "com.obr.passenger",
+     "note": "Fahrdienst in Bagdad und weiteren Provinzen",
+     "src": "https://obr.taxi/"
+    },
+    {
+     "name": "Toters",
+     "cat": "delivery",
+     "pkg": "com.toters.customer",
+     "note": "Essen und Einkäufe, auch in Kurdistan",
+     "src": "http://www.totersapp.com",
+     "ios": 1015006220,
+     "ic": "YatRBFK98VKWfJ_bbZLVV2B52v6ttTGAsNz-KSfX5q8F1lexDUXegZQTnJRiFtRIC4GNCZ4s0TBnnj0IGGCxbQ"
+    },
+    {
+     "name": "Talabatey",
+     "cat": "delivery",
+     "pkg": "com.talabatey",
+     "note": "Essenslieferung aus über 1000 Restaurants",
+     "src": "http://www.talabatey.com"
+    },
+    {
+     "name": "Wade",
+     "cat": "delivery",
+     "pkg": "app.trytiptop.customer",
+     "note": "Essen, Einkäufe und Taxi in mehreren Städten",
+     "src": "https://wadedelivery.com/"
+    },
+    {
+     "name": "FastPay",
+     "cat": "payment",
+     "pkg": "com.sslwireless.fastpay",
+     "note": "Verbreitete irakische Wallet",
+     "use": "no",
+     "req": "Ausländer brauchen irakische Aufenthaltskarte",
+     "src": "https://fast-pay.iq/about"
+    },
+    {
+     "name": "Fly Erbil",
+     "cat": "flights",
+     "pkg": "com.flyerbil.mobileapp.release",
+     "note": "Airline aus Erbil: Flüge buchen und verwalten",
+     "src": "https://play.google.com/store/apps/details?id=com.flyerbil.mobileapp.release"
     }
    ],
    "cities": [
@@ -75946,6 +77200,13 @@
        "use": "limited",
        "req": "Anmeldung laut Quelle nicht beschrieben",
        "src": "https://en.964media.com/36398"
+      },
+      {
+       "name": "Alsaree3",
+       "cat": "delivery",
+       "pkg": "com.alsaree3",
+       "note": "Essenslieferdienst in Bagdad",
+       "src": "https://alsaree3.com"
       }
      ],
      "ll": [
@@ -75992,6 +77253,21 @@
      "ll": [
       32.616,
       44.0249
+     ]
+    },
+    {
+     "name": "Sulaymaniyah",
+     "match": [
+      "Sulaymaniyah"
+     ],
+     "apps": [
+      {
+       "name": "Nasyar",
+       "cat": "taxi",
+       "pkg": "tech.blackace.nasyar",
+       "note": "Taxi und Lieferdienst in Sulaimaniyya",
+       "src": "https://www.nasyar.co/"
+      }
      ]
     }
    ],
@@ -77958,6 +79234,134 @@
      "src": "https://www.bento.travel/pakistan",
      "ic": "9dZSXRAn3Ak29kwsGqkyXe1d6x9G5cd5BMA5X5L-FCgjDAfdJht4UUlaCTdajyzJcnL6qgrrP_da2tZv82cE1Q",
      "ios": 6503601052
+    },
+    {
+     "name": "Daewoo Express Mobile",
+     "cat": "rail",
+     "pkg": "com.app.daewoo.miles",
+     "note": "Fernbusse von Daewoo Express buchen",
+     "src": "https://daewoo.com.pk"
+    },
+    {
+     "name": "Faisal Movers",
+     "cat": "rail",
+     "pkg": "com.faisalmovers.travels.bus",
+     "note": "Fernbustickets von Faisal Movers online",
+     "src": "https://faisalmovers.com"
+    },
+    {
+     "name": "Bookkaru",
+     "cat": "rail",
+     "pkg": "com.bookkaru",
+     "note": "Bus, Bahn und Flug in Pakistan vergleichen und buchen",
+     "src": "https://bookkaru.com"
+    },
+    {
+     "name": "sastaticket.pk",
+     "cat": "rail",
+     "pkg": "com.pk.sastaticket",
+     "note": "Flüge, Busse und Hotels in Pakistan buchen",
+     "src": "https://www.sastaticket.pk"
+    },
+    {
+     "name": "Krave Mart",
+     "cat": "delivery",
+     "pkg": "com.krrave.customer",
+     "note": "Lebensmittel in rund 30 Minuten geliefert",
+     "src": "https://kravemart.com"
+    },
+    {
+     "name": "GrocerApp",
+     "cat": "delivery",
+     "pkg": "com.barfee.mart",
+     "note": "Online-Supermarkt mit Lieferung am selben Tag",
+     "src": "https://grocerapp.pk"
+    },
+    {
+     "name": "NayaPay",
+     "cat": "payment",
+     "pkg": "com.nayapay.app",
+     "note": "Pakistanisches Wallet mit Visa-Karte",
+     "use": "no",
+     "req": "Pakistanischer Ausweis (CNIC) nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.nayapay.app"
+    },
+    {
+     "name": "Magnificent Punjab",
+     "cat": "tourism",
+     "pkg": "pk.pitb.gov.magnificentPunjab",
+     "note": "Offizieller Reiseführer für Punjab: Forts, Schreine, Feste",
+     "src": "https://play.google.com/store/apps/details?id=pk.pitb.gov.magnificentPunjab"
+    },
+    {
+     "name": "PSCA Public Safety",
+     "cat": "safety",
+     "pkg": "com.psca.ppic3.publicsafety",
+     "note": "Notruf 15 mit Standort an Polizei im Punjab senden",
+     "src": "https://psca.gop.pk"
+    },
+    {
+     "name": "Pak Weather",
+     "cat": "safety",
+     "pkg": "com.pmd.kissan",
+     "note": "Offizielle Wetter-App des Wetterdienstes PMD",
+     "src": "https://www.pmd.gov.pk"
+    },
+    {
+     "name": "TPL Maps",
+     "cat": "maps",
+     "pkg": "com.tpl.tplmaps",
+     "note": "Pakistanische Karten-App mit Navigation und lokalen Orten",
+     "src": "https://tplmaps.com"
+    },
+    {
+     "name": "PIA App",
+     "cat": "flights",
+     "pkg": "com.piac.thepiaapp.android",
+     "note": "Nationale Airline: Buchung, Check-in, Flugstatus",
+     "src": "https://play.google.com/store/apps/details?id=com.piac.thepiaapp.android"
+    },
+    {
+     "name": "Airblue",
+     "cat": "flights",
+     "pkg": "com.airblue.airblue",
+     "note": "Inlands- und Golfflüge buchen und einchecken",
+     "src": "https://www.airblue.com"
+    },
+    {
+     "name": "Fly Jinnah",
+     "cat": "flights",
+     "pkg": "com.droid.flyjinnah",
+     "note": "Billigflieger für Inlandsflüge, Buchung und Check-in",
+     "src": "https://www.flyjinnah.com"
+    },
+    {
+     "name": "PAA Flight Inquiry",
+     "cat": "flights",
+     "pkg": "com.caapakistan.my.app",
+     "note": "Ankünfte und Abflüge aller Flughäfen der Flughafenbehörde",
+     "src": "https://play.google.com/store/apps/details?id=com.caapakistan.my.app"
+    },
+    {
+     "name": "Daraz",
+     "cat": "shopping",
+     "pkg": "com.daraz.android",
+     "note": "Größter Online-Marktplatz in Pakistan",
+     "src": "https://www.daraz.pk"
+    },
+    {
+     "name": "Imtiaz",
+     "cat": "shopping",
+     "pkg": "com.imtiaz.superstore",
+     "note": "Supermarktkette Imtiaz: Online-Bestellung und Angebote",
+     "src": "https://play.google.com/store/apps/details?id=com.imtiaz.superstore"
+    },
+    {
+     "name": "Metro Online",
+     "cat": "shopping",
+     "pkg": "com.metro.metroestore",
+     "note": "Metro Großmarkt: Lebensmittel online bestellen",
+     "src": "https://www.metro-online.pk"
     }
    ],
    "cities": [
@@ -77972,6 +79376,13 @@
        "cat": "tourism",
        "note": "Offizielle Stadt-App mit Busrouten und Sehenswürdigkeiten",
        "src": "https://ictadministration.gov.pk/official-mobile-phone-app/"
+      },
+      {
+       "name": "CDA Metro App",
+       "cat": "transit",
+       "pkg": "com.kentkart.cdamobile",
+       "note": "Offizielle ÖPNV-App Islamabad: Linien, Echtzeit, Planer",
+       "src": "https://play.google.com/store/apps/details?id=com.kentkart.cdamobile"
       }
      ],
      "ll": [
@@ -78004,6 +79415,13 @@
        "req": "Registrierung laut Quelle unklar, Zahlung per QR oder Karte",
        "src": "https://arynews.tv/peoples-bus-service-mobile-app-all-you-need-to-know",
        "ios": 6446080918
+      },
+      {
+       "name": "Karachi Breeze",
+       "cat": "transit",
+       "pkg": "com.kentkart.karachiapp",
+       "note": "Breeze Card aufladen und QR-Ticket für BRT Karachi",
+       "src": "https://play.google.com/store/apps/details?id=com.kentkart.karachiapp"
       }
      ],
      "ll": [

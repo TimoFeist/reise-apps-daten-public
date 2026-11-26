@@ -237,6 +237,111 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/latvia"
+  },
+  {
+   "name": "Lux Express",
+   "cat": "rail",
+   "pkg": "com.luxexpress",
+   "note": "Fernbusse ab Riga nach Tallinn und Vilnius",
+   "use": "ok",
+   "src": "https://luxexpress.eu"
+  },
+  {
+   "name": "ECOLINES",
+   "cat": "rail",
+   "pkg": "net.ecolines.loyalty",
+   "note": "Fernbusse ab Riga, Tickets in der App",
+   "use": "ok",
+   "src": "https://ecolines.net"
+  },
+  {
+   "name": "Autlo",
+   "cat": "parking",
+   "pkg": "com.autlo.android",
+   "note": "Parken mit Karte, Zonen und Freiparkzeit automatisch",
+   "use": "ok",
+   "src": "https://autlo.com"
+  },
+  {
+   "name": "Barbora.LV",
+   "cat": "delivery",
+   "pkg": "lv.barbora",
+   "note": "Lebensmittel von Maxima nach Hause liefern lassen",
+   "use": "ok",
+   "src": "https://barbora.lv"
+  },
+  {
+   "name": "Nature Tourism",
+   "cat": "tourism",
+   "pkg": "lv.cube.daba",
+   "note": "Über 500 Naturpfade, Türme und Ziele der Naturschutzbehörde",
+   "use": "ok",
+   "src": "https://www.daba.gov.lv"
+  },
+  {
+   "name": "Sigulda",
+   "cat": "tourism",
+   "pkg": "lv.lmt.manapilseta.sigulda",
+   "note": "Stadt-App Sigulda: Termine, Neuigkeiten, Sehenswertes",
+   "city": "Sigulda",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=lv.lmt.manapilseta.sigulda"
+  },
+  {
+   "name": "Meteo.lv",
+   "cat": "safety",
+   "pkg": "com.lvgmc.meteolv",
+   "note": "Amtliches Wetter und Warnungen des lettischen Wetterdienstes",
+   "use": "ok",
+   "src": "https://videscentrs.lvgmc.lv"
+  },
+  {
+   "name": "BalticMaps",
+   "cat": "maps",
+   "pkg": "eu.balticmaps.android",
+   "note": "Detailkarten des Baltikums von Jāņa sēta mit GPS",
+   "use": "ok",
+   "src": "https://www.balticmaps.eu"
+  },
+  {
+   "name": "LVM GEO",
+   "cat": "maps",
+   "pkg": "com.lvm.mobile.du",
+   "note": "Karten der Staatsforsten mit Erholungsorten und Wegen",
+   "use": "ok",
+   "src": "https://www.lvmgeo.lv"
+  },
+  {
+   "name": "Rimi",
+   "cat": "shopping",
+   "pkg": "lv.rimi.card",
+   "note": "Rimi Supermärkte: Angebote, Filialen, Kundenkarte",
+   "use": "ok",
+   "src": "https://www.rimi.lv"
+  },
+  {
+   "name": "MAXIMA",
+   "cat": "shopping",
+   "pkg": "lv.maxima",
+   "note": "Maxima Supermärkte: Angebote und Kundenkarte",
+   "use": "ok",
+   "src": "https://www.maxima.lv"
+  },
+  {
+   "name": "mans top!",
+   "cat": "shopping",
+   "pkg": "com.bbit.manstop",
+   "note": "Lettische Ladenkette top!: Angebote und Kundenkarte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bbit.manstop"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Lidl Angebote, Coupons und Filialsuche",
+   "use": "ok",
+   "src": "https://www.lidl.lv"
   }
  ],
  "replace": [

@@ -259,6 +259,159 @@
    "use": "ok",
    "req": "",
    "src": "https://visitparnu.com/en/tourist-information-frequently-asked-questions/"
+  },
+  {
+   "name": "Lux Express",
+   "cat": "rail",
+   "pkg": "com.luxexpress",
+   "note": "Fernbusse im Baltikum, Tickets und Sitzplatzwahl",
+   "use": "ok",
+   "src": "https://luxexpress.eu"
+  },
+  {
+   "name": "Tallink Silja Line",
+   "cat": "rail",
+   "pkg": "com.tallink.mikiandroid",
+   "note": "Fähren Tallinn nach Helsinki und Stockholm buchen",
+   "use": "ok",
+   "src": "https://www.tallink.com"
+  },
+  {
+   "name": "Viking Line",
+   "cat": "rail",
+   "pkg": "com.vikingline.owapp",
+   "note": "Fähre Tallinn nach Helsinki, Buchung und Bordkarte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.vikingline.owapp"
+  },
+  {
+   "name": "Eckerö Line",
+   "cat": "rail",
+   "pkg": "com.digia.eckeroline",
+   "note": "Fähre Tallinn nach Helsinki mit der MS Finlandia",
+   "use": "ok",
+   "src": "https://www.eckeroline.com"
+  },
+  {
+   "name": "ECOLINES",
+   "cat": "rail",
+   "pkg": "net.ecolines.loyalty",
+   "note": "Internationale Fernbusse im Baltikum, Tickets in der App",
+   "use": "ok",
+   "src": "https://ecolines.net"
+  },
+  {
+   "name": "EURO TAKSO",
+   "cat": "taxi",
+   "pkg": "ee.taksiapp.client",
+   "note": "Taxi in Tallinn per App bestellen und verfolgen",
+   "city": "Tallinn",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ee.taksiapp.client"
+  },
+  {
+   "name": "Beast Rent",
+   "cat": "carshare",
+   "pkg": "co.electricbeast.beast",
+   "note": "Tesla per App mieten, schlüssellos und rund um die Uhr",
+   "use": "ok",
+   "src": "https://beast.rent"
+  },
+  {
+   "name": "Hoog",
+   "cat": "micro",
+   "pkg": "hoog.app",
+   "note": "E-Scooter und Anhänger mieten in Tallinn und Tartu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=hoog.app"
+  },
+  {
+   "name": "EuroPark",
+   "cat": "parking",
+   "pkg": "lt.unipark.europark",
+   "note": "Parken auf EuroPark Flächen per App bezahlen",
+   "use": "ok",
+   "src": "https://www.europark.ee"
+  },
+  {
+   "name": "Snabb",
+   "cat": "parking",
+   "pkg": "ee.barking.app",
+   "note": "Parkplätze und Autowäsche in Estland mobil bezahlen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ee.barking.app"
+  },
+  {
+   "name": "Autlo",
+   "cat": "parking",
+   "pkg": "com.autlo.android",
+   "note": "Parken mit Karte, Zonen und Freiparkzeit automatisch",
+   "use": "ok",
+   "src": "https://autlo.com"
+  },
+  {
+   "name": "Parkner",
+   "cat": "parking",
+   "pkg": "ee.parkner.production",
+   "note": "Parkplätze von Ühisteenused ohne Anmeldung bezahlen",
+   "use": "ok",
+   "src": "https://parkner.ee"
+  },
+  {
+   "name": "Barbora.EE",
+   "cat": "delivery",
+   "pkg": "ee.barbora",
+   "note": "Lebensmittel von Maxima nach Hause liefern lassen",
+   "use": "ok",
+   "src": "https://barbora.ee"
+  },
+  {
+   "name": "ILM+",
+   "cat": "safety",
+   "pkg": "ee.applaud.kemit",
+   "note": "Amtliches Wetter und Unwetterwarnungen für Estland",
+   "use": "ok",
+   "src": "https://www.ilmateenistus.ee"
+  },
+  {
+   "name": "BalticMaps",
+   "cat": "maps",
+   "pkg": "eu.balticmaps.android",
+   "note": "Detailkarten des Baltikums von Jāņa sēta mit GPS",
+   "use": "ok",
+   "src": "https://www.balticmaps.eu"
+  },
+  {
+   "name": "Rimi",
+   "cat": "shopping",
+   "pkg": "lv.rimi.card",
+   "note": "Rimi Supermärkte: Angebote, Filialen, Kundenkarte",
+   "use": "ok",
+   "src": "https://www.rimi.ee"
+  },
+  {
+   "name": "Maxima",
+   "cat": "shopping",
+   "pkg": "ee.maxima",
+   "note": "Maxima Supermärkte: Angebote und Kundenkarte",
+   "use": "ok",
+   "src": "https://www.maxima.ee"
+  },
+  {
+   "name": "Coop Eesti",
+   "cat": "shopping",
+   "pkg": "ee.coop.shopping.app",
+   "note": "Coop Läden in Estland: Angebote und Kundenkarte",
+   "use": "ok",
+   "src": "https://www.coop.ee"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Lidl Angebote, Coupons und Filialsuche",
+   "use": "ok",
+   "src": "https://www.lidl.ee"
   }
  ],
  "replace": [

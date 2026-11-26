@@ -233,6 +233,169 @@
    "use": "no",
    "req": "Pakistanische SIM und Ausweis nötig",
    "src": "https://play.google.com/store/apps/details?id=pk.com.telenor.phoenix&hl=en"
+  },
+  {
+   "name": "CDA Metro App",
+   "cat": "transit",
+   "pkg": "com.kentkart.cdamobile",
+   "note": "Offizielle ÖPNV-App Islamabad: Linien, Echtzeit, Planer",
+   "city": "Islamabad",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.kentkart.cdamobile"
+  },
+  {
+   "name": "Karachi Breeze",
+   "cat": "transit",
+   "pkg": "com.kentkart.karachiapp",
+   "note": "Breeze Card aufladen und QR-Ticket für BRT Karachi",
+   "city": "Karachi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.kentkart.karachiapp"
+  },
+  {
+   "name": "Daewoo Express Mobile",
+   "cat": "rail",
+   "pkg": "com.app.daewoo.miles",
+   "note": "Fernbusse von Daewoo Express buchen",
+   "use": "ok",
+   "src": "https://daewoo.com.pk"
+  },
+  {
+   "name": "Faisal Movers",
+   "cat": "rail",
+   "pkg": "com.faisalmovers.travels.bus",
+   "note": "Fernbustickets von Faisal Movers online",
+   "use": "ok",
+   "src": "https://faisalmovers.com"
+  },
+  {
+   "name": "Bookkaru",
+   "cat": "rail",
+   "pkg": "com.bookkaru",
+   "note": "Bus, Bahn und Flug in Pakistan vergleichen und buchen",
+   "use": "ok",
+   "src": "https://bookkaru.com"
+  },
+  {
+   "name": "sastaticket.pk",
+   "cat": "rail",
+   "pkg": "com.pk.sastaticket",
+   "note": "Flüge, Busse und Hotels in Pakistan buchen",
+   "use": "ok",
+   "src": "https://www.sastaticket.pk"
+  },
+  {
+   "name": "Krave Mart",
+   "cat": "delivery",
+   "pkg": "com.krrave.customer",
+   "note": "Lebensmittel in rund 30 Minuten geliefert",
+   "use": "ok",
+   "src": "https://kravemart.com"
+  },
+  {
+   "name": "GrocerApp",
+   "cat": "delivery",
+   "pkg": "com.barfee.mart",
+   "note": "Online-Supermarkt mit Lieferung am selben Tag",
+   "use": "ok",
+   "src": "https://grocerapp.pk"
+  },
+  {
+   "name": "NayaPay",
+   "cat": "payment",
+   "pkg": "com.nayapay.app",
+   "note": "Pakistanisches Wallet mit Visa-Karte",
+   "use": "no",
+   "req": "Pakistanischer Ausweis (CNIC) nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.nayapay.app"
+  },
+  {
+   "name": "Magnificent Punjab",
+   "cat": "tourism",
+   "pkg": "pk.pitb.gov.magnificentPunjab",
+   "note": "Offizieller Reiseführer für Punjab: Forts, Schreine, Feste",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pk.pitb.gov.magnificentPunjab"
+  },
+  {
+   "name": "PSCA Public Safety",
+   "cat": "safety",
+   "pkg": "com.psca.ppic3.publicsafety",
+   "note": "Notruf 15 mit Standort an Polizei im Punjab senden",
+   "use": "ok",
+   "src": "https://psca.gop.pk"
+  },
+  {
+   "name": "Pak Weather",
+   "cat": "safety",
+   "pkg": "com.pmd.kissan",
+   "note": "Offizielle Wetter-App des Wetterdienstes PMD",
+   "use": "ok",
+   "src": "https://www.pmd.gov.pk"
+  },
+  {
+   "name": "TPL Maps",
+   "cat": "maps",
+   "pkg": "com.tpl.tplmaps",
+   "note": "Pakistanische Karten-App mit Navigation und lokalen Orten",
+   "use": "ok",
+   "src": "https://tplmaps.com"
+  },
+  {
+   "name": "PIA App",
+   "cat": "flights",
+   "pkg": "com.piac.thepiaapp.android",
+   "note": "Nationale Airline: Buchung, Check-in, Flugstatus",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.piac.thepiaapp.android"
+  },
+  {
+   "name": "Airblue",
+   "cat": "flights",
+   "pkg": "com.airblue.airblue",
+   "note": "Inlands- und Golfflüge buchen und einchecken",
+   "use": "ok",
+   "src": "https://www.airblue.com"
+  },
+  {
+   "name": "Fly Jinnah",
+   "cat": "flights",
+   "pkg": "com.droid.flyjinnah",
+   "note": "Billigflieger für Inlandsflüge, Buchung und Check-in",
+   "use": "ok",
+   "src": "https://www.flyjinnah.com"
+  },
+  {
+   "name": "PAA Flight Inquiry",
+   "cat": "flights",
+   "pkg": "com.caapakistan.my.app",
+   "note": "Ankünfte und Abflüge aller Flughäfen der Flughafenbehörde",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.caapakistan.my.app"
+  },
+  {
+   "name": "Daraz",
+   "cat": "shopping",
+   "pkg": "com.daraz.android",
+   "note": "Größter Online-Marktplatz in Pakistan",
+   "use": "ok",
+   "src": "https://www.daraz.pk"
+  },
+  {
+   "name": "Imtiaz",
+   "cat": "shopping",
+   "pkg": "com.imtiaz.superstore",
+   "note": "Supermarktkette Imtiaz: Online-Bestellung und Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.imtiaz.superstore"
+  },
+  {
+   "name": "Metro Online",
+   "cat": "shopping",
+   "pkg": "com.metro.metroestore",
+   "note": "Metro Großmarkt: Lebensmittel online bestellen",
+   "use": "ok",
+   "src": "https://www.metro-online.pk"
   }
  ]
 }

@@ -1,79 +1,151 @@
 {
- "stand": "2026-11-26",
+ "stand": "2026-11-27",
  "laender": [
   {
-   "cc": "TW",
-   "name": "Taiwan, Chinesische Provinz",
+   "cc": "EE",
+   "name": "Estland",
    "staedte": [
-    "Kaohsiung",
-    "Taichung",
-    "Tainan",
-    "Taipei"
+    "Pärnu",
+    "Tallinn",
+    "Tartu"
    ],
    "vorhanden": {
     "transit": [
-     "Bus+",
-     "Fun Travel In Taipei (Taipei)",
-     "Taichung MRT (Taichung)",
-     "Taipei Metro Go (Taipei)",
-     "高雄捷運 通勤助理 (Kaohsiung)"
+     "Mobilly",
+     "Pilet.ee"
     ],
     "rail": [
-     "T Express",
-     "Taiwan Railway e-booking"
+     "Elron",
+     "FlixBus (weltweit)",
+     "Praamid.ee",
+     "Tpilet"
     ],
     "taxi": [
-     "55688 Taiwan Taxi",
      "Bolt",
      "Bolt (weltweit)",
-     "Tripool",
-     "Uber",
-     "Uber (weltweit)",
-     "yoxi"
+     "Bolt Drive",
+     "Forus",
+     "MOBI",
+     "Uber (Tallinn)",
+     "Uber (weltweit)"
     ],
     "carshare": [
-     "Go Smart",
-     "URiDE",
-     "Zipcar",
-     "iRent"
+     "CityBee"
     ],
     "micro": [
-     "GoShare",
-     "WeMo Scooter",
-     "YouBike"
+     "RIDE",
+     "Tartu Smart Bike (Tartu)"
     ],
     "parking": [
-     "Autopass (車麻吉) (Taipei)"
+     "Flowbird (Pärnu)",
+     "PARGI.EE"
     ],
     "delivery": [
-     "EZTABLE",
-     "Uber Eats",
-     "Uber Eats (weltweit)",
-     "foodpanda",
-     "foodpanda (weltweit)"
+     "Bolt Food",
+     "TableOnline",
+     "Wolt",
+     "Wolt (weltweit)"
     ],
     "payment": [
-     "Easy Wallet 悠遊付",
-     "JKOPAY 街口支付",
-     "LINE Pay",
      "PinRate (weltweit)",
      "Revolut (weltweit)"
     ],
     "tourism": [
+     "AuroraReach",
      "GetYourGuide (weltweit)",
      "Klook (weltweit)",
-     "Taipei FunPASS (Taipei)",
+     "Tallinn Card (Tallinn)",
      "Tiqets (weltweit)",
-     "Travel Tainan (Tainan)",
-     "Travel Taipei (Taipei)",
      "Viator (weltweit)"
     ],
     "safety": [
-     "Readiness TW e-APP",
-     "Taiwan Weather"
+     "Ole valmis!"
+    ],
+    "entry": [],
+    "maps": [
+     "Google Maps (weltweit)",
+     "RMK Loodusega koos",
+     "Rome2Rio (weltweit)"
+    ],
+    "flights": [
+     "Flightradar24 (weltweit)",
+     "Kiwi.com (weltweit)",
+     "Lufthansa (weltweit)",
+     "Miles & More (weltweit)",
+     "Priority Pass (weltweit)",
+     "Star Alliance (weltweit)",
+     "TripIt (weltweit)",
+     "airBaltic"
+    ],
+    "hotels": [
+     "Airbnb (weltweit)",
+     "Booking.com (weltweit)"
+    ],
+    "lgbtq": [
+     "Everywhere Is Queer (weltweit)",
+     "Grindr (weltweit)",
+     "QList (weltweit)",
+     "Rangr (weltweit)",
+     "Spartacus (weltweit)"
+    ]
+   }
+  },
+  {
+   "cc": "PK",
+   "name": "Pakistan",
+   "staedte": [
+    "Islamabad",
+    "Karachi",
+    "Lahore",
+    "Peshawar"
+   ],
+   "vorhanden": {
+    "transit": [
+     "Peoples Bus Service (Karachi)",
+     "Zu (Peshawar)",
+     "eTransit Punjab (Lahore)"
+    ],
+    "rail": [
+     "Bookme Pakistan",
+     "RABTA"
+    ],
+    "taxi": [
+     "Bykea",
+     "Careem (weltweit)",
+     "Yango",
+     "Yango (weltweit)",
+     "inDrive",
+     "inDrive (weltweit)"
+    ],
+    "carshare": [
+     "Avis (Lahore)"
+    ],
+    "micro": [],
+    "parking": [],
+    "delivery": [
+     "foodpanda",
+     "foodpanda (weltweit)",
+     "inDrive.Groceries (Karachi)"
+    ],
+    "payment": [
+     "JazzCash",
+     "PinRate (weltweit)",
+     "Revolut (weltweit)",
+     "easypaisa"
+    ],
+    "tourism": [
+     "City Islamabad (Islamabad)",
+     "GetYourGuide (weltweit)",
+     "Klook (weltweit)",
+     "Tiqets (weltweit)",
+     "Viator (weltweit)"
+    ],
+    "safety": [
+     "PAK NDMA-Disaster Alert",
+     "Sicher Reisen"
     ],
     "entry": [
-     "Taiwan Arrival Card (TWAC)"
+     "Pakistan Online Visa (NADRA)"
     ],
     "maps": [
      "Google Maps (weltweit)",
@@ -93,106 +165,6 @@
      "Booking.com (weltweit)"
     ],
     "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ],
-    "misc": [
-     "LINE"
-    ]
-   }
-  },
-  {
-   "cc": "ID",
-   "name": "Indonesien",
-   "staedte": [
-    "Bali",
-    "Jakarta",
-    "Surabaya",
-    "Yogyakarta"
-   ],
-   "vorhanden": {
-    "transit": [
-     "Gobis Suroboyo (Surabaya)",
-     "JakLingko (Jakarta)",
-     "MyMRTJ (Jakarta)",
-     "TJ:Transjakarta (Jakarta)"
-    ],
-    "rail": [
-     "Access by KAI",
-     "C-Access",
-     "Ferizy",
-     "PELNI",
-     "Whoosh"
-    ],
-    "taxi": [
-     "Gojek",
-     "Grab",
-     "Grab (weltweit)",
-     "Green SM (Jakarta)",
-     "Maxim",
-     "MyBluebird",
-     "inDrive",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "TRACtoGo"
-    ],
-    "micro": [
-     "Beam (Jakarta)"
-    ],
-    "parking": [
-     "PARKEE (Jakarta)"
-    ],
-    "delivery": [
-     "Shopee Indonesia"
-    ],
-    "payment": [
-     "DANA",
-     "GoPay",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "Visiting Jogja (Yogyakarta)"
-    ],
-    "safety": [
-     "Info BMKG"
-    ],
-    "entry": [
-     "All Indonesia",
-     "Indonesia eVisa",
-     "Love Bali (Bali)"
-    ],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Organic Maps",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "Traveloka",
-     "TripIt (weltweit)",
-     "tiket.com"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Blued",
      "Everywhere Is Queer (weltweit)",
      "Grindr",
      "Grindr (weltweit)",
@@ -203,746 +175,63 @@
    }
   },
   {
-   "cc": "NL",
-   "name": "Niederlande",
+   "cc": "LV",
+   "name": "Lettland",
    "staedte": [
-    "Amsterdam",
-    "Den Haag",
-    "Rotterdam",
-    "Utrecht"
+    "Jurmala",
+    "Liepaja",
+    "Riga"
    ],
    "vorhanden": {
     "transit": [
-     "9292",
-     "GVB travel app (Amsterdam)",
-     "HTM info & tickets (Den Haag)",
-     "OVpay",
-     "RET (Rotterdam)",
-     "U-OV (Utrecht)",
-     "glimble"
+     "Liepājas pilsēta (Liepaja)",
+     "Mobilly (Riga)",
+     "Rīgas satiksme (Riga)"
     ],
     "rail": [
      "FlixBus (weltweit)",
-     "NS",
-     "Omio (weltweit)"
+     "Vivi Latvija"
     ],
     "taxi": [
      "Bolt",
      "Bolt (weltweit)",
-     "TCA Taxi (Amsterdam)",
-     "Uber",
-     "Uber (weltweit)"
+     "Forus",
+     "MOBI"
     ],
     "carshare": [
-     "Greenwheels",
-     "MyWheels"
+     "Bolt Drive",
+     "CarGuru",
+     "CityBee"
     ],
     "micro": [
-     "Check",
-     "Donkey Republic",
-     "Dott (weltweit)",
-     "GO Sharing",
-     "Lime (weltweit)",
-     "OV-fiets",
-     "Voi (weltweit)",
-     "felyx"
+     "RIDE",
+     "Skok (Riga)",
+     "nextbike (Riga)"
     ],
     "parking": [
-     "EasyPark",
-     "EasyPark (weltweit)",
-     "Q-Park"
+     "EuroPark (Jurmala)"
     ],
     "delivery": [
      "Bolt Food",
-     "Deliveroo",
-     "Flink",
-     "Takeaway",
-     "Thuisbezorgd.nl",
-     "Uber Eats",
-     "Uber Eats (weltweit)"
-    ],
-    "payment": [
-     "PinRate (weltweit)",
-     "Revolut (weltweit)",
-     "Tikkie"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "I amsterdam City Card (Amsterdam)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "KNMI"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "MX",
-   "name": "Mexiko",
-   "staedte": [
-    "Cancún & Riviera Maya",
-    "Guadalajara",
-    "Merida",
-    "Mexiko-Stadt",
-    "Monterrey"
-   ],
-   "vorhanden": {
-    "transit": [
-     "App CDMX (Mexiko-Stadt)",
-     "Va-y-Ven (Merida)"
-    ],
-    "rail": [
-     "ADO",
-     "FlixBus (weltweit)",
-     "Tren Maya Tickets"
-    ],
-    "taxi": [
-     "Bolt (weltweit)",
-     "DiDi",
-     "DiDi (weltweit)",
-     "Uber",
-     "Uber (weltweit)",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "Drivana"
-    ],
-    "micro": [
-     "ECOBICI (Mexiko-Stadt)",
-     "Lime (weltweit)",
-     "MiBici (Guadalajara)"
-    ],
-    "parking": [
-     "Mueve Ciudad (Mexiko-Stadt)"
-    ],
-    "delivery": [
-     "DiDi Food",
-     "McDonald's",
-     "Rappi",
-     "Uber Eats",
-     "Uber Eats (weltweit)"
-    ],
-    "payment": [
-     "Mercado Pago",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)",
-     "Spin by OXXO",
-     "Wise"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Go City",
-     "Klook (weltweit)",
-     "México Invita",
-     "Pasaporte Nuevo León (Monterrey)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "XCARET! (Cancún & Riviera Maya)"
-    ],
-    "safety": [
-     "Ángeles Verdes"
-    ],
-    "entry": [
-     "FMM digital (INM)"
-    ],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "PH",
-   "name": "Philippinen",
-   "staedte": [
-    "Boracay",
-    "Davao",
-    "Manila"
-   ],
-   "vorhanden": {
-    "transit": [
-     "DC Bus Tracker (Davao)",
-     "Sakay.ph (Manila)",
-     "beep (Manila)"
-    ],
-    "rail": [
-     "2GO",
-     "LezzGo Boracay (Boracay)",
-     "OceanJet"
-    ],
-    "taxi": [
-     "Angkas",
-     "Grab",
-     "Grab (weltweit)",
-     "Green GSM",
-     "JoyRide",
-     "Maxim",
-     "Move It",
-     "inDrive",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "OOPA"
-    ],
-    "micro": [
-     "Moovr PH (Manila)"
-    ],
-    "parking": [
-     "luvpark (Manila)"
-    ],
-    "delivery": [
-     "Pick.A.Roo",
-     "foodpanda",
-     "foodpanda (weltweit)"
-    ],
-    "payment": [
-     "GCash",
-     "Maya",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "Digital Davao Tourist Passport (Davao)",
-     "GetYourGuide (weltweit)",
-     "Klook",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "HazardHunterPH",
-     "PANaHON"
-    ],
-    "entry": [
-     "Philippine eTravel"
-    ],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Organic Maps",
-     "Rome2Rio (weltweit)",
-     "Waze"
-    ],
-    "flights": [
-     "AirAsia MOVE",
-     "Cebu Pacific",
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Philippine Airlines",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Agoda",
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ],
-    "misc": [
-     "Messenger",
-     "Viber"
-    ]
-   }
-  },
-  {
-   "cc": "IE",
-   "name": "Irland",
-   "staedte": [
-    "Cork",
-    "Dublin",
-    "Galway",
-    "Limerick"
-   ],
-   "vorhanden": {
-    "transit": [
-     "Leap Top-Up",
-     "Leap Top-Up (Dublin)",
-     "TFI Go",
-     "TFI Live"
-    ],
-    "rail": [
-     "Aircoach",
-     "FlixBus (weltweit)",
-     "Iarnrod Eireann - Irish Rail Official App"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "Driver Check",
-     "FREE NOW",
-     "Freenow (weltweit)",
-     "Uber",
-     "Uber (weltweit)"
-    ],
-    "carshare": [
-     "GoCar",
-     "YUKÓ (Dublin)"
-    ],
-    "micro": [
-     "Beryl Bikes",
-     "Bleeper (Dublin)",
-     "Lime (weltweit)",
-     "RedClick dublinbikes (Dublin)",
-     "TFI Bikes"
-    ],
-    "parking": [
-     "Cork Park by Phone (Cork)",
-     "Galway City Parking (Galway)",
-     "Limerick e-Parking (Limerick)",
-     "Parking Tag (Dublin)"
-    ],
-    "delivery": [
-     "Deliveroo",
-     "Just Eat Ireland",
-     "Uber Eats",
-     "Uber Eats (weltweit)"
-    ],
-    "payment": [
-     "PinRate (weltweit)",
-     "Revolut (weltweit)",
-     "Zippay"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Go City (Dublin)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "Met Éireann Weather Ireland"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "AR",
-   "name": "Argentinien",
-   "staedte": [
-    "Bariloche",
-    "Buenos Aires",
-    "Córdoba",
-    "Mendoza"
-   ],
-   "vorhanden": {
-    "transit": [
-     "BA Cómo Llego (Buenos Aires)",
-     "Cuándo Subo (Bariloche)",
-     "Mendotran Cuándo Subo (Mendoza)",
-     "SUBE",
-     "Tu Bondi (Córdoba)"
-    ],
-    "rail": [
-     "Central de Pasajes",
-     "Plataforma 10",
-     "Trenes Argentinos"
-    ],
-    "taxi": [
-     "BA Taxi (Buenos Aires)",
-     "Cabify",
-     "Cabify (weltweit)",
-     "DiDi",
-     "DiDi (weltweit)",
-     "Uber",
-     "Uber (weltweit)",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "MyKeego"
-    ],
-    "micro": [
-     "BA EcoBici (Buenos Aires)"
-    ],
-    "parking": [
-     "Blinkay (Buenos Aires)"
-    ],
-    "delivery": [
-     "PedidosYa",
-     "Rappi",
-     "Uber Eats",
-     "Uber Eats (weltweit)"
-    ],
-    "payment": [
-     "Mercado Pago",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)",
-     "Tucu",
-     "WanderWallet",
-     "Western Union"
-    ],
-    "tourism": [
-     "Argentina Travel",
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "SMN: Tiempo y Pronóstico"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Organic Maps",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "BG",
-   "name": "Bulgarien",
-   "staedte": [
-    "Burgas",
-    "Plovdiv",
-    "Sofia",
-    "Varna"
-   ],
-   "vorhanden": {
-    "transit": [
-     "MPass",
-     "Sofia2Go (Sofia)",
-     "TTickets Varna (Varna)",
-     "Transport Burgas (Burgas)"
-    ],
-    "rail": [
-     "FlixBus (weltweit)",
-     "Obilet"
-    ],
-    "taxi": [
-     "Bolt (weltweit)",
-     "Eko Taxi Plovdiv (Plovdiv)",
-     "OK Taxi (Sofia)",
-     "Taxi One App (Plovdiv)",
-     "TaxiMe (Sofia)",
-     "Uber",
-     "Yellow Taxi 91119 (Sofia)"
-    ],
-    "carshare": [
-     "SPARK (Sofia)"
-    ],
-    "micro": [
-     "Bolt (Sofia)",
-     "Lime (Sofia)",
-     "Lime (weltweit)"
-    ],
-    "parking": [
-     "URBO City (Sofia)"
-    ],
-    "delivery": [
-     "Bolt Food",
-     "Glovo",
-     "Glovo (weltweit)",
      "Wolt",
      "Wolt (weltweit)"
     ],
     "payment": [
+     "Citadele (Jurmala)",
      "PinRate (weltweit)",
      "Revolut",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "Visit Bulgaria"
-    ],
-    "safety": [
-     "112 Bulgaria"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Organic Maps",
-     "Rome2Rio (weltweit)",
-     "Waze"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ],
-    "misc": [
-     "BGTOLL",
-     "Viber"
-    ]
-   }
-  },
-  {
-   "cc": "HR",
-   "name": "Kroatien",
-   "staedte": [
-    "Dubrovnik",
-    "Rijeka",
-    "Split",
-    "Zagreb"
-   ],
-   "vorhanden": {
-    "transit": [
-     "Libertas App (Dubrovnik)",
-     "Moj ZET (Zagreb)",
-     "Promet Split (Split)",
-     "RCC Mobility (Rijeka)"
-    ],
-    "rail": [
-     "Arriva Croatia",
-     "FlixBus",
-     "FlixBus (weltweit)",
-     "HŽPP",
-     "Jadrolinija",
-     "Omio (weltweit)",
-     "TP Line"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "Uber",
-     "Uber (weltweit)",
-     "Wizi"
-    ],
-    "carshare": [
-     "Avant2Go"
-    ],
-    "micro": [
-     "nextbike"
-    ],
-    "parking": [
-     "Bmove",
-     "Dubrovnik Parking (Dubrovnik)",
-     "Split Parking (Split)",
-     "ZgPark (Zagreb)"
-    ],
-    "delivery": [
-     "Glovo",
-     "Glovo (weltweit)",
-     "Wolt",
-     "Wolt (weltweit)"
-    ],
-    "payment": [
-     "Aircash",
-     "KEKS Pay",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "Explore Croatia",
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "Nautical Info Service Croatia"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "HAK Croatia Traffic Info",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "LT",
-   "name": "Litauen",
-   "staedte": [
-    "Kaunas",
-    "Klaipeda",
-    "Vilnius"
-   ],
-   "vorhanden": {
-    "transit": [
-     "JUDU (Vilnius)",
-     "Mobilly",
-     "Trafi",
-     "e.Ticket Klaipėda (Klaipeda)",
-     "Žiogas (Kaunas)"
-    ],
-    "rail": [
-     "Autobusų bilietai",
-     "FlixBus (weltweit)",
-     "LTG Link",
-     "Smiltynės perkėla (Klaipeda)"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "Bolt Drive",
-     "Etransport - Taxi and more",
-     "Forus",
-     "MOBI",
-     "Taxi.lt (Vilnius)",
-     "Uber",
-     "Uber (weltweit)",
-     "eTAKSI"
-    ],
-    "carshare": [
-     "CityBee",
-     "Spark (Vilnius)"
-    ],
-    "micro": [
-     "Cyclocity (Vilnius)",
-     "Cyclocity Vilnius (Vilnius)",
-     "RIDE",
-     "RIDE (Vilnius)"
-    ],
-    "parking": [
-     "UNIPARK"
-    ],
-    "delivery": [
-     "Bolt Food",
-     "Wolt",
-     "Wolt (weltweit)"
-    ],
-    "payment": [
-     "Paysera",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
+     "Revolut (weltweit)",
+     "Wise"
     ],
     "tourism": [
      "AuroraReach",
      "GetYourGuide (weltweit)",
      "Klook (weltweit)",
      "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "Vilnius Pass (Vilnius)"
+     "Viator (weltweit)"
     ],
     "safety": [
-     "LT72"
+     "112 Latvija"
     ],
     "entry": [],
     "maps": [
@@ -973,76 +262,423 @@
    }
   },
   {
-   "cc": "GR",
-   "name": "Griechenland",
+   "cc": "EG",
+   "name": "Ägypten",
    "staedte": [
-    "Athen",
-    "Heraklion",
-    "Rhodes",
-    "Thessaloniki"
+    "El Gouna",
+    "Kairo"
    ],
    "vorhanden": {
     "transit": [
-     "ATH.ENA GO (Athen)",
-     "Astikes Syngoinonies Irakleiou (Heraklion)",
-     "OASA Telematics (Athen)",
-     "OSETH Bus (Thessaloniki)",
-     "Rhodes Bus Routes (Rhodes)"
+     "Cairo Metro (Kairo)"
     ],
     "rail": [
-     "Ferryhopper",
-     "FlixBus (weltweit)",
-     "Omio (weltweit)"
+     "ABELA",
+     "Blue-Bus",
+     "Egyptian National Railway",
+     "GoBus",
+     "ReGo BUS"
     ],
     "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "FREE NOW",
-     "Freenow (weltweit)",
+     "Careem",
+     "Careem (weltweit)",
+     "DiDi",
+     "DiDi (weltweit)",
      "Uber",
-     "Uber (weltweit)"
+     "Uber (weltweit)",
+     "Yango (weltweit)",
+     "inDrive",
+     "inDrive (weltweit)"
     ],
     "carshare": [
-     "Avis Go Now (Athen)"
+     "SIXT (Kairo)"
     ],
     "micro": [
-     "Dott (Athen)",
-     "Dott (weltweit)",
-     "Lime",
-     "Lime (weltweit)",
+     "Rabbit Mobility (Kairo)"
+    ],
+    "parking": [],
+    "delivery": [
+     "Breadfast",
+     "InstaShop",
+     "MRSOOL",
+     "Rabbit",
+     "elmenus",
+     "talabat"
+    ],
+    "payment": [
+     "InstaPay",
+     "PinRate (weltweit)",
+     "Revolut (weltweit)",
+     "Vodafone Cash",
+     "myFawry"
+    ],
+    "tourism": [
+     "El Gouna (El Gouna)",
+     "Experience Egypt",
+     "GetYourGuide (weltweit)",
+     "Klook (weltweit)",
+     "Tiqets (weltweit)",
+     "Viator (weltweit)"
+    ],
+    "safety": [
+     "Egyptian Meteorological Authority"
+    ],
+    "entry": [
+     "Visa On Arrival"
+    ],
+    "maps": [
+     "Google Maps (weltweit)",
+     "Rome2Rio (weltweit)"
+    ],
+    "flights": [
+     "Flightradar24 (weltweit)",
+     "Kiwi.com (weltweit)",
+     "Lufthansa (weltweit)",
+     "Miles & More (weltweit)",
+     "Priority Pass (weltweit)",
+     "Star Alliance (weltweit)",
+     "TripIt (weltweit)"
+    ],
+    "hotels": [
+     "Airbnb (weltweit)",
+     "Booking.com (weltweit)"
+    ],
+    "shopping": [
+     "Amazon Shopping"
+    ],
+    "lgbtq": [
+     "Everywhere Is Queer (weltweit)",
+     "Grindr (weltweit)",
+     "QList (weltweit)",
+     "Rangr (weltweit)",
+     "Spartacus (weltweit)"
+    ]
+   }
+  },
+  {
+   "cc": "SI",
+   "name": "Slowenien",
+   "staedte": [
+    "Ljubljana",
+    "Maribor",
+    "Piran"
+   ],
+   "vorhanden": {
+    "transit": [
+     "M mobilnost (Maribor)",
+     "Slomet",
+     "Urbana (Ljubljana)"
+    ],
+    "rail": [
+     "FlixBus (weltweit)",
+     "Grem z vlakom",
+     "Pelji.se"
+    ],
+    "taxi": [
+     "Bolt (weltweit)",
+     "Taxi Metro",
+     "Uber (Ljubljana)",
+     "Uber (weltweit)",
+     "Wizi"
+    ],
+    "carshare": [
+     "Avant2Go"
+    ],
+    "micro": [
+     "BicikeLJ (Ljubljana)",
+     "Bolt (Ljubljana)",
+     "MBajk (Maribor)",
      "nextbike"
     ],
     "parking": [
-     "AthensWay (Athen)"
+     "EasyPark",
+     "EasyPark (weltweit)"
     ],
     "delivery": [
+     "Ehrana",
      "Wolt",
-     "Wolt (weltweit)",
-     "efood"
+     "Wolt (weltweit)"
     ],
     "payment": [
-     "IRIS",
-     "IRIS Payments",
+     "Flik Pay",
      "PinRate (weltweit)",
      "Revolut (weltweit)"
     ],
     "tourism": [
-     "Culture is Athens (Athen)",
      "GetYourGuide (weltweit)",
-     "Heraklion Visitor (Heraklion)",
      "Klook (weltweit)",
+     "Stories of Strunjan (Piran)",
      "Tiqets (weltweit)",
-     "VISIT GREECE",
      "Viator (weltweit)"
     ],
     "safety": [
-     "mAiGreece",
-     "ΕΜΥ"
+     "ARSO Vreme"
     ],
     "entry": [],
     "maps": [
      "Google Maps (weltweit)",
+     "Promet+",
+     "Rome2Rio (weltweit)",
+     "maPZS"
+    ],
+    "flights": [
+     "Flightradar24 (weltweit)",
+     "Kiwi.com (weltweit)",
+     "Lufthansa (weltweit)",
+     "Miles & More (weltweit)",
+     "Priority Pass (weltweit)",
+     "Star Alliance (weltweit)",
+     "TripIt (weltweit)"
+    ],
+    "hotels": [
+     "Airbnb (weltweit)",
+     "Booking.com (weltweit)"
+    ],
+    "lgbtq": [
+     "Everywhere Is Queer (weltweit)",
+     "Grindr (weltweit)",
+     "QList (weltweit)",
+     "Rangr (weltweit)",
+     "Spartacus (weltweit)"
+    ]
+   }
+  },
+  {
+   "cc": "UA",
+   "name": "Ukraine",
+   "staedte": [
+    "Kiew",
+    "Lviv"
+   ],
+   "vorhanden": {
+    "transit": [
+     "CityBus Lviv (Lviv)",
+     "EasyWay",
+     "Kyiv Digital (Kiew)",
+     "LeoCard (Lviv)"
+    ],
+    "rail": [
+     "FlixBus",
+     "FlixBus (weltweit)",
+     "INFOBUS",
+     "Ukrzaliznytsia"
+    ],
+    "taxi": [
+     "Bolt",
+     "Bolt (weltweit)",
+     "Uber",
+     "Uber (weltweit)",
+     "Uklon",
+     "inDrive (weltweit)"
+    ],
+    "carshare": [
+     "Getmancar"
+    ],
+    "micro": [
+     "Zelectra (Kiew)"
+    ],
+    "parking": [],
+    "delivery": [
+     "Bolt Food",
+     "Glovo",
+     "Glovo (weltweit)",
+     "LOKO"
+    ],
+    "payment": [
+     "Monobank",
+     "PinRate (weltweit)",
+     "Privat24",
+     "Revolut",
+     "Revolut (weltweit)",
+     "Wise"
+    ],
+    "tourism": [
+     "GetYourGuide (weltweit)",
+     "Klook (weltweit)",
+     "Lviv City Card (Lviv)",
+     "Tiqets (weltweit)",
+     "Viator (weltweit)"
+    ],
+    "safety": [
+     "Air Alert (Povitryana Tryvoga)"
+    ],
+    "entry": [],
+    "maps": [
+     "Google Maps (weltweit)",
+     "Organic Maps",
      "Rome2Rio (weltweit)"
+    ],
+    "flights": [
+     "Flightradar24 (weltweit)",
+     "Kiwi.com (weltweit)",
+     "Lufthansa (weltweit)",
+     "Miles & More (weltweit)",
+     "Priority Pass (weltweit)",
+     "Star Alliance (weltweit)",
+     "TripIt (weltweit)"
+    ],
+    "hotels": [
+     "Airbnb (weltweit)",
+     "Booking.com (weltweit)"
+    ],
+    "lgbtq": [
+     "Everywhere Is Queer (weltweit)",
+     "Grindr (weltweit)",
+     "QList (weltweit)",
+     "Rangr (weltweit)",
+     "Spartacus (weltweit)"
+    ],
+    "misc": [
+     "Diia",
+     "Telegram",
+     "Viber"
+    ]
+   }
+  },
+  {
+   "cc": "KH",
+   "name": "Kambodscha",
+   "staedte": [
+    "Phnom Penh",
+    "Siem Reap",
+    "Sihanoukville"
+   ],
+   "vorhanden": {
+    "transit": [
+     "City Bus Official App (Phnom Penh)"
+    ],
+    "rail": [
+     "BookMeBus",
+     "redBus"
+    ],
+    "taxi": [
+     "Grab",
+     "Grab (weltweit)",
+     "PassApp",
+     "WowNow"
+    ],
+    "carshare": [],
+    "micro": [],
+    "parking": [
+     "CamPark"
+    ],
+    "delivery": [
+     "Foodpanda",
+     "foodpanda (weltweit)"
+    ],
+    "payment": [
+     "ABA Mobile",
+     "Bakong Tourists",
+     "PinRate (weltweit)",
+     "Revolut (weltweit)"
+    ],
+    "tourism": [
+     "Angkor-Pass (Siem Reap)",
+     "GetYourGuide (weltweit)",
+     "Klook (weltweit)",
+     "Tiqets (weltweit)",
+     "Viator (weltweit)",
+     "Visit Angkor (Siem Reap)",
+     "Visit Sihanoukville (Sihanoukville)"
+    ],
+    "safety": [
+     "Cambodia Tourist Police"
+    ],
+    "entry": [
+     "Cambodia e-Arrival",
+     "Cambodia eVisa"
+    ],
+    "maps": [
+     "Google Maps (weltweit)",
+     "Organic Maps",
+     "Rome2Rio (weltweit)"
+    ],
+    "flights": [
+     "Flightradar24 (weltweit)",
+     "Kiwi.com (weltweit)",
+     "Lufthansa (weltweit)",
+     "Miles & More (weltweit)",
+     "Priority Pass (weltweit)",
+     "Star Alliance (weltweit)",
+     "TripIt (weltweit)"
+    ],
+    "hotels": [
+     "Airbnb (weltweit)",
+     "Booking.com (weltweit)"
+    ],
+    "lgbtq": [
+     "Everywhere Is Queer (weltweit)",
+     "Grindr (weltweit)",
+     "QList (weltweit)",
+     "Rangr (weltweit)",
+     "Spartacus (weltweit)"
+    ],
+    "misc": [
+     "Techo Airport (Phnom Penh)",
+     "Telegram"
+    ]
+   }
+  },
+  {
+   "cc": "RS",
+   "name": "Serbien",
+   "staedte": [
+    "Belgrad",
+    "Nis",
+    "Novi Sad"
+   ],
+   "vorhanden": {
+    "transit": [
+     "Beograd Plus (Belgrad)",
+     "Moovit",
+     "NiCard JGP Niš (Nis)",
+     "Nsmart JGSP (Novi Sad)"
+    ],
+    "rail": [
+     "FlixBus (weltweit)",
+     "Srbijavoz"
+    ],
+    "taxi": [
+     "CAR:GO (Belgrad)",
+     "Naxis Taxi (Belgrad)",
+     "Yandex Go"
+    ],
+    "carshare": [
+     "Anygo (Belgrad)"
+    ],
+    "micro": [
+     "Bolt (Belgrad)"
+    ],
+    "parking": [
+     "Parking Servis (Belgrad)",
+     "nSpark (Novi Sad)"
+    ],
+    "delivery": [
+     "Glovo",
+     "Glovo (weltweit)",
+     "Mister D",
+     "Wolt",
+     "Wolt (weltweit)"
+    ],
+    "payment": [
+     "PinRate (weltweit)",
+     "Revolut (weltweit)"
+    ],
+    "tourism": [
+     "Belgrade Fortress (Cultural Places) (Belgrad)",
+     "GetYourGuide (weltweit)",
+     "Klook (weltweit)",
+     "Tiqets (weltweit)",
+     "Viator (weltweit)"
+    ],
+    "safety": [
+     "RHMZ Srbije"
+    ],
+    "entry": [],
+    "maps": [
+     "Google Maps (weltweit)",
+     "Rome2Rio (weltweit)",
+     "Yandex Maps"
     ],
     "flights": [
      "Flightradar24 (weltweit)",
@@ -1070,263 +706,153 @@
    }
   },
   {
-   "cc": "SK",
-   "name": "Slowakei",
+   "cc": "CL",
+   "name": "Chile",
    "staedte": [
-    "Bratislava",
-    "Košice",
-    "Žilina"
+    "Santiago",
+    "Valparaiso"
    ],
    "vorhanden": {
     "transit": [
-     "CYRIL",
-     "Cestovné poriadky CP",
-     "IDS BK (Bratislava)",
-     "IDS Plus (Žilina)",
-     "Ubian"
+     "Red Movilidad (Santiago)",
+     "Red Regional"
     ],
     "rail": [
-     "FlixBus",
+     "Busbud",
      "FlixBus (weltweit)",
-     "IDeme vlakom",
-     "Leo Express",
-     "RegioJet",
-     "Slovak Lines"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "HOPIN",
-     "Uber",
-     "Uber (weltweit)"
-    ],
-    "carshare": [
-     "HoppyGo"
-    ],
-    "micro": [
-     "BikeKIA (Žilina)",
-     "Slovnaft eBAJK (Bratislava)",
-     "Svišť (Bratislava)",
-     "nextbike"
-    ],
-    "parking": [
-     "EasyPark (Bratislava)",
-     "EasyPark (weltweit)",
-     "PAAS (Bratislava)"
-    ],
-    "delivery": [
-     "Bistro.sk",
-     "Bolt Food",
-     "Wolt",
-     "Wolt (weltweit)"
-    ],
-    "payment": [
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "Bratislava CARD (Bratislava)",
-     "GOPASS",
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Košice Region Tourism (Košice)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "Horská záchranná služba"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Mapy.com",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ],
-    "misc": [
-     "eznamka"
-    ]
-   }
-  },
-  {
-   "cc": "CO",
-   "name": "Kolumbien",
-   "staedte": [
-    "Bogota",
-    "Cali",
-    "Cartagena",
-    "Medellin"
-   ],
-   "vorhanden": {
-    "transit": [
-     "Cívica (Metro de Medellín) (Medellin)",
-     "MIO App (Cali)",
-     "MiBus Transcaribe (Cartagena)",
-     "TransMiApp (Bogota)"
-    ],
-    "rail": [
-     "Pinbus",
-     "redBus"
+     "Recorrido"
     ],
     "taxi": [
      "Cabify",
      "Cabify (weltweit)",
      "DiDi",
      "DiDi (weltweit)",
-     "Taxis Libres",
      "Uber",
      "Uber (weltweit)",
-     "Yango (weltweit)",
-     "inDrive",
      "inDrive (weltweit)"
     ],
     "carshare": [
-     "Localiza"
+     "Kinto Share Latam",
+     "Lolocar"
     ],
     "micro": [
-     "EnCicla (Medellin)",
-     "Tembici (Bogota)"
+     "Bike Itaú (Santiago)",
+     "Jet (Santiago)",
+     "Lime",
+     "Lime (weltweit)",
+     "Whoosh"
     ],
     "parking": [
-     "ZPP Bogotá (Bogota)"
+     "SimplePark (Santiago)"
+    ],
+    "delivery": [
+     "PedidosYa",
+     "Uber Eats",
+     "Uber Eats (weltweit)"
+    ],
+    "payment": [
+     "MACH",
+     "Mercado Pago",
+     "PinRate (weltweit)",
+     "Revolut (weltweit)"
+    ],
+    "tourism": [
+     "Chile Travel",
+     "GetYourGuide (weltweit)",
+     "Klook (weltweit)",
+     "Tiqets (weltweit)",
+     "VLPO Guía de Valparaíso (Valparaiso)",
+     "Viator (weltweit)"
+    ],
+    "safety": [
+     "MeteoChile"
+    ],
+    "entry": [
+     "Declaración Jurada Digital SAG/Aduana"
+    ],
+    "maps": [
+     "Google Maps (weltweit)",
+     "Rome2Rio (weltweit)"
+    ],
+    "flights": [
+     "Flightradar24 (weltweit)",
+     "Kiwi.com (weltweit)",
+     "Lufthansa (weltweit)",
+     "Miles & More (weltweit)",
+     "Priority Pass (weltweit)",
+     "Star Alliance (weltweit)",
+     "TripIt (weltweit)"
+    ],
+    "hotels": [
+     "Airbnb (weltweit)",
+     "Booking.com (weltweit)"
+    ],
+    "lgbtq": [
+     "Everywhere Is Queer (weltweit)",
+     "Grindr (weltweit)",
+     "QList (weltweit)",
+     "Rangr (weltweit)",
+     "Spartacus (weltweit)"
+    ]
+   }
+  },
+  {
+   "cc": "CR",
+   "name": "Costa Rica",
+   "staedte": [
+    "Cartago",
+    "Heredia",
+    "San José"
+   ],
+   "vorhanden": {
+    "transit": [
+     "Moovit",
+     "SINPE TP Pasajero"
+    ],
+    "rail": [
+     "Incofer CR",
+     "Passer"
+    ],
+    "taxi": [
+     "DiDi",
+     "DiDi (weltweit)",
+     "Uber",
+     "Uber (weltweit)",
+     "inDrive (weltweit)"
+    ],
+    "carshare": [
+     "Budget Costa Rica"
+    ],
+    "micro": [],
+    "parking": [
+     "Zona H (Heredia)",
+     "epark CR (Cartago)",
+     "epark CR (San José)"
     ],
     "delivery": [
      "DiDi Food",
-     "Rappi"
+     "PedidosYa",
+     "Uber Eats",
+     "Uber Eats (weltweit)"
     ],
     "payment": [
-     "Daviplata",
-     "Nequi",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "Colombia Travel",
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "Visit Bogotá (Bogota)"
-    ],
-    "safety": [
-     "IDEAM En Tu Mano"
-    ],
-    "entry": [
-     "Check-MIG"
-    ],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "RO",
-   "name": "Rumänien",
-   "staedte": [
-    "Bukarest",
-    "Cluj-Napoca",
-    "Sibiu",
-    "Timisoara"
-   ],
-   "vorhanden": {
-    "transit": [
-     "24pay",
-     "Info Transport Bucharest (Bukarest)",
-     "Tranzy (Cluj-Napoca)"
-    ],
-    "rail": [
-     "CFR Călători",
-     "FlixBus",
-     "FlixBus (weltweit)"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "Star Taxi",
-     "Uber",
-     "Uber (weltweit)",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "BlaBlaCar",
-     "Getmancar"
-    ],
-    "micro": [
-     "Lime (Bukarest)",
-     "Lime (weltweit)",
-     "nextbike"
-    ],
-    "parking": [
-     "Tpark (Timisoara)"
-    ],
-    "delivery": [
-     "Bolt Food",
-     "Glovo",
-     "Glovo (weltweit)",
-     "Wolt",
-     "Wolt (weltweit)"
-    ],
-    "payment": [
-     "BT Pay",
      "PinRate (weltweit)",
      "Revolut (weltweit)",
-     "RoPay"
+     "SINPE Móvil"
     ],
     "tourism": [
      "GetYourGuide (weltweit)",
      "Klook (weltweit)",
-     "Sibiu City App (Sibiu)",
+     "Naturaleza Mágica",
      "Tiqets (weltweit)",
      "Viator (weltweit)"
     ],
     "safety": [
-     "DSU"
+     "Emergencias 9-1-1 CR"
     ],
     "entry": [],
     "maps": [
      "Google Maps (weltweit)",
-     "Mapy.com",
-     "Munții Noștri",
      "Rome2Rio (weltweit)",
      "Waze"
     ],
@@ -1353,263 +879,61 @@
    }
   },
   {
-   "cc": "FI",
-   "name": "Finnland",
+   "cc": "IQ",
+   "name": "Irak",
    "staedte": [
-    "Helsinki",
-    "Tampere",
-    "Turku"
+    "Baghdad",
+    "Erbil",
+    "Karbala"
    ],
    "vorhanden": {
-    "transit": [
-     "Föli (Turku)",
-     "HSL (Helsinki)",
-     "Nysse Mobiili (Tampere)",
-     "Waltti Mobile"
-    ],
-    "rail": [
-     "FlixBus (weltweit)",
-     "Matkahuolto Matkat",
-     "Omio (weltweit)",
-     "VR Matkalla"
-    ],
+    "transit": [],
+    "rail": [],
     "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "Uber",
-     "Uber (weltweit)"
-    ],
-    "carshare": [
-     "24Rent"
-    ],
-    "micro": [
-     "Bird (Helsinki)",
-     "Donkey Republic (Helsinki)",
-     "Dott (Helsinki)",
-     "Dott (weltweit)",
-     "Joe Scooter",
-     "Ryde (Helsinki)",
-     "Voi (Helsinki)",
-     "Voi (weltweit)"
-    ],
-    "parking": [
-     "EasyPark",
-     "EasyPark (weltweit)",
-     "Moovy"
-    ],
-    "delivery": [
-     "Bolt Food",
-     "TableOnline",
-     "Uber Eats",
-     "Uber Eats (weltweit)",
-     "Wolt",
-     "Wolt (weltweit)"
-    ],
-    "payment": [
-     "MobilePay",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "112 Suomi",
-     "FMI Weather"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Luontoon",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ],
-    "misc": [
-     "Cluby"
-    ]
-   }
-  },
-  {
-   "cc": "MA",
-   "name": "Marokko",
-   "staedte": [
-    "Casablanca",
-    "Marrakesch",
-    "Rabat",
-    "Tangier"
-   ],
-   "vorhanden": {
-    "transit": [
-     "Blassty (Rabat)",
-     "CASABUS (Casablanca)",
-     "Casatramway (Casablanca)",
-     "Mobi4U",
-     "Tram Mobile (Rabat)"
-    ],
-    "rail": [
-     "ONCF Voyages",
-     "Tanger Med Passenger Journey (Tangier)",
-     "marKoub.ma"
-    ],
-    "taxi": [
-     "Bolt (Marrakesch)",
-     "Bolt (weltweit)",
+     "Alo TukTuk (Baghdad)",
+     "Amin",
+     "Baly",
      "Careem",
      "Careem (weltweit)",
-     "Uber",
-     "Uber (weltweit)",
-     "Yango (weltweit)",
-     "inDrive",
      "inDrive (weltweit)"
     ],
     "carshare": [
-     "GetRentacar"
+     "Sixt"
     ],
-    "micro": [
-     "Allobike (Casablanca)"
-    ],
+    "micro": [],
     "parking": [],
     "delivery": [
-     "Bolt Food (Marrakesch)",
-     "Glovo",
-     "Glovo (weltweit)",
-     "Kooul"
+     "Lezzoo",
+     "talabat"
     ],
     "payment": [
-     "Orange Money Maroc",
+     "First Iraqi Bank (FIB)",
      "PinRate (weltweit)",
      "Revolut (weltweit)",
-     "inwi money"
+     "ZainCash"
     ],
     "tourism": [
      "GetYourGuide (weltweit)",
      "Klook (weltweit)",
      "Tiqets (weltweit)",
      "Viator (weltweit)",
-     "Visit Marrakech & Region (Marrakesch)",
-     "Visit Morocco"
+     "Visitor of Imam Hussain (Karbala)"
     ],
     "safety": [
-     "Maroc Météo DGM"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "TH",
-   "name": "Thailand",
-   "staedte": [
-    "Bangkok",
-    "Chiang Mai",
-    "Pattaya",
-    "Phuket"
-   ],
-   "vorhanden": {
-    "transit": [
-     "Phuket OneMap (Phuket)",
-     "THE SKYTRAINs (Bangkok)",
-     "ViaBus"
-    ],
-    "rail": [
-     "12Go",
-     "SRT D-Ticket"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "Grab",
-     "Grab (weltweit)",
-     "MuvMi (Bangkok)",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "HAUP"
-    ],
-    "micro": [
-     "Anywheel"
-    ],
-    "parking": [
-     "MRTA PARKING (Bangkok)"
-    ],
-    "delivery": [
-     "LINE MAN",
-     "Robinhood",
-     "ShopeeFood"
-    ],
-    "payment": [
-     "PinRate (weltweit)",
-     "PromptPay (Bank-Apps)",
-     "Revolut (weltweit)",
-     "TAGTHAi",
-     "TrueMoney"
-    ],
-    "tourism": [
-     "Chiang Mai Pass (TAGTHAi) (Chiang Mai)",
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Pattaya Pass (TAGTHAi) (Pattaya)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "Thailand Tourist Police"
+     "Iraqi Meteorological Organization"
     ],
     "entry": [
-     "Thailand Digital Arrival Card (TDAC)"
+     "Irak E-Visum (evisa.iq)",
+     "Kurdistan E-Visum (visit.gov.krd)"
     ],
     "maps": [
      "Google Maps (weltweit)",
      "Rome2Rio (weltweit)"
     ],
     "flights": [
+     "Erbil International Airport (Erbil)",
      "Flightradar24 (weltweit)",
+     "Iraqi Airways",
      "Kiwi.com (weltweit)",
      "Lufthansa (weltweit)",
      "Miles & More (weltweit)",
@@ -1622,189 +946,6 @@
      "Booking.com (weltweit)"
     ],
     "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ],
-    "misc": [
-     "LINE"
-    ]
-   }
-  },
-  {
-   "cc": "CY",
-   "name": "Zypern",
-   "staedte": [
-    "Larnaca",
-    "Limassol",
-    "Nicosia",
-    "Paphos"
-   ],
-   "vorhanden": {
-    "transit": [
-     "Pame App"
-    ],
-    "rail": [
-     "Cyprus Bus"
-    ],
-    "taxi": [
-     "Alfa Taxi",
-     "Bolt",
-     "Bolt (weltweit)",
-     "CabCY",
-     "Taxi One",
-     "VIPS Taxi",
-     "VivaCy Taxi",
-     "inDrive",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "RideNow"
-    ],
-    "micro": [
-     "E-run Cyprus",
-     "Pick'n Click (Larnaca)",
-     "Samokat",
-     "nextbike"
-    ],
-    "parking": [
-     "EasyPark (weltweit)",
-     "Pafos Smart Parking (Paphos)",
-     "Smart Parking Nicosia City (Nicosia)"
-    ],
-    "delivery": [
-     "Bolt Food",
-     "Foody",
-     "Wolt",
-     "Wolt (weltweit)"
-    ],
-    "payment": [
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "Visit Cyprus"
-    ],
-    "safety": [
-     "SafeCY"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "MY",
-   "name": "Malaysia",
-   "staedte": [
-    "George Town",
-    "Johor Bahru",
-    "Kuala Lumpur"
-   ],
-   "vorhanden": {
-    "transit": [
-     "GoKL (Kuala Lumpur)",
-     "MyJohor Transport (Johor Bahru)",
-     "MyRapid PULSE",
-     "Rapid On-Demand (George Town)"
-    ],
-    "rail": [
-     "KITS Style",
-     "redBus"
-    ],
-    "taxi": [
-     "AirAsia MOVE",
-     "Bolt (Kuala Lumpur)",
-     "Bolt (weltweit)",
-     "Grab",
-     "Grab (weltweit)",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "GoCar"
-    ],
-    "micro": [
-     "Beam"
-    ],
-    "parking": [
-     "EZ KL Smart Park (Kuala Lumpur)",
-     "Flexi Parking",
-     "Penang Smart Parking (George Town)"
-    ],
-    "delivery": [
-     "Shopee",
-     "foodpanda",
-     "foodpanda (weltweit)"
-    ],
-    "payment": [
-     "Boost",
-     "MAE by Maybank2u",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)",
-     "Touch 'n Go eWallet"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Penang Hill Hiking Trails (George Town)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "MyDIMS",
-     "SaveME999"
-    ],
-    "entry": [
-     "MyNIISe"
-    ],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)",
-     "Waze"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Blued",
      "Everywhere Is Queer (weltweit)",
      "Grindr",
      "Grindr (weltweit)",
@@ -1815,454 +956,66 @@
    }
   },
   {
-   "cc": "PT",
-   "name": "Portugal",
+   "cc": "IS",
+   "name": "Island",
    "staedte": [
-    "Faro",
-    "Lissabon",
-    "Porto"
+    "Akureyri",
+    "Reykjavík"
    ],
    "vorhanden": {
     "transit": [
-     "Anda (Porto)",
-     "CARRISway (Lissabon)",
-     "Carris Metropolitana (Lissabon)",
-     "Citymapper (Lissabon)",
-     "Vamus Algarve (Faro)",
-     "navegante (Lissabon)"
+     "Klappið (Reykjavík)"
     ],
     "rail": [
-     "CP Comboios de Portugal",
-     "FlixBus (weltweit)",
-     "Omio (weltweit)",
-     "Rede Expressos"
+     "Herjólfur"
     ],
     "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "IzzyMove",
-     "Uber",
-     "Uber (weltweit)"
+     "Hopp",
+     "Hreyfill (Reykjavík)"
     ],
     "carshare": [
-     "Free2Move"
+     "Zipcar Iceland (Reykjavík)"
     ],
     "micro": [
-     "Bird",
-     "Gira (Lissabon)",
-     "Lime",
-     "Lime (weltweit)",
-     "nextbike"
+     "Bolt (Reykjavík)",
+     "Donkey Republic (Reykjavík)",
+     "Hopp (Akureyri)",
+     "Hopp (Reykjavík)",
+     "Zolo (Reykjavík)"
     ],
     "parking": [
+     "EasyPark",
+     "EasyPark (Akureyri)",
      "EasyPark (weltweit)",
-     "ePark EMEL (Lissabon)"
+     "Parka"
     ],
     "delivery": [
-     "Bolt Food",
-     "Glovo",
-     "Glovo (weltweit)",
-     "TheFork",
-     "Uber Eats",
-     "Uber Eats (weltweit)"
-    ],
-    "payment": [
-     "MB WAY",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Lisboa Card (Lissabon)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "VisitPortugal"
-    ],
-    "safety": [
-     "ProCiv Madeira"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Moovit",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "CZ",
-   "name": "Tschechien",
-   "staedte": [
-    "Brno",
-    "Plzen",
-    "Prag"
-   ],
-   "vorhanden": {
-    "transit": [
-     "DPMBinfo (Brno)",
-     "PID Lítačka (Prag)",
-     "Virtuální Plzeňská karta (Plzen)"
-    ],
-    "rail": [
-     "FlixBus (weltweit)",
-     "IDOS",
-     "Leo Express",
-     "Můj vlak",
-     "Omio (weltweit)",
-     "RegioJet"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (weltweit)",
-     "Liftago",
-     "Uber",
-     "Uber (weltweit)"
-    ],
-    "carshare": [
-     "Anytime Carsharing CZ",
-     "Bolt Drive (Prag)"
-    ],
-    "micro": [
-     "Lime (weltweit)",
-     "Nextbike (Prag)",
-     "Rekola (Prag)"
-    ],
-    "parking": [
-     "EasyPark (Prag)",
-     "EasyPark (weltweit)",
-     "ParkSimply (Prag)",
-     "SEJF",
-     "citymove (Prag)"
-    ],
-    "delivery": [
-     "Bolt Food",
-     "Wolt",
-     "Wolt (weltweit)",
-     "foodora"
-    ],
-    "payment": [
-     "PinRate (weltweit)",
-     "Qerko",
-     "Revolut (weltweit)"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Prague Visitor Pass (Prag)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)"
-    ],
-    "safety": [
-     "Záchranka"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Mapy.com",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "HU",
-   "name": "Ungarn",
-   "staedte": [
-    "Budapest",
-    "Debrecen",
-    "Pecs"
-   ],
-   "vorhanden": {
-    "transit": [
-     "BudapestGO (Budapest)",
-     "Közlekedési Mobiljegy",
-     "MyDKV (Debrecen)",
-     "TükeBuszON+ (Pecs)"
-    ],
-    "rail": [
-     "FlixBus (weltweit)",
-     "MÁVPlusz",
-     "Omio (weltweit)"
-    ],
-    "taxi": [
-     "Bolt",
-     "Bolt (Budapest)",
-     "Bolt (weltweit)",
-     "Uber (Budapest)",
-     "Uber (weltweit)"
-    ],
-    "carshare": [
-     "GreenGo (Budapest)",
-     "MOL Limo (Budapest)"
-    ],
-    "micro": [
-     "Donkey Republic (Budapest)",
-     "Dott (weltweit)",
-     "Lime (Budapest)",
-     "Lime (weltweit)",
-     "MOL Bubi (Budapest)"
-    ],
-    "parking": [
-     "EasyPark (weltweit)",
-     "MVM Mobiliti (Budapest)",
-     "Parking Hungary (Budapest)",
-     "Parkl",
-     "Simple"
-    ],
-    "delivery": [
-     "Bolt Food (Budapest)",
-     "Wolt",
-     "Wolt (weltweit)",
-     "foodora"
-    ],
-    "payment": [
-     "PinRate (weltweit)",
-     "Revolut",
-     "Revolut (weltweit)",
-     "Wise"
-    ],
-    "tourism": [
-     "Budapest Card (Budapest)",
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "Visit Hungary"
-    ],
-    "safety": [
-     "VÉSZ"
-    ],
-    "entry": [],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ]
-   }
-  },
-  {
-   "cc": "VN",
-   "name": "Vietnam",
-   "staedte": [
-    "Hanoi",
-    "Ho Chi Minh City",
-    "Hue"
-   ],
-   "vorhanden": {
-    "transit": [
-     "HCMC Metro HURC (Ho Chi Minh City)",
-     "Hanoi Metro (Hanoi)"
-    ],
-    "rail": [
-     "Vexere",
-     "Vé tàu (DSVN)"
-    ],
-    "taxi": [
-     "Be",
-     "Grab",
-     "Grab (weltweit)",
-     "GrabFood",
-     "Green SM",
-     "Mai Linh Taxi",
-     "Vinasun Taxi",
-     "beFood",
-     "inDrive (weltweit)"
-    ],
-    "carshare": [
-     "BonbonCar",
-     "Mioto"
-    ],
-    "micro": [
-     "TNGo (Hanoi)",
-     "TNGo-HCM (Ho Chi Minh City)"
-    ],
-    "parking": [
-     "MyParking (Ho Chi Minh City)"
-    ],
-    "delivery": [
-     "ShopeeFood"
-    ],
-    "payment": [
-     "MoMo",
-     "Moreta Pay",
-     "PinRate (weltweit)",
-     "Revolut (weltweit)",
-     "VNPAY",
-     "ZaloPay"
-    ],
-    "tourism": [
-     "GetYourGuide (weltweit)",
-     "Klook (weltweit)",
-     "Tiqets (weltweit)",
-     "Viator (weltweit)",
-     "Visit Huế (Hue)"
-    ],
-    "safety": [
-     "NCHMF Vietnam"
-    ],
-    "entry": [
-     "Vietnam E-Visa"
-    ],
-    "maps": [
-     "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)"
-    ],
-    "flights": [
-     "Flightradar24 (weltweit)",
-     "Kiwi.com (weltweit)",
-     "Lufthansa (weltweit)",
-     "Miles & More (weltweit)",
-     "Priority Pass (weltweit)",
-     "Star Alliance (weltweit)",
-     "TripIt (weltweit)"
-    ],
-    "hotels": [
-     "Airbnb (weltweit)",
-     "Booking.com (weltweit)"
-    ],
-    "lgbtq": [
-     "Everywhere Is Queer (weltweit)",
-     "Grindr (weltweit)",
-     "QList (weltweit)",
-     "Rangr (weltweit)",
-     "Spartacus (weltweit)"
-    ],
-    "misc": [
-     "Zalo"
-    ]
-   }
-  },
-  {
-   "cc": "IL",
-   "name": "Israel",
-   "staedte": [
-    "Jerusalem",
-    "Tel Aviv"
-   ],
-   "vorhanden": {
-    "transit": [
-     "ANY WAY",
-     "HaTachana",
-     "Moovit",
-     "Rav-Kav Online",
-     "Rav-Pass",
-     "Slupark (Jerusalem)",
-     "egg"
-    ],
-    "rail": [
-     "Israel Railways"
-    ],
-    "taxi": [
-     "Gett",
-     "Uber (weltweit)",
-     "Yango"
-    ],
-    "carshare": [
-     "GoTo (CAR2GO) Shared Mobility",
-     "Share - Israel Car Sharing"
-    ],
-    "micro": [
-     "Bird (Tel Aviv)",
-     "Dott (Tel Aviv)",
-     "Dott (weltweit)",
-     "Lime (Tel Aviv)",
-     "Lime (weltweit)",
-     "Metrofun (Tel Aviv)",
-     "Scotty (Tel Aviv)"
-    ],
-    "parking": [
-     "Cello",
-     "Pango"
-    ],
-    "delivery": [
-     "10bis",
-     "Mishloha",
+     "Aha",
      "Wolt",
      "Wolt (weltweit)"
     ],
     "payment": [
-     "Bit",
-     "PayBox",
+     "Aur",
      "PinRate (weltweit)",
      "Revolut (weltweit)"
     ],
     "tourism": [
+     "AuroraReach",
      "GetYourGuide (weltweit)",
      "Klook (weltweit)",
-     "Tel Aviv City Card (Tel Aviv)",
      "Tiqets (weltweit)",
-     "Viator (weltweit)"
+     "Viator (weltweit)",
+     "hello aurora"
     ],
     "safety": [
-     "Home Front Command",
-     "Red Alert (Nofzam)"
+     "112 Iceland",
+     "SafeTravel",
+     "Veður"
     ],
-    "entry": [
-     "ETA-IL"
-    ],
+    "entry": [],
     "maps": [
      "Google Maps (weltweit)",
-     "Rome2Rio (weltweit)",
-     "Waze"
+     "Rome2Rio (weltweit)"
     ],
     "flights": [
      "Flightradar24 (weltweit)",

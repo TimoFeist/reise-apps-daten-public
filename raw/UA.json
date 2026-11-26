@@ -281,6 +281,186 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/ukraine"
+  },
+  {
+   "name": "CityBus Odesa",
+   "cat": "transit",
+   "pkg": "ua.in.citybus.odesa",
+   "note": "Öffentlichen Verkehr in Odessa live auf der Karte verfolgen",
+   "city": "Odesa",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.in.citybus.odesa"
+  },
+  {
+   "name": "CityBus Kharkiv",
+   "cat": "transit",
+   "pkg": "ua.in.citybus.kharkiv",
+   "note": "Öffentlicher Verkehr in Charkiw live auf der Karte",
+   "city": "Kharkiv",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.in.citybus.kharkiv"
+  },
+  {
+   "name": "D-transport",
+   "cat": "transit",
+   "pkg": "com.icitydtransport",
+   "note": "Offizieller Routenplaner für Tram und Trolleybus in Dnipro",
+   "city": "Dnipro",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.icitydtransport"
+  },
+  {
+   "name": "BUSFOR",
+   "cat": "rail",
+   "pkg": "com.busfor.Busfor",
+   "note": "Fernbus-Tickets, gehört zu BlaBlaCar",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.busfor.Busfor"
+  },
+  {
+   "name": "BlaBlaCar",
+   "cat": "rail",
+   "pkg": "com.comuto",
+   "note": "Mitfahrgelegenheiten und Bustickets",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.comuto"
+  },
+  {
+   "name": "KLR Bus",
+   "cat": "rail",
+   "pkg": "com.klr.clients",
+   "note": "Fernbusse nach Europa, E-Ticket und Bus live verfolgen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.klr.clients"
+  },
+  {
+   "name": "Tickets.ua",
+   "cat": "rail",
+   "pkg": "ua.tickets.gd",
+   "note": "Buchungsportal für Reisetickets",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.tickets.gd"
+  },
+  {
+   "name": "OnTaxi",
+   "cat": "taxi",
+   "pkg": "ua.com.ontaxi.client",
+   "note": "Ukrainischer Taxidienst in über 100 Städten, Preis vorab",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.com.ontaxi.client"
+  },
+  {
+   "name": "Opti Taxi",
+   "cat": "taxi",
+   "pkg": "ua.otaxi.client",
+   "note": "Landesweiter Taxidienst, Anmeldung per SMS-Code",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.otaxi.client"
+  },
+  {
+   "name": "Taxi 838",
+   "cat": "taxi",
+   "pkg": "com.mobox.taxi",
+   "note": "Taxi-Zentrale 838, in allen Regionen verfügbar",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mobox.taxi"
+  },
+  {
+   "name": "SHARK Taxi",
+   "cat": "taxi",
+   "pkg": "com.shark.taxi.client",
+   "note": "Taxi online oder per Telefon bestellen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.shark.taxi.client"
+  },
+  {
+   "name": "JET Ride",
+   "cat": "micro",
+   "pkg": "jet.ua.app",
+   "note": "E-Scooter-Verleih, Karte in der App hinterlegen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jet.ua.app"
+  },
+  {
+   "name": "E-wings",
+   "cat": "micro",
+   "pkg": "ua.com.ewings.app",
+   "note": "Verleih von E-Scootern und E-Bikes",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.com.ewings.app"
+  },
+  {
+   "name": "Silpo",
+   "cat": "delivery",
+   "pkg": "ua.silpo.android",
+   "note": "Supermarktkette mit Lebensmittel- und Essenslieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.silpo.android"
+  },
+  {
+   "name": "Zakaz.ua",
+   "cat": "delivery",
+   "pkg": "ua.zakaz.android",
+   "note": "Lebensmittel und Essen liefern lassen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.zakaz.android"
+  },
+  {
+   "name": "VARUS",
+   "cat": "delivery",
+   "pkg": "ua.omega.clientapp.android",
+   "note": "Supermarktkette mit Lieferung von Lebensmitteln",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.omega.clientapp.android"
+  },
+  {
+   "name": "ATB-Market",
+   "cat": "shopping",
+   "pkg": "com.atb.atbmarket",
+   "note": "Große Discounterkette: Angebote und Filialen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.atb.atbmarket"
+  },
+  {
+   "name": "ROZETKA",
+   "cat": "shopping",
+   "pkg": "ua.com.rozetka.shop",
+   "note": "Großer Onlinehändler und Marktplatz der Ukraine",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.com.rozetka.shop"
+  },
+  {
+   "name": "Epicentr",
+   "cat": "shopping",
+   "pkg": "ua.epicentrk",
+   "note": "Große Bau- und Warenhauskette mit Onlineshop",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ua.epicentrk"
+  },
+  {
+   "name": "Nova Post",
+   "cat": "misc",
+   "pkg": "eu.novapost",
+   "note": "Paketdienst Nova Poshta: Sendungen verfolgen und abholen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=eu.novapost"
+  },
+  {
+   "name": "Tabletki.ua",
+   "cat": "misc",
+   "pkg": "com.tabletkiua.tabletki",
+   "note": "Medikamente in Apotheken suchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tabletkiua.tabletki"
+  },
+  {
+   "name": "Bukovel 24",
+   "cat": "tourism",
+   "pkg": "com.bukovel24",
+   "note": "Offizielle App des Skigebiets Bukovel: Planung und Buchung",
+   "city": "Bukovel",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bukovel24"
   }
  ]
 }
