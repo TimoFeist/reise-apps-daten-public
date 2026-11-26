@@ -1,6 +1,6 @@
 {
- "vc": 61,
- "vn": "1.0.61",
+ "vc": 62,
+ "vn": "1.0.62",
  "changes": [
   "⭐ Termine merken: Stern antippen, am Vortag kommt eine Erinnerung, dazu der Filter „Gemerkt“",
   "📝 Fehlt ein Termin? Über „Termin vorschlagen“ kannst du ihn uns schicken",
@@ -8,7 +8,7 @@
   "📱 Neues Widget „Termine in deiner Nähe“ für den Startbildschirm",
   "⌨️ Im Chat verdeckt die Tastatur das Eingabefeld nicht mehr"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=c18b8514752a532a",
- "size": 3954261,
- "sha256": "c18b8514752a532abc7df3550d06dfeb83e365d24be6d2f3959861d959a5eeaa"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=805eead5bb8a17b8",
+ "size": 3955489,
+ "sha256": "805eead5bb8a17b887b383a79fc15817f480ed4cca662e6e7d3eef9d8ae152e7"
 }
