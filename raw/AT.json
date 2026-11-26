@@ -299,6 +299,15 @@
    "url": "https://warnungen.zamg.at/wsapp/",
    "nostore": true,
    "src": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/katastrophenfaelle/2/Seite.29500315"
+  },
+  {
+   "name": "Bluecode",
+   "cat": "payment",
+   "pkg": "com.spt.bluecode",
+   "note": "Bezahlen per Barcode, etwa bei Spar und Billa",
+   "use": "limited",
+   "req": "Österreichisches oder deutsches Bankkonto nötig",
+   "src": "https://bluecode.com/en/pages/bluecode-app"
   }
  ],
  "replace": [

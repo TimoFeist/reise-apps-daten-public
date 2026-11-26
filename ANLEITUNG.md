@@ -64,6 +64,14 @@ Dieselbe Action sucht zu jeder App mit Paketname die Adresse ihres Logos auf der
 
 Dieselbe tägliche Action liest die offene Liste aller GBFS-Systeme von MobilityData (`tools/gbfs.py`, Lizenz CC BY 3.0, nach `info/gbfs.json`). Aus dem Feed jedes Betreibers kommen nur Name, Ort, Fahrzeugarten und die offizielle Android-App; jeder Paketname wird bei Google Play geprüft. `merge_raw.py` (`add_gbfs`) baut daraus bei jedem Lauf neu Einträge mit `"auto": "gbfs"`: Kategorie `micro` (bei reinen Auto-Systemen `carshare` mit Hinweis Führerscheinprüfung), in der Stadt, wenn das System nur in einer unserer Städte fährt, sonst auf Landesebene mit den Orten in `note` (höchstens 12 je Land, Systeme mit vielen Orten zuerst). Steht die App im Land schon (gleicher Paketname), passiert nichts; weltweite Apps mit Länderliste (z. B. Lime, Voi, Bolt) bekommen nur das Land dazu. `auto`-Einträge nie in `raw/` kopieren oder von Hand ändern; Korrekturen als normaler Eintrag mit gleichem `pkg` in `raw/<ISO>.json`, der hat Vorrang.
 
+## Lücken füllen (wöchentlich, Aufgabe „laf-luecken-fuellen“)
+
+`python3 tools/luecken.py` schreibt alle Länder mit einer leeren Kernkategorie nach `queue/luecken.json` (transit, rail, taxi, carshare, micro, parking, delivery, payment, tourism, safety, entry; `entry` nicht für EU/EWR/Schweiz). Weltweite Apps zählen nur mit Länderliste. Länder mit vielen Einträgen kommen zuerst. Wer eine Lücke ohne Ergebnis gesucht hat, trägt sie als leer ein; sie ruht dann 120 Tage (`info/luecken-versuche.json`).
+
+Ablauf je Lauf: Liste erzeugen, die ersten etwa 120 Lücken recherchieren (Regeln wie oben: offizielle Quellen, Paketname bei Google Play geprüft, `use`/`req` ehrlich, `note` max. 60 Zeichen ohne Gedankenstriche, nur iPhone = weglassen), Ergebnis als
+`{"apps": [{"cc","name","cat","pkg","note","city","use","req","url","nostore","src"}], "leer": [{"cc","cat","notiz"}]}`
+speichern und mit `python3 tools/luecken_einspielen.py <datei>` einspielen. Das Werkzeug prüft die Einträge, schreibt `raw/<ISO>.json` und merkt sich die Versuche. Danach `merge_raw.py`, `tools/luecken.py` neu, committen und pushen.
+
 ## Weltweite Apps (Land „WW“)
 
 Apps unter `WW` erscheinen in der App zusätzlich bei jedem Land, in dem sie funktionieren:

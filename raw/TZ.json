@@ -137,6 +137,15 @@
    "src": "https://www.norway.no/en/tanzania/norway-tanzania/news-events/mandatory-travel-insurance/",
    "url": "https://inbound.nicinsurance.co.tz/",
    "nostore": true
+  },
+  {
+   "name": "Tanzania Meteorological Authority",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+   "use": "ok",
+   "url": "https://www.meteo.go.tz/",
+   "nostore": true,
+   "src": "https://www.meteo.go.tz/"
   }
  ]
 }

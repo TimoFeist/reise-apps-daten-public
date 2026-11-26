@@ -89,6 +89,24 @@
    "use": "ok",
    "req": "",
    "src": "https://play.google.com/store/apps/details?id=ott.ttplus"
+  },
+  {
+   "name": "Isle of Man Steam Packet",
+   "cat": "rail",
+   "note": "Fähren nach England und Irland buchen",
+   "use": "ok",
+   "url": "https://www.steam-packet.com",
+   "nostore": true,
+   "src": "https://www.steam-packet.com"
+  },
+  {
+   "name": "Isle of Man Wetter",
+   "cat": "safety",
+   "note": "Vorhersagen des Ronaldsway Met Office",
+   "use": "ok",
+   "url": "https://gov.im/weather",
+   "nostore": true,
+   "src": "https://www.visitisleofman.com/traveltrade/resources/toolkit/useful-information"
   }
  ],
  "replace": [

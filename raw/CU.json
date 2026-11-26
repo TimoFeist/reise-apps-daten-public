@@ -164,6 +164,15 @@
    "url": "http://www.insmet.cu/",
    "nostore": true,
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kubasicherheit-212208"
+  },
+  {
+   "name": "Cuba Travel",
+   "cat": "tourism",
+   "note": "Offizielles Tourismusportal Kubas",
+   "use": "ok",
+   "url": "https://www.cuba.travel/en",
+   "nostore": true,
+   "src": "https://www.frommers.com/destinations/cuba/planning-a-trip/"
   }
  ]
 }

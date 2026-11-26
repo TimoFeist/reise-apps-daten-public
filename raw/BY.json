@@ -7,17 +7,164 @@
  "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/201904",
  "discontinued": [],
  "apps": [
-  {"name": "Yandex Go", "cat": "taxi", "pkg": "ru.yandex.taxi", "ess": true, "note": "Führender Fahrdienst im Land, Uber und Bolt fehlen", "city": "", "use": "limited", "req": "Ausländische Karten nur eingeschränkt nutzbar, Barzahlung einplanen", "src": "https://cellesim.com/de/faq/funktionieren-uber-bolt-oder-andere-fahrdienst-apps-wie-yandex-go-in-m-2498"},
-  {"name": "Taxi 135", "cat": "taxi", "pkg": "", "ess": false, "note": "Taxi in Minsk und Gomel bestellen, auch Barzahlung", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id768636008?l=en-us"},
-  {"name": "BCh. My Train", "cat": "rail", "pkg": "", "ess": true, "note": "Offizielle Bahn-App mit Fahrplan und Tickets", "city": "", "use": "limited", "req": "Englische Version laut Entwickler fehlerhaft, Zahlung mit EU-Karte unsicher", "src": "https://apps.apple.com/by/app/bc-my-train/id1489334970"},
-  {"name": "Transport BY", "cat": "transit", "pkg": "", "ess": false, "note": "Busse und Trams live verfolgen, Routen planen", "city": "", "use": "ok", "req": "", "src": "https://devby.io/news/iba-transport-by"},
-  {"name": "Anytime", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing pro Minute, Fahrten im ganzen Land", "city": "", "use": "limited", "req": "Ab 19 Jahren, über 1 Jahr Fahrpraxis, Bankkarte verknüpfen", "src": "https://apps.apple.com/lk/app/id1231153647?l=en-gb"},
-  {"name": "Hello", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing per App nur in Minsk", "city": "Minsk", "use": "limited", "req": "Dokumentprüfung in der App und bestätigte Telefonnummer nötig", "src": "https://dtf.ru/travel/5006446-karsharing-v-gomele-dlya-rossiyan"},
-  {"name": "Vezukha", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing Везуха nur in Minsk", "city": "Minsk", "use": "limited", "req": "Dokumentprüfung in der App und bestätigte Telefonnummer nötig", "src": "https://dtf.ru/travel/5006446-karsharing-v-gomele-dlya-rossiyan"},
-  {"name": "Whoosh", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter leihen in Minsk, nur in der Saison", "city": "Minsk", "use": "limited", "req": "Saison endet Mitte November, Neustart im Frühjahr", "src": "https://myfin.by/article/belarus/s-16-noabra-elektrosamokaty-v-minske-usli-na-zimovku-49760"},
-  {"name": "Eleven", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter und E-Bikes leihen in Minsk", "city": "Minsk", "use": "limited", "req": "Saison endet Mitte November, Neustart im Frühjahr", "src": "https://myfin.by/article/belarus/s-16-noabra-elektrosamokaty-v-minske-usli-na-zimovku-49760"},
-  {"name": "Delivio", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen und Einkäufe in Minsk, sonst Abholung", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id1496620849"},
-  {"name": "M-Belarusbank", "cat": "payment", "pkg": "", "ess": false, "note": "Bank-App, in Minsk auch Fahrscheine per QR-Code", "city": "", "use": "no", "req": "Konto bei der Belarusbank nötig", "src": "https://myfin.by/article/belarus/v-minske-na-dvuh-marsrutah-poavitsa-novyj-sposob-oplaty-proezda-kak-on-rabotaet-49633"},
-  {"name": "Tinder", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Dating-App, in Belarus abgeschaltet", "city": "", "use": "no", "req": "Seit 15. Februar 2024 in Belarus nicht mehr verfügbar", "src": "https://www.help.tinder.com/hc/en-us/articles/22962934026381-Tinder-Services-Ended-in-Belarus"}
+  {
+   "name": "Yandex Go",
+   "cat": "taxi",
+   "pkg": "ru.yandex.taxi",
+   "ess": true,
+   "note": "Führender Fahrdienst im Land, Uber und Bolt fehlen",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten nur eingeschränkt nutzbar, Barzahlung einplanen",
+   "src": "https://cellesim.com/de/faq/funktionieren-uber-bolt-oder-andere-fahrdienst-apps-wie-yandex-go-in-m-2498"
+  },
+  {
+   "name": "Taxi 135",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi in Minsk und Gomel bestellen, auch Barzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id768636008?l=en-us"
+  },
+  {
+   "name": "BCh. My Train",
+   "cat": "rail",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle Bahn-App mit Fahrplan und Tickets",
+   "city": "",
+   "use": "limited",
+   "req": "Englische Version laut Entwickler fehlerhaft, Zahlung mit EU-Karte unsicher",
+   "src": "https://apps.apple.com/by/app/bc-my-train/id1489334970"
+  },
+  {
+   "name": "Transport BY",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busse und Trams live verfolgen, Routen planen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://devby.io/news/iba-transport-by"
+  },
+  {
+   "name": "Anytime",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing pro Minute, Fahrten im ganzen Land",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 19 Jahren, über 1 Jahr Fahrpraxis, Bankkarte verknüpfen",
+   "src": "https://apps.apple.com/lk/app/id1231153647?l=en-gb"
+  },
+  {
+   "name": "Hello",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing per App nur in Minsk",
+   "city": "Minsk",
+   "use": "limited",
+   "req": "Dokumentprüfung in der App und bestätigte Telefonnummer nötig",
+   "src": "https://dtf.ru/travel/5006446-karsharing-v-gomele-dlya-rossiyan"
+  },
+  {
+   "name": "Vezukha",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing Везуха nur in Minsk",
+   "city": "Minsk",
+   "use": "limited",
+   "req": "Dokumentprüfung in der App und bestätigte Telefonnummer nötig",
+   "src": "https://dtf.ru/travel/5006446-karsharing-v-gomele-dlya-rossiyan"
+  },
+  {
+   "name": "Whoosh",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter leihen in Minsk, nur in der Saison",
+   "city": "Minsk",
+   "use": "limited",
+   "req": "Saison endet Mitte November, Neustart im Frühjahr",
+   "src": "https://myfin.by/article/belarus/s-16-noabra-elektrosamokaty-v-minske-usli-na-zimovku-49760"
+  },
+  {
+   "name": "Eleven",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter und E-Bikes leihen in Minsk",
+   "city": "Minsk",
+   "use": "limited",
+   "req": "Saison endet Mitte November, Neustart im Frühjahr",
+   "src": "https://myfin.by/article/belarus/s-16-noabra-elektrosamokaty-v-minske-usli-na-zimovku-49760"
+  },
+  {
+   "name": "Delivio",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen und Einkäufe in Minsk, sonst Abholung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1496620849"
+  },
+  {
+   "name": "M-Belarusbank",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Bank-App, in Minsk auch Fahrscheine per QR-Code",
+   "city": "",
+   "use": "no",
+   "req": "Konto bei der Belarusbank nötig",
+   "src": "https://myfin.by/article/belarus/v-minske-na-dvuh-marsrutah-poavitsa-novyj-sposob-oplaty-proezda-kak-on-rabotaet-49633"
+  },
+  {
+   "name": "Tinder",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, in Belarus abgeschaltet",
+   "city": "",
+   "use": "no",
+   "req": "Seit 15. Februar 2024 in Belarus nicht mehr verfügbar",
+   "src": "https://www.help.tinder.com/hc/en-us/articles/22962934026381-Tinder-Services-Ended-in-Belarus"
+  },
+  {
+   "name": "Oplati",
+   "cat": "payment",
+   "pkg": "by.lwo.oplati",
+   "note": "QR Zahlung, Tanken, ÖPNV und Rechnungen",
+   "use": "no",
+   "req": "Belarussische Bankkarte und Registrierung nötig",
+   "src": "https://play.google.com/store/apps/details?id=by.lwo.oplati&hl=en"
+  },
+  {
+   "name": "Belarus Tourism",
+   "cat": "tourism",
+   "note": "Portal der nationalen Tourismusagentur",
+   "use": "ok",
+   "url": "https://belarustourism.by",
+   "nostore": true,
+   "src": "https://belarustourism.by"
+  },
+  {
+   "name": "Belhydromet",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Warnungen",
+   "use": "ok",
+   "url": "https://pogoda.by",
+   "nostore": true,
+   "src": "https://pogoda.by"
+  }
  ]
 }

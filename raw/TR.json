@@ -289,6 +289,32 @@
    "req": "Registrierung mit Handynummer, Türkisch",
    "url": "https://play.google.com/store/apps/details?id=tr.gov.icisleri.afad",
    "src": "https://www.teknoblog.com/afad-acil-cagri-mobil-uygulamasi-hemen-indirin"
+  },
+  {
+   "name": "İspark Mobil",
+   "cat": "parking",
+   "pkg": "com.p4c.ispark",
+   "note": "Freie Plätze und Bezahlen in Istanbuler Parkhäusern",
+   "use": "limited",
+   "req": "Registrierung per Masterpass, evtl. türkische Nummer",
+   "src": "https://www.milliyet.com.tr/advertorial/otopark-odemelerinde-dijital-donusum-6487373"
+  },
+  {
+   "name": "Papara",
+   "cat": "payment",
+   "pkg": "com.mobillium.papara",
+   "note": "Beliebtes türkisches Digitalkonto mit Karte",
+   "use": "no",
+   "req": "Türkische Nummer und Ausweisprüfung nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.mobillium.papara&hl=en"
+  },
+  {
+   "name": "GoTürkiye",
+   "cat": "tourism",
+   "pkg": "tr.gov.tga.chinaapp",
+   "note": "Offizielle App der türkischen Tourismusagentur",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=tr.gov.tga.chinaapp&hl=en"
   }
  ]
 }

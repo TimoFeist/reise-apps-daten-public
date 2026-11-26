@@ -116,6 +116,42 @@
    "use": "ok",
    "req": "",
    "src": "https://moovitapp.com/index/en/public_transit-Barbados-4331"
+  },
+  {
+   "name": "mMoney Wallet",
+   "cat": "payment",
+   "pkg": "com.mmoney.wallet",
+   "note": "Barbadische Digital-Wallet für Händler und Rechnungen",
+   "use": "limited",
+   "req": "Für Einheimische gedacht",
+   "src": "https://businessbarbados.com/business-directory/mmoney"
+  },
+  {
+   "name": "Visit Barbados",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde",
+   "use": "ok",
+   "url": "https://www.visitbarbados.org",
+   "nostore": true,
+   "src": "https://www.visitbarbados.org/online-ed-card"
+  },
+  {
+   "name": "Barbados Meteorological Services",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Warnungen",
+   "use": "ok",
+   "url": "https://www.barbadosweather.org",
+   "nostore": true,
+   "src": "https://www.barbadosweather.org"
+  },
+  {
+   "name": "Barbados Online ED Form",
+   "cat": "entry",
+   "note": "Einreise- und Zollformular vor Ankunft online",
+   "use": "ok",
+   "url": "https://www.travelform.gov.bb",
+   "nostore": true,
+   "src": "https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements"
   }
  ]
 }

@@ -94,6 +94,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/kn/app/caribeeats/id1462589124"
+  },
+  {
+   "name": "Visit St. Kitts",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde",
+   "use": "ok",
+   "url": "https://www.visitstkitts.com",
+   "nostore": true,
+   "src": "https://www.visitstkitts.com"
   }
  ]
 }

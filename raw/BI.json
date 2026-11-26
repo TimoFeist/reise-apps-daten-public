@@ -73,6 +73,15 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burundisicherheit-222614",
    "url": "https://migration.gov.bi/Apply/step1/2",
    "nostore": true
+  },
+  {
+   "name": "IGEBU Wetterdienst",
+   "cat": "safety",
+   "note": "Hydrometeorologischer Dienst von Burundi",
+   "use": "ok",
+   "url": "https://www.igebu.bi/",
+   "nostore": true,
+   "src": "https://www.igebu.bi/"
   }
  ]
 }

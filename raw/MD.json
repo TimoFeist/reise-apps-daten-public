@@ -1,19 +1,216 @@
-{"src": "https://turism.gov.md/en/?p=875", "fetched": "2026-11-20", "updated": "", "note": "Taxis in Chișinău am besten per App (Bolt, Yandex Go, Hip), für Transnistrien Bargeld in Lei mitnehmen, dort gehen europäische Karten nicht.", "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar und rechtlich nicht benachteiligt, die gesellschaftliche Toleranz ist aber gering und Anfeindungen kommen auch in Chișinău vor.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/moldausicherheit-201932", "discontinued": [], "apps": [
-{"name": "Bolt", "cat": "taxi", "pkg": "", "ess": true, "note": "Fahrdienst seit 2025 in Chișinău, Zahlung in der App", "city": "Chisinau", "use": "ok", "req": "", "src": "https://invest.gov.md/en/bolt-enters-the-moldovan-market-100-digital-cashless-taxi-service/"},
-{"name": "Bolt Scooters", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter über die Bolt-App, in Chișinău seit 2021", "city": "Chisinau", "use": "ok", "req": "", "src": "https://invest.gov.md/en/bolt-enters-the-moldovan-market-100-digital-cashless-taxi-service/"},
-{"name": "Yandex Go", "cat": "taxi", "pkg": "", "ess": false, "note": "Verbreitete Taxi-App, russischer Dienst unter Behördenprüfung", "city": "", "use": "ok", "req": "", "src": "https://turism.gov.md/en/?p=875"},
-{"name": "Hip.car", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokale Fahrdienst-App (früher iTaxi), bar oder Karte", "city": "", "use": "limited", "req": "SMS-Bestätigung, laut Nutzern teils nur mit moldauischer Nummer", "src": "https://turism.gov.md/en/?p=875"},
-{"name": "Letz", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokale Fahrdienst-App mit mehreren Wagenklassen", "city": "", "use": "limited", "req": "SMS-Bestätigung, laut Nutzern teils nur mit moldauischer Nummer", "src": "https://turism.gov.md/en/?p=875"},
-{"name": "Teleport", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokaler Taxidienst, auch per App bestellbar", "city": "", "use": "limited", "req": "Registrierung mit Telefonnummer, ausländische Nummer nicht bestätigt", "src": "https://turism.gov.md/en/?p=875"},
-{"name": "Getmancar", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing in Chișinău, Auto per Handy öffnen", "city": "Chisinau", "use": "limited", "req": "Identitätsprüfung in der App und Zahlungskarte nötig, nicht nach Transnistrien", "src": "https://getmancar.com/moldova"},
-{"name": "amiGO carsharing", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektroautos im Carsharing, Abrechnung pro Minute", "city": "", "use": "limited", "req": "Dokumente hochladen, Gesichtsscan und Guthaben aufladen nötig", "src": "https://apps.apple.com/md/app/amigo-car/id1573478882"},
-{"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": true, "note": "Essen, Lebensmittel und Apothekenartikel liefern lassen", "city": "", "use": "ok", "req": "", "src": "https://glovoapp.com/ru/md/glovo-delivery"},
-{"name": "Straus", "cat": "delivery", "pkg": "", "ess": false, "note": "Lokaler Lieferdienst für Restaurantessen", "city": "Chisinau", "use": "limited", "req": "Telefonnummer für Bestellungen nötig, ausländische Nummer nicht bestätigt", "src": "https://apps.apple.com/us/app/straus/id1438722558"},
-{"name": "Transit", "cat": "transit", "pkg": "com.thetransitapp.droid", "ess": false, "note": "Linien von RTEC und PUA mit Abfahrtszeiten", "city": "Chisinau", "use": "ok", "req": "", "src": "https://transitapp.com/en/region/chi%C8%99in%C4%83u"},
-{"name": "Tranzy", "cat": "transit", "pkg": "", "ess": false, "note": "Echtzeit-Ankunft von Bussen und Trolleybussen", "city": "Chisinau", "use": "ok", "req": "", "src": "https://www.old.ipn.md/en/print/last-adjustments-to-application-showing-when-trolleybuses-and-buses-get-to-stati--7967_1095603.html"},
-{"name": "FlixBus", "cat": "rail", "pkg": "", "ess": false, "note": "Fernbusse ab Chișinău nach Rumänien, Ukraine und EU", "city": "", "use": "ok", "req": "", "src": "https://global.flixbus.com/bus/chisinau"},
-{"name": "Infobus", "cat": "rail", "pkg": "eu.infobus.app", "ess": false, "note": "Internationale Bustickets ab Moldau buchen", "city": "", "use": "ok", "req": "", "src": "https://www.infobus.eu/en/bus/moldova"},
-{"name": "EkoApp", "cat": "tourism", "pkg": "com.ekoappmoldovafrontendmobile", "ess": false, "note": "Offizielle App zu Kulturstätten und Naturgebieten", "city": "", "use": "ok", "req": "", "src": "https://moldovalive.md/?p=35648"},
-{"name": "SmartGuide", "cat": "tourism", "pkg": "", "ess": false, "note": "Über 400 Sehenswürdigkeiten und zwei Kulturrouten", "city": "", "use": "ok", "req": "", "src": "https://www.undp.org/node/428321"},
-{"name": "112MD", "cat": "safety", "pkg": "", "ess": false, "note": "Offizielle Notruf-App mit Standort und Chat", "city": "", "use": "limited", "req": "Registrierung mit Telefonnummer, Notruf 112 geht auch ohne App", "src": "https://www.undp.org/moldova/press-releases/moldovan-national-emergency-line-112-has-launched-their-official-mobile-app"}
-]}
+{
+ "src": "https://turism.gov.md/en/?p=875",
+ "fetched": "2026-11-20",
+ "updated": "",
+ "note": "Taxis in Chișinău am besten per App (Bolt, Yandex Go, Hip), für Transnistrien Bargeld in Lei mitnehmen, dort gehen europäische Karten nicht.",
+ "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind nicht strafbar und rechtlich nicht benachteiligt, die gesellschaftliche Toleranz ist aber gering und Anfeindungen kommen auch in Chișinău vor.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/moldausicherheit-201932",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Fahrdienst seit 2025 in Chișinău, Zahlung in der App",
+   "city": "Chisinau",
+   "use": "ok",
+   "req": "",
+   "src": "https://invest.gov.md/en/bolt-enters-the-moldovan-market-100-digital-cashless-taxi-service/"
+  },
+  {
+   "name": "Bolt Scooters",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter über die Bolt-App, in Chișinău seit 2021",
+   "city": "Chisinau",
+   "use": "ok",
+   "req": "",
+   "src": "https://invest.gov.md/en/bolt-enters-the-moldovan-market-100-digital-cashless-taxi-service/"
+  },
+  {
+   "name": "Yandex Go",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete Taxi-App, russischer Dienst unter Behördenprüfung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://turism.gov.md/en/?p=875"
+  },
+  {
+   "name": "Hip.car",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Fahrdienst-App (früher iTaxi), bar oder Karte",
+   "city": "",
+   "use": "limited",
+   "req": "SMS-Bestätigung, laut Nutzern teils nur mit moldauischer Nummer",
+   "src": "https://turism.gov.md/en/?p=875"
+  },
+  {
+   "name": "Letz",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Fahrdienst-App mit mehreren Wagenklassen",
+   "city": "",
+   "use": "limited",
+   "req": "SMS-Bestätigung, laut Nutzern teils nur mit moldauischer Nummer",
+   "src": "https://turism.gov.md/en/?p=875"
+  },
+  {
+   "name": "Teleport",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Taxidienst, auch per App bestellbar",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Telefonnummer, ausländische Nummer nicht bestätigt",
+   "src": "https://turism.gov.md/en/?p=875"
+  },
+  {
+   "name": "Getmancar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing in Chișinău, Auto per Handy öffnen",
+   "city": "Chisinau",
+   "use": "limited",
+   "req": "Identitätsprüfung in der App und Zahlungskarte nötig, nicht nach Transnistrien",
+   "src": "https://getmancar.com/moldova"
+  },
+  {
+   "name": "amiGO carsharing",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektroautos im Carsharing, Abrechnung pro Minute",
+   "city": "",
+   "use": "limited",
+   "req": "Dokumente hochladen, Gesichtsscan und Guthaben aufladen nötig",
+   "src": "https://apps.apple.com/md/app/amigo-car/id1573478882"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": true,
+   "note": "Essen, Lebensmittel und Apothekenartikel liefern lassen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://glovoapp.com/ru/md/glovo-delivery"
+  },
+  {
+   "name": "Straus",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Lieferdienst für Restaurantessen",
+   "city": "Chisinau",
+   "use": "limited",
+   "req": "Telefonnummer für Bestellungen nötig, ausländische Nummer nicht bestätigt",
+   "src": "https://apps.apple.com/us/app/straus/id1438722558"
+  },
+  {
+   "name": "Transit",
+   "cat": "transit",
+   "pkg": "com.thetransitapp.droid",
+   "ess": false,
+   "note": "Linien von RTEC und PUA mit Abfahrtszeiten",
+   "city": "Chisinau",
+   "use": "ok",
+   "req": "",
+   "src": "https://transitapp.com/en/region/chi%C8%99in%C4%83u"
+  },
+  {
+   "name": "Tranzy",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Echtzeit-Ankunft von Bussen und Trolleybussen",
+   "city": "Chisinau",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.old.ipn.md/en/print/last-adjustments-to-application-showing-when-trolleybuses-and-buses-get-to-stati--7967_1095603.html"
+  },
+  {
+   "name": "FlixBus",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fernbusse ab Chișinău nach Rumänien, Ukraine und EU",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://global.flixbus.com/bus/chisinau"
+  },
+  {
+   "name": "Infobus",
+   "cat": "rail",
+   "pkg": "eu.infobus.app",
+   "ess": false,
+   "note": "Internationale Bustickets ab Moldau buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.infobus.eu/en/bus/moldova"
+  },
+  {
+   "name": "EkoApp",
+   "cat": "tourism",
+   "pkg": "com.ekoappmoldovafrontendmobile",
+   "ess": false,
+   "note": "Offizielle App zu Kulturstätten und Naturgebieten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://moldovalive.md/?p=35648"
+  },
+  {
+   "name": "SmartGuide",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Über 400 Sehenswürdigkeiten und zwei Kulturrouten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.undp.org/node/428321"
+  },
+  {
+   "name": "112MD",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Notruf-App mit Standort und Chat",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Telefonnummer, Notruf 112 geht auch ohne App",
+   "src": "https://www.undp.org/moldova/press-releases/moldovan-national-emergency-line-112-has-launched-their-official-mobile-app"
+  },
+  {
+   "name": "RParking",
+   "cat": "parking",
+   "pkg": "com.rti.android.rparking",
+   "note": "Parkplätze in Moldau finden, per QR einfahren, zahlen",
+   "use": "limited",
+   "req": "Nur angeschlossene Parkplätze",
+   "src": "https://apps.apple.com/ca/app/rparking/id6746414857"
+  },
+  {
+   "name": "Oplata.md",
+   "cat": "payment",
+   "pkg": "md.oplata.oplata",
+   "note": "Paynet App für Rechnungen und Dienste",
+   "use": "limited",
+   "req": "Für Einheimische gedacht",
+   "src": "https://play.google.com/store/apps/details?id=md.oplata.oplata"
+  }
+ ]
+}

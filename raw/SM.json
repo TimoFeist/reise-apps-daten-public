@@ -72,6 +72,15 @@
    "use": "no",
    "req": "Girokonto bei Banca di San Marino nötig",
    "src": "https://apps.apple.com/app/id977161425"
+  },
+  {
+   "name": "SMaC Card",
+   "cat": "payment",
+   "pkg": "com.kreosoft.smac_card",
+   "note": "App zur San Marino Card, QR-Zahlung am POS",
+   "use": "limited",
+   "req": "SMaC-Karte nötig",
+   "src": "https://www.bac.sm/wp-content/uploads/2022/10/2625004.ManualeAPPSMa.pdf"
   }
  ],
  "replace": [

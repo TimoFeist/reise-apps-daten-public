@@ -52,6 +52,15 @@
    "src": "https://www.christmas.net.au/getting-around",
    "url": "https://bookings.christmas.net.au/car-hire",
    "nostore": true
+  },
+  {
+   "name": "Australien eVisitor",
+   "cat": "entry",
+   "note": "Kostenloses Online-Visum für Australien und Gebiete",
+   "use": "ok",
+   "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+   "nostore": true,
+   "src": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651"
   }
  ],
  "replace": [

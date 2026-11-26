@@ -105,6 +105,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/bhutan-node/bhutansicherheit-226702"
+  },
+  {
+   "name": "Department of Immigration Bhutan",
+   "cat": "entry",
+   "note": "Offizielles Online-Visum, meist über Reiseveranstalter",
+   "use": "ok",
+   "url": "https://www.immi.gov.bt",
+   "nostore": true,
+   "src": "https://www.doi.gov.bt/wp-content/uploads/2025/06/Public-notification_Non-tourist-system.pdf"
   }
  ]
 }

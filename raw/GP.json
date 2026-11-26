@@ -7,15 +7,123 @@
  "lgbtq_src": "https://www.equaldex.com/region/guadeloupe",
  "discontinued": [],
  "apps": [
-  {"name": "KARULIS", "cat": "transit", "pkg": "", "ess": false, "note": "Stadtbusse: Echtzeit, Routen und Tickets per QR-Code", "city": "Pointe-à-Pitre", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1509009176"},
-  {"name": "TRANS SUD", "cat": "transit", "pkg": "", "ess": false, "note": "Busnetz Grand Sud Caraïbe mit Fahrplan und Tickets", "city": "Basse-Terre", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id6449498067"},
-  {"name": "Karu'Vélo", "cat": "micro", "pkg": "", "ess": false, "note": "E-Leihräder im Selbstverleih in Pointe-à-Pitre", "city": "Pointe-à-Pitre", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/karuvelo/id1632440617?l=en"},
-  {"name": "En woute", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrdienst auf Guadeloupe, sofort oder vorbestellt", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/fr/app/en-woute/id6444211839?l=en-GB"},
-  {"name": "Uber Eats", "cat": "delivery", "pkg": "", "ess": false, "note": "Essenslieferung in sechs Gemeinden, etwa Pointe-à-Pitre", "city": "", "use": "ok", "req": "", "src": "https://rci.fm/guadeloupe/infos/Economie/Le-service-Uber-Eats-setend-encore-plus-en-Guadeloupe"},
-  {"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Pôle Caraïbes, Buchung per App", "city": "", "use": "limited", "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr", "src": "https://www.avis.fr/services-avis/location-voiture/caraibes/guadeloupe"},
-  {"name": "Hello Guadeloupe", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle Tourismus-App mit Routen und Karte", "city": "", "use": "ok", "req": "", "src": "https://outremers360.com/bassin-atlantique-appli/le-comite-du-tourisme-des-iles-de-guadeloupe-lance-hello-guadeloupe-une-application-pour-dynamiser-loffre-touristique"},
-  {"name": "Rando Guadeloupe", "cat": "tourism", "pkg": "", "ess": false, "note": "Wanderwege des Nationalparks, auch offline mit GPS", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1261275189"},
-  {"name": "Nav&Co", "cat": "misc", "pkg": "", "ess": false, "note": "Staatliche Segler-App mit Regeln zu Ankern und Schutzzonen", "city": "", "use": "ok", "req": "", "src": "https://www.mer.gouv.fr/navco-le-cap-des-100-000-utilisateurs-franchi"},
-  {"name": "Air Caraïbes", "cat": "flights", "pkg": "com.app.aircaraibes", "ess": false, "note": "Flüge buchen, Check-in, Bordkarte und Fluginfos", "city": "", "use": "ok", "req": "", "src": "https://www.aircaraibes.com/application-mobile"}
+  {
+   "name": "KARULIS",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtbusse: Echtzeit, Routen und Tickets per QR-Code",
+   "city": "Pointe-à-Pitre",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1509009176"
+  },
+  {
+   "name": "TRANS SUD",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busnetz Grand Sud Caraïbe mit Fahrplan und Tickets",
+   "city": "Basse-Terre",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6449498067"
+  },
+  {
+   "name": "Karu'Vélo",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Leihräder im Selbstverleih in Pointe-à-Pitre",
+   "city": "Pointe-à-Pitre",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/karuvelo/id1632440617?l=en"
+  },
+  {
+   "name": "En woute",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst auf Guadeloupe, sofort oder vorbestellt",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/fr/app/en-woute/id6444211839?l=en-GB"
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung in sechs Gemeinden, etwa Pointe-à-Pitre",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://rci.fm/guadeloupe/infos/Economie/Le-service-Uber-Eats-setend-encore-plus-en-Guadeloupe"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Pôle Caraïbes, Buchung per App",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr",
+   "src": "https://www.avis.fr/services-avis/location-voiture/caraibes/guadeloupe"
+  },
+  {
+   "name": "Hello Guadeloupe",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Tourismus-App mit Routen und Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://outremers360.com/bassin-atlantique-appli/le-comite-du-tourisme-des-iles-de-guadeloupe-lance-hello-guadeloupe-une-application-pour-dynamiser-loffre-touristique"
+  },
+  {
+   "name": "Rando Guadeloupe",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Wanderwege des Nationalparks, auch offline mit GPS",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1261275189"
+  },
+  {
+   "name": "Nav&Co",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche Segler-App mit Regeln zu Ankern und Schutzzonen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.mer.gouv.fr/navco-le-cap-des-100-000-utilisateurs-franchi"
+  },
+  {
+   "name": "Air Caraïbes",
+   "cat": "flights",
+   "pkg": "com.app.aircaraibes",
+   "ess": false,
+   "note": "Flüge buchen, Check-in, Bordkarte und Fluginfos",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.aircaraibes.com/application-mobile"
+  },
+  {
+   "name": "Météo-France",
+   "cat": "safety",
+   "pkg": "fr.meteo",
+   "note": "Wetter und Vigilance-Warnungen auch für die Antillen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=fr.meteo"
+  }
  ]
 }

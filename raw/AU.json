@@ -513,6 +513,15 @@
    "use": "ok",
    "req": "",
    "src": "https://ridetheg.com.au/"
+  },
+  {
+   "name": "Beem",
+   "cat": "payment",
+   "pkg": "it.beem.app",
+   "note": "Geld senden, teilen und anfordern",
+   "use": "no",
+   "req": "Australisches Bankkonto, Anmeldung nur in Australien",
+   "src": "https://beem.com.au/support"
   }
  ],
  "replace": [

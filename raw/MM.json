@@ -182,6 +182,16 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/myanmar"
+  },
+  {
+   "name": "Myanma Railways ORTP",
+   "cat": "rail",
+   "note": "Offizieller Online-Kauf für ausgewählte Expresszüge",
+   "use": "limited",
+   "req": "Bezahlung über myanmarische Banken",
+   "url": "https://ortp.railways.gov.mm/",
+   "nostore": true,
+   "src": "https://elevenmyanmar.com/node/309528"
   }
  ],
  "replace": [

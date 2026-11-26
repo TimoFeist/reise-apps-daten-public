@@ -131,6 +131,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.caribjournal.com/2026/05/10/antigua-guadeloupe-flights-liat/"
+  },
+  {
+   "name": "Visit Antigua and Barbuda",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite",
+   "use": "ok",
+   "url": "https://www.visitantiguabarbuda.com",
+   "nostore": true,
+   "src": "https://www.visitantiguabarbuda.com"
   }
  ]
 }

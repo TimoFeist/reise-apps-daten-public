@@ -116,6 +116,15 @@
    "use": "no",
    "req": "Registrierung mit Telkomcel-Nummer nötig",
    "src": "https://apps.apple.com/us/app/tpay-timor-pay/id1514336290"
+  },
+  {
+   "name": "Mosan",
+   "cat": "payment",
+   "pkg": "com.mosan.eu",
+   "note": "E Wallet von Telemor",
+   "use": "no",
+   "req": "Telemor SIM und Registrierung nötig",
+   "src": "https://mosan.telemor.tl/en.html"
   }
  ]
 }

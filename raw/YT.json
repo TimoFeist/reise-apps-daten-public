@@ -1,1 +1,98 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524", "fetched": "2026-11-18", "updated": "18.11.2026", "note": "Personalausweis genügt, ein Reisepass wird empfohlen; kein Leitungswasser trinken und auf Armutskriminalität achten.", "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, Daten zur gesellschaftlichen Akzeptanz fehlen.", "lgbtq_src": "https://www.equaldex.com/region/mayotte", "discontinued": [], "apps": [{"name": "Barge de Mayotte", "cat": "rail", "pkg": "", "ess": false, "note": "Inoffizielle Info-App zur Fähre, kein Ticketkauf", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1539343816"}, {"name": "GariCo Mobilités à Mayotte", "cat": "taxi", "pkg": "", "ess": false, "note": "Mitfahrten, Taxi, Fährzeiten und M'Safara-Busse", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1587471999"}, {"name": "ChronoCourse", "cat": "delivery", "pkg": "", "ess": false, "note": "Supermarkt und Restaurantessen auf der ganzen Insel", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/chronocourse/id6744323610"}, {"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Pamandzi und in Mamoudzou", "city": "", "use": "limited", "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr", "src": "https://www.avis.fr/services-avis/location-voiture/afrique/mayotte"}, {"name": "I.R.M Info Route Mayotte", "cat": "safety", "pkg": "", "ess": false, "note": "Live-Meldungen zu Straßensperren, Staus und Steinwürfen", "city": "", "use": "ok", "req": "", "src": "https://www.mayottehebdo.com/actualite/transport/votre-trajet-a-mayotte-signale-en-direct/"}, {"name": "Sortir à Mayotte", "cat": "tourism", "pkg": "", "ess": false, "note": "Veranstaltungen, Ausflüge und Freizeit mit Karte", "city": "", "use": "ok", "req": "", "src": "https://www.mayottehebdo.com/?p=91952"}, {"name": "AIR AUSTRAL", "cat": "flights", "pkg": "", "ess": false, "note": "Flüge buchen, Check-in und mobile Bordkarte", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id1369158515"}]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "fetched": "2026-11-18",
+ "updated": "18.11.2026",
+ "note": "Personalausweis genügt, ein Reisepass wird empfohlen; kein Leitungswasser trinken und auf Armutskriminalität achten.",
+ "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, Daten zur gesellschaftlichen Akzeptanz fehlen.",
+ "lgbtq_src": "https://www.equaldex.com/region/mayotte",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Barge de Mayotte",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Inoffizielle Info-App zur Fähre, kein Ticketkauf",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1539343816"
+  },
+  {
+   "name": "GariCo Mobilités à Mayotte",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Mitfahrten, Taxi, Fährzeiten und M'Safara-Busse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1587471999"
+  },
+  {
+   "name": "ChronoCourse",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Supermarkt und Restaurantessen auf der ganzen Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/chronocourse/id6744323610"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Pamandzi und in Mamoudzou",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 21, Führerschein seit mindestens einem Jahr",
+   "src": "https://www.avis.fr/services-avis/location-voiture/afrique/mayotte"
+  },
+  {
+   "name": "I.R.M Info Route Mayotte",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Live-Meldungen zu Straßensperren, Staus und Steinwürfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.mayottehebdo.com/actualite/transport/votre-trajet-a-mayotte-signale-en-direct/"
+  },
+  {
+   "name": "Sortir à Mayotte",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Veranstaltungen, Ausflüge und Freizeit mit Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.mayottehebdo.com/?p=91952"
+  },
+  {
+   "name": "AIR AUSTRAL",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge buchen, Check-in und mobile Bordkarte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1369158515"
+  },
+  {
+   "name": "Pysae",
+   "cat": "transit",
+   "pkg": "com.pysae.info",
+   "note": "Busse des Netzes halO in Echtzeit verfolgen",
+   "city": "Mamoudzou",
+   "use": "limited",
+   "req": "Vor allem Schulbusnetz",
+   "src": "https://outremers360.com/bassin-indien-appli/transports-a-mayotte-une-application-gratuite-pour-geolocaliser-son-bus"
+  }
+ ]
+}

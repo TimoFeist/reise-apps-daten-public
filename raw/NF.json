@@ -94,6 +94,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bom.gov.au/nsw/forecasts/index.shtml"
+  },
+  {
+   "name": "Australisches eVisitor-Visum",
+   "cat": "entry",
+   "note": "Australisches Onlinevisum, gilt auch für Norfolk",
+   "use": "ok",
+   "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+   "nostore": true,
+   "src": "https://www.infrastructure.gov.au/node/31744"
   }
  ],
  "replace": [

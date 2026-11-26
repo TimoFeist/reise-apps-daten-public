@@ -105,6 +105,24 @@
    "use": "no",
    "req": "Nur für Kunden von Djibouti Telecom, lokale SIM nötig",
    "src": "https://play.google.com/store/apps/details?id=com.djiboutitelecom.dmoney.customer"
+  },
+  {
+   "name": "Agence Nationale du Tourisme",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde von Dschibuti",
+   "use": "ok",
+   "url": "https://www.visitdjibouti.dj/",
+   "nostore": true,
+   "src": "https://www.visitdjibouti.dj/"
+  },
+  {
+   "name": "E-Visa Djibouti",
+   "cat": "entry",
+   "note": "Offizielles Portal für das elektronische Visum",
+   "use": "ok",
+   "url": "https://www.evisa.gouv.dj/",
+   "nostore": true,
+   "src": "https://www.evisa.gouv.dj/"
   }
  ]
 }

@@ -105,6 +105,14 @@
    "use": "ok",
    "req": "",
    "src": "https://retailtechinnovationhub.com/category/grocery-delivery/snappy-shopper-and-alliance-supermarket-team-up-to-launch-same-day-delivery-service-in-guernsey"
+  },
+  {
+   "name": "Met Office Weather",
+   "cat": "safety",
+   "pkg": "uk.gov.metoffice.weather.android",
+   "note": "Wetter und Warnungen, deckt Guernsey ab",
+   "use": "ok",
+   "src": "https://weather.metoffice.gov.uk/forecast/gby1kb68z"
   }
  ],
  "replace": [

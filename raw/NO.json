@@ -283,6 +283,15 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=no.nve.regobs4",
    "src": "https://apps.apple.com/no/app/varsom/id1450501601"
+  },
+  {
+   "name": "Vipps",
+   "cat": "payment",
+   "pkg": "no.dnb.vipps",
+   "note": "Verbreitete Bezahl-App in Norwegen",
+   "use": "no",
+   "req": "Norwegische BankID und Konto nötig",
+   "src": "https://play.google.com/store/apps/details?id=no.dnb.vipps&hl=en"
   }
  ]
 }

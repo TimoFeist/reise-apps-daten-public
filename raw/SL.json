@@ -111,6 +111,15 @@
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500",
    "url": "https://poep.npha.gov.sl/",
    "nostore": true
+  },
+  {
+   "name": "National Tourist Board Sierra Leone",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde",
+   "use": "ok",
+   "url": "https://ntb.gov.sl",
+   "nostore": true,
+   "src": "https://ntb.gov.sl"
   }
  ]
 }

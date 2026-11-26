@@ -94,6 +94,32 @@
    "use": "ok",
    "req": "",
    "src": "https://www.avis.com/en/locations/bn/brunei-darussalam/i8y"
+  },
+  {
+   "name": "BIBD Mobile",
+   "cat": "payment",
+   "pkg": "com.bibd",
+   "note": "Bank-App mit QuickPay QR-Zahlung",
+   "use": "no",
+   "req": "Konto bei BIBD nötig",
+   "src": "https://bizbrunei.com/2018/08/scan-and-pay-bibd-quickpay-enables-cashless-payment-using-qr-codes"
+  },
+  {
+   "name": "Brunei Tourism",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite Bruneis",
+   "use": "ok",
+   "url": "https://www.bruneitourism.com/",
+   "nostore": true,
+   "src": "https://www.bruneitourism.com/"
+  },
+  {
+   "name": "Brunei WX",
+   "cat": "safety",
+   "pkg": "com.bdmd.bruneiweather",
+   "note": "Offizielle Wetter-App des Wetterdienstes Brunei",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bdmd.bruneiweather"
   }
  ]
 }

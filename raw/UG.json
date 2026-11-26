@@ -1,11 +1,134 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752", "updated": "", "note": "Deutsche brauchen ein Visum, nur online über visas.immigration.go.ug beantragen (50 USD); Uber hat Uganda im September 2026 verlassen.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, das Gesetz von 2023 sieht in schweren Fällen sogar die Todesstrafe vor.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752", "apps": [
-{"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": true, "note": "Fahrdienst in Kampala, auch ab Flughafen Entebbe", "city": "", "use": "ok", "req": "", "src": "https://bolt.eu/en-hu/cities/kampala/"},
-{"name": "SafeBoda", "cat": "taxi", "pkg": "com.safeboda.passenger", "ess": true, "note": "Motorradtaxi und SafeCar, Bodas in der City begrenzt", "city": "", "use": "limited", "req": "Bezahlung über App-Guthaben, Aufladen per Karte oder Mobile Money", "src": "https://play.google.com/store/apps/details?id=com.safeboda.passenger"},
-{"name": "Faras", "cat": "taxi", "pkg": "com.faras.rider", "ess": false, "note": "Weiterer Fahrdienst als Uber-Ersatz", "city": "", "use": "ok", "req": "", "src": "https://www.pulse.ug/story/uber-quits-uganda-after-10-years-2026090214403568949"},
-{"name": "Little", "cat": "taxi", "pkg": "", "ess": false, "note": "Neuer Mobilitätsdienst aus Kenia", "city": "", "use": "ok", "req": "", "src": "https://www.monitor.co.ug/uganda/news/national/uber-exit-opens-new-chapter-for-uganda-s-ride-hailing-market-5585420"},
-{"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": true, "note": "Essen, Supermarkt und Apotheke per Lieferung", "city": "Kampala", "use": "ok", "req": "", "src": "https://www.independent.co.ug/beyond-food-what-ugandans-are-really-ordering-on-glovo"},
-{"name": "MyMTN (MoMo)", "cat": "payment", "pkg": "com.mtn1app", "ess": false, "note": "MTN Guthaben, Datenpakete und Mobile Money", "city": "", "use": "limited", "req": "MTN-Touristen-SIM mit Pass und Visum im Shop, MoMo extra registrieren", "src": "https://www.mtn.co.ug/personal/tourist-sim-registration/"},
-{"name": "Explore Uganda", "cat": "tourism", "pkg": "com.utb.explore_uganda", "ess": false, "note": "Offizieller Reiseführer des Uganda Tourism Board", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.utb.explore_uganda"},
-{"name": "Uganda Airlines", "cat": "flights", "pkg": "com.ugandaairlines.ur.reservations", "ess": false, "note": "Buchung und Check-in der Nationalairline", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.ugandaairlines.ur.reservations&hl=en"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "com.grindrapp.android", "ess": false, "note": "Dating-App, in Uganda riskant", "city": "", "use": "no", "req": "Nicht empfohlen, gleichgeschlechtliche Handlungen sind hart strafbar", "src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752"}
-], "discontinued": [{"name": "Uber", "pkg": "", "src": "https://www.pulse.ug/story/uber-quits-uganda-after-10-years-2026090214403568949"}], "fetched": "2026-11-20"}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752",
+ "updated": "",
+ "note": "Deutsche brauchen ein Visum, nur online über visas.immigration.go.ug beantragen (50 USD); Uber hat Uganda im September 2026 verlassen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind strafbar, das Gesetz von 2023 sieht in schweren Fällen sogar die Todesstrafe vor.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752",
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Fahrdienst in Kampala, auch ab Flughafen Entebbe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bolt.eu/en-hu/cities/kampala/"
+  },
+  {
+   "name": "SafeBoda",
+   "cat": "taxi",
+   "pkg": "com.safeboda.passenger",
+   "ess": true,
+   "note": "Motorradtaxi und SafeCar, Bodas in der City begrenzt",
+   "city": "",
+   "use": "limited",
+   "req": "Bezahlung über App-Guthaben, Aufladen per Karte oder Mobile Money",
+   "src": "https://play.google.com/store/apps/details?id=com.safeboda.passenger"
+  },
+  {
+   "name": "Faras",
+   "cat": "taxi",
+   "pkg": "com.faras.rider",
+   "ess": false,
+   "note": "Weiterer Fahrdienst als Uber-Ersatz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.pulse.ug/story/uber-quits-uganda-after-10-years-2026090214403568949"
+  },
+  {
+   "name": "Little",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Neuer Mobilitätsdienst aus Kenia",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.monitor.co.ug/uganda/news/national/uber-exit-opens-new-chapter-for-uganda-s-ride-hailing-market-5585420"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": true,
+   "note": "Essen, Supermarkt und Apotheke per Lieferung",
+   "city": "Kampala",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.independent.co.ug/beyond-food-what-ugandans-are-really-ordering-on-glovo"
+  },
+  {
+   "name": "MyMTN (MoMo)",
+   "cat": "payment",
+   "pkg": "com.mtn1app",
+   "ess": false,
+   "note": "MTN Guthaben, Datenpakete und Mobile Money",
+   "city": "",
+   "use": "limited",
+   "req": "MTN-Touristen-SIM mit Pass und Visum im Shop, MoMo extra registrieren",
+   "src": "https://www.mtn.co.ug/personal/tourist-sim-registration/"
+  },
+  {
+   "name": "Explore Uganda",
+   "cat": "tourism",
+   "pkg": "com.utb.explore_uganda",
+   "ess": false,
+   "note": "Offizieller Reiseführer des Uganda Tourism Board",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.utb.explore_uganda"
+  },
+  {
+   "name": "Uganda Airlines",
+   "cat": "flights",
+   "pkg": "com.ugandaairlines.ur.reservations",
+   "ess": false,
+   "note": "Buchung und Check-in der Nationalairline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.ugandaairlines.ur.reservations&hl=en"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "com.grindrapp.android",
+   "ess": false,
+   "note": "Dating-App, in Uganda riskant",
+   "city": "",
+   "use": "no",
+   "req": "Nicht empfohlen, gleichgeschlechtliche Handlungen sind hart strafbar",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752"
+  },
+  {
+   "name": "UNMA",
+   "cat": "safety",
+   "note": "Amtlicher Wetterdienst Ugandas",
+   "use": "ok",
+   "url": "https://www.unma.go.ug",
+   "nostore": true,
+   "src": "https://www.unma.go.ug"
+  },
+  {
+   "name": "Uganda eVisa",
+   "cat": "entry",
+   "note": "Offizielles eVisum, vorab beantragen",
+   "use": "ok",
+   "url": "https://visas.immigration.go.ug",
+   "nostore": true,
+   "src": "https://washington.mofa.go.ug/node/18"
+  }
+ ],
+ "discontinued": [
+  {
+   "name": "Uber",
+   "pkg": "",
+   "src": "https://www.pulse.ug/story/uber-quits-uganda-after-10-years-2026090214403568949"
+  }
+ ],
+ "fetched": "2026-11-20"
+}

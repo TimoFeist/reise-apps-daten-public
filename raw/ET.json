@@ -1,16 +1,183 @@
-{"src": "https://www.bento.travel/ethiopia/ride-hailing", "fetched": "2026-11-18", "updated": "August 2026", "note": "Visum nötig, E-Visum nur bei Einreise über Addis Abeba Bole; Pass sechs Monate gültig. Birr in kleinen Scheinen mitnehmen.", "lgbtq_note": "Homosexuelle Handlungen sind strafbar und mit bis zu 15 Jahren Haft bedroht; bei Dating-Apps ist große Vorsicht geboten.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aethiopien-node/aethiopiensicherheit-209504", "discontinued": [], "apps": [
-{"name": "Ethiopia e-Visa", "cat": "entry", "pkg": "", "ess": true, "note": "Offizielles Portal evisa.gov.et für das E-Visum", "city": "", "use": "ok", "req": "Gilt nur bei Einreise über Flughafen Addis Abeba Bole", "src": "https://ethioembassy.org.uk/?p=3594"},
-{"name": "Ride", "cat": "taxi", "pkg": "com.multibrains.taxi.passenger.ridepassengeret", "ess": true, "note": "Verbreitete Taxi-App, auch Buchung per Hotline 8294", "city": "Addis Ababa", "use": "limited", "req": "Fahrer rufen oft an, erreichbare Nummer nötig; Bargeld als Reserve", "src": "https://www.bento.travel/ethiopia/ride-hailing"},
-{"name": "Feres", "cat": "taxi", "pkg": "com.feres.user", "ess": true, "note": "Große Alternative zu Ride, Preise vergleichen", "city": "Addis Ababa", "use": "limited", "req": "Erreichbare Telefonnummer ratsam; kleine Birr-Scheine bereithalten", "src": "https://www.bento.travel/ethiopia/ride-hailing"},
-{"name": "Yango", "cat": "taxi", "pkg": "com.yandex.yango", "ess": false, "note": "Dritte Fahrdienst-Option, auch in Hawassa", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ethiopia/ride-hailing"},
-{"name": "beU Delivery", "cat": "delivery", "pkg": "com.xmt.beu.applite", "ess": false, "note": "Essenslieferung mit großer Restaurantauswahl", "city": "Addis Ababa", "use": "limited", "req": "Kuriere rufen an, erreichbare Nummer nötig; Barzahlung möglich", "src": "https://www.bento.travel/ethiopia/food-delivery"},
-{"name": "Deliver Addis", "cat": "delivery", "pkg": "com.deliveraddis.deliveraddis", "ess": false, "note": "Etablierter Lieferdienst für Restaurants, auch per Web", "city": "Addis Ababa", "use": "limited", "req": "Ausländische Karten gehen nicht immer; Bargeld bereithalten", "src": "https://www.bento.travel/ethiopia/food-delivery"},
-{"name": "ZMall", "cat": "delivery", "pkg": "com.zmall.user", "ess": false, "note": "Lieferung von Restaurants, Lebensmitteln und Läden", "city": "Addis Ababa", "use": "ok", "req": "", "src": "https://www.bento.travel/ethiopia/food-delivery"},
-{"name": "telebirr", "cat": "payment", "pkg": "cn.tydic.ethiopay", "ess": false, "note": "Mobile Wallet von Ethio Telecom für QR-Zahlungen", "city": "", "use": "limited", "req": "Ethio-Telecom-Nummer und Registrierung mit Pass nötig", "src": "https://www.bento.travel/ethiopia/payments"},
-{"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Offline-Karte, Äthiopien vor der Reise laden", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ethiopia/navigation"},
-{"name": "Menged", "cat": "transit", "pkg": "com.menged.user", "ess": false, "note": "Busse verfolgen und bezahlen, nur teilnehmende Linien", "city": "Addis Ababa", "use": "limited", "req": "Aufladen teils nur über telebirr", "src": "https://www.bento.travel/ethiopia/transit"},
-{"name": "Addis Bike", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder an Stationen, Entsperren per QR-Code", "city": "Addis Ababa", "use": "limited", "req": "Registrierung laut Store mit nationalem Ausweis; nur iPhone", "src": "https://apps.apple.com/us/app/-/id6742169443"},
-{"name": "Green Motion", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen mit Station am Flughafen Bole", "city": "", "use": "limited", "req": "Internationaler Führerschein, Kreditkarte, Alter 30 bis 65", "src": "https://greenmotion.com/locations/ethiopia/addis-ababa-bole-international-airport"},
-{"name": "Ethiopian Airlines", "cat": "flights", "pkg": "com.ethiopianairlines.ethiopianairlines", "ess": false, "note": "Buchung, Check-in und Inlandsflüge der Staatsairline", "city": "", "use": "ok", "req": "", "src": "https://appgoblin.info/apps/com.ethiopianairlines.ethiopianairlines"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Dating-App, in Äthiopien riskant", "city": "", "use": "no", "req": "Homosexualität strafbar, große Vorsicht bei Dating-Apps", "src": "https://www.auswaertiges-amt.de/de/service/laender/aethiopien-node/aethiopiensicherheit-209504"}
-]}
+{
+ "src": "https://www.bento.travel/ethiopia/ride-hailing",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Visum nötig, E-Visum nur bei Einreise über Addis Abeba Bole; Pass sechs Monate gültig. Birr in kleinen Scheinen mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar und mit bis zu 15 Jahren Haft bedroht; bei Dating-Apps ist große Vorsicht geboten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/aethiopien-node/aethiopiensicherheit-209504",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Ethiopia e-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielles Portal evisa.gov.et für das E-Visum",
+   "city": "",
+   "use": "ok",
+   "req": "Gilt nur bei Einreise über Flughafen Addis Abeba Bole",
+   "src": "https://ethioembassy.org.uk/?p=3594"
+  },
+  {
+   "name": "Ride",
+   "cat": "taxi",
+   "pkg": "com.multibrains.taxi.passenger.ridepassengeret",
+   "ess": true,
+   "note": "Verbreitete Taxi-App, auch Buchung per Hotline 8294",
+   "city": "Addis Ababa",
+   "use": "limited",
+   "req": "Fahrer rufen oft an, erreichbare Nummer nötig; Bargeld als Reserve",
+   "src": "https://www.bento.travel/ethiopia/ride-hailing"
+  },
+  {
+   "name": "Feres",
+   "cat": "taxi",
+   "pkg": "com.feres.user",
+   "ess": true,
+   "note": "Große Alternative zu Ride, Preise vergleichen",
+   "city": "Addis Ababa",
+   "use": "limited",
+   "req": "Erreichbare Telefonnummer ratsam; kleine Birr-Scheine bereithalten",
+   "src": "https://www.bento.travel/ethiopia/ride-hailing"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": false,
+   "note": "Dritte Fahrdienst-Option, auch in Hawassa",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ethiopia/ride-hailing"
+  },
+  {
+   "name": "beU Delivery",
+   "cat": "delivery",
+   "pkg": "com.xmt.beu.applite",
+   "ess": false,
+   "note": "Essenslieferung mit großer Restaurantauswahl",
+   "city": "Addis Ababa",
+   "use": "limited",
+   "req": "Kuriere rufen an, erreichbare Nummer nötig; Barzahlung möglich",
+   "src": "https://www.bento.travel/ethiopia/food-delivery"
+  },
+  {
+   "name": "Deliver Addis",
+   "cat": "delivery",
+   "pkg": "com.deliveraddis.deliveraddis",
+   "ess": false,
+   "note": "Etablierter Lieferdienst für Restaurants, auch per Web",
+   "city": "Addis Ababa",
+   "use": "limited",
+   "req": "Ausländische Karten gehen nicht immer; Bargeld bereithalten",
+   "src": "https://www.bento.travel/ethiopia/food-delivery"
+  },
+  {
+   "name": "ZMall",
+   "cat": "delivery",
+   "pkg": "com.zmall.user",
+   "ess": false,
+   "note": "Lieferung von Restaurants, Lebensmitteln und Läden",
+   "city": "Addis Ababa",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ethiopia/food-delivery"
+  },
+  {
+   "name": "telebirr",
+   "cat": "payment",
+   "pkg": "cn.tydic.ethiopay",
+   "ess": false,
+   "note": "Mobile Wallet von Ethio Telecom für QR-Zahlungen",
+   "city": "",
+   "use": "limited",
+   "req": "Ethio-Telecom-Nummer und Registrierung mit Pass nötig",
+   "src": "https://www.bento.travel/ethiopia/payments"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Offline-Karte, Äthiopien vor der Reise laden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ethiopia/navigation"
+  },
+  {
+   "name": "Menged",
+   "cat": "transit",
+   "pkg": "com.menged.user",
+   "ess": false,
+   "note": "Busse verfolgen und bezahlen, nur teilnehmende Linien",
+   "city": "Addis Ababa",
+   "use": "limited",
+   "req": "Aufladen teils nur über telebirr",
+   "src": "https://www.bento.travel/ethiopia/transit"
+  },
+  {
+   "name": "Addis Bike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder an Stationen, Entsperren per QR-Code",
+   "city": "Addis Ababa",
+   "use": "limited",
+   "req": "Registrierung laut Store mit nationalem Ausweis; nur iPhone",
+   "src": "https://apps.apple.com/us/app/-/id6742169443"
+  },
+  {
+   "name": "Green Motion",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit Station am Flughafen Bole",
+   "city": "",
+   "use": "limited",
+   "req": "Internationaler Führerschein, Kreditkarte, Alter 30 bis 65",
+   "src": "https://greenmotion.com/locations/ethiopia/addis-ababa-bole-international-airport"
+  },
+  {
+   "name": "Ethiopian Airlines",
+   "cat": "flights",
+   "pkg": "com.ethiopianairlines.ethiopianairlines",
+   "ess": false,
+   "note": "Buchung, Check-in und Inlandsflüge der Staatsairline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.ethiopianairlines.ethiopianairlines"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, in Äthiopien riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexualität strafbar, große Vorsicht bei Dating-Apps",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/aethiopien-node/aethiopiensicherheit-209504"
+  },
+  {
+   "name": "Visit Ethiopia",
+   "cat": "tourism",
+   "note": "Reiseseite des Tourismusministeriums mit Zielen und Tipps",
+   "use": "ok",
+   "url": "https://visitethiopia.et/",
+   "nostore": true,
+   "src": "https://visitethiopia.et/"
+  },
+  {
+   "name": "Ethiopian Meteorological Institute",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+   "use": "ok",
+   "url": "https://www.ethiomet.gov.et/",
+   "nostore": true,
+   "src": "https://www.ethiomet.gov.et/"
+  }
+ ]
+}

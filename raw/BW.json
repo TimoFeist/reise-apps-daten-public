@@ -104,6 +104,15 @@
    "use": "limited",
    "req": "Internationaler Führerschein zusammen mit dem deutschen Führerschein nötig",
    "src": "https://discovercars.com/botswana"
+  },
+  {
+   "name": "Botswana Tourism",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde",
+   "use": "ok",
+   "url": "https://www.botswanatourism.co.bw",
+   "nostore": true,
+   "src": "https://www.botswanatourism.co.bw"
   }
  ]
 }

@@ -93,6 +93,24 @@
    "use": "no",
    "req": "Homosexualität seit 2025 strafbar, Nutzung gefährlich",
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burkinafasosicherheit-212336"
+  },
+  {
+   "name": "Orange Money Africa",
+   "cat": "payment",
+   "pkg": "com.orange.orangemoneyafrique",
+   "note": "Mobiles Geld von Orange, in Burkina weit verbreitet",
+   "use": "no",
+   "req": "Burkinische SIM von Orange nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.orange.orangemoneyafrique&hl=en"
+  },
+  {
+   "name": "Visa Burkina",
+   "cat": "entry",
+   "note": "Offizielles Portal für das E-Visum von Burkina Faso",
+   "use": "ok",
+   "url": "https://www.visaburkina.bf/",
+   "nostore": true,
+   "src": "https://www.visaburkina.bf/"
   }
  ]
 }

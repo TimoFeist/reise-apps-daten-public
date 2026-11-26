@@ -1,10 +1,108 @@
-{"src": "https://www.visitguam.com/about-guam/entry-and-exit-formalities/", "fetched": "2026-11-17", "updated": "", "note": "Deutsche sind nicht im Guam-CNMI Visa Waiver Program und brauchen eine ESTA, dazu online die Zollerklärung Guam EDF bis 72 Stunden vor Ankunft.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1978 legal, die Ehe ist seit 2015 geöffnet, es gibt Diskriminierungsschutz und eine jährliche Pride.", "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Guam", "discontinued": [], "apps": [
-{"name": "ESTA Mobile", "cat": "entry", "pkg": "gov.dhs.cbp.esta", "ess": true, "note": "Offizielle CBP-App für den ESTA-Antrag zur US-Einreise", "city": "", "use": "ok", "req": "", "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"},
-{"name": "STROLL Guam Ride Hailing", "cat": "taxi", "pkg": "stroll.guam.customer", "ess": true, "note": "Lokaler Fahrdienst rund um die Uhr, Festpreis, nur Kartenzahlung", "city": "", "use": "ok", "req": "", "src": "https://www.visitguam.com/listing/stroll-international/5967/"},
-{"name": "GRTA Guam Transit", "cat": "transit", "pkg": "gov.grtaguam.app", "ess": false, "note": "Offizielle Bus-App mit Fahrplänen und Routenplaner für die Insel", "city": "", "use": "ok", "req": "", "src": "https://appgoblin.info/apps/gov.grtaguam.app"},
-{"name": "SIXT", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Guam per App buchen und verwalten", "city": "", "use": "limited", "req": "Mindestalter 18, gültiger Führerschein und Ausweis nötig", "src": "https://www.sixt.com/car-rental/guam/tamuning/guam-international-airport/"},
-{"name": "gu-yoyo", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter und Räder zum Ausleihen, Stationen an Hotels in Tumon", "city": "Tumon", "use": "limited", "req": "Ab 16 Jahren, amtlicher Ausweis nötig, keine Versicherung", "src": "https://mbjguam.com/node/139"},
-{"name": "Good to Go We Deliver", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferdienst für Gerichte aus Restaurants auf Guam", "city": "", "use": "limited", "req": "Registrierung mit Telefonnummer, ob ausländische Nummern gehen, ist unklar", "src": "https://apps.apple.com/us/app/id1496388213"},
-{"name": "Grab N Grub", "cat": "delivery", "pkg": "", "ess": false, "note": "Essenslieferung von über 100 lokalen Restaurants inselweit", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/grab-n-grub/id1575497960"},
-{"name": "Visit Guam", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle App des Guam Visitors Bureau mit Events und Reiseplaner", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/mx/app/visit-guam/id6748750533"}
-]}
+{
+ "src": "https://www.visitguam.com/about-guam/entry-and-exit-formalities/",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Deutsche sind nicht im Guam-CNMI Visa Waiver Program und brauchen eine ESTA, dazu online die Zollerklärung Guam EDF bis 72 Stunden vor Ankunft.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind seit 1978 legal, die Ehe ist seit 2015 geöffnet, es gibt Diskriminierungsschutz und eine jährliche Pride.",
+ "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Guam",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "ESTA Mobile",
+   "cat": "entry",
+   "pkg": "gov.dhs.cbp.esta",
+   "ess": true,
+   "note": "Offizielle CBP-App für den ESTA-Antrag zur US-Einreise",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://cbp.gov/newsroom/national-media-release/esta-mobile-app-launches-40-countries-and-24-languages"
+  },
+  {
+   "name": "STROLL Guam Ride Hailing",
+   "cat": "taxi",
+   "pkg": "stroll.guam.customer",
+   "ess": true,
+   "note": "Lokaler Fahrdienst rund um die Uhr, Festpreis, nur Kartenzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitguam.com/listing/stroll-international/5967/"
+  },
+  {
+   "name": "GRTA Guam Transit",
+   "cat": "transit",
+   "pkg": "gov.grtaguam.app",
+   "ess": false,
+   "note": "Offizielle Bus-App mit Fahrplänen und Routenplaner für die Insel",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/gov.grtaguam.app"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Guam per App buchen und verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter 18, gültiger Führerschein und Ausweis nötig",
+   "src": "https://www.sixt.com/car-rental/guam/tamuning/guam-international-airport/"
+  },
+  {
+   "name": "gu-yoyo",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter und Räder zum Ausleihen, Stationen an Hotels in Tumon",
+   "city": "Tumon",
+   "use": "limited",
+   "req": "Ab 16 Jahren, amtlicher Ausweis nötig, keine Versicherung",
+   "src": "https://mbjguam.com/node/139"
+  },
+  {
+   "name": "Good to Go We Deliver",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferdienst für Gerichte aus Restaurants auf Guam",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Telefonnummer, ob ausländische Nummern gehen, ist unklar",
+   "src": "https://apps.apple.com/us/app/id1496388213"
+  },
+  {
+   "name": "Grab N Grub",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von über 100 lokalen Restaurants inselweit",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/grab-n-grub/id1575497960"
+  },
+  {
+   "name": "Visit Guam",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App des Guam Visitors Bureau mit Events und Reiseplaner",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mx/app/visit-guam/id6748750533"
+  },
+  {
+   "name": "NWS Guam",
+   "cat": "safety",
+   "note": "Wetter und Taifunwarnungen des US-Wetterdienstes",
+   "use": "ok",
+   "url": "https://www.weather.gov/gum/",
+   "nostore": true,
+   "src": "https://www.weather.gov/gum/"
+  }
+ ]
+}

@@ -228,6 +228,15 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=dk.dmi.byvejret",
    "src": "https://www.appbrain.com/dev/Danmarks+Meteorologiske+Institut/"
+  },
+  {
+   "name": "MobilePay",
+   "cat": "payment",
+   "pkg": "dk.danskebank.mobilepay",
+   "note": "Meistgenutzte Bezahl-App in Dänemark",
+   "use": "no",
+   "req": "Dänische Telefonnummer nötig",
+   "src": "https://lawinsider.com/da/contracts/lC3DXiIDkko"
   }
  ]
 }

@@ -259,6 +259,16 @@
    "use": "limited",
    "req": "Registrierung in App oder online vor dem Bezahlen nötig",
    "src": "https://www.limerick.ie/council/parking"
+  },
+  {
+   "name": "Zippay",
+   "cat": "payment",
+   "note": "Zahlung per Handynummer in irischen Bank Apps",
+   "use": "no",
+   "req": "Konto bei AIB, Bank of Ireland oder PTSB",
+   "url": "https://bpfi.ie/launch-of-new-irish-mobile-payment-service/",
+   "nostore": true,
+   "src": "https://www.rte.ie/news/ireland/2026/0309/1562267-zippay-payment-service"
   }
  ]
 }

@@ -144,6 +144,41 @@
    "use": "no",
    "req": "Homosexuelle Handlungen strafbar, Nutzung riskant",
    "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/algeriensicherheit/219044"
+  },
+  {
+   "name": "Meteo Algerie - Alerte",
+   "cat": "safety",
+   "pkg": "com.meteoalgerie.cap",
+   "note": "Wetterwarnungen des Wetterdienstes ONM",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.meteoalgerie.cap&hl=en"
+  },
+  {
+   "name": "Meteo Algerie ONM",
+   "cat": "safety",
+   "pkg": "com.meteoalgerie.meteo",
+   "note": "Offizielle Wettervorhersage des ONM",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.meteoalgerie.meteo&hl=en"
+  },
+  {
+   "name": "Visum Algerien",
+   "cat": "entry",
+   "note": "Visum vorab bei Botschaft oder Konsulat",
+   "use": "limited",
+   "req": "Visum vor Reise beantragen",
+   "url": "https://www.auswaertiges-amt.de/de/service/laender/algerien-node/algeriensicherheit/219044",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/algerien-node/algeriensicherheit/219044"
+  },
+  {
+   "name": "ECCP Algérie Poste",
+   "cat": "payment",
+   "pkg": "dz.poste.eccp",
+   "note": "App der Algérie Poste für CCP-Postkonten",
+   "use": "no",
+   "req": "Algerisches Postkonto nötig",
+   "src": "https://play.google.com/store/apps/details?id=dz.poste.eccp&hl=en"
   }
  ]
 }

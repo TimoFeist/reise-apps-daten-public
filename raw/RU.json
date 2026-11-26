@@ -391,6 +391,75 @@
    "use": "no",
    "req": "In Moskau seit 2025 gesperrt",
    "src": "https://www.themoscowtimes.com/2026/08/05/russias-taxi-industry-hits-a-breaking-point-as-prices-soar-migrants-shut-out-and-options-shrink"
+  },
+  {
+   "name": "Yandex Drive",
+   "cat": "carshare",
+   "pkg": "com.yandex.mobile.drive",
+   "note": "Carsharing von Yandex in Moskau und weiteren Städten",
+   "city": "Moscow",
+   "use": "no",
+   "req": "Westliche Karten funktionieren in Russland nicht",
+   "url": "https://drive.yandex.ru/",
+   "src": "https://play.google.com/store/apps/details?id=com.yandex.mobile.drive&hl=en"
+  },
+  {
+   "name": "BelkaCar",
+   "cat": "carshare",
+   "pkg": "ru.belkacar.belkacar",
+   "note": "Carsharing in Moskau und Sankt Petersburg",
+   "city": "Moscow",
+   "use": "no",
+   "req": "Westliche Karten funktionieren in Russland nicht",
+   "url": "https://belkacar.ru/",
+   "src": "https://play.google.com/store/apps/details?id=ru.belkacar.belkacar&hl=en"
+  },
+  {
+   "name": "Whoosh",
+   "cat": "micro",
+   "pkg": "com.punicapp.whoosh",
+   "note": "E-Scooter zum Leihen in vielen russischen Städten",
+   "use": "no",
+   "req": "Westliche Karten funktionieren in Russland nicht",
+   "url": "https://whoosh-bike.ru/",
+   "src": "https://play.google.com/store/apps/details?id=com.punicapp.whoosh&hl=en"
+  },
+  {
+   "name": "Urent",
+   "cat": "micro",
+   "pkg": "ru.urentbike.app",
+   "note": "E-Scooter und Räder leihen in russischen Städten",
+   "use": "no",
+   "req": "Westliche Karten funktionieren in Russland nicht",
+   "url": "https://urent.ru/",
+   "src": "https://play.google.com/store/apps/details?id=ru.urentbike.app&hl=en"
+  },
+  {
+   "name": "Горпарковки",
+   "cat": "parking",
+   "pkg": "ru.gorparkovki.federal",
+   "note": "Städtische Parkplätze in vielen Regionen bezahlen",
+   "use": "no",
+   "req": "Westliche Karten funktionieren in Russland nicht",
+   "src": "https://www.rustore.ru/catalog/app/ru.gorparkovki.federal"
+  },
+  {
+   "name": "МЧС России",
+   "cat": "safety",
+   "pkg": "io.citizens.security",
+   "note": "Offizielle Notfall-App mit Hinweisen und Notruf",
+   "use": "ok",
+   "url": "https://mchs.gov.ru/deyatelnost/informacionnye-sistemy/mobilnoe-prilozhenie-mchs-rossii",
+   "src": "https://mchs.gov.ru/deyatelnost/informacionnye-sistemy/mobilnoe-prilozhenie-mchs-rossii"
+  },
+  {
+   "name": "Russisches E-Visum",
+   "cat": "entry",
+   "note": "E-Visum für bis zu 30 Tage online beantragen",
+   "use": "ok",
+   "url": "https://electronic-visa.kdmid.ru/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit-201536"
   }
  ]
 }

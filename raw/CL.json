@@ -199,6 +199,24 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=cl.gob.dgac.dmc.app",
    "src": "https://appgoblin.info/apps/cl.gob.dgac.dmc.app"
+  },
+  {
+   "name": "MACH",
+   "cat": "payment",
+   "pkg": "cl.bci.sismo.mach",
+   "note": "Verbreitetes Digitalkonto mit Prepaidkarte in Chile",
+   "use": "no",
+   "req": "Chilenische RUT nötig",
+   "src": "https://play.google.com/store/apps/details?id=cl.bci.sismo.mach&hl=en"
+  },
+  {
+   "name": "Declaración Jurada Digital SAG/Aduana",
+   "cat": "entry",
+   "note": "Pflichterklärung zu Zoll und Agrarwaren bei Einreise",
+   "use": "ok",
+   "url": "https://ingresoachile.cl",
+   "nostore": true,
+   "src": "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile"
   }
  ],
  "fetched": "2026-11-17"

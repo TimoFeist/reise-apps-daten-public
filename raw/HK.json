@@ -296,6 +296,22 @@
    "url": "https://www.discoverhongkong.com",
    "nostore": true,
    "src": "https://www.discoverhongkong.com"
+  },
+  {
+   "name": "TurboJET",
+   "cat": "rail",
+   "pkg": "com.turbojet.booking",
+   "note": "Fähren nach Macau, Fahrplan und Tickets",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.turbojet.booking"
+  },
+  {
+   "name": "Sun Ferry",
+   "cat": "rail",
+   "pkg": "com.nwff.firstferry",
+   "note": "Fähren zu Außeninseln wie Lantau und Cheung Chau",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.nwff.firstferry"
   }
  ]
 }

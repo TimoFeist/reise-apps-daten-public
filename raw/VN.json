@@ -262,6 +262,33 @@
    "url": "https://www.nchmf.gov.vn",
    "nostore": true,
    "src": "https://www.nchmf.gov.vn"
+  },
+  {
+   "name": "Vé tàu (DSVN)",
+   "cat": "rail",
+   "pkg": "com.tls.dsvn.muave2",
+   "note": "Fahrkarten der Vietnamesischen Eisenbahn kaufen",
+   "use": "limited",
+   "req": "Bezahlung teils nur über lokale Wallets",
+   "src": "https://en.vietnamplus.vn/vnr-launches-app-to-sell-tickets-post178593.vnp"
+  },
+  {
+   "name": "Vexere",
+   "cat": "rail",
+   "pkg": "com.vexere.vexere",
+   "note": "Buchung von Zug, Fernbus und Flug, Partner der Bahn",
+   "use": "ok",
+   "src": "https://apps.apple.com/app/id1183279479"
+  },
+  {
+   "name": "MyParking",
+   "cat": "parking",
+   "pkg": "vpmt.com.viettel.sparking",
+   "note": "Straßenparken in Saigon per App von Viettel bezahlen",
+   "city": "Ho Chi Minh City",
+   "use": "limited",
+   "req": "Vietnamesische Nummer oder Bankkonto nötig",
+   "src": "https://en.vietnamplus.vn/smart-parking-app-debuts-in-downtown-hcm-city/119920.vnp"
   }
  ]
 }

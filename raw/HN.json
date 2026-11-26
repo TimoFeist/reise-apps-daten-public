@@ -94,6 +94,24 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/mx/app/galaxy-wave-app/id6746731402"
+  },
+  {
+   "name": "Honduras Travel",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite des IHT",
+   "use": "ok",
+   "url": "https://honduras.travel",
+   "nostore": true,
+   "src": "https://honduras.travel"
+  },
+  {
+   "name": "COPECO",
+   "cat": "safety",
+   "note": "Katastrophenschutz mit Alarmstufen",
+   "use": "ok",
+   "url": "https://copeco.gob.hn",
+   "nostore": true,
+   "src": "https://www.laprensa.hn/honduras/alertas-hn-sistema-alerta-emergencias-celulares-HE32144210"
   }
  ]
 }

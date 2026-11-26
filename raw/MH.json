@@ -50,6 +50,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400"
+  },
+  {
+   "name": "Visit Marshall Islands",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der Marshallinseln",
+   "use": "ok",
+   "url": "https://www.visitmarshallislands.com",
+   "nostore": true,
+   "src": "https://www.visitmarshallislands.com"
   }
  ]
 }

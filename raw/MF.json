@@ -94,6 +94,15 @@
    "use": "ok",
    "req": "",
    "src": "https://meteofrance.com/actualites-et-dossiers/la-vigilance-meteorologique-en-outre-mer"
+  },
+  {
+   "name": "SXM2GO",
+   "cat": "delivery",
+   "pkg": "com.sxm2go.userapp",
+   "note": "Essenslieferung auf der Insel St. Martin",
+   "use": "limited",
+   "req": "Liefergebiet auf franz. Seite prüfen",
+   "src": "https://play.google.com/store/apps/details?id=com.sxm2go.userapp&hl=en"
   }
  ]
 }

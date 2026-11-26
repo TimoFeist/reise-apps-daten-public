@@ -171,6 +171,32 @@
    "use": "ok",
    "req": "",
    "src": "https://parkmobile.io/about-us/newsroom/articles/parkmobile-expands-its-presence-to-puerto-rico-and-launches-at-distrito-t-mobile-offering-contactles"
+  },
+  {
+   "name": "ATH Móvil",
+   "cat": "payment",
+   "pkg": "com.evertec.athmovil.android",
+   "note": "Sehr verbreitete Bezahl-App in Läden und unter Freunden",
+   "use": "no",
+   "req": "Karte einer Bank aus Puerto Rico nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.evertec.athmovil.android&hl=en"
+  },
+  {
+   "name": "Voy Turisteando",
+   "cat": "tourism",
+   "pkg": "com.voyturisteandopr",
+   "note": "App der Tourismusbehörde mit Orten, Events und Karten",
+   "use": "ok",
+   "src": "https://newsismybusiness.com/es/puerto-rico-tourism-co-unveils-1-1m-infinite-summer-campaign"
+  },
+  {
+   "name": "Discover Puerto Rico",
+   "cat": "tourism",
+   "note": "Offizielle Reiseseite mit Orten, Events und Tipps",
+   "use": "ok",
+   "url": "https://www.discoverpuertorico.com/",
+   "nostore": true,
+   "src": "https://www.discoverpuertorico.com/"
   }
  ]
 }

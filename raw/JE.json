@@ -7,14 +7,113 @@
  "lgbtq_src": "https://www.equaldex.com/region/Jersey",
  "discontinued": [],
  "apps": [
-  {"name": "LibertyBus", "cat": "transit", "pkg": "travel.ticketless.app.liberty", "ess": true, "note": "Bustickets und Pässe kaufen, Abfahrten live, Routenplaner", "city": "", "use": "ok", "req": "", "src": "https://www.jersey.com/plan-your-break/getting-around-jersey/bus-travel/"},
-  {"name": "Jersey Bus Tracker", "cat": "transit", "pkg": "", "ess": false, "note": "Zeigt live, wo sich der Bus gerade befindet", "city": "", "use": "ok", "req": "", "src": "https://www.jersey.com/plan-your-break/getting-around-jersey/bus-travel/"},
-  {"name": "Jersey Taxiapp", "cat": "taxi", "pkg": "", "ess": true, "note": "Taxis vom öffentlichen Stand buchen, mit Preisschätzung", "city": "", "use": "ok", "req": "", "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis"},
-  {"name": "Ryde", "cat": "taxi", "pkg": "", "ess": false, "note": "Elektrotaxi buchen, Fahrer live verfolgen, in App zahlen", "city": "", "use": "ok", "req": "", "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis"},
-  {"name": "EVie", "cat": "carshare", "pkg": "com.vulog.carshare.oa.evie.prod", "ess": false, "note": "E-Autos, Transporter und E-Bikes inselweit leihen", "city": "", "use": "limited", "req": "Gültiger Führerschein nötig, Freischaltung dauert bis 24 Stunden", "src": "https://evieondemand.com/how-to-use-evie"},
-  {"name": "PayByPhone", "cat": "parking", "pkg": "com.paybyphone", "ess": true, "note": "Parkgebühren auf öffentlichen Plätzen per Handy zahlen", "city": "", "use": "limited", "req": "Registrierung mit Kennzeichen und Bankkarte nötig", "src": "https://www.gov.je/Travel/Motoring/Parking/PayForParking/Pages/PayByPhoneApp.aspx"},
-  {"name": "Food.je", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen von über 100 Lokalen bestellen, seit 2022 kein Update", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/-/id1295380780"},
-  {"name": "Snappy Shopper", "cat": "delivery", "pkg": "", "ess": false, "note": "Schnelle Lieferung von Einkäufen, unter anderem von Iceland", "city": "", "use": "ok", "req": "", "src": "https://retailtechinnovationhub.com/home/2026/6/8/on-demand-delivery-firm-snappy-shopper-expands-into-jersey-with-alliance-retail-and-iceland-foods"},
-  {"name": "Jersey Zoo", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle Zoo-App mit Karte, Pflegerzeiten und Rallyes", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id6478955756"}
+  {
+   "name": "LibertyBus",
+   "cat": "transit",
+   "pkg": "travel.ticketless.app.liberty",
+   "ess": true,
+   "note": "Bustickets und Pässe kaufen, Abfahrten live, Routenplaner",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.jersey.com/plan-your-break/getting-around-jersey/bus-travel/"
+  },
+  {
+   "name": "Jersey Bus Tracker",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Zeigt live, wo sich der Bus gerade befindet",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.jersey.com/plan-your-break/getting-around-jersey/bus-travel/"
+  },
+  {
+   "name": "Jersey Taxiapp",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Taxis vom öffentlichen Stand buchen, mit Preisschätzung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis"
+  },
+  {
+   "name": "Ryde",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektrotaxi buchen, Fahrer live verfolgen, in App zahlen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://jersey.com/plan-your-break/getting-around-jersey/public-transport-taxis"
+  },
+  {
+   "name": "EVie",
+   "cat": "carshare",
+   "pkg": "com.vulog.carshare.oa.evie.prod",
+   "ess": false,
+   "note": "E-Autos, Transporter und E-Bikes inselweit leihen",
+   "city": "",
+   "use": "limited",
+   "req": "Gültiger Führerschein nötig, Freischaltung dauert bis 24 Stunden",
+   "src": "https://evieondemand.com/how-to-use-evie"
+  },
+  {
+   "name": "PayByPhone",
+   "cat": "parking",
+   "pkg": "com.paybyphone",
+   "ess": true,
+   "note": "Parkgebühren auf öffentlichen Plätzen per Handy zahlen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Kennzeichen und Bankkarte nötig",
+   "src": "https://www.gov.je/Travel/Motoring/Parking/PayForParking/Pages/PayByPhoneApp.aspx"
+  },
+  {
+   "name": "Food.je",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen von über 100 Lokalen bestellen, seit 2022 kein Update",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/-/id1295380780"
+  },
+  {
+   "name": "Snappy Shopper",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Schnelle Lieferung von Einkäufen, unter anderem von Iceland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://retailtechinnovationhub.com/home/2026/6/8/on-demand-delivery-firm-snappy-shopper-expands-into-jersey-with-alliance-retail-and-iceland-foods"
+  },
+  {
+   "name": "Jersey Zoo",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Zoo-App mit Karte, Pflegerzeiten und Rallyes",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id6478955756"
+  },
+  {
+   "name": "Jersey Met",
+   "cat": "safety",
+   "note": "Wettervorhersage und Warnungen der Regierung",
+   "use": "ok",
+   "url": "https://www.gov.je/weather",
+   "nostore": true,
+   "src": "https://www.gov.je/News/2026/Pages/MovingWeatherWarnings.aspx"
+  }
  ]
 }

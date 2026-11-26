@@ -254,6 +254,25 @@
    "use": "ok",
    "req": "",
    "src": "https://absolutearmenia.com/?p=2891"
+  },
+  {
+   "name": "South Caucasus Railway",
+   "cat": "rail",
+   "note": "Staatsbahn, Fahrplan und Onlinetickets",
+   "use": "limited",
+   "req": "Online nur einige Strecken",
+   "url": "https://www.ukzhd.am",
+   "nostore": true,
+   "src": "https://www.ukzhd.am"
+  },
+  {
+   "name": "Rettungsdienst Armenien",
+   "cat": "safety",
+   "note": "Wetterlage und Warnungen des Rettungsdienstes",
+   "use": "ok",
+   "url": "https://rescue.mia.gov.am/en",
+   "nostore": true,
+   "src": "https://rescue.mia.gov.am/en/articles/news/weather-1306-1"
   }
  ]
 }

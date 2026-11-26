@@ -149,6 +149,15 @@
    "use": "no",
    "req": "Konto bei der National Bank of Vanuatu nötig",
    "src": "https://www.nbv.vu/mobile-banking.html"
+  },
+  {
+   "name": "Maua",
+   "cat": "delivery",
+   "pkg": "com.app.buyer",
+   "note": "Bestellen und Liefern in Port Vila, Karte oder bar",
+   "city": "Port Vila",
+   "use": "ok",
+   "src": "https://www.uncdf.org/article/7943/mauas-vanuatu-expansion-will-create-new-digital-trade-opportunities-for-businesses"
   }
  ]
 }

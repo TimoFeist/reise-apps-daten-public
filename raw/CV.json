@@ -105,6 +105,24 @@
    "use": "ok",
    "req": "",
    "src": "https://moovitapp.com/index/en/public_transit-countries"
+  },
+  {
+   "name": "EASE Vorregistrierung",
+   "cat": "entry",
+   "note": "Pflicht-Vorregistrierung mit Flughafengebühr",
+   "use": "ok",
+   "url": "https://www.ease.gov.cv",
+   "nostore": true,
+   "src": "https://www.ease.gov.cv"
+  },
+  {
+   "name": "INMG",
+   "cat": "safety",
+   "note": "Nationales Institut für Meteorologie",
+   "use": "ok",
+   "url": "https://www.inmg.gov.cv",
+   "nostore": true,
+   "src": "https://www.inmg.gov.cv"
   }
  ]
 }

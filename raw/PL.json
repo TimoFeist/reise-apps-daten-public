@@ -273,6 +273,15 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=pl.imgw.pogoda",
    "src": "https://www.appbrain.com/dev/IMGW+PIB/"
+  },
+  {
+   "name": "PKO Bank Polski (BLIK)",
+   "cat": "payment",
+   "pkg": "pl.pkobp.iko",
+   "note": "Bank-App mit BLIK, dem polnischen Mobilzahlsystem",
+   "use": "no",
+   "req": "Polnisches Bankkonto nötig",
+   "src": "https://play.google.com/store/apps/details?id=pl.pkobp.iko&hl=en"
   }
  ],
  "replace": [

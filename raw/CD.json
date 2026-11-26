@@ -107,6 +107,16 @@
    "use": "ok",
    "req": "",
    "src": "https://allafrica.com/stories/202602270117.html"
+  },
+  {
+   "name": "Dosta",
+   "cat": "delivery",
+   "pkg": "app.dosta.customer",
+   "note": "Essens- und Paketlieferung in Kinshasa rund um die Uhr",
+   "city": "Kinshasa",
+   "use": "limited",
+   "req": "Lokale Nummer empfohlen",
+   "src": "https://apps.apple.com/us/app/id1642156091"
   }
  ]
 }

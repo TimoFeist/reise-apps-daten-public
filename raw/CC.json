@@ -39,6 +39,24 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bom.gov.au/wa/forecasts/index.shtml"
+  },
+  {
+   "name": "Cocos Keeling Islands Tourism",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der Inseln",
+   "use": "ok",
+   "url": "https://www.cocoskeelingislands.com.au/",
+   "nostore": true,
+   "src": "https://www.cocoskeelingislands.com.au/"
+  },
+  {
+   "name": "Australisches eVisitor (651)",
+   "cat": "entry",
+   "note": "Kostenloses Online-Visum Australiens, gilt auch hier",
+   "use": "ok",
+   "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+   "nostore": true,
+   "src": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651"
   }
  ]
 }

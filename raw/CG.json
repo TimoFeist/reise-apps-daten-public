@@ -94,6 +94,15 @@
    "use": "ok",
    "req": "",
    "src": "https://yango.com/en_int/"
+  },
+  {
+   "name": "MTN MoMo",
+   "cat": "payment",
+   "pkg": "com.consumerug",
+   "note": "Mobile Money von MTN Congo",
+   "use": "no",
+   "req": "Kongolesische MTN-SIM nötig",
+   "src": "https://www.mtn.cg/momo/"
   }
  ]
 }

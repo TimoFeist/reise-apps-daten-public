@@ -365,6 +365,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/sa/app/id1487571928"
+  },
+  {
+   "name": "Saudi eVisa (Visit Saudi)",
+   "cat": "entry",
+   "note": "Offizieller Antrag fürs Touristen eVisum",
+   "use": "ok",
+   "url": "https://visa.visitsaudi.com",
+   "nostore": true,
+   "src": "https://visa.visitsaudi.com"
   }
  ],
  "replace": [

@@ -259,6 +259,15 @@
    "req": "Mindestalter 21, Kreditkarte",
    "url": "https://www.sixt.com/car-rental/egypt/cairo/cairo-airport",
    "src": "https://www.sixt.com/car-rental/egypt/cairo/cairo-airport"
+  },
+  {
+   "name": "Egyptian Meteorological Authority",
+   "cat": "safety",
+   "note": "Offizieller Wetterdienst mit Vorhersagen",
+   "use": "ok",
+   "url": "https://www.ema.gov.eg",
+   "nostore": true,
+   "src": "https://alertingauthority.wmo.int/authorities.php?recId=45"
   }
  ],
  "fetched": "2026-11-23"

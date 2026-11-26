@@ -127,6 +127,24 @@
    "use": "limited",
    "req": "Führerschein und Kreditkarte nötig",
    "src": "https://www.enterprise.com/en/car-rental-locations/tt/trinidad-tobago-intl-airport-kh03.html"
+  },
+  {
+   "name": "Visit Trinidad",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite für Trinidad",
+   "use": "ok",
+   "url": "https://www.visittrinidad.tt/",
+   "nostore": true,
+   "src": "https://www.visittrinidad.tt/"
+  },
+  {
+   "name": "Visit Tobago",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tobago Tourism Agency",
+   "use": "ok",
+   "url": "https://www.visittobago.gov.tt/",
+   "nostore": true,
+   "src": "https://www.visittobago.gov.tt/"
   }
  ]
 }

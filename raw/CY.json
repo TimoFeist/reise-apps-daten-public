@@ -246,6 +246,14 @@
    "url": "https://www.visitcyprus.com",
    "nostore": true,
    "src": "https://www.visitcyprus.com"
+  },
+  {
+   "name": "Cyprus Bus",
+   "cat": "rail",
+   "pkg": "com.gmv.cyprusbus2",
+   "note": "Offizielle App, auch Überlandbusse mit Echtzeit",
+   "use": "ok",
+   "src": "https://intercity-buses.com/en/motion-app/"
   }
  ],
  "replace": [

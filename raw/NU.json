@@ -7,10 +7,69 @@
  "lgbtq_src": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Niue",
  "discontinued": [],
  "apps": [
-  {"name": "Air NZ", "cat": "flights", "pkg": "", "ess": true, "note": "Buchung, Check in und Bordkarte für den Flug ab Auckland", "city": "", "use": "ok", "req": "", "src": "https://www.airnewzealand.com/air-nz-app"},
-  {"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reisehinweise und Warnungen des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"},
-  {"name": "Krisenvorsorgeliste ELEFAND", "cat": "safety", "pkg": "", "ess": false, "note": "Registrierung für Deutsche im Ausland für Krisenfälle", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"},
-  {"name": "SunSmart", "cat": "safety", "pkg": "", "ess": false, "note": "UV Index der WHO als Hilfe zum Sonnenschutz", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"},
-  {"name": "Telecom Niue", "cat": "misc", "pkg": "com.alepo.niue.selfcare", "ess": false, "note": "Guthaben prüfen, aufladen und Kundenkonto verwalten", "city": "", "use": "limited", "req": "Nur mit SIM von Telecom Niue sinnvoll", "src": "https://appgoblin.info/apps/com.alepo.niue.selfcare"}
+  {
+   "name": "Air NZ",
+   "cat": "flights",
+   "pkg": "",
+   "ess": true,
+   "note": "Buchung, Check in und Bordkarte für den Flug ab Auckland",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.airnewzealand.com/air-nz-app"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisehinweise und Warnungen des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"
+  },
+  {
+   "name": "Krisenvorsorgeliste ELEFAND",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Registrierung für Deutsche im Ausland für Krisenfälle",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"
+  },
+  {
+   "name": "SunSmart",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "UV Index der WHO als Hilfe zum Sonnenschutz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/niuesicherheit/2753126"
+  },
+  {
+   "name": "Telecom Niue",
+   "cat": "misc",
+   "pkg": "com.alepo.niue.selfcare",
+   "ess": false,
+   "note": "Guthaben prüfen, aufladen und Kundenkonto verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit SIM von Telecom Niue sinnvoll",
+   "src": "https://appgoblin.info/apps/com.alepo.niue.selfcare"
+  },
+  {
+   "name": "Niue Island",
+   "cat": "tourism",
+   "note": "Offizielle Seite von Niue Tourism",
+   "use": "ok",
+   "url": "https://www.niueisland.com",
+   "nostore": true,
+   "src": "https://www.niueisland.com"
+  }
  ]
 }

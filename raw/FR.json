@@ -376,6 +376,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/FR/app/id1454637089"
+  },
+  {
+   "name": "Wero",
+   "cat": "payment",
+   "pkg": "eu.epicompany.wero.wallet",
+   "note": "Europäische Sofortzahlung, in Frankreich bei Händlern",
+   "use": "limited",
+   "req": "Deutsche Bank mit Wero nötig",
+   "src": "https://www.journaldeleconomie.fr/?p=49235"
   }
  ]
 }

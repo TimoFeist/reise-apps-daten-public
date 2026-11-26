@@ -1,13 +1,140 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606", "updated": "", "note": "Deutsche reisen visumfrei ein (30 Tage Stempel); für Abstecher nach Simbabwe lohnt das KAZA-Visum für 50 USD.", "lgbtq_note": "Homosexuelle Handlungen sind strafbar (15 Jahre bis lebenslang Haft), die Gesellschaft reagiert oft offen feindselig.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606", "fetched": "2026-11-20", "apps": [
-{"name": "Yango", "cat": "taxi", "pkg": "com.yandex.yango", "ess": true, "note": "Meistgenutzter Fahrdienst, auch Essenslieferung", "city": "", "use": "ok", "req": "", "src": "https://yango.com/en_zm/city/lusaka/"},
-{"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": true, "note": "Fahrdienst in Lusaka, Ndola und Kitwe, Barzahlung", "city": "", "use": "ok", "req": "", "src": "https://www.techtrends.co.zm/?p=93439"},
-{"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": false, "note": "Fahrpreis mit dem Fahrer selbst aushandeln", "city": "Lusaka", "use": "ok", "req": "", "src": "https://innovation-village.com/indrive-launches-in-lusaka-challenging-bolt-and-yango-with-new-ride-hailing-option"},
-{"name": "GO (ehemals Ulendo)", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokaler Fahrdienst in Lusaka, Kitwe und Ndola", "city": "", "use": "limited", "req": "Anmeldung per Telefonnummer, Zahlung laut Store per Mobile Money", "src": "https://apps.apple.com/zm/app/id1205909659?l=en-gb"},
-{"name": "Kwik Rides", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokaler Taxi-Fahrdienst in Lusaka", "city": "Lusaka", "use": "limited", "req": "SMS-Bestätigung der Telefonnummer nötig, ausländische Nummer ungeprüft", "src": "https://apps.apple.com/us/app/id6670430513"},
-{"name": "Foodify Zambia", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen aus Restaurants, Zahlung bar oder per Karte", "city": "Lusaka", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/foodify-zambia/id1634826134"},
-{"name": "MTN MoMo", "cat": "payment", "pkg": "com.consumerug", "ess": false, "note": "Mobile Money von MTN für Zahlungen und Überweisungen", "city": "", "use": "limited", "req": "MTN-SIM mit Reisepass und gültigem Visum registrieren, MoMo im Shop aktivieren", "src": "https://www.mtn.zm/momo/"},
-{"name": "My Airtel (Airtel Money)", "cat": "payment", "pkg": "com.airtel.africa.selfcare", "ess": false, "note": "Airtel-Konto und Airtel Money verwalten", "city": "", "use": "limited", "req": "Sambische Airtel-SIM und registriertes Airtel-Money-Konto nötig", "src": "https://play.google.com/store/apps/details?id=com.airtel.africa.selfcare&hl=en_ZA"},
-{"name": "Zamtel Money Customer", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money des staatlichen Anbieters Zamtel", "city": "", "use": "no", "req": "Zamtel-SIM und lokales Mobile-Money-Konto nötig", "src": "https://apps.apple.com/us/app/-/id6670601906"},
-{"name": "DiscoverCars", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen an Flughäfen Lusaka, Ndola, Livingstone", "city": "", "use": "limited", "req": "Bedingungen je Vermieter prüfen (Alter, Karte, Führerschein)", "src": "https://www.discovercars.com/zambia"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "com.grindrapp.android", "ess": false, "note": "Dating-App, in Sambia riskant", "city": "", "use": "no", "req": "Homosexuelle Handlungen mit langer Haft bedroht, Nutzung riskant", "src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606",
+ "updated": "",
+ "note": "Deutsche reisen visumfrei ein (30 Tage Stempel); für Abstecher nach Simbabwe lohnt das KAZA-Visum für 50 USD.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar (15 Jahre bis lebenslang Haft), die Gesellschaft reagiert oft offen feindselig.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606",
+ "fetched": "2026-11-20",
+ "apps": [
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": true,
+   "note": "Meistgenutzter Fahrdienst, auch Essenslieferung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://yango.com/en_zm/city/lusaka/"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Fahrdienst in Lusaka, Ndola und Kitwe, Barzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.techtrends.co.zm/?p=93439"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": false,
+   "note": "Fahrpreis mit dem Fahrer selbst aushandeln",
+   "city": "Lusaka",
+   "use": "ok",
+   "req": "",
+   "src": "https://innovation-village.com/indrive-launches-in-lusaka-challenging-bolt-and-yango-with-new-ride-hailing-option"
+  },
+  {
+   "name": "GO (ehemals Ulendo)",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Fahrdienst in Lusaka, Kitwe und Ndola",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung per Telefonnummer, Zahlung laut Store per Mobile Money",
+   "src": "https://apps.apple.com/zm/app/id1205909659?l=en-gb"
+  },
+  {
+   "name": "Kwik Rides",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokaler Taxi-Fahrdienst in Lusaka",
+   "city": "Lusaka",
+   "use": "limited",
+   "req": "SMS-Bestätigung der Telefonnummer nötig, ausländische Nummer ungeprüft",
+   "src": "https://apps.apple.com/us/app/id6670430513"
+  },
+  {
+   "name": "Foodify Zambia",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen aus Restaurants, Zahlung bar oder per Karte",
+   "city": "Lusaka",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/foodify-zambia/id1634826134"
+  },
+  {
+   "name": "MTN MoMo",
+   "cat": "payment",
+   "pkg": "com.consumerug",
+   "ess": false,
+   "note": "Mobile Money von MTN für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "limited",
+   "req": "MTN-SIM mit Reisepass und gültigem Visum registrieren, MoMo im Shop aktivieren",
+   "src": "https://www.mtn.zm/momo/"
+  },
+  {
+   "name": "My Airtel (Airtel Money)",
+   "cat": "payment",
+   "pkg": "com.airtel.africa.selfcare",
+   "ess": false,
+   "note": "Airtel-Konto und Airtel Money verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Sambische Airtel-SIM und registriertes Airtel-Money-Konto nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.airtel.africa.selfcare&hl=en_ZA"
+  },
+  {
+   "name": "Zamtel Money Customer",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money des staatlichen Anbieters Zamtel",
+   "city": "",
+   "use": "no",
+   "req": "Zamtel-SIM und lokales Mobile-Money-Konto nötig",
+   "src": "https://apps.apple.com/us/app/-/id6670601906"
+  },
+  {
+   "name": "DiscoverCars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen an Flughäfen Lusaka, Ndola, Livingstone",
+   "city": "",
+   "use": "limited",
+   "req": "Bedingungen je Vermieter prüfen (Alter, Karte, Führerschein)",
+   "src": "https://www.discovercars.com/zambia"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "com.grindrapp.android",
+   "ess": false,
+   "note": "Dating-App, in Sambia riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen mit langer Haft bedroht, Nutzung riskant",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606"
+  },
+  {
+   "name": "Zambia Meteorological Department",
+   "cat": "safety",
+   "note": "Amtliche Vorhersagen und Wetterwarnungen",
+   "use": "ok",
+   "url": "https://zmd.gov.zm",
+   "nostore": true,
+   "src": "https://zmd.gov.zm"
+  }
+ ]
+}

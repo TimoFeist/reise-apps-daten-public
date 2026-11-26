@@ -1,16 +1,174 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524", "fetched": "2026-11-17", "updated": "", "note": "Deutsche reisen ohne Visum ein, wegen Umsteigen in Drittstaaten ist ein mindestens 6 Monate gültiger Reisepass nötig, der Personalausweis reicht dann nicht.", "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2013 möglich, Schutz vor Diskriminierung, Rae-rae sind traditionell Teil der Gesellschaft.", "lgbtq_src": "https://equaldex.com/region/french-polynesia", "discontinued": [], "apps": [
-{"name": "Air Tahiti", "cat": "flights", "pkg": "com.airtahiti.mobile", "ess": true, "note": "Inselflüge buchen, einchecken, Bordkarte und Flugstatus", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.airtahiti.mobile"},
-{"name": "Air Tahiti Nui", "cat": "flights", "pkg": "com.airtahitinui.companionapp", "ess": false, "note": "Langstreckenflüge nach Tahiti buchen und verwalten", "city": "", "use": "ok", "req": "", "src": "https://us.airtahitinui.com/air-tahiti-nui-app"},
-{"name": "Terevau", "cat": "rail", "pkg": "pf.isi.terevau", "ess": false, "note": "Fahrplan und Meldungen der Schnellfähre Tahiti und Moorea", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=pf.isi.terevau"},
-{"name": "Aremiti", "cat": "rail", "pkg": "pf.aremiti.app", "ess": false, "note": "Abfahrten, Warnungen und Ticketkopie der Fähre nach Moorea", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=pf.aremiti.app"},
-{"name": "Tauati Ferry & Apetahi Express", "cat": "rail", "pkg": "com.tuatea.mobileapp", "ess": false, "note": "Fähren nach Moorea und zu den Inseln unter dem Winde", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.tuatea.mobileapp&hl=en_AU"},
-{"name": "Vaeara'i", "cat": "rail", "pkg": "", "ess": false, "note": "Fahrpläne der Fähre nach Moorea, Tickets in der Wallet", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1581698463"},
-{"name": "Fenua Move", "cat": "rail", "pkg": "com.fenuamove.app", "ess": false, "note": "Alle Fähren und Flughafentafel Faa'a, auch offline", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.fenuamove.app&hl=en_US"},
-{"name": "Tere Tahiti Mobilités", "cat": "transit", "pkg": "pf.rtct.teretahitimobilites", "ess": true, "note": "Offizielle Bus-App für Tahiti mit Echtzeit-Abfahrten", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=pf.rtct.teretahitimobilites&hl=en_US"},
-{"name": "Tāpe'a", "cat": "taxi", "pkg": "com.tapea.customer", "ess": false, "note": "Taxi bestellen und per Karte zahlen", "city": "", "use": "limited", "req": "Konto nötig, Anmeldung mit ausländischer Nummer nicht belegt", "src": "https://play.google.com/store/apps/details?id=com.tapea.customer"},
-{"name": "Hello Scoot'", "cat": "micro", "pkg": "", "ess": false, "note": "Elektroroller und Autos zum Teilen, minutengenau", "city": "Papeete", "use": "limited", "req": "Führerschein und Visa oder Mastercard nötig, Autos erst ab 25 Jahren", "src": "https://apps.apple.com/mt/app/hello-scoot/id1556542083"},
-{"name": "Avis", "cat": "carshare", "pkg": "com.avis.mobile", "ess": false, "note": "Mietwagen am Flughafen Faa'a und in Papeete", "city": "", "use": "limited", "req": "Fahreralter ab 25 Jahren", "src": "https://www.avis.com/fr/locations/pac/tr/tahiti"},
-{"name": "Foodease", "cat": "delivery", "pkg": "com.customer.foodease", "ess": false, "note": "Restaurantlieferung zwischen Paea und Arue", "city": "Papeete", "use": "limited", "req": "Konto nötig, Anmeldung mit ausländischer Nummer nicht belegt", "src": "https://play.google.com/store/apps/details?id=com.customer.foodease&hl=en_US"},
-{"name": "Anoe", "cat": "tourism", "pkg": "app.anoe", "ess": false, "note": "Inselführer mit Touren, Wetter, Fähren und Sprachführer", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=app.anoe"},
-{"name": "Bora Explorer", "cat": "tourism", "pkg": "", "ess": false, "note": "Offline-Inselkarte mit Stränden, Lokalen und Wanderungen", "city": "Bora Bora", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id1468228304"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
+ "fetched": "2026-11-17",
+ "updated": "",
+ "note": "Deutsche reisen ohne Visum ein, wegen Umsteigen in Drittstaaten ist ein mindestens 6 Monate gültiger Reisepass nötig, der Personalausweis reicht dann nicht.",
+ "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, gleichgeschlechtliche Ehe seit 2013 möglich, Schutz vor Diskriminierung, Rae-rae sind traditionell Teil der Gesellschaft.",
+ "lgbtq_src": "https://equaldex.com/region/french-polynesia",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Air Tahiti",
+   "cat": "flights",
+   "pkg": "com.airtahiti.mobile",
+   "ess": true,
+   "note": "Inselflüge buchen, einchecken, Bordkarte und Flugstatus",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.airtahiti.mobile"
+  },
+  {
+   "name": "Air Tahiti Nui",
+   "cat": "flights",
+   "pkg": "com.airtahitinui.companionapp",
+   "ess": false,
+   "note": "Langstreckenflüge nach Tahiti buchen und verwalten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://us.airtahitinui.com/air-tahiti-nui-app"
+  },
+  {
+   "name": "Terevau",
+   "cat": "rail",
+   "pkg": "pf.isi.terevau",
+   "ess": false,
+   "note": "Fahrplan und Meldungen der Schnellfähre Tahiti und Moorea",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=pf.isi.terevau"
+  },
+  {
+   "name": "Aremiti",
+   "cat": "rail",
+   "pkg": "pf.aremiti.app",
+   "ess": false,
+   "note": "Abfahrten, Warnungen und Ticketkopie der Fähre nach Moorea",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=pf.aremiti.app"
+  },
+  {
+   "name": "Tauati Ferry & Apetahi Express",
+   "cat": "rail",
+   "pkg": "com.tuatea.mobileapp",
+   "ess": false,
+   "note": "Fähren nach Moorea und zu den Inseln unter dem Winde",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.tuatea.mobileapp&hl=en_AU"
+  },
+  {
+   "name": "Vaeara'i",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrpläne der Fähre nach Moorea, Tickets in der Wallet",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1581698463"
+  },
+  {
+   "name": "Fenua Move",
+   "cat": "rail",
+   "pkg": "com.fenuamove.app",
+   "ess": false,
+   "note": "Alle Fähren und Flughafentafel Faa'a, auch offline",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.fenuamove.app&hl=en_US"
+  },
+  {
+   "name": "Tere Tahiti Mobilités",
+   "cat": "transit",
+   "pkg": "pf.rtct.teretahitimobilites",
+   "ess": true,
+   "note": "Offizielle Bus-App für Tahiti mit Echtzeit-Abfahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=pf.rtct.teretahitimobilites&hl=en_US"
+  },
+  {
+   "name": "Tāpe'a",
+   "cat": "taxi",
+   "pkg": "com.tapea.customer",
+   "ess": false,
+   "note": "Taxi bestellen und per Karte zahlen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto nötig, Anmeldung mit ausländischer Nummer nicht belegt",
+   "src": "https://play.google.com/store/apps/details?id=com.tapea.customer"
+  },
+  {
+   "name": "Hello Scoot'",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektroroller und Autos zum Teilen, minutengenau",
+   "city": "Papeete",
+   "use": "limited",
+   "req": "Führerschein und Visa oder Mastercard nötig, Autos erst ab 25 Jahren",
+   "src": "https://apps.apple.com/mt/app/hello-scoot/id1556542083"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.mobile",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Faa'a und in Papeete",
+   "city": "",
+   "use": "limited",
+   "req": "Fahreralter ab 25 Jahren",
+   "src": "https://www.avis.com/fr/locations/pac/tr/tahiti"
+  },
+  {
+   "name": "Foodease",
+   "cat": "delivery",
+   "pkg": "com.customer.foodease",
+   "ess": false,
+   "note": "Restaurantlieferung zwischen Paea und Arue",
+   "city": "Papeete",
+   "use": "limited",
+   "req": "Konto nötig, Anmeldung mit ausländischer Nummer nicht belegt",
+   "src": "https://play.google.com/store/apps/details?id=com.customer.foodease&hl=en_US"
+  },
+  {
+   "name": "Anoe",
+   "cat": "tourism",
+   "pkg": "app.anoe",
+   "ess": false,
+   "note": "Inselführer mit Touren, Wetter, Fähren und Sprachführer",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=app.anoe"
+  },
+  {
+   "name": "Bora Explorer",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offline-Inselkarte mit Stränden, Lokalen und Wanderungen",
+   "city": "Bora Bora",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id1468228304"
+  },
+  {
+   "name": "Météo-France Polynésie",
+   "cat": "safety",
+   "note": "Amtliche Vorhersagen und Wetterwarnungen",
+   "use": "ok",
+   "url": "https://meteo.pf",
+   "nostore": true,
+   "src": "https://meteo.pf/fr/galerie"
+  }
+ ]
+}

@@ -99,6 +99,25 @@
    "use": "no",
    "req": "Gesperrt, Homosexualität strafbar, Überwachung möglich",
    "src": "https://techradar.com/vpn/grindr-is-the-second-most-banned-social-apphow-to-unblock-it"
+  },
+  {
+   "name": "RAJA Personenzüge",
+   "cat": "rail",
+   "note": "Fahrplan und Tickets der iranischen Personenzüge",
+   "use": "limited",
+   "req": "Zahlung nur mit iranischer Karte",
+   "url": "https://www.raja.ir/",
+   "nostore": true,
+   "src": "https://www.raja.ir/"
+  },
+  {
+   "name": "E-Visa Iran (MFA)",
+   "cat": "entry",
+   "note": "Visumantrag beim iranischen Außenministerium",
+   "use": "ok",
+   "url": "https://evisa.mfa.ir/",
+   "nostore": true,
+   "src": "https://evisa.mfa.ir/"
   }
  ],
  "replace": [

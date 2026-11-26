@@ -313,6 +313,42 @@
    "use": "limited",
    "req": "SMS Bestätigung, taiwanische Nummer meist nötig",
    "src": "https://www-ws.gov.taipei/001/Upload/371/relfile/18928/8057750/fc946f6a-b0b7-4c93-8cc4-63e111fba94a.pdf"
+  },
+  {
+   "name": "iRent",
+   "cat": "carshare",
+   "pkg": "com.cht.easyrent.irent",
+   "note": "Carsharing und Mietwagen per App in Taiwan",
+   "use": "limited",
+   "req": "Pass und Internationaler Führerschein nötig",
+   "src": "https://www.irentcar.com.tw/en/rental-notice.html"
+  },
+  {
+   "name": "JKOPAY 街口支付",
+   "cat": "payment",
+   "pkg": "com.jkos.app",
+   "note": "Große taiwanische QR-Bezahl-App",
+   "use": "no",
+   "req": "Taiwanische Nummer und Konto nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.jkos.app"
+  },
+  {
+   "name": "Easy Wallet 悠遊付",
+   "cat": "payment",
+   "pkg": "com.easycard.wallet",
+   "note": "Wallet des EasyCard-Betreibers",
+   "use": "no",
+   "req": "Taiwanische Nummer nötig",
+   "src": "https://www.easycard.com.tw"
+  },
+  {
+   "name": "Taiwan Arrival Card (TWAC)",
+   "cat": "entry",
+   "note": "Online-Ankunftskarte, kostenlos, vor Anreise",
+   "use": "ok",
+   "url": "https://twac.immigration.gov.tw",
+   "nostore": true,
+   "src": "https://www.immigration.gov.tw/5475/5478/141457/142068/398041/"
   }
  ]
 }

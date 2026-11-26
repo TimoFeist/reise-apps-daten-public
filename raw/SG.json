@@ -326,6 +326,24 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/singapore"
+  },
+  {
+   "name": "GetGo",
+   "cat": "carshare",
+   "pkg": "sg.getgo.booking",
+   "note": "Größtes Carsharing Singapurs, Autos per App öffnen",
+   "use": "limited",
+   "req": "Führerscheinprüfung, ggf. Internationaler Führerschein",
+   "src": "https://www.sla.gov.sg/articles/geospatial-power--getgo/"
+  },
+  {
+   "name": "Tribecar",
+   "cat": "carshare",
+   "pkg": "com.tribecar.app",
+   "note": "Carsharing mit stündlicher oder täglicher Miete",
+   "use": "limited",
+   "req": "Führerscheinprüfung, ggf. Internationaler Führerschein",
+   "src": "https://www.singsaver.com.sg/page/blog/car-sharing-options-in-singapore"
   }
  ],
  "replace": [

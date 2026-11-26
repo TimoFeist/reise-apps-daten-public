@@ -214,6 +214,15 @@
    "use": "limited",
    "req": "Anmeldung für Besucher nicht belegt",
    "src": "https://www.omanobserver.om/article/1160404/oman/transport/smart-parking-in-al-khuwair-al-ghubra-from-sunday"
+  },
+  {
+   "name": "ROP eVisa",
+   "cat": "entry",
+   "note": "eVisum und Verlängerung der Royal Oman Police",
+   "use": "ok",
+   "url": "https://evisa.rop.gov.om",
+   "nostore": true,
+   "src": "https://gulfnews.com/living-in-uae/visa-immigration/over-100-nationalities-can-enter-oman-visa-free---all-you-need-to-know-1.1679063584099"
   }
  ]
 }

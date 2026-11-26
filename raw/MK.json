@@ -1,13 +1,156 @@
-{"src": "https://www.bento.travel/north-macedonia", "fetched": "2026-11-20", "updated": "August 2026", "note": "Bargeld in Denar mitnehmen, Karten klappen vor allem in größeren Städten, und Uber oder Bolt gibt es nicht.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar und Diskriminierung ist gesetzlich verboten, die gesellschaftliche Akzeptanz ist aber gering und rund um die Pride in Skopje kam es 2025 zu Angriffen.", "lgbtq_src": "https://www.ecoi.net/en/file/local/2115135/laenderkurzinfo-nordmazedonien-08-24-sogi.pdf", "discontinued": [{"name": "Skopska", "pkg": "", "src": "https://www.skopje.in/post/bye-skopska-jsp-launches-new-skopjebus-mobile-app"}], "apps": [
-{"name": "Wizi", "cat": "taxi", "pkg": "com.binom.cammeo", "ess": true, "note": "Taxi-App für Skopje mit Support auf Englisch", "city": "", "use": "limited", "req": "Registrierung per SMS, ausländische Nummer oder eSIM kann scheitern", "src": "https://www.bento.travel/north-macedonia/ride-hailing"},
-{"name": "BeeRide", "cat": "taxi", "pkg": "com.beeride.app", "ess": false, "note": "Taxi in Skopje mit Preisangabe vorab", "city": "Skopje", "use": "limited", "req": "Anmeldung mit ausländischer Nummer und Kartenzahlung klappen oft nicht, bar zahlen", "src": "https://www.bento.travel/north-macedonia/ride-hailing"},
-{"name": "Global Taxi Skopje", "cat": "taxi", "pkg": "com.netinformatika.globaltaxiskopje", "ess": false, "note": "Lizenzierte Taxizentrale mit Live-Ortung und Vorbuchung", "city": "Skopje", "use": "ok", "req": "", "src": "https://www.bento.travel/north-macedonia/ride-hailing"},
-{"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen und Einkäufe in Skopje, Bitola, Ohrid und Tetovo", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/north-macedonia"},
-{"name": "Korpa", "cat": "delivery", "pkg": "ba.korpa.user", "ess": false, "note": "Lokaler Lieferdienst, bar oder mit Karte zahlen", "city": "Skopje", "use": "ok", "req": "", "src": "https://www.bento.travel/north-macedonia"},
-{"name": "Viber", "cat": "misc", "pkg": "com.viber.voip", "ess": false, "note": "Üblicher Kontaktweg zu Taxis, Unterkünften und Touren", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/north-macedonia"},
-{"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Offline-Karte als Reserve für Landstraßen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/north-macedonia"},
-{"name": "SkopjeBus", "cat": "transit", "pkg": "com.modeshift.jsp", "ess": true, "note": "Offizielle Stadtbus-App von JSP, Tickets per QR-Code", "city": "Skopje", "use": "ok", "req": "", "src": "https://www.bento.travel/north-macedonia/transit"},
-{"name": "Avant2Go", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektro-Carsharing mit rund 100 Autos in Skopje", "city": "Skopje", "use": "limited", "req": "Registrierung in der App, gültiger Führerschein und Kauf eines Pakets nötig", "src": "https://www.skopje.in/post/first-electric-car-sharing-service-launches-in-skopje"},
-{"name": "BinBin", "cat": "micro", "pkg": "", "ess": false, "note": "Leih-E-Scooter in Skopje, Abrechnung pro Minute", "city": "Skopje", "use": "limited", "req": "Aufladen per Bankkarte, Gutscheine per SMS nur mit A1-SIM", "src": "https://skopje.in/post/rental-price-of-binbin-scooters-raised-once-again-now-they-cost-11-denars-per-minute"},
-{"name": "Parking.MK", "cat": "parking", "pkg": "", "ess": false, "note": "Zonenparken der städtischen Parkgesellschaft per Karte zahlen", "city": "Skopje", "use": "ok", "req": "", "src": "https://www.skopje.in/post/the-city-parking-public-enterprise-has-launched-a-mobile-application-that-can-be-used-to-pay-online"}
-]}
+{
+ "src": "https://www.bento.travel/north-macedonia",
+ "fetched": "2026-11-20",
+ "updated": "August 2026",
+ "note": "Bargeld in Denar mitnehmen, Karten klappen vor allem in größeren Städten, und Uber oder Bolt gibt es nicht.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar und Diskriminierung ist gesetzlich verboten, die gesellschaftliche Akzeptanz ist aber gering und rund um die Pride in Skopje kam es 2025 zu Angriffen.",
+ "lgbtq_src": "https://www.ecoi.net/en/file/local/2115135/laenderkurzinfo-nordmazedonien-08-24-sogi.pdf",
+ "discontinued": [
+  {
+   "name": "Skopska",
+   "pkg": "",
+   "src": "https://www.skopje.in/post/bye-skopska-jsp-launches-new-skopjebus-mobile-app"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Wizi",
+   "cat": "taxi",
+   "pkg": "com.binom.cammeo",
+   "ess": true,
+   "note": "Taxi-App für Skopje mit Support auf Englisch",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung per SMS, ausländische Nummer oder eSIM kann scheitern",
+   "src": "https://www.bento.travel/north-macedonia/ride-hailing"
+  },
+  {
+   "name": "BeeRide",
+   "cat": "taxi",
+   "pkg": "com.beeride.app",
+   "ess": false,
+   "note": "Taxi in Skopje mit Preisangabe vorab",
+   "city": "Skopje",
+   "use": "limited",
+   "req": "Anmeldung mit ausländischer Nummer und Kartenzahlung klappen oft nicht, bar zahlen",
+   "src": "https://www.bento.travel/north-macedonia/ride-hailing"
+  },
+  {
+   "name": "Global Taxi Skopje",
+   "cat": "taxi",
+   "pkg": "com.netinformatika.globaltaxiskopje",
+   "ess": false,
+   "note": "Lizenzierte Taxizentrale mit Live-Ortung und Vorbuchung",
+   "city": "Skopje",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/north-macedonia/ride-hailing"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in Skopje, Bitola, Ohrid und Tetovo",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/north-macedonia"
+  },
+  {
+   "name": "Korpa",
+   "cat": "delivery",
+   "pkg": "ba.korpa.user",
+   "ess": false,
+   "note": "Lokaler Lieferdienst, bar oder mit Karte zahlen",
+   "city": "Skopje",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/north-macedonia"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": false,
+   "note": "Üblicher Kontaktweg zu Taxis, Unterkünften und Touren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/north-macedonia"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Offline-Karte als Reserve für Landstraßen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/north-macedonia"
+  },
+  {
+   "name": "SkopjeBus",
+   "cat": "transit",
+   "pkg": "com.modeshift.jsp",
+   "ess": true,
+   "note": "Offizielle Stadtbus-App von JSP, Tickets per QR-Code",
+   "city": "Skopje",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/north-macedonia/transit"
+  },
+  {
+   "name": "Avant2Go",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektro-Carsharing mit rund 100 Autos in Skopje",
+   "city": "Skopje",
+   "use": "limited",
+   "req": "Registrierung in der App, gültiger Führerschein und Kauf eines Pakets nötig",
+   "src": "https://www.skopje.in/post/first-electric-car-sharing-service-launches-in-skopje"
+  },
+  {
+   "name": "BinBin",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih-E-Scooter in Skopje, Abrechnung pro Minute",
+   "city": "Skopje",
+   "use": "limited",
+   "req": "Aufladen per Bankkarte, Gutscheine per SMS nur mit A1-SIM",
+   "src": "https://skopje.in/post/rental-price-of-binbin-scooters-raised-once-again-now-they-cost-11-denars-per-minute"
+  },
+  {
+   "name": "Parking.MK",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Zonenparken der städtischen Parkgesellschaft per Karte zahlen",
+   "city": "Skopje",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.skopje.in/post/the-city-parking-public-enterprise-has-launched-a-mobile-application-that-can-be-used-to-pay-online"
+  },
+  {
+   "name": "Tourism Macedonia",
+   "cat": "tourism",
+   "note": "Staatliche Tourismusseite mit Reisezielen",
+   "use": "ok",
+   "url": "https://tourismmacedonia.gov.mk/?lang=en",
+   "nostore": true,
+   "src": "https://tourismmacedonia.gov.mk/publikacii/?lang=en"
+  },
+  {
+   "name": "UHMR Wetterdienst",
+   "cat": "safety",
+   "note": "Amtlicher Wetterdienst mit Vorhersagen und Warnungen",
+   "use": "ok",
+   "url": "https://uhmr.gov.mk",
+   "nostore": true,
+   "src": "https://uhmr.gov.mk"
+  }
+ ]
+}

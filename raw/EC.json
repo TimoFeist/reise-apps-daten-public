@@ -1,16 +1,171 @@
-{"src": "https://www.bento.travel/from/usa/to/ecuador", "updated": "August 2026", "note": "Bargeld in kleinen, unbeschädigten Dollarscheinen mitnehmen, weil Kartenzahlung und Netz oft ausfallen.", "apps": [
-{"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": true, "note": "Preis selbst vorschlagen, Fahrer nach Bewertung wählen", "city": "", "use": "ok", "req": ""},
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Einfachste Wahl für Besucher in mehreren Städten", "city": "", "use": "ok", "req": ""},
-{"name": "DiDi", "cat": "taxi", "pkg": "com.didiglobal.passenger", "ess": false, "note": "Zum Preisvergleich in Quito und Guayaquil", "city": "", "use": "ok", "req": ""},
-{"name": "Ktaxi", "cat": "taxi", "pkg": "com.kradac.ktaxi", "ess": false, "note": "Vermittelt Funktaxis, auch in kleineren Orten", "city": "", "use": "ok", "req": ""},
-{"name": "AzuTaxi", "cat": "taxi", "pkg": "com.kradac.azutaxi", "ess": false, "note": "Taxibestellung in Cuenca und der Provinz Azuay", "city": "Cuenca", "use": "ok", "req": ""},
-{"name": "PedidosYa", "cat": "delivery", "pkg": "com.pedidosya", "ess": true, "note": "Größtes Liefernetz für Essen und Einkäufe", "city": "", "use": "ok", "req": ""},
-{"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": true, "note": "Essenslieferung mit dem vorhandenen Uber-Konto", "city": "", "use": "ok", "req": ""},
-{"name": "Rappi", "cat": "delivery", "pkg": "com.grability.rappi", "ess": false, "note": "Essen und Einkäufe, Alternative in Großstädten", "city": "", "use": "ok", "req": ""},
-{"name": "Waze", "cat": "maps", "pkg": "com.waze", "ess": false, "note": "Live-Verkehrslage für Autofahrer in Großstädten", "city": "", "use": "ok", "req": ""},
-{"name": "Quito Nos Mueve", "cat": "transit", "pkg": "com.busmatick.busapp_quito", "ess": true, "note": "Offizielle App für Metro, Trolebús, Ecovía und QuitoBici", "city": "Quito", "use": "ok", "req": ""},
-{"name": "Moovit", "cat": "transit", "pkg": "com.tranzmate", "ess": false, "note": "Routenplaner für Busse als zweite Option", "city": "", "use": "ok", "req": ""},
-{"name": "ECU 911", "cat": "safety", "pkg": "com.ecu911", "ess": false, "note": "Offizielle Notruf-App, sendet den Standort mit", "city": "", "use": "limited", "req": "Registrierung mit Reisepass und Handynummer; Notruf 911 geht immer", "src": "https://www.primicias.ec/noticias/sociedad/reportar-emergencias-robos-accidentes-aplicacion-ecu911"},
-{"name": "Enterprise", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen direkt am Flughafen Quito", "city": "Quito", "use": "ok", "req": "", "src": "https://www.enterprise.com/es/car-rental-locations/ec/aeropuerto-internacional-de-quito-kx05.html"},
-{"name": "AppSERT", "cat": "parking", "pkg": "", "ess": false, "note": "Offizielle App der EMOV EP für Parkzonen in Cuenca", "city": "Cuenca", "use": "limited", "req": "Benutzerkonto nötig, Anmeldung für Ausländer nicht belegt", "src": "https://apps.apple.com/ec/app/appsert/id1444755840"}
-], "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist erlaubt und Diskriminierung im Arbeitsrecht verboten.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232", "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/from/usa/to/ecuador",
+ "updated": "August 2026",
+ "note": "Bargeld in kleinen, unbeschädigten Dollarscheinen mitnehmen, weil Kartenzahlung und Netz oft ausfallen.",
+ "apps": [
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": true,
+   "note": "Preis selbst vorschlagen, Fahrer nach Bewertung wählen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Einfachste Wahl für Besucher in mehreren Städten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "ess": false,
+   "note": "Zum Preisvergleich in Quito und Guayaquil",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Ktaxi",
+   "cat": "taxi",
+   "pkg": "com.kradac.ktaxi",
+   "ess": false,
+   "note": "Vermittelt Funktaxis, auch in kleineren Orten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "AzuTaxi",
+   "cat": "taxi",
+   "pkg": "com.kradac.azutaxi",
+   "ess": false,
+   "note": "Taxibestellung in Cuenca und der Provinz Azuay",
+   "city": "Cuenca",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Größtes Liefernetz für Essen und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": true,
+   "note": "Essenslieferung mit dem vorhandenen Uber-Konto",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Rappi",
+   "cat": "delivery",
+   "pkg": "com.grability.rappi",
+   "ess": false,
+   "note": "Essen und Einkäufe, Alternative in Großstädten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Live-Verkehrslage für Autofahrer in Großstädten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Quito Nos Mueve",
+   "cat": "transit",
+   "pkg": "com.busmatick.busapp_quito",
+   "ess": true,
+   "note": "Offizielle App für Metro, Trolebús, Ecovía und QuitoBici",
+   "city": "Quito",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "ess": false,
+   "note": "Routenplaner für Busse als zweite Option",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "ECU 911",
+   "cat": "safety",
+   "pkg": "com.ecu911",
+   "ess": false,
+   "note": "Offizielle Notruf-App, sendet den Standort mit",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Reisepass und Handynummer; Notruf 911 geht immer",
+   "src": "https://www.primicias.ec/noticias/sociedad/reportar-emergencias-robos-accidentes-aplicacion-ecu911"
+  },
+  {
+   "name": "Enterprise",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen direkt am Flughafen Quito",
+   "city": "Quito",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.enterprise.com/es/car-rental-locations/ec/aeropuerto-internacional-de-quito-kx05.html"
+  },
+  {
+   "name": "AppSERT",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle App der EMOV EP für Parkzonen in Cuenca",
+   "city": "Cuenca",
+   "use": "limited",
+   "req": "Benutzerkonto nötig, Anmeldung für Ausländer nicht belegt",
+   "src": "https://apps.apple.com/ec/app/appsert/id1444755840"
+  },
+  {
+   "name": "Deuna",
+   "cat": "payment",
+   "pkg": "com.appdeuna.wallet",
+   "note": "Bezahlen per QR, verbreitet in Ecuador",
+   "use": "no",
+   "req": "Ecuadorianisches Bankkonto nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.appdeuna.wallet&hl=en"
+  },
+  {
+   "name": "Ecuador Travel",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite von Ecuador",
+   "use": "ok",
+   "url": "https://ecuador.travel",
+   "nostore": true,
+   "src": "https://ecuador.travel"
+  }
+ ],
+ "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist erlaubt und Diskriminierung im Arbeitsrecht verboten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ecuador-node/ecuadorsicherheit/223232",
+ "fetched": "2026-11-17"
+}

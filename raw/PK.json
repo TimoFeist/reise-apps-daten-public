@@ -215,6 +215,24 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/pakistan"
+  },
+  {
+   "name": "JazzCash",
+   "cat": "payment",
+   "pkg": "com.techlogix.mobilinkcustomer",
+   "note": "Großes Mobile-Wallet in Pakistan",
+   "use": "no",
+   "req": "Pakistanische SIM und CNIC nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer&hl=en"
+  },
+  {
+   "name": "easypaisa",
+   "cat": "payment",
+   "pkg": "pk.com.telenor.phoenix",
+   "note": "Verbreitetes Mobile-Wallet für Zahlungen und QR",
+   "use": "no",
+   "req": "Pakistanische SIM und Ausweis nötig",
+   "src": "https://play.google.com/store/apps/details?id=pk.com.telenor.phoenix&hl=en"
   }
  ]
 }

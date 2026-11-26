@@ -105,6 +105,25 @@
    "use": "no",
    "req": "Dänische CPR-Nummer, MitID, dänische oder grönländische Nummer und Bankkarte nötig",
    "src": "https://mobilepay.dk/app/legal/private-terms-en"
+  },
+  {
+   "name": "Nuup Bussii",
+   "cat": "transit",
+   "note": "Stadtbus Nuuk, Fahrpläne und Online-Tickets",
+   "city": "Nuuk",
+   "use": "ok",
+   "url": "https://bus.gl/en/",
+   "nostore": true,
+   "src": "https://bus.gl/en/purchase/tickets-and-cards/"
+  },
+  {
+   "name": "MobilePay",
+   "cat": "payment",
+   "pkg": "dk.danskebank.mobilepay",
+   "note": "Auch in Grönland verbreitete Bezahl-App",
+   "use": "no",
+   "req": "Grönländische oder dänische Nummer nötig",
+   "src": "https://lawinsider.com/da/contracts/lC3DXiIDkko"
   }
  ],
  "replace": [

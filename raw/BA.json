@@ -155,6 +155,24 @@
    "use": "ok",
    "req": "",
    "src": "https://en.banjaluka.rs.ba/banja-luka-introduces-payment-of-parking-service-with-bank-card-through-go-parking-application/"
+  },
+  {
+   "name": "Visit Sarajevo",
+   "cat": "tourism",
+   "note": "Tourismusportal der Stadt Sarajevo",
+   "use": "ok",
+   "url": "https://visitsarajevo.ba",
+   "nostore": true,
+   "src": "https://visitsarajevo.ba"
+  },
+  {
+   "name": "FHMZ BiH",
+   "cat": "safety",
+   "note": "Wetter und Unwetterwarnungen der Föderation",
+   "use": "ok",
+   "url": "https://www.fhmzbih.gov.ba",
+   "nostore": true,
+   "src": "https://alertingauthority.wmo.int/authorities.php?recId=20"
   }
  ]
 }

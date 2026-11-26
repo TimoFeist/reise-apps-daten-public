@@ -1,1 +1,286 @@
-{"src": "https://www.bento.travel/ukraine", "fetched": "2026-11-20", "updated": "August 2026", "note": "Vor der Reise Air Alert installieren, jede Sirene befolgen und die Ausgangssperre täglich prüfen.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, in den russisch besetzten Gebieten hat sich die Lage aber drastisch verschlechtert.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ukraine-node/ukrainesicherheit-201946", "discontinued": [], "apps": [{"name": "Uklon", "cat": "taxi", "pkg": "ua.com.uklontaxi", "ess": true, "note": "Größter ukrainischer Fahrdienst, bar oder mit Karte", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/ride-hailing"}, {"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": true, "note": "Weit verbreitet, englische Oberfläche, Festpreis vorab", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/ride-hailing"}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": false, "note": "Internationale Alternative in Kyjiw und weiteren Städten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/ride-hailing"}, {"name": "Bolt Food", "cat": "delivery", "pkg": "com.bolt.deliveryclient", "ess": true, "note": "Essen und Einkäufe liefern lassen, auch Barzahlung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/food-delivery"}, {"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": true, "note": "Große Auswahl an Restaurants und Läden", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/food-delivery"}, {"name": "LOKO", "cat": "delivery", "pkg": "ua.com.loko.app", "ess": false, "note": "Restaurantessen und Silpo-Lebensmittel in einer App", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/food-delivery"}, {"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Offline-Karten, nützlich bei Netz- oder Stromausfall", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/navigation"}, {"name": "Viber", "cat": "misc", "pkg": "com.viber.voip", "ess": false, "note": "In der Ukraine verbreiteter Messenger", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/messaging"}, {"name": "Telegram", "cat": "misc", "pkg": "org.telegram.messenger", "ess": false, "note": "Lokale Nachrichtenkanäle, ersetzt keine Warnungen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine/messaging"}, {"name": "Monobank", "cat": "payment", "pkg": "", "ess": false, "note": "Ukrainische Banking-App für Einwohner", "city": "", "use": "no", "req": "Ukrainisches Konto und Identitätsprüfung nötig", "src": "https://www.bento.travel/ukraine/payments"}, {"name": "Privat24", "cat": "payment", "pkg": "", "ess": false, "note": "Banking-App der PrivatBank für Einwohner", "city": "", "use": "no", "req": "Ukrainisches Konto und Identitätsprüfung nötig", "src": "https://www.bento.travel/ukraine/payments"}, {"name": "Revolut", "cat": "payment", "pkg": "", "ess": false, "note": "Vor der Reise einrichten, kein lokales Zahlsystem", "city": "", "use": "limited", "req": "Nur mit bereits bestehendem Konto", "src": "https://www.bento.travel/ukraine/payments"}, {"name": "Wise", "cat": "payment", "pkg": "", "ess": false, "note": "Vor der Reise einrichten, kein lokales Zahlsystem", "city": "", "use": "limited", "req": "Nur mit bereits bestehendem Konto", "src": "https://www.bento.travel/ukraine/payments"}, {"name": "Air Alert (Povitryana Tryvoga)", "cat": "safety", "pkg": "com.ukrainealarm", "ess": true, "note": "Luftalarm für die gewählte Region, auch im Lautlosmodus", "city": "", "use": "ok", "req": "", "src": "https://ajax.systems/de/blog/zastosunok-povitryana-trivoga/"}, {"name": "Ukrzaliznytsia", "cat": "rail", "pkg": "ua.gov.uz", "ess": true, "note": "Offizielle Bahn-App für Zugtickets, auch auf Englisch", "city": "", "use": "limited", "req": "Für einige stark gefragte Züge Verifizierung per Diia nötig, sonst Kauf am Schalter", "src": "https://unn.ua/en/news/verification-via-diiasignature-for-ticket-purchases-will-be-introduced-only-for-three-trains-uz-revealed-details"}, {"name": "Diia", "cat": "misc", "pkg": "", "ess": false, "note": "Staatliche App für digitale Dokumente und Behördendienste", "city": "", "use": "no", "req": "Ukrainischer Aufenthaltstitel, Steuernummer und BankID nötig", "src": "https://visitukraine.today/blog/2186/diia-for-foreigners-how-to-get-an-e-permit-e-residency-and-other-services"}, {"name": "Getmancar", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing und Mietwagen in Kyjiw, Lwiw und Dnipro", "city": "", "use": "limited", "req": "Ab 18 mit Führerschein Klasse B, Ausländer brauchen internationalen Führerschein", "src": "https://getmancar.com/blogs/car-rental-in-ukraine"}, {"name": "Bolt", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter in der Bolt-App in 12 Städten", "city": "", "use": "ok", "req": "", "src": "https://epravda.com.ua/biznes/bolt-vidkriv-sezon-elektrosamokativ-u-12-mistah-ukrajini-819105/"}, {"name": "Kyiv Digital", "cat": "transit", "pkg": "com.kyivdigital", "ess": true, "note": "QR-Tickets, Parken, Luftalarm und Schutzräume in Kyjiw", "city": "Kyiv", "use": "ok", "req": "", "src": "https://guide.kyivcity.gov.ua/en/public-transport"}, {"name": "LeoCard", "cat": "transit", "pkg": "org.lvivavtodor.eticket", "ess": false, "note": "Fahrscheine für Busse und Trams in Lwiw kaufen", "city": "Lviv", "use": "ok", "req": "", "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"}, {"name": "CityBus Lviv", "cat": "transit", "pkg": "ua.in.citybus.lviv", "ess": false, "note": "Echtzeitpositionen der Busse in Lwiw", "city": "Lviv", "use": "ok", "req": "", "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"}, {"name": "EasyWay", "cat": "transit", "pkg": "com.eway", "ess": false, "note": "Routen und Fahrzeugpositionen im Nahverkehr vieler Städte", "city": "", "use": "ok", "req": "", "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"}, {"name": "Lviv City Card", "cat": "tourism", "pkg": "info.incard.lviv", "ess": false, "note": "Stadtpass mit freiem Museumseintritt und Rabatten", "city": "Lviv", "use": "ok", "req": "", "src": "https://lviv.travel/en/city-card"}, {"name": "INFOBUS", "cat": "rail", "pkg": "eu.infobus.app", "ess": false, "note": "Mehrsprachige Bus- und Zugsuche, Buchungsportal", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine"}, {"name": "FlixBus", "cat": "rail", "pkg": "de.flixbus.app", "ess": false, "note": "Großes Fernbusnetz, Grenzzeit einplanen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/ukraine"}]}
+{
+ "src": "https://www.bento.travel/ukraine",
+ "fetched": "2026-11-20",
+ "updated": "August 2026",
+ "note": "Vor der Reise Air Alert installieren, jede Sirene befolgen und die Ausgangssperre täglich prüfen.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, in den russisch besetzten Gebieten hat sich die Lage aber drastisch verschlechtert.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ukraine-node/ukrainesicherheit-201946",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uklon",
+   "cat": "taxi",
+   "pkg": "ua.com.uklontaxi",
+   "ess": true,
+   "note": "Größter ukrainischer Fahrdienst, bar oder mit Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/ride-hailing"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Weit verbreitet, englische Oberfläche, Festpreis vorab",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/ride-hailing"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Internationale Alternative in Kyjiw und weiteren Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/ride-hailing"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": true,
+   "note": "Essen und Einkäufe liefern lassen, auch Barzahlung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/food-delivery"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": true,
+   "note": "Große Auswahl an Restaurants und Läden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/food-delivery"
+  },
+  {
+   "name": "LOKO",
+   "cat": "delivery",
+   "pkg": "ua.com.loko.app",
+   "ess": false,
+   "note": "Restaurantessen und Silpo-Lebensmittel in einer App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/food-delivery"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Offline-Karten, nützlich bei Netz- oder Stromausfall",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/navigation"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": false,
+   "note": "In der Ukraine verbreiteter Messenger",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/messaging"
+  },
+  {
+   "name": "Telegram",
+   "cat": "misc",
+   "pkg": "org.telegram.messenger",
+   "ess": false,
+   "note": "Lokale Nachrichtenkanäle, ersetzt keine Warnungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine/messaging"
+  },
+  {
+   "name": "Monobank",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Ukrainische Banking-App für Einwohner",
+   "city": "",
+   "use": "no",
+   "req": "Ukrainisches Konto und Identitätsprüfung nötig",
+   "src": "https://www.bento.travel/ukraine/payments"
+  },
+  {
+   "name": "Privat24",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Banking-App der PrivatBank für Einwohner",
+   "city": "",
+   "use": "no",
+   "req": "Ukrainisches Konto und Identitätsprüfung nötig",
+   "src": "https://www.bento.travel/ukraine/payments"
+  },
+  {
+   "name": "Revolut",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Vor der Reise einrichten, kein lokales Zahlsystem",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit bereits bestehendem Konto",
+   "src": "https://www.bento.travel/ukraine/payments"
+  },
+  {
+   "name": "Wise",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Vor der Reise einrichten, kein lokales Zahlsystem",
+   "city": "",
+   "use": "limited",
+   "req": "Nur mit bereits bestehendem Konto",
+   "src": "https://www.bento.travel/ukraine/payments"
+  },
+  {
+   "name": "Air Alert (Povitryana Tryvoga)",
+   "cat": "safety",
+   "pkg": "com.ukrainealarm",
+   "ess": true,
+   "note": "Luftalarm für die gewählte Region, auch im Lautlosmodus",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://ajax.systems/de/blog/zastosunok-povitryana-trivoga/"
+  },
+  {
+   "name": "Ukrzaliznytsia",
+   "cat": "rail",
+   "pkg": "ua.gov.uz",
+   "ess": true,
+   "note": "Offizielle Bahn-App für Zugtickets, auch auf Englisch",
+   "city": "",
+   "use": "limited",
+   "req": "Für einige stark gefragte Züge Verifizierung per Diia nötig, sonst Kauf am Schalter",
+   "src": "https://unn.ua/en/news/verification-via-diiasignature-for-ticket-purchases-will-be-introduced-only-for-three-trains-uz-revealed-details"
+  },
+  {
+   "name": "Diia",
+   "cat": "misc",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliche App für digitale Dokumente und Behördendienste",
+   "city": "",
+   "use": "no",
+   "req": "Ukrainischer Aufenthaltstitel, Steuernummer und BankID nötig",
+   "src": "https://visitukraine.today/blog/2186/diia-for-foreigners-how-to-get-an-e-permit-e-residency-and-other-services"
+  },
+  {
+   "name": "Getmancar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing und Mietwagen in Kyjiw, Lwiw und Dnipro",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 mit Führerschein Klasse B, Ausländer brauchen internationalen Führerschein",
+   "src": "https://getmancar.com/blogs/car-rental-in-ukraine"
+  },
+  {
+   "name": "Bolt",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter in der Bolt-App in 12 Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://epravda.com.ua/biznes/bolt-vidkriv-sezon-elektrosamokativ-u-12-mistah-ukrajini-819105/"
+  },
+  {
+   "name": "Kyiv Digital",
+   "cat": "transit",
+   "pkg": "com.kyivdigital",
+   "ess": true,
+   "note": "QR-Tickets, Parken, Luftalarm und Schutzräume in Kyjiw",
+   "city": "Kyiv",
+   "use": "ok",
+   "req": "",
+   "src": "https://guide.kyivcity.gov.ua/en/public-transport"
+  },
+  {
+   "name": "LeoCard",
+   "cat": "transit",
+   "pkg": "org.lvivavtodor.eticket",
+   "ess": false,
+   "note": "Fahrscheine für Busse und Trams in Lwiw kaufen",
+   "city": "Lviv",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"
+  },
+  {
+   "name": "CityBus Lviv",
+   "cat": "transit",
+   "pkg": "ua.in.citybus.lviv",
+   "ess": false,
+   "note": "Echtzeitpositionen der Busse in Lwiw",
+   "city": "Lviv",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"
+  },
+  {
+   "name": "EasyWay",
+   "cat": "transit",
+   "pkg": "com.eway",
+   "ess": false,
+   "note": "Routen und Fahrzeugpositionen im Nahverkehr vieler Städte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.lviv.travel/en/news/gaid-lvivskim-gromadskim-transportom"
+  },
+  {
+   "name": "Lviv City Card",
+   "cat": "tourism",
+   "pkg": "info.incard.lviv",
+   "ess": false,
+   "note": "Stadtpass mit freiem Museumseintritt und Rabatten",
+   "city": "Lviv",
+   "use": "ok",
+   "req": "",
+   "src": "https://lviv.travel/en/city-card"
+  },
+  {
+   "name": "INFOBUS",
+   "cat": "rail",
+   "pkg": "eu.infobus.app",
+   "ess": false,
+   "note": "Mehrsprachige Bus- und Zugsuche, Buchungsportal",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine"
+  },
+  {
+   "name": "FlixBus",
+   "cat": "rail",
+   "pkg": "de.flixbus.app",
+   "ess": false,
+   "note": "Großes Fernbusnetz, Grenzzeit einplanen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/ukraine"
+  }
+ ]
+}

@@ -73,6 +73,16 @@
    "req": "",
    "src": "https://www.ssl.fo/en/news/explore-the-faroe-islands-by-public-transport",
    "url": "https://booking.ssl.fo/Booking"
+  },
+  {
+   "name": "SSL",
+   "cat": "transit",
+   "note": "Busse und Fähren, Fahrplan und Buchung",
+   "city": "Torshavn",
+   "use": "ok",
+   "url": "https://www.ssl.fo",
+   "nostore": true,
+   "src": "https://visitfaroeislands.com/en/plan-your-stay/transport/public-transportation0"
   }
  ],
  "replace": [

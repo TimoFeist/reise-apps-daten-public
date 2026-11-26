@@ -74,6 +74,15 @@
    "src": "https://www.gibraltar.gov.gi/press-releases/launch-of-new-pay-display-pay-by-phone-qr-code-2222022-7824",
    "url": "https://parking.gibcarparks.com",
    "nostore": true
+  },
+  {
+   "name": "Visit Gibraltar",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite Gibraltars",
+   "use": "ok",
+   "url": "https://www.visitgibraltar.gi/",
+   "nostore": true,
+   "src": "https://www.visitgibraltar.gi/"
   }
  ],
  "replace": [

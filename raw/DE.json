@@ -422,6 +422,15 @@
    "req": "Kennzeichen und Zahlungsmittel hinterlegen",
    "url": "https://www.apcoa.de/en/apcoa-flow-app",
    "src": "https://www.apcoa.de/en/apcoa-flow-app"
+  },
+  {
+   "name": "Wero",
+   "cat": "payment",
+   "pkg": "eu.epicompany.wero.wallet",
+   "note": "Europäische Bezahl-App der Banken für Überweisungen",
+   "use": "limited",
+   "req": "Konto bei teilnehmender Bank nötig",
+   "src": "https://www.db.com/news/detail/20251217-deutsche-bank-launches-wero-for-more-simple-and-sovereign-digital-payments-in-europe"
   }
  ]
 }

@@ -155,6 +155,32 @@
    "use": "no",
    "req": "Nicht gesperrt, aber Überfälle und Raub nach Dates gemeldet",
    "src": "https://our.today/american-airlines-warns-cabin-crews-about-using-dating-apps-in-jamaica"
+  },
+  {
+   "name": "Lynk",
+   "cat": "payment",
+   "pkg": "us.lynk.consumer",
+   "note": "Digitale Wallet der NCB, in Läden per QR nutzbar",
+   "use": "no",
+   "req": "Jamaikanische Nummer und Ausweis nötig",
+   "src": "https://www.jncb.com/about-us/news-room/news/lynk-launches-virtual-card"
+  },
+  {
+   "name": "Visit Jamaica",
+   "cat": "tourism",
+   "note": "Offizielle Seite des Jamaica Tourist Board",
+   "use": "ok",
+   "url": "https://www.visitjamaica.com/",
+   "nostore": true,
+   "src": "https://www.visitjamaica.com/"
+  },
+  {
+   "name": "Jamaica Weather",
+   "cat": "safety",
+   "pkg": "jm.gov.metservice",
+   "note": "Wetter und Warnungen des Met Service Jamaica",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jm.gov.metservice"
   }
  ],
  "replace": [

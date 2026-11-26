@@ -138,6 +138,33 @@
    "use": "limited",
    "req": "Internationaler und deutscher Führerschein nötig",
    "src": "https://www.sixt.com/car-rental/mongolia/"
+  },
+  {
+   "name": "UBTZ Eticket",
+   "cat": "rail",
+   "pkg": "mn.ubtz.eticket",
+   "note": "Zugtickets der Ulaanbaatar-Eisenbahn",
+   "use": "limited",
+   "req": "Oft nur mongolische Bankkarte, wenig Englisch",
+   "src": "https://agatetravel.com/mongolia-train-tickets.html"
+  },
+  {
+   "name": "ABA Mongolia",
+   "cat": "taxi",
+   "pkg": "com.abataxi",
+   "note": "Taxi-App für Ulaanbaatar mit englischer Version",
+   "use": "limited",
+   "req": "Lokale Nummer empfohlen",
+   "src": "https://www.welcomepickups.com/ulaanbaatar/taxi/"
+  },
+  {
+   "name": "Go Mongolia",
+   "cat": "tourism",
+   "note": "Staatliche Tourismusseite mit Reiseinfos",
+   "use": "ok",
+   "url": "https://www.gomongolia.gov.mn",
+   "nostore": true,
+   "src": "https://www.gomongolia.gov.mn/?p=409"
   }
  ]
 }

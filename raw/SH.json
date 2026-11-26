@@ -39,6 +39,15 @@
    "use": "limited",
    "req": "Vorab online registrieren, Freischaltung dauert 24 Std.",
    "src": "https://www.sainthelenabank.com/tourist-card/tourist-card-app/"
+  },
+  {
+   "name": "St Helena Entry Permit",
+   "cat": "entry",
+   "note": "Kurzzeit-Einreiseerlaubnis, bei Ankunft erteilt",
+   "use": "ok",
+   "url": "https://www.sainthelena.gov.sh/public-services/immigration/short-term-entry-permit/",
+   "nostore": true,
+   "src": "https://www.sainthelena.gov.sh/st-helena/entry-requirements/"
   }
  ]
 }

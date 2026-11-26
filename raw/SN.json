@@ -1,15 +1,162 @@
-{"src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190", "fetched": "2026-11-18", "updated": "Stand: 18.11.2026 (Auswärtiges Amt)", "note": "Kein Visum bis drei Monate, nur mit Reisepass. Uber fehlt, Fahrten per Yango oder Heetch, sonst Taxipreis vorher aushandeln.", "lgbtq_note": "Homosexuelle Handlungen sind seit März 2026 mit 5 bis 10 Jahren Haft strafbar, auch Ausländer wurden schon festgenommen.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190", "discontinued": [], "apps": [
-{"name": "Yango", "cat": "taxi", "pkg": "", "ess": true, "note": "Meistgenutzter Fahrdienst mit Festpreis, Barzahlung geht", "city": "", "use": "ok", "req": "", "src": "https://www.expat.com/en/guide/africa/senegal/dakar/37434-getting-around-dakar.html"},
-{"name": "Heetch", "cat": "taxi", "pkg": "", "ess": false, "note": "Zweiter großer Fahrdienst in Dakar zum Preisvergleich", "city": "Dakar", "use": "ok", "req": "", "src": "https://kolonell.com/en/blog/taxi-vtc-app-dakar-2026"},
-{"name": "Yassir", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrten in Dakar und Thiès, auch zum Flughafen AIBD", "city": "", "use": "ok", "req": "", "src": "https://algerie-eco.com/2023/05/23/vtc-yassir-etend-ses-services-a-thies/"},
-{"name": "Yango Food Delivery", "cat": "delivery", "pkg": "", "ess": false, "note": "Essenslieferung innerhalb der Yango App", "city": "", "use": "ok", "req": "", "src": "https://senego.com/restauration-et-numerique-yango-food-delivery-debarque-au-senegal_1804663.html"},
-{"name": "SunuBRT", "cat": "transit", "pkg": "", "ess": true, "note": "Offizielle BRT App mit Fahrplan, Routen und QR-Tickets", "city": "Dakar", "use": "limited", "req": "Nur auf Französisch; Ticketkauf vermutlich per Mobile Money", "src": "https://apps.apple.com/ge/app/sunubrt/id6476969132"},
-{"name": "Dakar Dem Dikk", "cat": "transit", "pkg": "", "ess": false, "note": "Stadtbusse und Fernlinien, Reisen umbuchen oder stornieren", "city": "", "use": "ok", "req": "", "src": "https://www.osiris.sn/transport-dakar-dem-dikk-annonce-de-nouvelles-innovations-sur-son-application.html"},
-{"name": "Wave", "cat": "payment", "pkg": "com.wave.personal", "ess": true, "note": "Verbreitetes Mobile Money, auch für TER und BRT Tickets", "city": "", "use": "limited", "req": "Konto nur nach Passprüfung bei einem Wave-Agenten", "src": "https://ibrahimkamara.com/blog/wave-senegal"},
-{"name": "Orange Max it", "cat": "payment", "pkg": "", "ess": false, "note": "Orange App mit Orange Money, BRT-Tickets geplant", "city": "", "use": "limited", "req": "Senegalesische Orange-SIM und Orange-Money-Konto nötig", "src": "https://www.wearetech.africa/fr/fils/actualites/telecom/senegal-sonatel-connecte-son-application-max-it-au-reseau-de-bus-rapides-de-dakar"},
-{"name": "Ataya", "cat": "tourism", "pkg": "", "ess": false, "note": "Ausflüge, Kultur, Sport und Events im Land buchen", "city": "", "use": "ok", "req": "", "src": "https://www.seneweb.com/en/news/Societe/ataya-the-app-that-is-revolutionizing-leisure-and-tourism-in-senegal_n_468528.html"},
-{"name": "Sixt", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen im Zentrum von Dakar und am Flughafen", "city": "", "use": "limited", "req": "Internationaler Führerschein plus deutscher Führerschein", "src": "https://www.sixt.fr/location-voiture/senegal/dakar"},
-{"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen mit Station am Flughafen Dakar", "city": "", "use": "limited", "req": "Internationaler Führerschein plus deutscher Führerschein", "src": "https://www.avis.fr/services-avis/location-voiture/afrique/senegal/dakar/aeroport-de-dakar"},
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Dating-App, im Senegal sehr gefährlich", "city": "", "use": "no", "req": "Homosexualität strafbar, Polizei wertet Handys aus", "src": "https://www.hrw.org/fr/news/2026/10/12/senegal-une-repression-brutale-bafoue-les-droits-des-personnes-lgbt"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190",
+ "fetched": "2026-11-18",
+ "updated": "Stand: 18.11.2026 (Auswärtiges Amt)",
+ "note": "Kein Visum bis drei Monate, nur mit Reisepass. Uber fehlt, Fahrten per Yango oder Heetch, sonst Taxipreis vorher aushandeln.",
+ "lgbtq_note": "Homosexuelle Handlungen sind seit März 2026 mit 5 bis 10 Jahren Haft strafbar, auch Ausländer wurden schon festgenommen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Meistgenutzter Fahrdienst mit Festpreis, Barzahlung geht",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.expat.com/en/guide/africa/senegal/dakar/37434-getting-around-dakar.html"
+  },
+  {
+   "name": "Heetch",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Zweiter großer Fahrdienst in Dakar zum Preisvergleich",
+   "city": "Dakar",
+   "use": "ok",
+   "req": "",
+   "src": "https://kolonell.com/en/blog/taxi-vtc-app-dakar-2026"
+  },
+  {
+   "name": "Yassir",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrten in Dakar und Thiès, auch zum Flughafen AIBD",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://algerie-eco.com/2023/05/23/vtc-yassir-etend-ses-services-a-thies/"
+  },
+  {
+   "name": "Yango Food Delivery",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung innerhalb der Yango App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://senego.com/restauration-et-numerique-yango-food-delivery-debarque-au-senegal_1804663.html"
+  },
+  {
+   "name": "SunuBRT",
+   "cat": "transit",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielle BRT App mit Fahrplan, Routen und QR-Tickets",
+   "city": "Dakar",
+   "use": "limited",
+   "req": "Nur auf Französisch; Ticketkauf vermutlich per Mobile Money",
+   "src": "https://apps.apple.com/ge/app/sunubrt/id6476969132"
+  },
+  {
+   "name": "Dakar Dem Dikk",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Stadtbusse und Fernlinien, Reisen umbuchen oder stornieren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.osiris.sn/transport-dakar-dem-dikk-annonce-de-nouvelles-innovations-sur-son-application.html"
+  },
+  {
+   "name": "Wave",
+   "cat": "payment",
+   "pkg": "com.wave.personal",
+   "ess": true,
+   "note": "Verbreitetes Mobile Money, auch für TER und BRT Tickets",
+   "city": "",
+   "use": "limited",
+   "req": "Konto nur nach Passprüfung bei einem Wave-Agenten",
+   "src": "https://ibrahimkamara.com/blog/wave-senegal"
+  },
+  {
+   "name": "Orange Max it",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Orange App mit Orange Money, BRT-Tickets geplant",
+   "city": "",
+   "use": "limited",
+   "req": "Senegalesische Orange-SIM und Orange-Money-Konto nötig",
+   "src": "https://www.wearetech.africa/fr/fils/actualites/telecom/senegal-sonatel-connecte-son-application-max-it-au-reseau-de-bus-rapides-de-dakar"
+  },
+  {
+   "name": "Ataya",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Ausflüge, Kultur, Sport und Events im Land buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.seneweb.com/en/news/Societe/ataya-the-app-that-is-revolutionizing-leisure-and-tourism-in-senegal_n_468528.html"
+  },
+  {
+   "name": "Sixt",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen im Zentrum von Dakar und am Flughafen",
+   "city": "",
+   "use": "limited",
+   "req": "Internationaler Führerschein plus deutscher Führerschein",
+   "src": "https://www.sixt.fr/location-voiture/senegal/dakar"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit Station am Flughafen Dakar",
+   "city": "",
+   "use": "limited",
+   "req": "Internationaler Führerschein plus deutscher Führerschein",
+   "src": "https://www.avis.fr/services-avis/location-voiture/afrique/senegal/dakar/aeroport-de-dakar"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/senegalsicherheit-208190"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, im Senegal sehr gefährlich",
+   "city": "",
+   "use": "no",
+   "req": "Homosexualität strafbar, Polizei wertet Handys aus",
+   "src": "https://www.hrw.org/fr/news/2026/10/12/senegal-une-repression-brutale-bafoue-les-droits-des-personnes-lgbt"
+  },
+  {
+   "name": "TER INFOS",
+   "cat": "rail",
+   "pkg": "sn.seter.terdakar",
+   "note": "Fahrplan und Infos zum Regionalzug TER Dakar",
+   "use": "ok",
+   "src": "https://seter.sn/"
+  }
+ ]
+}

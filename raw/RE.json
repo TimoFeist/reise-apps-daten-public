@@ -160,6 +160,15 @@
    "use": "limited",
    "req": "Konto in der App und Bankkarte nötig",
    "src": "https://play.google.com/store/apps/details?id=com.actoll.tpass.citalis"
+  },
+  {
+   "name": "Île de La Réunion Tourisme",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde der Insel",
+   "use": "ok",
+   "url": "https://www.reunion.fr/",
+   "nostore": true,
+   "src": "https://www.reunion.fr/"
   }
  ],
  "replace": [

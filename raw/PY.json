@@ -127,6 +127,33 @@
    "use": "limited",
    "req": "Registrierung und internationale Kreditkarte in der App nötig",
    "src": "https://noticias.autocosmos.cl/2024/11/04/kinto-share-la-forma-mas-facil-de-arrendar-autos-de-toyota-en-america-latina"
+  },
+  {
+   "name": "Billetera Tigo Money",
+   "cat": "payment",
+   "pkg": "com.juvo.tigomoney",
+   "note": "Verbreitete Handy-Wallet in Paraguay",
+   "use": "no",
+   "req": "Paraguayische Tigo-Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.juvo.tigomoney"
+  },
+  {
+   "name": "Personal Pay",
+   "cat": "payment",
+   "pkg": "py.com.personal.billetera",
+   "note": "Wallet des Mobilfunkers Personal",
+   "use": "no",
+   "req": "Paraguayische Nummer nötig",
+   "src": "https://www.personal.com.py"
+  },
+  {
+   "name": "Visit Paraguay",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der SENATUR",
+   "use": "ok",
+   "url": "https://visitparaguay.travel/",
+   "nostore": true,
+   "src": "https://visitparaguay.travel/"
   }
  ]
 }

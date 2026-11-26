@@ -90,6 +90,15 @@
    "use": "ok",
    "req": "",
    "src": "https://play.google.com/store/apps/details?id=com.ldi.saipan&hl=en_US"
+  },
+  {
+   "name": "NWS Guam",
+   "cat": "safety",
+   "note": "US-Wetterdienst, auch für die Marianen",
+   "use": "ok",
+   "url": "https://www.weather.gov/gum",
+   "nostore": true,
+   "src": "https://www.weather.gov/gum"
   }
  ],
  "replace": [

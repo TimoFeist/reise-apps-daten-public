@@ -261,6 +261,15 @@
    "src": "https://mauritiusmetroexpress.mu/my-journey/?lang=en",
    "url": "https://mauritiusmetroexpress.mu/my-journey/?lang=en",
    "nostore": true
+  },
+  {
+   "name": "MCB Juice",
+   "cat": "payment",
+   "pkg": "com.mcbmu.juice",
+   "note": "Verbreitete Bezahl-App der MCB Bank",
+   "use": "no",
+   "req": "Konto bei MCB Mauritius nötig",
+   "src": "https://mcbjuice.com/"
   }
  ]
 }

@@ -72,6 +72,15 @@
    "use": "no",
    "req": "Our-Telekom-SIM und Anmeldung mit Ausweis bei Agent oder Shop nötig",
    "src": "https://www.ourtelekom.com.sb/m-selen/"
+  },
+  {
+   "name": "Visit Solomons",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der Salomonen",
+   "use": "ok",
+   "url": "https://www.visitsolomons.com.sb",
+   "nostore": true,
+   "src": "https://www.visitsolomons.com.sb"
   }
  ],
  "replace": [

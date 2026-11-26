@@ -126,6 +126,15 @@
    "use": "limited",
    "req": "Angolanische Unitel-SIM nötig, Registrierung für Ausländer unklar",
    "src": "https://www.verangola.net/va/en/042026/Telecommunications/48377/Unitel-Money-reinforces-national-expansion-with-pilot-project-in-Namibe.htm"
+  },
+  {
+   "name": "Visite Angola",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusmarke des Ministeriums",
+   "use": "ok",
+   "url": "https://visitangola.ao/",
+   "nostore": true,
+   "src": "https://allafrica.com/stories/202510020263.html"
   }
  ]
 }

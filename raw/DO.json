@@ -1,1 +1,131 @@
-{"src": "https://www.bento.travel/dominican-republic", "fetched": "2026-11-17", "updated": "August 2026", "note": "Karten nie aus den Augen lassen, Geldautomaten nur innen in Banken nutzen und nachts nicht allein unterwegs sein.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die Akzeptanz in der Bevölkerung ist vor allem auf dem Land aber gering.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node/dominikanischerepubliksicherheit/206146", "discontinued": [], "apps": [{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Verbreiteter Fahrdienst in Städten und an Flughäfen", "city": "", "use": "ok", "req": ""}, {"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": false, "note": "Fahrpreis wird verhandelt, meist Barzahlung", "city": "", "use": "ok", "req": ""}, {"name": "DiDi", "cat": "taxi", "pkg": "com.didiglobal.passenger", "ess": false, "note": "Ausweich-App, wenn Uber wenig Fahrer hat", "city": "", "use": "ok", "req": ""}, {"name": "PedidosYa", "cat": "delivery", "pkg": "com.pedidosya", "ess": true, "note": "Marktführer für Essen, Einkäufe und Apotheke", "city": "", "use": "ok", "req": ""}, {"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": false, "note": "Essenslieferung über das Uber-Konto", "city": "", "use": "ok", "req": ""}, {"name": "Waze", "cat": "maps", "pkg": "com.waze", "ess": false, "note": "Navigation mit Live-Verkehr und Gefahrenmeldungen", "city": "", "use": "ok", "req": ""}, {"name": "PoliturApp", "cat": "safety", "pkg": "", "ess": false, "note": "Notruf-App der Touristenpolizei mit Chat, auch Deutsch", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/do/app/politurapp/id1607779696"}, {"name": "Alerta COE", "cat": "safety", "pkg": "", "ess": false, "note": "Offizielle Warnungen des Krisenzentrums je Provinz", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1490912894"}, {"name": "Moovit", "cat": "transit", "pkg": "", "ess": false, "note": "Routen für Metro, Seilbahn und OMSA-Busse", "city": "Santo Domingo", "use": "ok", "req": "", "src": "https://moovitapp.com/index/en/public_transit-Santo_Domingo-5979"}]}
+{
+ "src": "https://www.bento.travel/dominican-republic",
+ "fetched": "2026-11-17",
+ "updated": "August 2026",
+ "note": "Karten nie aus den Augen lassen, Geldautomaten nur innen in Banken nutzen und nachts nicht allein unterwegs sein.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die Akzeptanz in der Bevölkerung ist vor allem auf dem Land aber gering.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/dominikanischerepublik-node/dominikanischerepubliksicherheit/206146",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Verbreiteter Fahrdienst in Städten und an Flughäfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": false,
+   "note": "Fahrpreis wird verhandelt, meist Barzahlung",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "ess": false,
+   "note": "Ausweich-App, wenn Uber wenig Fahrer hat",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Marktführer für Essen, Einkäufe und Apotheke",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": false,
+   "note": "Essenslieferung über das Uber-Konto",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Navigation mit Live-Verkehr und Gefahrenmeldungen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "PoliturApp",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Notruf-App der Touristenpolizei mit Chat, auch Deutsch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/do/app/politurapp/id1607779696"
+  },
+  {
+   "name": "Alerta COE",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Warnungen des Krisenzentrums je Provinz",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1490912894"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Routen für Metro, Seilbahn und OMSA-Busse",
+   "city": "Santo Domingo",
+   "use": "ok",
+   "req": "",
+   "src": "https://moovitapp.com/index/en/public_transit-Santo_Domingo-5979"
+  },
+  {
+   "name": "tPago",
+   "cat": "payment",
+   "pkg": "com.tpago.movil",
+   "note": "Mobiles Bezahlen in über 9000 Geschäften",
+   "use": "no",
+   "req": "Dominikanisches Bankkonto nötig",
+   "src": "https://do.scotiabank.com/content/dam/scotiabank/international/dominican-republic/BROCHURE_TPAGO_SCOTIABANK_3_5x8_5.pdf"
+  },
+  {
+   "name": "Go Dominican Republic",
+   "cat": "tourism",
+   "note": "Offizielle Seite des Tourismusministeriums",
+   "use": "ok",
+   "url": "https://www.godominicanrepublic.com",
+   "nostore": true,
+   "src": "https://www.godominicanrepublic.com"
+  },
+  {
+   "name": "E-Ticket Dominikanische Republik",
+   "cat": "entry",
+   "note": "Pflichtformular für Ein- und Ausreise mit QR Code",
+   "use": "ok",
+   "url": "https://eticket.migracion.gob.do",
+   "nostore": true,
+   "src": "https://migracion.gob.do/en/e-ticket-electronic-ticket-of-entry-and"
+  }
+ ]
+}

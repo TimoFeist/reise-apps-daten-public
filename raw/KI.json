@@ -61,6 +61,15 @@
    "use": "no",
    "req": "Nur mit ANZ Konto und Internet Banking Zugang in Kiribati",
    "src": "https://apps.apple.com/au/app/anz-pacific/id1316832499"
+  },
+  {
+   "name": "Kiribati Tourism",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde Kiribatis",
+   "use": "ok",
+   "url": "https://www.kiribatitourism.gov.ki/",
+   "nostore": true,
+   "src": "https://www.kiribatitourism.gov.ki/"
   }
  ]
 }

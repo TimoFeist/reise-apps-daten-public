@@ -71,6 +71,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/unforgettable-liberia/id6829475956"
+  },
+  {
+   "name": "Orange Max it Liberia",
+   "cat": "payment",
+   "pkg": "com.orange.myorange.olr",
+   "note": "Orange Money und Konto in einer App",
+   "use": "limited",
+   "req": "Liberianische SIM nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.orange.myorange.olr"
   }
  ],
  "replace": [

@@ -94,6 +94,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/app/id1663916867"
+  },
+  {
+   "name": "Seychelles Meteorological Authority",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+   "use": "ok",
+   "url": "https://www.meteo.sc/",
+   "nostore": true,
+   "src": "https://www.meteo.sc/"
   }
  ]
 }

@@ -144,6 +144,24 @@
    "use": "limited",
    "req": "Eigene Karte nötig, Konto mit Name, E-Mail und Telefon",
    "src": "https://apps.apple.com/hn/app/tciudadana/id1572346788?l=en-GB"
+  },
+  {
+   "name": "ZIGI",
+   "cat": "payment",
+   "pkg": "gt.com.bi.zigi",
+   "note": "Digitale Geldbörse der Banco Industrial, QR-Zahlung",
+   "use": "no",
+   "req": "Guatemaltekisches Konto nötig",
+   "src": "https://newsinamerica.com/pdcc/noticias/gerenciales/2026/indrive-y-zigi-aceleran-la-digitalizacion-de-la-movilidad-en-guatemala/"
+  },
+  {
+   "name": "Visit Guatemala",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite des INGUAT",
+   "use": "ok",
+   "url": "https://www.visitguatemala.com",
+   "nostore": true,
+   "src": "https://www.visitguatemala.com"
   }
  ]
 }

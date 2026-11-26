@@ -133,6 +133,15 @@
    "req": "Mindestalter 21, Führerschein seit 1 Jahr, Kreditkarte",
    "url": "https://www.sixt.com/car-rental/malta/luqa/malta-luqa-airport/",
    "src": "https://www.sixt.com/car-rental/malta/luqa/malta-luqa-airport/"
+  },
+  {
+   "name": "tallinja Bike",
+   "cat": "micro",
+   "note": "Leihräder Malta und Gozo, Zahlung an Station",
+   "use": "ok",
+   "url": "https://www.publictransport.com.mt/en/tallinja-bike",
+   "nostore": true,
+   "src": "https://www.publictransport.com.mt/en/tallinja-bike"
   }
  ],
  "discontinued": [

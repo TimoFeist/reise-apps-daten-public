@@ -138,6 +138,15 @@
    "use": "ok",
    "req": "",
    "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+  },
+  {
+   "name": "Saint Lucia Tourism Authority",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite von St. Lucia",
+   "use": "ok",
+   "url": "https://stlucia.org/",
+   "nostore": true,
+   "src": "https://stlucia.org/"
   }
  ]
 }

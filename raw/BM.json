@@ -177,6 +177,32 @@
    "use": "limited",
    "req": "Kreditkarte oder Pango-Guthaben mit Kennzeichen verknüpfen",
    "src": "https://www.royalgazette.com/?p=515305"
+  },
+  {
+   "name": "Shorelink",
+   "cat": "rail",
+   "pkg": "fr.airweb.bermudes",
+   "note": "Fährtoken und Bustickets mit Live-Ortung",
+   "use": "ok",
+   "src": "https://www.gov.bm/services/shorelink-app"
+  },
+  {
+   "name": "Go To Bermuda",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der Bermudas",
+   "use": "ok",
+   "url": "https://www.gotobermuda.com",
+   "nostore": true,
+   "src": "https://www.gotobermuda.com"
+  },
+  {
+   "name": "Bermuda Weather Service",
+   "cat": "safety",
+   "note": "Amtlicher Wetterdienst mit Warnungen",
+   "use": "ok",
+   "url": "https://www.weather.bm",
+   "nostore": true,
+   "src": "https://www.weather.bm"
   }
  ],
  "replace": [

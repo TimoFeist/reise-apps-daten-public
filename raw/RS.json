@@ -198,6 +198,15 @@
    "url": "https://www.hidmet.gov.rs",
    "nostore": true,
    "src": "https://www.hidmet.gov.rs"
+  },
+  {
+   "name": "Bolt",
+   "cat": "micro",
+   "pkg": "ee.mtakso.client",
+   "note": "E-Scooter von Bolt in Belgrad",
+   "city": "Belgrade",
+   "use": "ok",
+   "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/serbia-e-scooter-laws/"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.",

@@ -503,6 +503,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.alsa.com/en/passes/ibiza-pass"
+  },
+  {
+   "name": "Bizum Pay",
+   "cat": "payment",
+   "pkg": "es.bizum.wallet",
+   "note": "Bizum Bezahlen im Laden und online",
+   "use": "no",
+   "req": "Spanisches Bankkonto nötig",
+   "src": "https://bizum.com/es/"
   }
  ],
  "replace": [

@@ -105,6 +105,15 @@
    "use": "limited",
    "req": "Führerschein und Kreditkarte nötig, meist ab 25 Jahren",
    "src": "https://www.avis.com/en/locations/lat/tc/turks-caicos/p7l"
+  },
+  {
+   "name": "Visit Turks and Caicos",
+   "cat": "tourism",
+   "note": "Offizielle Seite des Tourist Board",
+   "use": "ok",
+   "url": "https://www.visittci.com",
+   "nostore": true,
+   "src": "https://www.visittci.com"
   }
  ]
 }

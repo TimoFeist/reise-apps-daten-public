@@ -184,6 +184,25 @@
    "url": "https://www.southafrica.net",
    "nostore": true,
    "src": "https://www.southafrica.net"
+  },
+  {
+   "name": "admyt",
+   "cat": "parking",
+   "pkg": "com.admyt.app.sa",
+   "note": "Ticketlos parken per Kennzeichen in Malls wie Sandton City",
+   "use": "limited",
+   "req": "Nur an teilnehmenden Parkhäusern",
+   "url": "https://www.admyt.com/",
+   "src": "https://www.itweb.co.za/article/local-ticketless-parking-app-gains-traction/KWEBb7yLE1bvmRjO"
+  },
+  {
+   "name": "Parket",
+   "cat": "parking",
+   "pkg": "com.parket.parketapp",
+   "note": "Ticketlos parken in Kapstadt und Johannesburg",
+   "use": "limited",
+   "req": "Nur an teilnehmenden Parkplätzen",
+   "src": "https://techcentral.co.za/parket-launches-turnkey-digital-parking-solution-in-joburg-parprom/226936"
   }
  ],
  "fetched": "2026-11-17",

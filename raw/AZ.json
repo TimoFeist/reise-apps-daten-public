@@ -215,6 +215,42 @@
    "use": "no",
    "req": "Von Nutzung wird abgeraten, Polizei nutzt die App zur Verfolgung und Erpressung",
    "src": "https://theworld.org/segments/2025/02/13/in-azerbaijan-police-use-lgbtq-dating-apps-to-extort-money"
+  },
+  {
+   "name": "AzParking",
+   "cat": "parking",
+   "pkg": "com.azparking",
+   "note": "Offizielle Park App in Baku, Guthaben per Karte aufladen",
+   "city": "Baku",
+   "use": "ok",
+   "src": "https://mincom.gov.az/en/projects/azparking-mobile-app"
+  },
+  {
+   "name": "m10",
+   "cat": "payment",
+   "pkg": "com.m10",
+   "note": "Verbreitete aserbaidschanische Wallet für QR Zahlungen",
+   "use": "no",
+   "req": "Aserbaidschanische Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.m10&hl=en"
+  },
+  {
+   "name": "Birbank",
+   "cat": "payment",
+   "pkg": "az.kapitalbank.mbanking",
+   "note": "Bank App der Kapital Bank, auch für Parken und QR",
+   "use": "no",
+   "req": "Konto bei Kapital Bank nötig",
+   "src": "https://www.airport.az/en/press-release/innovations-in-parking-at-baku-airport-convenience-and-efficiency-for-visitors/"
+  },
+  {
+   "name": "Azerbaijan.travel",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der staatlichen Agentur",
+   "use": "ok",
+   "url": "https://azerbaijan.travel/",
+   "nostore": true,
+   "src": "https://azertag.az/en/xeber/azerbaijantravel_platform_to_be_further_developed-4375065"
   }
  ],
  "replace": [

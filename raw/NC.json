@@ -96,6 +96,35 @@
    "use": "no",
    "req": "Nur mit Konto und Karte der BNC",
    "src": "https://apps.apple.com/us/app/bnc-macarte/id6449153469"
+  },
+  {
+   "name": "Liv'eats",
+   "cat": "delivery",
+   "pkg": "nc.liveats.customer",
+   "note": "Essenslieferung in Groß-Nouméa",
+   "city": "Noumea",
+   "use": "limited",
+   "req": "Lieferadresse in Nouméa nötig",
+   "src": "https://apps.apple.com/us/app/-/id6757766840"
+  },
+  {
+   "name": "Need Eat",
+   "cat": "delivery",
+   "pkg": "com.NeedEat.user",
+   "note": "Restaurantlieferung in Nouméa und Umgebung",
+   "city": "Noumea",
+   "use": "limited",
+   "req": "Lieferadresse in Nouméa nötig",
+   "src": "https://apps.apple.com/us/app/id1506137136"
+  },
+  {
+   "name": "Météo-France Nouvelle-Calédonie",
+   "cat": "safety",
+   "note": "Amtlicher Wetterdienst mit Zyklonwarnungen",
+   "use": "ok",
+   "url": "https://meteo.nc/",
+   "nostore": true,
+   "src": "https://meteo.nc/"
   }
  ],
  "replace": [

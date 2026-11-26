@@ -1,10 +1,126 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508", "fetched": "2026-11-18", "updated": "18.11.2026", "note": "Deutsche brauchen seit Januar 2026 ein Visum, bei Ankunft oder online; Geldautomaten geben oft nur kleine Beträge aus.", "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu 14 Jahren Haft bestraft werden.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508", "discontinued": [], "apps": [
-{"name": "GetRentacar", "cat": "carshare", "pkg": "getrentacar.app", "ess": false, "note": "Mietwagen von Anbietern, unter anderem am Flughafen Lilongwe", "city": "", "use": "limited", "req": "Führerschein mit internationalem Führerschein, Visa oder Mastercard Debitkarte, Kaution vor Ort", "src": "https://getrentacar.com/en-US/malawi"},
-{"name": "ChanguFood", "cat": "delivery", "pkg": "", "ess": false, "note": "Essenslieferung von vielen Restaurants", "city": "", "use": "limited", "req": "Zahlung über PayChangu, ob ausländische Karten gehen, ist unklar", "src": "https://mwnation.com/changufood-powered-by-paychangu-brings-tech-driven-taste-to-mite-2025/"},
-{"name": "Madyo", "cat": "delivery", "pkg": "", "ess": false, "note": "Restaurants bestellen mit Live Verfolgung, Sitz in Lilongwe", "city": "", "use": "limited", "req": "Bezahlung über lokales Mobile Money vorgesehen", "src": "https://www.wearetech.africa/en/fils-uk/solutions/madyo-connects-restaurants-and-diners-in-malawi"},
-{"name": "TNM Smart App", "cat": "payment", "pkg": "mw.co.tnm.topup.tnmsmartapp", "ess": false, "note": "Guthaben, Datenpakete und Mpamba Mobile Money von TNM", "city": "", "use": "no", "req": "Registrierte TNM Nummer nötig, SIM Registrierung mit Ausweis", "src": "https://appwisp.com/app/android/mw.co.tnm.topup.tnmsmartapp"},
-{"name": "MyAirtel", "cat": "payment", "pkg": "", "ess": false, "note": "Guthaben, Datenpakete und Airtel Money verwalten", "city": "", "use": "no", "req": "Registrierte Airtel Malawi Nummer nötig, SIM Registrierung mit Ausweis", "src": "https://www.maraviexpress.com/?p=37154"},
-{"name": "Visit Malawi", "cat": "tourism", "pkg": "", "ess": false, "note": "Kostenlose Reiseinfos zu Malawi, nur für iOS", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/visit-malawi/id6450369615"},
-{"name": "VoiceMap", "cat": "tourism", "pkg": "", "ess": false, "note": "Audio Stadtrundgang durch Blantyre, auch offline nutzbar", "city": "Blantyre", "use": "ok", "req": "", "src": "https://voicemap.me/tour/blantyre/malawi-s-commercial-heart-a-blantyre-walking-tour"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating App, in Malawi riskant", "city": "", "use": "no", "req": "Homosexuelle Handlungen sind strafbar, hohe Haftstrafen möglich", "src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
+ "fetched": "2026-11-18",
+ "updated": "18.11.2026",
+ "note": "Deutsche brauchen seit Januar 2026 ein Visum, bei Ankunft oder online; Geldautomaten geben oft nur kleine Beträge aus.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit bis zu 14 Jahren Haft bestraft werden.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "GetRentacar",
+   "cat": "carshare",
+   "pkg": "getrentacar.app",
+   "ess": false,
+   "note": "Mietwagen von Anbietern, unter anderem am Flughafen Lilongwe",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein mit internationalem Führerschein, Visa oder Mastercard Debitkarte, Kaution vor Ort",
+   "src": "https://getrentacar.com/en-US/malawi"
+  },
+  {
+   "name": "ChanguFood",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung von vielen Restaurants",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlung über PayChangu, ob ausländische Karten gehen, ist unklar",
+   "src": "https://mwnation.com/changufood-powered-by-paychangu-brings-tech-driven-taste-to-mite-2025/"
+  },
+  {
+   "name": "Madyo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Restaurants bestellen mit Live Verfolgung, Sitz in Lilongwe",
+   "city": "",
+   "use": "limited",
+   "req": "Bezahlung über lokales Mobile Money vorgesehen",
+   "src": "https://www.wearetech.africa/en/fils-uk/solutions/madyo-connects-restaurants-and-diners-in-malawi"
+  },
+  {
+   "name": "TNM Smart App",
+   "cat": "payment",
+   "pkg": "mw.co.tnm.topup.tnmsmartapp",
+   "ess": false,
+   "note": "Guthaben, Datenpakete und Mpamba Mobile Money von TNM",
+   "city": "",
+   "use": "no",
+   "req": "Registrierte TNM Nummer nötig, SIM Registrierung mit Ausweis",
+   "src": "https://appwisp.com/app/android/mw.co.tnm.topup.tnmsmartapp"
+  },
+  {
+   "name": "MyAirtel",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Guthaben, Datenpakete und Airtel Money verwalten",
+   "city": "",
+   "use": "no",
+   "req": "Registrierte Airtel Malawi Nummer nötig, SIM Registrierung mit Ausweis",
+   "src": "https://www.maraviexpress.com/?p=37154"
+  },
+  {
+   "name": "Visit Malawi",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Kostenlose Reiseinfos zu Malawi, nur für iOS",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/visit-malawi/id6450369615"
+  },
+  {
+   "name": "VoiceMap",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Audio Stadtrundgang durch Blantyre, auch offline nutzbar",
+   "city": "Blantyre",
+   "use": "ok",
+   "req": "",
+   "src": "https://voicemap.me/tour/blantyre/malawi-s-commercial-heart-a-blantyre-walking-tour"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating App, in Malawi riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen sind strafbar, hohe Haftstrafen möglich",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/malawi-node/malawisicherheit-208508"
+  },
+  {
+   "name": "Ecoride",
+   "cat": "taxi",
+   "pkg": "com.computemore.ecoride",
+   "note": "Malawischer Fahrdienst in Lilongwe und Blantyre",
+   "use": "limited",
+   "req": "Lokale Nummer empfohlen",
+   "src": "https://www.nyasatimes.com/?p=152448"
+  },
+  {
+   "name": "DCCMS Wetterdienst",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst Malawis",
+   "use": "ok",
+   "url": "https://www.metmalawi.gov.mw/",
+   "nostore": true,
+   "src": "https://www.metmalawi.gov.mw/"
+  },
+  {
+   "name": "Malawi eVisa",
+   "cat": "entry",
+   "note": "Offizielles Visumportal, Visum seit 2026 nötig",
+   "use": "ok",
+   "url": "https://evisa.gov.mw",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/malawisicherheit/208508"
+  }
+ ]
+}

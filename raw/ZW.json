@@ -1,131 +1,149 @@
 {
-"src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
-"updated": "",
-"note": "Genug Bargeld in US-Dollar mitnehmen, Karten werden selten akzeptiert; Visum vorab auf evisa.gov.zw oder bei Ankunft.",
-"lgbtq_note": "Homosexuelle Handlungen sind strafbar (Geldstrafe oder bis zu einem Jahr Haft), die Regierung verurteilt sie öffentlich.",
-"lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
-"apps": [
-{
-"name": "Zimbabwe eVisa",
-"cat": "entry",
-"pkg": "",
-"ess": true,
-"note": "Offizielles Visumportal im Web, auch KAZA Univisa",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://www.evisa.gov.zw/faq.html"
-},
-{
-"name": "inDrive",
-"cat": "taxi",
-"pkg": "sinet.startup.inDriver",
-"ess": true,
-"note": "Fahrten mit Preisvorschlag, vier Städte inkl. Harare",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://allafrica.com/stories/202410030263.html"
-},
-{
-"name": "Bolt",
-"cat": "taxi",
-"pkg": "ee.mtakso.client",
-"ess": false,
-"note": "Fahrdienst in Harare",
-"city": "Harare",
-"use": "ok",
-"req": "",
-"src": "https://bolt.eu/en-cz/cities/harare/"
-},
-{
-"name": "Vaya Africa",
-"cat": "taxi",
-"pkg": "",
-"ess": false,
-"note": "Fahrdienst von Econet, Zahlung bar oder per Karte",
-"city": "Harare",
-"use": "ok",
-"req": "",
-"src": "https://apps.apple.com/mu/app/vaya-africa/id1421754998"
-},
-{
-"name": "Fresh in a Box",
-"cat": "delivery",
-"pkg": "",
-"ess": false,
-"note": "Lieferung von Lebensmitteln, in Harare binnen 2 Stunden",
-"city": "",
-"use": "limited",
-"req": "Zahlungsarten vorab prüfen",
-"src": "https://apps.apple.com/mr/app/fresh-in-a-box/id6636522062"
-},
-{
-"name": "EcoCash",
-"cat": "payment",
-"pkg": "",
-"ess": false,
-"note": "Verbreitetes Mobile Money von Econet",
-"city": "",
-"use": "limited",
-"req": "Econet-SIM nötig, Registrierung mit Originalpass im Shop",
-"src": "https://ecocash.co.zw/?p=2416"
-},
-{
-"name": "InnBucks",
-"cat": "payment",
-"pkg": "",
-"ess": false,
-"note": "Mobile-Money-Wallet für Zahlungen und Überweisungen",
-"city": "",
-"use": "no",
-"req": "Simbabwische SIM nötig, Anmeldung per USSD *569#",
-"src": "https://pindula.co.zw/Innbucks"
-},
-{
-"name": "fastjet",
-"cat": "flights",
-"pkg": "com.fastjet.reservations",
-"ess": false,
-"note": "Buchung und Verwaltung von fastjet-Flügen",
-"city": "",
-"use": "ok",
-"req": "",
-"src": "https://appgoblin.info/apps/com.fastjet.reservations/keywords/discovery"
-},
-{
-"name": "Discover Cars",
-"cat": "carshare",
-"pkg": "",
-"ess": false,
-"note": "Mietwagenvergleich für Harare, Bulawayo, Victoria Falls",
-"city": "",
-"use": "limited",
-"req": "Führerschein und Kaution beim Vermieter nötig",
-"src": "https://www.discovercars.com/zimbabwe"
-},
-{
-"name": "Park Assist",
-"cat": "parking",
-"pkg": "",
-"ess": false,
-"note": "Parkgebühren in den Selbstzahlerzonen der City zahlen",
-"city": "Harare",
-"use": "limited",
-"req": "Zahlungsarten laut Quelle unklar, vorab prüfen",
-"src": "https://www.heraldonline.co.zw/city-parking-launches-self-service-zones-in-harare-cbd/"
-},
-{
-"name": "Grindr",
-"cat": "lgbtq",
-"pkg": "com.grindrapp.android",
-"ess": false,
-"note": "Dating-App, im Land riskant",
-"city": "",
-"use": "no",
-"req": "Gleichgeschlechtliche Handlungen zwischen Männern sind strafbar",
-"src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948"
-}
-],
-"fetched": "2026-11-20"
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
+ "updated": "",
+ "note": "Genug Bargeld in US-Dollar mitnehmen, Karten werden selten akzeptiert; Visum vorab auf evisa.gov.zw oder bei Ankunft.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar (Geldstrafe oder bis zu einem Jahr Haft), die Regierung verurteilt sie öffentlich.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
+ "apps": [
+  {
+   "name": "Zimbabwe eVisa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielles Visumportal im Web, auch KAZA Univisa",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.evisa.gov.zw/faq.html"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": true,
+   "note": "Fahrten mit Preisvorschlag, vier Städte inkl. Harare",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://allafrica.com/stories/202410030263.html"
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": false,
+   "note": "Fahrdienst in Harare",
+   "city": "Harare",
+   "use": "ok",
+   "req": "",
+   "src": "https://bolt.eu/en-cz/cities/harare/"
+  },
+  {
+   "name": "Vaya Africa",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst von Econet, Zahlung bar oder per Karte",
+   "city": "Harare",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/mu/app/vaya-africa/id1421754998"
+  },
+  {
+   "name": "Fresh in a Box",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von Lebensmitteln, in Harare binnen 2 Stunden",
+   "city": "",
+   "use": "limited",
+   "req": "Zahlungsarten vorab prüfen",
+   "src": "https://apps.apple.com/mr/app/fresh-in-a-box/id6636522062"
+  },
+  {
+   "name": "EcoCash",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitetes Mobile Money von Econet",
+   "city": "",
+   "use": "limited",
+   "req": "Econet-SIM nötig, Registrierung mit Originalpass im Shop",
+   "src": "https://ecocash.co.zw/?p=2416"
+  },
+  {
+   "name": "InnBucks",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile-Money-Wallet für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "no",
+   "req": "Simbabwische SIM nötig, Anmeldung per USSD *569#",
+   "src": "https://pindula.co.zw/Innbucks"
+  },
+  {
+   "name": "fastjet",
+   "cat": "flights",
+   "pkg": "com.fastjet.reservations",
+   "ess": false,
+   "note": "Buchung und Verwaltung von fastjet-Flügen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://appgoblin.info/apps/com.fastjet.reservations/keywords/discovery"
+  },
+  {
+   "name": "Discover Cars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagenvergleich für Harare, Bulawayo, Victoria Falls",
+   "city": "",
+   "use": "limited",
+   "req": "Führerschein und Kaution beim Vermieter nötig",
+   "src": "https://www.discovercars.com/zimbabwe"
+  },
+  {
+   "name": "Park Assist",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkgebühren in den Selbstzahlerzonen der City zahlen",
+   "city": "Harare",
+   "use": "limited",
+   "req": "Zahlungsarten laut Quelle unklar, vorab prüfen",
+   "src": "https://www.heraldonline.co.zw/city-parking-launches-self-service-zones-in-harare-cbd/"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "com.grindrapp.android",
+   "ess": false,
+   "note": "Dating-App, im Land riskant",
+   "city": "",
+   "use": "no",
+   "req": "Gleichgeschlechtliche Handlungen zwischen Männern sind strafbar",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948"
+  },
+  {
+   "name": "Zimbabwe Tourism Authority",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite von Simbabwe",
+   "use": "ok",
+   "url": "https://www.zimbabwetourism.net/",
+   "nostore": true,
+   "src": "https://www.zimbabwetourism.net/"
+  },
+  {
+   "name": "Meteorological Services Department",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst von Simbabwe",
+   "use": "ok",
+   "url": "https://www.weatherzw.org.zw/",
+   "nostore": true,
+   "src": "https://www.weatherzw.org.zw/"
+  }
+ ],
+ "fetched": "2026-11-20"
 }

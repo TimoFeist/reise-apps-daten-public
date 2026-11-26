@@ -127,6 +127,15 @@
    "use": "limited",
    "req": "Für Einheimische gedacht, Bedingungen für Ausländer nicht belegt",
    "src": "https://apps.apple.com/us/app/uni5pay/id1464144473"
+  },
+  {
+   "name": "Meteorologische Dienst Suriname",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Warnungen",
+   "use": "ok",
+   "url": "https://www.meteosur.sr",
+   "nostore": true,
+   "src": "https://gov.sr/wp-content/uploads/2022/03/meteo_poster_new.pdf"
   }
  ]
 }

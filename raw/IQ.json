@@ -171,6 +171,15 @@
    "use": "no",
    "req": "Gefährlich, Haftstrafe bis 15 Jahre droht",
    "src": "https://www.gov.uk/government/publications/iraq-country-policy-and-information-notes/country-policy-and-information-note-sexual-orientation-and-gender-identity-and-expression-iraq-july-2025-accessible"
+  },
+  {
+   "name": "Iraqi Meteorological Organization",
+   "cat": "safety",
+   "note": "Staatlicher Wetter- und Erdbebendienst des Irak",
+   "use": "ok",
+   "url": "https://meteoseism.gov.iq/",
+   "nostore": true,
+   "src": "https://meteoseism.gov.iq/"
   }
  ]
 }

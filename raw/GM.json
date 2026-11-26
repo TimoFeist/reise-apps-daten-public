@@ -1,10 +1,108 @@
-{"src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624", "fetched": "2026-11-18", "updated": "Stand: 11.11.2026 (Auswärtiges Amt)", "note": "Visum gibt es bei Einreise kostenlos, am Flughafen Banjul 20 USD oder EUR Abgabe in bar; meist wird bar bezahlt.", "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit mehrjähriger Haft bestraft werden; große Zurückhaltung ist geboten.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624", "discontinued": [], "apps": [
-{"name": "Gamride", "cat": "taxi", "pkg": "", "ess": true, "note": "Lokale Taxi-App für Großraum Banjul und Flughafen", "city": "", "use": "limited", "req": "Telefonnummer vermutlich nötig; Zahlung bar oder per lokalem Mobile Money", "src": "https://apps.apple.com/app/id6746125541"},
-{"name": "Tardem", "cat": "taxi", "pkg": "com.seysolution.tardem", "ess": false, "note": "Fahrdienst mit geprüften Fahrern in den größeren Orten", "city": "", "use": "limited", "req": "Anmeldung mit Telefonnummer und SMS-Code; Zahlung bar oder per Mobile Money", "src": "https://appgoblin.info/apps/com.seysolution.tardem"},
-{"name": "1Bena", "cat": "delivery", "pkg": "product.customer.bena", "ess": false, "note": "Essen, Einkäufe, Kurier und Fahrten in einer App", "city": "", "use": "ok", "req": "", "src": "https://www.my-gambia.com/article/didnt-know-about-1bena/"},
-{"name": "INDIL", "cat": "delivery", "pkg": "com.Indil.markets", "ess": false, "note": "Lieferung von Märkten und Läden, auch Botendienst", "city": "", "use": "ok", "req": "", "src": "https://www.indil.gm/customer-app"},
-{"name": "Wave", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitetes Mobile Money für Zahlungen und Überweisungen", "city": "", "use": "limited", "req": "Konto nur mit Identitätsprüfung per Pass bei einem Wave-Agenten", "src": "https://wave.com/en/terms_gm"},
-{"name": "Afrimoney", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Money von Africell für Überweisungen und Rechnungen", "city": "", "use": "limited", "req": "Registrierung per SMS oder bei einem Agenten, Africell-Nummer nötig", "src": "https://www.africell.com/afrimoney/"},
-{"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen mit Station am Flughafen Banjul, rund um die Uhr", "city": "", "use": "limited", "req": "Heimischer Führerschein, Visa-Kreditkarte, Mindestalter 21 Jahre", "src": "https://avis.com/amp/pt/locations/gm/banjul/bjl"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Dating-App, in Gambia riskant", "city": "", "use": "no", "req": "Homosexualität strafbar, große Vorsicht bei Dating-Apps", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
+ "fetched": "2026-11-18",
+ "updated": "Stand: 11.11.2026 (Auswärtiges Amt)",
+ "note": "Visum gibt es bei Einreise kostenlos, am Flughafen Banjul 20 USD oder EUR Abgabe in bar; meist wird bar bezahlt.",
+ "lgbtq_note": "Homosexuelle Handlungen sind strafbar und können mit mehrjähriger Haft bestraft werden; große Zurückhaltung ist geboten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Gamride",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Lokale Taxi-App für Großraum Banjul und Flughafen",
+   "city": "",
+   "use": "limited",
+   "req": "Telefonnummer vermutlich nötig; Zahlung bar oder per lokalem Mobile Money",
+   "src": "https://apps.apple.com/app/id6746125541"
+  },
+  {
+   "name": "Tardem",
+   "cat": "taxi",
+   "pkg": "com.seysolution.tardem",
+   "ess": false,
+   "note": "Fahrdienst mit geprüften Fahrern in den größeren Orten",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung mit Telefonnummer und SMS-Code; Zahlung bar oder per Mobile Money",
+   "src": "https://appgoblin.info/apps/com.seysolution.tardem"
+  },
+  {
+   "name": "1Bena",
+   "cat": "delivery",
+   "pkg": "product.customer.bena",
+   "ess": false,
+   "note": "Essen, Einkäufe, Kurier und Fahrten in einer App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.my-gambia.com/article/didnt-know-about-1bena/"
+  },
+  {
+   "name": "INDIL",
+   "cat": "delivery",
+   "pkg": "com.Indil.markets",
+   "ess": false,
+   "note": "Lieferung von Märkten und Läden, auch Botendienst",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.indil.gm/customer-app"
+  },
+  {
+   "name": "Wave",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitetes Mobile Money für Zahlungen und Überweisungen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto nur mit Identitätsprüfung per Pass bei einem Wave-Agenten",
+   "src": "https://wave.com/en/terms_gm"
+  },
+  {
+   "name": "Afrimoney",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Money von Africell für Überweisungen und Rechnungen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung per SMS oder bei einem Agenten, Africell-Nummer nötig",
+   "src": "https://www.africell.com/afrimoney/"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit Station am Flughafen Banjul, rund um die Uhr",
+   "city": "",
+   "use": "limited",
+   "req": "Heimischer Führerschein, Visa-Kreditkarte, Mindestalter 21 Jahre",
+   "src": "https://avis.com/amp/pt/locations/gm/banjul/bjl"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Dating-App, in Gambia riskant",
+   "city": "",
+   "use": "no",
+   "req": "Homosexualität strafbar, große Vorsicht bei Dating-Apps",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/gambiasicherheit-213624"
+  },
+  {
+   "name": "Visit The Gambia",
+   "cat": "tourism",
+   "note": "Offizielle Seite des Gambia Tourism Board",
+   "use": "ok",
+   "url": "https://visitthegambia.gm",
+   "nostore": true,
+   "src": "https://visitthegambia.gm"
+  }
+ ]
+}

@@ -1,12 +1,136 @@
-{"src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460", "fetched": "2026-11-18", "updated": "Stand: 18.11.2026 (Auswärtiges Amt)", "note": "Visum nötig: E-Visum spätestens drei Tage vorher nur über Snedai beantragen, Bestätigung drucken; Gelbfieberimpfung Pflicht.", "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, werden gesellschaftlich aber häufig nicht akzeptiert; Schutz vor Diskriminierung fehlt.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460", "discontinued": [{"name": "Uber", "pkg": "", "src": "https://digitalmag.ci/vtc-uber-quitte-la-cote-divoire-sans-sirene-ni-trompette/?noamp=mobile"}], "apps": [
-{"name": "Snedai E-Visa", "cat": "entry", "pkg": "", "ess": true, "note": "Offizieller Dienstleister für das E-Visum, nur diesen nutzen", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460"},
-{"name": "Yango", "cat": "taxi", "pkg": "", "ess": true, "note": "Marktführer für Fahrten in Abidjan, Eco und Confort", "city": "", "use": "ok", "req": "", "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"},
-{"name": "Heetch", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrdienst in Abidjan, auch barrierearme Fahrten", "city": "", "use": "ok", "req": "", "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"},
-{"name": "inDrive", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrpreis wird verhandelt, mit SOS-Knopf", "city": "", "use": "ok", "req": "", "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"},
-{"name": "Glovo", "cat": "delivery", "pkg": "", "ess": false, "note": "Lieferung von Essen und Apothekenware in Abidjan", "city": "", "use": "ok", "req": "", "src": "https://kolonell.com/fr/blog/pharmacie-abidjan-livraison-yango-glovo-modele-2026"},
-{"name": "Yango Deli", "cat": "delivery", "pkg": "", "ess": false, "note": "Essenslieferung über die Yango-App in Abidjan", "city": "Abidjan", "use": "ok", "req": "", "src": "https://news.abidjan.net/articles/729660/cote-divoire-industrie-de-livraison-de-repas-yango-deli-etend-sa-portee-aux-quartiers-dabobo-adjame-et-port-bouet"},
-{"name": "Wave", "cat": "payment", "pkg": "com.wave.personal", "ess": false, "note": "Günstiges Mobile Money, weit verbreitet im Alltag", "city": "", "use": "no", "req": "Konto an eine ivorische Telefonnummer gebunden", "src": "https://ibrahimkamara.com/blog/application-wave-telecharger"},
-{"name": "Orange Max it", "cat": "payment", "pkg": "", "ess": false, "note": "Orange Money, Guthaben und Datenpakete in einer App", "city": "", "use": "limited", "req": "Für Orange Money lokale Orange-SIM nötig", "src": "https://apps.apple.com/app/id1061120855"},
-{"name": "SOTRA Mobile", "cat": "transit", "pkg": "", "ess": false, "note": "Linien und Routen der SOTRA-Busse in Abidjan", "city": "Abidjan", "use": "limited", "req": "Bezahlung in der App nur per Wave mit ivorischer Nummer", "src": "https://apps.apple.com/app/id6443695261"},
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460",
+ "fetched": "2026-11-18",
+ "updated": "Stand: 18.11.2026 (Auswärtiges Amt)",
+ "note": "Visum nötig: E-Visum spätestens drei Tage vorher nur über Snedai beantragen, Bestätigung drucken; Gelbfieberimpfung Pflicht.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, werden gesellschaftlich aber häufig nicht akzeptiert; Schutz vor Diskriminierung fehlt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460",
+ "discontinued": [
+  {
+   "name": "Uber",
+   "pkg": "",
+   "src": "https://digitalmag.ci/vtc-uber-quitte-la-cote-divoire-sans-sirene-ni-trompette/?noamp=mobile"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Snedai E-Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizieller Dienstleister für das E-Visum, nur diesen nutzen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": true,
+   "note": "Marktführer für Fahrten in Abidjan, Eco und Confort",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"
+  },
+  {
+   "name": "Heetch",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst in Abidjan, auch barrierearme Fahrten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrpreis wird verhandelt, mit SOS-Knopf",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://digitalmag.ci/comparatifs-des-applications-de-vtc-en-cote-divoire-prix-disponibilite-confort-et-securite/"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Lieferung von Essen und Apothekenware in Abidjan",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://kolonell.com/fr/blog/pharmacie-abidjan-livraison-yango-glovo-modele-2026"
+  },
+  {
+   "name": "Yango Deli",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essenslieferung über die Yango-App in Abidjan",
+   "city": "Abidjan",
+   "use": "ok",
+   "req": "",
+   "src": "https://news.abidjan.net/articles/729660/cote-divoire-industrie-de-livraison-de-repas-yango-deli-etend-sa-portee-aux-quartiers-dabobo-adjame-et-port-bouet"
+  },
+  {
+   "name": "Wave",
+   "cat": "payment",
+   "pkg": "com.wave.personal",
+   "ess": false,
+   "note": "Günstiges Mobile Money, weit verbreitet im Alltag",
+   "city": "",
+   "use": "no",
+   "req": "Konto an eine ivorische Telefonnummer gebunden",
+   "src": "https://ibrahimkamara.com/blog/application-wave-telecharger"
+  },
+  {
+   "name": "Orange Max it",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Orange Money, Guthaben und Datenpakete in einer App",
+   "city": "",
+   "use": "limited",
+   "req": "Für Orange Money lokale Orange-SIM nötig",
+   "src": "https://apps.apple.com/app/id1061120855"
+  },
+  {
+   "name": "SOTRA Mobile",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Linien und Routen der SOTRA-Busse in Abidjan",
+   "city": "Abidjan",
+   "use": "limited",
+   "req": "Bezahlung in der App nur per Wave mit ivorischer Nummer",
+   "src": "https://apps.apple.com/app/id6443695261"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/cotedivoiresicherheit-209460"
+  },
+  {
+   "name": "Côte d'Ivoire Tourisme",
+   "cat": "tourism",
+   "note": "Seite des nationalen Tourismusamts",
+   "use": "ok",
+   "url": "https://www.cotedivoiretourisme.ci",
+   "nostore": true,
+   "src": "https://annuaireci.com/en/entreprises/cote-divoire-tourisme-office-national-du-tourisme-abidjan-cote-divoire/"
+  }
+ ]
+}

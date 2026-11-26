@@ -565,6 +565,26 @@
    "use": "ok",
    "req": "",
    "src": "https://www.rideprt.org/fares-and-payment/ready2ride/"
+  },
+  {
+   "name": "Venmo",
+   "cat": "payment",
+   "pkg": "com.venmo",
+   "note": "Verbreitete Bezahl-App unter Freunden und in Läden",
+   "use": "no",
+   "req": "US-Telefonnummer und US-Bankkonto nötig",
+   "url": "https://venmo.com/",
+   "src": "https://help.venmo.com/cs/articles/signing-up-for-a-personal-account-faq-vhel187"
+  },
+  {
+   "name": "Cash App",
+   "cat": "payment",
+   "pkg": "com.squareup.cash",
+   "note": "Geld senden und mit Cash Card bezahlen",
+   "use": "no",
+   "req": "Nur mit US-Wohnsitz und US-Nummer",
+   "url": "https://cash.app/",
+   "src": "https://cash.app/help/6485-cash-app-international-availability"
   }
  ],
  "replace": [

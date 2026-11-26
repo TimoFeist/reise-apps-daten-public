@@ -362,6 +362,15 @@
    "req": "Nur Japanisch, Zahlung am Automaten",
    "url": "https://times-info.net/info/utilization_en.html",
    "src": "https://times-info.net/info/utilization_en.html"
+  },
+  {
+   "name": "PayPay",
+   "cat": "payment",
+   "pkg": "jp.ne.paypay.android.app",
+   "note": "Verbreitetste QR-Bezahl-App in Japan",
+   "use": "limited",
+   "req": "Japanische Telefonnummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app&hl=en"
   }
  ],
  "replace": [

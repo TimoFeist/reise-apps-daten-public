@@ -209,6 +209,15 @@
    "url": "https://meteo.arso.gov.si",
    "nostore": true,
    "src": "https://meteo.arso.gov.si"
+  },
+  {
+   "name": "Flik Pay",
+   "cat": "payment",
+   "pkg": "si.bankart.flik",
+   "note": "Slowenische Sofortzahlung per Telefonnummer oder QR",
+   "use": "no",
+   "req": "Konto bei slowenischer Bank nötig",
+   "src": "https://www.bankart.si/en/flik-pay/"
   }
  ],
  "lgbtq_note": "Gleichgeschlechtliche Paare sind rechtlich gleichgestellt, die Gesellschaft ist vor allem in Ljubljana offen.",

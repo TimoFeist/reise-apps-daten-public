@@ -116,6 +116,24 @@
    "use": "ok",
    "req": "",
    "src": "https://asiaplus.news/?p=380752"
+  },
+  {
+   "name": "Alif",
+   "cat": "payment",
+   "pkg": "tj.alif.mobi",
+   "note": "Verbreitete Wallet mit QR Zahlung",
+   "use": "limited",
+   "req": "Ausländische Karten nicht sicher belegt",
+   "src": "https://thefintechtimes.com/tajikistan-can-fintech-digitalise-a-remittance-economy/"
+  },
+  {
+   "name": "DC Next",
+   "cat": "payment",
+   "pkg": "tj.dc.next1",
+   "note": "Wallet der Dushanbe City Bank",
+   "use": "limited",
+   "req": "Lokale Nummer nötig",
+   "src": "https://thefintechtimes.com/tajikistan-can-fintech-digitalise-a-remittance-economy/"
   }
  ]
 }

@@ -202,6 +202,15 @@
    "url": "https://jmd.gov.jo",
    "nostore": true,
    "src": "https://alertingauthority.wmo.int/authorities.php?recId=78"
+  },
+  {
+   "name": "Orange Money Jordan",
+   "cat": "payment",
+   "pkg": "com.orange.orangemoney_customer",
+   "note": "Mobile Geldbörse von Orange Jordan",
+   "use": "limited",
+   "req": "Jordanische SIM-Karte nötig",
+   "src": "https://www.jopacc.com/faqs/jomopay-faqs"
   }
  ]
 }

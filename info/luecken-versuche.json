@@ -1,0 +1,5059 @@
+{
+ "versuche": {
+  "AD|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AE|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche visumfrei bei Ankunft, kein Online-Formular nötig"
+  },
+  "AF|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "AF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum nur über Vertretung, Reisewarnung"
+  },
+  "AF|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "AF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "AF|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "AF|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "AF|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "AG|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AG|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AG|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AG|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AI|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AI|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "AI|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AI|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AI|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "AI|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AI|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "AL|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing belegt"
+  },
+  "AL|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "AL|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "E-Scooter seit Okt. 2025 verboten"
+  },
+  "AL|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Wallet für Touristen"
+  },
+  "AL|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Carsharing auf Google Play belegt"
+  },
+  "AM|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei bis 180 Tage, kein Formular"
+  },
+  "AM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AO|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche bis 30 Tage visumfrei, kein Formular"
+  },
+  "AO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine App für Luanda belegt"
+  },
+  "AO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine App für Luanda belegt"
+  },
+  "AO|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Vorortbahn Luanda ohne App"
+  },
+  "AO|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Wetterdienst INAMET nicht erreichbar, keine App"
+  },
+  "AO|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AO|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine App für Luanda belegt"
+  },
+  "AQ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AQ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Infrastruktur, Reisen nur über Veranstalter"
+  },
+  "AR|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche bis 90 Tage, kein Online-Formular"
+  },
+  "AS|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "AS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "AS|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "AS|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "AS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "AS|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AS|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "AS|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "AT|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AU|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AW|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn auf Aruba"
+  },
+  "AW|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AX|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing auf Åland belegt"
+  },
+  "AX|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "AX|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Parken, gratis mit Parkscheibe"
+  },
+  "AX|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AX|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AX|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AX|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AZ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "AZ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BA|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "BA|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine verbreitete lokale Wallet"
+  },
+  "BA|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BA|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BB|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BB|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "BB|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "BB|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BB|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "BB|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BB|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BD|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "DNCC-Parkapp nur Pilot in Gulshan, nicht im Play Store auffindbar"
+  },
+  "BD|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BD|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "BF|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "BF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BF|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "BF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "BF|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BF|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "BF|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "BF|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "BH|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BH|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein aktiver Verleih sicher belegt"
+  },
+  "BH|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BH|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BH|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "BI|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "BI|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "BI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "BI|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BI|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "BI|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "BJ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App"
+  },
+  "BJ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "BJ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "BL|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "BL|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "BL|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BL|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Linienbus"
+  },
+  "BM|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine lokale Wallet belegt"
+  },
+  "BM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BM|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BN|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "BN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "BN|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BN|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "BN|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BN|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BO|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche bis 90 Tage, kein Online-Formular"
+  },
+  "BO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "BO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "BO|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BQ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "BR|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche bis 90 Tage, kein Online-Formular"
+  },
+  "BS|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche, kein Online-Formular belegt"
+  },
+  "BS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "BS|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "BS|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BS|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BS|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Nassau belegt"
+  },
+  "BT|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing, Touristen reisen mit Guide und Fahrer"
+  },
+  "BT|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BT|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst belegt"
+  },
+  "BT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "BT|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn in Bhutan"
+  },
+  "BW|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "BW|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "BW|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "BW|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BW|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "BY|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei bis Ende 2026, kein Formular"
+  },
+  "BY|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BY|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BY|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BZ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Carsharing belegt"
+  },
+  "BZ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei bis 30 Tage, kein Formular"
+  },
+  "BZ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "BZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "BZ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "CC|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App"
+  },
+  "CC|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Lieferdienst per App"
+  },
+  "CC|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CC|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "CC|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "CC|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine lokale Bezahl-App, australische Karten und Bargeld"
+  },
+  "CC|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "CC|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Fahrdienst per App"
+  },
+  "CC|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CC|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kleines Atoll ohne Nahverkehr mit App"
+  },
+  "CD|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CD|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "CD|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "CD|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein per App buchbarer Bahnverkehr"
+  },
+  "CD|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Tourismus-App belegt"
+  },
+  "CD|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Kinshasa"
+  },
+  "CF|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "CF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "nur Botschaftsvisum (Paris), kein eVisa"
+  },
+  "CF|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "CF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "CF|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "CF|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "CF|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "CF|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "CG|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum nur vorab bei Botschaft Berlin, kein Online-Verfahren (AA)"
+  },
+  "CG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst belegt"
+  },
+  "CG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "CG|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CG|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "CFCO ohne App oder Online-Tickets"
+  },
+  "CG|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Tourismus-App oder erreichbare Seite belegt"
+  },
+  "CG|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App in Brazzaville"
+  },
+  "CI|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Carsharing belegt"
+  },
+  "CI|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "CI|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "CI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Personenzug nach Burkina eingestellt"
+  },
+  "CI|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CK|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "CK|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "CK|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "CK|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "CK|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "CK|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "CK|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "CL|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CL|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Carsharing belegt"
+  },
+  "CM|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur kleine Start-ups, keine Android-App sicher belegt"
+  },
+  "CM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "CM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "CM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Camrail ohne App oder Onlinebuchung belegt"
+  },
+  "CM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Warn-App belegt"
+  },
+  "CM|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein offizielles Tourismusangebot belegt"
+  },
+  "CM|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-gestützter Nahverkehr"
+  },
+  "CN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Parken meist über Alipay/WeChat, keine für Touristen nutzbare Park-App im Play Store belegt"
+  },
+  "CO|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CO|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CR|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Einreiseformular"
+  },
+  "CR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad/E-Scooter-Angebot gefunden"
+  },
+  "CR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CU|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App, Mietwagen nur über Agenturen"
+  },
+  "CU|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "CU|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "CU|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Transfermóvil und EnZona nur mit kubanischem Konto, nicht im Play Store"
+  },
+  "CU|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Bahn- oder Bus-App im Play Store belegt"
+  },
+  "CU|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CU|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Havanna belegt"
+  },
+  "CV|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CV|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "CV|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "CV|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "CV|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CW|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine verbreitete lokale Bezahl-App belegt, Karten üblich"
+  },
+  "CW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn auf Curaçao"
+  },
+  "CW|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CX|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "CX|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CX|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "CX|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "CX|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Australische Zahlungsmittel, keine eigene Wallet"
+  },
+  "CX|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "CX|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "CX|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV"
+  },
+  "CY|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine verbreitete lokale Wallet gefunden"
+  },
+  "CY|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "CZ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DJ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DJ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "DJ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "DJ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bahn nach Äthiopien ohne App"
+  },
+  "DJ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein erreichbarer Wetterdienst online"
+  },
+  "DJ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DJ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "DK|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DM|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "DM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "DM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "DM|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf der Insel"
+  },
+  "DO|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App belegt"
+  },
+  "DO|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "DO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "DO|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DO|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Bahn, Fernbus-App nicht belegt"
+  },
+  "DO|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DZ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Carsharing belegt"
+  },
+  "DZ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DZ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "DZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "DZ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "DZ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "EC|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Online-Formular"
+  },
+  "EC|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot gefunden"
+  },
+  "EC|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EC|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Tren Ecuador eingestellt, keine Fernbus-App gefunden"
+  },
+  "EC|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kartenzahlung üblich, keine eigene Wallet"
+  },
+  "EG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt, Parkin erst geplant"
+  },
+  "EG|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "EH|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "EH|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "EH|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Nahverkehr mit App"
+  },
+  "ER|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing"
+  },
+  "ER|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App"
+  },
+  "ER|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum nur über eritreische Botschaft, kein Online-Verfahren (AA)"
+  },
+  "ER|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst"
+  },
+  "ER|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App"
+  },
+  "ER|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Wallet, Bargeldwirtschaft"
+  },
+  "ER|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur museale Bahn, keine Tickets per App"
+  },
+  "ER|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Taxi-App"
+  },
+  "ER|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Tourismus-App oder -Seite"
+  },
+  "ER|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "ES|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ET|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App belegt"
+  },
+  "ET|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Online-Buchung der Ethio-Djibouti-Bahn nur mit äthiopischer Fayda-ID über telebirr, keine eigene App"
+  },
+  "ET|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ET|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FI|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FJ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing belegt"
+  },
+  "FJ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei, Ankunftskarte nur auf Papier"
+  },
+  "FJ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "FJ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "FJ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FJ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FK|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FK|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FK|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei, Besuchergenehmigung bei Ankunft ohne Formular"
+  },
+  "FK|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FK|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FK|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FK|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FK|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FK|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Sehr kleine Bevölkerung, kein App-Angebot belegt"
+  },
+  "FM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing"
+  },
+  "FM|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App"
+  },
+  "FM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst"
+  },
+  "FM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App"
+  },
+  "FM|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "US-Dollar-Gebiet, keine lokale Wallet"
+  },
+  "FM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "FM|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Taxi-App"
+  },
+  "FM|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "FO|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot belegt"
+  },
+  "FO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot belegt"
+  },
+  "FO|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "FR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GA|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "GA|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "GA|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Nahverkehr mit App in Libreville"
+  },
+  "GD|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "GD|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn, Fähren ohne App"
+  },
+  "GD|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GD|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "nur private Minibusse ohne App"
+  },
+  "GE|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei bis 1 Jahr, kein Online-Formular"
+  },
+  "GF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EU-Gebiet, Personalausweis genügt"
+  },
+  "GF|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GF|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kartenzahlung wie in Frankreich, keine eigene Wallet"
+  },
+  "GF|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "GF|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot"
+  },
+  "GG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Parkscheibe, keine App"
+  },
+  "GG|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine lokale Wallet"
+  },
+  "GG|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GH|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Campus-Leihräder (Legon), kein öffentliches Angebot belegt"
+  },
+  "GH|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "GH|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GI|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing belegt"
+  },
+  "GI|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Britische Zahlungsmittel, keine eigene Wallet"
+  },
+  "GI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "GI|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein eigener Wetterdienst mit App belegt"
+  },
+  "GI|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GI|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Bus-App belegt"
+  },
+  "GL|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App belegt"
+  },
+  "GL|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst belegt"
+  },
+  "GL|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "GL|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GL|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn in Grönland"
+  },
+  "GL|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GM|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum bei Ankunft kostenlos, kein Formular"
+  },
+  "GM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "GM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "GM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "GM|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GM|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "GN|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "GN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "GN|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein regulärer Personenzug"
+  },
+  "GN|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein offizielles Tourismusangebot belegt"
+  },
+  "GN|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-gestützter Nahverkehr"
+  },
+  "GP|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EU-Gebiet, Personalausweis genügt"
+  },
+  "GP|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App für Pointe-à-Pitre belegt"
+  },
+  "GP|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kartenzahlung wie in Frankreich, keine eigene Wallet"
+  },
+  "GP|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "GP|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GQ|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GQ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GQ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GQ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GQ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "GQ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GQ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GQ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "GR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GT|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "GT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "GT|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GT|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Personenzugverkehr"
+  },
+  "GT|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GU|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "GU|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "US-Zahlungsmittel, keine eigene Wallet"
+  },
+  "GU|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "GU|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GW|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GW|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GW|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GW|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GW|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GW|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GW|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, keine Eisenbahn"
+  },
+  "GY|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot"
+  },
+  "GY|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App in Betrieb"
+  },
+  "GY|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GY|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "GY|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Minibusse ohne App"
+  },
+  "HK|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Carsharing für Touristen belegt"
+  },
+  "HK|rail": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "HN|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, Prechequeo nur für Nicaraguaner"
+  },
+  "HN|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot gefunden"
+  },
+  "HN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot gefunden"
+  },
+  "HN|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HN|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "HN|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot gefunden"
+  },
+  "HT|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App"
+  },
+  "HT|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "HT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "HT|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "HT|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "nur Tap-Taps ohne App"
+  },
+  "IE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IL|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IL|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "IM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App belegt"
+  },
+  "IM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "IM|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Bezahl-App, Pfund und Karten"
+  },
+  "IM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IQ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "IQ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "IQ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Buchungs-App der Bahn belegt"
+  },
+  "IQ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IQ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Bagdad belegt"
+  },
+  "IR|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein für Touristen nutzbares Angebot belegt"
+  },
+  "IR|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein für Touristen nutzbares Angebot belegt"
+  },
+  "IR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein für Touristen nutzbares Angebot belegt"
+  },
+  "IR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Iranische Apps wegen Sanktionen nicht im Play Store"
+  },
+  "IR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IR|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Wetterdienst IRIMO nicht erreichbar"
+  },
+  "IR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein für Touristen nutzbares Angebot belegt"
+  },
+  "IS|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "IS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JE|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EVie-Räder 2024 dauerhaft eingestellt"
+  },
+  "JE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Britische Apps, keine eigene Bezahl-App"
+  },
+  "JE|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "JE|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "JM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "JM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Park-App in Kingston nur geplant"
+  },
+  "JM|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JM|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein aktiver Verleih belegt"
+  },
+  "JO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App, Smart Parking erst in Ausschreibung"
+  },
+  "JO|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JP|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KE|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KG|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Carsharing belegt"
+  },
+  "KG|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei bis 60 Tage, kein Formular"
+  },
+  "KG|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "KG|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KH|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App belegt"
+  },
+  "KH|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Go2 seit 2021 ohne Update, kein aktives Sharing belegt"
+  },
+  "KI|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf dem Atoll"
+  },
+  "KI|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf dem Atoll"
+  },
+  "KI|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei bis 90 Tage, kein Formular"
+  },
+  "KI|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf dem Atoll"
+  },
+  "KI|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf dem Atoll"
+  },
+  "KI|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bargeld üblich, keine Wallet"
+  },
+  "KI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "KI|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf dem Atoll"
+  },
+  "KI|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KI|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur private Minibusse"
+  },
+  "KM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing"
+  },
+  "KM|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App belegt"
+  },
+  "KM|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum bei Ankunft, kein Onlineformular"
+  },
+  "KM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst"
+  },
+  "KM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App"
+  },
+  "KM|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine touristentaugliche Bezahl-App belegt"
+  },
+  "KM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "KM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Warn-App belegt"
+  },
+  "KM|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur lokale Taxis ohne App"
+  },
+  "KM|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein offizielles Tourismusangebot belegt"
+  },
+  "KM|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-gestützter Nahverkehr"
+  },
+  "KN|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "KN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "KN|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Bezahl-App belegt"
+  },
+  "KN|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KN|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App, private Minibusse"
+  },
+  "KW|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot gefunden"
+  },
+  "KW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "KY|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche brauchen kein Visum und kein Online-Formular"
+  },
+  "KY|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "KY|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Wallet verbreitet, Karte üblich"
+  },
+  "KY|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "KY|safety": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "KY|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Minibusse ohne App"
+  },
+  "KZ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LA|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihräder oder E-Scooter per App belegt"
+  },
+  "LA|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "LA|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Wetterdienst DMH nur über Facebook, keine erreichbare Seite"
+  },
+  "LA|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LB|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein verlässliches App-Angebot belegt"
+  },
+  "LB|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum kostenlos bei Ankunft, kein Online-Formular"
+  },
+  "LB|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein verlässliches App-Angebot belegt"
+  },
+  "LB|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein verlässliches App-Angebot belegt"
+  },
+  "LB|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Bahnbetrieb"
+  },
+  "LC|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "LC|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "LC|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "LC|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LC|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "nur Minibusse ohne App"
+  },
+  "LK|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein belegtes Carsharing per App, nur Mietwagenfirmen"
+  },
+  "LK|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihräder oder E-Scooter in Colombo belegt"
+  },
+  "LK|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Park-App Tenaga nicht mehr im Play Store auffindbar"
+  },
+  "LK|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LR|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App belegt"
+  },
+  "LR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "LR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "LR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Personenzugverkehr"
+  },
+  "LR|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Warn- oder Wetter-App belegt"
+  },
+  "LR|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Monrovia belegt"
+  },
+  "LS|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche visumfrei, kein Formular"
+  },
+  "LS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst"
+  },
+  "LS|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App"
+  },
+  "LS|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Personenverkehr per Bahn"
+  },
+  "LS|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Offizielle Tourismusseiten (LTDC, visitlesotho) derzeit nicht erreichbar"
+  },
+  "LS|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Minibus-Taxis ohne App"
+  },
+  "LT|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LY|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein frei zugängliches Visaportal, Reisewarnung"
+  },
+  "LY|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "LY|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "LY|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn im Betrieb"
+  },
+  "LY|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt, Reisewarnung"
+  },
+  "MA|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei, kein Online-Formular"
+  },
+  "MA|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Park-App in Casablanca erst ausgeschrieben"
+  },
+  "MA|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "MC|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine eigene Bezahl-App, Euro und Karten üblich"
+  },
+  "MC|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MC|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MD|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche bis 90 Tage, kein Online-Formular"
+  },
+  "MD|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MD|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ME|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche reisen visumfrei ein, kein Formular"
+  },
+  "ME|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Bezahl-App verbreitet, Karte üblich"
+  },
+  "ME|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ME|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ME|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Podgorica belegt"
+  },
+  "MF|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Französisches Gebiet, für Deutsche kein Visum oder Formular"
+  },
+  "MF|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst belegt"
+  },
+  "MF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "MF|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn auf Saint-Martin"
+  },
+  "MF|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Minibusse ohne App oder Fahrplanportal"
+  },
+  "MG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "MG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "MG|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "MG|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MH|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "MH|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Online-Formular gefunden"
+  },
+  "MH|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "MH|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "MH|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "MH|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "MH|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "MH|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MH|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "MK|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche visumfrei, kein Formular"
+  },
+  "MK|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine verbreitete lokale Bezahl-App belegt"
+  },
+  "MK|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MK|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ML|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum nur über Botschaft, Reisewarnung"
+  },
+  "ML|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "ML|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "ML|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bahnverkehr eingestellt"
+  },
+  "ML|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "ML|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "ML|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein App-Angebot"
+  },
+  "MM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App belegt"
+  },
+  "MM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing belegt"
+  },
+  "MM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App belegt"
+  },
+  "MM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MN|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche bis 30 Tage visumfrei (Regel bis 1.1.2027), kein Formular"
+  },
+  "MN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App für Touristen belegt"
+  },
+  "MN|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MN|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MN|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MO|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App in Macao belegt"
+  },
+  "MO|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche visumfrei bis 90 Tage, kein Formular"
+  },
+  "MO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst in Macao belegt"
+  },
+  "MO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MP|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Android-App belegt"
+  },
+  "MP|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "MP|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "MP|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Android-App belegt"
+  },
+  "MP|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "MP|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MP|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Android-App belegt"
+  },
+  "MP|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "MQ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EU-Gebiet, Personalausweis genügt, kein Formular"
+  },
+  "MQ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MR|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "MR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "MR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Erzzug ohne Buchungs-App"
+  },
+  "MR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Tourismus-App oder Seite belegt"
+  },
+  "MR|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Nouakchott belegt"
+  },
+  "MS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "MS|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "MS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "MS|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Nahverkehr mit App"
+  },
+  "MT|micro": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App, Valletta CVA per Kennzeichen"
+  },
+  "MT|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine lokale Wallet"
+  },
+  "MU|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Sharing-Angebot belegt"
+  },
+  "MU|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "neues Bezahlsystem ohne eigene App belegt"
+  },
+  "MU|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MU|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Fernbahn, Metro nur Nahverkehr"
+  },
+  "MV|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Inselstaat, kein Carsharing per App"
+  },
+  "MV|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "MV|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MW|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MW|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "MW|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot belegt"
+  },
+  "MW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kaum Personenverkehr, keine App"
+  },
+  "MW|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MW|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MW|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App, nur Minibusse"
+  },
+  "MX|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MZ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine App für Maputo belegt"
+  },
+  "MZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine App für Maputo belegt"
+  },
+  "MZ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bahn CFM ohne App"
+  },
+  "MZ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "MZ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Tourismusseite erreichbar"
+  },
+  "MZ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine App für Maputo belegt"
+  },
+  "NA|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst belegt"
+  },
+  "NA|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "NA|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App- oder Online-Ticketangebot der TransNamib belegt"
+  },
+  "NA|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Offizielle Seite meteona.com enthält derzeit Spam-Fremdinhalte, nicht aufgenommen"
+  },
+  "NA|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App in Windhoek"
+  },
+  "NC|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "NC|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EU-Bürger visumfrei"
+  },
+  "NC|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "NC|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "NC|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "NC|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NE|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein belegtes Angebot, Reisewarnung"
+  },
+  "NE|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum nur über Botschaft, kein Online-Portal; Reisewarnung"
+  },
+  "NE|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein belegtes Angebot, Reisewarnung"
+  },
+  "NE|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein belegtes Angebot, Reisewarnung"
+  },
+  "NE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein belegtes Angebot, Reisewarnung"
+  },
+  "NE|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Bahnbetrieb"
+  },
+  "NE|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein belegtes Angebot, Reisewarnung"
+  },
+  "NE|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "NF|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Mietwagen vor Ort, kein App-Dienst"
+  },
+  "NF|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App"
+  },
+  "NF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NF|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst"
+  },
+  "NF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Parken frei, keine App"
+  },
+  "NF|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Australische Zahlungsmittel, keine eigene App"
+  },
+  "NF|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "NF|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur lokale Taxis ohne App"
+  },
+  "NF|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein öffentlicher Nahverkehr"
+  },
+  "NG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterangebot belegt"
+  },
+  "NG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "LASPA-App nicht als aktiv belegt"
+  },
+  "NG|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NI|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "NI|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "NI|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "NI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "NI|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NL|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NO|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NP|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App belegt"
+  },
+  "NP|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Leihradangebote nur angekündigt (Zum Rides mit nepalesischer KYC), keine Play-App belegt"
+  },
+  "NP|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Park-App Park KTM eingestellt, nichts Aktuelles belegt"
+  },
+  "NR|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing"
+  },
+  "NR|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App"
+  },
+  "NR|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Einreisegenehmigung vorab bei Immigration Nauru, kein Online-Portal belegt (AA)"
+  },
+  "NR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst"
+  },
+  "NR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App"
+  },
+  "NR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Wallet belegt"
+  },
+  "NR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Personen-Eisenbahn"
+  },
+  "NR|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Taxi-App"
+  },
+  "NR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine erreichbare offizielle Tourismusseite oder App"
+  },
+  "NR|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "NU|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kleine Insel, kein App-Angebot belegt"
+  },
+  "NU|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kleine Insel, kein App-Angebot belegt"
+  },
+  "NU|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche bis 30 Tage, kein Online-Formular belegt"
+  },
+  "NU|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kleine Insel, kein App-Angebot belegt"
+  },
+  "NU|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kleine Insel, kein App-Angebot belegt"
+  },
+  "NU|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kleine Insel, kein App-Angebot belegt"
+  },
+  "NU|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "NU|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kleine Insel, kein App-Angebot belegt"
+  },
+  "NU|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "NU|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "OM|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "OM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad/E-Scooter-Angebot gefunden"
+  },
+  "PA|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterangebot belegt"
+  },
+  "PA|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PA|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PA|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PE|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "PE|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein aktuelles App-Angebot belegt"
+  },
+  "PE|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein aktuelles App-Angebot belegt"
+  },
+  "PE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche als EU-Bürger ohne Visum, kein Formular"
+  },
+  "PF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "PF|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Wallet belegt, Karten und Bargeld üblich"
+  },
+  "PF|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "PG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "PG|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PG|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "PG|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PG|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur PMV-Minibusse ohne App"
+  },
+  "PK|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein sicher laufender Leihrad-/Scooterdienst mit App belegt (Lahore-Projekt im Aufbau)"
+  },
+  "PK|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Digitales Parken in Islamabad gestoppt, keine aktive Park-App belegt"
+  },
+  "PK|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PL|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf den Inseln"
+  },
+  "PM|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf den Inseln"
+  },
+  "PM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf den Inseln"
+  },
+  "PM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf den Inseln"
+  },
+  "PM|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf den Inseln"
+  },
+  "PM|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf den Inseln"
+  },
+  "PM|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot auf den Inseln"
+  },
+  "PR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "PR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PS|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App"
+  },
+  "PS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "PS|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "PS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn in Betrieb"
+  },
+  "PW|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Liefer-App belegt"
+  },
+  "PW|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "PW|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "PW|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Bezahl-App belegt, US-Dollar"
+  },
+  "PW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "PY|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "PY|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "PY|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "PY|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "PY|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "QA|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Fernbahn, nur Metro/Tram Doha"
+  },
+  "RE|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EU-Gebiet, Personalausweis reicht, kein Formular"
+  },
+  "RE|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App für Réunion belegt"
+  },
+  "RE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Französisches Gebiet, keine eigene lokale Wallet"
+  },
+  "RE|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RO|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RS|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "RS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RS|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Wallet für Touristen, Karte üblich"
+  },
+  "RU|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "RU|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RU|micro": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "RU|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RU|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RW|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Leihradsystem Guraride nicht als aktiv belegt"
+  },
+  "RW|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "RW|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SA|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SB|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "SB|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Besuchserlaubnis bei Ankunft"
+  },
+  "SB|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "SB|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "SB|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "SB|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "SB|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "SB|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SB|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "SC|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "SC|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "SC|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "SC|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SD|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bürgerkrieg, kein Angebot"
+  },
+  "SD|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Visaportal, Reisewarnung wegen Krieg"
+  },
+  "SD|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bürgerkrieg, kein Angebot"
+  },
+  "SD|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bürgerkrieg, kein Angebot"
+  },
+  "SD|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bürgerkrieg, kein Angebot"
+  },
+  "SD|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bürgerkrieg, kein Angebot"
+  },
+  "SD|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bürgerkrieg, kein Angebot"
+  },
+  "SG|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "SH|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "SH|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "SH|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SH|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "SH|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "SH|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "SH|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine eigene Warn- oder Wetter-App"
+  },
+  "SH|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot auf der Insel"
+  },
+  "SH|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "SI|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SJ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App"
+  },
+  "SJ|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App"
+  },
+  "SJ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Visum, Einreise über Norwegen (Schengen-Ausreisekontrolle)"
+  },
+  "SJ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst"
+  },
+  "SJ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "SJ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Karten üblich, lokale Wallet (Vipps) nur mit norweg. BankID"
+  },
+  "SJ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "SJ|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Taxi per Telefon, keine App belegt"
+  },
+  "SJ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Linien-ÖPNV mit App in Longyearbyen"
+  },
+  "SK|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine eigene lokale Wallet, Karte/Google Pay üblich"
+  },
+  "SL|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App belegt"
+  },
+  "SL|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "SL|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "SL|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Personenzugverkehr"
+  },
+  "SL|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Webseite des Wetterdienstes SLMet belegt"
+  },
+  "SL|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SL|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Freetown belegt"
+  },
+  "SM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing belegt"
+  },
+  "SM|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein eigener Lieferdienst belegt"
+  },
+  "SM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "SM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "SM|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Warn-App belegt"
+  },
+  "SM|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur lokale Taxis ohne App"
+  },
+  "SN|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei bis 90 Tage"
+  },
+  "SN|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "SN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot belegt"
+  },
+  "SN|rail": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SO|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SO|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SO|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SO|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SR|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "SR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "SR|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn im Personenverkehr"
+  },
+  "SR|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SR|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Paramaribo belegt"
+  },
+  "SS|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SS|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SS|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "SS|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Angebot, Reisewarnung"
+  },
+  "ST|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing"
+  },
+  "ST|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App belegt"
+  },
+  "ST|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst"
+  },
+  "ST|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App"
+  },
+  "ST|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "ST|safety": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle Warn-App belegt"
+  },
+  "ST|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein offizielles Tourismusangebot belegt"
+  },
+  "ST|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-gestützter Nahverkehr"
+  },
+  "SV|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche, kein Online-Formular belegt"
+  },
+  "SV|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "SV|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "SV|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein regulärer Personenzugverkehr"
+  },
+  "SV|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für San Salvador belegt"
+  },
+  "SX|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "SX|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "SX|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Bezahl-App belegt"
+  },
+  "SX|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "SX|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Minibusse ohne App"
+  },
+  "SY|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App"
+  },
+  "SY|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "SY|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "SY|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Nahverkehr mit App"
+  },
+  "SZ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche reisen visumfrei ein, kein Formular"
+  },
+  "SZ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "SZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "SZ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokal belegte Wallet für Gäste"
+  },
+  "SZ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Güterverkehr"
+  },
+  "SZ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SZ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SZ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "TC|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei, kein Onlineformular"
+  },
+  "TC|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad- oder Scooterdienst belegt"
+  },
+  "TC|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "TC|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Bezahl-App belegt"
+  },
+  "TC|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "TC|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TC|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein öffentlicher Busverkehr"
+  },
+  "TD|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App"
+  },
+  "TD|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "TD|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "TD|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "TD|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Nahverkehr mit App"
+  },
+  "TG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "TG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "TG|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TG|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Personenverkehr"
+  },
+  "TG|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine offizielle Tourismusseite bestätigt"
+  },
+  "TJ|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App belegt"
+  },
+  "TJ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "TJ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "TJ|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "TJ|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Buchungs-App der Bahn belegt"
+  },
+  "TJ|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App für Duschanbe belegt"
+  },
+  "TL|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "TL|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "TL|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "TL|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TL|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "TM|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Carsharing per App"
+  },
+  "TM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "TM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "TN|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei bis 90 Tage, kein Online-Formular"
+  },
+  "TO|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App"
+  },
+  "TO|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Lieferdienst per App belegt"
+  },
+  "TO|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst"
+  },
+  "TO|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App"
+  },
+  "TO|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Taxis nur per Telefon, keine App belegt"
+  },
+  "TO|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "TR|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche bis 90 Tage visumfrei, kein Formular nötig"
+  },
+  "TR|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TR|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TR|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TT|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "TT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App-Angebot belegt"
+  },
+  "TT|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "TT|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine offizielle ÖPNV-App belegt"
+  },
+  "TV|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "TV|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "TV|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visum bei Ankunft, kein Online-Formular"
+  },
+  "TV|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "TV|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "TV|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "TV|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "TV|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "TV|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Atoll, kein App-Angebot"
+  },
+  "TW|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TW|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "TW|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "TZ|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihräder oder E-Scooter belegt"
+  },
+  "TZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "TZ|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UA|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche reisen visumfrei ein, kein Online-Formular"
+  },
+  "UG|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Carsharing per App belegt"
+  },
+  "UG|entry": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst belegt"
+  },
+  "UG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "UG|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein regulärer Personenverkehr mit App"
+  },
+  "UG|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UG|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Matatus in Kampala ohne App"
+  },
+  "US|payment": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "UY|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "visumfrei, kein Formular"
+  },
+  "UY|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein aktuelles Sharing belegt"
+  },
+  "UY|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UY|payment": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UZ|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche bis 30 Tage, kein Online-Formular"
+  },
+  "UZ|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Taschkenter Park-App Poytaxt Parking im Play Store nicht belegt"
+  },
+  "UZ|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "VC|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei bis 6 Monate, kein Online-Formular"
+  },
+  "VC|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf den Inseln"
+  },
+  "VC|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf den Inseln"
+  },
+  "VC|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine für Touristen nutzbare Wallet belegt"
+  },
+  "VC|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "VC|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur private Minibusse ohne App"
+  },
+  "VE|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "VE|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche reisen visumfrei ein, kein Formular"
+  },
+  "VE|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "VE|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "VE|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Pago Móvil nur über venezolanische Banken"
+  },
+  "VE|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kaum Personenverkehr, keine App"
+  },
+  "VE|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot per App belegt"
+  },
+  "VG|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf den Inseln"
+  },
+  "VG|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf den Inseln"
+  },
+  "VG|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "US-Dollar und Karten, keine eigene Wallet"
+  },
+  "VG|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur klassische Taxis, keine App belegt"
+  },
+  "VG|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein ÖPNV mit App"
+  },
+  "VI|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein Leihrad-/Scooter-Sharing"
+  },
+  "VI|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Park-App"
+  },
+  "VI|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "VI|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "VN|parking": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "VN|rail": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "VU|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "VU|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei für Deutsche bis 90 Tage, kein Online-Formular belegt"
+  },
+  "VU|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "VU|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "VU|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Taxi-App, Uber/Bolt/Grab nicht verfügbar"
+  },
+  "VU|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App, Minibusse ohne Fahrplan"
+  },
+  "WF|delivery": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "WF|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EU-Bürger visumfrei"
+  },
+  "WF|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "WF|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "WF|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "WF|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "keine Eisenbahn"
+  },
+  "WF|taxi": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "WF|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "kein App-Angebot"
+  },
+  "WS|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf der Insel"
+  },
+  "WS|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Visumfrei, Einreisekarte auf Papier"
+  },
+  "WS|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf der Insel"
+  },
+  "WS|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Angebot auf der Insel"
+  },
+  "WS|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine für Touristen nutzbare Wallet belegt"
+  },
+  "WS|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Eisenbahn"
+  },
+  "WS|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine ÖPNV-App, nur private Busse"
+  },
+  "YE|carshare": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein Angebot"
+  },
+  "YE|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein Angebot"
+  },
+  "YE|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein Angebot"
+  },
+  "YE|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein Angebot"
+  },
+  "YE|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein Angebot"
+  },
+  "YE|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein Angebot"
+  },
+  "YE|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Reisewarnung, kein Angebot"
+  },
+  "YT|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "EU-Gebiet, für Deutsche kein Formular"
+  },
+  "YT|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihrad- oder Scooter-App belegt"
+  },
+  "YT|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "YT|payment": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine lokale Bezahl-App, Euro und Karten"
+  },
+  "YT|transit": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ZA|parking": {
+   "am": "2026-11-26",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "ZM|entry": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Deutsche visumfrei, 30 Tage Stempel bei Einreise (AA)"
+  },
+  "ZM|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein Leihrad-/Scooterdienst belegt"
+  },
+  "ZM|parking": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Park-App belegt"
+  },
+  "ZM|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Kein App- oder Online-Ticketangebot für Bahn belegt"
+  },
+  "ZM|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ZM|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Minibusse in Lusaka ohne App"
+  },
+  "ZW|micro": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Keine Leihräder oder E-Scooter belegt"
+  },
+  "ZW|rail": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Bahn NRZ ohne App oder Onlinebuchung"
+  },
+  "ZW|safety": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ZW|tourism": {
+   "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ZW|transit": {
+   "am": "2026-11-26",
+   "gefunden": 0,
+   "notiz": "Nur Kombis ohne App"
+  }
+ }
+}

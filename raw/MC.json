@@ -127,6 +127,22 @@
    "use": "limited",
    "req": "Nur mit spezieller Behindertenparkkarte",
    "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+  },
+  {
+   "name": "SNCF Connect",
+   "cat": "rail",
+   "pkg": "com.vsct.vsc.mobile.horaireetresa.android",
+   "note": "TER Tickets ab Monaco Monte Carlo als QR Code",
+   "use": "ok",
+   "src": "https://www.visitmonaco.com/en/access/7547/access-by-rail"
+  },
+  {
+   "name": "Your Monaco",
+   "cat": "safety",
+   "pkg": "mc.gouv.yourmonaco",
+   "note": "Offizielle App der Regierung mit Hinweisen und Alarmen",
+   "use": "ok",
+   "src": "https://en.gouv.mc/A-la-Une-du-Portail/Your-Monaco-the-new-app-making-everyday-life-easier-in-Monaco"
   }
  ]
 }

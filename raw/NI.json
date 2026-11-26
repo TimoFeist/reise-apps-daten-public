@@ -116,6 +116,15 @@
    "use": "limited",
    "req": "Nur mit Tigo SIM-Karte sinnvoll",
    "src": "https://support.tigo.com.ni/files/pre/file-reglamento-sorteo-bases-app-mitigo-abr26-.pdf"
+  },
+  {
+   "name": "INTUR",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusbehörde Nicaraguas",
+   "use": "ok",
+   "url": "https://www.intur.gob.ni",
+   "nostore": true,
+   "src": "https://www.intur.gob.ni"
   }
  ]
 }

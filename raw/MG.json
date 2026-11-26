@@ -105,6 +105,15 @@
    "use": "ok",
    "req": "",
    "src": "https://moovitapp.com/index/en/public_transit-countries"
+  },
+  {
+   "name": "Madagascar Tourisme",
+   "cat": "tourism",
+   "note": "Offizielle Seite des Tourismusamts ONTM",
+   "use": "ok",
+   "url": "https://madagascar-tourisme.com/fr/",
+   "nostore": true,
+   "src": "https://madagascar-tourisme.com/fr/"
   }
  ]
 }

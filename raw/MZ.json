@@ -106,6 +106,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/t%C3%A1aqui-delivery/id6760764291"
+  },
+  {
+   "name": "INAM Wetterdienst",
+   "cat": "safety",
+   "note": "Nationales Wetterinstitut mit Vorhersagen und Warnungen",
+   "use": "ok",
+   "url": "http://inam.gov.mz/",
+   "nostore": true,
+   "src": "http://inam.gov.mz/"
   }
  ]
 }

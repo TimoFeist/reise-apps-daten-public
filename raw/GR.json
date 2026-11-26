@@ -235,6 +235,16 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=gr.gov.apps.maigreece",
    "src": "https://mintour.gov.gr/en/maigreece-en/"
+  },
+  {
+   "name": "IRIS Payments",
+   "cat": "payment",
+   "note": "Sofortzahlung per Handynummer und QR an Kassen",
+   "use": "no",
+   "req": "Griechisches Bankkonto, läuft in Bank Apps",
+   "url": "https://www.dias.com.gr/en/",
+   "nostore": true,
+   "src": "https://www.dias.com.gr/en/news-center/press-releases/dias-iris-everywhere-greece-becomes-the-first-country-in-europe-with-universal-acceptance-of-instant-payments-across-all-points-of-sale/"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",

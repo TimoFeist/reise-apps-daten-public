@@ -138,6 +138,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/app/id6480454210"
+  },
+  {
+   "name": "Meteo Curaçao",
+   "cat": "safety",
+   "note": "Amtlicher Wetterdienst mit Unwetterwarnungen",
+   "use": "ok",
+   "url": "https://www.meteo.cw",
+   "nostore": true,
+   "src": "https://www.meteo.cw/Data_www/misc/html/about_us.html"
   }
  ]
 }

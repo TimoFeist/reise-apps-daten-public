@@ -204,6 +204,24 @@
    "use": "ok",
    "req": "",
    "src": "https://play.google.com/store/apps/details?id=com.helloaurora"
+  },
+  {
+   "name": "Herjólfur",
+   "cat": "rail",
+   "note": "Fähre zu den Westmännerinseln buchen",
+   "use": "ok",
+   "url": "https://herjolfur.is",
+   "nostore": true,
+   "src": "https://herjolfur.is"
+  },
+  {
+   "name": "Aur",
+   "cat": "payment",
+   "pkg": "stokkur.figo.android",
+   "note": "Isländische App für Handyzahlungen",
+   "use": "no",
+   "req": "Isländische Kennnummer und Konto nötig",
+   "src": "https://www.aur.is"
   }
  ]
 }

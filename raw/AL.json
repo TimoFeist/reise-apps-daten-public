@@ -1,1 +1,130 @@
-{"src": "https://www.bento.travel/albania", "fetched": "2026-11-18", "updated": "August 2026", "note": "Uber und Bolt fahren nicht: Patoko installieren und Bargeld in Lek mitnehmen, da viele Orte nur bar akzeptieren.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die gesellschaftliche Toleranz ist aber gering.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/albanien-node/albaniensicherheit-216248", "discontinued": [], "apps": [{"name": "Patoko", "cat": "taxi", "pkg": "com.patoko.patoko", "ess": true, "note": "Lokale Taxi-App mit Festpreisen, Karte oder bar", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "VrapOn", "cat": "taxi", "pkg": "com.vrapon.rider_app", "ess": false, "note": "Taxis mit Preisschätzung, auch zum Flughafen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen und Einkäufe in mehreren Städten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "Baboon", "cat": "delivery", "pkg": "al.baboon", "ess": false, "note": "Lieferdienst für Restaurants und Läden, bar oder Karte", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Offline-Karte mit Wanderwegen und Höhendaten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "Tirana Parking", "cat": "parking", "pkg": "io.tirana_parking.app", "ess": false, "note": "Parkzonen finden und Parken in Tirana bezahlen", "city": "Tirana", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "TIR", "cat": "transit", "pkg": "com.withtir.app", "ess": false, "note": "Buslinien, Haltestellen und Störungen in Tirana", "city": "Tirana", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "eTransport", "cat": "rail", "pkg": "com.dpshtrr.etransport", "ess": false, "note": "Offizielle Fahrpläne und Terminals der Fernbusse", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "Gjirafa Travel", "cat": "rail", "pkg": "", "ess": false, "note": "Fernbustickets in Albanien und im Balkan buchen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}, {"name": "TEA Tourism Events of Albania", "cat": "tourism", "pkg": "al.basecode.tea", "ess": false, "note": "Offizieller Tourismusführer mit Events, auf Englisch", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/albania"}]}
+{
+ "src": "https://www.bento.travel/albania",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Uber und Bolt fahren nicht: Patoko installieren und Bargeld in Lek mitnehmen, da viele Orte nur bar akzeptieren.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, die gesellschaftliche Toleranz ist aber gering.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/albanien-node/albaniensicherheit-216248",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Patoko",
+   "cat": "taxi",
+   "pkg": "com.patoko.patoko",
+   "ess": true,
+   "note": "Lokale Taxi-App mit Festpreisen, Karte oder bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "VrapOn",
+   "cat": "taxi",
+   "pkg": "com.vrapon.rider_app",
+   "ess": false,
+   "note": "Taxis mit Preisschätzung, auch zum Flughafen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in mehreren Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "Baboon",
+   "cat": "delivery",
+   "pkg": "al.baboon",
+   "ess": false,
+   "note": "Lieferdienst für Restaurants und Läden, bar oder Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Offline-Karte mit Wanderwegen und Höhendaten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "Tirana Parking",
+   "cat": "parking",
+   "pkg": "io.tirana_parking.app",
+   "ess": false,
+   "note": "Parkzonen finden und Parken in Tirana bezahlen",
+   "city": "Tirana",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "TIR",
+   "cat": "transit",
+   "pkg": "com.withtir.app",
+   "ess": false,
+   "note": "Buslinien, Haltestellen und Störungen in Tirana",
+   "city": "Tirana",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "eTransport",
+   "cat": "rail",
+   "pkg": "com.dpshtrr.etransport",
+   "ess": false,
+   "note": "Offizielle Fahrpläne und Terminals der Fernbusse",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "Gjirafa Travel",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fernbustickets in Albanien und im Balkan buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "TEA Tourism Events of Albania",
+   "cat": "tourism",
+   "pkg": "al.basecode.tea",
+   "ess": false,
+   "note": "Offizieller Tourismusführer mit Events, auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/albania"
+  },
+  {
+   "name": "IGEWE",
+   "cat": "safety",
+   "note": "Staatliches Institut für Wetter und Erdbeben",
+   "use": "ok",
+   "url": "https://www.geo.edu.al",
+   "nostore": true,
+   "src": "https://www.geo.edu.al"
+  }
+ ]
+}

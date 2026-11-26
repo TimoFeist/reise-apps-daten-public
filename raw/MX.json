@@ -245,6 +245,15 @@
    "use": "limited",
    "req": "Konto und Karte nötig, nur in einzelnen Vierteln",
    "src": "https://www.chilango.com/ciudad/apps-para-pagar-parquimetros/"
+  },
+  {
+   "name": "FMM digital (INM)",
+   "cat": "entry",
+   "note": "Digitale Einreisekarte FMM der Migrationsbehörde",
+   "use": "ok",
+   "url": "https://www.inm.gob.mx/fmme/publico/en/solicitud.html",
+   "nostore": true,
+   "src": "https://consulmex.sre.gob.mx/vancouver/index.php/es/fmme"
   }
  ]
 }

@@ -138,6 +138,32 @@
    "use": "ok",
    "req": "",
    "src": "https://www.caymaniantimes.ky/news/cayman-airways-introduces-new-mobile-app"
+  },
+  {
+   "name": "Cayman Islands National Weather Service",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Hurrikanwarnungen",
+   "use": "ok",
+   "url": "https://www.weather.gov.ky/",
+   "nostore": true,
+   "src": "https://www.weather.gov.ky/"
+  },
+  {
+   "name": "Hazard Management Cayman Islands",
+   "cat": "safety",
+   "note": "Katastrophenschutz der Regierung mit Warnhinweisen",
+   "use": "ok",
+   "url": "https://caymanprepared.ky/",
+   "nostore": true,
+   "src": "https://caymanprepared.ky/"
+  },
+  {
+   "name": "Cayman Ferries Passenger",
+   "cat": "rail",
+   "pkg": "com.caymanferries.passenger",
+   "note": "Fähre Camana Bay nach Kaibo, Tickets in der App",
+   "use": "ok",
+   "src": "https://www.explorecayman.com/water-taxi"
   }
  ]
 }

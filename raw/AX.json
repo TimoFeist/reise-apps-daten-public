@@ -73,6 +73,42 @@
    "use": "ok",
    "req": "",
    "src": "https://www.tallink.com/travelling/one-way/aland-ferry"
+  },
+  {
+   "name": "FMI Weather",
+   "cat": "safety",
+   "pkg": "fi.fmi.mobileweather",
+   "note": "Wetter und Warnungen des Finnischen Wetterdienstes",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=fi.fmi.mobileweather&hl=en"
+  },
+  {
+   "name": "Ålandstrafiken",
+   "cat": "transit",
+   "note": "Busse und Schärenfähren, Fahrpläne online",
+   "city": "Mariehamn",
+   "use": "ok",
+   "url": "https://www.alandstrafiken.ax",
+   "nostore": true,
+   "src": "https://www.alandstrafiken.ax/sites/default/files/2025-09/linje2-3-4.pdf"
+  },
+  {
+   "name": "Visit Åland",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der Ålandinseln",
+   "use": "ok",
+   "url": "https://visitaland.com",
+   "nostore": true,
+   "src": "https://visitaland.com/?p=10396"
+  },
+  {
+   "name": "MobilePay",
+   "cat": "payment",
+   "pkg": "fi.danskebank.mobilepay",
+   "note": "Finnische Bezahl-App, auch auf Åland genutzt",
+   "use": "no",
+   "req": "Finnisches Konto und Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=fi.danskebank.mobilepay&hl=en"
   }
  ],
  "replace": [

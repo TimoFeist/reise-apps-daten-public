@@ -116,6 +116,15 @@
    "use": "no",
    "req": "Ausweis, lokaler Adressnachweis und guyanische TIN nötig",
    "src": "https://cms-my.onecomm.gy/?p=120"
+  },
+  {
+   "name": "mmg Customer",
+   "cat": "payment",
+   "pkg": "com.sixdee.mfs.mmg.customer",
+   "note": "Mobile Money Wallet von GTT",
+   "use": "no",
+   "req": "Guyanische Nummer und Registrierung nötig",
+   "src": "https://guyanatimesgy.com/public-trust-growing-as-over-110000-guyanese-using-mmg-gtts-bobita-ram"
   }
  ]
 }

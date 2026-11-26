@@ -270,6 +270,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.foli.fi/en/tickets/föli-application"
+  },
+  {
+   "name": "MobilePay",
+   "cat": "payment",
+   "pkg": "fi.danskebank.mobilepay",
+   "note": "Nordische Bezahl-App, in Finnland weit verbreitet",
+   "use": "no",
+   "req": "Finnisches Konto und Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=fi.danskebank.mobilepay&hl=en"
   }
  ],
  "replace": [

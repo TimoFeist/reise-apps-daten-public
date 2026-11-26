@@ -94,6 +94,24 @@
    "use": "ok",
    "req": "",
    "src": "https://www.tropicair.com/?p=10569"
+  },
+  {
+   "name": "DigiWallet BZ",
+   "cat": "payment",
+   "pkg": "com.belizetelemedia.digiwallet",
+   "note": "Mobile Geldbörse von Belize Telemedia",
+   "use": "limited",
+   "req": "Lokale Telefonnummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.belizetelemedia.digiwallet&hl=en"
+  },
+  {
+   "name": "E-kyash",
+   "cat": "payment",
+   "pkg": "com.belizebank.ekyash",
+   "note": "Bezahl-App der Belize Bank",
+   "use": "limited",
+   "req": "Lokale Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.belizebank.ekyash&hl=en"
   }
  ]
 }

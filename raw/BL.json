@@ -94,6 +94,15 @@
    "use": "no",
    "req": "Auf Saint-Barthélemy nicht verfügbar",
    "src": "https://gustaviaharbor.com/?p=12019"
+  },
+  {
+   "name": "Saint Barth Tourisme",
+   "cat": "tourism",
+   "note": "Offizieller Reiseführer der Insel mit Tipps und Events",
+   "use": "ok",
+   "url": "https://www.saintbarth-tourisme.com/",
+   "nostore": true,
+   "src": "https://www.saintbarth-tourisme.com/"
   }
  ]
 }

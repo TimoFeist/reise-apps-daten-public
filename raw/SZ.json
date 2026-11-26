@@ -72,6 +72,24 @@
    "use": "no",
    "req": "Lokale SIM, Ausweis und Wohnsitznachweis nötig",
    "src": "https://www.eswatiniobserver.com/e-mali-expands-digital-payments-eswatini/"
+  },
+  {
+   "name": "Eswatini Tourism Authority",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite des Königreichs Eswatini",
+   "use": "ok",
+   "url": "https://www.thekingdomofeswatini.com/",
+   "nostore": true,
+   "src": "https://www.thekingdomofeswatini.com/"
+  },
+  {
+   "name": "Eswatini Meteorological Service",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+   "use": "ok",
+   "url": "https://www.swazimet.gov.sz/",
+   "nostore": true,
+   "src": "https://www.swazimet.gov.sz/"
   }
  ],
  "replace": [

@@ -131,6 +131,25 @@
    "url": "https://taxi.aw/",
    "nostore": true,
    "src": "https://www.gobierno.aw/en/taxiaw-the-official-government-platform-for-taxi-fares"
+  },
+  {
+   "name": "Arubus",
+   "cat": "transit",
+   "note": "Fahrpläne und Linien der Inselbusse",
+   "city": "Oranjestad",
+   "use": "ok",
+   "url": "https://arubus.com",
+   "nostore": true,
+   "src": "https://www.aruba.com/us/plan-your-visit/getting-around-aruba/aruba-bus-schedule"
+  },
+  {
+   "name": "Pay.aw",
+   "cat": "parking",
+   "pkg": "aw.setar.pay",
+   "note": "Aruparking per Kennzeichen bezahlen und verlängern",
+   "use": "limited",
+   "req": "Registrierung evtl. mit lokaler Nummer",
+   "src": "https://www.aruba.com/us/plan-your-visit/tips-for-visitors/aruparking"
   }
  ]
 }

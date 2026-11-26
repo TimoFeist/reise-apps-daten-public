@@ -149,6 +149,34 @@
    "use": "limited",
    "req": "Zahlung nur per Kreditkarte",
    "src": "https://pancanal.com/en/discover-the-panama-canal-in-an-easier-and-faster-way/"
+  },
+  {
+   "name": "Panama Canal Railway",
+   "cat": "rail",
+   "note": "Panoramazug entlang des Kanals nach Colón",
+   "use": "ok",
+   "url": "https://www.panarail.com/",
+   "nostore": true,
+   "src": "https://www.panarail.com/"
+  },
+  {
+   "name": "Parkea PTY",
+   "cat": "parking",
+   "pkg": "pa.gob.mupa.parkea",
+   "note": "Parken in Panama-Stadt online buchen und zahlen",
+   "city": "Panama City",
+   "use": "limited",
+   "req": "Abdeckung noch unklar",
+   "src": "https://apps.apple.com/us/app/id6758616312"
+  },
+  {
+   "name": "Yappy",
+   "cat": "payment",
+   "pkg": "com.yappy",
+   "note": "Weit verbreitete Handy-Zahlung per Telefonnummer",
+   "use": "no",
+   "req": "Panamaisches Bankkonto nötig",
+   "src": "https://www.prensa.com/tema/yappy/"
   }
  ]
 }

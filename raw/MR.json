@@ -1,14 +1,152 @@
-{"src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190", "fetched": "2026-11-18", "updated": "18.11.2026", "note": "E-Visum vorab online beantragen, 55 Euro bar bei Einreise zahlen; Reisepass muss noch sechs Monate gültig sein, Bargeld mitnehmen.", "lgbtq_note": "Homosexuelle Handlungen gelten im Strafrecht als schweres Vergehen und sind mit der Todesstrafe bedroht; Diskretion ist dringend geboten.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190", "discontinued": [], "apps": [
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": true, "note": "Reisewarnungen und Hinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190"},
-{"name": "Mauritania Taxi: RideApp", "cat": "taxi", "pkg": "rideapp.taxi.mauritania.passenger", "ess": false, "note": "Stadtfahrten und Flughafentransfer zum Festpreis", "city": "Nouakchott", "use": "limited", "req": "Keine Angaben zu Registrierung und Bezahlung, Buchung auch telefonisch", "src": "https://play.google.com/store/apps/details?id=rideapp.taxi.mauritania.passenger&hl=en_US"},
-{"name": "Carim", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokale Fahrdienst-App mit Fahrerverfolgung", "city": "Nouakchott", "use": "limited", "req": "Telefonnummer wird erfasst, Preise und Bezahlung nicht veröffentlicht", "src": "https://apps.apple.com/app/id6760763173"},
-{"name": "Netavgou", "cat": "rail", "pkg": "", "ess": false, "note": "Mitfahrten und Privatfahrten zwischen Städten", "city": "", "use": "no", "req": "Guthaben nur über Bankily, Masrvi oder Sedad aufladbar", "src": "https://mwm.ai/apps/netavgou-ntfgw/6751147143"},
-{"name": "General Livraison", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen, Lebensmittel, Medikamente und Pakete liefern", "city": "Nouakchott", "use": "limited", "req": "Bezahlart nicht angegeben", "src": "https://apps.apple.com/us/app/id6743953460"},
-{"name": "Livrily", "cat": "delivery", "pkg": "", "ess": false, "note": "Restaurants, Läden und Apotheken mit Lieferung", "city": "Nouakchott", "use": "limited", "req": "Registrierung mit Telefonnummer nötig", "src": "https://apps.apple.com/us/app/wejabat/id1541922446"},
-{"name": "Diaango FOOD", "cat": "delivery", "pkg": "", "ess": false, "note": "Warme Mahlzeiten aus Restaurants bestellen", "city": "", "use": "limited", "req": "Bezahlart nicht angegeben", "src": "https://apps.apple.com/ae/app/diaango-food/id1595561434"},
-{"name": "Europcar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen über die Station am Flughafen buchen", "city": "Nouakchott", "use": "limited", "req": "Kreditkarte auf eigenen Namen, internationaler Führerschein; Station als Chauffeur-Station gelistet", "src": "https://www.europcar.co.uk/en-gb/places/car-hire-mauritania/nouakchott/nouakchott-airport"},
-{"name": "Kriliy Cars", "cat": "carshare", "pkg": "", "ess": false, "note": "Mauretanischer Mietwagen-Marktplatz, landesweit", "city": "", "use": "limited", "req": "Anfrage wird vom Anbieter geprüft, Bezahlart nicht angegeben", "src": "https://mwm.ai/apps/kriliy-cars/6596811598"},
-{"name": "Bankily", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitete Bezahl-App der Banque Populaire", "city": "", "use": "no", "req": "Mauretanische Ausweisnummer (NNI) für die Kontoeröffnung nötig", "src": "https://prnewswire.com/fr/communiques-de-presse/bankily-revolutionne-les-services-bancaires-numeriques-en-mauritanie-845292240.html"},
-{"name": "Masrvi", "cat": "payment", "pkg": "", "ess": false, "note": "Digitales Konto der BMCI für Zahlungen", "city": "", "use": "limited", "req": "Konto läuft über einen mauretanischen Mobilfunkanschluss", "src": "https://thefintechtimes.com/mauritanian-bank-for-international-trade-launches-digital-banking-app-powered-by-tagpay/"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, in Mauretanien gefährlich", "city": "", "use": "no", "req": "Homosexuelle Handlungen sind mit der Todesstrafe bedroht", "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190",
+ "fetched": "2026-11-18",
+ "updated": "18.11.2026",
+ "note": "E-Visum vorab online beantragen, 55 Euro bar bei Einreise zahlen; Reisepass muss noch sechs Monate gültig sein, Bargeld mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen gelten im Strafrecht als schweres Vergehen und sind mit der Todesstrafe bedroht; Diskretion ist dringend geboten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Reisewarnungen und Hinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190"
+  },
+  {
+   "name": "Mauritania Taxi: RideApp",
+   "cat": "taxi",
+   "pkg": "rideapp.taxi.mauritania.passenger",
+   "ess": false,
+   "note": "Stadtfahrten und Flughafentransfer zum Festpreis",
+   "city": "Nouakchott",
+   "use": "limited",
+   "req": "Keine Angaben zu Registrierung und Bezahlung, Buchung auch telefonisch",
+   "src": "https://play.google.com/store/apps/details?id=rideapp.taxi.mauritania.passenger&hl=en_US"
+  },
+  {
+   "name": "Carim",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Fahrdienst-App mit Fahrerverfolgung",
+   "city": "Nouakchott",
+   "use": "limited",
+   "req": "Telefonnummer wird erfasst, Preise und Bezahlung nicht veröffentlicht",
+   "src": "https://apps.apple.com/app/id6760763173"
+  },
+  {
+   "name": "Netavgou",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Mitfahrten und Privatfahrten zwischen Städten",
+   "city": "",
+   "use": "no",
+   "req": "Guthaben nur über Bankily, Masrvi oder Sedad aufladbar",
+   "src": "https://mwm.ai/apps/netavgou-ntfgw/6751147143"
+  },
+  {
+   "name": "General Livraison",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen, Lebensmittel, Medikamente und Pakete liefern",
+   "city": "Nouakchott",
+   "use": "limited",
+   "req": "Bezahlart nicht angegeben",
+   "src": "https://apps.apple.com/us/app/id6743953460"
+  },
+  {
+   "name": "Livrily",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Restaurants, Läden und Apotheken mit Lieferung",
+   "city": "Nouakchott",
+   "use": "limited",
+   "req": "Registrierung mit Telefonnummer nötig",
+   "src": "https://apps.apple.com/us/app/wejabat/id1541922446"
+  },
+  {
+   "name": "Diaango FOOD",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Warme Mahlzeiten aus Restaurants bestellen",
+   "city": "",
+   "use": "limited",
+   "req": "Bezahlart nicht angegeben",
+   "src": "https://apps.apple.com/ae/app/diaango-food/id1595561434"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen über die Station am Flughafen buchen",
+   "city": "Nouakchott",
+   "use": "limited",
+   "req": "Kreditkarte auf eigenen Namen, internationaler Führerschein; Station als Chauffeur-Station gelistet",
+   "src": "https://www.europcar.co.uk/en-gb/places/car-hire-mauritania/nouakchott/nouakchott-airport"
+  },
+  {
+   "name": "Kriliy Cars",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mauretanischer Mietwagen-Marktplatz, landesweit",
+   "city": "",
+   "use": "limited",
+   "req": "Anfrage wird vom Anbieter geprüft, Bezahlart nicht angegeben",
+   "src": "https://mwm.ai/apps/kriliy-cars/6596811598"
+  },
+  {
+   "name": "Bankily",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete Bezahl-App der Banque Populaire",
+   "city": "",
+   "use": "no",
+   "req": "Mauretanische Ausweisnummer (NNI) für die Kontoeröffnung nötig",
+   "src": "https://prnewswire.com/fr/communiques-de-presse/bankily-revolutionne-les-services-bancaires-numeriques-en-mauritanie-845292240.html"
+  },
+  {
+   "name": "Masrvi",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Digitales Konto der BMCI für Zahlungen",
+   "city": "",
+   "use": "limited",
+   "req": "Konto läuft über einen mauretanischen Mobilfunkanschluss",
+   "src": "https://thefintechtimes.com/mauritanian-bank-for-international-trade-launches-digital-banking-app-powered-by-tagpay/"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in Mauretanien gefährlich",
+   "city": "",
+   "use": "no",
+   "req": "Homosexuelle Handlungen sind mit der Todesstrafe bedroht",
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/mauretaniensicherheit-219190"
+  },
+  {
+   "name": "eVisa Mauretanien",
+   "cat": "entry",
+   "note": "eVisum vorab online beantragen, Pflicht seit 2025",
+   "use": "ok",
+   "url": "https://anrpts.gov.mr/visa/requestvisa",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/mauretanien-node/mauretaniensicherheit-219190"
+  }
+ ]
+}

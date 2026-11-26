@@ -216,6 +216,15 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=lu.ana.metapp",
    "src": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2022/07-juillet/15-nouvelle-application-meteolux.html"
+  },
+  {
+   "name": "Wero",
+   "cat": "payment",
+   "pkg": "eu.epicompany.wero.wallet",
+   "note": "Nachfolger von Payconiq, QR-Zahlung im Handel",
+   "use": "limited",
+   "req": "Konto bei teilnehmender Bank nötig",
+   "src": "https://en.paperjam.lu/article/goodbye-payconiq-hello-wero"
   }
  ],
  "replace": [

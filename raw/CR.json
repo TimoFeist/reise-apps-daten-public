@@ -1,1 +1,186 @@
-{"src": "https://www.bento.travel/costa-rica", "fetched": "2026-11-17", "updated": "August 2026", "note": "Uber und DiDi sind nicht reguliert, lizenzierte rote Taxis oder genehmigte Shuttles sind die offizielle Alternative.", "discontinued": [], "apps": [{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Verbreitete Fahrdienst-App, Kennzeichen prüfen", "city": "", "use": "ok", "req": ""}, {"name": "DiDi", "cat": "taxi", "pkg": "com.didiglobal.passenger", "ess": false, "note": "Zweiter Fahrdienst als Alternative zu Uber", "city": "", "use": "ok", "req": ""}, {"name": "PedidosYa", "cat": "delivery", "pkg": "com.pedidosya", "ess": true, "note": "Regionaler Lieferdienst für Essen und Einkäufe", "city": "", "use": "ok", "req": ""}, {"name": "Uber Eats", "cat": "delivery", "pkg": "com.ubercab.eats", "ess": true, "note": "Essenslieferung mit dem Uber-Konto", "city": "", "use": "ok", "req": ""}, {"name": "DiDi Food", "cat": "delivery", "pkg": "com.xiaojukeji.didi.global.customer", "ess": false, "note": "Weitere Lieferoption, Adresse vorab prüfen", "city": "", "use": "ok", "req": ""}, {"name": "Waze", "cat": "maps", "pkg": "com.waze", "ess": false, "note": "Navigation mit Live-Verkehr und Staumeldungen", "city": "", "use": "ok", "req": ""}, {"name": "Moovit", "cat": "transit", "pkg": "com.tranzmate", "ess": true, "note": "Busrouten planen, Haltestellen vor Ort prüfen", "city": "", "use": "ok", "req": ""}, {"name": "Passer", "cat": "rail", "pkg": "passer.app", "ess": false, "note": "Tickets für Überlandbusse, etwa Tracopa", "city": "", "use": "ok", "req": ""}, {"name": "Emergencias 9-1-1 CR", "cat": "safety", "pkg": "com.datasoftla.app911_cr", "ess": true, "note": "Offizielle Notruf-App mit Standort und Chat", "city": "", "use": "ok", "req": ""}, {"name": "Naturaleza Mágica", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle Infos zu Nationalparks von SINAC", "city": "", "use": "ok", "req": "", "src": "https://delfino.cr/2025/07/minae-invita-a-la-poblacion-a-descargar-aplicacion-naturaleza-magica"}, {"name": "SINPE TP Pasajero", "cat": "transit", "pkg": "", "ess": false, "note": "Kartenzahlung in Bus und Bahn verwalten", "city": "", "use": "limited", "req": "Kontaktlose Bankkarte nötig, nicht auf allen Linien", "src": "https://apps.apple.com/co/app/sinpe-tp-pasajero/id1612109967"}, {"name": "Incofer CR", "cat": "rail", "pkg": "", "ess": false, "note": "Fahrpläne, Tarife und Status der Vorortzüge", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/bm/app/incofer-cr/id1632487842"}, {"name": "Budget Costa Rica", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen ohne Schalter abholen und öffnen", "city": "", "use": "limited", "req": "Physische Kreditkarte und Mindestalter 21 nötig", "src": "https://apps.apple.com/us/app/id1516677167"}, {"name": "epark CR", "cat": "parking", "pkg": "", "ess": false, "note": "Parkgebühren in der Innenstadt per App zahlen", "city": "San José", "use": "ok", "req": "", "src": "https://observador.cr/municipalidad-de-san-jose-reactivara-cobro-de-parquimetros-el-22-de-abril/"}, {"name": "epark CR", "cat": "parking", "pkg": "", "ess": false, "note": "Städtische Parkplätze per App bezahlen", "city": "Cartago", "use": "ok", "req": "", "src": "https://www.crhoy.com/nacionales/muni-de-cartago-no-cobra-parquimetros-en-cuadrantes-con-numeros-borrosos/"}, {"name": "Zona H", "cat": "parking", "pkg": "", "ess": false, "note": "Offizielle Park-App der Stadt Heredia", "city": "Heredia", "use": "limited", "req": "Ausweisnummer und Bankkarte bei Registrierung nötig", "src": "https://delfino.cr/2026/03/aplicacion-zona-h-permitira-pagar-parqueo-desde-el-celular-en-heredia"}]}
+{
+ "src": "https://www.bento.travel/costa-rica",
+ "fetched": "2026-11-17",
+ "updated": "August 2026",
+ "note": "Uber und DiDi sind nicht reguliert, lizenzierte rote Taxis oder genehmigte Shuttles sind die offizielle Alternative.",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Verbreitete Fahrdienst-App, Kennzeichen prüfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DiDi",
+   "cat": "taxi",
+   "pkg": "com.didiglobal.passenger",
+   "ess": false,
+   "note": "Zweiter Fahrdienst als Alternative zu Uber",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "PedidosYa",
+   "cat": "delivery",
+   "pkg": "com.pedidosya",
+   "ess": true,
+   "note": "Regionaler Lieferdienst für Essen und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Uber Eats",
+   "cat": "delivery",
+   "pkg": "com.ubercab.eats",
+   "ess": true,
+   "note": "Essenslieferung mit dem Uber-Konto",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "DiDi Food",
+   "cat": "delivery",
+   "pkg": "com.xiaojukeji.didi.global.customer",
+   "ess": false,
+   "note": "Weitere Lieferoption, Adresse vorab prüfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Navigation mit Live-Verkehr und Staumeldungen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "ess": true,
+   "note": "Busrouten planen, Haltestellen vor Ort prüfen",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Passer",
+   "cat": "rail",
+   "pkg": "passer.app",
+   "ess": false,
+   "note": "Tickets für Überlandbusse, etwa Tracopa",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Emergencias 9-1-1 CR",
+   "cat": "safety",
+   "pkg": "com.datasoftla.app911_cr",
+   "ess": true,
+   "note": "Offizielle Notruf-App mit Standort und Chat",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Naturaleza Mágica",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Infos zu Nationalparks von SINAC",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://delfino.cr/2025/07/minae-invita-a-la-poblacion-a-descargar-aplicacion-naturaleza-magica"
+  },
+  {
+   "name": "SINPE TP Pasajero",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Kartenzahlung in Bus und Bahn verwalten",
+   "city": "",
+   "use": "limited",
+   "req": "Kontaktlose Bankkarte nötig, nicht auf allen Linien",
+   "src": "https://apps.apple.com/co/app/sinpe-tp-pasajero/id1612109967"
+  },
+  {
+   "name": "Incofer CR",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrpläne, Tarife und Status der Vorortzüge",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/bm/app/incofer-cr/id1632487842"
+  },
+  {
+   "name": "Budget Costa Rica",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen ohne Schalter abholen und öffnen",
+   "city": "",
+   "use": "limited",
+   "req": "Physische Kreditkarte und Mindestalter 21 nötig",
+   "src": "https://apps.apple.com/us/app/id1516677167"
+  },
+  {
+   "name": "epark CR",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkgebühren in der Innenstadt per App zahlen",
+   "city": "San José",
+   "use": "ok",
+   "req": "",
+   "src": "https://observador.cr/municipalidad-de-san-jose-reactivara-cobro-de-parquimetros-el-22-de-abril/"
+  },
+  {
+   "name": "epark CR",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Städtische Parkplätze per App bezahlen",
+   "city": "Cartago",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.crhoy.com/nacionales/muni-de-cartago-no-cobra-parquimetros-en-cuadrantes-con-numeros-borrosos/"
+  },
+  {
+   "name": "Zona H",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Park-App der Stadt Heredia",
+   "city": "Heredia",
+   "use": "limited",
+   "req": "Ausweisnummer und Bankkarte bei Registrierung nötig",
+   "src": "https://delfino.cr/2026/03/aplicacion-zona-h-permitira-pagar-parqueo-desde-el-celular-en-heredia"
+  },
+  {
+   "name": "SINPE Móvil",
+   "cat": "payment",
+   "note": "Überweisung per Handynummer, in Bank Apps",
+   "use": "no",
+   "req": "Costa Ricanisches Bankkonto nötig",
+   "url": "https://www.bccr.fi.cr",
+   "nostore": true,
+   "src": "https://www.bccr.fi.cr"
+  }
+ ]
+}

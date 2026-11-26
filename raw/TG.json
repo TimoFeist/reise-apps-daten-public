@@ -127,6 +127,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.togofirst.com/en/transport/0508-16872-lome-to-nouakchott-asky-airlines-expands-network-with-30th-route-in-africa"
+  },
+  {
+   "name": "Mixx by Yas",
+   "cat": "payment",
+   "pkg": "tg.togocom.tmoney",
+   "note": "Marktführendes Mobile Money (ex T Money)",
+   "use": "no",
+   "req": "Togoische SIM und Registrierung nötig",
+   "src": "https://play.google.com/store/apps/details?id=tg.togocom.tmoney&hl=en"
   }
  ]
 }

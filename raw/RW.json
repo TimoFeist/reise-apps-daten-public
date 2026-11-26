@@ -1,12 +1,130 @@
-{"src": "https://www.bento.travel/rwanda", "fetched": "2026-11-18", "updated": "August 2026", "note": "Visum online über Irembo oder bei Ankunft, rund 50 USD; wer in den 30 Tagen davor in der DR Kongo war, wird abgewiesen.", "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Beziehungen sind gesellschaftlich aber nicht akzeptiert; Zurückhaltung in der Öffentlichkeit ist ratsam.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ruanda-node/ruandasicherheit-212026", "discontinued": [], "apps": [
-{"name": "Irembo", "cat": "entry", "pkg": "", "ess": true, "note": "Staatliches Portal irembo.gov.rw für den Visumantrag", "city": "", "use": "ok", "req": "Gebühr rund 50 USD per Visa oder Mastercard, Pass sechs Monate über die Reise hinaus gültig", "src": "https://support.irembo.gov.rw/en/support/solutions/articles/47001155415-how-to-apply-for-visa"},
-{"name": "Move", "cat": "taxi", "pkg": "rw.vw.communitycarsharing", "ess": true, "note": "Fahrdienst mit VW-Fahrzeugen und Chauffeur", "city": "Kigali", "use": "ok", "req": "", "src": "https://www.bento.travel/rwanda"},
-{"name": "YEGO", "cat": "taxi", "pkg": "com.yego.passenger", "ess": true, "note": "Regulierte Taxis mit Preisschätzung ohne Aufschlag", "city": "Kigali", "use": "limited", "req": "Zahlung bar oder per Mobile Money, ausländische Karte nicht gesichert", "src": "https://www.bento.travel/rwanda"},
-{"name": "Vuba Vuba", "cat": "delivery", "pkg": "com.esicia.vubaba", "ess": false, "note": "Essen und Lebensmittel in Kigali, Rubavu, Musanze und Rusizi", "city": "", "use": "limited", "req": "Ausländische Karte kann scheitern, Bargeld bereithalten; erreichbare Telefonnummer nötig", "src": "https://www.bento.travel/rwanda/food-delivery"},
-{"name": "MTN MoMo", "cat": "payment", "pkg": "mtnft.momo.consumer", "ess": false, "note": "Verbreitetste Mobile-Money-Wallet des Landes", "city": "", "use": "no", "req": "Ruandische MTN-Nummer mit Registrierung per Reisepass nötig, reine Daten-eSIM reicht nicht", "src": "https://bento.travel/blog/how-to-pay-in-rwanda"},
-{"name": "Tap&Go", "cat": "transit", "pkg": "com.tapandgorw.app", "ess": false, "note": "Begleit-App zur Buskarte, ersetzt die Karte nicht", "city": "", "use": "limited", "req": "Physische Tap&Go-Karte nötig, Aufladen am Terminal oder bei Agenten", "src": "https://www.bento.travel/rwanda"},
-{"name": "RITCO", "cat": "rail", "pkg": "rw.ritco.app", "ess": false, "note": "Staatliche Fernbusse mit Fahrplan und Tickets", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/rwanda"},
-{"name": "RwandAir", "cat": "flights", "pkg": "", "ess": false, "note": "Flüge der Landesairline buchen und online einchecken", "city": "", "use": "ok", "req": "", "src": "https://www.rwandair.com/information/prepare-to-fly/plan-your-travel-with-rwandair-app"},
-{"name": "Visit Rwanda", "cat": "tourism", "pkg": "com.rdb.tourism", "ess": false, "note": "App der Entwicklungsbehörde RDB zu Parks, Touren und Unterkünften", "city": "", "use": "ok", "req": "", "src": "https://www.visitrwanda.com/visit-rwanda-app/"},
-{"name": "Europcar", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen mit oder ohne Fahrer am Flughafen Kigali", "city": "Kigali", "use": "limited", "req": "Kreditkarte auf den Namen des Fahrers, internationaler Führerschein nur zusammen mit dem deutschen", "src": "https://www.europcar.co.uk/en-gb/places/car-hire-rwanda/kigali/kigali-intl-airport-self-drive"}
-]}
+{
+ "src": "https://www.bento.travel/rwanda",
+ "fetched": "2026-11-18",
+ "updated": "August 2026",
+ "note": "Visum online über Irembo oder bei Ankunft, rund 50 USD; wer in den 30 Tagen davor in der DR Kongo war, wird abgewiesen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, gleichgeschlechtliche Beziehungen sind gesellschaftlich aber nicht akzeptiert; Zurückhaltung in der Öffentlichkeit ist ratsam.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ruanda-node/ruandasicherheit-212026",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Irembo",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Staatliches Portal irembo.gov.rw für den Visumantrag",
+   "city": "",
+   "use": "ok",
+   "req": "Gebühr rund 50 USD per Visa oder Mastercard, Pass sechs Monate über die Reise hinaus gültig",
+   "src": "https://support.irembo.gov.rw/en/support/solutions/articles/47001155415-how-to-apply-for-visa"
+  },
+  {
+   "name": "Move",
+   "cat": "taxi",
+   "pkg": "rw.vw.communitycarsharing",
+   "ess": true,
+   "note": "Fahrdienst mit VW-Fahrzeugen und Chauffeur",
+   "city": "Kigali",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/rwanda"
+  },
+  {
+   "name": "YEGO",
+   "cat": "taxi",
+   "pkg": "com.yego.passenger",
+   "ess": true,
+   "note": "Regulierte Taxis mit Preisschätzung ohne Aufschlag",
+   "city": "Kigali",
+   "use": "limited",
+   "req": "Zahlung bar oder per Mobile Money, ausländische Karte nicht gesichert",
+   "src": "https://www.bento.travel/rwanda"
+  },
+  {
+   "name": "Vuba Vuba",
+   "cat": "delivery",
+   "pkg": "com.esicia.vubaba",
+   "ess": false,
+   "note": "Essen und Lebensmittel in Kigali, Rubavu, Musanze und Rusizi",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karte kann scheitern, Bargeld bereithalten; erreichbare Telefonnummer nötig",
+   "src": "https://www.bento.travel/rwanda/food-delivery"
+  },
+  {
+   "name": "MTN MoMo",
+   "cat": "payment",
+   "pkg": "mtnft.momo.consumer",
+   "ess": false,
+   "note": "Verbreitetste Mobile-Money-Wallet des Landes",
+   "city": "",
+   "use": "no",
+   "req": "Ruandische MTN-Nummer mit Registrierung per Reisepass nötig, reine Daten-eSIM reicht nicht",
+   "src": "https://bento.travel/blog/how-to-pay-in-rwanda"
+  },
+  {
+   "name": "Tap&Go",
+   "cat": "transit",
+   "pkg": "com.tapandgorw.app",
+   "ess": false,
+   "note": "Begleit-App zur Buskarte, ersetzt die Karte nicht",
+   "city": "",
+   "use": "limited",
+   "req": "Physische Tap&Go-Karte nötig, Aufladen am Terminal oder bei Agenten",
+   "src": "https://www.bento.travel/rwanda"
+  },
+  {
+   "name": "RITCO",
+   "cat": "rail",
+   "pkg": "rw.ritco.app",
+   "ess": false,
+   "note": "Staatliche Fernbusse mit Fahrplan und Tickets",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/rwanda"
+  },
+  {
+   "name": "RwandAir",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Flüge der Landesairline buchen und online einchecken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.rwandair.com/information/prepare-to-fly/plan-your-travel-with-rwandair-app"
+  },
+  {
+   "name": "Visit Rwanda",
+   "cat": "tourism",
+   "pkg": "com.rdb.tourism",
+   "ess": false,
+   "note": "App der Entwicklungsbehörde RDB zu Parks, Touren und Unterkünften",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.visitrwanda.com/visit-rwanda-app/"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit oder ohne Fahrer am Flughafen Kigali",
+   "city": "Kigali",
+   "use": "limited",
+   "req": "Kreditkarte auf den Namen des Fahrers, internationaler Führerschein nur zusammen mit dem deutschen",
+   "src": "https://www.europcar.co.uk/en-gb/places/car-hire-rwanda/kigali/kigali-intl-airport-self-drive"
+  },
+  {
+   "name": "Meteo Rwanda",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst Ruandas",
+   "use": "ok",
+   "url": "https://www.meteorwanda.gov.rw/",
+   "nostore": true,
+   "src": "https://www.meteorwanda.gov.rw/"
+  }
+ ]
+}

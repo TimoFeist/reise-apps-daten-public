@@ -199,6 +199,15 @@
    "use": "no",
    "req": "Homosexualität strafbar; Banden locken Nutzer über Dating-Apps in Fallen",
    "src": "https://www.context.news/digital-rights/lgbtq-nigerians-using-apps-like-grindr-caught-in-dating-traps"
+  },
+  {
+   "name": "NiMet",
+   "cat": "safety",
+   "note": "Offizieller Wetterdienst Nigerias mit Vorhersagen",
+   "use": "ok",
+   "url": "https://nimet.gov.ng/",
+   "nostore": true,
+   "src": "https://nimet.gov.ng/"
   }
  ],
  "replace": [

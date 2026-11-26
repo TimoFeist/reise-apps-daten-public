@@ -94,6 +94,33 @@
    "use": "no",
    "req": "Nur im Inland, Wallet eines lokalen Instituts nötig",
    "src": "https://www.bento.travel/bahamas/payments"
+  },
+  {
+   "name": "Bahamas Ferries",
+   "cat": "rail",
+   "note": "Fähren zwischen den Inseln online buchen",
+   "use": "ok",
+   "url": "https://www.bahamasferries.com",
+   "nostore": true,
+   "src": "https://www.bahamasferries.com"
+  },
+  {
+   "name": "Sand Dollar Tourist Wallet",
+   "cat": "payment",
+   "pkg": "com.nasdcbdc.wallet",
+   "note": "Wallet für den digitalen Bahama-Dollar, auch Gäste",
+   "use": "limited",
+   "req": "Aufladen mit Fremdwährung, Limits",
+   "src": "https://www.sanddollar.bs/getinvolved"
+  },
+  {
+   "name": "Bahamas Department of Meteorology",
+   "cat": "safety",
+   "note": "Staatlicher Wetterdienst mit Sturmwarnungen",
+   "use": "ok",
+   "url": "https://www.bahamasweather.org.bs",
+   "nostore": true,
+   "src": "https://www.bahamasweather.org.bs"
   }
  ]
 }

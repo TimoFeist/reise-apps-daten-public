@@ -116,6 +116,15 @@
    "use": "limited",
    "req": "Konto nötig, Name auf Karte muss zum Konto passen",
    "src": "https://apps.apple.com/us/app/karibites/id1577340566"
+  },
+  {
+   "name": "Pure Grenada",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Grenada Tourism Authority",
+   "use": "ok",
+   "url": "https://www.puregrenada.com/",
+   "nostore": true,
+   "src": "https://www.puregrenada.com/"
   }
  ]
 }

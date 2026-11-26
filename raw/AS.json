@@ -39,6 +39,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/talofa-eats/id1621982780"
+  },
+  {
+   "name": "NWS Pago Pago",
+   "cat": "safety",
+   "note": "US-Wetterdienst für Amerikanisch-Samoa",
+   "use": "ok",
+   "url": "https://www.weather.gov/ppg",
+   "nostore": true,
+   "src": "https://www.weather.gov/ppg"
   }
  ],
  "replace": [

@@ -325,6 +325,15 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=nl.knmi.weer",
    "src": "https://www.knmi.nl/app"
+  },
+  {
+   "name": "Tikkie",
+   "cat": "payment",
+   "pkg": "com.abnamro.nl.tikkie",
+   "note": "Zahlungsanfragen per Link, sehr verbreitet",
+   "use": "limited",
+   "req": "Bank mit iDEAL oder Wero nötig",
+   "src": "https://support.n26.com/en-de/payments-transfers-and-withdrawals/cards-and-online-payments/how-can-i-use-tikkie-with-n26"
   }
  ]
 }

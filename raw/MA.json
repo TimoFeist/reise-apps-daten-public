@@ -204,6 +204,24 @@
    "use": "ok",
    "url": "https://play.google.com/store/apps/details?id=com.visitmarrakech.mobile.v3",
    "src": "https://www.visitmarrakech.com"
+  },
+  {
+   "name": "inwi money",
+   "cat": "payment",
+   "pkg": "ma.inwi.money",
+   "note": "Handy-Wallet des Mobilfunkers inwi",
+   "use": "no",
+   "req": "Marokkanische Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=ma.inwi.money"
+  },
+  {
+   "name": "Orange Money Maroc",
+   "cat": "payment",
+   "pkg": "com.orange.orangemoney",
+   "note": "Handy-Wallet von Orange Marokko",
+   "use": "no",
+   "req": "Nur mit marokkanischer Nummer",
+   "src": "https://play.google.com/store/apps/details?id=com.orange.orangemoney"
   }
  ],
  "fetched": "2026-11-23"

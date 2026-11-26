@@ -166,6 +166,25 @@
    "use": "ok",
    "req": "",
    "src": "https://www.gub.uy/ministerio-turismo/comunicacion/noticias/cuatro-destinos-nacionales-crean-aplicaciones-permiten-conocer"
+  },
+  {
+   "name": "T2Parking",
+   "cat": "parking",
+   "pkg": "t2company.mobile.multiparking",
+   "note": "Gebührenparken in Montevideo und anderen Städten",
+   "city": "Montevideo",
+   "use": "limited",
+   "req": "Uruguayische Nummer evtl. nötig",
+   "src": "https://apps.apple.com/app/t2parking/id1202902323"
+  },
+  {
+   "name": "Prex Uruguay",
+   "cat": "payment",
+   "pkg": "air.Prex",
+   "note": "Prepaidkarte mit App, in Uruguay verbreitet",
+   "use": "limited",
+   "req": "Registrierung mit Ausweis, meist für Einwohner",
+   "src": "https://www.prexcard.com"
   }
  ]
 }

@@ -233,6 +233,24 @@
    "url": "https://colombia.travel",
    "nostore": true,
    "src": "https://colombia.travel"
+  },
+  {
+   "name": "Nequi",
+   "cat": "payment",
+   "pkg": "com.nequi.MobileApp",
+   "note": "Verbreitete Handy-Wallet von Bancolombia",
+   "use": "no",
+   "req": "Kolumbianischer Ausweis und Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.nequi.MobileApp"
+  },
+  {
+   "name": "Check-MIG",
+   "cat": "entry",
+   "note": "Online-Registrierung bei Migración Colombia vor Flug",
+   "use": "ok",
+   "url": "https://apps.migracioncolombia.gov.co/pre-registro/",
+   "nostore": true,
+   "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kolumbiensicherheit-201516"
   }
  ],
  "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Akzeptanz ist vor allem auf dem Land gering; das Auswärtige Amt warnt vor Raubüberfällen nach Treffen über Dating-Apps.",

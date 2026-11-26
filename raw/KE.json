@@ -231,6 +231,17 @@
    "url": "https://magicalkenya.com",
    "nostore": true,
    "src": "https://magicalkenya.com"
+  },
+  {
+   "name": "Nairobi Pay",
+   "cat": "parking",
+   "note": "Parkgebühren in Nairobi online oder per USSD *647#",
+   "city": "Nairobi",
+   "use": "limited",
+   "req": "M-Pesa bzw. kenianische Nummer nötig",
+   "url": "https://nairobiservices.go.ke",
+   "nostore": true,
+   "src": "https://www.the-star.co.ke/news/2026-07-20-sakaja-dismisses-reports-of-hiked-parking-fees"
   }
  ],
  "fetched": "2026-11-23",

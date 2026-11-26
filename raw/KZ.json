@@ -248,6 +248,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/id6461822030"
+  },
+  {
+   "name": "Kaspi.kz",
+   "cat": "payment",
+   "pkg": "kz.kaspi.mobile",
+   "note": "Die Super App Kasachstans, QR Zahlung fast überall",
+   "use": "no",
+   "req": "IIN, Konto bei Kaspi und lokale Nummer nötig",
+   "src": "https://wiki.private.law/en/kaspi-bank"
   }
  ],
  "replace": [

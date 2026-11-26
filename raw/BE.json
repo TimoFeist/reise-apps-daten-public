@@ -334,6 +334,24 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/belgium/food-delivery"
+  },
+  {
+   "name": "Bancontact Pay",
+   "cat": "payment",
+   "pkg": "mobi.inthepocket.bcmc.bancontact",
+   "note": "QR Zahlung in Belgien (ehemals Payconiq)",
+   "use": "no",
+   "req": "Belgisches Bankkonto nötig",
+   "src": "https://www.bancontact.com/en/payconiq-evolves"
+  },
+  {
+   "name": "Wero",
+   "cat": "payment",
+   "pkg": "eu.epicompany.wero.wallet",
+   "note": "Wero an belgischen Bancontact QR Codes",
+   "use": "limited",
+   "req": "Deutsche Bank mit Wero nötig",
+   "src": "https://www.bancontact.com/en/news/the-payconiq-payment-solution-for-professionals-is-now-called-bancontact-pro"
   }
  ],
  "replace": [

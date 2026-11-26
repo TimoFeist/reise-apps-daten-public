@@ -1,18 +1,205 @@
-{"src": "https://www.bento.travel/bangladesh", "fetched": "2026-11-20", "updated": "Last updated: August 2026", "note": "Deutsche brauchen einen 6 Monate gültigen Reisepass und ein Visum, am Flughafen Dhaka gibt es ein Visum bei Ankunft für bis zu 30 Tage gegen etwa 51 USD in bar. Bei Fahrdiensten Kennzeichen und Fahrer prüfen und nur den Preis in der App zahlen.", "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind illegal, Paragraf 377 sieht für Männer bis zu lebenslange Haft vor und wird zu Festnahmen und Erpressung genutzt.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bangladesch-node/bangladeschsicherheit-206292", "discontinued": [], "apps": [
-{"name": "Visa on Arrival und E-Arrival Card (Special Branch)", "cat": "entry", "pkg": "", "ess": true, "note": "Visum bei Ankunft und Einreisekarte vorab online, keine App", "city": "", "use": "ok", "req": "", "src": "https://bangladeshmonitor.com.bd/en/bangladesh-introduces-online-system-for-visa-on-arrival-applications"},
-{"name": "Pathao", "cat": "taxi", "pkg": "com.pathao.user", "ess": true, "note": "Lokale Super-App für Autos und Motorradtaxis", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Fahrten mit Autos, CNG-Rikschas und Motorrädern", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": false, "note": "Preis wird mit dem Fahrer ausgehandelt, Zahlung bar", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "foodpanda", "cat": "delivery", "pkg": "com.global.foodpanda.android", "ess": true, "note": "Zuverlässigster Lieferdienst für Essen und Einkäufe", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "Foodi", "cat": "delivery", "pkg": "com.foodiBd", "ess": false, "note": "Lokaler Lieferdienst für Essen und Alltagsbedarf", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "Pathao Food", "cat": "delivery", "pkg": "com.pathao.user", "ess": false, "note": "Restaurantlieferung in der Pathao App", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "bKash", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitetste mobile Geldbörse des Landes", "city": "", "use": "no", "req": "Bangladeschischer Personalausweis (NID) nötig, Reisepass allein reicht nicht", "src": "https://www.bento.travel/bangladesh/payments"},
-{"name": "Messenger", "cat": "misc", "pkg": "com.facebook.orca", "ess": false, "note": "Viele Anbieter sind nur über Facebook erreichbar", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "Rapid Pass", "cat": "transit", "pkg": "com.bd.rapidpass.app", "ess": false, "note": "Metrokarte per App aufladen, danach am Automaten bestätigen", "city": "Dhaka", "use": "limited", "req": "Physische Rapid Pass oder MRT Karte und NFC fähiges Android nötig", "src": "https://thefinancialexpress.com.bd/national/users-can-now-recharge-rapid-pass-cards-via-mobile-app"},
-{"name": "Rail Sheba", "cat": "rail", "pkg": "com.shohoz.dtrainpwa", "ess": true, "note": "Offizielle App für Zugtickets der Bangladesh Railway", "city": "", "use": "limited", "req": "Registrierung mit Passnummer und Foto, Ausweis und registriertes Handy bei der Fahrt mitführen", "src": "https://www.tbsnews.net/node/585458"},
-{"name": "Shohoz", "cat": "rail", "pkg": "com.shohoz.rides", "ess": false, "note": "Fernbusse und Schiffe buchen, Website als Ausweichweg", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bangladesh"},
-{"name": "Hello Tourists", "cat": "safety", "pkg": "", "ess": false, "note": "App der Touristenpolizei mit Kontakten in allen 64 Bezirken", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1563627967"},
-{"name": "Pathao Car Rental", "cat": "carshare", "pkg": "com.pathao.user", "ess": false, "note": "Auto mit Fahrer für Langstrecken und Tagestouren", "city": "", "use": "ok", "req": "", "src": "https://www.tbsnews.net/economy/corporates/pathao-car-rental-effortless-journeys-919331"},
-{"name": "JoBike", "cat": "micro", "pkg": "", "ess": false, "note": "E-Bikes per QR Code ausleihen, etwa 3 Taka pro Minute", "city": "Cox's Bazar", "use": "limited", "req": "Guthaben wird laut Quelle über bKash oder Nagad aufgeladen, die eine lokale Registrierung brauchen", "src": "https://www.tbsnews.net/bangladesh/get-e-bike-only-tk3-min-jobike-launches-coxs-bazar-841566"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating App für schwule und bisexuelle Männer", "city": "", "use": "no", "req": "Gefährlich, über Dating Apps verabredete Treffen führten zu Überfällen und Erpressung", "src": "https://www.gov.uk/government/publications/bangladesh-country-policy-and-information-notes/country-policy-and-information-note-sexual-orientation-and-gender-identity-bangladesh-september-2023-accessible"}
-]}
+{
+ "src": "https://www.bento.travel/bangladesh",
+ "fetched": "2026-11-20",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche brauchen einen 6 Monate gültigen Reisepass und ein Visum, am Flughafen Dhaka gibt es ein Visum bei Ankunft für bis zu 30 Tage gegen etwa 51 USD in bar. Bei Fahrdiensten Kennzeichen und Fahrer prüfen und nur den Preis in der App zahlen.",
+ "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind illegal, Paragraf 377 sieht für Männer bis zu lebenslange Haft vor und wird zu Festnahmen und Erpressung genutzt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bangladesch-node/bangladeschsicherheit-206292",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Visa on Arrival und E-Arrival Card (Special Branch)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Visum bei Ankunft und Einreisekarte vorab online, keine App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://bangladeshmonitor.com.bd/en/bangladesh-introduces-online-system-for-visa-on-arrival-applications"
+  },
+  {
+   "name": "Pathao",
+   "cat": "taxi",
+   "pkg": "com.pathao.user",
+   "ess": true,
+   "note": "Lokale Super-App für Autos und Motorradtaxis",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Fahrten mit Autos, CNG-Rikschas und Motorrädern",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": false,
+   "note": "Preis wird mit dem Fahrer ausgehandelt, Zahlung bar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "foodpanda",
+   "cat": "delivery",
+   "pkg": "com.global.foodpanda.android",
+   "ess": true,
+   "note": "Zuverlässigster Lieferdienst für Essen und Einkäufe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "Foodi",
+   "cat": "delivery",
+   "pkg": "com.foodiBd",
+   "ess": false,
+   "note": "Lokaler Lieferdienst für Essen und Alltagsbedarf",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "Pathao Food",
+   "cat": "delivery",
+   "pkg": "com.pathao.user",
+   "ess": false,
+   "note": "Restaurantlieferung in der Pathao App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "bKash",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitetste mobile Geldbörse des Landes",
+   "city": "",
+   "use": "no",
+   "req": "Bangladeschischer Personalausweis (NID) nötig, Reisepass allein reicht nicht",
+   "src": "https://www.bento.travel/bangladesh/payments"
+  },
+  {
+   "name": "Messenger",
+   "cat": "misc",
+   "pkg": "com.facebook.orca",
+   "ess": false,
+   "note": "Viele Anbieter sind nur über Facebook erreichbar",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "Rapid Pass",
+   "cat": "transit",
+   "pkg": "com.bd.rapidpass.app",
+   "ess": false,
+   "note": "Metrokarte per App aufladen, danach am Automaten bestätigen",
+   "city": "Dhaka",
+   "use": "limited",
+   "req": "Physische Rapid Pass oder MRT Karte und NFC fähiges Android nötig",
+   "src": "https://thefinancialexpress.com.bd/national/users-can-now-recharge-rapid-pass-cards-via-mobile-app"
+  },
+  {
+   "name": "Rail Sheba",
+   "cat": "rail",
+   "pkg": "com.shohoz.dtrainpwa",
+   "ess": true,
+   "note": "Offizielle App für Zugtickets der Bangladesh Railway",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung mit Passnummer und Foto, Ausweis und registriertes Handy bei der Fahrt mitführen",
+   "src": "https://www.tbsnews.net/node/585458"
+  },
+  {
+   "name": "Shohoz",
+   "cat": "rail",
+   "pkg": "com.shohoz.rides",
+   "ess": false,
+   "note": "Fernbusse und Schiffe buchen, Website als Ausweichweg",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bangladesh"
+  },
+  {
+   "name": "Hello Tourists",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "App der Touristenpolizei mit Kontakten in allen 64 Bezirken",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1563627967"
+  },
+  {
+   "name": "Pathao Car Rental",
+   "cat": "carshare",
+   "pkg": "com.pathao.user",
+   "ess": false,
+   "note": "Auto mit Fahrer für Langstrecken und Tagestouren",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.tbsnews.net/economy/corporates/pathao-car-rental-effortless-journeys-919331"
+  },
+  {
+   "name": "JoBike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Bikes per QR Code ausleihen, etwa 3 Taka pro Minute",
+   "city": "Cox's Bazar",
+   "use": "limited",
+   "req": "Guthaben wird laut Quelle über bKash oder Nagad aufgeladen, die eine lokale Registrierung brauchen",
+   "src": "https://www.tbsnews.net/bangladesh/get-e-bike-only-tk3-min-jobike-launches-coxs-bazar-841566"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating App für schwule und bisexuelle Männer",
+   "city": "",
+   "use": "no",
+   "req": "Gefährlich, über Dating Apps verabredete Treffen führten zu Überfällen und Erpressung",
+   "src": "https://www.gov.uk/government/publications/bangladesh-country-policy-and-information-notes/country-policy-and-information-note-sexual-orientation-and-gender-identity-bangladesh-september-2023-accessible"
+  },
+  {
+   "name": "bKash",
+   "cat": "payment",
+   "pkg": "com.bKash.customerapp",
+   "note": "Größtes Mobile-Wallet in Bangladesch",
+   "use": "no",
+   "req": "Bangladeschische SIM und Ausweis nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.bKash.customerapp&hl=en"
+  },
+  {
+   "name": "Bangladesh Tourism Board",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite mit Reisezielen",
+   "use": "ok",
+   "url": "https://tourismboard.gov.bd",
+   "nostore": true,
+   "src": "https://tourismboard.gov.bd"
+  }
+ ]
+}

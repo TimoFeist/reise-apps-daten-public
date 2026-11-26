@@ -314,6 +314,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/lithuania"
+  },
+  {
+   "name": "Paysera",
+   "cat": "payment",
+   "pkg": "lt.lemonlabs.android.paysera",
+   "note": "Litauische E-Geld-App mit Karte und QR-Zahlung",
+   "use": "limited",
+   "req": "Kontoeröffnung mit Ausweisprüfung nötig",
+   "src": "https://www.paysera.lt"
   }
  ],
  "replace": [

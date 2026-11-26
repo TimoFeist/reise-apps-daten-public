@@ -149,6 +149,15 @@
    "use": "no",
    "req": "Homosexualität ist strafbar, Online-Aktivität wird überwacht",
    "src": "https://nomadicboys.com/gay-maldives/"
+  },
+  {
+   "name": "Visit Maldives",
+   "cat": "tourism",
+   "note": "Offizielle Tourismusseite der Malediven",
+   "use": "ok",
+   "url": "https://visitmaldives.com/en",
+   "nostore": true,
+   "src": "https://visitmaldives.com/en"
   }
  ]
 }

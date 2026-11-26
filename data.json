@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-26 19:46",
+ "version": "2026-11-26 20:12",
  "categories": [
   {
    "id": "entry",
@@ -1896,6 +1896,15 @@
      "src": "https://www.apcoa.de/en/apcoa-flow-app"
     },
     {
+     "name": "Wero",
+     "cat": "payment",
+     "pkg": "eu.epicompany.wero.wallet",
+     "note": "Europäische Bezahl-App der Banken für Überweisungen",
+     "use": "limited",
+     "req": "Konto bei teilnehmender Bank nötig",
+     "src": "https://www.db.com/news/detail/20251217-deutsche-bank-launches-wero-for-more-simple-and-sovereign-digital-payments-in-europe"
+    },
+    {
      "name": "nextbike",
      "cat": "micro",
      "pkg": "de.nextbike",
@@ -2657,6 +2666,15 @@
      "url": "https://warnungen.zamg.at/wsapp/",
      "nostore": true,
      "src": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/katastrophenfaelle/2/Seite.29500315"
+    },
+    {
+     "name": "Bluecode",
+     "cat": "payment",
+     "pkg": "com.spt.bluecode",
+     "note": "Bezahlen per Barcode, etwa bei Spar und Billa",
+     "use": "limited",
+     "req": "Österreichisches oder deutsches Bankkonto nötig",
+     "src": "https://bluecode.com/en/pages/bluecode-app"
     },
     {
      "name": "nextbike",
@@ -3778,10 +3796,10 @@
     {
      "name": "Bizum",
      "cat": "payment",
-     "note": "Spanisches Sofortüberweisen per Handynummer",
+     "note": "Bizum Bezahlen im Laden und online",
      "use": "no",
-     "req": "Nur mit spanischem oder andorranischem Bankkonto (IBAN)",
-     "src": "https://bizum.com/es/en/faqs/can-i-bizum-a-person-with-an-account-abroad-and-if-he-has-a-mobile-phone-abroad/",
+     "req": "Spanisches Bankkonto nötig",
+     "src": "https://bizum.com/es/",
      "pkg": "es.bizum.wallet",
      "ic": "XbgtRYHHrya8MNI_zZExHRiPvAcFuhj8djzeEnmd9EbG13U5T6WkHUEvrbM0z3-afwOiwqa5CYjZ_lnDtEqoew",
      "ios": 6761751498
@@ -5917,6 +5935,15 @@
      "ic": "eZR-DNkLNTGLHMGkmNbCG55onfnqAYFyPPpVrJ5lzME4XZ6-VGksS7fKk6izLpCl8gi1B4Rh-LtSLG5b2OJABw"
     },
     {
+     "name": "Wero",
+     "cat": "payment",
+     "pkg": "eu.epicompany.wero.wallet",
+     "note": "Europäische Sofortzahlung, in Frankreich bei Händlern",
+     "use": "limited",
+     "req": "Deutsche Bank mit Wero nötig",
+     "src": "https://www.journaldeleconomie.fr/?p=49235"
+    },
+    {
      "name": "Bird",
      "cat": "micro",
      "pkg": "co.bird.android",
@@ -6514,10 +6541,10 @@
     {
      "name": "Vipps",
      "cat": "payment",
-     "note": "Norwegens Bezahl-App, für Besucher nicht nötig",
+     "note": "Verbreitete Bezahl-App in Norwegen",
      "use": "no",
-     "req": "Norwegische Nummer, BankID und norwegisches Konto nötig",
-     "src": "https://www.bento.travel/blog/how-to-pay-in-norway",
+     "req": "Norwegische BankID und Konto nötig",
+     "src": "https://play.google.com/store/apps/details?id=no.dnb.vipps&hl=en",
      "ios": 984380185,
      "pkg": "no.dnb.vipps",
      "ic": "Q2DVK5Fa1c-96o3_my8P-MMiS0W91fg4spOuAy3AHMGDvEAIu62idj44qX_4eoNR5JNXIFRFABjN2hG88_6Wug"
@@ -7578,6 +7605,15 @@
      "ios": 1070267611,
      "pkg": "fi.twentyfourrent.app",
      "ic": "1nC-TV6CZ1BWEhMGUWc3DdkSa__g_cUTn7Fae1nGrKI437Qvp87NDCxoaZOa8u8Ht_KzUCT1s8itGPyfMbNdeA"
+    },
+    {
+     "name": "MobilePay",
+     "cat": "payment",
+     "pkg": "fi.danskebank.mobilepay",
+     "note": "Nordische Bezahl-App, in Finnland weit verbreitet",
+     "use": "no",
+     "req": "Finnisches Konto und Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=fi.danskebank.mobilepay&hl=en"
     },
     {
      "name": "Joe Scooter",
@@ -8775,6 +8811,15 @@
      "src": "https://www.bento.travel/lithuania",
      "ios": 1468253904,
      "ic": "OAT1DQnLQb0iaeRZ87oMiETXDXn-RLFOgygWqkze2YcG21OQylYlB3vC9sT_2_ASPhB9f44uTNYbcH0CLmzT"
+    },
+    {
+     "name": "Paysera",
+     "cat": "payment",
+     "pkg": "lt.lemonlabs.android.paysera",
+     "note": "Litauische E-Geld-App mit Karte und QR-Zahlung",
+     "use": "limited",
+     "req": "Kontoeröffnung mit Ausweisprüfung nötig",
+     "src": "https://www.paysera.lt"
     }
    ],
    "cities": [
@@ -9147,10 +9192,10 @@
     {
      "name": "Tikkie",
      "cat": "payment",
-     "note": "Zahlungslinks verschicken und Rechnungen teilen",
-     "use": "no",
-     "req": "Niederländisches Bankkonto und europäische Handynummer nötig",
-     "src": "https://www.bento.travel/netherlands/payments",
+     "note": "Zahlungsanfragen per Link, sehr verbreitet",
+     "use": "limited",
+     "req": "Bank mit iDEAL oder Wero nötig",
+     "src": "https://support.n26.com/en-de/payments-transfers-and-withdrawals/cards-and-online-payments/how-can-i-use-tikkie-with-n26",
      "ios": 1112935685,
      "pkg": "com.abnamro.nl.tikkie",
      "ic": "G0uawVaDrpa3L_6DeCig54KXJJrixYcO23qJoJPCcVIo0nilHsyBCGSUHK2RnzdUS4NYKco7DX8exYO5Nhzv"
@@ -9629,6 +9674,24 @@
      "ic": "tjHkOQtGCcUI39_X9OCQBbHG145v9cxI0I10LGZVuVDyrLJlrIEqshaqc9o88keqzoXU1l9OZSi23P0VGyWwt3w"
     },
     {
+     "name": "Bancontact Pay",
+     "cat": "payment",
+     "pkg": "mobi.inthepocket.bcmc.bancontact",
+     "note": "QR Zahlung in Belgien (ehemals Payconiq)",
+     "use": "no",
+     "req": "Belgisches Bankkonto nötig",
+     "src": "https://www.bancontact.com/en/payconiq-evolves"
+    },
+    {
+     "name": "Wero",
+     "cat": "payment",
+     "pkg": "eu.epicompany.wero.wallet",
+     "note": "Wero an belgischen Bancontact QR Codes",
+     "use": "limited",
+     "req": "Deutsche Bank mit Wero nötig",
+     "src": "https://www.bancontact.com/en/news/the-payconiq-payment-solution-for-professionals-is-now-called-bancontact-pro"
+    },
+    {
      "name": "Li Bia Velo",
      "cat": "micro",
      "pkg": "com.jcdecaux.vls.namur",
@@ -10084,6 +10147,15 @@
      "note": "Wetterdienst Luxemburg mit Warnungen, auch Deutsch",
      "url": "https://play.google.com/store/apps/details?id=lu.ana.metapp",
      "src": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2022/07-juillet/15-nouvelle-application-meteolux.html"
+    },
+    {
+     "name": "Wero",
+     "cat": "payment",
+     "pkg": "eu.epicompany.wero.wallet",
+     "note": "Nachfolger von Payconiq, QR-Zahlung im Handel",
+     "use": "limited",
+     "req": "Konto bei teilnehmender Bank nötig",
+     "src": "https://en.paperjam.lu/article/goodbye-payconiq-hello-wero"
     }
    ],
    "cities": [
@@ -10431,6 +10503,15 @@
      "note": "Wetter und Warnungen des polnischen Wetterdienstes",
      "url": "https://play.google.com/store/apps/details?id=pl.imgw.pogoda",
      "src": "https://www.appbrain.com/dev/IMGW+PIB/"
+    },
+    {
+     "name": "PKO Bank Polski (BLIK)",
+     "cat": "payment",
+     "pkg": "pl.pkobp.iko",
+     "note": "Bank-App mit BLIK, dem polnischen Mobilzahlsystem",
+     "use": "no",
+     "req": "Polnisches Bankkonto nötig",
+     "src": "https://play.google.com/store/apps/details?id=pl.pkobp.iko&hl=en"
     },
     {
      "name": "nextbike",
@@ -10809,6 +10890,23 @@
      "src": "https://www.bento.travel/iceland",
      "ios": 449594317,
      "ic": "oynrl-CPadmiUoAh4tWftopFVF6U5C9U39UWuo-8cHMBNY5z9vB7JGGyJZkxwMlbN6ypgBQhe9cU_gRmbAO2"
+    },
+    {
+     "name": "Herjólfur",
+     "cat": "rail",
+     "note": "Fähre zu den Westmännerinseln buchen",
+     "url": "https://herjolfur.is",
+     "nostore": true,
+     "src": "https://herjolfur.is"
+    },
+    {
+     "name": "Aur",
+     "cat": "payment",
+     "pkg": "stokkur.figo.android",
+     "note": "Isländische App für Handyzahlungen",
+     "use": "no",
+     "req": "Isländische Kennnummer und Konto nötig",
+     "src": "https://www.aur.is"
     }
    ],
    "cities": [
@@ -11203,6 +11301,16 @@
      "ic": "q_JvTYzNu3zTw7lXX7c5tB_12jjVL0KwIiwLMLc7SL6Xct1yiLjsIQQ6wSkgGKamHc-6owbK0BgGCrZRT9GNfw"
     },
     {
+     "name": "Zippay",
+     "cat": "payment",
+     "note": "Zahlung per Handynummer in irischen Bank Apps",
+     "url": "https://bpfi.ie/launch-of-new-irish-mobile-payment-service/",
+     "nostore": true,
+     "use": "no",
+     "req": "Konto bei AIB, Bank of Ireland oder PTSB",
+     "src": "https://www.rte.ie/news/ireland/2026/0309/1562267-zippay-payment-service"
+    },
+    {
      "name": "Beryl Bikes",
      "cat": "micro",
      "pkg": "cc.beryl.basis",
@@ -11561,6 +11669,16 @@
      "note": "Reiseassistent des Staates mit 112 Notrufknopf",
      "url": "https://play.google.com/store/apps/details?id=gr.gov.apps.maigreece",
      "src": "https://mintour.gov.gr/en/maigreece-en/"
+    },
+    {
+     "name": "IRIS Payments",
+     "cat": "payment",
+     "note": "Sofortzahlung per Handynummer und QR an Kassen",
+     "url": "https://www.dias.com.gr/en/",
+     "nostore": true,
+     "use": "no",
+     "req": "Griechisches Bankkonto, läuft in Bank Apps",
+     "src": "https://www.dias.com.gr/en/news-center/press-releases/dias-iris-everywhere-greece-becomes-the-first-country-in-europe-with-universal-acceptance-of-instant-payments-across-all-points-of-sale/"
     },
     {
      "name": "nextbike",
@@ -11938,6 +12056,14 @@
      "src": "https://www.sixt.com/car-rental/malta/luqa/malta-luqa-airport/",
      "ios": 295079411,
      "ic": "dirhuxbXhFds-2TQEw51a2M66bDwtP_DdshPFk8yjNHYIy_AJF5oN3pZkG4kgF08wW2qRpucdWZAHg5cL9Mqmw"
+    },
+    {
+     "name": "tallinja Bike",
+     "cat": "micro",
+     "note": "Leihräder Malta und Gozo, Zahlung an Station",
+     "url": "https://www.publictransport.com.mt/en/tallinja-bike",
+     "nostore": true,
+     "src": "https://www.publictransport.com.mt/en/tallinja-bike"
     }
    ],
    "cities": [
@@ -12264,6 +12390,26 @@
      "src": "https://www.fema.gov/about/news-multimedia/mobile-products",
      "ios": 474807486,
      "ic": "SpHNsTxIGUOZN2rghOEcJFCHc2vOFMI6GqiIp6zfSEvi-1sGRRPm0tTRDa9oGFgfPjW99VrpCTF2b_Ua2Yi8744"
+    },
+    {
+     "name": "Venmo",
+     "cat": "payment",
+     "pkg": "com.venmo",
+     "note": "Verbreitete Bezahl-App unter Freunden und in Läden",
+     "url": "https://venmo.com/",
+     "use": "no",
+     "req": "US-Telefonnummer und US-Bankkonto nötig",
+     "src": "https://help.venmo.com/cs/articles/signing-up-for-a-personal-account-faq-vhel187"
+    },
+    {
+     "name": "Cash App",
+     "cat": "payment",
+     "pkg": "com.squareup.cash",
+     "note": "Geld senden und mit Cash Card bezahlen",
+     "url": "https://cash.app/",
+     "use": "no",
+     "req": "Nur mit US-Wohnsitz und US-Nummer",
+     "src": "https://cash.app/help/6485-cash-app-international-availability"
     },
     {
      "name": "Bird",
@@ -13141,6 +13287,14 @@
      "req": "Laut Nutzern Zahlung teils nur mit mexikanischer Nummer",
      "src": "https://trenmaya.gob.mx/pdf/Dossier_Tianguis_Turistico_2026.pdf",
      "ic": "GBYzcHYVFD4VVoUs27IGl-UDXqABoVL9XSUG7yRKS2FFZ2Ez5C7xPvq_6T3BjUPnDWQI6aMwoB4O4wiCKsnuOQ"
+    },
+    {
+     "name": "FMM digital (INM)",
+     "cat": "entry",
+     "note": "Digitale Einreisekarte FMM der Migrationsbehörde",
+     "url": "https://www.inm.gob.mx/fmme/publico/en/solicitud.html",
+     "nostore": true,
+     "src": "https://consulmex.sre.gob.mx/vancouver/index.php/es/fmme"
     }
    ],
    "cities": [
@@ -13678,6 +13832,15 @@
      "note": "Leih-E-Bikes und E-Scooter, ab 16 Jahren",
      "src": "https://www.li.me/en-au/locations/melbourne",
      "ios": 1199780189
+    },
+    {
+     "name": "Beem",
+     "cat": "payment",
+     "pkg": "it.beem.app",
+     "note": "Geld senden, teilen und anfordern",
+     "use": "no",
+     "req": "Australisches Bankkonto, Anmeldung nur in Australien",
+     "src": "https://beem.com.au/support"
     }
    ],
    "cities": [
@@ -14249,10 +14412,10 @@
     {
      "name": "GetGo",
      "cat": "carshare",
-     "note": "Carsharing mit Autos an vielen Standorten",
-     "use": "no",
-     "req": "Keine Anmeldung für Touristen, Arbeitspass und singapurischer Führerschein nötig",
-     "src": "https://help.getgo.sg/hc/en-us/articles/14462659133337-If-I-hold-a-foreign-driving-licence-can-I-drive-a-GetGo",
+     "note": "Größtes Carsharing Singapurs, Autos per App öffnen",
+     "use": "limited",
+     "req": "Führerscheinprüfung, ggf. Internationaler Führerschein",
+     "src": "https://www.sla.gov.sg/articles/geospatial-power--getgo/",
      "pkg": "sg.getgo.booking",
      "ic": "5FcskL-alcrYDQfP3WdHNaBeuW6PEz18fO4tBKedqPfgJ_cmsyvandFKU6LP07gToh4pBBQ7ZsTJSYnhlDOuDA",
      "ios": 1545316216
@@ -14328,6 +14491,15 @@
      "src": "https://www.bento.travel/singapore",
      "ios": 686449807,
      "ic": "PyZ3akMGXPV0tKKirKNwfO--PSQW3FHR6rD_H9mAaukZ8LiHyYFuBLeU8UZ2ok6r5SP79-3prkfybWKh98AZAD0"
+    },
+    {
+     "name": "Tribecar",
+     "cat": "carshare",
+     "pkg": "com.tribecar.app",
+     "note": "Carsharing mit stündlicher oder täglicher Miete",
+     "use": "limited",
+     "req": "Führerscheinprüfung, ggf. Internationaler Führerschein",
+     "src": "https://www.singsaver.com.sg/page/blog/car-sharing-options-in-singapore"
     }
    ],
    "cities": [],
@@ -15022,6 +15194,25 @@
      "url": "https://www.southafrica.net",
      "nostore": true,
      "src": "https://www.southafrica.net"
+    },
+    {
+     "name": "admyt",
+     "cat": "parking",
+     "pkg": "com.admyt.app.sa",
+     "note": "Ticketlos parken per Kennzeichen in Malls wie Sandton City",
+     "url": "https://www.admyt.com/",
+     "use": "limited",
+     "req": "Nur an teilnehmenden Parkhäusern",
+     "src": "https://www.itweb.co.za/article/local-ticketless-parking-app-gains-traction/KWEBb7yLE1bvmRjO"
+    },
+    {
+     "name": "Parket",
+     "cat": "parking",
+     "pkg": "com.parket.parketapp",
+     "note": "Ticketlos parken in Kapstadt und Johannesburg",
+     "use": "limited",
+     "req": "Nur an teilnehmenden Parkplätzen",
+     "src": "https://techcentral.co.za/parket-launches-turnkey-digital-parking-solution-in-joburg-parprom/226936"
     }
    ],
    "cities": [
@@ -15374,6 +15565,16 @@
        "src": "https://bolt.eu/en-ke/scooters",
        "ios": 675033630,
        "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM"
+      },
+      {
+       "name": "Nairobi Pay",
+       "cat": "parking",
+       "note": "Parkgebühren in Nairobi online oder per USSD *647#",
+       "url": "https://nairobiservices.go.ke",
+       "nostore": true,
+       "use": "limited",
+       "req": "M-Pesa bzw. kenianische Nummer nötig",
+       "src": "https://www.the-star.co.ke/news/2026-07-20-sakaja-dismisses-reports-of-hiked-parking-fees"
       }
      ],
      "ll": [
@@ -15602,6 +15803,13 @@
      "ios": 301404273,
      "pkg": "cz.edhouse.mc.android",
      "ic": "65UaBPQJv1GQWtsqhcZ2ddWWU2il2gVhtTaNOqjMTIKqj6KaiSPoAFTL8Cq6w0vph5Ion4gWKMoJXe-kqhSPWA"
+    },
+    {
+     "name": "Qerko",
+     "cat": "payment",
+     "pkg": "com.itispaid",
+     "note": "Restaurantrechnung per QR Code am Tisch zahlen",
+     "src": "https://www.qerko.com/eng/pay"
     }
    ],
    "cities": [
@@ -15975,10 +16183,10 @@
     {
      "name": "MobilePay",
      "cat": "payment",
-     "note": "Verbreitete dänische Bezahl-App",
+     "note": "Meistgenutzte Bezahl-App in Dänemark",
      "use": "no",
-     "req": "Dänischer Ausweis, dänisches Bankkonto und lokale Nummer nötig",
-     "src": "https://www.bento.travel/denmark/payments",
+     "req": "Dänische Telefonnummer nötig",
+     "src": "https://lawinsider.com/da/contracts/lC3DXiIDkko",
      "ios": 624499138,
      "pkg": "dk.danskebank.mobilepay",
      "ic": "XSLbNi1UX7IFaV62r6kqsD0cU8jEyrBWNzyHH2uD_T37d156jScBaDwHabVFhO19r7UlQ8YD6yT6gaPHsMaxcw"
@@ -17195,6 +17403,14 @@
      "pkg": "com.cyapps.evoa",
      "ic": "zCwBkYFi8NlvI1ii7HCXLpJHIAeXNbZMycxG6tuBv_YipNp886uWMZTlfIcpIuueaW3Fir_YHpCoNc_X9mKI3w",
      "ios": 6746894627
+    },
+    {
+     "name": "Egyptian Meteorological Authority",
+     "cat": "safety",
+     "note": "Offizieller Wetterdienst mit Vorhersagen",
+     "url": "https://www.ema.gov.eg",
+     "nostore": true,
+     "src": "https://alertingauthority.wmo.int/authorities.php?recId=45"
     }
    ],
    "cities": [
@@ -17445,6 +17661,24 @@
      "url": "https://www.visitmorocco.com",
      "nostore": true,
      "src": "https://www.visitmorocco.com"
+    },
+    {
+     "name": "inwi money",
+     "cat": "payment",
+     "pkg": "ma.inwi.money",
+     "note": "Handy-Wallet des Mobilfunkers inwi",
+     "use": "no",
+     "req": "Marokkanische Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=ma.inwi.money"
+    },
+    {
+     "name": "Orange Money Maroc",
+     "cat": "payment",
+     "pkg": "com.orange.orangemoney",
+     "note": "Handy-Wallet von Orange Marokko",
+     "use": "no",
+     "req": "Nur mit marokkanischer Nummer",
+     "src": "https://play.google.com/store/apps/details?id=com.orange.orangemoney"
     }
    ],
    "cities": [
@@ -18419,6 +18653,16 @@
      "req": "Physische Kreditkarte und Mindestalter 21 nötig",
      "src": "https://apps.apple.com/us/app/id1516677167",
      "ios": 1516677167
+    },
+    {
+     "name": "SINPE Móvil",
+     "cat": "payment",
+     "note": "Überweisung per Handynummer, in Bank Apps",
+     "url": "https://www.bccr.fi.cr",
+     "nostore": true,
+     "use": "no",
+     "req": "Costa Ricanisches Bankkonto nötig",
+     "src": "https://www.bccr.fi.cr"
     }
    ],
    "cities": [
@@ -19608,6 +19852,23 @@
      "note": "Wetterdienst Chiles mit Warnungen und Karten",
      "url": "https://play.google.com/store/apps/details?id=cl.gob.dgac.dmc.app",
      "src": "https://appgoblin.info/apps/cl.gob.dgac.dmc.app"
+    },
+    {
+     "name": "MACH",
+     "cat": "payment",
+     "pkg": "cl.bci.sismo.mach",
+     "note": "Verbreitetes Digitalkonto mit Prepaidkarte in Chile",
+     "use": "no",
+     "req": "Chilenische RUT nötig",
+     "src": "https://play.google.com/store/apps/details?id=cl.bci.sismo.mach&hl=en"
+    },
+    {
+     "name": "Declaración Jurada Digital SAG/Aduana",
+     "cat": "entry",
+     "note": "Pflichterklärung zu Zoll und Agrarwaren bei Einreise",
+     "url": "https://ingresoachile.cl",
+     "nostore": true,
+     "src": "https://www.sag.gob.cl/ambitos-de-accion/declaracion-jurada-sag-de-ingreso-chile"
     }
    ],
    "cities": [
@@ -19922,10 +20183,10 @@
     {
      "name": "Yape",
      "cat": "payment",
-     "note": "Verbreitete Bezahl-App für QR und Handyüberweisung",
+     "note": "Sehr verbreitete QR-Zahlung in Peru",
      "use": "no",
-     "req": "Peruanische Debitkarte (z. B. BCP) nötig",
-     "src": "https://www.exitosanoticias.pe/tecnologia/yape-como-crear-una-cuenta-usando-tu-carnet-extranjeria-o-pasaporte-n107798",
+     "req": "Peruanisches Konto oder DNI nötig",
+     "src": "https://www.yape.com.pe",
      "ios": 1147249919,
      "pkg": "com.bcp.innovacxion.yapeapp",
      "ic": "TuC8yCqP0avydIoYfhc36PJLMLuEEseN5Pdc4CEHvV06wf8YCWOhvPmi_Ht2SkCabnQOVZkUVXycJeM3lN8XRko"
@@ -20228,6 +20489,14 @@
      "src": "https://news.alaskaair.com/guest-experience/alaska-airlines-and-hawaiian-airlines-app/",
      "ios": 356143077,
      "ic": "seZl9H2ASOnXNzBLB670DZkFX5S4gfSHJBq2IzRycAZsnyeZY1PRNVnJQrl3PEA2EytOKiVHeJhW9ti-slSx"
+    },
+    {
+     "name": "NWS Pago Pago",
+     "cat": "safety",
+     "note": "US-Wetterdienst für Amerikanisch-Samoa",
+     "url": "https://www.weather.gov/ppg",
+     "nostore": true,
+     "src": "https://www.weather.gov/ppg"
     }
    ],
    "cities": [],
@@ -20987,10 +21256,10 @@
     {
      "name": "MCB Juice",
      "cat": "payment",
-     "note": "Verbreitete QR-Zahlungs- und Banking-App der MCB",
+     "note": "Verbreitete Bezahl-App der MCB Bank",
      "use": "no",
-     "req": "Konto bei der MCB auf Mauritius nötig",
-     "src": "https://appgoblin.info/apps/com.mcbmu.juice",
+     "req": "Konto bei MCB Mauritius nötig",
+     "src": "https://mcbjuice.com/",
      "ios": 1489436473,
      "pkg": "com.mcbmu.juice",
      "ic": "YuGBMJddpOE-auq4PcdTodNLOofxI3l88qlaOwIsZKHj6n-_ul5pQKorEqc3wo2sD2AmkwAvnNNpO7Fi80Ldmw"
@@ -21230,6 +21499,14 @@
      "ios": 1663916867,
      "pkg": "com.seychelles.android",
      "ic": "tLh8d-qu86gzkfGi4zWfCTP_-Mt1pWYVQbtaw9YhP8y97BaJScYvbzOjinA75Y2tT7F7yML7oorUr3ln-P75iV8"
+    },
+    {
+     "name": "Seychelles Meteorological Authority",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+     "url": "https://www.meteo.sc/",
+     "nostore": true,
+     "src": "https://www.meteo.sc/"
     }
    ],
    "cities": [],
@@ -21622,6 +21899,14 @@
      "url": "https://inbound.nicinsurance.co.tz/",
      "nostore": true,
      "src": "https://www.norway.no/en/tanzania/norway-tanzania/news-events/mandatory-travel-insurance/"
+    },
+    {
+     "name": "Tanzania Meteorological Authority",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+     "url": "https://www.meteo.go.tz/",
+     "nostore": true,
+     "src": "https://www.meteo.go.tz/"
     }
    ],
    "cities": [
@@ -21900,6 +22185,14 @@
      "src": "https://www.caribjournal.com/2026/05/10/antigua-guadeloupe-flights-liat/",
      "ios": 6760295434,
      "ic": "Bj_MOJ45wdmWDlEWJVPVHgOZkLlpoXx59PjTPgKarqOQ8sCziUeNPGA4uziI5J2pp01A9JK--pqSx4rAmu5Y"
+    },
+    {
+     "name": "Visit Antigua and Barbuda",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite",
+     "url": "https://www.visitantiguabarbuda.com",
+     "nostore": true,
+     "src": "https://www.visitantiguabarbuda.com"
     }
    ],
    "cities": [],
@@ -22269,6 +22562,14 @@
      "url": "http://www.insmet.cu/",
      "nostore": true,
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kubasicherheit-212208"
+    },
+    {
+     "name": "Cuba Travel",
+     "cat": "tourism",
+     "note": "Offizielles Tourismusportal Kubas",
+     "url": "https://www.cuba.travel/en",
+     "nostore": true,
+     "src": "https://www.frommers.com/destinations/cuba/planning-a-trip/"
     }
    ],
    "cities": [],
@@ -22435,6 +22736,31 @@
      "note": "Offizielle Warnungen des Krisenzentrums je Provinz",
      "src": "https://apps.apple.com/us/app/id1490912894",
      "ios": 1490912894
+    },
+    {
+     "name": "tPago",
+     "cat": "payment",
+     "pkg": "com.tpago.movil",
+     "note": "Mobiles Bezahlen in über 9000 Geschäften",
+     "use": "no",
+     "req": "Dominikanisches Bankkonto nötig",
+     "src": "https://do.scotiabank.com/content/dam/scotiabank/international/dominican-republic/BROCHURE_TPAGO_SCOTIABANK_3_5x8_5.pdf"
+    },
+    {
+     "name": "Go Dominican Republic",
+     "cat": "tourism",
+     "note": "Offizielle Seite des Tourismusministeriums",
+     "url": "https://www.godominicanrepublic.com",
+     "nostore": true,
+     "src": "https://www.godominicanrepublic.com"
+    },
+    {
+     "name": "E-Ticket Dominikanische Republik",
+     "cat": "entry",
+     "note": "Pflichtformular für Ein- und Ausreise mit QR Code",
+     "url": "https://eticket.migracion.gob.do",
+     "nostore": true,
+     "src": "https://migracion.gob.do/en/e-ticket-electronic-ticket-of-entry-and"
     }
    ],
    "cities": [
@@ -22678,6 +23004,14 @@
      "src": "https://www.hertz.com/us/en/location/bolivia/lapaz/lpbt51",
      "ios": 352114300,
      "ic": "QC8Af5GvLRvfBYc-XHkN6S6DJC_w7W8GgVN6elZMY8USWLFGcViNe37C7NgiQI5aBE8T2B-tiG_ocdNHIhn4"
+    },
+    {
+     "name": "SENAMHI Bolivia",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Warnungen",
+     "url": "https://senamhi.gob.bo",
+     "nostore": true,
+     "src": "https://senamhi.gob.bo"
     }
    ],
    "cities": [
@@ -22934,10 +23268,10 @@
     {
      "name": "Nequi",
      "cat": "payment",
-     "note": "Verbreitete Bezahl- und Überweisungs-App",
+     "note": "Verbreitete Handy-Wallet von Bancolombia",
      "use": "no",
-     "req": "Cédula de extranjería und kolumbianische Handynummer nötig",
-     "src": "https://colombiamove.com/blog/es/nequi-daviplata-guide-foreigners-colombia/",
+     "req": "Kolumbianischer Ausweis und Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.nequi.MobileApp",
      "pkg": "com.nequi.MobileApp",
      "ic": "ieznb73N7P1gm49TTOYpQX23BAUlRVxiVnzy2_YJQSAkcfOkKOi9U-UQlvW5vCt1Exf2ljI-rn4Hc81xddqg5M8",
      "ios": 1075378688
@@ -22985,6 +23319,14 @@
      "url": "https://colombia.travel",
      "nostore": true,
      "src": "https://colombia.travel"
+    },
+    {
+     "name": "Check-MIG",
+     "cat": "entry",
+     "note": "Online-Registrierung bei Migración Colombia vor Flug",
+     "url": "https://apps.migracioncolombia.gov.co/pre-registro/",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/kolumbiensicherheit-201516"
     }
    ],
    "cities": [
@@ -23351,6 +23693,23 @@
      "src": "https://www.primicias.ec/noticias/sociedad/reportar-emergencias-robos-accidentes-aplicacion-ecu911",
      "ios": 723185508,
      "ic": "71sALzgNHbiBS_F_52bds4YNSr0C4wPgaZKc7NZUiEWGfmeLH3K_sZuLPOPJUXTG3ifeBvmqhQRjhCTjXU23ZPc"
+    },
+    {
+     "name": "Deuna",
+     "cat": "payment",
+     "pkg": "com.appdeuna.wallet",
+     "note": "Bezahlen per QR, verbreitet in Ecuador",
+     "use": "no",
+     "req": "Ecuadorianisches Bankkonto nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.appdeuna.wallet&hl=en"
+    },
+    {
+     "name": "Ecuador Travel",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite von Ecuador",
+     "url": "https://ecuador.travel",
+     "nostore": true,
+     "src": "https://ecuador.travel"
     }
    ],
    "cities": [
@@ -23849,10 +24208,10 @@
     {
      "name": "MyCash Digicel",
      "cat": "payment",
-     "note": "Mobile Geldbörse von Digicel für QR-Zahlungen und Überweisungen",
-     "use": "no",
-     "req": "Registrierte Digicel-Fiji-SIM und fidschianische Steuernummer (TIN) nötig",
-     "src": "https://www.digicelpacific.com/mobile/fj/mycash-account-updates-and-requirements",
+     "note": "Mobiles Geld von Digicel",
+     "use": "limited",
+     "req": "Digicel SIM-Karte nötig",
+     "src": "https://www.digicelpacific.com/news/digicel-pacifics-mycash-app-gets-a-major-upgrade",
      "ios": 1531250064,
      "pkg": "com.digicelfs.mycash",
      "ic": "zd5WDJYFHSkIq0WRkaBF8CMj_G21-KO_E6suzYCYuQHGQ8PI_jivVW5tADskQoLIl8b7kGOb_UdldseF_5CtTw"
@@ -23932,6 +24291,14 @@
      "src": "https://simcorner.com/blogs/travel-guides/best-apps-for-fiji",
      "ios": 6752855171,
      "ic": "hS1b9_E7AQY-KDtnq5svQ23rT-hsZM-KlnZ1H7-YA0AzbYLh8I33TjTPokbQ1yL3LfvtG2a7ClBvf0fHqPp7W5U"
+    },
+    {
+     "name": "Tourism Fiji",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite von Fidschi",
+     "url": "https://www.fiji.travel",
+     "nostore": true,
+     "src": "https://www.fiji.travel/articles/visa-and-entry"
     }
    ],
    "cities": [],
@@ -24035,6 +24402,14 @@
      "ios": 6748750533,
      "pkg": "com.visitwidget.guam",
      "ic": "NtQ0MJ-ZSxDAvJrGI8CFtY05MT72sAu4ISyWjopJ5AljoKSn7QZ2ZZwSHvqBfMb-RMrOM2qrxjKgx-6d7Y25lQ"
+    },
+    {
+     "name": "NWS Guam",
+     "cat": "safety",
+     "note": "Wetter und Taifunwarnungen des US-Wetterdienstes",
+     "url": "https://www.weather.gov/gum/",
+     "nostore": true,
+     "src": "https://www.weather.gov/gum/"
     }
    ],
    "cities": [
@@ -24200,6 +24575,14 @@
      "src": "https://play.google.com/store/apps/details?id=app.anoe",
      "ios": 6762506723,
      "ic": "X0GASyMvNmVn2nL3Mz37pLRQW7K-WiJrkmRyGoUBnV3nP9iw-VQBJ-6WNT9AEsV3dWvcniCddG4h3wTlZkGiog"
+    },
+    {
+     "name": "Météo-France Polynésie",
+     "cat": "safety",
+     "note": "Amtliche Vorhersagen und Wetterwarnungen",
+     "url": "https://meteo.pf",
+     "nostore": true,
+     "src": "https://meteo.pf/fr/galerie"
     }
    ],
    "cities": [
@@ -24465,9 +24848,9 @@
      "name": "PayPay",
      "cat": "payment",
      "note": "Verbreitetste QR-Bezahl-App in Japan",
-     "use": "no",
-     "req": "Konto mit Guthaben nur mit japanischen Aufenthaltsdokumenten nutzbar",
-     "src": "https://www.bento.travel/japan/payments",
+     "use": "limited",
+     "req": "Japanische Telefonnummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=jp.ne.paypay.android.app&hl=en",
      "ios": 1435783608,
      "pkg": "jp.ne.paypay.android.app",
      "ic": "8gZ9WtwcqI32SKw_xOpWvqcvFPflU1d1-jsTfA1TabRGZKWecETvvgsfngatb7NYKI5AW4Odn1K59t-YSiPzrA"
@@ -24968,10 +25351,10 @@
     {
      "name": "Papara",
      "cat": "payment",
-     "note": "Türkische Geldbörse und Karte für Zahlungen und Überweisungen",
+     "note": "Beliebtes türkisches Digitalkonto mit Karte",
      "use": "no",
-     "req": "Verifizierung nur mit türkischem Chip-Ausweis oder türkischer Aufenthaltserlaubnis",
-     "src": "https://www.papara.com/en/faq/account/how-can-i-verify-my-account",
+     "req": "Türkische Nummer und Ausweisprüfung nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.mobillium.papara&hl=en",
      "ios": 1146507477,
      "pkg": "com.mobillium.papara",
      "ic": "xYiJnPWuomWTbk1OSBjNf49qCnpQgM6NjW_z47zQ6-3Y3pBAxkYMx3-rzvwqCSsiwaEQ5JsCOS9LhXon7XoTnQ"
@@ -25074,6 +25457,24 @@
      "use": "limited",
      "req": "Registrierung mit Handynummer, Türkisch",
      "src": "https://www.teknoblog.com/afad-acil-cagri-mobil-uygulamasi-hemen-indirin"
+    },
+    {
+     "name": "İspark Mobil",
+     "cat": "parking",
+     "pkg": "com.p4c.ispark",
+     "note": "Freie Plätze und Bezahlen in Istanbuler Parkhäusern",
+     "use": "limited",
+     "req": "Registrierung per Masterpass, evtl. türkische Nummer",
+     "src": "https://www.milliyet.com.tr/advertorial/otopark-odemelerinde-dijital-donusum-6487373",
+     "ios": 1542434509,
+     "ic": "wwo3y7uUmJ8Dn4QCCdagvqLU4av_JPIWrBDZFvAfcTMBOQlN65_FPtEkKAuYod8_fjrZA9mdozipqxcJe7bOFw"
+    },
+    {
+     "name": "GoTürkiye",
+     "cat": "tourism",
+     "pkg": "tr.gov.tga.chinaapp",
+     "note": "Offizielle App der türkischen Tourismusagentur",
+     "src": "https://play.google.com/store/apps/details?id=tr.gov.tga.chinaapp&hl=en"
     }
    ],
    "cities": [
@@ -25397,6 +25798,14 @@
      "ios": 1565214980,
      "pkg": "cn.tydic.unitelPay",
      "ic": "j7XglTa5jSWAZ5m0G0ytMVAoZggh6RwByydYslOt76oFHvusBSsXAzopTsFiqICd9puDDs1vSE8UceuENMT5sA"
+    },
+    {
+     "name": "Visite Angola",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusmarke des Ministeriums",
+     "url": "https://visitangola.ao/",
+     "nostore": true,
+     "src": "https://allafrica.com/stories/202510020263.html"
     }
    ],
    "cities": [
@@ -25837,6 +26246,14 @@
      "ios": 1536550854,
      "pkg": "com.ni.discovercars",
      "ic": "0YstnedNJb6p8e_dSvyRQ5Itc7GQZGeRPVXFSmskSVBc1B7MwIm-ofoZ7rLdj8X3rFRvyVKwWP_MpudG_03I"
+    },
+    {
+     "name": "Botswana Tourism",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde",
+     "url": "https://www.botswanatourism.co.bw",
+     "nostore": true,
+     "src": "https://www.botswanatourism.co.bw"
     }
    ],
    "cities": [
@@ -26072,6 +26489,39 @@
      "ios": 319881193,
      "pkg": "com.grindrapp.android",
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Meteo Algerie - Alerte",
+     "cat": "safety",
+     "pkg": "com.meteoalgerie.cap",
+     "note": "Wetterwarnungen des Wetterdienstes ONM",
+     "src": "https://play.google.com/store/apps/details?id=com.meteoalgerie.cap&hl=en"
+    },
+    {
+     "name": "Meteo Algerie ONM",
+     "cat": "safety",
+     "pkg": "com.meteoalgerie.meteo",
+     "note": "Offizielle Wettervorhersage des ONM",
+     "src": "https://play.google.com/store/apps/details?id=com.meteoalgerie.meteo&hl=en"
+    },
+    {
+     "name": "Visum Algerien",
+     "cat": "entry",
+     "note": "Visum vorab bei Botschaft oder Konsulat",
+     "url": "https://www.auswaertiges-amt.de/de/service/laender/algerien-node/algeriensicherheit/219044",
+     "nostore": true,
+     "use": "limited",
+     "req": "Visum vor Reise beantragen",
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/algerien-node/algeriensicherheit/219044"
+    },
+    {
+     "name": "ECCP Algérie Poste",
+     "cat": "payment",
+     "pkg": "dz.poste.eccp",
+     "note": "App der Algérie Poste für CCP-Postkonten",
+     "use": "no",
+     "req": "Algerisches Postkonto nötig",
+     "src": "https://play.google.com/store/apps/details?id=dz.poste.eccp&hl=en"
     }
    ],
    "cities": [
@@ -26198,6 +26648,23 @@
      "ios": 319881193,
      "pkg": "com.grindrapp.android",
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Orange Money Africa",
+     "cat": "payment",
+     "pkg": "com.orange.orangemoneyafrique",
+     "note": "Mobiles Geld von Orange, in Burkina weit verbreitet",
+     "use": "no",
+     "req": "Burkinische SIM von Orange nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.orange.orangemoneyafrique&hl=en"
+    },
+    {
+     "name": "Visa Burkina",
+     "cat": "entry",
+     "note": "Offizielles Portal für das E-Visum von Burkina Faso",
+     "url": "https://www.visaburkina.bf/",
+     "nostore": true,
+     "src": "https://www.visaburkina.bf/"
     }
    ],
    "cities": [
@@ -26405,6 +26872,14 @@
      "url": "https://migration.gov.bi/Apply/step1/2",
      "nostore": true,
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/burundisicherheit-222614"
+    },
+    {
+     "name": "IGEBU Wetterdienst",
+     "cat": "safety",
+     "note": "Hydrometeorologischer Dienst von Burundi",
+     "url": "https://www.igebu.bi/",
+     "nostore": true,
+     "src": "https://www.igebu.bi/"
     }
    ],
    "cities": [
@@ -26593,6 +27068,22 @@
      "src": "https://moovitapp.com/index/en/public_transit-countries",
      "ios": 498477945,
      "ic": "pKE_kPsExlHJ3q68oDr4sMdhRoskymtTGak4QaS_TXVrdOXq5uANlza3UGnG94vzslF45crK3NcbWFMC7obNMw"
+    },
+    {
+     "name": "EASE Vorregistrierung",
+     "cat": "entry",
+     "note": "Pflicht-Vorregistrierung mit Flughafengebühr",
+     "url": "https://www.ease.gov.cv",
+     "nostore": true,
+     "src": "https://www.ease.gov.cv"
+    },
+    {
+     "name": "INMG",
+     "cat": "safety",
+     "note": "Nationales Institut für Meteorologie",
+     "url": "https://www.inmg.gov.cv",
+     "nostore": true,
+     "src": "https://www.inmg.gov.cv"
     }
    ],
    "cities": [
@@ -26820,9 +27311,35 @@
      "url": "https://taxi.aw/",
      "nostore": true,
      "src": "https://www.gobierno.aw/en/taxiaw-the-official-government-platform-for-taxi-fares"
+    },
+    {
+     "name": "Pay.aw",
+     "cat": "parking",
+     "pkg": "aw.setar.pay",
+     "note": "Aruparking per Kennzeichen bezahlen und verlängern",
+     "use": "limited",
+     "req": "Registrierung evtl. mit lokaler Nummer",
+     "src": "https://www.aruba.com/us/plan-your-visit/tips-for-visitors/aruparking"
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Oranjestad",
+     "match": [
+      "Oranjestad"
+     ],
+     "apps": [
+      {
+       "name": "Arubus",
+       "cat": "transit",
+       "note": "Fahrpläne und Linien der Inselbusse",
+       "url": "https://arubus.com",
+       "nostore": true,
+       "src": "https://www.aruba.com/us/plan-your-visit/getting-around-aruba/aruba-bus-schedule"
+      }
+     ]
+    }
+   ],
    "note": "Vor der Reise die digitale ED-Karte ausfüllen, Einreise nur mit Reisepass, nicht mit Personalausweis.",
    "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/niederlandesicherheit-211084",
    "lgbtq_note": "Keine Hinweise auf besondere Schwierigkeiten für LGBTQ+-Reisende, es gelten keine strafrechtlichen Einschränkungen.",
@@ -27030,6 +27547,39 @@
      "src": "https://moovitapp.com/index/en/public_transit-Barbados-4331",
      "ios": 498477945,
      "ic": "pKE_kPsExlHJ3q68oDr4sMdhRoskymtTGak4QaS_TXVrdOXq5uANlza3UGnG94vzslF45crK3NcbWFMC7obNMw"
+    },
+    {
+     "name": "mMoney Wallet",
+     "cat": "payment",
+     "pkg": "com.mmoney.wallet",
+     "note": "Barbadische Digital-Wallet für Händler und Rechnungen",
+     "use": "limited",
+     "req": "Für Einheimische gedacht",
+     "src": "https://businessbarbados.com/business-directory/mmoney"
+    },
+    {
+     "name": "Visit Barbados",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde",
+     "url": "https://www.visitbarbados.org",
+     "nostore": true,
+     "src": "https://www.visitbarbados.org/online-ed-card"
+    },
+    {
+     "name": "Barbados Meteorological Services",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Warnungen",
+     "url": "https://www.barbadosweather.org",
+     "nostore": true,
+     "src": "https://www.barbadosweather.org"
+    },
+    {
+     "name": "Barbados Online ED Form",
+     "cat": "entry",
+     "note": "Einreise- und Zollformular vor Ankunft online",
+     "url": "https://www.travelform.gov.bb",
+     "nostore": true,
+     "src": "https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements"
     }
    ],
    "cities": [],
@@ -27195,6 +27745,31 @@
      "ios": 6477689485,
      "pkg": "io.movmint.sanddollar",
      "ic": "nj0KfdowTU9u_TQvXz8jyZSnA9yVHz7cjjlcyyxogVJQMhpuZzbZn_ThKX1AIPcuvZTCizHVQHUYwyDuXQGnjg"
+    },
+    {
+     "name": "Bahamas Ferries",
+     "cat": "rail",
+     "note": "Fähren zwischen den Inseln online buchen",
+     "url": "https://www.bahamasferries.com",
+     "nostore": true,
+     "src": "https://www.bahamasferries.com"
+    },
+    {
+     "name": "Sand Dollar Tourist Wallet",
+     "cat": "payment",
+     "pkg": "com.nasdcbdc.wallet",
+     "note": "Wallet für den digitalen Bahama-Dollar, auch Gäste",
+     "use": "limited",
+     "req": "Aufladen mit Fremdwährung, Limits",
+     "src": "https://www.sanddollar.bs/getinvolved"
+    },
+    {
+     "name": "Bahamas Department of Meteorology",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Sturmwarnungen",
+     "url": "https://www.bahamasweather.org.bs",
+     "nostore": true,
+     "src": "https://www.bahamasweather.org.bs"
     }
    ],
    "cities": [
@@ -27367,6 +27942,24 @@
      "src": "https://www.tropicair.com/?p=10569",
      "ios": 6753868432,
      "ic": "4PwH593pORhvII8t4tE7vRHbUuMQfo22bGW-HrQpzB8ZK3jbOXrSmTrdH0Njus_eHE4-sa5ajfZPCnIuvDOVIg"
+    },
+    {
+     "name": "DigiWallet BZ",
+     "cat": "payment",
+     "pkg": "com.belizetelemedia.digiwallet",
+     "note": "Mobile Geldbörse von Belize Telemedia",
+     "use": "limited",
+     "req": "Lokale Telefonnummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.belizetelemedia.digiwallet&hl=en"
+    },
+    {
+     "name": "E-kyash",
+     "cat": "payment",
+     "pkg": "com.belizebank.ekyash",
+     "note": "Bezahl-App der Belize Bank",
+     "use": "limited",
+     "req": "Lokale Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.belizebank.ekyash&hl=en"
     }
    ],
    "cities": [
@@ -27770,10 +28363,10 @@
     {
      "name": "mmg+",
      "cat": "payment",
-     "note": "Mobiles Guthaben für Zahlungen und Überweisungen",
+     "note": "Mobile Money Wallet von GTT",
      "use": "no",
-     "req": "Ausweis, lokaler Adressnachweis und guyanische TIN nötig",
-     "src": "https://cms-my.onecomm.gy/?p=120",
+     "req": "Guyanische Nummer und Registrierung nötig",
+     "src": "https://guyanatimesgy.com/public-trust-growing-as-over-110000-guyanese-using-mmg-gtts-bobita-ram",
      "pkg": "com.sixdee.mfs.mmg.customer",
      "ic": "tiAn9gUfXPjQuZ4hxj-SDW4ri9fPHgQo4_KUzBeOM7dl1sKVy6Vlr1roQxB4hETd1lGe737qOT36UH41T6-i",
      "ios": 6752279043
@@ -28003,10 +28596,10 @@
     {
      "name": "Tigo Money",
      "cat": "payment",
-     "note": "Mobiles Guthabenkonto von Tigo",
+     "note": "Verbreitete Handy-Wallet in Paraguay",
      "use": "no",
-     "req": "Paraguayischer Ausweis und aktive Tigo-Leitung nötig",
-     "src": "https://www.bento.travel/blog/how-to-pay-in-paraguay",
+     "req": "Paraguayische Tigo-Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.juvo.tigomoney",
      "pkg": "com.juvo.tigomoney",
      "ic": "F1Ln1wANl4xF0zRoNRzDviMvsGQDgvpLLWnaiPGHkajhmPUbinVIqVRT_j5HNQRCqkV8htkO1e0qjTysq-a-",
      "ios": 1589504689
@@ -28021,6 +28614,23 @@
      "src": "https://noticias.autocosmos.cl/2024/11/04/kinto-share-la-forma-mas-facil-de-arrendar-autos-de-toyota-en-america-latina",
      "ios": 1436690858,
      "ic": "4H8f5FMGUvsq2Mcb8kmo5EIjRSeYShpiiJnkvcLe7L-vHQ2aO88iV6yCYmkn4Y02AXkvy0ibWb7L3tb3Elv2RGg"
+    },
+    {
+     "name": "Personal Pay",
+     "cat": "payment",
+     "pkg": "py.com.personal.billetera",
+     "note": "Wallet des Mobilfunkers Personal",
+     "use": "no",
+     "req": "Paraguayische Nummer nötig",
+     "src": "https://www.personal.com.py"
+    },
+    {
+     "name": "Visit Paraguay",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der SENATUR",
+     "url": "https://visitparaguay.travel/",
+     "nostore": true,
+     "src": "https://visitparaguay.travel/"
     }
    ],
    "cities": [
@@ -28399,6 +29009,14 @@
      "req": "Nur mit ANZ Konto und Internet Banking Zugang in Kiribati",
      "src": "https://apps.apple.com/au/app/anz-pacific/id1316832499",
      "ic": "p4YGkKINfsE8QnTgz9ckjNYBC8AERR_jNcmytOUU-_g8X2oXGyr8PKElzJsQmr7p5kYORm6icC3_wPrOjQX3vw"
+    },
+    {
+     "name": "Kiribati Tourism",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde Kiribatis",
+     "url": "https://www.kiribatitourism.gov.ki/",
+     "nostore": true,
+     "src": "https://www.kiribatitourism.gov.ki/"
     }
    ],
    "cities": [],
@@ -28548,6 +29166,14 @@
      "src": "https://www.auswaertiges-amt.de/de/service/laender/marshallinseln-node/marshallinselnsicherheit/220400",
      "ios": 582341229,
      "ic": "nYce2uG-doYBO6b7-BlpVOHikR36EnWT-MowRokWs_e6vI927UsZJnSASuzIMA0FAI0KSnCjDT7pUm0-zubwyA"
+    },
+    {
+     "name": "Visit Marshall Islands",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der Marshallinseln",
+     "url": "https://www.visitmarshallislands.com",
+     "nostore": true,
+     "src": "https://www.visitmarshallislands.com"
     }
    ],
    "cities": [
@@ -30066,6 +30692,22 @@
      "url": "https://www.nchmf.gov.vn",
      "nostore": true,
      "src": "https://www.nchmf.gov.vn"
+    },
+    {
+     "name": "Vé tàu (DSVN)",
+     "cat": "rail",
+     "pkg": "com.tls.dsvn.muave2",
+     "note": "Fahrkarten der Vietnamesischen Eisenbahn kaufen",
+     "use": "limited",
+     "req": "Bezahlung teils nur über lokale Wallets",
+     "src": "https://en.vietnamplus.vn/vnr-launches-app-to-sell-tickets-post178593.vnp"
+    },
+    {
+     "name": "Vexere",
+     "cat": "rail",
+     "pkg": "com.vexere.vexere",
+     "note": "Buchung von Zug, Fernbus und Flug, Partner der Bahn",
+     "src": "https://apps.apple.com/app/id1183279479"
     }
    ],
    "cities": [
@@ -30127,6 +30769,15 @@
        "req": "Nutzung durch Ausländer unklar, Bankkarte an der Sperre als Alternative",
        "src": "https://e.vnexpress.net/news/news/traffic/no-more-paper-tickets-at-4-ho-chi-minh-city-metro-stations-as-cashless-push-begins-4939300.html",
        "ios": 6449395180
+      },
+      {
+       "name": "MyParking",
+       "cat": "parking",
+       "pkg": "vpmt.com.viettel.sparking",
+       "note": "Straßenparken in Saigon per App von Viettel bezahlen",
+       "use": "limited",
+       "req": "Vietnamesische Nummer oder Bankkonto nötig",
+       "src": "https://en.vietnamplus.vn/smart-parking-app-debuts-in-downtown-hcm-city/119920.vnp"
       }
      ],
      "ll": [
@@ -30756,8 +31407,8 @@
     },
     {
      "name": "Shorelink",
-     "cat": "transit",
-     "note": "Bus- und Fährtickets, Pässe und Live-Karte der Regierung",
+     "cat": "rail",
+     "note": "Fährtoken und Bustickets mit Live-Ortung",
      "ess": true,
      "src": "https://www.gov.bm/services/shorelink-app",
      "pkg": "fr.airweb.bermudes",
@@ -30873,6 +31524,22 @@
      "pkg": "com.dropitbmllc.dropIt.android.googleplay",
      "ic": "Z9ruLWLHfY2svj5P44m1du5n1L5UQM1zRuJyh57wVcTJA-QBerotPzOXbPKMk2IzHgmURdS_0SK3XaJ2EM9i7eM",
      "ios": 6738136520
+    },
+    {
+     "name": "Go To Bermuda",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der Bermudas",
+     "url": "https://www.gotobermuda.com",
+     "nostore": true,
+     "src": "https://www.gotobermuda.com"
+    },
+    {
+     "name": "Bermuda Weather Service",
+     "cat": "safety",
+     "note": "Amtlicher Wetterdienst mit Warnungen",
+     "url": "https://www.weather.bm",
+     "nostore": true,
+     "src": "https://www.weather.bm"
     }
    ],
    "cities": [
@@ -31298,6 +31965,14 @@
      "pkg": "com.mycompany.curaapp",
      "ic": "GRDvigvXIEMHHg7jqweXdOGdI_6d9lp9pehlmwiOn_VrXiEpz7d3GNHgY89viLM4L0maIPpa_q9tjt46SUJ3ZPw",
      "ios": 6480454210
+    },
+    {
+     "name": "Meteo Curaçao",
+     "cat": "safety",
+     "note": "Amtlicher Wetterdienst mit Unwetterwarnungen",
+     "url": "https://www.meteo.cw",
+     "nostore": true,
+     "src": "https://www.meteo.cw/Data_www/misc/html/about_us.html"
     }
    ],
    "cities": [
@@ -31554,6 +32229,29 @@
      "pkg": "com.caymanairways",
      "ic": "TT3hNfdA7lJHjA3Djo6YNcn2004wCnJBl4H4p8HUvG76gncTJoMneAHs2xHOacpsmhPdauEbLlghMqi1xgernw",
      "ios": 6737499165
+    },
+    {
+     "name": "Cayman Islands National Weather Service",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Hurrikanwarnungen",
+     "url": "https://www.weather.gov.ky/",
+     "nostore": true,
+     "src": "https://www.weather.gov.ky/"
+    },
+    {
+     "name": "Hazard Management Cayman Islands",
+     "cat": "safety",
+     "note": "Katastrophenschutz der Regierung mit Warnhinweisen",
+     "url": "https://caymanprepared.ky/",
+     "nostore": true,
+     "src": "https://caymanprepared.ky/"
+    },
+    {
+     "name": "Cayman Ferries Passenger",
+     "cat": "rail",
+     "pkg": "com.caymanferries.passenger",
+     "note": "Fähre Camana Bay nach Kaibo, Tickets in der App",
+     "src": "https://www.explorecayman.com/water-taxi"
     }
    ],
    "cities": [
@@ -31747,6 +32445,14 @@
      "pkg": "com.unionpay.scomapp",
      "ic": "WbhMjg3999zHhPLBFjJARrc4GYVCz8Xe2yKKZbm7fihAWHxKIOmh4nimSAdVQhh3CWoKOlzcCy2h63VoH3us",
      "ios": 1464144473
+    },
+    {
+     "name": "Meteorologische Dienst Suriname",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Warnungen",
+     "url": "https://www.meteosur.sr",
+     "nostore": true,
+     "src": "https://gov.sr/wp-content/uploads/2022/03/meteo_poster_new.pdf"
     }
    ],
    "cities": [
@@ -31984,10 +32690,10 @@
     {
      "name": "Prex",
      "cat": "payment",
-     "note": "Prepaid-Karte und Konto für Einheimische",
-     "use": "no",
-     "req": "Gültiges Ausweisdokument nötig, für Ansässige gedacht",
-     "src": "https://www.bento.travel/blog/how-to-pay-in-uruguay",
+     "note": "Prepaidkarte mit App, in Uruguay verbreitet",
+     "use": "limited",
+     "req": "Registrierung mit Ausweis, meist für Einwohner",
+     "src": "https://www.prexcard.com",
      "pkg": "air.Prex",
      "ic": "Dc-rzz_NXiBLABVPJmDzapYxTT6eRChI386_6xfAJUM15g9PCsK5qa-Tm0XB83y6qlBqU_oabfDn2lc6C001",
      "ios": 927400689
@@ -32032,10 +32738,10 @@
       {
        "name": "T2Parking",
        "cat": "parking",
-       "note": "Parkzeit in der gebührenpflichtigen Zone per App kaufen",
-       "use": "no",
-       "req": "Abrechnung nur über uruguayische Mobilfunkanbieter (Antel, Movistar, Claro)",
-       "src": "https://montevideo.gub.uy/areas-tematicas/movilidad/estacionamiento-tarifado/precio-del-ticket-y-como-pagarlo-0",
+       "note": "Gebührenparken in Montevideo und anderen Städten",
+       "use": "limited",
+       "req": "Uruguayische Nummer evtl. nötig",
+       "src": "https://apps.apple.com/app/t2parking/id1202902323",
        "pkg": "t2company.mobile.multiparking",
        "ic": "1nPQjz35LwDc1Au2A90kbSDYgBjwWmUJCvQf8gmG_iYufmC8s6iqfa5l3Y2aqFNtusPWguQMko-G3Pygg1W3XFY",
        "ios": 1202902323
@@ -32558,6 +33264,15 @@
        "pkg": "com.avis.mobile",
        "ios": 883735332,
        "ic": "HvZaMy3ftmyNPPUU1hZ_wcjQ8n5cLCXp6HrA_zNV483OmODb6_orR5zSOHj7qSWCk5Y7_7odcWXSYMAtUE-gnUE"
+      },
+      {
+       "name": "Dosta",
+       "cat": "delivery",
+       "pkg": "app.dosta.customer",
+       "note": "Essens- und Paketlieferung in Kinshasa rund um die Uhr",
+       "use": "limited",
+       "req": "Lokale Nummer empfohlen",
+       "src": "https://apps.apple.com/us/app/id1642156091"
       }
      ],
      "ll": [
@@ -32665,7 +33380,9 @@
      "note": "Mobile Money von MTN für Zahlungen und Überweisungen",
      "use": "no",
      "req": "MTN-Congo-Nummer und Registrierung mit Ausweis bei einem Agenten nötig",
-     "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-mtn-momo-congo-2026/"
+     "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-mtn-momo-congo-2026/",
+     "pkg": "com.consumerug",
+     "ic": "SMmBJN1AfFuDEkgWrVBSPedlqK-8E86N9h7Kh-4--FKdDW2bq-cNfn7s3AEcfmKwlCejxaAsFMGtZUiXu2-OBRw"
     },
     {
      "name": "Airtel Money",
@@ -32920,6 +33637,14 @@
      "pkg": "com.aa_app.ui",
      "ios": 582341229,
      "ic": "nYce2uG-doYBO6b7-BlpVOHikR36EnWT-MowRokWs_e6vI927UsZJnSASuzIMA0FAI0KSnCjDT7pUm0-zubwyA"
+    },
+    {
+     "name": "Côte d'Ivoire Tourisme",
+     "cat": "tourism",
+     "note": "Seite des nationalen Tourismusamts",
+     "url": "https://www.cotedivoiretourisme.ci",
+     "nostore": true,
+     "src": "https://annuaireci.com/en/entreprises/cote-divoire-tourisme-office-national-du-tourisme-abidjan-cote-divoire/"
     }
    ],
    "cities": [
@@ -33075,6 +33800,22 @@
      "src": "https://apps.apple.com/nl/app/waafi-app/id1164281864",
      "pkg": "com.safarifone.waafi",
      "ic": "WebSiCg8VA45ly2-olnTh4-o4ETPmfQYpfPYFL7tcscWqqU9KCswlMhMbIhkmPvXrQQpwt50-_JILGrPaEnxtw"
+    },
+    {
+     "name": "Agence Nationale du Tourisme",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde von Dschibuti",
+     "url": "https://www.visitdjibouti.dj/",
+     "nostore": true,
+     "src": "https://www.visitdjibouti.dj/"
+    },
+    {
+     "name": "E-Visa Djibouti",
+     "cat": "entry",
+     "note": "Offizielles Portal für das elektronische Visum",
+     "url": "https://www.evisa.gouv.dj/",
+     "nostore": true,
+     "src": "https://www.evisa.gouv.dj/"
     }
    ],
    "cities": [
@@ -33448,6 +34189,14 @@
      "pkg": "com.karibites",
      "ic": "6QwHJbBeRfsx7W2Yytqf12pmOAPaJHQeUmyQEhWpr2Q92EzLTdP-bP3nmrrtGBv9nTWELzPPTT9knLRbWmq-",
      "ios": 1577340566
+    },
+    {
+     "name": "Pure Grenada",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Grenada Tourism Authority",
+     "url": "https://www.puregrenada.com/",
+     "nostore": true,
+     "src": "https://www.puregrenada.com/"
     }
    ],
    "cities": [],
@@ -33621,10 +34370,10 @@
     {
      "name": "MobilePay",
      "cat": "payment",
-     "note": "Verbreitete Bezahl-App in Dänemark und Grönland",
+     "note": "Auch in Grönland verbreitete Bezahl-App",
      "use": "no",
-     "req": "Dänische CPR-Nummer, MitID, dänische oder grönländische Nummer und Bankkarte nötig",
-     "src": "https://mobilepay.dk/app/legal/private-terms-en",
+     "req": "Grönländische oder dänische Nummer nötig",
+     "src": "https://lawinsider.com/da/contracts/lC3DXiIDkko",
      "pkg": "dk.danskebank.mobilepay",
      "ic": "XSLbNi1UX7IFaV62r6kqsD0cU8jEyrBWNzyHH2uD_T37d156jScBaDwHabVFhO19r7UlQ8YD6yT6gaPHsMaxcw",
      "ios": 624499138
@@ -33644,6 +34393,14 @@
        "note": "Taxi in Nuuk per Standort bestellen, ohne Warteschleife",
        "src": "https://play.google.com/store/apps/details?id=gl.taxagut.appb&hl=en_NZ",
        "ic": "E0BQyWVMTxz0ATmZA3O5CsdX6v13zANVVo1xQIQJn9SGhG9zGABtb3qo2f8t5nQYpJvwBmy3CMHsJKaiDdb5HjA"
+      },
+      {
+       "name": "Nuup Bussii",
+       "cat": "transit",
+       "note": "Stadtbus Nuuk, Fahrpläne und Online-Tickets",
+       "url": "https://bus.gl/en/",
+       "nostore": true,
+       "src": "https://bus.gl/en/purchase/tickets-and-cards/"
       }
      ],
      "ll": [
@@ -34067,6 +34824,14 @@
      "pkg": "com.bncmacarte",
      "ic": "PYZaF8NCA1pPQWI_l3PDmH9oPne8URbS02J6Aih2pCu6JS6j0R1IllwqIfam8w1iRAEASnRiUQJumD33b7vjmA",
      "ios": 6449153469
+    },
+    {
+     "name": "Météo-France Nouvelle-Calédonie",
+     "cat": "safety",
+     "note": "Amtlicher Wetterdienst mit Zyklonwarnungen",
+     "url": "https://meteo.nc/",
+     "nostore": true,
+     "src": "https://meteo.nc/"
     }
    ],
    "cities": [
@@ -34120,6 +34885,24 @@
        "pkg": "io.glorytech.grall",
        "ic": "yCJl_uq8vh7T1cRRpt7tt2CbJ6LLJaJpGQW91GxAsaObOQX9GAgLcYGY85kY596icV7WNKGxsqOEAEAaQfmZ",
        "ios": 1551643343
+      },
+      {
+       "name": "Liv'eats",
+       "cat": "delivery",
+       "pkg": "nc.liveats.customer",
+       "note": "Essenslieferung in Groß-Nouméa",
+       "use": "limited",
+       "req": "Lieferadresse in Nouméa nötig",
+       "src": "https://apps.apple.com/us/app/-/id6757766840"
+      },
+      {
+       "name": "Need Eat",
+       "cat": "delivery",
+       "pkg": "com.NeedEat.user",
+       "note": "Restaurantlieferung in Nouméa und Umgebung",
+       "use": "limited",
+       "req": "Lieferadresse in Nouméa nötig",
+       "src": "https://apps.apple.com/us/app/id1506137136"
       }
      ],
      "ll": [
@@ -34301,6 +35084,14 @@
      "src": "https://www.bom.gov.au/nsw/forecasts/index.shtml",
      "ios": 1100096880,
      "ic": "Fu1D_gni5-FYwHNr0am5WBgFj0fWjcKsSC6fMnkZ-gjhVLG_NSnTfSSI_7BGbHz7Q394YSojd5Za1MqkmIt4JkM"
+    },
+    {
+     "name": "Australisches eVisitor-Visum",
+     "cat": "entry",
+     "note": "Australisches Onlinevisum, gilt auch für Norfolk",
+     "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+     "nostore": true,
+     "src": "https://www.infrastructure.gov.au/node/31744"
     }
    ],
    "cities": [],
@@ -34584,6 +35375,14 @@
      "src": "https://appgoblin.info/apps/com.alepo.niue.selfcare",
      "ic": "YoZ9HWMprwjAd7jtne8NM55_86kSNzUS7JQdXMZSJ_0l3e_jyHxws693XY-nX4VCN8D65GQpi1bIKdtqCs-F",
      "ios": 1425801091
+    },
+    {
+     "name": "Niue Island",
+     "cat": "tourism",
+     "note": "Offizielle Seite von Niue Tourism",
+     "url": "https://www.niueisland.com",
+     "nostore": true,
+     "src": "https://www.niueisland.com"
     }
    ],
    "cities": [],
@@ -35323,6 +36122,20 @@
      "url": "https://www.discoverhongkong.com",
      "nostore": true,
      "src": "https://www.discoverhongkong.com"
+    },
+    {
+     "name": "TurboJET",
+     "cat": "rail",
+     "pkg": "com.turbojet.booking",
+     "note": "Fähren nach Macau, Fahrplan und Tickets",
+     "src": "https://play.google.com/store/apps/details?id=com.turbojet.booking"
+    },
+    {
+     "name": "Sun Ferry",
+     "cat": "rail",
+     "pkg": "com.nwff.firstferry",
+     "note": "Fähren zu Außeninseln wie Lantau und Cheung Chau",
+     "src": "https://play.google.com/store/apps/details?id=com.nwff.firstferry"
     }
    ],
    "cities": [],
@@ -36432,6 +37245,22 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Visit Ethiopia",
+     "cat": "tourism",
+     "note": "Reiseseite des Tourismusministeriums mit Zielen und Tipps",
+     "url": "https://visitethiopia.et/",
+     "nostore": true,
+     "src": "https://visitethiopia.et/"
+    },
+    {
+     "name": "Ethiopian Meteorological Institute",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+     "url": "https://www.ethiomet.gov.et/",
+     "nostore": true,
+     "src": "https://www.ethiomet.gov.et/"
     }
    ],
    "cities": [
@@ -36815,6 +37644,22 @@
      "src": "https://www.eswatiniobserver.com/e-mali-expands-digital-payments-eswatini/",
      "pkg": "com.emali2.superapp",
      "ic": "gaDYaUUK6W5hPENNhra8Zvp7DXNQFiM0RxNtLoGd6aOwavLso61j4lDQHN2tbQpTkcgLsguqmxSKiB0nC2D9lw"
+    },
+    {
+     "name": "Eswatini Tourism Authority",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite des Königreichs Eswatini",
+     "url": "https://www.thekingdomofeswatini.com/",
+     "nostore": true,
+     "src": "https://www.thekingdomofeswatini.com/"
+    },
+    {
+     "name": "Eswatini Meteorological Service",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+     "url": "https://www.swazimet.gov.sz/",
+     "nostore": true,
+     "src": "https://www.swazimet.gov.sz/"
     }
    ],
    "cities": [],
@@ -37263,6 +38108,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Ghana Meteorological Agency",
+     "cat": "safety",
+     "note": "Offizieller Wetterdienst Ghanas mit Vorhersagen",
+     "url": "https://www.meteo.gov.gh",
+     "nostore": true,
+     "src": "https://www.meteo.gov.gh"
     }
    ],
    "cities": [
@@ -37476,6 +38329,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Visit The Gambia",
+     "cat": "tourism",
+     "note": "Offizielle Seite des Gambia Tourism Board",
+     "url": "https://visitthegambia.gm",
+     "nostore": true,
+     "src": "https://visitthegambia.gm"
     }
    ],
    "cities": [],
@@ -37621,6 +38482,15 @@
      "src": "https://www.aircaraibes.com/application-mobile",
      "ios": 6443589629,
      "ic": "7b-pZSAEDFgaSCg3iKfffrP1KQV5ulK2-Gb2bwWcZlvRZEcc8u7d29Kqp8-6yHVQF-osQoDbAkCcmt5L_eaWtw"
+    },
+    {
+     "name": "Météo-France",
+     "cat": "safety",
+     "pkg": "fr.meteo",
+     "note": "Wetter und Vigilance-Warnungen auch für die Antillen",
+     "src": "https://play.google.com/store/apps/details?id=fr.meteo",
+     "ios": 376197239,
+     "ic": "Re6Wdbe1MxCFvLbSmtr-J202tk969QcSFkdO3hGiQMmda1bUYpZFiAo5qLBirs3eLpVPWMKa6uBNL0mxq-gNiA"
     }
    ],
    "cities": [
@@ -37869,6 +38739,23 @@
      "pkg": "com.sixt.reservation",
      "ic": "dirhuxbXhFds-2TQEw51a2M66bDwtP_DdshPFk8yjNHYIy_AJF5oN3pZkG4kgF08wW2qRpucdWZAHg5cL9Mqmw",
      "ios": 295079411
+    },
+    {
+     "name": "ZIGI",
+     "cat": "payment",
+     "pkg": "gt.com.bi.zigi",
+     "note": "Digitale Geldbörse der Banco Industrial, QR-Zahlung",
+     "use": "no",
+     "req": "Guatemaltekisches Konto nötig",
+     "src": "https://newsinamerica.com/pdcc/noticias/gerenciales/2026/indrive-y-zigi-aceleran-la-digitalizacion-de-la-movilidad-en-guatemala/"
+    },
+    {
+     "name": "Visit Guatemala",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite des INGUAT",
+     "url": "https://www.visitguatemala.com",
+     "nostore": true,
+     "src": "https://www.visitguatemala.com"
     }
    ],
    "cities": [
@@ -38094,6 +38981,22 @@
      "pkg": "com.roatanferry.waveapp",
      "ic": "6jAcCMJ7bEwx1qF3fYPERgzIOAhpD8mNP6R23gDMUPzTXIIrXv0wRGjZv7aD1yEhx-7HrTv19Q34wW3l8fGRNMg",
      "ios": 6746731402
+    },
+    {
+     "name": "Honduras Travel",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite des IHT",
+     "url": "https://honduras.travel",
+     "nostore": true,
+     "src": "https://honduras.travel"
+    },
+    {
+     "name": "COPECO",
+     "cat": "safety",
+     "note": "Katastrophenschutz mit Alarmstufen",
+     "url": "https://copeco.gob.hn",
+     "nostore": true,
+     "src": "https://www.laprensa.hn/honduras/alertas-hn-sistema-alerta-emergencias-celulares-HE32144210"
     }
    ],
    "cities": [],
@@ -38434,6 +39337,14 @@
      "src": "https://www.milehacker.com/travel/northern-mariana-islands/saipan/getting-around-saipan-public-transport-taxis-car-r/",
      "pkg": "com.mapswithme.maps.pro",
      "ic": "5hxv4Qjfr3i_vZW3Ex9Slvv56U7IgksXjnMFnprTMAJ_BFu_zCUKzUUPlsMuRqRsVItqXlye9Kt1K1QG1Rhmvw"
+    },
+    {
+     "name": "NWS Guam",
+     "cat": "safety",
+     "note": "US-Wetterdienst, auch für die Marianen",
+     "url": "https://www.weather.gov/gum",
+     "nostore": true,
+     "src": "https://www.weather.gov/gum"
     }
    ],
    "cities": [
@@ -38655,10 +39566,10 @@
     {
      "name": "CellMoni",
      "cat": "payment",
-     "note": "Mobile Geldbörse von Digicel PNG für Zahlungen",
-     "use": "no",
-     "req": "Registrierte Digicel-PNG-SIM nötig",
-     "src": "https://support-pg.digicelpacific.com/hc/en-us/articles/8656278907535-How-can-I-activate-my-CellMoni-Wallet",
+     "note": "Mobiles Geld von Digicel in Papua-Neuguinea",
+     "use": "limited",
+     "req": "Digicel SIM-Karte nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.digicelfs.cellmoni&hl=en",
      "pkg": "com.digicelfs.cellmoni",
      "ic": "pV_Pb6-1CefrvYqJtBCm6muIl5g8gBu6htpRsIBB8IaHfIcyEgkuZ_sc0iHXjR1IZwNVMiUm6vAxvRMtZVoM3VU",
      "ios": 1536997523
@@ -38673,6 +39584,14 @@
      "pkg": "com.bsp.png.production",
      "ic": "JXe9peCsJKOFalcDoxdsWzNwA3SA-Dn938ZCa98BkUu9ErVwUaqxaWWifB6NbOTYXmU-Wj9miOcUCj-J_iZYZy4",
      "ios": 6445806515
+    },
+    {
+     "name": "Papua New Guinea Tourism",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde",
+     "url": "https://www.papuanewguinea.travel",
+     "nostore": true,
+     "src": "https://www.papuanewguinea.travel"
     }
    ],
    "cities": [
@@ -39759,6 +40678,15 @@
      "cat": "safety",
      "note": "Warnungen vor Überschwemmungen und Erdrutschen",
      "src": "https://www.bento.travel/apps/sri-lanka-railways"
+    },
+    {
+     "name": "FriMi",
+     "cat": "payment",
+     "pkg": "com.nationstrust.frimi",
+     "note": "Digitale Bank mit QR Zahlung, auch für Parkuhren in Colombo",
+     "use": "no",
+     "req": "Sri-lankisches Konto und Nummer nötig",
+     "src": "https://www.pressreader.com/sri-lanka/daily-mirror-sri-lanka/20180814/282449939858538"
     }
    ],
    "cities": [
@@ -39898,6 +40826,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Visit Maldives",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der Malediven",
+     "url": "https://visitmaldives.com/en",
+     "nostore": true,
+     "src": "https://visitmaldives.com/en"
     }
    ],
    "cities": [
@@ -40201,6 +41137,32 @@
      "pkg": "com.gogoro.goshare",
      "ic": "mk2avLY2XbsSEQv5Fq0emA90jhvtLTejwQ1OUki4U_15uLx9i-JLOA2mdX3e_PjLtEsOiYZfr5lzBmWDiYp1",
      "ios": 1441601829
+    },
+    {
+     "name": "JKOPAY 街口支付",
+     "cat": "payment",
+     "pkg": "com.jkos.app",
+     "note": "Große taiwanische QR-Bezahl-App",
+     "use": "no",
+     "req": "Taiwanische Nummer und Konto nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.jkos.app"
+    },
+    {
+     "name": "Easy Wallet 悠遊付",
+     "cat": "payment",
+     "pkg": "com.easycard.wallet",
+     "note": "Wallet des EasyCard-Betreibers",
+     "use": "no",
+     "req": "Taiwanische Nummer nötig",
+     "src": "https://www.easycard.com.tw"
+    },
+    {
+     "name": "Taiwan Arrival Card (TWAC)",
+     "cat": "entry",
+     "note": "Online-Ankunftskarte, kostenlos, vor Anreise",
+     "url": "https://twac.immigration.gov.tw",
+     "nostore": true,
+     "src": "https://www.immigration.gov.tw/5475/5478/141457/142068/398041/"
     }
    ],
    "cities": [
@@ -40690,10 +41652,10 @@
     {
      "name": "Orange Max it Liberia",
      "cat": "payment",
-     "note": "Orange Money und Guthaben in einer App",
-     "use": "no",
-     "req": "Orange-Liberia-Nummer mit Orange-Money-Konto nötig",
-     "src": "https://apps.apple.com/lr/app/orange-max-it-liberia/id6746187327",
+     "note": "Orange Money und Konto in einer App",
+     "use": "limited",
+     "req": "Liberianische SIM nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.orange.myorange.olr",
      "pkg": "com.orange.myorange.olr",
      "ic": "hFptyxV_jw6bMSg4__kMAL9dOelb3oqaGzlizwrQVvMcZ2kFjRAKf4VVSVmR3kV4GvkxjHcKO52MPkn01R2zN8E",
      "ios": 6746187327
@@ -40832,10 +41794,10 @@
     {
      "name": "My M-Pesa Lesotho",
      "cat": "payment",
-     "note": "Mobile Money von Vodacom für Zahlungen und Überweisungen",
+     "note": "Mobile Money von Vodacom Lesotho",
      "use": "no",
-     "req": "Lesothische Telefonnummer und Ausweisnummer nötig",
-     "src": "https://publiceyenews.com/2025/04/01/vodacom-lesotho-expands-m-pesa-access-to-all-mobile-users/",
+     "req": "Lesothische Vodacom-SIM nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.vodafone.mpesa.ls&hl=en",
      "pkg": "com.vodafone.mpesa.ls",
      "ic": "jWwVKZtgJYV5PU4PwYlsb4pcZX55yCjLQdX1pLgbAM5oU4b2_f2u-mPDhApc8qYp6t6sO4-SGuMe3W3Ghw8Ltg",
      "ios": 6781301522
@@ -41095,7 +42057,8 @@
      "use": "no",
      "req": "Jamaikanischer Ausweis und Wohnsitz in Jamaika nötig",
      "src": "https://www.bento.travel/jamaica/payments",
-     "ios": 1573617151
+     "ios": 1573617151,
+     "pkg": "us.lynk.consumer"
     },
     {
      "name": "PICA Enter Jamaica",
@@ -41113,6 +42076,21 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Visit Jamaica",
+     "cat": "tourism",
+     "note": "Offizielle Seite des Jamaica Tourist Board",
+     "url": "https://www.visitjamaica.com/",
+     "nostore": true,
+     "src": "https://www.visitjamaica.com/"
+    },
+    {
+     "name": "Jamaica Weather",
+     "cat": "safety",
+     "pkg": "jm.gov.metservice",
+     "note": "Wetter und Warnungen des Met Service Jamaica",
+     "src": "https://play.google.com/store/apps/details?id=jm.gov.metservice"
     }
    ],
    "cities": [
@@ -41332,6 +42310,16 @@
      "pkg": "com.app.aircaraibes",
      "ios": 6443589629,
      "ic": "7b-pZSAEDFgaSCg3iKfffrP1KQV5ulK2-Gb2bwWcZlvRZEcc8u7d29Kqp8-6yHVQF-osQoDbAkCcmt5L_eaWtw"
+    },
+    {
+     "name": "Météo-France",
+     "cat": "safety",
+     "pkg": "fr.meteo",
+     "note": "Offizielle Wetter-App mit Vigilance-Warnungen",
+     "url": "https://meteofrance.mq/",
+     "src": "https://meteofrance.mq/",
+     "ios": 376197239,
+     "ic": "Re6Wdbe1MxCFvLbSmtr-J202tk969QcSFkdO3hGiQMmda1bUYpZFiAo5qLBirs3eLpVPWMKa6uBNL0mxq-gNiA"
     }
    ],
    "cities": [],
@@ -41669,6 +42657,14 @@
      "pkg": "ni.telefonica.mimovistar",
      "ic": "_vY_CwuC5tGzPX8wgQM1QPF_25YOfKV2tFfpYhQui3E5PMBWjS8JRG8AEI9IWfS3Z2nuekF8OGzUq1yC3nyeVg",
      "ios": 1462472055
+    },
+    {
+     "name": "INTUR",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusbehörde Nicaraguas",
+     "url": "https://www.intur.gob.ni",
+     "nostore": true,
+     "src": "https://www.intur.gob.ni"
     }
    ],
    "cities": [
@@ -42075,6 +43071,14 @@
      "src": "https://moovitapp.com/index/en/public_transit-countries",
      "ios": 498477945,
      "ic": "pKE_kPsExlHJ3q68oDr4sMdhRoskymtTGak4QaS_TXVrdOXq5uANlza3UGnG94vzslF45crK3NcbWFMC7obNMw"
+    },
+    {
+     "name": "Madagascar Tourisme",
+     "cat": "tourism",
+     "note": "Offizielle Seite des Tourismusamts ONTM",
+     "url": "https://madagascar-tourisme.com/fr/",
+     "nostore": true,
+     "src": "https://madagascar-tourisme.com/fr/"
     }
    ],
    "cities": [
@@ -42480,6 +43484,31 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Ecoride",
+     "cat": "taxi",
+     "pkg": "com.computemore.ecoride",
+     "note": "Malawischer Fahrdienst in Lilongwe und Blantyre",
+     "use": "limited",
+     "req": "Lokale Nummer empfohlen",
+     "src": "https://www.nyasatimes.com/?p=152448"
+    },
+    {
+     "name": "DCCMS Wetterdienst",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst Malawis",
+     "url": "https://www.metmalawi.gov.mw/",
+     "nostore": true,
+     "src": "https://www.metmalawi.gov.mw/"
+    },
+    {
+     "name": "Malawi eVisa",
+     "cat": "entry",
+     "note": "Offizielles Visumportal, Visum seit 2026 nötig",
+     "url": "https://evisa.gov.mw",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/ReiseUndSicherheit/malawisicherheit/208508"
     }
    ],
    "cities": [
@@ -42663,6 +43692,14 @@
      "pkg": "com.ubercab",
      "ios": 368677368,
      "ic": "OXQnDlRtPa5ha6KCnKPqVmxHYBP7tjrAa7PXGNRqcwDC_J03HVeuEKcKrkcIqnfOqsF5uy3uwWxIXR067QHsNQ"
+    },
+    {
+     "name": "Saint Barth Tourisme",
+     "cat": "tourism",
+     "note": "Offizieller Reiseführer der Insel mit Tipps und Events",
+     "url": "https://www.saintbarth-tourisme.com/",
+     "nostore": true,
+     "src": "https://www.saintbarth-tourisme.com/"
     }
    ],
    "cities": [],
@@ -42834,6 +43871,14 @@
      "note": "Lieferdienst für Restaurants und Supermärkte",
      "src": "https://apps.apple.com/kn/app/caribeeats/id1462589124",
      "ic": "Bck4YFWdRMexpf5jJFXl6YuyqTCkbWMWQvWUgYk0U00lpB3NmfeaUTTn5ANAgNg2CZypAOaphvuY9AEh5S35cA"
+    },
+    {
+     "name": "Visit St. Kitts",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde",
+     "url": "https://www.visitstkitts.com",
+     "nostore": true,
+     "src": "https://www.visitstkitts.com"
     }
    ],
    "cities": [],
@@ -43027,6 +44072,23 @@
      "use": "limited",
      "req": "Zahlung nur per Kreditkarte",
      "src": "https://pancanal.com/en/discover-the-panama-canal-in-an-easier-and-faster-way/"
+    },
+    {
+     "name": "Panama Canal Railway",
+     "cat": "rail",
+     "note": "Panoramazug entlang des Kanals nach Colón",
+     "url": "https://www.panarail.com/",
+     "nostore": true,
+     "src": "https://www.panarail.com/"
+    },
+    {
+     "name": "Yappy",
+     "cat": "payment",
+     "pkg": "com.yappy",
+     "note": "Weit verbreitete Handy-Zahlung per Telefonnummer",
+     "use": "no",
+     "req": "Panamaisches Bankkonto nötig",
+     "src": "https://www.prensa.com/tema/yappy/"
     }
    ],
    "cities": [
@@ -43064,6 +44126,15 @@
        "pkg": "com.tranzmate",
        "ios": 498477945,
        "ic": "pKE_kPsExlHJ3q68oDr4sMdhRoskymtTGak4QaS_TXVrdOXq5uANlza3UGnG94vzslF45crK3NcbWFMC7obNMw"
+      },
+      {
+       "name": "Parkea PTY",
+       "cat": "parking",
+       "pkg": "pa.gob.mupa.parkea",
+       "note": "Parken in Panama-Stadt online buchen und zahlen",
+       "use": "limited",
+       "req": "Abdeckung noch unklar",
+       "src": "https://apps.apple.com/us/app/id6758616312"
       }
      ],
      "ll": [
@@ -43278,10 +44349,10 @@
     {
      "name": "ATH Móvil",
      "cat": "payment",
-     "note": "Verbreitete lokale Bezahl App bei kleinen Händlern",
+     "note": "Sehr verbreitete Bezahl-App in Läden und unter Freunden",
      "use": "no",
-     "req": "ATH Debitkarte einer lokalen Bank nötig",
-     "src": "https://www.bento.travel/blog/how-to-pay-in-puerto-rico",
+     "req": "Karte einer Bank aus Puerto Rico nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.evertec.athmovil.android&hl=en",
      "pkg": "com.evertec.athmovil.android",
      "ic": "KIfEXyJN0WoPpJXGjouhiKQiFZkrA9XIH3o_ROIfOHQV3BPZPSo9whH2KCHO_xfcKrVgyuqA0siM9_z8kkhH",
      "ios": 658539297
@@ -43315,6 +44386,21 @@
      "pkg": "com.relayrides.android.relayrides",
      "ios": 555063314,
      "ic": "VohoDfInMn_hpCOkdY8yzBPS2x_uMRNFyAbVo68dQ8iF2baKWLfLm875Qt6MSTgo2efggW2k-Kg2pKI47qK_"
+    },
+    {
+     "name": "Voy Turisteando",
+     "cat": "tourism",
+     "pkg": "com.voyturisteandopr",
+     "note": "App der Tourismusbehörde mit Orten, Events und Karten",
+     "src": "https://newsismybusiness.com/es/puerto-rico-tourism-co-unveils-1-1m-infinite-summer-campaign"
+    },
+    {
+     "name": "Discover Puerto Rico",
+     "cat": "tourism",
+     "note": "Offizielle Reiseseite mit Orten, Events und Tipps",
+     "url": "https://www.discoverpuertorico.com/",
+     "nostore": true,
+     "src": "https://www.discoverpuertorico.com/"
     }
    ],
    "cities": [
@@ -43560,6 +44646,14 @@
      "pkg": "com.eclectics.mobilemoney.ourtelekom",
      "ic": "yvwz3b4KDQ1zgzGIqWMbyKY1vGxVqQI6Qpe3t1B6aUrPK8x-odqD4Nldm6S6osqLJ49ldGOKS3MfFtieqknn",
      "ios": 6479240477
+    },
+    {
+     "name": "Visit Solomons",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der Salomonen",
+     "url": "https://www.visitsolomons.com.sb",
+     "nostore": true,
+     "src": "https://www.visitsolomons.com.sb"
     }
    ],
    "cities": [
@@ -44173,10 +45267,10 @@
     {
      "name": "Bit",
      "cat": "payment",
-     "note": "Israelische App für Überweisungen unter Privatleuten",
+     "note": "Verbreitete israelische App für Zahlungen zwischen Personen",
      "use": "no",
-     "req": "Israelische Identität, Telefonnummer oder Bankkonto nötig",
-     "src": "https://www.bento.travel/israel/payments",
+     "req": "Israelisches Bankkonto und Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.bnhp.payments.paymentsapp&hl=en",
      "pkg": "com.bnhp.payments.paymentsapp",
      "ic": "Qoj5Di0HOkDfB7xvk9kOdxHTNScLpMeCOfjYVmMWwHQ8f3I-MzuKICnILYtPyjlR2MEMr7GnOXGLtAXgyKv9zA",
      "ios": 1182007739
@@ -44184,10 +45278,10 @@
     {
      "name": "PayBox",
      "cat": "payment",
-     "note": "Israelische App für Gruppenzahlungen und Überweisungen",
+     "note": "Israelische Wallet zum Teilen und Bezahlen in Gruppen",
      "use": "no",
-     "req": "Israelische Identität, Telefonnummer oder Bankkonto nötig",
-     "src": "https://www.bento.travel/israel/payments",
+     "req": "Israelische Telefonnummer und Karte nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.payboxapp&hl=en",
      "pkg": "com.payboxapp",
      "ic": "6XVOiwqZT3MY0SfcOF9-pF4pJwe-xO6GxxvkbaatFiOqWbo4Q3xWv3faWW-YEOD8a9TZ8CmovrI9hHV3PvB59A",
      "ios": 895491053
@@ -44235,6 +45329,14 @@
      "pkg": "moveo.GoTo",
      "ic": "Bty5fHMSSbqbITbgR6laqkwQci5Ztun-YjfUL-e-eFrApQSMzBRvn2AqNZV7Q6kLozOwG0-AluhNd0VlYatESQ",
      "ios": 1449036622
+    },
+    {
+     "name": "ETA-IL",
+     "cat": "entry",
+     "note": "Elektronische Reiseerlaubnis vor der Einreise beantragen",
+     "url": "https://israel-entry.piba.gov.il/",
+     "nostore": true,
+     "src": "https://new.embassies.gov.il/berlin/en/services/foreign-citizens/entry-visa-visiting-or-touring-israel"
     }
    ],
    "cities": [
@@ -44500,6 +45602,15 @@
      "url": "https://jmd.gov.jo",
      "nostore": true,
      "src": "https://alertingauthority.wmo.int/authorities.php?recId=78"
+    },
+    {
+     "name": "Orange Money Jordan",
+     "cat": "payment",
+     "pkg": "com.orange.orangemoney_customer",
+     "note": "Mobile Geldbörse von Orange Jordan",
+     "use": "limited",
+     "req": "Jordanische SIM-Karte nötig",
+     "src": "https://www.jopacc.com/faqs/jomopay-faqs"
     }
    ],
    "cities": [
@@ -45052,6 +46163,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Saudi eVisa (Visit Saudi)",
+     "cat": "entry",
+     "note": "Offizieller Antrag fürs Touristen eVisum",
+     "url": "https://visa.visitsaudi.com",
+     "nostore": true,
+     "src": "https://visa.visitsaudi.com"
     }
    ],
    "cities": [
@@ -45305,6 +46424,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "eVisa Mauretanien",
+     "cat": "entry",
+     "note": "eVisum vorab online beantragen, Pflicht seit 2025",
+     "url": "https://anrpts.gov.mr/visa/requestvisa",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/mauretanien-node/mauretaniensicherheit-219190"
     }
    ],
    "cities": [
@@ -45489,6 +46616,14 @@
      "src": "https://apps.apple.com/us/app/t%C3%A1aqui-delivery/id6760764291",
      "ic": "JmRheHgShccLo7CeHgMoGMjnU5SLZnjFeXu-Ojm3RWzzb_EArADlVuDQoAGnIWcFkdgQRJ9FdmJqBe2SBofL3w",
      "ios": 6760764291
+    },
+    {
+     "name": "INAM Wetterdienst",
+     "cat": "safety",
+     "note": "Nationales Wetterinstitut mit Vorhersagen und Warnungen",
+     "url": "http://inam.gov.mz/",
+     "nostore": true,
+     "src": "http://inam.gov.mz/"
     }
    ],
    "cities": [
@@ -45887,7 +47022,25 @@
      "ios": 1369158515
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Mamoudzou",
+     "match": [
+      "Mamoudzou"
+     ],
+     "apps": [
+      {
+       "name": "Pysae",
+       "cat": "transit",
+       "pkg": "com.pysae.info",
+       "note": "Busse des Netzes halO in Echtzeit verfolgen",
+       "use": "limited",
+       "req": "Vor allem Schulbusnetz",
+       "src": "https://outremers360.com/bassin-indien-appli/transports-a-mayotte-une-application-gratuite-pour-geolocaliser-son-bus"
+      }
+     ]
+    }
+   ],
    "note": "Personalausweis genügt, ein Reisepass wird empfohlen; kein Leitungswasser trinken und auf Armutskriminalität achten.",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/frankreich-node/frankreichsicherheit-209524",
    "lgbtq_note": "Es gilt französisches Recht: keine Strafbarkeit, Ehe für alle und Schutz vor Diskriminierung, Daten zur gesellschaftlichen Akzeptanz fehlen.",
@@ -46019,6 +47172,14 @@
      "cat": "rail",
      "note": "Wassertaxi vom Flughafen zu Resorts im Nordwesten",
      "src": "https://stlucia.org/en/planning-your-trip/getting-around/"
+    },
+    {
+     "name": "Saint Lucia Tourism Authority",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite von St. Lucia",
+     "url": "https://stlucia.org/",
+     "nostore": true,
+     "src": "https://stlucia.org/"
     }
    ],
    "cities": [],
@@ -46192,6 +47353,15 @@
      "src": "https://meteofrance.com/actualites-et-dossiers/la-vigilance-meteorologique-en-outre-mer",
      "ios": 376197239,
      "ic": "Re6Wdbe1MxCFvLbSmtr-J202tk969QcSFkdO3hGiQMmda1bUYpZFiAo5qLBirs3eLpVPWMKa6uBNL0mxq-gNiA"
+    },
+    {
+     "name": "SXM2GO",
+     "cat": "delivery",
+     "pkg": "com.sxm2go.userapp",
+     "note": "Essenslieferung auf der Insel St. Martin",
+     "use": "limited",
+     "req": "Liefergebiet auf franz. Seite prüfen",
+     "src": "https://play.google.com/store/apps/details?id=com.sxm2go.userapp&hl=en"
     }
    ],
    "cities": [],
@@ -46899,6 +48069,14 @@
      "req": "Homosexualität strafbar; Banden locken Nutzer über Dating-Apps in Fallen",
      "src": "https://www.context.news/digital-rights/lgbtq-nigerians-using-apps-like-grindr-caught-in-dating-traps",
      "ios": 319881193
+    },
+    {
+     "name": "NiMet",
+     "cat": "safety",
+     "note": "Offizieller Wetterdienst Nigerias mit Vorhersagen",
+     "url": "https://nimet.gov.ng/",
+     "nostore": true,
+     "src": "https://nimet.gov.ng/"
     }
    ],
    "cities": [
@@ -47105,6 +48283,14 @@
      "use": "limited",
      "req": "Mindestalter 23, Führerschein seit drei Jahren",
      "src": "https://serenitrip.fr/?p=16697"
+    },
+    {
+     "name": "Île de La Réunion Tourisme",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde der Insel",
+     "url": "https://www.reunion.fr/",
+     "nostore": true,
+     "src": "https://www.reunion.fr/"
     }
    ],
    "cities": [
@@ -47283,6 +48469,14 @@
      "note": "App der Entwicklungsbehörde RDB zu Parks, Touren und Unterkünften",
      "src": "https://www.visitrwanda.com/visit-rwanda-app/",
      "ic": "0u2SXVb8Wy-toq2MnBUoO2zMcNeCc5tv9LnYzLcyaByOFvOULyg6uvgIOxj1Pq_i-23mi3jF8ir40Eixk-UeaJg"
+    },
+    {
+     "name": "Meteo Rwanda",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst Ruandas",
+     "url": "https://www.meteorwanda.gov.rw/",
+     "nostore": true,
+     "src": "https://www.meteorwanda.gov.rw/"
     }
    ],
    "cities": [
@@ -47679,6 +48873,14 @@
      "use": "limited",
      "req": "Führerschein und Kreditkarte nötig, meist ab 25 Jahren",
      "src": "https://www.avis.com/en/locations/lat/tc/turks-caicos/p7l"
+    },
+    {
+     "name": "Visit Turks and Caicos",
+     "cat": "tourism",
+     "note": "Offizielle Seite des Tourist Board",
+     "url": "https://www.visittci.com",
+     "nostore": true,
+     "src": "https://www.visittci.com"
     }
    ],
    "cities": [
@@ -47895,6 +49097,22 @@
      "req": "Führerschein und Kreditkarte nötig",
      "src": "https://www.enterprise.com/en/car-rental-locations/tt/trinidad-tobago-intl-airport-kh03.html",
      "ios": 1020641417
+    },
+    {
+     "name": "Visit Trinidad",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite für Trinidad",
+     "url": "https://www.visittrinidad.tt/",
+     "nostore": true,
+     "src": "https://www.visittrinidad.tt/"
+    },
+    {
+     "name": "Visit Tobago",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tobago Tourism Agency",
+     "url": "https://www.visittobago.gov.tt/",
+     "nostore": true,
+     "src": "https://www.visittobago.gov.tt/"
     }
    ],
    "cities": [],
@@ -48430,7 +49648,9 @@
        "cat": "shopping",
        "note": "Onlineshop lokaler Händler mit Lieferung, auch Essen",
        "src": "https://vbr.vu/profile/the-maua-app/",
-       "ios": 1468726583
+       "ios": 1468726583,
+       "pkg": "com.app.buyer",
+       "ic": "6ydBn_iRV_Xx_rIfHlZyLcbWBe8w1zOm7NtzDdCSpMQTDhceeT-uJk_hArWf_dm11fqvsWnjJI7HHn8DoDbAKA"
       }
      ],
      "ll": [
@@ -48823,6 +50043,15 @@
      "src": "https://economedia.ro/?p=267251"
     },
     {
+     "name": "BT Pay",
+     "cat": "payment",
+     "pkg": "ro.btrl.pay",
+     "note": "Mobile Wallet der Banca Transilvania",
+     "use": "no",
+     "req": "Rumänisches Bankkonto nötig",
+     "src": "https://play.google.com/store/apps/details?id=ro.btrl.pay&hl=en"
+    },
+    {
      "name": "nextbike",
      "cat": "micro",
      "pkg": "de.nextbike",
@@ -49183,6 +50412,15 @@
      "url": "https://meteo.arso.gov.si",
      "nostore": true,
      "src": "https://meteo.arso.gov.si"
+    },
+    {
+     "name": "Flik Pay",
+     "cat": "payment",
+     "pkg": "si.bankart.flik",
+     "note": "Slowenische Sofortzahlung per Telefonnummer oder QR",
+     "use": "no",
+     "req": "Konto bei slowenischer Bank nötig",
+     "src": "https://www.bankart.si/en/flik-pay/"
     },
     {
      "name": "nextbike",
@@ -49924,10 +51162,10 @@
     {
      "name": "BenefitPay",
      "cat": "payment",
-     "note": "Nationale Geldbörse für Zahlungen und Überweisungen",
+     "note": "Nationale Bezahl-App, QR und Überweisung",
      "use": "no",
-     "req": "Identitätsprüfung und Freigabe durch eine teilnehmende bahrainische Bank nötig",
-     "src": "https://www.bento.travel/apps/benefitpay",
+     "req": "Bahrainisches Konto nötig",
+     "src": "https://benefit.bh/Personal/benefitpay/",
      "pkg": "mobi.foo.benefit",
      "ic": "V8uxcwjAf5IndenbNjWL9o6hUPzTq_enAx_SnurxmPy4SytifXvYXsMVoQlC-LITDbtUe-9jgZTwKaO1A6mJYpc",
      "ios": 1249328388
@@ -49950,6 +51188,23 @@
      "src": "https://www.selfdrive.bh/faqs.php",
      "pkg": "com.selfdrive.application",
      "ic": "xgttyWXQZA-SelECIyjJGh9ejEaZwDz4QBrg4NLX1M-hlM9JFtLzVZh30GYkCYFp5nBekaMCh3G1RsDp7oJl"
+    },
+    {
+     "name": "Amakin Mobility",
+     "cat": "parking",
+     "pkg": "com.bahraincarparkscompany.amakin",
+     "note": "Parken der Bahrain Car Parks Company per App",
+     "use": "limited",
+     "req": "Ggf. lokale Nummer nötig",
+     "src": "https://apps.apple.com/mt/app/amakin-mobility/id1666560557"
+    },
+    {
+     "name": "Bahrain eVisa",
+     "cat": "entry",
+     "note": "Offizielles Portal für das elektronische Visum",
+     "url": "https://www.evisa.gov.bh",
+     "nostore": true,
+     "src": "https://www.servisum.de/en/performance-profile/visa/visa-application-entry-requirements/bahrain/"
     }
    ],
    "cities": [],
@@ -50714,6 +51969,14 @@
      "cat": "misc",
      "note": "Offizielle App des Außenministeriums mit Reisetipps für Besucher",
      "src": "https://gov.om/en/w/ministry-of-foreign-affairs-launches-official-app-for-omanis-visitors"
+    },
+    {
+     "name": "ROP eVisa",
+     "cat": "entry",
+     "note": "eVisum und Verlängerung der Royal Oman Police",
+     "url": "https://evisa.rop.gov.om",
+     "nostore": true,
+     "src": "https://gulfnews.com/living-in-uae/visa-immigration/over-100-nationalities-can-enter-oman-visa-free---all-you-need-to-know-1.1679063584099"
     }
    ],
    "cities": [
@@ -50826,6 +52089,14 @@
      "src": "https://www.sainthelenabank.com/tourist-card/tourist-card-app/",
      "ic": "o73Mm34q0qMuLBk7DvvEslJ9qUxPYmZxBrVtwL_j2833tuI4PubdSTxWvEuVhhr4s7n1rdCkSBC17WXnXD16Ng",
      "ios": 1526119940
+    },
+    {
+     "name": "St Helena Entry Permit",
+     "cat": "entry",
+     "note": "Kurzzeit-Einreiseerlaubnis, bei Ankunft erteilt",
+     "url": "https://www.sainthelena.gov.sh/public-services/immigration/short-term-entry-permit/",
+     "nostore": true,
+     "src": "https://www.sainthelena.gov.sh/st-helena/entry-requirements/"
     }
    ],
    "cities": [],
@@ -50981,6 +52252,14 @@
      "url": "https://poep.npha.gov.sl/",
      "nostore": true,
      "src": "https://www.auswaertiges-amt.de/de/reiseundsicherheit/sierraleonesicherheit-203500"
+    },
+    {
+     "name": "National Tourist Board Sierra Leone",
+     "cat": "tourism",
+     "note": "Offizielle Seite der Tourismusbehörde",
+     "url": "https://ntb.gov.sl",
+     "nostore": true,
+     "src": "https://ntb.gov.sl"
     }
    ],
    "cities": [
@@ -51216,6 +52495,13 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "TER INFOS",
+     "cat": "rail",
+     "pkg": "sn.seter.terdakar",
+     "note": "Fahrplan und Infos zum Regionalzug TER Dakar",
+     "src": "https://seter.sn/"
     }
    ],
    "cities": [
@@ -51547,7 +52833,24 @@
      "ios": 6460258044
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Charlotte Amalie",
+     "match": [
+      "Charlotte Amalie"
+     ],
+     "apps": [
+      {
+       "name": "VITRAN",
+       "cat": "transit",
+       "note": "Öffentliche Busse auf St. Thomas, St. John und St. Croix",
+       "url": "http://dpw.vi.gov/about-vitran/",
+       "nostore": true,
+       "src": "http://dpw.vi.gov/about-vitran/"
+      }
+     ]
+    }
+   ],
    "note": "Uber und Lyft fahren hier praktisch nicht, auf St. John gibt es Sammeltaxis am Fähranleger, viele Fahrer wollen Bargeld.",
    "src": "https://www.citizendailypost.com/faq/is-there-uber-on-st-john/",
    "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist seit 2015 legal und seit 2022 gilt ein Diskriminierungsschutz.",
@@ -51741,6 +53044,14 @@
      "src": "https://www.bento.travel/albania",
      "ic": "OO-AfetoXqFATYdQbC462jty_WyMaJ58Dyja7-8qPIb87uiv3uBGbWEcmdqVU87_cS9rEM77bHBodeN5R1B0qw",
      "ios": 6450223706
+    },
+    {
+     "name": "IGEWE",
+     "cat": "safety",
+     "note": "Staatliches Institut für Wetter und Erdbeben",
+     "url": "https://www.geo.edu.al",
+     "nostore": true,
+     "src": "https://www.geo.edu.al"
     }
    ],
    "cities": [
@@ -52393,6 +53704,22 @@
      "note": "Vergleich lokaler Autovermieter mit kleiner Kaution",
      "src": "https://www.triplinkhub.com/en/blog/best-travel-apps-montenegro",
      "ios": 6444115718
+    },
+    {
+     "name": "Montenegro.travel",
+     "cat": "tourism",
+     "note": "Offizieller Reiseführer der Tourismusorganisation",
+     "url": "https://www.montenegro.travel/en",
+     "nostore": true,
+     "src": "https://en.eurovelo.com/montenegro"
+    },
+    {
+     "name": "ZHMS Wetterdienst",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Vorhersagen und Warnungen",
+     "url": "https://www.meteo.co.me/",
+     "nostore": true,
+     "src": "https://www.meteo.co.me/"
     }
    ],
    "cities": [
@@ -52706,6 +54033,15 @@
        "cat": "tourism",
        "note": "Kostenloser Audioguide für 29 Orte der Festung",
        "src": "https://www.beogradskatvrdjava.co.rs/%d0%b1%d0%b5%d0%be%d0%b3%d1%80%d0%b0%d0%b4%d1%81%d0%ba%d0%b0-%d1%82%d0%b2%d1%80%d1%92%d0%b0%d0%b2%d0%b0-%d0%bd%d0%b0-%d0%b0%d0%bf%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d1%98%d0%b8-cultural-places/?lang=en"
+      },
+      {
+       "name": "Bolt",
+       "cat": "micro",
+       "pkg": "ee.mtakso.client",
+       "note": "E-Scooter von Bolt in Belgrad",
+       "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/serbia-e-scooter-laws/",
+       "ios": 675033630,
+       "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM"
       }
      ],
      "ll": [
@@ -52908,6 +54244,22 @@
      "src": "https://www.bento.travel/bosnia-and-herzegovina",
      "ic": "Tl4ezZ8hRioT-YH3oF8Fq3fxnHbHO7M6vQ8k_TdeNVYxQCxhwuI8aMc6PNIkUVPNLpD1X2qt71n480G9uii6",
      "ios": 6758770294
+    },
+    {
+     "name": "Visit Sarajevo",
+     "cat": "tourism",
+     "note": "Tourismusportal der Stadt Sarajevo",
+     "url": "https://visitsarajevo.ba",
+     "nostore": true,
+     "src": "https://visitsarajevo.ba"
+    },
+    {
+     "name": "FHMZ BiH",
+     "cat": "safety",
+     "note": "Wetter und Unwetterwarnungen der Föderation",
+     "url": "https://www.fhmzbih.gov.ba",
+     "nostore": true,
+     "src": "https://alertingauthority.wmo.int/authorities.php?recId=20"
     }
    ],
    "cities": [
@@ -53268,6 +54620,24 @@
      "pkg": "md.oneonetwo.oneonetwomd",
      "ic": "6osjjuE40cOhkm3JWZD6Mh7Nolobgy0ZJrEMVSxBex0QBA0fk6ci5bHLRm-LaxbUP3oQsdipOhHIYjtwC_kz5w",
      "ios": 6759909711
+    },
+    {
+     "name": "RParking",
+     "cat": "parking",
+     "pkg": "com.rti.android.rparking",
+     "note": "Parkplätze in Moldau finden, per QR einfahren, zahlen",
+     "use": "limited",
+     "req": "Nur angeschlossene Parkplätze",
+     "src": "https://apps.apple.com/ca/app/rparking/id6746414857"
+    },
+    {
+     "name": "Oplata.md",
+     "cat": "payment",
+     "pkg": "md.oplata.oplata",
+     "note": "Paynet App für Rechnungen und Dienste",
+     "use": "limited",
+     "req": "Für Einheimische gedacht",
+     "src": "https://play.google.com/store/apps/details?id=md.oplata.oplata"
     }
    ],
    "cities": [
@@ -53493,6 +54863,22 @@
      "src": "https://www.bento.travel/north-macedonia",
      "ios": 1567437057,
      "ic": "1LpoMi4dmPpEfbeR9YTgrLBDD7pW7Zcb2HSiMnx-SfaU5uxeMuBd9JkUd-3VlQlAx8n4ZL5R4RMKZ0c03hDJ"
+    },
+    {
+     "name": "Tourism Macedonia",
+     "cat": "tourism",
+     "note": "Staatliche Tourismusseite mit Reisezielen",
+     "url": "https://tourismmacedonia.gov.mk/?lang=en",
+     "nostore": true,
+     "src": "https://tourismmacedonia.gov.mk/publikacii/?lang=en"
+    },
+    {
+     "name": "UHMR Wetterdienst",
+     "cat": "safety",
+     "note": "Amtlicher Wetterdienst mit Vorhersagen und Warnungen",
+     "url": "https://uhmr.gov.mk",
+     "nostore": true,
+     "src": "https://uhmr.gov.mk"
     }
    ],
    "cities": [
@@ -54159,6 +55545,24 @@
      "src": "https://absolutearmenia.com/?p=2891",
      "ic": "qZpTq-ou5Nf6fokp7m_rwGHwB3VYAc4zT0kBvf_18jc-5dMVzSYS9WYv_bpKEZ7PfnzxWcei0-YjeZOxZGaN-U8",
      "ios": 570060128
+    },
+    {
+     "name": "South Caucasus Railway",
+     "cat": "rail",
+     "note": "Staatsbahn, Fahrplan und Onlinetickets",
+     "url": "https://www.ukzhd.am",
+     "nostore": true,
+     "use": "limited",
+     "req": "Online nur einige Strecken",
+     "src": "https://www.ukzhd.am"
+    },
+    {
+     "name": "Rettungsdienst Armenien",
+     "cat": "safety",
+     "note": "Wetterlage und Warnungen des Rettungsdienstes",
+     "url": "https://rescue.mia.gov.am/en",
+     "nostore": true,
+     "src": "https://rescue.mia.gov.am/en/articles/news/weather-1306-1"
     }
    ],
    "cities": [
@@ -54519,6 +55923,32 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "m10",
+     "cat": "payment",
+     "pkg": "com.m10",
+     "note": "Verbreitete aserbaidschanische Wallet für QR Zahlungen",
+     "use": "no",
+     "req": "Aserbaidschanische Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.m10&hl=en"
+    },
+    {
+     "name": "Birbank",
+     "cat": "payment",
+     "pkg": "az.kapitalbank.mbanking",
+     "note": "Bank App der Kapital Bank, auch für Parken und QR",
+     "use": "no",
+     "req": "Konto bei Kapital Bank nötig",
+     "src": "https://www.airport.az/en/press-release/innovations-in-parking-at-baku-airport-convenience-and-efficiency-for-visitors/"
+    },
+    {
+     "name": "Azerbaijan.travel",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der staatlichen Agentur",
+     "url": "https://azerbaijan.travel/",
+     "nostore": true,
+     "src": "https://azertag.az/en/xeber/azerbaijantravel_platform_to_be_further_developed-4375065"
     }
    ],
    "cities": [
@@ -54586,10 +56016,8 @@
       {
        "name": "AzParking",
        "cat": "parking",
-       "note": "App zum Bezahlen von Straßenparkplätzen",
-       "use": "no",
-       "req": "Lokale Telefonnummer nötig, sonst Parkhäuser mit Schranke und Kartenzahlung nutzen",
-       "src": "https://www.localrent.com/en/journal/azerbaijan/articles/parking-azerbaijan",
+       "note": "Offizielle Park App in Baku, Guthaben per Karte aufladen",
+       "src": "https://mincom.gov.az/en/projects/azparking-mobile-app",
        "pkg": "com.azparking",
        "ic": "NqGZeC9fmvUdKfLhVH2ibwdBUfcsp5Hl-H2slQ0tb9oXJpZ8QL9TbfprXRlGeOaIOMyrJiJ_D6iba81-i1NW_Nc",
        "ios": 1626165359
@@ -54731,8 +56159,8 @@
     },
     {
      "name": "Cyprus Bus",
-     "cat": "transit",
-     "note": "Offizielle App des Verkehrsministeriums mit Fahrplänen",
+     "cat": "rail",
+     "note": "Offizielle App, auch Überlandbusse mit Echtzeit",
      "src": "https://intercity-buses.com/en/motion-app/",
      "pkg": "com.gmv.cyprusbus2",
      "ic": "SUERyuSDgKDnHmQoAPjnHUaxuzjRC9-5lLSNl5G3PUpKancxBStBxj4aqIKRsneTYeQcGPcCa97e8fReTPrY",
@@ -55917,10 +57345,10 @@
     {
      "name": "Mixx Togo",
      "cat": "payment",
-     "note": "Mobile Money von Yas (früher T-Money) für Zahlungen und Überweisungen",
+     "note": "Marktführendes Mobile Money (ex T Money)",
      "use": "no",
-     "req": "Togoische Mobilnummer mit registrierter SIM nötig",
-     "src": "https://apps.apple.com/us/app/mixx-togo/id6443914936",
+     "req": "Togoische SIM und Registrierung nötig",
+     "src": "https://play.google.com/store/apps/details?id=tg.togocom.tmoney&hl=en",
      "pkg": "tg.togocom.tmoney",
      "ic": "OPMkOUH2zRXVuyDwVxgf6WMK5TPQ12c8GdUX9TkmVt7_PIej2uKfxmQnpr4YnzMfhD0Jm91Gin43zYPVm0T_6Q"
     },
@@ -56206,6 +57634,14 @@
      "cat": "tourism",
      "note": "QR-Infos an 105 Orten, auch in Gebärdensprache",
      "src": "https://visitandorra.com/en/nature/parl-app/"
+    },
+    {
+     "name": "Meteo.ad",
+     "cat": "safety",
+     "note": "Nationaler Wetterdienst mit Vorhersagen und Warnungen",
+     "url": "https://www.meteo.ad/",
+     "nostore": true,
+     "src": "https://www.meteo.ad/"
     }
    ],
    "cities": [
@@ -56458,6 +57894,31 @@
      "use": "no",
      "req": "Seit 15. Februar 2024 in Belarus nicht mehr verfügbar",
      "src": "https://www.help.tinder.com/hc/en-us/articles/22962934026381-Tinder-Services-Ended-in-Belarus"
+    },
+    {
+     "name": "Oplati",
+     "cat": "payment",
+     "pkg": "by.lwo.oplati",
+     "note": "QR Zahlung, Tanken, ÖPNV und Rechnungen",
+     "use": "no",
+     "req": "Belarussische Bankkarte und Registrierung nötig",
+     "src": "https://play.google.com/store/apps/details?id=by.lwo.oplati&hl=en"
+    },
+    {
+     "name": "Belarus Tourism",
+     "cat": "tourism",
+     "note": "Portal der nationalen Tourismusagentur",
+     "url": "https://belarustourism.by",
+     "nostore": true,
+     "src": "https://belarustourism.by"
+    },
+    {
+     "name": "Belhydromet",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst mit Warnungen",
+     "url": "https://pogoda.by",
+     "nostore": true,
+     "src": "https://pogoda.by"
     }
    ],
    "cities": [
@@ -56642,6 +58103,22 @@
    ],
    "cities": [
     {
+     "name": "Torshavn",
+     "match": [
+      "Torshavn"
+     ],
+     "apps": [
+      {
+       "name": "SSL",
+       "cat": "transit",
+       "note": "Busse und Fähren, Fahrplan und Buchung",
+       "url": "https://www.ssl.fo",
+       "nostore": true,
+       "src": "https://visitfaroeislands.com/en/plan-your-stay/transport/public-transportation0"
+      }
+     ]
+    },
+    {
      "name": "Tórshavn",
      "match": [
       "Tórshavn"
@@ -56808,7 +58285,16 @@
    "code": "GI",
    "name": "Gibraltar",
    "flag": "🇬🇮",
-   "apps": [],
+   "apps": [
+    {
+     "name": "Visit Gibraltar",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite Gibraltars",
+     "url": "https://www.visitgibraltar.gi/",
+     "nostore": true,
+     "src": "https://www.visitgibraltar.gi/"
+    }
+   ],
    "cities": [
     {
      "name": "Gibraltar",
@@ -57154,10 +58640,10 @@
     {
      "name": "bKash",
      "cat": "payment",
-     "note": "Verbreitetste mobile Geldbörse des Landes",
+     "note": "Größtes Mobile-Wallet in Bangladesch",
      "use": "no",
-     "req": "Bangladeschischer Personalausweis (NID) nötig, Reisepass allein reicht nicht",
-     "src": "https://www.bento.travel/bangladesh/payments",
+     "req": "Bangladeschische SIM und Ausweis nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.bKash.customerapp&hl=en",
      "pkg": "com.bKash.customerapp",
      "ic": "ncgi2sk_NS5u8TfsEVmdaqQhRlv6D0c9JIQ-GmHvazUbp9GDU8gxNZxaq98ysy34juOmSA15KlPLjoAgquZ0nQ",
      "ios": 1351183172
@@ -57210,6 +58696,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Bangladesh Tourism Board",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite mit Reisezielen",
+     "url": "https://tourismboard.gov.bd",
+     "nostore": true,
+     "src": "https://tourismboard.gov.bd"
     }
    ],
    "cities": [
@@ -57437,6 +58931,14 @@
      "src": "https://www.bento.travel/laos",
      "ic": "f-0IbuVkbq2OSl3jDq2EMaHIn9Uorb8YXECQWCn-4B2J0335vFF5yQZiB4aOaRRsMNkdSokRNJdetOhVntzu",
      "ios": 1492054704
+    },
+    {
+     "name": "Tourism Laos",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite von Laos mit Reiseinfos",
+     "url": "https://www.tourismlaos.org/",
+     "nostore": true,
+     "src": "https://www.tourismlaos.org/"
     }
    ],
    "cities": [
@@ -57969,6 +59471,22 @@
      "src": "https://www.auswaertiges-amt.de/de/service/laender/uganda-node/ugandassicherheit-208752",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "UNMA",
+     "cat": "safety",
+     "note": "Amtlicher Wetterdienst Ugandas",
+     "url": "https://www.unma.go.ug",
+     "nostore": true,
+     "src": "https://www.unma.go.ug"
+    },
+    {
+     "name": "Uganda eVisa",
+     "cat": "entry",
+     "note": "Offizielles eVisum, vorab beantragen",
+     "url": "https://visas.immigration.go.ug",
+     "nostore": true,
+     "src": "https://washington.mofa.go.ug/node/18"
     }
    ],
    "cities": [
@@ -58169,6 +59687,14 @@
      "src": "https://www.auswaertiges-amt.de/de/service/laender/sambia-node/sambiasicherheit/208606",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Zambia Meteorological Department",
+     "cat": "safety",
+     "note": "Amtliche Vorhersagen und Wetterwarnungen",
+     "url": "https://zmd.gov.zm",
+     "nostore": true,
+     "src": "https://zmd.gov.zm"
     }
    ],
    "cities": [
@@ -58400,6 +59926,22 @@
      "src": "https://www.auswaertiges-amt.de/de/service/laender/simbabwe-node/simbabwesicherheit-208948",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Zimbabwe Tourism Authority",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite von Simbabwe",
+     "url": "https://www.zimbabwetourism.net/",
+     "nostore": true,
+     "src": "https://www.zimbabwetourism.net/"
+    },
+    {
+     "name": "Meteorological Services Department",
+     "cat": "safety",
+     "note": "Staatlicher Wetterdienst von Simbabwe",
+     "url": "https://www.weatherzw.org.zw/",
+     "nostore": true,
+     "src": "https://www.weatherzw.org.zw/"
     }
    ],
    "cities": [
@@ -58677,6 +60219,15 @@
      "src": "https://buses.gg/",
      "ic": "EoHdMNP3TSoGNuwfALPC2vyt-woD8LVl-B2reCKkUH50rsOOn4TL1shjmUTo8dh4fnmGEPPaedG_tVaOW0VEp_A",
      "ios": 6743087682
+    },
+    {
+     "name": "Met Office Weather",
+     "cat": "safety",
+     "pkg": "uk.gov.metoffice.weather.android",
+     "note": "Wetter und Warnungen, deckt Guernsey ab",
+     "src": "https://weather.metoffice.gov.uk/forecast/gby1kb68z",
+     "ios": 1068146838,
+     "ic": "1eL1rADF42FSXiX2012HuLZvCb2uLHDwZ7EvgnYU9A67p0Qf973pRTnHTSW_pOE40HuCOVze-7EF9Wm_XXHC"
     }
    ],
    "cities": [],
@@ -58816,6 +60367,22 @@
      "note": "Offizielle TT-Rennen als Livestream und Archiv",
      "src": "https://play.google.com/store/apps/details?id=ott.ttplus",
      "ic": "mgm0dVAIzAoOpLkMcU9XN7F-TqJDPRbxkzRysvJ7UuKkSdCQx0Qp8HQGttXre2Y4oNQDeHR0yw6wNAjLr2z7rrE"
+    },
+    {
+     "name": "Isle of Man Steam Packet",
+     "cat": "rail",
+     "note": "Fähren nach England und Irland buchen",
+     "url": "https://www.steam-packet.com",
+     "nostore": true,
+     "src": "https://www.steam-packet.com"
+    },
+    {
+     "name": "Isle of Man Wetter",
+     "cat": "safety",
+     "note": "Vorhersagen des Ronaldsway Met Office",
+     "url": "https://gov.im/weather",
+     "nostore": true,
+     "src": "https://www.visitisleofman.com/traveltrade/resources/toolkit/useful-information"
     }
    ],
    "cities": [
@@ -59007,6 +60574,14 @@
      "src": "https://apps.apple.com/us/app/id6478955756",
      "pkg": "io.ngage.jersey",
      "ic": "VIUOJhKwN2ppNu9bMoXb3GUm_G6WipVz5fYNipG9QnsPsM7FGy3hG8HXHV0qUxPLqe5KqcxJ1JEABbCZ4TU69Q"
+    },
+    {
+     "name": "Jersey Met",
+     "cat": "safety",
+     "note": "Wettervorhersage und Warnungen der Regierung",
+     "url": "https://www.gov.je/weather",
+     "nostore": true,
+     "src": "https://www.gov.je/News/2026/Pages/MovingWeatherWarnings.aspx"
     }
    ],
    "cities": [],
@@ -59426,6 +61001,30 @@
      "pkg": "com.avis.mobile",
      "ios": 883735332,
      "ic": "HvZaMy3ftmyNPPUU1hZ_wcjQ8n5cLCXp6HrA_zNV483OmODb6_orR5zSOHj7qSWCk5Y7_7odcWXSYMAtUE-gnUE"
+    },
+    {
+     "name": "BIBD Mobile",
+     "cat": "payment",
+     "pkg": "com.bibd",
+     "note": "Bank-App mit QuickPay QR-Zahlung",
+     "use": "no",
+     "req": "Konto bei BIBD nötig",
+     "src": "https://bizbrunei.com/2018/08/scan-and-pay-bibd-quickpay-enables-cashless-payment-using-qr-codes"
+    },
+    {
+     "name": "Brunei Tourism",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite Bruneis",
+     "url": "https://www.bruneitourism.com/",
+     "nostore": true,
+     "src": "https://www.bruneitourism.com/"
+    },
+    {
+     "name": "Brunei WX",
+     "cat": "safety",
+     "pkg": "com.bdmd.bruneiweather",
+     "note": "Offizielle Wetter-App des Wetterdienstes Brunei",
+     "src": "https://play.google.com/store/apps/details?id=com.bdmd.bruneiweather"
     }
    ],
    "cities": [],
@@ -59530,6 +61129,14 @@
      "src": "https://www.auswaertiges-amt.de/de/service/laender/bhutan-node/bhutansicherheit-226702",
      "ios": 582341229,
      "ic": "nYce2uG-doYBO6b7-BlpVOHikR36EnWT-MowRokWs_e6vI927UsZJnSASuzIMA0FAI0KSnCjDT7pUm0-zubwyA"
+    },
+    {
+     "name": "Department of Immigration Bhutan",
+     "cat": "entry",
+     "note": "Offizielles Online-Visum, meist über Reiseveranstalter",
+     "url": "https://www.immi.gov.bt",
+     "nostore": true,
+     "src": "https://www.doi.gov.bt/wp-content/uploads/2025/06/Public-notification_Non-tourist-system.pdf"
     }
    ],
    "cities": [
@@ -59635,6 +61242,14 @@
      "url": "https://bookings.christmas.net.au/car-hire",
      "nostore": true,
      "src": "https://www.christmas.net.au/getting-around"
+    },
+    {
+     "name": "Australien eVisitor",
+     "cat": "entry",
+     "note": "Kostenloses Online-Visum für Australien und Gebiete",
+     "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+     "nostore": true,
+     "src": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651"
     }
    ],
    "cities": [],
@@ -59774,9 +61389,9 @@
     },
     {
      "name": "Your Monaco",
-     "cat": "tourism",
-     "note": "Regierungs-App mit Events, Strandwetter, Orten",
-     "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications",
+     "cat": "safety",
+     "note": "Offizielle App der Regierung mit Hinweisen und Alarmen",
+     "src": "https://en.gouv.mc/A-la-Une-du-Portail/Your-Monaco-the-new-app-making-everyday-life-easier-in-Monaco",
      "pkg": "mc.gouv.yourmonaco",
      "ic": "Fz3ToYqCnvRWXAfNpTKk98L1L4BCHBQnLqaAkNpKUTnBSfB4rql-wOzGZCLZx8hWpWhwid-wpYWstJw2wnO25A",
      "ios": 1609627984
@@ -59804,6 +61419,15 @@
      "use": "limited",
      "req": "Nur mit spezieller Behindertenparkkarte",
      "src": "https://www.visitmonaco.com/en/plan-your-stay/practical-information/useful-applications"
+    },
+    {
+     "name": "SNCF Connect",
+     "cat": "rail",
+     "pkg": "com.vsct.vsc.mobile.horaireetresa.android",
+     "note": "TER Tickets ab Monaco Monte Carlo als QR Code",
+     "src": "https://www.visitmonaco.com/en/access/7547/access-by-rail",
+     "ios": 343889987,
+     "ic": "TMdf3UBoH52CnGftvpvvO60BGoAN1CZC0iaWiHsvAol1E3MeELiw2ool1zjm3CqY41rrH4jy7S0344opq3HEHw"
     }
    ],
    "cities": [],
@@ -60177,10 +61801,10 @@
     {
      "name": "Urent",
      "cat": "micro",
-     "note": "E-Scooter und E-Bikes leihen",
+     "note": "E-Scooter und Räder leihen in russischen Städten",
      "use": "no",
-     "req": "Russische Nummer und Verifizierung über mos.ru",
-     "src": "https://www.hse.ru/recommends/bikesandscooters",
+     "req": "Westliche Karten funktionieren in Russland nicht",
+     "src": "https://play.google.com/store/apps/details?id=ru.urentbike.app&hl=en",
      "pkg": "ru.urentbike.app",
      "ic": "q6F8xC6l6LOIPEQ88Dp_RJu6jeCvKr-KIu5OBu0PRi4-t_q32K_5lEW33l9UuPQTSzCTXVWlYa8KHMsOYQJ_yQ",
      "ios": 1352346712
@@ -60195,6 +61819,31 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Горпарковки",
+     "cat": "parking",
+     "pkg": "ru.gorparkovki.federal",
+     "note": "Städtische Parkplätze in vielen Regionen bezahlen",
+     "use": "no",
+     "req": "Westliche Karten funktionieren in Russland nicht",
+     "src": "https://www.rustore.ru/catalog/app/ru.gorparkovki.federal"
+    },
+    {
+     "name": "МЧС России",
+     "cat": "safety",
+     "pkg": "io.citizens.security",
+     "note": "Offizielle Notfall-App mit Hinweisen und Notruf",
+     "url": "https://mchs.gov.ru/deyatelnost/informacionnye-sistemy/mobilnoe-prilozhenie-mchs-rossii",
+     "src": "https://mchs.gov.ru/deyatelnost/informacionnye-sistemy/mobilnoe-prilozhenie-mchs-rossii"
+    },
+    {
+     "name": "Russisches E-Visum",
+     "cat": "entry",
+     "note": "E-Visum für bis zu 30 Tage online beantragen",
+     "url": "https://electronic-visa.kdmid.ru/",
+     "nostore": true,
+     "src": "https://www.auswaertiges-amt.de/de/service/laender/russischefoederation-node/russischefoederationsicherheit-201536"
     }
    ],
    "cities": [
@@ -60266,6 +61915,27 @@
        "pkg": "com.wheely.wheely",
        "ic": "07jM8UEj-L0iLJlm7IoM-BVeo9NkGdPKt1-yDNe-5nhM26noZw7NyBbo7y42oTnvl9e4GpvftbFxU_W0hQ--",
        "ios": 1473863611
+      },
+      {
+       "name": "Yandex Drive",
+       "cat": "carshare",
+       "pkg": "com.yandex.mobile.drive",
+       "note": "Carsharing von Yandex in Moskau und weiteren Städten",
+       "url": "https://drive.yandex.ru/",
+       "use": "no",
+       "req": "Westliche Karten funktionieren in Russland nicht",
+       "src": "https://play.google.com/store/apps/details?id=com.yandex.mobile.drive&hl=en",
+       "ic": "w3f6gn7DAA0sRTpsk5KjFOiv4QflnksuDJj91BEGfs-x51tz8G7h4Eex8qPvToef7KKnTJphZF71vasfkYc4Ew"
+      },
+      {
+       "name": "BelkaCar",
+       "cat": "carshare",
+       "pkg": "ru.belkacar.belkacar",
+       "note": "Carsharing in Moskau und Sankt Petersburg",
+       "url": "https://belkacar.ru/",
+       "use": "no",
+       "req": "Westliche Karten funktionieren in Russland nicht",
+       "src": "https://play.google.com/store/apps/details?id=ru.belkacar.belkacar&hl=en"
       }
      ],
      "ll": [
@@ -60649,6 +62319,15 @@
      "pkg": "com.aurigaspa.bsmmobile",
      "ic": "dAErjFE3yxKLhnp-ZFsnC8tJHFJTB7a18hcqYWdjj9Di5a33mbVjuh7C0YDCDhT0vWg1UQOEYsZcSd_j9kaS5Q",
      "ios": 977161425
+    },
+    {
+     "name": "SMaC Card",
+     "cat": "payment",
+     "pkg": "com.kreosoft.smac_card",
+     "note": "App zur San Marino Card, QR-Zahlung am POS",
+     "use": "limited",
+     "req": "SMaC-Karte nötig",
+     "src": "https://www.bac.sm/wp-content/uploads/2022/10/2625004.ManualeAPPSMa.pdf"
     }
    ],
    "cities": [],
@@ -60813,6 +62492,22 @@
      "src": "https://www.bom.gov.au/wa/forecasts/index.shtml",
      "ios": 1100096880,
      "ic": "Fu1D_gni5-FYwHNr0am5WBgFj0fWjcKsSC6fMnkZ-gjhVLG_NSnTfSSI_7BGbHz7Q394YSojd5Za1MqkmIt4JkM"
+    },
+    {
+     "name": "Cocos Keeling Islands Tourism",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der Inseln",
+     "url": "https://www.cocoskeelingislands.com.au/",
+     "nostore": true,
+     "src": "https://www.cocoskeelingislands.com.au/"
+    },
+    {
+     "name": "Australisches eVisitor (651)",
+     "cat": "entry",
+     "note": "Kostenloses Online-Visum Australiens, gilt auch hier",
+     "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651",
+     "nostore": true,
+     "src": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651"
     }
    ],
    "cities": [],
@@ -61010,6 +62705,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Iraqi Meteorological Organization",
+     "cat": "safety",
+     "note": "Staatlicher Wetter- und Erdbebendienst des Irak",
+     "url": "https://meteoseism.gov.iq/",
+     "nostore": true,
+     "src": "https://meteoseism.gov.iq/"
     }
    ],
    "cities": [
@@ -61225,6 +62928,24 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "RAJA Personenzüge",
+     "cat": "rail",
+     "note": "Fahrplan und Tickets der iranischen Personenzüge",
+     "url": "https://www.raja.ir/",
+     "nostore": true,
+     "use": "limited",
+     "req": "Zahlung nur mit iranischer Karte",
+     "src": "https://www.raja.ir/"
+    },
+    {
+     "name": "E-Visa Iran (MFA)",
+     "cat": "entry",
+     "note": "Visumantrag beim iranischen Außenministerium",
+     "url": "https://evisa.mfa.ir/",
+     "nostore": true,
+     "src": "https://evisa.mfa.ir/"
     }
    ],
    "cities": [
@@ -61406,10 +63127,10 @@
     {
      "name": "Kaspi.kz",
      "cat": "payment",
-     "note": "Bank, Bezahlung per QR und Marktplatz",
+     "note": "Die Super App Kasachstans, QR Zahlung fast überall",
      "use": "no",
-     "req": "Kasachische IIN und Telefonnummer nötig",
-     "src": "https://astanatimes.com/2025/04/how-foreign-citizens-can-get-bank-cards-in-kazakhstan/",
+     "req": "IIN, Konto bei Kaspi und lokale Nummer nötig",
+     "src": "https://wiki.private.law/en/kaspi-bank",
      "pkg": "kz.kaspi.mobile",
      "ic": "XPRGdoE4SU2uK_L-vdR6Ab6_X4-6Vr4TFLDniHjX1tWlVe795uxV1MiJRFXZ0aTv9wMIiCHUKi4lnNOX74mwhxk",
      "ios": 1195076505
@@ -61653,6 +63374,32 @@
      "src": "https://www.tallink.com/travelling/one-way/aland-ferry",
      "ic": "aGUum3_xDEqYFDGlhemyp76GDrpwR10ttJXPM7meZLdomexrc9zXF3AOqac-xelLCdGLa8uNpZZdegtx4wJ4qQ",
      "ios": 1107519850
+    },
+    {
+     "name": "FMI Weather",
+     "cat": "safety",
+     "pkg": "fi.fmi.mobileweather",
+     "note": "Wetter und Warnungen des Finnischen Wetterdienstes",
+     "src": "https://play.google.com/store/apps/details?id=fi.fmi.mobileweather&hl=en",
+     "ios": 529493426,
+     "ic": "_ugm2NKs3LrogjkSz81_5J98WM5Yz3T9pNOJYMfe_YCpwsv67sDGDvwDkwKOk5vCa01hwTMvprY9pXMBLDWH-A"
+    },
+    {
+     "name": "Visit Åland",
+     "cat": "tourism",
+     "note": "Offizielle Tourismusseite der Ålandinseln",
+     "url": "https://visitaland.com",
+     "nostore": true,
+     "src": "https://visitaland.com/?p=10396"
+    },
+    {
+     "name": "MobilePay",
+     "cat": "payment",
+     "pkg": "fi.danskebank.mobilepay",
+     "note": "Finnische Bezahl-App, auch auf Åland genutzt",
+     "use": "no",
+     "req": "Finnisches Konto und Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=fi.danskebank.mobilepay&hl=en"
     }
    ],
    "cities": [
@@ -61680,6 +63427,14 @@
        "src": "https://wolt.com/en/fin/maarianhamina",
        "ios": 943905271,
        "ic": "ZwT4QDphpEcWtG4t8qL5yw5vKbLwQZLbd9KWs0YnIQYlhkO-VJVdBDkStoD0Fq8JjvK3uFlc9SMu99fYmdyqTw"
+      },
+      {
+       "name": "Ålandstrafiken",
+       "cat": "transit",
+       "note": "Busse und Schärenfähren, Fahrpläne online",
+       "url": "https://www.alandstrafiken.ax",
+       "nostore": true,
+       "src": "https://www.alandstrafiken.ax/sites/default/files/2025-09/linje2-3-4.pdf"
       }
      ],
      "ll": [
@@ -61913,6 +63668,32 @@
      "pkg": "com.maanavan.mb_kyrgyzstan",
      "ic": "1TQzAUDQNWJYtuQFV8xujBqhibfcjyDPJibDTrPW8w6YE3e2rZ_N1BWJfpPYIAjcdiHnHTAkAywqNMhDw75iZ9k",
      "ios": 922922121
+    },
+    {
+     "name": "ELCARD Mobile",
+     "cat": "payment",
+     "pkg": "com.ipc_app",
+     "note": "App des nationalen QR-Zahlsystems",
+     "use": "limited",
+     "req": "Kirgisische Bankkarte nötig",
+     "src": "https://timesca.com/kyrgyzstan-connects-to-international-alipay-qr-payment-network/"
+    },
+    {
+     "name": "My O! + Bank",
+     "cat": "payment",
+     "pkg": "kg.o.nurtelecom",
+     "note": "App von O! mit Geldbörse und QR-Zahlung",
+     "use": "limited",
+     "req": "Kirgisische Nummer nötig",
+     "src": "https://play.google.com/store/apps/details?id=kg.o.nurtelecom&hl=en"
+    },
+    {
+     "name": "Discover Kyrgyzstan",
+     "cat": "tourism",
+     "note": "Nationales Tourismusportal",
+     "url": "https://discoverkyrgyzstan.org",
+     "nostore": true,
+     "src": "https://eco.int/kyrgyz-republic-3/"
     }
    ],
    "cities": [
@@ -62193,6 +63974,32 @@
      "pkg": "com.tapatrip",
      "ic": "2eucdgQ7rRR3whc_eqmP_4-rO23czoYzN6lH2B3iYgvsfvuYp1nxBmLDGd0ITmN6HJVB__pLxwMNjZq58X5s5g0",
      "ios": 1563199559
+    },
+    {
+     "name": "UBTZ Eticket",
+     "cat": "rail",
+     "pkg": "mn.ubtz.eticket",
+     "note": "Zugtickets der Ulaanbaatar-Eisenbahn",
+     "use": "limited",
+     "req": "Oft nur mongolische Bankkarte, wenig Englisch",
+     "src": "https://agatetravel.com/mongolia-train-tickets.html"
+    },
+    {
+     "name": "ABA Mongolia",
+     "cat": "taxi",
+     "pkg": "com.abataxi",
+     "note": "Taxi-App für Ulaanbaatar mit englischer Version",
+     "use": "limited",
+     "req": "Lokale Nummer empfohlen",
+     "src": "https://www.welcomepickups.com/ulaanbaatar/taxi/"
+    },
+    {
+     "name": "Go Mongolia",
+     "cat": "tourism",
+     "note": "Staatliche Tourismusseite mit Reiseinfos",
+     "url": "https://www.gomongolia.gov.mn",
+     "nostore": true,
+     "src": "https://www.gomongolia.gov.mn/?p=409"
     }
    ],
    "cities": [
@@ -62502,6 +64309,15 @@
      "src": "https://www.bento.travel/macau/payments",
      "pkg": "com.eg.android.AlipayGphone",
      "ic": "raf2k-_bwYkIcVNR0qL1n1VAGnusnflf9SuXOBZJ227X1eB8ILjS9G3ddIla5DbKi2nUw1QN_ibzYnX58UpEmZI"
+    },
+    {
+     "name": "Macao Smart Go",
+     "cat": "parking",
+     "pkg": "mo.gov.dsat.dis.travel",
+     "note": "Offizielle Verkehrs-App mit freien Parkhausplätzen",
+     "src": "https://macaonews.org/community/macao-smart-go-app-makes-city-travel-easier/",
+     "ios": 1599029366,
+     "ic": "lNqsoC1h-tRCjsZO7K56NIQQrYPCOE5kWryaTn6vYTCAYTnHF6Fs0rUfS24Xo-75mdhbT5mZomiCtfiBEnJSzA"
     }
    ],
    "cities": [
@@ -62708,6 +64524,16 @@
      "src": "https://www.bento.travel/myanmar",
      "ic": "kfdM6KaqqT-6uMM5ZVY5ug2AZIArx2xKMN05_otKfcjE_2gWEv0x3uEYva9eh6qHFLmTTFfNE90UyWk9sXHq",
      "ios": 6757119836
+    },
+    {
+     "name": "Myanma Railways ORTP",
+     "cat": "rail",
+     "note": "Offizieller Online-Kauf für ausgewählte Expresszüge",
+     "url": "https://ortp.railways.gov.mm/",
+     "nostore": true,
+     "use": "limited",
+     "req": "Bezahlung über myanmarische Banken",
+     "src": "https://elevenmyanmar.com/node/309528"
     }
    ],
    "cities": [
@@ -62858,20 +64684,20 @@
     {
      "name": "JazzCash",
      "cat": "payment",
-     "note": "Mobile Geldbörse für Zahlungen im Land",
+     "note": "Großes Mobile-Wallet in Pakistan",
      "use": "no",
-     "req": "Pakistanischer Ausweis (CNIC) und lokale SIM nötig",
-     "src": "https://www.bento.travel/pakistan/payments",
+     "req": "Pakistanische SIM und CNIC nötig",
+     "src": "https://play.google.com/store/apps/details?id=com.techlogix.mobilinkcustomer&hl=en",
      "pkg": "com.techlogix.mobilinkcustomer",
      "ic": "gxLZ7ouLFPXZQWvvUDvGtDyFeGjcGLgoR4xRvWC98QuMkhe-OOKiAT6f1oL3PwjM_jDKghVedUM-skYGWowJCio"
     },
     {
      "name": "easypaisa",
      "cat": "payment",
-     "note": "Mobile Geldbörse für Zahlungen im Land",
+     "note": "Verbreitetes Mobile-Wallet für Zahlungen und QR",
      "use": "no",
-     "req": "Pakistanischer Ausweis (CNIC) und lokale SIM nötig",
-     "src": "https://www.bento.travel/pakistan/payments",
+     "req": "Pakistanische SIM und Ausweis nötig",
+     "src": "https://play.google.com/store/apps/details?id=pk.com.telenor.phoenix&hl=en",
      "pkg": "pk.com.telenor.phoenix",
      "ic": "NpYySXJS_VNGjzmNY8hrkyjRb9snboxwELc0WxBuRNi4YwN-lgc2cQqo57AwBUUI1Fd_sh5N1A8j28WkBAIHOw",
      "ios": 1227725092
@@ -63459,10 +65285,10 @@
     {
      "name": "Alif",
      "cat": "payment",
-     "note": "Lokale Geldbörse und Bankkarten für Zahlungen im Land",
-     "use": "no",
-     "req": "Lokaler Ausweis und tadschikische Bankkarte nötig",
-     "src": "https://www.bento.travel/tajikistan/payments",
+     "note": "Verbreitete Wallet mit QR Zahlung",
+     "use": "limited",
+     "req": "Ausländische Karten nicht sicher belegt",
+     "src": "https://thefintechtimes.com/tajikistan-can-fintech-digitalise-a-remittance-economy/",
      "pkg": "tj.alif.mobi",
      "ic": "XiW-UHg2beFlWe0I1Z2G3wKLHxPCA7qLxDyZImha-MZxLdLY2WKr7T0esQSWV7t54LlFTDydMlsehKP9-n5rqUI",
      "ios": 1331374853
@@ -63494,6 +65320,15 @@
      "pkg": "tj.tourism.rebuss",
      "ic": "AYizVUDiuwAwnUCUR1qajG_gQiq1fpiSMYE62C5nXCVS7DXtTDOMMs0_ALjfhd9lczZKfw2DrmqXJ9ksIvd1",
      "ios": 6740203172
+    },
+    {
+     "name": "DC Next",
+     "cat": "payment",
+     "pkg": "tj.dc.next1",
+     "note": "Wallet der Dushanbe City Bank",
+     "use": "limited",
+     "req": "Lokale Nummer nötig",
+     "src": "https://thefintechtimes.com/tajikistan-can-fintech-digitalise-a-remittance-economy/"
     }
    ],
    "cities": [
@@ -63634,9 +65469,9 @@
     {
      "name": "Mosan Telemor",
      "cat": "payment",
-     "note": "Mobile Geldbörse von Telemor für Überweisungen",
+     "note": "E Wallet von Telemor",
      "use": "no",
-     "req": "Telemor-Anschluss und Anmeldung mit Ausweis bei einem Agenten nötig",
+     "req": "Telemor SIM und Registrierung nötig",
      "src": "https://mosan.telemor.tl/en.html",
      "pkg": "com.mosan.eu",
      "ic": "MwsMebImNeoTdPt3SdfrtwQZ7AspV1Dz6m5Xt6hMQa6nTCE0kpeQs4kOgtay5hYcd09YQUMD6Agexkax-PrudQ"
@@ -64113,6 +65948,14 @@
      "pkg": "com.jetscooters",
      "ic": "agD1aLXYl-6v_n1rmnOWRP4Wwe8KQ2PedUvX-xvSe01twDcSQ6-yiMyr-DygzYnp67qdQFvHyPCzncwX_7G28A",
      "ios": 6747077366
+    },
+    {
+     "name": "Uzbekistan Travel",
+     "cat": "tourism",
+     "note": "Offizielles Tourismusportal Usbekistans",
+     "url": "https://uzbekistan.travel",
+     "nostore": true,
+     "src": "https://uzbekistan.travel"
     }
    ],
    "cities": [

@@ -1,12 +1,139 @@
-{"src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698", "fetched": "2026-11-18", "updated": "", "note": "Deutsche brauchen ein Visum, die Digital Arrival Card ist bis 72 Std. vor Ankunft Pflicht. Hoteltransfers statt Taxis nutzen.", "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt illegal und können mit Gefängnis bestraft werden, daher große Zurückhaltung geboten.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698", "discontinued": [], "apps": [
-{"name": "PNG eVisa", "cat": "entry", "pkg": "", "ess": true, "note": "Visum vor der Reise online beantragen, nur Webseite", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698"},
-{"name": "PNG Digital Arrival Card", "cat": "entry", "pkg": "", "ess": true, "note": "Pflicht-Einreisekarte bis 72 Stunden vor Ankunft, Webseite", "city": "", "use": "ok", "req": "", "src": "https://pngdac.ica.gov.pg/sbs-external-manual-doc/en/FAQ.html"},
-{"name": "Sicher Reisen", "cat": "safety", "pkg": "", "ess": false, "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts", "city": "", "use": "ok", "req": "", "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698"},
-{"name": "Air Niugini", "cat": "flights", "pkg": "", "ess": false, "note": "Nationale Airline: Buchung, Check-in und Flugstatus", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/air-niugini/id6444407081"},
-{"name": "Pik Up PNG", "cat": "taxi", "pkg": "", "ess": false, "note": "Lokale Fahrdienst-App mit Festpreis und Live-Ortung", "city": "Port Moresby", "use": "ok", "req": "", "src": "https://apps.apple.com/app/id6759558559"},
-{"name": "ODESH", "cat": "taxi", "pkg": "", "ess": false, "note": "Taxi per App, auch Premium-Taxis am Flughafen Jackson's", "city": "Port Moresby", "use": "ok", "req": "", "src": "https://www.nbc.com.pg/post/38383/nac-and-odesh-defend-new-jacksons-airport-taxi-system-amid-operator-pushback"},
-{"name": "GoFood (PNG) Customer", "cat": "delivery", "pkg": "", "ess": false, "note": "Essen und Lebensmittel liefern lassen, Bar oder Karte", "city": "", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1613894170"},
-{"name": "Avis", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen an Flughafen Port Moresby, auch Lae und Hagen", "city": "", "use": "limited", "req": "Mindestalter je nach Anbieter 21 bis 25 Jahre, Fahrten bei Nacht meiden", "src": "https://www.avis.com/en/locations/pac/nu/port-moresby"},
-{"name": "CellMoni", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile Geldbörse von Digicel PNG für Zahlungen", "city": "", "use": "no", "req": "Registrierte Digicel-PNG-SIM nötig", "src": "https://support-pg.digicelpacific.com/hc/en-us/articles/8656278907535-How-can-I-activate-my-CellMoni-Wallet"},
-{"name": "BSP PNG", "cat": "payment", "pkg": "", "ess": false, "note": "Mobile-Banking der größten Bank des Landes", "city": "", "use": "no", "req": "Nur mit BSP-Konto und Internetbanking-Zugang", "src": "https://apps.apple.com/gr/app/bsp-png/id6445806515"}
-]}
+{
+ "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698",
+ "fetched": "2026-11-18",
+ "updated": "",
+ "note": "Deutsche brauchen ein Visum, die Digital Arrival Card ist bis 72 Std. vor Ankunft Pflicht. Hoteltransfers statt Taxis nutzen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind laut Auswärtigem Amt illegal und können mit Gefängnis bestraft werden, daher große Zurückhaltung geboten.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "PNG eVisa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Visum vor der Reise online beantragen, nur Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698"
+  },
+  {
+   "name": "PNG Digital Arrival Card",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Pflicht-Einreisekarte bis 72 Stunden vor Ankunft, Webseite",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://pngdac.ica.gov.pg/sbs-external-manual-doc/en/FAQ.html"
+  },
+  {
+   "name": "Sicher Reisen",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Reise- und Sicherheitshinweise des Auswärtigen Amts",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.auswaertiges-amt.de/de/service/laender/papuaneuguinea-node/papuaneuguineasicherheit-220698"
+  },
+  {
+   "name": "Air Niugini",
+   "cat": "flights",
+   "pkg": "",
+   "ess": false,
+   "note": "Nationale Airline: Buchung, Check-in und Flugstatus",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/air-niugini/id6444407081"
+  },
+  {
+   "name": "Pik Up PNG",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Lokale Fahrdienst-App mit Festpreis und Live-Ortung",
+   "city": "Port Moresby",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/app/id6759558559"
+  },
+  {
+   "name": "ODESH",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Taxi per App, auch Premium-Taxis am Flughafen Jackson's",
+   "city": "Port Moresby",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.nbc.com.pg/post/38383/nac-and-odesh-defend-new-jacksons-airport-taxi-system-amid-operator-pushback"
+  },
+  {
+   "name": "GoFood (PNG) Customer",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Essen und Lebensmittel liefern lassen, Bar oder Karte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1613894170"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen an Flughafen Port Moresby, auch Lae und Hagen",
+   "city": "",
+   "use": "limited",
+   "req": "Mindestalter je nach Anbieter 21 bis 25 Jahre, Fahrten bei Nacht meiden",
+   "src": "https://www.avis.com/en/locations/pac/nu/port-moresby"
+  },
+  {
+   "name": "CellMoni",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile Geldbörse von Digicel PNG für Zahlungen",
+   "city": "",
+   "use": "no",
+   "req": "Registrierte Digicel-PNG-SIM nötig",
+   "src": "https://support-pg.digicelpacific.com/hc/en-us/articles/8656278907535-How-can-I-activate-my-CellMoni-Wallet"
+  },
+  {
+   "name": "BSP PNG",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Mobile-Banking der größten Bank des Landes",
+   "city": "",
+   "use": "no",
+   "req": "Nur mit BSP-Konto und Internetbanking-Zugang",
+   "src": "https://apps.apple.com/gr/app/bsp-png/id6445806515"
+  },
+  {
+   "name": "CellMoni",
+   "cat": "payment",
+   "pkg": "com.digicelfs.cellmoni",
+   "note": "Mobiles Geld von Digicel in Papua-Neuguinea",
+   "use": "limited",
+   "req": "Digicel SIM-Karte nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.digicelfs.cellmoni&hl=en"
+  },
+  {
+   "name": "Papua New Guinea Tourism",
+   "cat": "tourism",
+   "note": "Offizielle Seite der Tourismusbehörde",
+   "use": "ok",
+   "url": "https://www.papuanewguinea.travel",
+   "nostore": true,
+   "src": "https://www.papuanewguinea.travel"
+  }
+ ]
+}

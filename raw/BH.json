@@ -133,6 +133,33 @@
    "use": "limited",
    "req": "Internationaler Führerschein, Reisepass mit Visum, Karte auf eigenen Namen, Mindestalter 23",
    "src": "https://www.selfdrive.bh/faqs.php"
+  },
+  {
+   "name": "BenefitPay",
+   "cat": "payment",
+   "pkg": "mobi.foo.benefit",
+   "note": "Nationale Bezahl-App, QR und Überweisung",
+   "use": "no",
+   "req": "Bahrainisches Konto nötig",
+   "src": "https://benefit.bh/Personal/benefitpay/"
+  },
+  {
+   "name": "Amakin Mobility",
+   "cat": "parking",
+   "pkg": "com.bahraincarparkscompany.amakin",
+   "note": "Parken der Bahrain Car Parks Company per App",
+   "use": "limited",
+   "req": "Ggf. lokale Nummer nötig",
+   "src": "https://apps.apple.com/mt/app/amakin-mobility/id1666560557"
+  },
+  {
+   "name": "Bahrain eVisa",
+   "cat": "entry",
+   "note": "Offizielles Portal für das elektronische Visum",
+   "use": "ok",
+   "url": "https://www.evisa.gov.bh",
+   "nostore": true,
+   "src": "https://www.servisum.de/en/performance-profile/visa/visa-application-entry-requirements/bahrain/"
   }
  ],
  "replace": [
