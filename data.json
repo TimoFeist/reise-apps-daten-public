@@ -33377,10 +33377,10 @@
     {
      "name": "MTN MoMo",
      "cat": "payment",
-     "note": "Mobile Money von MTN für Zahlungen und Überweisungen",
+     "note": "Mobile Money von MTN Congo",
      "use": "no",
-     "req": "MTN-Congo-Nummer und Registrierung mit Ausweis bei einem Agenten nötig",
-     "src": "https://blog.iambeezy.app/fr/documents-necessaires-creer-compte-mtn-momo-congo-2026/",
+     "req": "Kongolesische MTN-SIM nötig",
+     "src": "https://www.mtn.cg/momo/",
      "pkg": "com.consumerug",
      "ic": "SMmBJN1AfFuDEkgWrVBSPedlqK-8E86N9h7Kh-4--FKdDW2bq-cNfn7s3AEcfmKwlCejxaAsFMGtZUiXu2-OBRw"
     },
@@ -42053,10 +42053,10 @@
     {
      "name": "Lynk",
      "cat": "payment",
-     "note": "Jamaikanische Wallet für Einheimische",
+     "note": "Digitale Wallet der NCB, in Läden per QR nutzbar",
      "use": "no",
-     "req": "Jamaikanischer Ausweis und Wohnsitz in Jamaika nötig",
-     "src": "https://www.bento.travel/jamaica/payments",
+     "req": "Jamaikanische Nummer und Ausweis nötig",
+     "src": "https://www.jncb.com/about-us/news-room/news/lynk-launches-virtual-card",
      "ios": 1573617151,
      "pkg": "us.lynk.consumer"
     },
@@ -49645,9 +49645,9 @@
       },
       {
        "name": "Maua",
-       "cat": "shopping",
-       "note": "Onlineshop lokaler Händler mit Lieferung, auch Essen",
-       "src": "https://vbr.vu/profile/the-maua-app/",
+       "cat": "delivery",
+       "note": "Bestellen und Liefern in Port Vila, Karte oder bar",
+       "src": "https://www.uncdf.org/article/7943/mauas-vanuatu-expansion-will-create-new-digital-trade-opportunities-for-businesses",
        "ios": 1468726583,
        "pkg": "com.app.buyer",
        "ic": "6ydBn_iRV_Xx_rIfHlZyLcbWBe8w1zOm7NtzDdCSpMQTDhceeT-uJk_hArWf_dm11fqvsWnjJI7HHn8DoDbAKA"
