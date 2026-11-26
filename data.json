@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-26 23:44",
+ "version": "2026-11-26 23:45",
  "categories": [
   {
    "id": "entry",
@@ -70877,6 +70877,11 @@
      "+855"
     ],
     "holidays": [
+     {
+      "d": "2026-11-24",
+      "n": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
+      "e": "Water Festival"
+     },
      {
       "d": "2026-11-25",
       "n": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
