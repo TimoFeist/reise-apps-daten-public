@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-26 11:27",
+ "version": "2026-11-26 19:45",
  "categories": [
   {
    "id": "entry",
@@ -119,6 +119,7 @@
      "pkg": "com.ubercab",
      "mine": true,
      "countries": [
+      "AD",
       "AE",
       "AR",
       "AT",
@@ -131,6 +132,7 @@
       "BR",
       "CA",
       "CH",
+      "CI",
       "CL",
       "CO",
       "CR",
@@ -149,9 +151,11 @@
       "GR",
       "GT",
       "HK",
+      "HN",
       "HR",
       "HU",
       "IE",
+      "IL",
       "IN",
       "IT",
       "JM",
@@ -159,8 +163,12 @@
       "JP",
       "KE",
       "KR",
+      "KW",
+      "LB",
+      "LC",
       "LK",
       "LT",
+      "LU",
       "MA",
       "MO",
       "MT",
@@ -182,9 +190,12 @@
       "SE",
       "SI",
       "SK",
+      "SV",
       "TR",
       "TW",
+      "TZ",
       "UA",
+      "UG",
       "US",
       "UY",
       "ZA"
@@ -201,11 +212,16 @@
      "countries": [
       "AE",
       "AT",
+      "AZ",
       "BE",
+      "BG",
       "CH",
+      "CY",
       "CZ",
+      "DE",
       "DK",
       "EE",
+      "ES",
       "FI",
       "FR",
       "GB",
@@ -215,11 +231,15 @@
       "HR",
       "HU",
       "IE",
+      "IT",
       "KE",
+      "KZ",
       "LT",
       "LV",
       "MA",
+      "MD",
       "MT",
+      "MX",
       "MY",
       "NG",
       "NL",
@@ -231,12 +251,15 @@
       "RO",
       "SA",
       "SE",
+      "SI",
       "SK",
       "TH",
       "TW",
       "TZ",
       "UA",
-      "ZA"
+      "UG",
+      "ZA",
+      "ZW"
      ],
      "src": "https://www.bento.travel/apps/bolt",
      "ios": 675033630,
@@ -374,7 +397,38 @@
      "pkg": "com.limebike",
      "mine": true,
      "ios": 1199780189,
-     "ic": "uKj4D4Lvw6fjCGDVAFom052hpaWmkBh42v-i7ZrArBXvfb9PjuvmDDXslf2d00__RQkzxf5y3_NfmSb4iCnu"
+     "ic": "uKj4D4Lvw6fjCGDVAFom052hpaWmkBh42v-i7ZrArBXvfb9PjuvmDDXslf2d00__RQkzxf5y3_NfmSb4iCnu",
+     "countries": [
+      "AE",
+      "AT",
+      "AU",
+      "BE",
+      "BG",
+      "CA",
+      "CH",
+      "CL",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "FR",
+      "GB",
+      "GR",
+      "HU",
+      "IE",
+      "IL",
+      "IT",
+      "JP",
+      "MX",
+      "NL",
+      "NZ",
+      "PL",
+      "PT",
+      "QA",
+      "RO",
+      "SE",
+      "US"
+     ]
     },
     {
      "name": "Voi",
@@ -382,7 +436,22 @@
      "pkg": "io.voiapp.voi",
      "mine": true,
      "ios": 1395921017,
-     "ic": "k6fHMrcF64dgHdYu8KSakwO3MZM6PMSUNws7z0kGFapNOt8v_mSe07xHeo4y0TYOtZ0VQgOgz8fvPaEq6itq2hY"
+     "ic": "k6fHMrcF64dgHdYu8KSakwO3MZM6PMSUNws7z0kGFapNOt8v_mSe07xHeo4y0TYOtZ0VQgOgz8fvPaEq6itq2hY",
+     "countries": [
+      "AT",
+      "BE",
+      "CH",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IT",
+      "NL",
+      "NO",
+      "SE"
+     ]
     },
     {
      "name": "Wolt",
@@ -390,7 +459,38 @@
      "pkg": "com.wolt.android",
      "mine": true,
      "ios": 943905271,
-     "ic": "ZwT4QDphpEcWtG4t8qL5yw5vKbLwQZLbd9KWs0YnIQYlhkO-VJVdBDkStoD0Fq8JjvK3uFlc9SMu99fYmdyqTw"
+     "ic": "ZwT4QDphpEcWtG4t8qL5yw5vKbLwQZLbd9KWs0YnIQYlhkO-VJVdBDkStoD0Fq8JjvK3uFlc9SMu99fYmdyqTw",
+     "countries": [
+      "AL",
+      "AT",
+      "AZ",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "FI",
+      "GE",
+      "GR",
+      "HR",
+      "HU",
+      "IL",
+      "IS",
+      "KZ",
+      "LT",
+      "LU",
+      "LV",
+      "MK",
+      "MT",
+      "NO",
+      "PL",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK"
+     ]
     },
     {
      "name": "Uber Eats",
@@ -398,7 +498,44 @@
      "pkg": "com.ubercab.eats",
      "mine": true,
      "ios": 1058959277,
-     "ic": "nQpl8xd3y1dpvHp-VcZrQ7H8ikP5jDYi0tYdS-FzqKyb0qqBb-0FVzuC3eepETxYECADHSitC89yhvWkXxcy"
+     "ic": "nQpl8xd3y1dpvHp-VcZrQ7H8ikP5jDYi0tYdS-FzqKyb0qqBb-0FVzuC3eepETxYECADHSitC89yhvWkXxcy",
+     "countries": [
+      "AR",
+      "AU",
+      "BE",
+      "CA",
+      "CH",
+      "CL",
+      "CR",
+      "DE",
+      "DK",
+      "DO",
+      "EC",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GT",
+      "IE",
+      "IT",
+      "JP",
+      "KE",
+      "LK",
+      "LU",
+      "MX",
+      "NL",
+      "NO",
+      "NZ",
+      "PA",
+      "PL",
+      "PT",
+      "SE",
+      "SV",
+      "TR",
+      "TW",
+      "US",
+      "ZA"
+     ]
     },
     {
      "name": "FlixBus",
@@ -406,7 +543,50 @@
      "pkg": "de.flixbus.app",
      "mine": true,
      "ios": 778437357,
-     "ic": "_xckHFchRcdSo2EexTBAkO6QvInupeGdXdphN2Ea1PT4e2mJjxUvdnv6_p_B247dC6-hxenpgMPJqAfNdjs-9No"
+     "ic": "_xckHFchRcdSo2EexTBAkO6QvInupeGdXdphN2Ea1PT4e2mJjxUvdnv6_p_B247dC6-hxenpgMPJqAfNdjs-9No",
+     "countries": [
+      "AL",
+      "AT",
+      "AU",
+      "BA",
+      "BE",
+      "BG",
+      "BR",
+      "CA",
+      "CH",
+      "CL",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IN",
+      "IT",
+      "LT",
+      "LV",
+      "MK",
+      "MX",
+      "NL",
+      "NO",
+      "PE",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "SE",
+      "SI",
+      "SK",
+      "TR",
+      "UA",
+      "US"
+     ]
     },
     {
      "name": "Omio",
@@ -414,7 +594,30 @@
      "pkg": "com.goeuro.rosie",
      "mine": true,
      "ios": 885372509,
-     "ic": "M68RsdzhdWHtSjbE4g0_HNRGiVLV9J1R_evAPfI6CZONVHS4VfzfIuJ6iyuArnjaJsN33AOuY9uffiyBKCzK"
+     "ic": "M68RsdzhdWHtSjbE4g0_HNRGiVLV9J1R_evAPfI6CZONVHS4VfzfIuJ6iyuArnjaJsN33AOuY9uffiyBKCzK",
+     "countries": [
+      "AT",
+      "BE",
+      "BR",
+      "CA",
+      "CH",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IT",
+      "LU",
+      "NL",
+      "PT",
+      "SE",
+      "US"
+     ]
     },
     {
      "name": "EasyPark",
@@ -422,7 +625,30 @@
      "pkg": "net.easypark.android",
      "mine": true,
      "ios": 449594317,
-     "ic": "oynrl-CPadmiUoAh4tWftopFVF6U5C9U39UWuo-8cHMBNY5z9vB7JGGyJZkxwMlbN6ypgBQhe9cU_gRmbAO2"
+     "ic": "oynrl-CPadmiUoAh4tWftopFVF6U5C9U39UWuo-8cHMBNY5z9vB7JGGyJZkxwMlbN6ypgBQhe9cU_gRmbAO2",
+     "countries": [
+      "AT",
+      "BE",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FO",
+      "FR",
+      "HU",
+      "IS",
+      "IT",
+      "LI",
+      "NL",
+      "NO",
+      "PT",
+      "SE",
+      "SI",
+      "SK"
+     ]
     },
     {
      "name": "Grindr",
@@ -486,6 +712,319 @@
      "note": "Eigene App: Währungsrechner, APK direkt laden",
      "dl": "https://apps.feist.uk/download/pinrate.apk",
      "nostore": true
+    },
+    {
+     "name": "Dott",
+     "cat": "micro",
+     "pkg": "com.ridedott.rider",
+     "note": "E-Scooter und Leihräder, früher TIER",
+     "src": "https://ridedott.com/locations/",
+     "countries": [
+      "AE",
+      "AT",
+      "BE",
+      "CH",
+      "DE",
+      "DK",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HU",
+      "IL",
+      "IT",
+      "NL",
+      "NO",
+      "PL",
+      "SA"
+     ],
+     "ios": 1440301673,
+     "ic": "epTYGeHR8Wbwe03pzYgYlrL1j_60p5azhHd6EOMYAGbJcPuXK2Vg1O9mAA6bMn_gk-XwyefpsUfPPAWZKLt1Pg"
+    },
+    {
+     "name": "PayByPhone",
+     "cat": "parking",
+     "pkg": "com.paybyphone",
+     "note": "Parkgebühren per Handy bezahlen",
+     "src": "https://www.paybyphone.com/locations",
+     "countries": [
+      "CA",
+      "CH",
+      "DE",
+      "FR",
+      "GB",
+      "US"
+     ],
+     "ios": 448474183,
+     "ic": "3oCKnsiljMhX4KO-ZDxqCZOB9oLD_iqj7sTNlkzQXdDA5B2dU-mJjHUriudHax_WrlPXrKBe0rVQdm4NbHwj6w"
+    },
+    {
+     "name": "inDrive",
+     "cat": "taxi",
+     "pkg": "sinet.startup.inDriver",
+     "note": "Fahrdienst, Preis mit dem Fahrer aushandeln",
+     "src": "https://indrive.com/en/cities",
+     "countries": [
+      "AM",
+      "AO",
+      "AR",
+      "BD",
+      "BJ",
+      "BO",
+      "BR",
+      "BW",
+      "CD",
+      "CI",
+      "CL",
+      "CO",
+      "CR",
+      "CY",
+      "DJ",
+      "DO",
+      "DZ",
+      "EC",
+      "EG",
+      "ET",
+      "GH",
+      "GT",
+      "HN",
+      "ID",
+      "IN",
+      "IQ",
+      "JM",
+      "KE",
+      "KG",
+      "KZ",
+      "LA",
+      "LB",
+      "LK",
+      "MA",
+      "MG",
+      "MX",
+      "MY",
+      "MZ",
+      "NA",
+      "NG",
+      "NI",
+      "NP",
+      "PA",
+      "PE",
+      "PH",
+      "PK",
+      "PY",
+      "QA",
+      "RO",
+      "SA",
+      "SN",
+      "SV",
+      "TH",
+      "TN",
+      "TR",
+      "TZ",
+      "UA",
+      "US",
+      "VN",
+      "ZA",
+      "ZM",
+      "ZW"
+     ],
+     "ios": 780125801,
+     "ic": "xzaieq15Hxs7nhvtPGPHXzRTJduer8mICZQkTt2Ci9nA_7FAqtyj6ERvYGw5vYWfdLsGs9ZAmI5yYsupz4zoqGg"
+    },
+    {
+     "name": "Yango",
+     "cat": "taxi",
+     "pkg": "com.yandex.yango",
+     "note": "Fahrdienst und Taxi per App",
+     "src": "https://yango.com/en_latam/rider/",
+     "countries": [
+      "AE",
+      "AM",
+      "AO",
+      "AZ",
+      "BJ",
+      "BO",
+      "BW",
+      "CD",
+      "CI",
+      "CM",
+      "CO",
+      "DZ",
+      "EG",
+      "ET",
+      "GE",
+      "GH",
+      "GT",
+      "KG",
+      "KZ",
+      "MA",
+      "MR",
+      "MZ",
+      "NA",
+      "NP",
+      "OM",
+      "PE",
+      "PK",
+      "SN",
+      "TR",
+      "UZ",
+      "VE",
+      "ZM"
+     ],
+     "ios": 1437157286,
+     "ic": "Qe76orlRgxDMMzlKaKI4DJFeNAmcd1M7qPySrKgiCse8cbVEuL2fD8jNgRCUXkNUxwdiEIpV5QlNvoKG31tS"
+    },
+    {
+     "name": "Careem",
+     "cat": "taxi",
+     "pkg": "com.careem.acma",
+     "note": "Fahrdienst, Essen und mehr im Nahen Osten",
+     "src": "https://www.careem.com/en-AE/ride",
+     "countries": [
+      "AE",
+      "BH",
+      "EG",
+      "IQ",
+      "JO",
+      "KW",
+      "MA",
+      "PK",
+      "SA"
+     ],
+     "ios": 592978487,
+     "ic": "T8uJEzioeqcEUM25n2tAHjaF2q4r24N23IaqiW6ZzzFQK1JllYNUbXFUiOuC3Ax9tFKOfQXnFVEvCdvs7Vmz"
+    },
+    {
+     "name": "Grab",
+     "cat": "taxi",
+     "pkg": "com.grabtaxi.passenger",
+     "note": "Fahrdienst, Essen und Bezahlen in Südostasien",
+     "src": "https://www.grab.com/sg/locations/",
+     "countries": [
+      "ID",
+      "KH",
+      "MM",
+      "MY",
+      "PH",
+      "SG",
+      "TH",
+      "VN"
+     ],
+     "ios": 647268330,
+     "ic": "aJZQVKfrmo-Kl7G3m-_8CrnqEQAsiojdE5yKcUTa8uKUZtcNWagCJJIFrTe1Vl64FvIcAJSZY4ynLsbJG4wa5xg"
+    },
+    {
+     "name": "Glovo",
+     "cat": "delivery",
+     "pkg": "com.glovo",
+     "note": "Essen und Einkäufe liefern lassen",
+     "src": "https://glovoapp.com/en",
+     "countries": [
+      "AM",
+      "BG",
+      "CI",
+      "ES",
+      "GE",
+      "HR",
+      "IT",
+      "KE",
+      "KG",
+      "KZ",
+      "MA",
+      "MD",
+      "ME",
+      "NG",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "TN",
+      "UA",
+      "UG"
+     ],
+     "ios": 951812684,
+     "ic": "3GVYKXAg9x2RiMxhG38CNmCynQUFTvT0vVK2u-Jj8Rrpwh5K6ySiy18aO6J2jHfSkgSBv3JVcv2ISEEWjTUCI2I"
+    },
+    {
+     "name": "foodpanda",
+     "cat": "delivery",
+     "pkg": "com.global.foodpanda.android",
+     "note": "Essen und Lebensmittel liefern lassen",
+     "src": "https://www.aap.com.au/aapreleases/cision20251218ae50628",
+     "countries": [
+      "BD",
+      "HK",
+      "KH",
+      "LA",
+      "MM",
+      "MY",
+      "PH",
+      "PK",
+      "SG",
+      "TW"
+     ],
+     "ic": "AGKMvrcaU1-dQpoKzFltAXyB9cA5BE7kJ9lsKbQwOLPXJvvDUfYuETUyZCjDViASYkkWAu326waQq2IHBHGwvww"
+    },
+    {
+     "name": "DiDi",
+     "cat": "taxi",
+     "pkg": "com.didiglobal.passenger",
+     "note": "Fahrdienst und Taxi per App",
+     "src": "https://web.didiglobal.com/",
+     "countries": [
+      "AR",
+      "AU",
+      "BR",
+      "CL",
+      "CO",
+      "CR",
+      "DO",
+      "EC",
+      "EG",
+      "MX",
+      "NZ",
+      "PA",
+      "PE"
+     ],
+     "ios": 1362398401,
+     "ic": "w08P6Py2wtGkmuBbwQ6KDV6t9hqwy3nNI6SKrQg4wxT6j6vCY2evsDGzXk6q0KGeeTmX8ij9uoOxuH1YOIFtC7A"
+    },
+    {
+     "name": "Cabify",
+     "cat": "taxi",
+     "pkg": "com.cabify.rider",
+     "note": "Fahrdienst in Spanien und Lateinamerika",
+     "src": "https://cabify.com/en",
+     "countries": [
+      "AR",
+      "CL",
+      "CO",
+      "ES",
+      "PE",
+      "UY"
+     ],
+     "ios": 476087442,
+     "ic": "7F3WB7mlIU8sW_CA1VsrRZGm8WxfJ7CXVkfPOBYyCgafbjpuCMOdO3dNa-RsgCIvZccyucv7JqHcUd7Vxn5qYuA"
+    },
+    {
+     "name": "Freenow",
+     "cat": "taxi",
+     "pkg": "taxi.android.client",
+     "note": "Taxis und Fahrdienste per App",
+     "src": "https://www.free-now.com/",
+     "countries": [
+      "AT",
+      "DE",
+      "ES",
+      "FR",
+      "GB",
+      "GR",
+      "IE",
+      "IT",
+      "PL"
+     ],
+     "ic": "TOpD4SLwQ0l1LB8cku55ova-Nrmhk4_wa_QU_mgq7pBc_P9vSdG50OUFMcO8mEfX9e9weRpNLzTD64JwrllA"
     }
    ],
    "cities": []
@@ -824,6 +1363,26 @@
      "ios": 342898717,
      "pkg": "co.uk.ringgo.android",
      "ic": "LJC4irqC8bwEProd59BgU6lt0fyfgtASTTGwgZBwQJIK7VJb_8C4pXv1VwiS9NsRixhX7qYmcmSKMubN1lqw"
+    },
+    {
+     "name": "Donkey Republic",
+     "cat": "micro",
+     "pkg": "com.donkeyrepublic.bike.android",
+     "auto": "gbfs",
+     "src": "https://www.donkey.bike/cities/bike-rental-charlbury/",
+     "note": "Leihräder in Charlbury, Cheltenham Spa und 13 weiteren Orten",
+     "ios": 933526449,
+     "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.nextbike.co.uk/westcargo/",
+     "note": "Leihräder in Bristol",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -1001,6 +1560,14 @@
        "ios": 1669705230,
        "pkg": "com.tfgm.beenetwork",
        "ic": "QUJ3AWcYVJzr9BVUKVKqpO4ARHqxZVHyrKzllmSAvdcyQW-Mw0ZNqLHJ3C8fyzmIODZDIgq9BBZZTelZI1dW"
+      },
+      {
+       "name": "Starling Bikes",
+       "cat": "micro",
+       "pkg": "cc.beryl.GreaterManchester",
+       "auto": "gbfs",
+       "src": "https://beryl.cc/scheme/greater-manchester",
+       "note": "Leihräder und Lastenräder per App"
       }
      ],
      "ll": [
@@ -1307,6 +1874,140 @@
      "ios": 1395921017,
      "pkg": "io.voiapp.voi",
      "ic": "k6fHMrcF64dgHdYu8KSakwO3MZM6PMSUNws7z0kGFapNOt8v_mSe07xHeo4y0TYOtZ0VQgOgz8fvPaEq6itq2hY"
+    },
+    {
+     "name": "EasyPark",
+     "cat": "parking",
+     "pkg": "net.easypark.android",
+     "note": "Handyparken an der Straße in sehr vielen Städten",
+     "url": "https://www.easypark.com/de",
+     "req": "Konto mit Karte oder PayPal, deutsche Nummer passt",
+     "src": "https://www.easypark.com/de",
+     "ios": 449594317,
+     "ic": "oynrl-CPadmiUoAh4tWftopFVF6U5C9U39UWuo-8cHMBNY5z9vB7JGGyJZkxwMlbN6ypgBQhe9cU_gRmbAO2"
+    },
+    {
+     "name": "APCOA FLOW",
+     "cat": "parking",
+     "pkg": "com.apcoaflow.consumer",
+     "note": "Ticketlos ins Parkhaus per Kennzeichen, 300+ Häuser",
+     "url": "https://www.apcoa.de/en/apcoa-flow-app",
+     "req": "Kennzeichen und Zahlungsmittel hinterlegen",
+     "src": "https://www.apcoa.de/en/apcoa-flow-app"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.euregiobike.eu/de",
+     "note": "Leihräder und Lastenräder in Aachen, Achim und 41 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
+    },
+    {
+     "name": "Zeus Deutschland",
+     "cat": "micro",
+     "pkg": "com.zeus.app",
+     "auto": "gbfs",
+     "src": "https://zeusscooters.com/",
+     "note": "E-Scooter und E-Roller in Bamberg, Castrop Rauxel und 33 weiteren Orten"
+    },
+    {
+     "name": "Donkey Republic",
+     "cat": "micro",
+     "pkg": "com.donkeyrepublic.bike.android",
+     "auto": "gbfs",
+     "src": "https://www.donkey.bike",
+     "note": "Leihräder und Lastenräder in Augsburg, Bamberg und 13 weiteren Orten",
+     "ios": 933526449,
+     "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
+    },
+    {
+     "name": "Getaround",
+     "cat": "carshare",
+     "pkg": "com.c4mprod.voiturelib",
+     "auto": "gbfs",
+     "src": "https://getaround.com/car-rental/berlin",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Carsharing in Berlin, Essen und 6 weiteren Orten",
+     "ios": 492238016,
+     "ic": "2jZdKB1Gm4pLRJgM1lesGTzs0wGmwpHiDYSV_iUjgcokQtG3QyahwRZ7tC8pX6fM1AEu5XM6m0WwyEqjGooEcRw"
+    },
+    {
+     "name": "MOQO",
+     "cat": "micro",
+     "pkg": "de.moqo.work",
+     "auto": "gbfs",
+     "src": "https://www.einfach-unterwegs.eu/",
+     "note": "Leihräder und Lastenräder in Radolfzell, Ravensburg und 3 weiteren Orten"
+    },
+    {
+     "name": "Carsharing Deutschland",
+     "cat": "carshare",
+     "pkg": "de.cantamen.carsharing.deutschland",
+     "auto": "gbfs",
+     "src": "https://www.teilauto-biberach.de/",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Lastenräder und Carsharing in Biberach, Neckar-Alb und 4 weiteren Orten"
+    },
+    {
+     "name": "MV-Rad",
+     "cat": "micro",
+     "pkg": "net.nextbike.mvrad",
+     "auto": "gbfs",
+     "src": "https://stadtrad-greifswald.de/",
+     "note": "Leihräder und Lastenräder in Greifswald, Mecklenburg-Vorpommern und 2 weiteren Orten"
+    },
+    {
+     "name": "Yoio E-Scooter Sharing",
+     "cat": "micro",
+     "pkg": "yoio.app",
+     "auto": "gbfs",
+     "src": "https://yoio.app/",
+     "note": "Leihräder und E-Scooter in Erfurt, Freiburg im Breisgau und Göttingen"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "pkg": "co.bird.android",
+     "auto": "gbfs",
+     "src": "https://www.bird.co",
+     "note": "Leihräder und E-Roller in München und Ulm",
+     "ios": 1260842311,
+     "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
+    },
+    {
+     "name": "Ford Carsharing",
+     "cat": "carshare",
+     "pkg": "de.fordcarsharing.sharing.app",
+     "auto": "gbfs",
+     "src": "https://www.ford-carsharing.de/",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Carsharing in Donaueschingen"
+    },
+    {
+     "name": "Hopp",
+     "cat": "micro",
+     "pkg": "bike.hopp",
+     "auto": "gbfs",
+     "src": "https://hopp.bike/",
+     "note": "E-Scooter in Konstanz",
+     "ios": 1471324642,
+     "ic": "TyNTgScNoVkEtqr2SS7VNYMamDc9_o5DF-74BcvJpEOjcmN2CFSDJw-w646Gx204B6hQ18AS_HBzYdjYoG8o"
+    },
+    {
+     "name": "zeo Sharing",
+     "cat": "carshare",
+     "pkg": "coop.vianova.zeosharing",
+     "auto": "gbfs",
+     "src": "https://www.zeo-carsharing.de/",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Carsharing in Bruchsal"
     }
    ],
    "cities": [
@@ -1619,6 +2320,22 @@
        "src": "https://www.vvs.de/en/service/apps-services/vvs-mobil",
        "ios": 6464310701,
        "ic": "7OsZgI_XWT7A1wXuMYl-0h8ID31Y6csLZ54Nd3SBmkJ0atQa4-7FIPB9HcGH3u3LtaakA8p8XwP8rBH4ce2F6A"
+      },
+      {
+       "name": "RegioRadStuttgart",
+       "cat": "micro",
+       "pkg": "de.regiorad.stuttgart",
+       "auto": "gbfs",
+       "src": "https://www.regioradstuttgart.de/",
+       "note": "Leihräder per App"
+      },
+      {
+       "name": "stella sharing",
+       "cat": "micro",
+       "pkg": "de.stella.app",
+       "auto": "gbfs",
+       "src": "https://www.stella-sharing.de/",
+       "note": "Leihräder und E-Scooter per App"
       }
      ],
      "ll": [
@@ -1924,6 +2641,54 @@
      "ios": 453459323,
      "pkg": "at.asfinag.unterwegs",
      "ic": "Kktrpi7tOLbV-sP_UNQMsA7i4dM7y0civnDSJg4kvBLx_7dzo2-JVt-_F-b0bqRpXC7H0e1sNeecEzvPitT7FA"
+    },
+    {
+     "name": "ZIVA Zivilschutz Österreich",
+     "cat": "safety",
+     "pkg": "at.zivilschutz.digivorsorge",
+     "note": "Zivilschutz-App mit Vorsorge und Notfalltipps",
+     "url": "https://play.google.com/store/apps/details?id=at.zivilschutz.digivorsorge",
+     "src": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/online_services/aktuelle-apps"
+    },
+    {
+     "name": "GeoSphere Austria Wetterwarnungen",
+     "cat": "safety",
+     "note": "Amtliche Unwetterwarnungen je Bezirk",
+     "url": "https://warnungen.zamg.at/wsapp/",
+     "nostore": true,
+     "src": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/katastrophenfaelle/2/Seite.29500315"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.nextbike.at/niederoesterreich/",
+     "note": "Leihräder und Lastenräder in Dornbirn, Eisenstadt und 5 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
+    },
+    {
+     "name": "Getaround",
+     "cat": "carshare",
+     "pkg": "com.c4mprod.voiturelib",
+     "auto": "gbfs",
+     "src": "https://getaround.com/car-rental/graz",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Carsharing in Graz und Innsbruck",
+     "ios": 492238016,
+     "ic": "2jZdKB1Gm4pLRJgM1lesGTzs0wGmwpHiDYSV_iUjgcokQtG3QyahwRZ7tC8pX6fM1AEu5XM6m0WwyEqjGooEcRw"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "pkg": "co.bird.android",
+     "auto": "gbfs",
+     "src": "https://www.bird.co",
+     "note": "Leihräder und E-Roller in Wiener Neustadt",
+     "ios": 1260842311,
+     "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
     }
    ],
    "cities": [
@@ -2397,6 +3162,60 @@
      "ios": 1260842311,
      "pkg": "co.bird.android",
      "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
+    },
+    {
+     "name": "Donkey Republic",
+     "cat": "micro",
+     "pkg": "com.donkeyrepublic.bike.android",
+     "auto": "gbfs",
+     "src": "https://www.donkey.bike/cities/bike-rental-geneva/",
+     "note": "Leihräder und Lastenräder in Genf, Kreuzlingen und 5 weiteren Orten",
+     "ios": 933526449,
+     "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
+    },
+    {
+     "name": "Pick-e-Bike",
+     "cat": "micro",
+     "pkg": "ch.pickebike",
+     "auto": "gbfs",
+     "src": "https://www.pickebike.ch/de/",
+     "note": "Leihräder und E-Roller in Aubonne, Basel und Fribourg"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.mooinz.ch/",
+     "note": "Leihräder und Lastenräder in Chur",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
+    },
+    {
+     "name": "carvelo",
+     "cat": "micro",
+     "pkg": "ch.carvelo2go.app",
+     "auto": "gbfs",
+     "src": "https://www.carvelo.ch",
+     "note": "Leihräder und Lastenräder an vielen Orten im Land"
+    },
+    {
+     "name": "PubliBike Velospot",
+     "cat": "micro",
+     "pkg": "ch.publibike2.app",
+     "auto": "gbfs",
+     "src": "https://www.velospot.info/customer/public",
+     "note": "Leihräder und Lastenräder an vielen Orten im Land"
+    },
+    {
+     "name": "QuickRent",
+     "cat": "carshare",
+     "pkg": "com.zemtu.quickrent",
+     "auto": "gbfs",
+     "src": "https://www.quickrent.ch/",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Carsharing an vielen Orten im Land"
     }
    ],
    "cities": [
@@ -3007,6 +3826,64 @@
      "ios": 1083424977,
      "pkg": "com.mobime.ecooltra",
      "ic": "AGFwenjkwwgRC_Ie0RccGyAaNjc9l1J6KpCkDznq7r8WNQUWsr-V3V-QPhvdL_U7PjaekHznLDeh_iS9_-aE"
+    },
+    {
+     "name": "Getaround",
+     "cat": "carshare",
+     "pkg": "com.c4mprod.voiturelib",
+     "auto": "gbfs",
+     "src": "https://getaround.com/car-rental/alcobendas",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Carsharing in Alcobendas, Alicante und 23 weiteren Orten",
+     "ios": 492238016,
+     "ic": "2jZdKB1Gm4pLRJgM1lesGTzs0wGmwpHiDYSV_iUjgcokQtG3QyahwRZ7tC8pX6fM1AEu5XM6m0WwyEqjGooEcRw"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.nextbike.es/roquebike",
+     "note": "Leihräder in Almería, Artexio und 6 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "pkg": "co.bird.android",
+     "auto": "gbfs",
+     "src": "https://www.bird.co",
+     "note": "Leihräder und E-Roller in Adeje, Antigua und 5 weiteren Orten",
+     "ios": 1260842311,
+     "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
+    },
+    {
+     "name": "felyx",
+     "cat": "micro",
+     "pkg": "com.felyx.android",
+     "auto": "gbfs",
+     "src": "https://cooltra.com/",
+     "note": "Leihräder und E-Roller in Barcelona, Madrid und 2 weiteren Orten",
+     "ios": 1250107307,
+     "ic": "viKyiNcYmqazLsiG2q4ob8Z2TKuxCQ15ZtmOiVgDBcrzuyLjnKkV7szq-uCin4-fzucxxejTSie17ZsMuV2LrQ"
+    },
+    {
+     "name": "Ganxeta",
+     "cat": "micro",
+     "pkg": "cat.reusmobilitat.bikesharing",
+     "auto": "gbfs",
+     "src": "https://ganxeta.cat",
+     "note": "Leihräder in Reus"
+    },
+    {
+     "name": "Lovesharing bikes",
+     "cat": "micro",
+     "pkg": "net.nextbike.lovesharing",
+     "auto": "gbfs",
+     "src": "https://www.lovesharing.com/bikesharing/es/",
+     "note": "Leihräder in Canary Islands"
     }
    ],
    "cities": [
@@ -3081,6 +3958,24 @@
        "ios": 1640229273,
        "pkg": "com.holabarcelona",
        "ic": "MtXD9UNLR1tBMvPbtKHRfqimf3Bm7mLvGk1xd6VMlgxNzeFXuWd1AHtXc8WvcXAF4JC_XdupBKw7C26lGBLC3Y8"
+      },
+      {
+       "name": "Donkey Republic",
+       "cat": "micro",
+       "pkg": "com.donkeyrepublic.bike.android",
+       "auto": "gbfs",
+       "src": "https://www.donkey.bike/cities/bike-rental-barcelona/",
+       "note": "Leihräder per App",
+       "ios": 933526449,
+       "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
+      },
+      {
+       "name": "Ambici",
+       "cat": "micro",
+       "pkg": "net.nextbike.ambici",
+       "auto": "gbfs",
+       "src": "https://www.ambici.cat/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -3113,6 +4008,14 @@
        "src": "https://www.emta.com/news/the-barik-contactless-topping-up-your-card-by-an-app-on-your-smartphone/",
        "ios": 1519068742,
        "ic": "dNz21OMwpi4LEmF_o7QMhCtfAvdcDuu6Xn7xc_YXTYQcIDFg3048rJaI_G_KGsyWXe6WgIHclUZZVmD7fY64Ng"
+      },
+      {
+       "name": "Bizkaibizi",
+       "cat": "micro",
+       "pkg": "net.nextbike.bizkaibizi",
+       "auto": "gbfs",
+       "src": "https://www.bizkaibizi.eus/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -3185,6 +4088,14 @@
        "src": "https://sagulpa.com/portal-transparencia-documentos/245-pdf-condiciones-de-uso-de-lpa-park",
        "ios": 689988176,
        "ic": "Qkl4VIqgS99NjvAvgZUQSDuQ_wjOAhWw74URE0YA2_lJqxSMb9KEQoBXQpcDDkyxo-WEg-TDgmnaZI25WNsW"
+      },
+      {
+       "name": "MOXSI",
+       "cat": "micro",
+       "pkg": "de.nextbike.sitycleta",
+       "auto": "gbfs",
+       "src": "https://www.moxsi.es/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -3310,6 +4221,14 @@
        "req": "Virtuelle Karte nur mit physischer Tarjeta Única",
        "src": "https://www.tib.org/es/nuevaapp-tarjetavirtual",
        "ic": "O6_XjNWOUdlveOhcUDoDXT_Q1n0LCVB0A9eAgz6_7LingrNn5C8uecVX_-FunASDD3zDskqwEHvEGWPyJl1a"
+      },
+      {
+       "name": "Bicipalma",
+       "cat": "micro",
+       "pkg": "net.nextbike.bicipalma",
+       "auto": "gbfs",
+       "src": "https://www.bicipalma.com/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -3331,6 +4250,14 @@
        "note": "Busankunft, Linien und Routenplaner für Sevilla",
        "src": "https://www.tussam.es/en/descarga-app",
        "ic": "cCisq4dMo2pNuodkTH5OfzuDg-yLOVBamAQY5vfsum4-wOz2Vqq0YnyrHKARVJcU7Af7J52ZY8fp7mLCWYlW"
+      },
+      {
+       "name": "SEVICI",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.seville",
+       "auto": "gbfs",
+       "src": "https://www.sevici.es/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -3390,6 +4317,14 @@
        "src": "https://www.visitvalencia.com/en/plan-your-trip-to-valencia/getting-around/buses-in-valencia",
        "ios": 6702027108,
        "ic": "RSqk_Rh3ZnY_rMYzCXKc9c2ESkhSxkC9V6OxXpXQCH2RViKTs3TDewcLTsy91ua4Rw1Q7sGMgCYYOdN1tjJt"
+      },
+      {
+       "name": "VALENBISI",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.valence",
+       "auto": "gbfs",
+       "src": "https://www.valenbisi.es/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -3867,6 +4802,26 @@
      "ios": 1260842311,
      "pkg": "co.bird.android",
      "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
+    },
+    {
+     "name": "felyx",
+     "cat": "micro",
+     "pkg": "com.felyx.android",
+     "auto": "gbfs",
+     "src": "https://cooltra.com",
+     "note": "Leihräder und E-Roller in Mailand, Rom und Turin",
+     "ios": 1250107307,
+     "ic": "viKyiNcYmqazLsiG2q4ob8Z2TKuxCQ15ZtmOiVgDBcrzuyLjnKkV7szq-uCin4-fzucxxejTSie17ZsMuV2LrQ"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.nextbike.it/bergamo/",
+     "note": "Leihräder in Bergamo und Senigallia",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -4209,6 +5164,14 @@
        "src": "https://www.atv.verona.it/App_Ticketbus",
        "ios": 1504712303,
        "ic": "Z8O1rJc9fx0RYRmpkm-8zhRgLYArMuF7YKNkwAJMUbdHxDS7WbGKLQO4n7Pdn8rKUqGtBZpnj3XnKdP9eMMINA"
+      },
+      {
+       "name": "Verona Bike",
+       "cat": "micro",
+       "pkg": "com.urbansharing.citybike.verona",
+       "auto": "gbfs",
+       "src": "https://bikeverona.it/en",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -4475,6 +5438,33 @@
      "ios": 514921710,
      "pkg": "com.car2go",
      "ic": "1eG4jbzsBIIiPkwZ7x1i6Jqy_V8txU4OBmgN_bZcADxfi8ydWcq3KPZab0Q7wmoc9DO7EausOu0mgHFrQncBg3I"
+    },
+    {
+     "name": "MB WAY",
+     "cat": "payment",
+     "pkg": "pt.sibs.android.mbway",
+     "note": "Portugals Bezahl-App für Überweisungen und Läden",
+     "use": "no",
+     "req": "Nur mit portugiesischer Bankkarte",
+     "src": "https://pplware.sapo.pt/informacao/mb-way-ja-pode-usar-numeros-de-telemovel-estrangeiros/"
+    },
+    {
+     "name": "VisitPortugal",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal von Turismo de Portugal",
+     "url": "https://www.visitportugal.com",
+     "nostore": true,
+     "src": "https://www.visitportugal.com"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.tubabike.pt/",
+     "note": "Leihräder in Barcelos",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -4563,6 +5553,14 @@
        "ios": 909274823,
        "pkg": "pt.emel.epark",
        "ic": "ylEaTIZVlSgNqrJJRvwzgNFXNjGviN4uV8A5mUXY-j5bhHoSNdfNkUhkVHfZEUchaF9OpNI_Wimf4VOHDgi1Wg"
+      },
+      {
+       "name": "Lisboa Card",
+       "cat": "tourism",
+       "note": "Stadtpass mit Nahverkehr und freien Eintritten",
+       "url": "https://www.visitlisboa.com/en/p/lisboa-card",
+       "nostore": true,
+       "src": "https://shop.visitlisboa.com/collections/tourist-cards/products/lisboa-card"
       }
      ],
      "ll": [
@@ -4917,6 +5915,108 @@
      "ios": 1109398417,
      "pkg": "com.opngo.live",
      "ic": "eZR-DNkLNTGLHMGkmNbCG55onfnqAYFyPPpVrJ5lzME4XZ6-VGksS7fKk6izLpCl8gi1B4Rh-LtSLG5b2OJABw"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "pkg": "co.bird.android",
+     "auto": "gbfs",
+     "src": "https://www.bird.co",
+     "note": "Leihräder und E-Roller in Ajaccio, Blois und 16 weiteren Orten",
+     "ios": 1260842311,
+     "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
+    },
+    {
+     "name": "Pony",
+     "cat": "micro",
+     "pkg": "co.ponybikes.mercury",
+     "auto": "gbfs",
+     "src": "https://getapony.com/",
+     "note": "Leihräder und E-Scooter in Angers, Basque Country und 11 weiteren Orten"
+    },
+    {
+     "name": "Vélopartage par Green On",
+     "cat": "micro",
+     "pkg": "fr.greenon.app",
+     "auto": "gbfs",
+     "src": "https://www.mobility-parc.net/",
+     "note": "Leihräder in Albert, Arundy und 9 weiteren Orten"
+    },
+    {
+     "name": "YEGO Mobility",
+     "cat": "micro",
+     "pkg": "com.getyugo.app",
+     "auto": "gbfs",
+     "src": "https://www.rideyego.com/",
+     "note": "Leihräder und E-Roller in Bordeaux, Nice und 2 weiteren Orten"
+    },
+    {
+     "name": "Le Marcel à vélo",
+     "cat": "micro",
+     "pkg": "com.ecovelo.lemarcel",
+     "auto": "gbfs",
+     "src": "https://cyclovis.ecovelo.mobi",
+     "note": "Leihräder und E-Scooter in Soissons und Troyes"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.velo2.cergypontoise.fr/",
+     "note": "Leihräder und Lastenräder in Mulhouse",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
+    },
+    {
+     "name": "Vélo Modalis",
+     "cat": "micro",
+     "pkg": "io.birota.modalis",
+     "auto": "gbfs",
+     "src": "https://velomodalis.fr/fr/",
+     "note": "Leihräder in Angoulême und Saintes"
+    },
+    {
+     "name": "Vélopop'",
+     "cat": "micro",
+     "pkg": "com.choosit.velopop",
+     "auto": "gbfs",
+     "src": "https://velo-grandavignon.fr/fr/",
+     "note": "Leihräder in Avignon"
+    },
+    {
+     "name": "Donkey Republic",
+     "cat": "micro",
+     "pkg": "com.donkeyrepublic.bike.android",
+     "auto": "gbfs",
+     "src": "https://www.donkey.bike/cities/bike-rental-valenciennes/",
+     "note": "Leihräder in Valenciennes",
+     "ios": 933526449,
+     "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
+    },
+    {
+     "name": "alterVélo libre service",
+     "cat": "micro",
+     "pkg": "com.ecovelo.altervelo",
+     "auto": "gbfs",
+     "src": "https://altervelo.ecovelo.mobi",
+     "note": "Leihräder und E-Scooter in Saint-Pierre"
+    },
+    {
+     "name": "Auch velo'c",
+     "cat": "micro",
+     "pkg": "com.ecovelo.auchveloc",
+     "auto": "gbfs",
+     "src": "https://auchveloc.ecovelo.mobi/",
+     "note": "Leihräder und E-Scooter in Auch"
+    },
+    {
+     "name": "Calivélo",
+     "cat": "micro",
+     "pkg": "com.ecovelo.calivelo",
+     "auto": "gbfs",
+     "src": "https://calivelo.ecovelo.mobi",
+     "note": "Leihräder und E-Scooter in Libourne"
     }
    ],
    "cities": [
@@ -4985,6 +6085,14 @@
        "src": "https://tcl.fr/en/discover/tcl-applications",
        "pkg": "com.tcl.eticket",
        "ic": "yPbsnuqfu-IP2Z34uqV3JtTfWLSJbAISpPcGj3p88QzrSN4ri_N-ErQ63Gd6pR8y3UPdPeSWcavMGTBU6uLWhw"
+      },
+      {
+       "name": "Vélo'v officiel",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.lyon",
+       "auto": "gbfs",
+       "src": "https://velov.grandlyon.com/en/home",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -5006,6 +6114,14 @@
        "src": "https://www.rtm.fr/",
        "ios": 734548463,
        "ic": "5WwF2hVIEKyxCI5LJceelUG6vEX551sUDS0UQFZjgl5O7dua2MZWoYM3UDmW2t7AgN0i5fgqEAmURvb31TDfZ50"
+      },
+      {
+       "name": "levélo",
+       "cat": "micro",
+       "pkg": "io.birota.levelo",
+       "auto": "gbfs",
+       "src": "https://levelo.ampmetropole.fr",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -5047,6 +6163,14 @@
        "src": "https://naolib.fr/en/application-naolib-tram-bus",
        "ios": 502653639,
        "ic": "NXf-uLFHm8rELqSMDi3fkqVBLk7JzNb7rqBUL_kxFaWf_IHXQGotj9wFzjiGp1gllvih1BtgCuRv10ktVbmFyw"
+      },
+      {
+       "name": "Naolib vélo",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.nantes",
+       "auto": "gbfs",
+       "src": "https://velo.naolib.fr/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -5174,6 +6298,14 @@
        "note": "QR Tickets auch ohne Konto, Routen und Störungen",
        "src": "https://cts-strasbourg.eu/en/faq/mobile-application/",
        "ic": "rjmO5ltehnF9Y_XMWRArjBC1puyk7pIiwolNvrgbFLCDnbaBmAsdbZCyv4xy6uQajLPpRXRelOLxyN9j5MCzukU"
+      },
+      {
+       "name": "Vélhop libre-service",
+       "cat": "micro",
+       "pkg": "net.nextbike.velhop2",
+       "auto": "gbfs",
+       "src": "https://vls.velhop.strasbourg.eu/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -5194,6 +6326,14 @@
        "note": "Offizielle ÖPNV-App mit Tickets und Echtzeit",
        "src": "https://www.toulouse-tourisme.com/?p=4086",
        "ic": "ThcrnRWmZRp1ezofJOz6x84wCTpw9ECFmyQwR73BbItPAyi2coAgyhCP76oopbBu0P_4KaKRLLBCIdavvnnYpmI"
+      },
+      {
+       "name": "vélôToulouse officiel",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.toulouse",
+       "auto": "gbfs",
+       "src": "http://www.velo.toulouse.fr/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -5364,9 +6504,9 @@
     },
     {
      "name": "Yr",
-     "cat": "misc",
-     "note": "Wettervorhersage von NRK und Meteorologischem Institut",
-     "src": "https://apps.apple.com/au/app/yr-no/id490989206",
+     "cat": "safety",
+     "note": "Wetter von NRK und Meteorologischem Institut",
+     "src": "https://apps.apple.com/no/app/yr/id490989206",
      "ios": 490989206,
      "pkg": "no.nrk.yr",
      "ic": "0PTAFZ5D98MQwWJ8SBHxBezTXY_6hJauFG7VxYmH7ZyAPQkq9zKpcK2IEJ5rHRwGO17J7wftWWEzIyXEj4_NPuE"
@@ -5441,6 +6581,36 @@
      "ios": 1294326121,
      "pkg": "no.hyre.demand",
      "ic": "2Zc1qxWpgutKHzy-6Sr4PFeyES3qv_glP-hiWJz6Y4Y7Laa-VIOLCQlKsOBUu9qkHlRxvnTsZQgGr0MIPjspRw"
+    },
+    {
+     "name": "Varsom",
+     "cat": "safety",
+     "pkg": "no.nve.regobs4",
+     "note": "Lawinen, Hochwasser und Erdrutschwarnungen der NVE",
+     "url": "https://play.google.com/store/apps/details?id=no.nve.regobs4",
+     "src": "https://apps.apple.com/no/app/varsom/id1450501601",
+     "ios": 1450501601,
+     "ic": "YeewMpIuPKP-EFz8trPNfY2PNBcmaWY07gglH8FR2kYT2JbGW_GtPh8v_u0T3Eb20ABN5BZPGpcu0DE7UMXexw"
+    },
+    {
+     "name": "Getaround",
+     "cat": "carshare",
+     "pkg": "com.c4mprod.voiturelib",
+     "auto": "gbfs",
+     "src": "https://getaround.com/car-rental/alesund",
+     "use": "limited",
+     "req": "Registrierung mit Führerscheinprüfung in der App nötig",
+     "note": "Carsharing in Alesund, Alta und 32 weiteren Orten",
+     "ios": 492238016,
+     "ic": "2jZdKB1Gm4pLRJgM1lesGTzs0wGmwpHiDYSV_iUjgcokQtG3QyahwRZ7tC8pX6fM1AEu5XM6m0WwyEqjGooEcRw"
+    },
+    {
+     "name": "Bysykkel Lillestrom",
+     "cat": "micro",
+     "pkg": "com.jcdecaux.vls.lillestrom",
+     "auto": "gbfs",
+     "src": "https://www.bysykkel.org/",
+     "note": "Leihräder in Lillestrom"
     }
    ],
    "cities": [
@@ -5458,6 +6628,14 @@
        "ios": 740517682,
        "pkg": "no.skyss.planner",
        "ic": "0SAUaCdvIlVIN3n3PA4r46A42YMJtTR0JFXOsN67P6zZttgaXdCCSxa6ctxyx5dVNoTZkaODAjDR-OXP30c"
+      },
+      {
+       "name": "Bergen City Bike",
+       "cat": "micro",
+       "pkg": "com.urbansharing.citybike.bergen",
+       "auto": "gbfs",
+       "src": "https://bergenbysykkel.no/en",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -5582,6 +6760,14 @@
        "src": "https://atb.no/en/ticket/",
        "ios": 1502395251,
        "ic": "Q2eGaAH24vFqEBQIKOR8aZttL3dQALCBv-51FsNFqeXypG0jnBf3Tl58yNdxFImLqcVHkkWFjj-rgzX5e2IL"
+      },
+      {
+       "name": "Trondheim City Bike",
+       "cat": "micro",
+       "pkg": "no.urbaninfrastructure.bysykkel.trondheim",
+       "auto": "gbfs",
+       "src": "https://trondheimbysykkel.no/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -5949,6 +7135,24 @@
      "ios": 671759668,
      "pkg": "dk.gomore",
      "ic": "13-r1GKwHGl8FdP9-MVZvRUQcDCS37cM62Wr93LCa6676Qh3fWeSKbBHTnvRBGERFKKidFRnAe0H4q30H0Zhmc0"
+    },
+    {
+     "name": "Donkey Republic",
+     "cat": "micro",
+     "pkg": "com.donkeyrepublic.bike.android",
+     "auto": "gbfs",
+     "src": "https://www.donkey.bike/cities/bike-rental-bastad/",
+     "note": "Leihräder in Båstad, Malmö und 2 weiteren Orten",
+     "ios": 933526449,
+     "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
+    },
+    {
+     "name": "Lundahoj Official",
+     "cat": "micro",
+     "pkg": "com.jcdecaux.vls.lund",
+     "auto": "gbfs",
+     "src": "https://www.lundahoj.se/",
+     "note": "Leihräder in Lund"
     }
    ],
    "cities": [
@@ -5985,6 +7189,16 @@
        "src": "https://www.parkeringgoteborg.se/turistinformation/betalaparkering/",
        "ios": 1184264972,
        "ic": "Y4-PTl-IQBWhn5JBzrnCEUSO6aUB_oHkQCFPVN6VoeHvEamNt_H6no0CwlmEgmrYC72pKK3TbPH-gz9vrLu5gg"
+      },
+      {
+       "name": "nextbike",
+       "cat": "micro",
+       "pkg": "de.nextbike",
+       "auto": "gbfs",
+       "src": "https://gothenburg-cargo.nextbike.com/",
+       "note": "Leihräder und Lastenräder per App",
+       "ios": 504288371,
+       "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
       }
      ],
      "ll": [
@@ -6364,6 +7578,14 @@
      "ios": 1070267611,
      "pkg": "fi.twentyfourrent.app",
      "ic": "1nC-TV6CZ1BWEhMGUWc3DdkSa__g_cUTn7Fae1nGrKI437Qvp87NDCxoaZOa8u8Ht_KzUCT1s8itGPyfMbNdeA"
+    },
+    {
+     "name": "Joe Scooter",
+     "cat": "micro",
+     "pkg": "joe.app",
+     "auto": "gbfs",
+     "src": "https://www.joescooter.fi/",
+     "note": "E-Roller in Rauma"
     }
    ],
    "cities": [
@@ -6426,6 +7648,16 @@
        "ios": 933526449,
        "pkg": "com.donkeyrepublic.bike.android",
        "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
+      },
+      {
+       "name": "Bird",
+       "cat": "micro",
+       "pkg": "co.bird.android",
+       "auto": "gbfs",
+       "src": "https://www.bird.co",
+       "note": "Leihräder und E-Roller per App",
+       "ios": 1260842311,
+       "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
       }
      ],
      "ll": [
@@ -7208,6 +8440,16 @@
        "pkg": "com.flutter.rspassenger",
        "ic": "mEf5x89VE_O6DkTA9BPCoaoiAyQ_XCVZclnzmqYFhq6wpCRZDECfBarKn_K5crRGpu1TWJsasT65u2XTyPslkQ",
        "ios": 1584070455
+      },
+      {
+       "name": "nextbike",
+       "cat": "micro",
+       "pkg": "de.nextbike",
+       "auto": "gbfs",
+       "src": "https://www.nextbike.lv/",
+       "note": "Leihräder per App",
+       "ios": 504288371,
+       "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
       }
      ],
      "ll": [
@@ -7647,6 +8889,14 @@
        "src": "https://judu.lt/en/?p=71127",
        "ios": 1522014903,
        "ic": "ZkQeUI-MfQAC2YA56Rvo9u7I2W3AYwzpSL-GbYc-dxvnSsaSlybGEpZWt8ENYV814fdNCAMOaDo043EIyXeMoqM"
+      },
+      {
+       "name": "Cyclocity Vilnius",
+       "cat": "micro",
+       "pkg": "com.jcdecaux.vls.vilnius",
+       "auto": "gbfs",
+       "src": "https://www.cyclocity.lt/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -7993,6 +9243,14 @@
      "src": "https://www.q-park.nl/en-gb/app/",
      "ios": 1477955834,
      "ic": "xx99AhDBGFUFtta-S1PdIEfGnsr207KNB_2JufBX2S0uAJnTz-bCZbHRkY-UBlyoXWQHmJnRBBL6tseGLNLC"
+    },
+    {
+     "name": "KNMI",
+     "cat": "safety",
+     "pkg": "nl.knmi.weer",
+     "note": "Amtliche Wetterwarnungen des KNMI",
+     "url": "https://play.google.com/store/apps/details?id=nl.knmi.weer",
+     "src": "https://www.knmi.nl/app"
     }
    ],
    "cities": [
@@ -8369,6 +9627,24 @@
      "ios": 1167892993,
      "pkg": "com.kbc.mobile.android.phone.kbcbrussels",
      "ic": "tjHkOQtGCcUI39_X9OCQBbHG145v9cxI0I10LGZVuVDyrLJlrIEqshaqc9o88keqzoXU1l9OZSi23P0VGyWwt3w"
+    },
+    {
+     "name": "Li Bia Velo",
+     "cat": "micro",
+     "pkg": "com.jcdecaux.vls.namur",
+     "auto": "gbfs",
+     "src": "https://www.libiavelo.be/",
+     "note": "Leihräder in Namur"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://nextbike.be/vlaamserand/",
+     "note": "Leihräder in Brussels region",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -8387,6 +9663,16 @@
        "ios": 534476508,
        "pkg": "be.antwerpen.velo",
        "ic": "1wETRsU3XHV2UO15G8QP7-3X3pWI7-0CfrFfH4zTYhxd-Aoy-6Tx66sLC4CWPrvsclwesOm1sWke9_bC8S0H"
+      },
+      {
+       "name": "Bird",
+       "cat": "micro",
+       "pkg": "co.bird.android",
+       "auto": "gbfs",
+       "src": "https://www.bird.co",
+       "note": "Leihräder und E-Roller per App",
+       "ios": 1260842311,
+       "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
       }
      ],
      "ll": [
@@ -8782,6 +10068,22 @@
      "src": "https://visitluxembourg.com/plan-your-stay/visitluxembourg-app",
      "ios": 1575097952,
      "ic": "QQN8CasrJDpg2ig-F04J8efLXhjzxIEuTxKe0u0xJRJubIMbufK8tL2WxMzI6rIhuqSQ6UdrpQnCyWHQq_Eu"
+    },
+    {
+     "name": "LU-Alert",
+     "cat": "safety",
+     "pkg": "lu.etat.mi.goa.android",
+     "note": "Offizielle Warn-App des Staates Luxemburg",
+     "url": "https://play.google.com/store/apps/details?id=lu.etat.mi.goa.android",
+     "src": "https://lu-alert.lu/en/all-about-lu-alert/warning-channels/mobile-app.html"
+    },
+    {
+     "name": "MeteoLux",
+     "cat": "safety",
+     "pkg": "lu.ana.metapp",
+     "note": "Wetterdienst Luxemburg mit Warnungen, auch Deutsch",
+     "url": "https://play.google.com/store/apps/details?id=lu.ana.metapp",
+     "src": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2022/07-juillet/15-nouvelle-application-meteolux.html"
     }
    ],
    "cities": [
@@ -9085,6 +10387,68 @@
      "ios": 1440301673,
      "pkg": "com.ridedott.rider",
      "ic": "epTYGeHR8Wbwe03pzYgYlrL1j_60p5azhHd6EOMYAGbJcPuXK2Vg1O9mAA6bMn_gk-XwyefpsUfPPAWZKLt1Pg"
+    },
+    {
+     "name": "Skycash Parking",
+     "cat": "parking",
+     "pkg": "pl.mobiparking",
+     "note": "Parkzonen in über 170 polnischen Städten zahlen",
+     "url": "https://skycash.com/en/",
+     "use": "limited",
+     "req": "Polnische Nummer evtl. nötig, Karte oder Google Pay",
+     "src": "https://skycash.com/en/car-parking/Warsaw/"
+    },
+    {
+     "name": "AnyPark",
+     "cat": "parking",
+     "pkg": "com.quickode.pangopoland",
+     "note": "Parkgebühren in Krakau, Danzig, Warschau u. a.",
+     "req": "Laut Anbieter reicht eine EU Handynummer",
+     "src": "https://apps.apple.com/ch/app/anypark/id1248812926?l=fr-FR"
+    },
+    {
+     "name": "BLIK",
+     "cat": "payment",
+     "note": "Polens verbreitetstes Handy-Bezahlen, läuft in Bank-Apps",
+     "url": "https://blik.com/en/faq",
+     "nostore": true,
+     "use": "no",
+     "req": "Nur mit polnischer Bank-App oder Revolut",
+     "src": "https://blik.com/en/faq"
+    },
+    {
+     "name": "RSO Regionalny System Ostrzegania",
+     "cat": "safety",
+     "pkg": "mswia.rso",
+     "note": "Staatliche Warnmeldungen des Innenministeriums",
+     "url": "https://play.google.com/store/apps/details?id=mswia.rso",
+     "src": "https://www.gov.pl/web/kgpsp/regionalny-system-ostrzegania"
+    },
+    {
+     "name": "IMGW Meteo",
+     "cat": "safety",
+     "pkg": "pl.imgw.pogoda",
+     "note": "Wetter und Warnungen des polnischen Wetterdienstes",
+     "url": "https://play.google.com/store/apps/details?id=pl.imgw.pogoda",
+     "src": "https://www.appbrain.com/dev/IMGW+PIB/"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://chelmskirower.pl/",
+     "note": "Leihräder und Lastenräder in Chełmski, Konin und 5 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
+    },
+    {
+     "name": "Wrocławski Rower Miejski",
+     "cat": "micro",
+     "pkg": "com.nextbike.wroclaw",
+     "auto": "gbfs",
+     "src": "https://www.wroclawskirower.pl/",
+     "note": "Leihräder und Lastenräder in Wrocław"
     }
    ],
    "cities": [
@@ -9102,6 +10466,14 @@
        "ios": 1625883975,
        "pkg": "pl.assecods.innompa.systemfala",
        "ic": "_9PWP9MzyMXgLaqmjiNCHZozQXaj4ejjgWa7kiwNecNbVq_m25c-8muCpnlSmQeWwGoT-Jed374OZmJMY2gkww"
+      },
+      {
+       "name": "Mevo",
+       "cat": "micro",
+       "pkg": "com.urbansharing.citybike.gdansk",
+       "auto": "gbfs",
+       "src": "https://rowermevo.pl/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -9533,6 +10905,16 @@
        "ios": 1266042474,
        "pkg": "com.ZipAvis.rentcentric",
        "ic": "qUlKKyKJFbkW-I5fzVVJA5OhRfpgJnK9qKjn9mY0fNWgFAQXHbYX7O779jv9EP1Al3A0LekMO1mQwSYpG_mnRg"
+      },
+      {
+       "name": "Donkey Republic",
+       "cat": "micro",
+       "pkg": "com.donkeyrepublic.bike.android",
+       "auto": "gbfs",
+       "src": "https://www.donkey.bike/cities/bike-rental-reykjavik/",
+       "note": "Leihräder per App",
+       "ios": 933526449,
+       "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
       }
      ],
      "ll": [
@@ -9819,6 +11201,16 @@
      "ios": 592109880,
      "pkg": "net.fusio.meteireann",
      "ic": "q_JvTYzNu3zTw7lXX7c5tB_12jjVL0KwIiwLMLc7SL6Xct1yiLjsIQQ6wSkgGKamHc-6owbK0BgGCrZRT9GNfw"
+    },
+    {
+     "name": "Beryl Bikes",
+     "cat": "micro",
+     "pkg": "cc.beryl.basis",
+     "auto": "gbfs",
+     "src": "https://beryl.cc/",
+     "note": "Leihräder und Lastenräder in Belfast",
+     "ios": 1386768364,
+     "ic": "SXZ_-FrwICe4paTyE0yGyekFLW-rFh1nw8qH4Y7FV3eQnfmLNLyVKpcYFwOmUsVVmfQ_ooghfeQUaP1Jw-rI"
     }
    ],
    "cities": [
@@ -10143,6 +11535,42 @@
      "ios": 1199780189,
      "pkg": "com.limebike",
      "ic": "uKj4D4Lvw6fjCGDVAFom052hpaWmkBh42v-i7ZrArBXvfb9PjuvmDDXslf2d00__RQkzxf5y3_NfmSb4iCnu"
+    },
+    {
+     "name": "IRIS",
+     "cat": "payment",
+     "note": "Griechische Sofortzahlung per Handynummer in Bank-Apps",
+     "url": "https://www.dias.com.gr/en/",
+     "nostore": true,
+     "use": "no",
+     "req": "Nur mit Konto bei teilnehmender griechischer Bank",
+     "src": "https://greekreporter.com/2026/07/06/greece-iris-payments-system-expand-cross-border-transfers-europe/"
+    },
+    {
+     "name": "ΕΜΥ",
+     "cat": "safety",
+     "pkg": "gr.hnms.app.android",
+     "note": "Offizielle App des griechischen Wetterdienstes",
+     "url": "https://play.google.com/store/apps/details?id=gr.hnms.app.android",
+     "src": "https://www.odigostoupoliti.eu/efarmogi-tis-emy-gia-ton-kairo-se-kinita-tilefona-android-kai-iphone/"
+    },
+    {
+     "name": "mAiGreece",
+     "cat": "safety",
+     "pkg": "gr.gov.apps.maigreece",
+     "note": "Reiseassistent des Staates mit 112 Notrufknopf",
+     "url": "https://play.google.com/store/apps/details?id=gr.gov.apps.maigreece",
+     "src": "https://mintour.gov.gr/en/maigreece-en/"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.nextbike.gr/",
+     "note": "Leihräder in Alimos, Argyroupoli und 2 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -10499,6 +11927,17 @@
      "ios": 1523054442,
      "pkg": "com.mobileferryhopperapp",
      "ic": "TjzaYfKn8176qMRiijPbrgmmdGymsEPts7z1lxvLdNKcK6-DP3VLlfKzh-OOijTOmi-YJFoMCHK1N8avzAgj"
+    },
+    {
+     "name": "SIXT",
+     "cat": "carshare",
+     "pkg": "com.sixt.reservation",
+     "note": "Mietwagen per App buchen, Station am Flughafen Malta",
+     "url": "https://www.sixt.com/car-rental/malta/luqa/malta-luqa-airport/",
+     "req": "Mindestalter 21, Führerschein seit 1 Jahr, Kreditkarte",
+     "src": "https://www.sixt.com/car-rental/malta/luqa/malta-luqa-airport/",
+     "ios": 295079411,
+     "ic": "dirhuxbXhFds-2TQEw51a2M66bDwtP_DdshPFk8yjNHYIy_AJF5oN3pZkG4kgF08wW2qRpucdWZAHg5cL9Mqmw"
     }
    ],
    "cities": [
@@ -10825,6 +12264,40 @@
      "src": "https://www.fema.gov/about/news-multimedia/mobile-products",
      "ios": 474807486,
      "ic": "SpHNsTxIGUOZN2rghOEcJFCHc2vOFMI6GqiIp6zfSEvi-1sGRRPm0tTRDa9oGFgfPjW99VrpCTF2b_Ua2Yi8744"
+    },
+    {
+     "name": "Bird",
+     "cat": "micro",
+     "pkg": "co.bird.android",
+     "auto": "gbfs",
+     "src": "https://www.spin.pm",
+     "note": "Leihräder und E-Roller in Akron, Ann Arbor und 52 weiteren Orten",
+     "ios": 1260842311,
+     "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
+    },
+    {
+     "name": "Veo",
+     "cat": "micro",
+     "pkg": "com.pgt.veoride",
+     "auto": "gbfs",
+     "src": "https://www.veoride.com",
+     "note": "Leihräder und E-Roller in Asbury Park, Bend und 33 weiteren Orten"
+    },
+    {
+     "name": "BCycle",
+     "cat": "micro",
+     "pkg": "com.bcycle",
+     "auto": "gbfs",
+     "src": "https://aventura.bcycle.com",
+     "note": "Leihräder in Aventura, Bentonville und 24 weiteren Orten"
+    },
+    {
+     "name": "Hopp",
+     "cat": "micro",
+     "pkg": "ee.hopp.client",
+     "auto": "gbfs",
+     "src": "https://www.bolt.eu/",
+     "note": "Leihräder und E-Scooter in Austin und Washington"
     }
    ],
    "cities": [
@@ -11764,6 +13237,15 @@
        "src": "https://mexicocity.cdmx.gob.mx/e/getting-around/ecobici/",
        "ios": 1608397837,
        "ic": "cDmtd1h3hKU5MI9vedx2_FH2tAQ5lvkmiEQztCx1YkWDzZMM-OZ5ikioMoqIFFk_SeNhCBWkS_BPXkH2FOi1"
+      },
+      {
+       "name": "Mueve Ciudad",
+       "cat": "parking",
+       "pkg": "com.zion.mueveCiudad",
+       "note": "Parkuhren in Polanco, Roma und Condesa zahlen",
+       "use": "limited",
+       "req": "Konto und Karte nötig, nur in einzelnen Vierteln",
+       "src": "https://www.chilango.com/ciudad/apps-para-pagar-parquimetros/"
       }
      ],
      "ll": [
@@ -11903,7 +13385,11 @@
      "pkg": "au.popcar.classic.client101",
      "mine": true,
      "use": "no",
-     "req": "Laut Quelle eingestellt"
+     "req": "Laut Quelle eingestellt",
+     "note": "Carsharing, Buchung über das Webportal",
+     "url": "https://portal.popcar.com.au/login",
+     "src": "https://popcar.com.au/",
+     "nostore": true
     },
     {
      "name": "Uber Carshare",
@@ -13512,6 +14998,30 @@
      "src": "https://firstcarrental.co.za/mobile-apps",
      "ios": 1032640300,
      "ic": "ll_csIXD3VogMK4ofxMH-n74FKEJ15dw-Xv1XMM0XtIPy8h06w08hLalUf3zH8HsvoqmLulw_aawfZ92g33UXLQ"
+    },
+    {
+     "name": "SA Weather Service",
+     "cat": "safety",
+     "note": "Amtliche Vorhersagen und Unwetterwarnungen",
+     "url": "https://www.weathersa.co.za",
+     "nostore": true,
+     "src": "https://www.weathersa.co.za"
+    },
+    {
+     "name": "SANParks",
+     "cat": "tourism",
+     "pkg": "com.sanparks.sanparks",
+     "note": "Nationalparks Südafrikas, Infos und Buchung",
+     "url": "https://play.google.com/store/apps/details?id=com.sanparks.sanparks",
+     "src": "https://www.sanparks.org"
+    },
+    {
+     "name": "South African Tourism",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal Südafrikas, auch Deutsch",
+     "url": "https://www.southafrica.net",
+     "nostore": true,
+     "src": "https://www.southafrica.net"
     }
    ],
    "cities": [
@@ -13820,6 +15330,22 @@
      "use": "limited",
      "req": "Online nur Zahlung per M-Pesa, sonst bar am Bahnhof",
      "src": "https://techweez.com/2025/03/14/how-to-book-an-sgr-train-ticket-in-kenya-in-2025/"
+    },
+    {
+     "name": "Kenya Meteorological Department",
+     "cat": "safety",
+     "note": "Amtliche Wettervorhersagen und Hinweise Kenias",
+     "url": "https://meteo.go.ke",
+     "nostore": true,
+     "src": "https://meteo.go.ke/organization/about/"
+    },
+    {
+     "name": "Magical Kenya",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal des Kenya Tourism Board",
+     "url": "https://magicalkenya.com",
+     "nostore": true,
+     "src": "https://magicalkenya.com"
     }
    ],
    "cities": [
@@ -13836,6 +15362,18 @@
        "note": "Routenplaner für Matatus in Nairobi",
        "src": "https://www.bento.travel/kenya",
        "ic": "wH3dqfY21G_vZTJCK0JAlz5UilHYGn8sMtPryTi6UOOy9YNgV7Ct2ky7ex218Dx7rpykH3_t-CcSd2-hVu6gXw"
+      },
+      {
+       "name": "Bolt",
+       "cat": "micro",
+       "pkg": "ee.mtakso.client",
+       "note": "E-Scooter über die Bolt-App finden und entsperren",
+       "url": "https://bolt.eu/en-ke/scooters",
+       "use": "limited",
+       "req": "Verfügbarkeit in der App prüfen",
+       "src": "https://bolt.eu/en-ke/scooters",
+       "ios": 675033630,
+       "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM"
       }
      ],
      "ll": [
@@ -14455,6 +15993,14 @@
      "ios": 1487639988,
      "pkg": "com.greenmobility.app",
      "ic": "-UjzcVXiH2YfX0RwxxY_Hh3RZ0nMxeGSqQPcejkPFh1TMq0OmuG1U3KKx0poy-HXeO9Pk0n671bbIcCSezoLzU0"
+    },
+    {
+     "name": "DMI Vejr",
+     "cat": "safety",
+     "pkg": "dk.dmi.byvejret",
+     "note": "Wetter und Warnungen des dänischen Wetterdienstes",
+     "url": "https://play.google.com/store/apps/details?id=dk.dmi.byvejret",
+     "src": "https://www.appbrain.com/dev/Danmarks+Meteorologiske+Institut/"
     }
    ],
    "cities": [
@@ -14794,6 +16340,32 @@
      "src": "https://nextbike.hr/en",
      "ios": 504288371,
      "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
+    },
+    {
+     "name": "KEKS Pay",
+     "cat": "payment",
+     "pkg": "agency.sevenofnine.erstewallet.production",
+     "note": "Geld senden und zahlen, Karten jeder Bank hinterlegbar",
+     "use": "limited",
+     "req": "Ausländische Karte und Nummer nicht belegt",
+     "src": "https://microblink.com/resources/customer-stories/how-keks-pay-made-a-great-ux-even-better-with-blinkcard-credit-card-scanning/"
+    },
+    {
+     "name": "Aircash",
+     "cat": "payment",
+     "pkg": "com.aircash.aircash",
+     "note": "Kroatische E-Geld-Börse mit Prepaid-Karte und Bargeld-Abon",
+     "use": "limited",
+     "req": "Registrierung mit Online-Ausweisprüfung",
+     "src": "https://aircash.eu/terms-conditions-en/"
+    },
+    {
+     "name": "Explore Croatia",
+     "cat": "tourism",
+     "pkg": "co.mediatorium.explorecroatia",
+     "note": "Reise-App der Kroatischen Zentrale für Tourismus",
+     "url": "https://play.google.com/store/apps/details?id=co.mediatorium.explorecroatia",
+     "src": "https://croatia.hr"
     }
    ],
    "cities": [
@@ -15134,6 +16706,14 @@
      "src": "https://mobiljegy.nmzrt.hu/en",
      "ios": 1559886765,
      "ic": "g05jSG0BD5TJQ55tcaIgHxlgEq2osTjTlQXsJmyYwHpFQH8Z-jJ5yGkLrJTho7zM78-qz5hBKBWJa9nCfI8rgpo"
+    },
+    {
+     "name": "Visit Hungary",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal der Ungarischen Tourismusagentur",
+     "url": "https://visithungary.com",
+     "nostore": true,
+     "src": "https://visithungary.com/privacy-policy-application"
     }
    ],
    "cities": [
@@ -15235,6 +16815,24 @@
        "cat": "parking",
        "note": "Park-App auf Englisch für Budapest",
        "src": "https://budappest.com/budapest-parking-just-went-fully-digital-what-tourists-need-to-know/"
+      },
+      {
+       "name": "Budapest Card",
+       "cat": "tourism",
+       "note": "Stadtpass mit Nahverkehr und Rabatten",
+       "url": "https://bkk.hu/en/tickets-and-passes/budapest-card/",
+       "nostore": true,
+       "src": "https://bkk.hu/en/tickets-and-passes/budapest-card/"
+      },
+      {
+       "name": "Donkey Republic",
+       "cat": "micro",
+       "pkg": "com.donkeyrepublic.bike.android",
+       "auto": "gbfs",
+       "src": "https://www.donkey.bike/cities/bike-rental-budapest/",
+       "note": "Leihräder per App",
+       "ios": 933526449,
+       "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
       }
      ],
      "ll": [
@@ -15634,6 +17232,26 @@
        "note": "Offizieller Metroplaner, Tickets am Bahnhof",
        "src": "https://www.bento.travel/egypt",
        "ic": "oPV8JD1nsGjRjPzlaTL6e7wVVYdNs-B0LCVPB8z5dS8tbNdO6GDmTJGB8iFzBJdL3gOHoirOU6SgqiU7l2-L"
+      },
+      {
+       "name": "Rabbit Mobility",
+       "cat": "micro",
+       "pkg": "com.Rabbit.rabbitApp",
+       "note": "E-Scooter und E-Bikes in Kairo und Gizeh, auch Tagesmiete",
+       "use": "limited",
+       "req": "Ausländische Nummer und Karte nicht belegt",
+       "src": "https://www.mobilitycairo.com/en/explore/latest-news/network/green-line-3-and-rabbit-mobility-offer-integrated-journeys-their"
+      },
+      {
+       "name": "SIXT",
+       "cat": "carshare",
+       "pkg": "com.sixt.reservation",
+       "note": "Mietwagen per App, Schalter am Flughafen Kairo 24 h",
+       "url": "https://www.sixt.com/car-rental/egypt/cairo/cairo-airport",
+       "req": "Mindestalter 21, Kreditkarte",
+       "src": "https://www.sixt.com/car-rental/egypt/cairo/cairo-airport",
+       "ios": 295079411,
+       "ic": "dirhuxbXhFds-2TQEw51a2M66bDwtP_DdshPFk8yjNHYIy_AJF5oN3pZkG4kgF08wW2qRpucdWZAHg5cL9Mqmw"
       }
      ],
      "ll": [
@@ -15811,6 +17429,22 @@
      "src": "https://getrentacar.com/en-US/morocco?p=9",
      "ios": 1671831705,
      "ic": "-JzXPrlRlKICyDbsGftqbAbuTq1ewWY6JSEiyajBP1j-urpwbLG3Qu24TY3BzFLiKOlg6rv8_eoKp3yuN5pvMg"
+    },
+    {
+     "name": "Maroc Météo DGM",
+     "cat": "safety",
+     "note": "Amtlicher Wetterdienst mit Wetterwarnungen",
+     "url": "https://www.marocmeteo.ma",
+     "nostore": true,
+     "src": "https://www.marocmeteo.ma"
+    },
+    {
+     "name": "Visit Morocco",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal des Tourismusamts ONMT",
+     "url": "https://www.visitmorocco.com",
+     "nostore": true,
+     "src": "https://www.visitmorocco.com"
     }
    ],
    "cities": [
@@ -15837,6 +17471,13 @@
        "ios": 6505114588,
        "pkg": "com.allobikeclient.app.allobike_client",
        "ic": "BRkXTsWzWTrWLn2u1vgXkDQ-_htamt0qbKgTd-kT04UtErq7rf1RBJ6gGPyOD1nzYAXouzRhIWuY11GRQ3mn8w"
+      },
+      {
+       "name": "Casatramway",
+       "cat": "transit",
+       "pkg": "ma.ratpdev.casatramway",
+       "note": "Offizielle App für Tram und Busway, Fahrpläne und Aufladen",
+       "src": "https://telquel.ma/instant-t/2025/12/19/casablanca-mobilise-son-reseau-de-tramway-et-busway-pour-la-can-2025_1966309/"
       }
      ],
      "ll": [
@@ -15868,6 +17509,14 @@
        "src": "https://www.bento.travel/morocco",
        "ios": 1451492388,
        "ic": "sKs-ie_fs4ctGMKnmwYlC-boy0GqrGD2t7eiR9AXLPvXyJPbMcXemGxubvb_T43cutXPFNOta7rmFcJPsB3I"
+      },
+      {
+       "name": "Visit Marrakech & Region",
+       "cat": "tourism",
+       "pkg": "com.visitmarrakech.mobile.v3",
+       "note": "Reise-App des Tourismusrats Marrakesch-Safi",
+       "url": "https://play.google.com/store/apps/details?id=com.visitmarrakech.mobile.v3",
+       "src": "https://www.visitmarrakech.com"
       }
      ],
      "ll": [
@@ -16181,6 +17830,14 @@
      "ios": 1260842311,
      "pkg": "co.bird.android",
      "ic": "BOtQBWYUzyPBop1yt8lK2dRdM8A6yrorRkSvA28Y5WEOl8YcWzfPucD79VZsKwKaybStW6oi9ML7H2Hkh-E0-wc"
+    },
+    {
+     "name": "àVélo",
+     "cat": "micro",
+     "pkg": "com.publicbikesystem.avelo",
+     "auto": "gbfs",
+     "src": "https://aveloquebec.ca/",
+     "note": "Leihräder und E-Scooter in Ville de Québec"
     }
    ],
    "cities": [
@@ -17097,6 +18754,14 @@
      "ios": 1291449172,
      "pkg": "com.ranflatsa.mykeego",
      "ic": "9hb0cl3P8pq_LHfF3hzFnbaTxJqeorUvIskrKtuG--1jg7dGM6oSfJfAvD15oAYmnmOpQBT9O2jay2mll6d2EQ"
+    },
+    {
+     "name": "Argentina Travel",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal von INPROTUR",
+     "url": "https://www.argentina.travel",
+     "nostore": true,
+     "src": "https://www.argentina.travel"
     }
    ],
    "cities": [
@@ -17465,6 +19130,14 @@
      "pkg": "com.jetscooters",
      "ic": "agD1aLXYl-6v_n1rmnOWRP4Wwe8KQ2PedUvX-xvSe01twDcSQ6-yiMyr-DygzYnp67qdQFvHyPCzncwX_7G28A",
      "ios": 6747077366
+    },
+    {
+     "name": "INMET",
+     "cat": "safety",
+     "note": "Wetterdienst Brasiliens mit Unwetterwarnungen",
+     "url": "https://portal.inmet.gov.br",
+     "nostore": true,
+     "src": "https://portal.inmet.gov.br/noticias/aplicativo-inmet-de-previsão-do-tempo"
     }
    ],
    "cities": [
@@ -17653,6 +19326,32 @@
      "ll": [
       -23.5475,
       -46.6361
+     ]
+    },
+    {
+     "name": "São Paulo",
+     "match": [
+      "São Paulo"
+     ],
+     "apps": [
+      {
+       "name": "Estapar Zona Azul São Paulo",
+       "cat": "parking",
+       "pkg": "br.com.estapar.sp",
+       "note": "Offizielle App des Betreibers der Zona Azul",
+       "use": "limited",
+       "req": "Registrierung mit brasilianischen Daten (CPF) kann nötig sein",
+       "src": "https://itforum.com.br/?p=9559965"
+      },
+      {
+       "name": "Zul+ Zona Azul Digital",
+       "cat": "parking",
+       "pkg": "br.com.zuldigital",
+       "note": "Digitale Parkscheine für die Zona Azul kaufen",
+       "use": "limited",
+       "req": "Registrierung mit brasilianischen Daten (CPF) kann nötig sein",
+       "src": "https://www.vrum.com.br/aceleradas/2025/04/7121160-zona-azul-digital-veja-como-funciona-o-estacionamento-rotativo-de-sp.html"
+      }
      ]
     }
    ],
@@ -17901,6 +19600,14 @@
      "src": "https://chile.travel/app/",
      "ios": 1635199032,
      "ic": "mXlTjyWyE8CzmYnDPF7iaDtBJW6O58mTJaEO09ZTctg5ec3zaIBbTQd6pKh-7E2qkwGQ0thhXnC4kqpVTTgSbBA"
+    },
+    {
+     "name": "MeteoChile",
+     "cat": "safety",
+     "pkg": "cl.gob.dgac.dmc.app",
+     "note": "Wetterdienst Chiles mit Warnungen und Karten",
+     "url": "https://play.google.com/store/apps/details?id=cl.gob.dgac.dmc.app",
+     "src": "https://appgoblin.info/apps/cl.gob.dgac.dmc.app"
     }
    ],
    "cities": [
@@ -17941,6 +19648,15 @@
        "ios": 1270864475,
        "pkg": "pbsc.cyclefinder.tembici",
        "ic": "nuVkkbNR_b3FvfJixu1IaYJczJafeb06-vO60Es4GS0WfSZfIHGJBAKWx_1L5oNWRWkOl0prngo5Yw_NZlFqLg"
+      },
+      {
+       "name": "SimplePark",
+       "cat": "parking",
+       "pkg": "com.simplepark.simplepark",
+       "note": "Digitale Parkuhr, in Vitacura nur per App zahlbar",
+       "use": "limited",
+       "req": "Karte nötig, gilt nur in teilnehmenden Gemeinden",
+       "src": "https://www.emol.com/noticias/Economia/2026/10/22/1214595/simplepark-parquimetro-digital-empresa-chilena.html"
       }
      ],
      "ll": [
@@ -18221,6 +19937,14 @@
      "use": "no",
      "req": "Konto bei einer peruanischen Bank nötig",
      "src": "https://www.bbva.pe/blog/billetera-digital/es-seguro-usar-plin1.html"
+    },
+    {
+     "name": "Peru Travel",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal von PromPerú",
+     "url": "https://www.peru.travel",
+     "nostore": true,
+     "src": "https://www.peru.travel"
     }
    ],
    "cities": [
@@ -18788,6 +20512,14 @@
      "src": "https://www.cityhop.co.nz/international-travelers",
      "ios": 6469783022,
      "ic": "KRFX0q9Dm1L3jJPaznTwzMzhOkW7gNVITgIipUbZQZT9AouFX8j379q68VeIRY7RU48rae5b-D_rhHqJKrMx"
+    },
+    {
+     "name": "JOLT",
+     "cat": "micro",
+     "pkg": "co.nz.joltscooters.rider",
+     "auto": "gbfs",
+     "src": "https://joltscooters.co.nz",
+     "note": "E-Scooter in Hutt Valley, New Plymouth und Selwyn"
     }
    ],
    "cities": [
@@ -19692,6 +21424,14 @@
      "src": "https://www.amnesty.org/en/latest/news/2025/02/tunisia-authorities-step-up-crackdown-on-lgbti-individuals-with-wave-of-arrests/",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Discover Tunisia",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal des Tourismusamts ONTT",
+     "url": "https://www.discovertunisia.com",
+     "nostore": true,
+     "src": "https://www.discovertunisia.com"
     }
    ],
    "cities": [
@@ -21229,6 +22969,22 @@
      "note": "Fernbusportal mit zusätzlichen Abfahrten",
      "src": "https://www.bento.travel/colombia",
      "ic": "ZZla7apVVCuYmlcho2j0j6yglDdL3vCfTp9ajWgaZpL3K7Bjewed5n3ed4GX2_r4quDsOLZt7_mC0NRCAbdMIsw"
+    },
+    {
+     "name": "IDEAM En Tu Mano",
+     "cat": "safety",
+     "pkg": "co.gov.ideam.mobileweather",
+     "note": "Vorhersagen und Frühwarnungen des IDEAM",
+     "url": "https://play.google.com/store/apps/details?id=co.gov.ideam.mobileweather",
+     "src": "https://www.ideam.gov.co/sites/default/files/archivos/abc_ideam_en_tu_mano.pdf"
+    },
+    {
+     "name": "Colombia Travel",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal von ProColombia",
+     "url": "https://colombia.travel",
+     "nostore": true,
+     "src": "https://colombia.travel"
     }
    ],
    "cities": [
@@ -21260,6 +23016,23 @@
        "src": "https://bogota.gov.co/mi-ciudad/movilidad/transmiapp-se-renueva-para-mejores-viajes-en-transmilenio-bogota-2026",
        "ios": 1195720094,
        "ic": "U7rgNsal5Fvo5LFZF5Fv1GWF_at0medEyLtkz6sNoHlOp229_lKO3wdWwtatRbKT1MAdiZQyEHgHHlUKLLJL5w"
+      },
+      {
+       "name": "ZPP Bogotá",
+       "cat": "parking",
+       "pkg": "com.parqueadero.parqueaderos",
+       "note": "Offizielle App der städtischen Parkzonen",
+       "use": "limited",
+       "req": "Guthaben per PSE oder Karte, Vorauszahlung Pflicht",
+       "src": "https://bogota.gov.co/mi-ciudad/movilidad/cuales-son-los-canales-de-recaudo-de-las-zonas-de-parqueo-pago-bogota"
+      },
+      {
+       "name": "Visit Bogotá",
+       "cat": "tourism",
+       "pkg": "com.servinf.test.bogotadctravel",
+       "note": "Stadtführer des Tourismusinstituts Bogotá",
+       "url": "https://play.google.com/store/apps/details?id=com.servinf.test.bogotadctravel",
+       "src": "https://play.google.com/store/apps/details?id=com.servinf.test.bogotadctravel"
       }
      ],
      "ll": [
@@ -22791,6 +24564,40 @@
      "req": "SMS-fähige Nummer nötig, ausländische Nummern und Karten klappen nicht immer",
      "src": "https://www.docomo-cycle.jp/registration?lang=en",
      "ic": "ou3iGnvY2on64eChpDaxn2j_nnsLM-mjEJ2SodJeY3NkcL3DqTVcyq-l2dOvzPc79XHnKK06fhewde8qTm9C"
+    },
+    {
+     "name": "akippa",
+     "cat": "parking",
+     "pkg": "jp.co.galaxyagency.akippa",
+     "note": "Private Parkplätze im Voraus reservieren",
+     "use": "limited",
+     "req": "Nur Japanisch, Kreditkarte nötig",
+     "src": "https://www.kwiksure.com/blog/japan-parking-guide/"
+    },
+    {
+     "name": "Times Parkplatzsuche",
+     "cat": "parking",
+     "pkg": "jp.co.park24.timesapps",
+     "note": "Freie Times Parkplätze und Preise in der Nähe",
+     "url": "https://times-info.net/info/utilization_en.html",
+     "req": "Nur Japanisch, Zahlung am Automaten",
+     "src": "https://times-info.net/info/utilization_en.html"
+    },
+    {
+     "name": "CyclOcity Toyama",
+     "cat": "micro",
+     "pkg": "com.jcdecaux.vls.toyama",
+     "auto": "gbfs",
+     "src": "https://www.cyclocity.jp/",
+     "note": "Leihräder in Toyama"
+    },
+    {
+     "name": "HELLO CYCLING",
+     "cat": "micro",
+     "pkg": "jp.hellocycling.hellocycling",
+     "auto": "gbfs",
+     "src": "https://www.hellocycling.jp",
+     "note": "Leihräder an vielen Orten im Land"
     }
    ],
    "cities": [
@@ -23249,6 +25056,24 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Meteoroloji Hava Durumu",
+     "cat": "safety",
+     "pkg": "tr.gov.mgm.meteorolojihavadurumu",
+     "note": "Amtliche Wetter-App des türkischen Wetterdienstes",
+     "url": "https://play.google.com/store/apps/details?id=tr.gov.mgm.meteorolojihavadurumu",
+     "src": "https://www.mgm.gov.tr/gizlilik/mobil/gizlilikpolitikasi.aspx"
+    },
+    {
+     "name": "Afad Acil Çağrı",
+     "cat": "safety",
+     "pkg": "tr.gov.icisleri.afad",
+     "note": "Notruf per Knopf, Sammelplätze bei Katastrophen",
+     "url": "https://play.google.com/store/apps/details?id=tr.gov.icisleri.afad",
+     "use": "limited",
+     "req": "Registrierung mit Handynummer, Türkisch",
+     "src": "https://www.teknoblog.com/afad-acil-cagri-mobil-uygulamasi-hemen-indirin"
     }
    ],
    "cities": [
@@ -27129,6 +28954,25 @@
        "pkg": "com.jaklingkoindonesia.app",
        "ic": "NxmWgrTB3hiIHVDWzql4jQjfqep5zcrNKUquziDh6GtgtRw0nAq1v6SvPYi_u9OJ2nMoUaKFZnaGU_np2HUq5Tw",
        "ios": 1579262471
+      },
+      {
+       "name": "PARKEE",
+       "cat": "parking",
+       "pkg": "com.parkee",
+       "note": "Bargeldlos parken per QRIS in Jakarta",
+       "use": "limited",
+       "req": "Indonesisches E-Wallet oder Banking App nötig",
+       "src": "https://momsmoney.kontan.co.id/news/parkee-rilis-qris-tap-intap-out-bayar-parkir-cukup-tempel-hp"
+      },
+      {
+       "name": "Beam",
+       "cat": "micro",
+       "pkg": "com.escooterapp",
+       "note": "E-Scooter im Großraum Jakarta, Bandung und Malang",
+       "url": "https://www.ridebeam.com/id",
+       "src": "https://www.ridebeam.com/id",
+       "ios": 1115292629,
+       "ic": "rQ0fyJqvCPhQMNgk0PHwuq90cpE19jGH2eijPlkmDMa02VGlJnPBMCLHIvE1N1XmmABuJ2hShMugFeG-sYgkjA"
       }
      ],
      "ll": [
@@ -27504,6 +29348,15 @@
      "src": "https://apps.apple.com/us/app/id1459344011",
      "pkg": "com.co.swing",
      "ic": "yIXNymddPgqJbdCrD6IMjr51Y5N3PXxoRdMJha_ZKE3umomJaQVnn8hFI3msT-l-jH8XHxYxlrEFB0qN7EKY0g"
+    },
+    {
+     "name": "Modu Parking",
+     "cat": "parking",
+     "pkg": "com.parkingshare.mobile",
+     "note": "Beliebte App zum Finden und Buchen von Parkplätzen",
+     "use": "no",
+     "req": "Koreanische Handynummer und Sprache nötig",
+     "src": "https://www.koreaherald.com/article/1678253"
     }
    ],
    "cities": [
@@ -27605,6 +29458,14 @@
        "pkg": "com.travolution.discover",
        "ic": "1YNMvbnoNrg8543WWT-gO1GiaUPrLv1GS_vUBZ2MvyCassGR3PdlBPxn9bUHhWscAFzoIXGFjvPZGZFteaYrPWQ",
        "ios": 1131125136
+      },
+      {
+       "name": "Seoul Parking Info",
+       "cat": "parking",
+       "pkg": "kr.seoul.parkinginfo",
+       "note": "Offizielle Stadtapp: Parkplätze, Preise, freie Plätze",
+       "req": "Nur Infos, Zahlung vor Ort",
+       "src": "https://mediahub.seoul.go.kr/archives/2002575"
       }
      ],
      "ll": [
@@ -27923,6 +29784,15 @@
        "pkg": "th.btsc.theskytrains",
        "ic": "UoWwpUcnqPhCaMOOBdWesmZm5lGFA5LDWbJq8m8PzBUXx6PPoTHzi-4OgJVJIbowdhzeoVZPG46k_U12_n6g2Q",
        "ios": 6446191311
+      },
+      {
+       "name": "MRTA PARKING",
+       "cat": "parking",
+       "pkg": "com.mrta.mrtaparking",
+       "note": "Park and Ride an MRT Stationen finden und zahlen",
+       "use": "limited",
+       "req": "Thailändische Zahlungswege meist nötig",
+       "src": "https://bangkokpost.com/thailand/general/2785789/mrta-trials-free-smart-parking-system"
       }
      ],
      "ll": [
@@ -28188,6 +30058,14 @@
      "pkg": "com.bonboncar.vn",
      "ic": "tvStPYwfJGmsdeBTItiI-9Wvzip3fdqK7DhJCF_kQLfkV8mf2IharY-Jdj5y0z8z2PLIN02vEylHWjOfhPmnPA",
      "ios": 6473156414
+    },
+    {
+     "name": "NCHMF Vietnam",
+     "cat": "safety",
+     "note": "Nationale Wetter und Unwettervorhersage",
+     "url": "https://www.nchmf.gov.vn",
+     "nostore": true,
+     "src": "https://www.nchmf.gov.vn"
     }
    ],
    "cities": [
@@ -32964,6 +34842,14 @@
      "src": "https://www.bento.travel/china",
      "ic": "ajYQd904Hti-DzEnPX_0m1VfBpvqM2sGXM3Y3ErsKeoM150osHGkSUWJig1Az24Y7gWuDfkzQu08Hoc_JqT27Q",
      "ios": 341922306
+    },
+    {
+     "name": "中国天气 weather.com.cn",
+     "cat": "safety",
+     "note": "Wetterportal des chinesischen Wetteramts",
+     "url": "https://www.weather.com.cn",
+     "nostore": true,
+     "src": "https://www.weather.com.cn"
     }
    ],
    "cities": [
@@ -33043,6 +34929,14 @@
        "req": "NFC-fähiges Handy nötig",
        "src": "https://english.beijing.gov.cn/consuminginbeijing/news/202410/t20241016_3921355.html",
        "ios": 6502496756
+      },
+      {
+       "name": "Visit Beijing",
+       "cat": "tourism",
+       "note": "Reiseportal der Pekinger Tourismusbehörde",
+       "url": "https://www.visitbeijing.com.cn",
+       "nostore": true,
+       "src": "https://www.visitbeijing.com.cn"
       }
      ],
      "ll": [
@@ -33421,6 +35315,14 @@
      "src": "https://www.bento.travel/hong-kong",
      "ic": "WNx-jyUHFM9Rk2exaCPoZiv-0msNUOCbGIBYE3yd9dZaD_OanC-urxu76aHWe8hpLm9HMOEKEEHxtV9U8SVwjuQ",
      "ios": 1671480993
+    },
+    {
+     "name": "Discover Hong Kong",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal des Hong Kong Tourism Board",
+     "url": "https://www.discoverhongkong.com",
+     "nostore": true,
+     "src": "https://www.discoverhongkong.com"
     }
    ],
    "cities": [],
@@ -34190,6 +36092,15 @@
        "pkg": "com.moovrph.android",
        "ic": "FTQg7iWcUVeq13kwLyzFLiLwaSCAFdQMEl5DN5P9hhO-dijA9X_GWYA-07sS4u4J7Untn-vKgD8VyXb-iguN",
        "ios": 1532862305
+      },
+      {
+       "name": "luvpark",
+       "cat": "parking",
+       "pkg": "com.cmds.luvpark",
+       "note": "Parkplätze in Makati und Manila vorab reservieren",
+       "use": "limited",
+       "req": "Zahlung per GCash, Maya oder Karte je nach Ort",
+       "src": "https://mb.com.ph/2025/12/03/new-parking-app-luvpark-lets-you-pick-and-reserve-a-spot-in-advance"
       }
      ],
      "ll": [
@@ -37365,6 +39276,16 @@
      "src": "https://www.bento.travel/india",
      "ic": "IvNny9vCbQ_1AzFngnJGV0ZefOUxxXwt-IHpyQXClMMhCfEtJBvAKDbrez5lEnV9a436R8E59rLsQQQuoLZDsiA",
      "ios": 1186664744
+    },
+    {
+     "name": "Park+",
+     "cat": "parking",
+     "pkg": "com.ovunque.parkwheels",
+     "note": "Parkplätze finden und buchen, dazu FASTag",
+     "url": "https://parkplus.io/parking",
+     "use": "no",
+     "req": "Indische Handynummer für OTP nötig",
+     "src": "https://zeebiz.com/technology/apps/news-park-plus-fastag-recharge-offer-parking-lot-app-for-android-ios-car-owners-218316"
     }
    ],
    "cities": [
@@ -37840,7 +39761,26 @@
      "src": "https://www.bento.travel/apps/sri-lanka-railways"
     }
    ],
-   "cities": [],
+   "cities": [
+    {
+     "name": "Colombo",
+     "match": [
+      "Colombo"
+     ],
+     "apps": [
+      {
+       "name": "Sri Lanka Railways Sitzplatzreservierung",
+       "cat": "transit",
+       "note": "Offizielle Online-Reservierung für Züge, etwa nach Ella",
+       "url": "https://seatreservation.railway.gov.lk/",
+       "nostore": true,
+       "use": "limited",
+       "req": "Visa oder Mastercard, Ticket am Bahnhof abholen",
+       "src": "https://srilankahc.uk/wp-content/uploads/2025/10/Railway-Notice2_compressed.pdf"
+      }
+     ]
+    }
+   ],
    "note": "Bargeld mitführen, denn Guesthouses, Tuk-Tuks und Busse nehmen oft nur Cash; ETA nur über eta.gov.lk beantragen.",
    "src": "https://www.bento.travel/sri-lanka",
    "lgbtq_note": "Homosexuelle Handlungen sind für Männer und Frauen strafbar, Strafverfahren gegen Erwachsene gibt es in der Praxis aber kaum.",
@@ -38365,6 +40305,15 @@
        "pkg": "tw.com.fontrip.citypass.taipei.production",
        "ic": "5ybGQCEcdAE1c9ys79gcVxUsVhuuWPW6NIaFo345w-q-1nQwKe7goi3clxHwQTFHwbkyLYdANkhzz-wkis3czcM",
        "ios": 6479234920
+      },
+      {
+       "name": "Autopass (車麻吉)",
+       "cat": "parking",
+       "pkg": "com.pklotcorp.autopass",
+       "note": "Straßenparkgebühren per Kennzeichen zahlen",
+       "use": "limited",
+       "req": "SMS Bestätigung, taiwanische Nummer meist nötig",
+       "src": "https://www-ws.gov.taipei/001/Upload/371/relfile/18928/8057750/fc946f6a-b0b7-4c93-8cc4-63e111fba94a.pdf"
       }
      ],
      "ll": [
@@ -42543,6 +44492,14 @@
      "pkg": "com.grindrapp.android",
      "ios": 319881193,
      "ic": "YVkgJlX5rQcEY3umoiPIPKrBhDF_DxjhtirMk4-sBzGDUTVxg3qXlADIU_C8JcUtMXx1Jrg0hcwMj6IAEdmK"
+    },
+    {
+     "name": "Jordan Meteorological Department",
+     "cat": "safety",
+     "note": "Amtliche Vorhersagen und Warnungen Jordaniens",
+     "url": "https://jmd.gov.jo",
+     "nostore": true,
+     "src": "https://alertingauthority.wmo.int/authorities.php?recId=78"
     }
    ],
    "cities": [
@@ -46864,6 +48821,16 @@
      "cat": "carshare",
      "note": "Mietwagen per App, auch in Brașov und Sibiu",
      "src": "https://economedia.ro/?p=267251"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://www.albaiuliavelocity.ro/",
+     "note": "Leihräder in Alba Iulia, Buzau und 4 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -47208,6 +49175,24 @@
      "pkg": "net.easypark.android",
      "ios": 449594317,
      "ic": "oynrl-CPadmiUoAh4tWftopFVF6U5C9U39UWuo-8cHMBNY5z9vB7JGGyJZkxwMlbN6ypgBQhe9cU_gRmbAO2"
+    },
+    {
+     "name": "ARSO Vreme",
+     "cat": "safety",
+     "note": "Amtliche Wetterdaten und Warnungen Sloweniens",
+     "url": "https://meteo.arso.gov.si",
+     "nostore": true,
+     "src": "https://meteo.arso.gov.si"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://bikes.nomago.si/",
+     "note": "Leihräder in Gorizia, Ljubljana und 3 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -47609,6 +49594,16 @@
      "use": "limited",
      "req": "Ab 18, gültiger Führerschein, Halter kann mehr verlangen",
      "src": "https://getmancar.com/blogs/hoppygo-carsharin-in-czech-republic"
+    },
+    {
+     "name": "nextbike",
+     "cat": "micro",
+     "pkg": "de.nextbike",
+     "auto": "gbfs",
+     "src": "https://nextbikeslovakia.com",
+     "note": "Leihräder in Bratislava, Nitra und 2 weiteren Orten",
+     "ios": 504288371,
+     "ic": "WdSakFp5CJ4TxEcCfjZQuma1TiqqgFDOc8aMHW41hvocPnTyyaYGaJ0HM6TXJsqHTuJqsZguq3s-QpC_qlnd"
     }
    ],
    "cities": [
@@ -47711,6 +49706,14 @@
        "pkg": "sk.idzk",
        "ic": "Z-00pUJSdDxD9TFIjzgO0UjBn8bRmLJkTIWKT7ZbCvu53mm2fJR358Al5B4H3dj_4zwqcX-KYWlGZ65YqJMARA",
        "ios": 6740556748
+      },
+      {
+       "name": "BikeKIA",
+       "cat": "micro",
+       "pkg": "net.nextbike.arrivakia",
+       "auto": "gbfs",
+       "src": "https://bikekia.sk/",
+       "note": "Leihräder per App"
       }
      ],
      "ll": [
@@ -48176,6 +50179,14 @@
      "src": "https://madloba.info/en/blog/transport-in-georgia/guide-to-scooter-and-e-scooter-rentals-in-tbilisi-and-batumi-prices-tips-and-more",
      "pkg": "eco.scroll",
      "ic": "9dt3rVAeTy6nXsQdXlLbDEMQV0Dm-mElvTows19bn6hqlaU5lJb_VscqKb8wic5WKWcKLGHWebVQR10E-oml"
+    },
+    {
+     "name": "Georgia Travel",
+     "cat": "tourism",
+     "note": "Reiseportal der Nationalen Tourismusbehörde",
+     "url": "https://georgia.travel",
+     "nostore": true,
+     "src": "https://georgia.travel"
     }
    ],
    "cities": [
@@ -50011,6 +52022,14 @@
      "pkg": "com.revolut.revolut",
      "ios": 932493382,
      "ic": "LVmCH4DeBgO8Gyp69sApakf-KSy5Xf9ytV-NUmZnB2ZUKuIS0ee6cSACkalsLKuoQ1MorU7-0wW1xKZ6FUlS"
+    },
+    {
+     "name": "Visit Bulgaria",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal des Tourismusministeriums",
+     "url": "https://visitbulgaria.com",
+     "nostore": true,
+     "src": "https://visitbulgaria.com"
     }
    ],
    "cities": [
@@ -50137,6 +52156,14 @@
        "pkg": "ee.mtakso.client",
        "ios": 675033630,
        "ic": "iiEjUHqz2W3uHQ0wFchSGFYNMwBMazonXpq9e2j_P81Tbq32iJqsy1VzMmUhzfjnOrO4oTQLbD3ki7zXIOIihlM"
+      },
+      {
+       "name": "URBO City",
+       "cat": "parking",
+       "pkg": "com.urboapp.android.urbo",
+       "note": "Blaue und grüne Zone in Sofia per Karte zahlen",
+       "req": "Bankkarte hinterlegen",
+       "src": "https://apps.apple.com/bg/app/urbo/id1043568992"
       }
      ],
      "ll": [
@@ -50607,6 +52634,14 @@
      "pkg": "com.srbijavoz.app",
      "ic": "flC0dVuy7Tu6m5r82wKzhKKVlkugQYt4JyOxU43onarRdoX3Ie5RgpJ9jV_GGYSP-eX4bZ-jTnivu1u-7YKF",
      "ios": 1600735042
+    },
+    {
+     "name": "RHMZ Srbije",
+     "cat": "safety",
+     "note": "Amtlicher Wetterdienst Serbiens mit Warnungen",
+     "url": "https://www.hidmet.gov.rs",
+     "nostore": true,
+     "src": "https://www.hidmet.gov.rs"
     }
    ],
    "cities": [
@@ -51866,6 +53901,14 @@
        "src": "https://guide.kyivcity.gov.ua/en/public-transport",
        "ic": "4WSVKqL7LXzpkIQY_S5u91WomRwjpSkhf8IIiu9k6wI103xK8zDpQMVfivEVwHyfXbPW72Rc3MafM0P3_hdM",
        "ios": 1534007479
+      },
+      {
+       "name": "Zelectra",
+       "cat": "micro",
+       "pkg": "zelectra.app",
+       "auto": "gbfs",
+       "src": "https://3electra.com.ua/",
+       "note": "Leihräder und E-Scooter per App"
       }
      ],
      "ll": [
@@ -52748,6 +54791,14 @@
      "src": "https://vivacy.taxi/",
      "ic": "2MjpmCFpo-kzTfNiNJno9O41yUaY0emylkzyb1gGOdGp_8f9pinanXEpylwUihs5N8960VPwmT4VScJDvGR5A78",
      "ios": 6751193104
+    },
+    {
+     "name": "Visit Cyprus",
+     "cat": "tourism",
+     "note": "Offizielles Reiseportal des Tourismusministeriums",
+     "url": "https://www.visitcyprus.com",
+     "nostore": true,
+     "src": "https://www.visitcyprus.com"
     }
    ],
    "cities": [
@@ -57103,6 +59154,16 @@
      "pkg": "com.aa_app.ui",
      "ios": 582341229,
      "ic": "nYce2uG-doYBO6b7-BlpVOHikR36EnWT-MowRokWs_e6vI927UsZJnSASuzIMA0FAI0KSnCjDT7pUm0-zubwyA"
+    },
+    {
+     "name": "Donkey Republic",
+     "cat": "micro",
+     "pkg": "com.donkeyrepublic.bike.android",
+     "auto": "gbfs",
+     "src": "https://www.donkey.bike/cities/",
+     "note": "Leihräder an vielen Orten im Land",
+     "ios": 933526449,
+     "ic": "dwn3PJGhlsA250mOACGJwC5RPDyR8DtvPI_1O6DUIFCLI2ib0oX0Jk5FHthXQA69VsC2xwTZvvjUPxcZVtZB1SY"
     }
    ],
    "cities": [
@@ -72283,5 +74344,6 @@
    "lc": "Tallinn"
   }
  ],
- "prides_src": "Webseiten der Veranstalter"
+ "prides_src": "Webseiten der Veranstalter",
+ "gbfs_src": "Leihräder, E-Scooter und Carsharing teils aus GBFS-Daten von MobilityData (CC BY 3.0)"
 }

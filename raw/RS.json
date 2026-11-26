@@ -189,6 +189,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/id1567012481"
+  },
+  {
+   "name": "RHMZ Srbije",
+   "cat": "safety",
+   "note": "Amtlicher Wetterdienst Serbiens mit Warnungen",
+   "use": "ok",
+   "url": "https://www.hidmet.gov.rs",
+   "nostore": true,
+   "src": "https://www.hidmet.gov.rs"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, aber verbreitete Ablehnung und vereinzelt Übergriffe, zur Pride unauffällig anreisen.",

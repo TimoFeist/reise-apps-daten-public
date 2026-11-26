@@ -207,6 +207,34 @@
    "req": "",
    "src": "https://site.rhodes.gr/bus-routes/",
    "url": "https://site.rhodes.gr/bus-routes/"
+  },
+  {
+   "name": "IRIS",
+   "cat": "payment",
+   "note": "Griechische Sofortzahlung per Handynummer in Bank-Apps",
+   "use": "no",
+   "req": "Nur mit Konto bei teilnehmender griechischer Bank",
+   "url": "https://www.dias.com.gr/en/",
+   "nostore": true,
+   "src": "https://greekreporter.com/2026/07/06/greece-iris-payments-system-expand-cross-border-transfers-europe/"
+  },
+  {
+   "name": "ΕΜΥ",
+   "cat": "safety",
+   "pkg": "gr.hnms.app.android",
+   "note": "Offizielle App des griechischen Wetterdienstes",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=gr.hnms.app.android",
+   "src": "https://www.odigostoupoliti.eu/efarmogi-tis-emy-gia-ton-kairo-se-kinita-tilefona-android-kai-iphone/"
+  },
+  {
+   "name": "mAiGreece",
+   "cat": "safety",
+   "pkg": "gr.gov.apps.maigreece",
+   "note": "Reiseassistent des Staates mit 112 Notrufknopf",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=gr.gov.apps.maigreece",
+   "src": "https://mintour.gov.gr/en/maigreece-en/"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen bekannt, die Akzeptanz ist vor allem in den Großstädten gut.",

@@ -1,29 +1,301 @@
-{"src": "https://www.bento.travel/hong-kong", "fetched": "2026-11-18", "updated": "Last updated: August 2026", "note": "Deutsche brauchen bis 90 Tage kein Visum. Für Android-Nutzer ist eine physische Octopus-Karte für Bus und Bahn am einfachsten.", "lgbtq_note": "Gleichgeschlechtliche Partnerschaften werden nicht anerkannt, ein Gesetz zu ihrer Registrierung lehnte das Parlament im September 2025 ab.", "lgbtq_src": "https://www.ilgaasia.org/publications/hksep2025", "discontinued": [
-{"name": "HKTaxi", "pkg": "", "src": "https://www.bento.travel/hong-kong/ride-hailing"}
-], "apps": [
-{"name": "Go Hong Kong", "cat": "entry", "pkg": "hk.gov.immd.gohk", "ess": false, "note": "Offizielle Vorab-Registrierung für das e-Channel", "city": "", "use": "limited", "req": "e-Channel für Deutsche erst nach Anmeldung vor Ort, ab 18", "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"},
-{"name": "Hong Kong Immigration Department", "cat": "entry", "pkg": "hk.gov.immd.mobileapps", "ess": false, "note": "Offizielle Infos der Einwanderungsbehörde", "city": "", "use": "ok", "req": "", "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"},
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Englischsprachig, vermittelt auch lizenzierte Taxis", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "FlyTaxi", "cat": "taxi", "pkg": "com.flytaxi.hktaxi", "ess": false, "note": "Lokale App für lizenzierte Taxis, Bargeld als Reserve", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "Keeta", "cat": "delivery", "pkg": "com.sankuai.sailor.afooddelivery", "ess": true, "note": "Große Lieferplattform mit englischer Oberfläche", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "foodpanda", "cat": "delivery", "pkg": "com.global.foodpanda.android", "ess": false, "note": "Zweiter großer Lieferdienst, Zahlung per Kreditkarte", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "OpenRice", "cat": "delivery", "pkg": "com.openrice.android", "ess": false, "note": "Restaurantführer mit Bewertungen und Reservierung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "Octopus for Tourists", "cat": "payment", "pkg": "", "ess": false, "note": "Octopus auf iPhone oder Apple Watch, Aufladen per Karte", "city": "", "use": "limited", "req": "Nur iPhone, Apple Watch oder Huawei, ausländische Visa oder Mastercard", "src": "https://www.octopus.com.hk/en/consumer/tourist/apple-pay/index.html"},
-{"name": "Octopus", "cat": "payment", "pkg": "com.octopuscards.nfc_reader", "ess": false, "note": "Guthaben der Octopus-Karte prüfen und Mobile Octopus", "city": "", "use": "limited", "req": "Mobile Octopus auf Android nur mit in Hongkong verkauftem Gerät", "src": "https://www.octopus.com.hk/en/consumer/customer-service/faq/android-octopus/about.html"},
-{"name": "AlipayHK", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitete QR-Bezahl-App in Hongkong", "city": "", "use": "no", "req": "Hongkonger Telefonnummer nötig", "src": "https://blog.moneysmart.hk/en/digital-wallets/how-to-use-alipayhk-hong-kong-expat-guide/"},
-{"name": "PayMe", "cat": "payment", "pkg": "", "ess": false, "note": "Bezahl- und Überweisungs-App von HSBC", "city": "", "use": "no", "req": "Hongkonger Ausweis für Kernfunktionen nötig", "src": "https://www.timeout.com/hong-kong/news/payme-is-introducing-new-identity-verification-rules-starting-in-may-042026"},
-{"name": "Citymapper", "cat": "maps", "pkg": "com.citymapper.app.release", "ess": true, "note": "Bester Routenplaner für MTR, Bus, Tram und Fähre", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "MyMapHK", "cat": "maps", "pkg": "gis.android.map", "ess": false, "note": "Amtliche Karte mit Wanderwegen und Behörden", "city": "", "use": "ok", "req": "", "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"},
-{"name": "MTR Mobile", "cat": "transit", "pkg": "com.mtr.mtrmobile", "ess": false, "note": "Offizielle MTR-App mit Fahrpreisen und Umstiegen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "HKeMobility", "cat": "transit", "pkg": "com.hketransport", "ess": false, "note": "Offizieller Verkehrsplaner der Transportbehörde", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "App1933", "cat": "transit", "pkg": "com.kmb.app1933", "ess": false, "note": "KMB-Busse mit Ankunftszeiten und Tagespass", "city": "", "use": "ok", "req": "", "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"},
-{"name": "Citybus", "cat": "transit", "pkg": "com.nwfb", "ess": false, "note": "Offizielle App für Citybus-Linien und Ankunftszeiten", "city": "", "use": "ok", "req": "", "src": "https://play.google.com/store/apps/details?id=com.nwfb"},
-{"name": "Hong Kong Tramways", "cat": "transit", "pkg": "com.hktramways.client", "ess": false, "note": "Offizielle Tram-App mit Echtzeit-Ankünften", "city": "", "use": "ok", "req": "", "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"},
-{"name": "HelloRide", "cat": "micro", "pkg": "", "ess": false, "note": "Stationslose Leihräder", "city": "", "use": "limited", "req": "Anmeldung per SMS, ausländische Nummer nicht bestätigt", "src": "https://news.spill.org/en/article/2-bike-sharing-apps-vie-for-hong-kong-riders-amid-industrys-roller-coaster-development-381"},
-{"name": "Locobike", "cat": "micro", "pkg": "", "ess": false, "note": "Leihräder mit Karte und Ausflugstipps", "city": "", "use": "limited", "req": "Anmeldung per SMS, ausländische Nummer nicht bestätigt", "src": "https://news.spill.org/en/article/2-bike-sharing-apps-vie-for-hong-kong-riders-amid-industrys-roller-coaster-development-381"},
-{"name": "HKeMeter", "cat": "parking", "pkg": "", "ess": false, "note": "Parkzeit an Parkuhren aus der Ferne verlängern", "city": "", "use": "limited", "req": "Erstzahlung vor Ort mit Octopus nötig", "src": "https://www.octopus.com.hk/en/consumer/mobile-payment/driver/hkemeter/index.html"},
-{"name": "My HKG", "cat": "flights", "pkg": "com.hongkongairport.app.myflight", "ess": false, "note": "Flughafen-App mit Fluginfos und Innenkarten", "city": "", "use": "ok", "req": "", "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"},
-{"name": "Hotels & Pensionen in Hongkong", "cat": "hotels", "pkg": "com.had.guesthouse", "ess": false, "note": "Lizenzierte Hotels und Pensionen prüfen", "city": "", "use": "ok", "req": "", "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"},
-{"name": "MyObservatory", "cat": "safety", "pkg": "hko.MyObservatory_v1_0", "ess": true, "note": "Offizielle Wetter-App mit Taifun- und Regenwarnungen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"},
-{"name": "HKSOS", "cat": "safety", "pkg": "com.sosapp.user", "ess": false, "note": "Notruf-App für Wanderungen, sendet den Standort", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hong-kong"}
-]}
+{
+ "src": "https://www.bento.travel/hong-kong",
+ "fetched": "2026-11-18",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche brauchen bis 90 Tage kein Visum. Für Android-Nutzer ist eine physische Octopus-Karte für Bus und Bahn am einfachsten.",
+ "lgbtq_note": "Gleichgeschlechtliche Partnerschaften werden nicht anerkannt, ein Gesetz zu ihrer Registrierung lehnte das Parlament im September 2025 ab.",
+ "lgbtq_src": "https://www.ilgaasia.org/publications/hksep2025",
+ "discontinued": [
+  {
+   "name": "HKTaxi",
+   "pkg": "",
+   "src": "https://www.bento.travel/hong-kong/ride-hailing"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Go Hong Kong",
+   "cat": "entry",
+   "pkg": "hk.gov.immd.gohk",
+   "ess": false,
+   "note": "Offizielle Vorab-Registrierung für das e-Channel",
+   "city": "",
+   "use": "limited",
+   "req": "e-Channel für Deutsche erst nach Anmeldung vor Ort, ab 18",
+   "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+  },
+  {
+   "name": "Hong Kong Immigration Department",
+   "cat": "entry",
+   "pkg": "hk.gov.immd.mobileapps",
+   "ess": false,
+   "note": "Offizielle Infos der Einwanderungsbehörde",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Englischsprachig, vermittelt auch lizenzierte Taxis",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "FlyTaxi",
+   "cat": "taxi",
+   "pkg": "com.flytaxi.hktaxi",
+   "ess": false,
+   "note": "Lokale App für lizenzierte Taxis, Bargeld als Reserve",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "Keeta",
+   "cat": "delivery",
+   "pkg": "com.sankuai.sailor.afooddelivery",
+   "ess": true,
+   "note": "Große Lieferplattform mit englischer Oberfläche",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "foodpanda",
+   "cat": "delivery",
+   "pkg": "com.global.foodpanda.android",
+   "ess": false,
+   "note": "Zweiter großer Lieferdienst, Zahlung per Kreditkarte",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "OpenRice",
+   "cat": "delivery",
+   "pkg": "com.openrice.android",
+   "ess": false,
+   "note": "Restaurantführer mit Bewertungen und Reservierung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "Octopus for Tourists",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Octopus auf iPhone oder Apple Watch, Aufladen per Karte",
+   "city": "",
+   "use": "limited",
+   "req": "Nur iPhone, Apple Watch oder Huawei, ausländische Visa oder Mastercard",
+   "src": "https://www.octopus.com.hk/en/consumer/tourist/apple-pay/index.html"
+  },
+  {
+   "name": "Octopus",
+   "cat": "payment",
+   "pkg": "com.octopuscards.nfc_reader",
+   "ess": false,
+   "note": "Guthaben der Octopus-Karte prüfen und Mobile Octopus",
+   "city": "",
+   "use": "limited",
+   "req": "Mobile Octopus auf Android nur mit in Hongkong verkauftem Gerät",
+   "src": "https://www.octopus.com.hk/en/consumer/customer-service/faq/android-octopus/about.html"
+  },
+  {
+   "name": "AlipayHK",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete QR-Bezahl-App in Hongkong",
+   "city": "",
+   "use": "no",
+   "req": "Hongkonger Telefonnummer nötig",
+   "src": "https://blog.moneysmart.hk/en/digital-wallets/how-to-use-alipayhk-hong-kong-expat-guide/"
+  },
+  {
+   "name": "PayMe",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Bezahl- und Überweisungs-App von HSBC",
+   "city": "",
+   "use": "no",
+   "req": "Hongkonger Ausweis für Kernfunktionen nötig",
+   "src": "https://www.timeout.com/hong-kong/news/payme-is-introducing-new-identity-verification-rules-starting-in-may-042026"
+  },
+  {
+   "name": "Citymapper",
+   "cat": "maps",
+   "pkg": "com.citymapper.app.release",
+   "ess": true,
+   "note": "Bester Routenplaner für MTR, Bus, Tram und Fähre",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "MyMapHK",
+   "cat": "maps",
+   "pkg": "gis.android.map",
+   "ess": false,
+   "note": "Amtliche Karte mit Wanderwegen und Behörden",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+  },
+  {
+   "name": "MTR Mobile",
+   "cat": "transit",
+   "pkg": "com.mtr.mtrmobile",
+   "ess": false,
+   "note": "Offizielle MTR-App mit Fahrpreisen und Umstiegen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "HKeMobility",
+   "cat": "transit",
+   "pkg": "com.hketransport",
+   "ess": false,
+   "note": "Offizieller Verkehrsplaner der Transportbehörde",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "App1933",
+   "cat": "transit",
+   "pkg": "com.kmb.app1933",
+   "ess": false,
+   "note": "KMB-Busse mit Ankunftszeiten und Tagespass",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+  },
+  {
+   "name": "Citybus",
+   "cat": "transit",
+   "pkg": "com.nwfb",
+   "ess": false,
+   "note": "Offizielle App für Citybus-Linien und Ankunftszeiten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://play.google.com/store/apps/details?id=com.nwfb"
+  },
+  {
+   "name": "Hong Kong Tramways",
+   "cat": "transit",
+   "pkg": "com.hktramways.client",
+   "ess": false,
+   "note": "Offizielle Tram-App mit Echtzeit-Ankünften",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+  },
+  {
+   "name": "HelloRide",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Stationslose Leihräder",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung per SMS, ausländische Nummer nicht bestätigt",
+   "src": "https://news.spill.org/en/article/2-bike-sharing-apps-vie-for-hong-kong-riders-amid-industrys-roller-coaster-development-381"
+  },
+  {
+   "name": "Locobike",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leihräder mit Karte und Ausflugstipps",
+   "city": "",
+   "use": "limited",
+   "req": "Anmeldung per SMS, ausländische Nummer nicht bestätigt",
+   "src": "https://news.spill.org/en/article/2-bike-sharing-apps-vie-for-hong-kong-riders-amid-industrys-roller-coaster-development-381"
+  },
+  {
+   "name": "HKeMeter",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Parkzeit an Parkuhren aus der Ferne verlängern",
+   "city": "",
+   "use": "limited",
+   "req": "Erstzahlung vor Ort mit Octopus nötig",
+   "src": "https://www.octopus.com.hk/en/consumer/mobile-payment/driver/hkemeter/index.html"
+  },
+  {
+   "name": "My HKG",
+   "cat": "flights",
+   "pkg": "com.hongkongairport.app.myflight",
+   "ess": false,
+   "note": "Flughafen-App mit Fluginfos und Innenkarten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+  },
+  {
+   "name": "Hotels & Pensionen in Hongkong",
+   "cat": "hotels",
+   "pkg": "com.had.guesthouse",
+   "ess": false,
+   "note": "Lizenzierte Hotels und Pensionen prüfen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.discoverhongkong.com/de/plan/traveller-info/travel-apps.html"
+  },
+  {
+   "name": "MyObservatory",
+   "cat": "safety",
+   "pkg": "hko.MyObservatory_v1_0",
+   "ess": true,
+   "note": "Offizielle Wetter-App mit Taifun- und Regenwarnungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "HKSOS",
+   "cat": "safety",
+   "pkg": "com.sosapp.user",
+   "ess": false,
+   "note": "Notruf-App für Wanderungen, sendet den Standort",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hong-kong"
+  },
+  {
+   "name": "Discover Hong Kong",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal des Hong Kong Tourism Board",
+   "use": "ok",
+   "url": "https://www.discoverhongkong.com",
+   "nostore": true,
+   "src": "https://www.discoverhongkong.com"
+  }
+ ]
+}

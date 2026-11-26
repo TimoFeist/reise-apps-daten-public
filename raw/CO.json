@@ -195,6 +195,44 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/colombia"
+  },
+  {
+   "name": "ZPP Bogotá",
+   "cat": "parking",
+   "pkg": "com.parqueadero.parqueaderos",
+   "note": "Offizielle App der städtischen Parkzonen",
+   "city": "Bogota",
+   "use": "limited",
+   "req": "Guthaben per PSE oder Karte, Vorauszahlung Pflicht",
+   "src": "https://bogota.gov.co/mi-ciudad/movilidad/cuales-son-los-canales-de-recaudo-de-las-zonas-de-parqueo-pago-bogota"
+  },
+  {
+   "name": "IDEAM En Tu Mano",
+   "cat": "safety",
+   "pkg": "co.gov.ideam.mobileweather",
+   "note": "Vorhersagen und Frühwarnungen des IDEAM",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=co.gov.ideam.mobileweather",
+   "src": "https://www.ideam.gov.co/sites/default/files/archivos/abc_ideam_en_tu_mano.pdf"
+  },
+  {
+   "name": "Visit Bogotá",
+   "cat": "tourism",
+   "pkg": "com.servinf.test.bogotadctravel",
+   "note": "Stadtführer des Tourismusinstituts Bogotá",
+   "city": "Bogota",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.servinf.test.bogotadctravel",
+   "src": "https://play.google.com/store/apps/details?id=com.servinf.test.bogotadctravel"
+  },
+  {
+   "name": "Colombia Travel",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal von ProColombia",
+   "use": "ok",
+   "url": "https://colombia.travel",
+   "nostore": true,
+   "src": "https://colombia.travel"
   }
  ],
  "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, die Akzeptanz ist vor allem auf dem Land gering; das Auswärtige Amt warnt vor Raubüberfällen nach Treffen über Dating-Apps.",

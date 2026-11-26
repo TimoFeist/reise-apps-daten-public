@@ -281,6 +281,24 @@
    "use": "limited",
    "req": "Lichtbildausweis mitführen, Ticket ist personengebunden",
    "src": "https://support.fairtiq.com/hc/en-us/articles/19373507232402--FAIRTIQ-in-Linz-LINZ-AG-Overview"
+  },
+  {
+   "name": "ZIVA Zivilschutz Österreich",
+   "cat": "safety",
+   "pkg": "at.zivilschutz.digivorsorge",
+   "note": "Zivilschutz-App mit Vorsorge und Notfalltipps",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=at.zivilschutz.digivorsorge",
+   "src": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/online_services/aktuelle-apps"
+  },
+  {
+   "name": "GeoSphere Austria Wetterwarnungen",
+   "cat": "safety",
+   "note": "Amtliche Unwetterwarnungen je Bezirk",
+   "use": "ok",
+   "url": "https://warnungen.zamg.at/wsapp/",
+   "nostore": true,
+   "src": "https://www.oesterreich.gv.at/de/themen/notfaelle_unfaelle_und_kriminalitaet/katastrophenfaelle/2/Seite.29500315"
   }
  ],
  "replace": [

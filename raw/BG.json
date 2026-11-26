@@ -1,1 +1,289 @@
-{"src": "https://www.bento.travel/bulgaria/intercity-transport", "updated": "August 2026", "note": "Seit Februar 2026 gilt nur der Euro. Uber und Bolt fahren nicht, besser lizenzierte Taxi-Apps wie TaxiMe nutzen.", "apps": [{"name": "TaxiMe", "cat": "taxi", "pkg": "com.taxime.client", "ess": true, "note": "Lizenzierte Taxis mit Preisschätzung und Live-Ortung", "city": "Sofia", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Yellow Taxi 91119", "cat": "taxi", "pkg": "com.autocab.taxibooker.yellow333.bulgaria", "ess": true, "note": "Offizieller Taxipartner am Flughafen Sofia", "city": "Sofia", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "OK Taxi", "cat": "taxi", "pkg": "com.busols.taximan.online", "ess": false, "note": "Taxi-App in Sofia, auf Nachahmer achten", "city": "Sofia", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Eko Taxi Plovdiv", "cat": "taxi", "pkg": "gr.iqs.ekotaxi_client", "ess": false, "note": "Taxi bestellen in Plovdiv", "city": "Plovdiv", "use": "limited", "req": "Anmeldung mit ausländischer Nummer klappt oft nicht", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Taxi One App", "cat": "taxi", "pkg": "gr.iqs.taxi_one_bg_client", "ess": false, "note": "Taxis in Plovdiv mit Ortung und Vorbestellung", "city": "Plovdiv", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Uber", "cat": "taxi", "pkg": "", "ess": false, "note": "Fahrdienst ist in Bulgarien nicht aktiv", "city": "", "use": "no", "req": "In Bulgarien nicht verfügbar", "src": "https://www.bento.travel/blog/is-uber-available-in-bulgaria"}, {"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": true, "note": "Größte Abdeckung im Land, auch in Ferienorten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": false, "note": "Essen und Einkäufe in sieben Städten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Bolt Food", "cat": "delivery", "pkg": "com.bolt.deliveryclient", "ess": false, "note": "Restaurants und Lebensmittel in Liefergebieten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Viber", "cat": "misc", "pkg": "com.viber.voip", "ess": true, "note": "Beliebtester Messenger für Kontakt zu Anbietern", "city": "", "use": "limited", "req": "Aktivierung per Code an eine Telefonnummer", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Offline Karten für ganz Bulgarien", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Waze", "cat": "maps", "pkg": "com.waze", "ess": false, "note": "Navigation mit Live-Verkehr und Warnungen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Sofia2Go", "cat": "transit", "pkg": "com.sofiatraffic.sofiago", "ess": false, "note": "Offizielle App für Karten, Routen und Fahrpläne", "city": "Sofia", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "MPass", "cat": "transit", "pkg": "bg.mpass.sofia.app", "ess": false, "note": "Digitale Tickets für Sofia und Plovdiv", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "TTickets Varna", "cat": "transit", "pkg": "com.busvarnanew.ticket", "ess": false, "note": "Offizielle App für Handytickets in Varna", "city": "Varna", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Transport Burgas", "cat": "transit", "pkg": "com.modeshift.burgas", "ess": false, "note": "Stadtbusse in Burgas mit Fahrplan und Tickets", "city": "Burgas", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Obilet", "cat": "rail", "pkg": "com.obilet.androidside", "ess": false, "note": "Fernbusse buchen, auf Englisch", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "BGTOLL", "cat": "misc", "pkg": "net.kapsch.BGTOLL2", "ess": false, "note": "Offizielle Maut App für die E-Vignette", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "112 Bulgaria", "cat": "safety", "pkg": "bg.mvr.help112", "ess": false, "note": "Notruf per Text bei Hör- oder Sprachproblemen", "city": "", "use": "limited", "req": "Vorherige Registrierung nötig", "src": "https://www.bento.travel/bulgaria/intercity-transport"}, {"name": "Revolut", "cat": "payment", "pkg": "", "ess": false, "note": "Reisekarte zum Zahlen in Euro", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/bulgaria/payments"}, {"name": "SPARK", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektroautos minutenweise in Sofia mieten", "city": "Sofia", "use": "limited", "req": "Führerschein seit 1 Jahr, Ausweisprüfung, Kreditkarte", "src": "https://bnr.bg/en/post/101148094/innovative-environment-friendly-way-of-transport-in-sofia"}, {"name": "Lime", "cat": "micro", "pkg": "", "ess": false, "note": "Leih E-Scooter in Sofia, ab 16 Jahren", "city": "Sofia", "use": "ok", "req": "", "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/bulgaria-e-scooter-laws/"}, {"name": "Bolt", "cat": "micro", "pkg": "", "ess": false, "note": "Nur E-Scooter in Sofia, keine Autofahrten", "city": "Sofia", "use": "ok", "req": "", "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/bulgaria-e-scooter-laws/"}], "lgbtq_note": "Keine strafrechtlichen Einschränkungen und Diskriminierung ist verboten, Ehe oder Partnerschaft für gleichgeschlechtliche Paare gibt es nicht.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bulgarien-node/bulgariensicherheit-211834", "discontinued": [{"name": "Takeaway.com", "pkg": "", "src": "https://www.bta.bg/en/news/1184071-takeaway-to-cease-operations-in-bulgaria-on-september-15"}], "fetched": "2026-11-18"}
+{
+ "src": "https://www.bento.travel/bulgaria/intercity-transport",
+ "updated": "August 2026",
+ "note": "Seit Februar 2026 gilt nur der Euro. Uber und Bolt fahren nicht, besser lizenzierte Taxi-Apps wie TaxiMe nutzen.",
+ "apps": [
+  {
+   "name": "TaxiMe",
+   "cat": "taxi",
+   "pkg": "com.taxime.client",
+   "ess": true,
+   "note": "Lizenzierte Taxis mit Preisschätzung und Live-Ortung",
+   "city": "Sofia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Yellow Taxi 91119",
+   "cat": "taxi",
+   "pkg": "com.autocab.taxibooker.yellow333.bulgaria",
+   "ess": true,
+   "note": "Offizieller Taxipartner am Flughafen Sofia",
+   "city": "Sofia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "OK Taxi",
+   "cat": "taxi",
+   "pkg": "com.busols.taximan.online",
+   "ess": false,
+   "note": "Taxi-App in Sofia, auf Nachahmer achten",
+   "city": "Sofia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Eko Taxi Plovdiv",
+   "cat": "taxi",
+   "pkg": "gr.iqs.ekotaxi_client",
+   "ess": false,
+   "note": "Taxi bestellen in Plovdiv",
+   "city": "Plovdiv",
+   "use": "limited",
+   "req": "Anmeldung mit ausländischer Nummer klappt oft nicht",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Taxi One App",
+   "cat": "taxi",
+   "pkg": "gr.iqs.taxi_one_bg_client",
+   "ess": false,
+   "note": "Taxis in Plovdiv mit Ortung und Vorbestellung",
+   "city": "Plovdiv",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "",
+   "ess": false,
+   "note": "Fahrdienst ist in Bulgarien nicht aktiv",
+   "city": "",
+   "use": "no",
+   "req": "In Bulgarien nicht verfügbar",
+   "src": "https://www.bento.travel/blog/is-uber-available-in-bulgaria"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": true,
+   "note": "Größte Abdeckung im Land, auch in Ferienorten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": false,
+   "note": "Essen und Einkäufe in sieben Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "com.bolt.deliveryclient",
+   "ess": false,
+   "note": "Restaurants und Lebensmittel in Liefergebieten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": true,
+   "note": "Beliebtester Messenger für Kontakt zu Anbietern",
+   "city": "",
+   "use": "limited",
+   "req": "Aktivierung per Code an eine Telefonnummer",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Offline Karten für ganz Bulgarien",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "ess": false,
+   "note": "Navigation mit Live-Verkehr und Warnungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Sofia2Go",
+   "cat": "transit",
+   "pkg": "com.sofiatraffic.sofiago",
+   "ess": false,
+   "note": "Offizielle App für Karten, Routen und Fahrpläne",
+   "city": "Sofia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "MPass",
+   "cat": "transit",
+   "pkg": "bg.mpass.sofia.app",
+   "ess": false,
+   "note": "Digitale Tickets für Sofia und Plovdiv",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "TTickets Varna",
+   "cat": "transit",
+   "pkg": "com.busvarnanew.ticket",
+   "ess": false,
+   "note": "Offizielle App für Handytickets in Varna",
+   "city": "Varna",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Transport Burgas",
+   "cat": "transit",
+   "pkg": "com.modeshift.burgas",
+   "ess": false,
+   "note": "Stadtbusse in Burgas mit Fahrplan und Tickets",
+   "city": "Burgas",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Obilet",
+   "cat": "rail",
+   "pkg": "com.obilet.androidside",
+   "ess": false,
+   "note": "Fernbusse buchen, auf Englisch",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "BGTOLL",
+   "cat": "misc",
+   "pkg": "net.kapsch.BGTOLL2",
+   "ess": false,
+   "note": "Offizielle Maut App für die E-Vignette",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "112 Bulgaria",
+   "cat": "safety",
+   "pkg": "bg.mvr.help112",
+   "ess": false,
+   "note": "Notruf per Text bei Hör- oder Sprachproblemen",
+   "city": "",
+   "use": "limited",
+   "req": "Vorherige Registrierung nötig",
+   "src": "https://www.bento.travel/bulgaria/intercity-transport"
+  },
+  {
+   "name": "Revolut",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Reisekarte zum Zahlen in Euro",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/bulgaria/payments"
+  },
+  {
+   "name": "SPARK",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektroautos minutenweise in Sofia mieten",
+   "city": "Sofia",
+   "use": "limited",
+   "req": "Führerschein seit 1 Jahr, Ausweisprüfung, Kreditkarte",
+   "src": "https://bnr.bg/en/post/101148094/innovative-environment-friendly-way-of-transport-in-sofia"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Leih E-Scooter in Sofia, ab 16 Jahren",
+   "city": "Sofia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/bulgaria-e-scooter-laws/"
+  },
+  {
+   "name": "Bolt",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Nur E-Scooter in Sofia, keine Autofahrten",
+   "city": "Sofia",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.recordinglaw.com/world-laws/world-e-scooter-laws/bulgaria-e-scooter-laws/"
+  },
+  {
+   "name": "URBO City",
+   "cat": "parking",
+   "pkg": "com.urboapp.android.urbo",
+   "note": "Blaue und grüne Zone in Sofia per Karte zahlen",
+   "city": "Sofia",
+   "use": "ok",
+   "req": "Bankkarte hinterlegen",
+   "src": "https://apps.apple.com/bg/app/urbo/id1043568992"
+  },
+  {
+   "name": "Visit Bulgaria",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal des Tourismusministeriums",
+   "use": "ok",
+   "url": "https://visitbulgaria.com",
+   "nostore": true,
+   "src": "https://visitbulgaria.com"
+  }
+ ],
+ "lgbtq_note": "Keine strafrechtlichen Einschränkungen und Diskriminierung ist verboten, Ehe oder Partnerschaft für gleichgeschlechtliche Paare gibt es nicht.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/bulgarien-node/bulgariensicherheit-211834",
+ "discontinued": [
+  {
+   "name": "Takeaway.com",
+   "pkg": "",
+   "src": "https://www.bta.bg/en/news/1184071-takeaway-to-cease-operations-in-bulgaria-on-september-15"
+  }
+ ],
+ "fetched": "2026-11-18"
+}

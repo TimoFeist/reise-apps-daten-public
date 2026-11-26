@@ -15,6 +15,11 @@
    "name": "CFL mobile",
    "pkg": "de.hafas.android.cfl",
    "src": "https://chronicle.lu/category/rail/61157-cfl-launches-redesigned-cfl-go-mobile-app"
+  },
+  {
+   "name": "Goosty",
+   "pkg": "com.customer.goosty",
+   "src": "https://goosty.lu/"
   }
  ],
  "apps": [
@@ -193,6 +198,24 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/id601306163"
+  },
+  {
+   "name": "LU-Alert",
+   "cat": "safety",
+   "pkg": "lu.etat.mi.goa.android",
+   "note": "Offizielle Warn-App des Staates Luxemburg",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lu.etat.mi.goa.android",
+   "src": "https://lu-alert.lu/en/all-about-lu-alert/warning-channels/mobile-app.html"
+  },
+  {
+   "name": "MeteoLux",
+   "cat": "safety",
+   "pkg": "lu.ana.metapp",
+   "note": "Wetterdienst Luxemburg mit Warnungen, auch Deutsch",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=lu.ana.metapp",
+   "src": "https://gouvernement.lu/fr/actualites/toutes_actualites/communiques/2022/07-juillet/15-nouvelle-application-meteolux.html"
   }
  ],
  "replace": [

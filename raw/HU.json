@@ -1,1 +1,249 @@
-{"src": "https://www.bento.travel/hungary", "updated": "August 2026", "note": "Physische Karte mit PIN und etwas Forint dabeihaben, Umrechnung in Euro an Kasse und Automat ablehnen.", "apps": [{"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": true, "note": "Lizenzierte gelbe Taxis mit Taxameter", "city": "Budapest", "use": "ok", "req": "", "src": "https://www.bento.travel/hungary/ride-hailing"}, {"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": false, "note": "Vermittelt Főtaxi, nur als Reserve", "city": "Budapest", "use": "ok", "req": "", "src": "https://www.bento.travel/hungary/ride-hailing"}, {"name": "foodora", "cat": "delivery", "pkg": "se.onlinepizza", "ess": true, "note": "Größtes Lieferangebot, auch in kleinen Orten", "city": "", "use": "limited", "req": "Ausländische Nummer und Karte nicht immer akzeptiert", "src": "https://www.bento.travel/hungary/food-delivery"}, {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": false, "note": "Essen, Lebensmittel und Läden in vielen Städten", "city": "", "use": "limited", "req": "Ausländische Karten werden teils abgelehnt", "src": "https://www.bento.travel/hungary/food-delivery"}, {"name": "Bolt Food", "cat": "delivery", "pkg": "", "ess": false, "note": "Weitere Lieferoption in Budapest", "city": "Budapest", "use": "ok", "req": "", "src": "https://www.bento.travel/hungary/food-delivery"}, {"name": "BudapestGO", "cat": "transit", "pkg": "hu.webvalto.bkkfutar", "ess": true, "note": "Offizielle BKK-App: Routen, Störungen, Tickets", "city": "Budapest", "use": "ok", "req": "", "src": "https://www.bento.travel/hungary/transit"}, {"name": "MÁVPlusz", "cat": "rail", "pkg": "", "ess": false, "note": "Bahn- und Überlandbustickets, Tages- und Pässe", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hungary/transit"}, {"name": "Parkl", "cat": "parking", "pkg": "net.parkl.androidclient", "ess": false, "note": "Straßenparken, Garagen, Laden und E-Vignette", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/hungary/navigation"}, {"name": "Revolut", "cat": "payment", "pkg": "", "ess": false, "note": "Bezahlen in Forint mit fairem Wechselkurs", "city": "", "use": "limited", "req": "Konto vorab im Heimatland eröffnen", "src": "https://www.bento.travel/hungary/payments"}, {"name": "Wise", "cat": "payment", "pkg": "", "ess": false, "note": "Multiwährungskonto zum Bezahlen in Forint", "city": "", "use": "limited", "req": "Konto vorab im Heimatland eröffnen", "src": "https://www.bento.travel/hungary/payments"}, {"name": "MOL Limo", "cat": "carshare", "pkg": "", "ess": false, "note": "Carsharing in ganz Budapest, Rückgabe am Flughafen", "city": "Budapest", "use": "limited", "req": "Ab 20 Jahren, Führerschein, Ausweis und Bankkarte nötig", "src": "https://getmancar.com/blogs/carsharing-in-hungary"}, {"name": "GreenGo", "cat": "carshare", "pkg": "", "ess": false, "note": "Elektrisches Carsharing mit rund 500 Autos", "city": "Budapest", "use": "limited", "req": "Registrierung mit Ausweis und Führerschein in der App", "src": "https://getmancar.com/blogs/carsharing-in-budapest"}, {"name": "MOL Bubi", "cat": "micro", "pkg": "", "ess": false, "note": "Öffentliche Leihräder und E-Bikes der Stadt", "city": "Budapest", "use": "ok", "req": "", "src": "https://budappest.com/the-new-mol-bubi-is-here/"}, {"name": "Lime", "cat": "micro", "pkg": "", "ess": false, "note": "E-Scooter zum Ausleihen", "city": "Budapest", "use": "ok", "req": "", "src": "https://bkk.hu/utazasi-informaciok/aktiv-kozlekedes/megosztott-roller-es-kerekpar/"}, {"name": "Közlekedési Mobiljegy", "cat": "transit", "pkg": "hu.nemzetimobilfizetes.mobiljegyapp", "ess": false, "note": "Staatliche Ticket-App für Budapest, Debrecen, Szeged, Pécs", "city": "", "use": "limited", "req": "Registrierung nötig; ausländische Karte nicht bestätigt", "src": "https://mobiljegy.nmzrt.hu/en"}, {"name": "Parking Hungary", "cat": "parking", "pkg": "hu.parkinghungary.app", "ess": false, "note": "Parken ohne Automat per Karte, ohne Registrierung", "city": "Budapest", "use": "ok", "req": "", "src": "https://parking-hungary.hu/en/parking-without-parking-meter-budapest"}, {"name": "Simple", "cat": "parking", "pkg": "com.otpmobil.simple.phoenix", "ess": false, "note": "Parken und Mobiltickets der OTP Bank", "city": "", "use": "limited", "req": "Registrierung nötig; ausländische Karte nicht bestätigt", "src": "https://mobiljegy.nmzrt.hu/en"}, {"name": "MVM Mobiliti", "cat": "parking", "pkg": "", "ess": false, "note": "Park-App auf Englisch für Budapest", "city": "Budapest", "use": "ok", "req": "", "src": "https://budappest.com/budapest-parking-just-went-fully-digital-what-tourists-need-to-know/"}, {"name": "MyDKV", "cat": "transit", "pkg": "", "ess": false, "note": "Offizielle Fahrplan-App mit Live-Ortung der DKV", "city": "Debrecen", "use": "ok", "req": "", "src": "https://apps.apple.com/hu/app/mydkv/id6474126423"}, {"name": "TükeBuszON+", "cat": "transit", "pkg": "com.hc_linear.tuke_app.tuke_busz_app", "ess": false, "note": "Offizielle Bus-App: Routen, Echtzeit, Tickets", "city": "Pecs", "use": "ok", "req": "", "src": "https://www.magyarbusz.info/en/2024/10/31/tuke-busz-launches-new-route-planning-app/"}], "lgbtq_note": "Gleichgeschlechtliche Partnerschaften sind legal und eintragbar, die Ehe nicht; Pride-Veranstaltungen können seit 2025 verboten und Teilnehmende bestraft werden.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ungarn-node/ungarnsicherheit/210332", "fetched": "2026-11-17"}
+{
+ "src": "https://www.bento.travel/hungary",
+ "updated": "August 2026",
+ "note": "Physische Karte mit PIN und etwas Forint dabeihaben, Umrechnung in Euro an Kasse und Automat ablehnen.",
+ "apps": [
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Lizenzierte gelbe Taxis mit Taxameter",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hungary/ride-hailing"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Vermittelt Főtaxi, nur als Reserve",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hungary/ride-hailing"
+  },
+  {
+   "name": "foodora",
+   "cat": "delivery",
+   "pkg": "se.onlinepizza",
+   "ess": true,
+   "note": "Größtes Lieferangebot, auch in kleinen Orten",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Nummer und Karte nicht immer akzeptiert",
+   "src": "https://www.bento.travel/hungary/food-delivery"
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": false,
+   "note": "Essen, Lebensmittel und Läden in vielen Städten",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karten werden teils abgelehnt",
+   "src": "https://www.bento.travel/hungary/food-delivery"
+  },
+  {
+   "name": "Bolt Food",
+   "cat": "delivery",
+   "pkg": "",
+   "ess": false,
+   "note": "Weitere Lieferoption in Budapest",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hungary/food-delivery"
+  },
+  {
+   "name": "BudapestGO",
+   "cat": "transit",
+   "pkg": "hu.webvalto.bkkfutar",
+   "ess": true,
+   "note": "Offizielle BKK-App: Routen, Störungen, Tickets",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hungary/transit"
+  },
+  {
+   "name": "MÁVPlusz",
+   "cat": "rail",
+   "pkg": "",
+   "ess": false,
+   "note": "Bahn- und Überlandbustickets, Tages- und Pässe",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hungary/transit"
+  },
+  {
+   "name": "Parkl",
+   "cat": "parking",
+   "pkg": "net.parkl.androidclient",
+   "ess": false,
+   "note": "Straßenparken, Garagen, Laden und E-Vignette",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/hungary/navigation"
+  },
+  {
+   "name": "Revolut",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Bezahlen in Forint mit fairem Wechselkurs",
+   "city": "",
+   "use": "limited",
+   "req": "Konto vorab im Heimatland eröffnen",
+   "src": "https://www.bento.travel/hungary/payments"
+  },
+  {
+   "name": "Wise",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Multiwährungskonto zum Bezahlen in Forint",
+   "city": "",
+   "use": "limited",
+   "req": "Konto vorab im Heimatland eröffnen",
+   "src": "https://www.bento.travel/hungary/payments"
+  },
+  {
+   "name": "MOL Limo",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Carsharing in ganz Budapest, Rückgabe am Flughafen",
+   "city": "Budapest",
+   "use": "limited",
+   "req": "Ab 20 Jahren, Führerschein, Ausweis und Bankkarte nötig",
+   "src": "https://getmancar.com/blogs/carsharing-in-hungary"
+  },
+  {
+   "name": "GreenGo",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Elektrisches Carsharing mit rund 500 Autos",
+   "city": "Budapest",
+   "use": "limited",
+   "req": "Registrierung mit Ausweis und Führerschein in der App",
+   "src": "https://getmancar.com/blogs/carsharing-in-budapest"
+  },
+  {
+   "name": "MOL Bubi",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "Öffentliche Leihräder und E-Bikes der Stadt",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://budappest.com/the-new-mol-bubi-is-here/"
+  },
+  {
+   "name": "Lime",
+   "cat": "micro",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Scooter zum Ausleihen",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://bkk.hu/utazasi-informaciok/aktiv-kozlekedes/megosztott-roller-es-kerekpar/"
+  },
+  {
+   "name": "Közlekedési Mobiljegy",
+   "cat": "transit",
+   "pkg": "hu.nemzetimobilfizetes.mobiljegyapp",
+   "ess": false,
+   "note": "Staatliche Ticket-App für Budapest, Debrecen, Szeged, Pécs",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung nötig; ausländische Karte nicht bestätigt",
+   "src": "https://mobiljegy.nmzrt.hu/en"
+  },
+  {
+   "name": "Parking Hungary",
+   "cat": "parking",
+   "pkg": "hu.parkinghungary.app",
+   "ess": false,
+   "note": "Parken ohne Automat per Karte, ohne Registrierung",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://parking-hungary.hu/en/parking-without-parking-meter-budapest"
+  },
+  {
+   "name": "Simple",
+   "cat": "parking",
+   "pkg": "com.otpmobil.simple.phoenix",
+   "ess": false,
+   "note": "Parken und Mobiltickets der OTP Bank",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung nötig; ausländische Karte nicht bestätigt",
+   "src": "https://mobiljegy.nmzrt.hu/en"
+  },
+  {
+   "name": "MVM Mobiliti",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Park-App auf Englisch für Budapest",
+   "city": "Budapest",
+   "use": "ok",
+   "req": "",
+   "src": "https://budappest.com/budapest-parking-just-went-fully-digital-what-tourists-need-to-know/"
+  },
+  {
+   "name": "MyDKV",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Fahrplan-App mit Live-Ortung der DKV",
+   "city": "Debrecen",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/hu/app/mydkv/id6474126423"
+  },
+  {
+   "name": "TükeBuszON+",
+   "cat": "transit",
+   "pkg": "com.hc_linear.tuke_app.tuke_busz_app",
+   "ess": false,
+   "note": "Offizielle Bus-App: Routen, Echtzeit, Tickets",
+   "city": "Pecs",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.magyarbusz.info/en/2024/10/31/tuke-busz-launches-new-route-planning-app/"
+  },
+  {
+   "name": "Visit Hungary",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal der Ungarischen Tourismusagentur",
+   "use": "ok",
+   "url": "https://visithungary.com",
+   "nostore": true,
+   "src": "https://visithungary.com/privacy-policy-application"
+  },
+  {
+   "name": "Budapest Card",
+   "cat": "tourism",
+   "note": "Stadtpass mit Nahverkehr und Rabatten",
+   "city": "Budapest",
+   "use": "ok",
+   "url": "https://bkk.hu/en/tickets-and-passes/budapest-card/",
+   "nostore": true,
+   "src": "https://bkk.hu/en/tickets-and-passes/budapest-card/"
+  }
+ ],
+ "lgbtq_note": "Gleichgeschlechtliche Partnerschaften sind legal und eintragbar, die Ehe nicht; Pride-Veranstaltungen können seit 2025 verboten und Teilnehmende bestraft werden.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/ungarn-node/ungarnsicherheit/210332",
+ "fetched": "2026-11-17"
+}

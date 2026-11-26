@@ -180,6 +180,25 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/gu%C3%ADa-de-valpara%C3%ADso/id1604627459"
+  },
+  {
+   "name": "SimplePark",
+   "cat": "parking",
+   "pkg": "com.simplepark.simplepark",
+   "note": "Digitale Parkuhr, in Vitacura nur per App zahlbar",
+   "city": "Santiago",
+   "use": "limited",
+   "req": "Karte nötig, gilt nur in teilnehmenden Gemeinden",
+   "src": "https://www.emol.com/noticias/Economia/2026/10/22/1214595/simplepark-parquimetro-digital-empresa-chilena.html"
+  },
+  {
+   "name": "MeteoChile",
+   "cat": "safety",
+   "pkg": "cl.gob.dgac.dmc.app",
+   "note": "Wetterdienst Chiles mit Warnungen und Karten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=cl.gob.dgac.dmc.app",
+   "src": "https://appgoblin.info/apps/cl.gob.dgac.dmc.app"
   }
  ],
  "fetched": "2026-11-17"

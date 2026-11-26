@@ -157,6 +157,33 @@
    "use": "ok",
    "req": "",
    "src": "https://joburg.org.za/media_/Newsroom/Pages/2025-News-Articles/City-of-Joburg-expands-Rea-Vaya-BRT-network-with-Phase-1C-rollout.aspx"
+  },
+  {
+   "name": "SA Weather Service",
+   "cat": "safety",
+   "note": "Amtliche Vorhersagen und Unwetterwarnungen",
+   "use": "ok",
+   "url": "https://www.weathersa.co.za",
+   "nostore": true,
+   "src": "https://www.weathersa.co.za"
+  },
+  {
+   "name": "SANParks",
+   "cat": "tourism",
+   "pkg": "com.sanparks.sanparks",
+   "note": "Nationalparks Südafrikas, Infos und Buchung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sanparks.sanparks",
+   "src": "https://www.sanparks.org"
+  },
+  {
+   "name": "South African Tourism",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal Südafrikas, auch Deutsch",
+   "use": "ok",
+   "url": "https://www.southafrica.net",
+   "nostore": true,
+   "src": "https://www.southafrica.net"
   }
  ],
  "fetched": "2026-11-17",

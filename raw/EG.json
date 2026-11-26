@@ -238,6 +238,27 @@
    "use": "ok",
    "req": "",
    "src": "https://www.elgouna.com/visit-el-gouna/faqs"
+  },
+  {
+   "name": "Rabbit Mobility",
+   "cat": "micro",
+   "pkg": "com.Rabbit.rabbitApp",
+   "note": "E-Scooter und E-Bikes in Kairo und Gizeh, auch Tagesmiete",
+   "city": "Cairo",
+   "use": "limited",
+   "req": "Ausländische Nummer und Karte nicht belegt",
+   "src": "https://www.mobilitycairo.com/en/explore/latest-news/network/green-line-3-and-rabbit-mobility-offer-integrated-journeys-their"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen per App, Schalter am Flughafen Kairo 24 h",
+   "city": "Cairo",
+   "use": "ok",
+   "req": "Mindestalter 21, Kreditkarte",
+   "url": "https://www.sixt.com/car-rental/egypt/cairo/cairo-airport",
+   "src": "https://www.sixt.com/car-rental/egypt/cairo/cairo-airport"
   }
  ],
  "fetched": "2026-11-23"

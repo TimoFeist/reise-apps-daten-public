@@ -1,5 +1,5 @@
 # © 2026 Timo Feist. Alle Rechte vorbehalten.
-# Täglich: Feiertage (wöchentlich neu), Koordinaten neuer Städte, fehlende Paketnamen, Logo-Adressen aus Google Play, iPhone-Version zu bis zu 1200 Apps; dann data.json neu bauen.
+# Täglich: Feiertage (wöchentlich neu), Koordinaten neuer Städte, fehlende Paketnamen, Leihrad-/Scooter-/Carsharing-Systeme (GBFS), Logo-Adressen aus Google Play, iPhone-Version zu bis zu 1200 Apps; dann data.json neu bauen.
 name: iPhone-Apps zuordnen
 
 on:
@@ -29,6 +29,7 @@ jobs:
           python3 tools/feiertage.py || true
           timeout 30m python3 tools/city_geo.py || true
           timeout 40m python3 tools/pkg_suche.py 400 || true
+          timeout 15m python3 tools/gbfs.py || true
           timeout 60m python3 tools/icons.py || true
       - name: Zuordnen
         run: timeout 240m python3 tools/ios_ids.py 1200 || true
@@ -36,7 +37,7 @@ jobs:
         run: |
           git config user.name "reise-apps-bot"
           git config user.email "reise-apps-bot@users.noreply.github.com"
-          mkdir -p /tmp/neu && cp info/ios.json info/feiertage.json info/stadt-koordinaten.json info/icons.json info/pkg.json /tmp/neu/ 2>/dev/null || true
+          mkdir -p /tmp/neu && cp info/ios.json info/feiertage.json info/stadt-koordinaten.json info/icons.json info/pkg.json info/gbfs.json /tmp/neu/ 2>/dev/null || true
           cp queue/pkg-pruefung.json /tmp/neu-pruefung.json 2>/dev/null || true
           for i in 1 2 3 4 5; do
             git reset -q --hard

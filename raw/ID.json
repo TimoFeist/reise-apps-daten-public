@@ -336,6 +336,26 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/app/id6745028056"
+  },
+  {
+   "name": "PARKEE",
+   "cat": "parking",
+   "pkg": "com.parkee",
+   "note": "Bargeldlos parken per QRIS in Jakarta",
+   "city": "Jakarta",
+   "use": "limited",
+   "req": "Indonesisches E-Wallet oder Banking App nötig",
+   "src": "https://momsmoney.kontan.co.id/news/parkee-rilis-qris-tap-intap-out-bayar-parkir-cukup-tempel-hp"
+  },
+  {
+   "name": "Beam",
+   "cat": "micro",
+   "pkg": "com.escooterapp",
+   "note": "E-Scooter im Großraum Jakarta, Bandung und Malang",
+   "city": "Jakarta",
+   "use": "ok",
+   "url": "https://www.ridebeam.com/id",
+   "src": "https://www.ridebeam.com/id"
   }
  ],
  "replace": [

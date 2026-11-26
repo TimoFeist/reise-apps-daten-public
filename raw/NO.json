@@ -265,6 +265,24 @@
    "use": "ok",
    "req": "",
    "src": "https://svipper.no/menu/travel/the-svipper-app"
+  },
+  {
+   "name": "Yr",
+   "cat": "safety",
+   "pkg": "no.nrk.yr",
+   "note": "Wetter von NRK und Meteorologischem Institut",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=no.nrk.yr",
+   "src": "https://apps.apple.com/no/app/yr/id490989206"
+  },
+  {
+   "name": "Varsom",
+   "cat": "safety",
+   "pkg": "no.nve.regobs4",
+   "note": "Lawinen, Hochwasser und Erdrutschwarnungen der NVE",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=no.nve.regobs4",
+   "src": "https://apps.apple.com/no/app/varsom/id1450501601"
   }
  ]
 }

@@ -402,6 +402,26 @@
    "use": "ok",
    "req": "",
    "src": "https://uestra.de/en/tickets-prices/where-to-get-tickets"
+  },
+  {
+   "name": "EasyPark",
+   "cat": "parking",
+   "pkg": "net.easypark.android",
+   "note": "Handyparken an der Straße in sehr vielen Städten",
+   "use": "ok",
+   "req": "Konto mit Karte oder PayPal, deutsche Nummer passt",
+   "url": "https://www.easypark.com/de",
+   "src": "https://www.easypark.com/de"
+  },
+  {
+   "name": "APCOA FLOW",
+   "cat": "parking",
+   "pkg": "com.apcoaflow.consumer",
+   "note": "Ticketlos ins Parkhaus per Kennzeichen, 300+ Häuser",
+   "use": "ok",
+   "req": "Kennzeichen und Zahlungsmittel hinterlegen",
+   "url": "https://www.apcoa.de/en/apcoa-flow-app",
+   "src": "https://www.apcoa.de/en/apcoa-flow-app"
   }
  ]
 }

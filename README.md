@@ -36,3 +36,5 @@ Datendatei für die App **Reise-Apps**. Die App lädt `data.json` beim Start (h�
 ## Copyright
 
 © 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern. Die Quellen stehen je Eintrag im Feld `src`.
+
+Leihrad-, E-Scooter- und Carsharing-Systeme teils aus der GBFS-Systemliste von MobilityData (https://github.com/MobilityData/gbfs, CC BY 3.0) und den Feeds der Betreiber.

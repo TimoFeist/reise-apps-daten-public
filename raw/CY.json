@@ -237,6 +237,15 @@
    "use": "ok",
    "req": "",
    "src": "https://smartnicosia.eu/"
+  },
+  {
+   "name": "Visit Cyprus",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal des Tourismusministeriums",
+   "use": "ok",
+   "url": "https://www.visitcyprus.com",
+   "nostore": true,
+   "src": "https://www.visitcyprus.com"
   }
  ],
  "replace": [

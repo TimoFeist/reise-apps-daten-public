@@ -235,6 +235,16 @@
    "use": "ok",
    "req": "",
    "src": "https://www.yucatan.com.mx/merida/2026/10/25/se-actualiza-la-app-del-va-y-ven-estas-son-las-nuevas-herramientas-para-los-usuarios.html"
+  },
+  {
+   "name": "Mueve Ciudad",
+   "cat": "parking",
+   "pkg": "com.zion.mueveCiudad",
+   "note": "Parkuhren in Polanco, Roma und Condesa zahlen",
+   "city": "Mexico City",
+   "use": "limited",
+   "req": "Konto und Karte nötig, nur in einzelnen Vierteln",
+   "src": "https://www.chilango.com/ciudad/apps-para-pagar-parquimetros/"
   }
  ]
 }

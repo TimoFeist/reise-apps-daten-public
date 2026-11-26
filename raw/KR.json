@@ -369,6 +369,25 @@
    "use": "ok",
    "req": "",
    "src": "https://airport.kr/ap_en/1416/subview.do"
+  },
+  {
+   "name": "Seoul Parking Info",
+   "cat": "parking",
+   "pkg": "kr.seoul.parkinginfo",
+   "note": "Offizielle Stadtapp: Parkplätze, Preise, freie Plätze",
+   "city": "Seoul",
+   "use": "ok",
+   "req": "Nur Infos, Zahlung vor Ort",
+   "src": "https://mediahub.seoul.go.kr/archives/2002575"
+  },
+  {
+   "name": "Modu Parking",
+   "cat": "parking",
+   "pkg": "com.parkingshare.mobile",
+   "note": "Beliebte App zum Finden und Buchen von Parkplätzen",
+   "use": "no",
+   "req": "Koreanische Handynummer und Sprache nötig",
+   "src": "https://www.koreaherald.com/article/1678253"
   }
  ]
 }

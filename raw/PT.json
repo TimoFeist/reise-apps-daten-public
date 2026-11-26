@@ -248,6 +248,34 @@
    "use": "ok",
    "req": "",
    "src": "https://www.vamusalgarve.pt/"
+  },
+  {
+   "name": "MB WAY",
+   "cat": "payment",
+   "pkg": "pt.sibs.android.mbway",
+   "note": "Portugals Bezahl-App für Überweisungen und Läden",
+   "use": "no",
+   "req": "Nur mit portugiesischer Bankkarte",
+   "src": "https://pplware.sapo.pt/informacao/mb-way-ja-pode-usar-numeros-de-telemovel-estrangeiros/"
+  },
+  {
+   "name": "VisitPortugal",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal von Turismo de Portugal",
+   "use": "ok",
+   "url": "https://www.visitportugal.com",
+   "nostore": true,
+   "src": "https://www.visitportugal.com"
+  },
+  {
+   "name": "Lisboa Card",
+   "cat": "tourism",
+   "note": "Stadtpass mit Nahverkehr und freien Eintritten",
+   "city": "Lisbon",
+   "use": "ok",
+   "url": "https://www.visitlisboa.com/en/p/lisboa-card",
+   "nostore": true,
+   "src": "https://shop.visitlisboa.com/collections/tourist-cards/products/lisboa-card"
   }
  ]
 }

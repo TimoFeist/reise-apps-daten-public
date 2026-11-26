@@ -1,0 +1,11240 @@
+{
+"src": "https://raw.githubusercontent.com/MobilityData/gbfs/master/systems.csv",
+"license": "CC BY 3.0, MobilityData",
+"checked": "2026-11-26",
+"systems": [
+{
+"id": "dott-abu-dhabi",
+"cc": "AE",
+"loc": "Abu Dhabi",
+"name": "Dott abu-dhabi",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "careem_bike",
+"cc": "AE",
+"loc": "Dubai",
+"name": "careem_bike",
+"url": "https://www.careem.com/en-ae/careem-bike/",
+"pkg": "com.careem.acma",
+"ff": [
+"bicycle",
+"other",
+"scooter_standing"
+]
+},
+{
+"id": "dott-dubai",
+"cc": "AE",
+"loc": "Dubai",
+"name": "Dott dubai",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-dubai-hills",
+"cc": "AE",
+"loc": "Dubai",
+"name": "Dott dubai-hills",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-ras-al-khaimah",
+"cc": "AE",
+"loc": "Ras Al Khaimah",
+"name": "Dott ras-al-khaimah",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-sharjah",
+"cc": "AE",
+"loc": "Sharjah",
+"name": "Dott sharjah",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_la",
+"cc": "AT",
+"loc": "Austria",
+"name": "nextbike Niederösterreich",
+"url": "https://www.nextbike.at/niederoesterreich/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_vt",
+"cc": "AT",
+"loc": "Austria",
+"name": "VVT REGIORAD Tirol",
+"url": "https://regiorad.vvt.at/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_vo",
+"cc": "AT",
+"loc": "Dornbirn",
+"name": "VMOBIL Rad",
+"url": "https://www.nextbike.at/vmobilrad/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_eq",
+"cc": "AT",
+"loc": "Eisenstadt",
+"name": "EVENTbike - Austria",
+"url": "https://www.nextbike.at/eventbike-austria/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "getaround_graz",
+"cc": "AT",
+"loc": "Graz",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/graz",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_innsbruck",
+"cc": "AT",
+"loc": "Innsbruck",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/innsbruck",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "nextbike_si",
+"cc": "AT",
+"loc": "Innsbruck",
+"name": "Stadtrad Innsbruck Austria",
+"url": "https://stadtrad-innsbruck.at/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_ka",
+"cc": "AT",
+"loc": "Klagenfurt",
+"name": "nextbike Klagenfurt Austria",
+"url": "https://www.nextbike.at/de/klagenfurt/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_al",
+"cc": "AT",
+"loc": "Linz",
+"name": "city bike Linz",
+"url": "https://citybikelinz.at/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_lh",
+"cc": "AT",
+"loc": "Nenzing",
+"name": "LiBike",
+"url": "http://nextbike.at/liebherr/de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_wr",
+"cc": "AT",
+"loc": "Vienna",
+"name": "WienMobil Rad",
+"url": "https://www.nextbike.at/wienmobilrad/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-wiener neustadt",
+"cc": "AT",
+"loc": "Wiener Neustadt",
+"name": "bird wienerneustadt",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_bj",
+"cc": "BA",
+"loc": "Banja Luka",
+"name": "BL bike",
+"url": "https://www.nextbike.ba/sr/banjaluka/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ba",
+"cc": "BA",
+"loc": "Bosnia and Herzegovina",
+"name": "nextbike BIH",
+"url": "https://www.nextbike.ba/bs/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_bz",
+"cc": "BA",
+"loc": "Zenica",
+"name": "Zenica",
+"url": "https://www.nextbike.ba/bs/zenica/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_aalst",
+"cc": "BE",
+"loc": "Aalst",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/aalst",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-antwerp",
+"cc": "BE",
+"loc": "Antwerp",
+"name": "bird antwerp",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "cc_smartbike_antwerp",
+"cc": "BE",
+"loc": "Antwerp",
+"name": "Velo Antwerpen",
+"url": "https://www.velo-antwerpen.be/nl",
+"pkg": "be.antwerpen.velo",
+"ff": []
+},
+{
+"id": "donkey_antwerp",
+"cc": "BE",
+"loc": "Antwerp",
+"name": "Donkey Republic Antwerp",
+"url": "https://www.donkey.bike/cities/bike-rental-antwerp/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "voi_Antwerp",
+"cc": "BE",
+"loc": "Antwerp",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_antwerpen",
+"cc": "BE",
+"loc": "Antwerpen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/antwerpen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "BoltEU_Brussels",
+"cc": "BE",
+"loc": "Brussels",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.mtakso.client",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "bruxelles",
+"cc": "BE",
+"loc": "Brussels",
+"name": "Villo!",
+"url": "https://www.villo.be/",
+"pkg": "com.jcdecaux.vls.bruxelles",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "cooltra_brussels",
+"cc": "BE",
+"loc": "Brussels",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "dott-brussels",
+"cc": "BE",
+"loc": "Brussels",
+"name": "Dott brussels",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_hf",
+"cc": "BE",
+"loc": "Brussels region",
+"name": "nextbike BE Vlaamse Rand",
+"url": "https://nextbike.be/vlaamserand/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-charleroi",
+"cc": "BE",
+"loc": "Charleroi",
+"name": "Dott charleroi",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "getaround_charleroi",
+"cc": "BE",
+"loc": "Charleroi",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/charleroi",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_gent",
+"cc": "BE",
+"loc": "Gent",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/gent",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "donkey_gh",
+"cc": "BE",
+"loc": "Ghent",
+"name": "Donkey Republic Ghent",
+"url": "https://www.donkey.bike/cities/bike-rental-ghent/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-ghent",
+"cc": "BE",
+"loc": "Ghent",
+"name": "Dott ghent",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_hove",
+"cc": "BE",
+"loc": "Hove",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/hove",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "donkey_kortrijk_leiedal",
+"cc": "BE",
+"loc": "Kortrijk & Leiedal",
+"name": "Donkey Republic Kortrijk & Leiedal",
+"url": "https://www.donkey.bike/cities/bike-rental-kortrijk-zuid-west-vlaanderen/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "getaround_leuven",
+"cc": "BE",
+"loc": "Leuven",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/leuven",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "dott-liege",
+"cc": "BE",
+"loc": "Liege",
+"name": "Dott liege",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_mechelen",
+"cc": "BE",
+"loc": "Mechelen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/mechelen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "dott-mons",
+"cc": "BE",
+"loc": "Mons",
+"name": "Dott mons",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "namur",
+"cc": "BE",
+"loc": "Namur",
+"name": "Li Bia Velo",
+"url": "https://www.libiavelo.be/",
+"pkg": "com.jcdecaux.vls.namur",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_seraing",
+"cc": "BE",
+"loc": "Seraing",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/seraing",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_waterloo",
+"cc": "BE",
+"loc": "Waterloo",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/waterloo",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "donkey_westhoek",
+"cc": "BE",
+"loc": "Westhoek",
+"name": "Donkey Republic Westhoek",
+"url": "https://www.donkey.bike/cities/bike-rental-de-panne/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-calgary",
+"cc": "CA",
+"loc": "Calgary",
+"name": "bird calgary",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-edmonton",
+"cc": "CA",
+"loc": "Edmonton",
+"name": "bird edmonton",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-halifax",
+"cc": "CA",
+"loc": "Halifax",
+"name": "bird halifax",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-hamilton",
+"cc": "CA",
+"loc": "Hamilton",
+"name": "bird hamilton",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-leduc",
+"cc": "CA",
+"loc": "Leduc",
+"name": "bird leduc",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-ottawa",
+"cc": "CA",
+"loc": "Ottawa",
+"name": "bird ottawa",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-saskatoon",
+"cc": "CA",
+"loc": "Saskatoon",
+"name": "bird saskatoon",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "Mobibikes_CA_Vancouver",
+"cc": "CA",
+"loc": "Vancouver",
+"name": "Mobi by Rogers (Vancouver)",
+"url": "https://www.mobibikes.ca/",
+"pkg": "com.choosit.smoove",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-vaughan",
+"cc": "CA",
+"loc": "Vaughan",
+"name": "bird vaughan",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "avelo_quebec",
+"cc": "CA",
+"loc": "Ville de Québec",
+"name": "avelo-quebec",
+"url": "https://aveloquebec.ca/",
+"pkg": "com.publicbikesystem.avelo",
+"ff": [
+"bicycle",
+"other",
+"scooter_standing"
+]
+},
+{
+"id": "pickebike_aubonne",
+"cc": "CH",
+"loc": "Aubonne",
+"name": "Aubonne",
+"url": "https://www.pickebike.ch/de/",
+"pkg": "ch.pickebike",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "bird-basel",
+"cc": "CH",
+"loc": "Basel",
+"name": "bird basel",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bolt_basel",
+"cc": "CH",
+"loc": "Basel",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.mtakso.client",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "dott-basel",
+"cc": "CH",
+"loc": "Basel",
+"name": "Dott basel",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "pickebike_basel",
+"cc": "CH",
+"loc": "Basel",
+"name": "Basel",
+"url": "https://www.pickebike.ch/de/",
+"pkg": "ch.pickebike",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "bird-biel",
+"cc": "CH",
+"loc": "Biel",
+"name": "bird biel",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-bulle",
+"cc": "CH",
+"loc": "Bulle",
+"name": "bird bulle",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_ms",
+"cc": "CH",
+"loc": "Chur",
+"name": "invia BikeShare",
+"url": "https://www.mooinz.ch/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "pickebike_fribourg",
+"cc": "CH",
+"loc": "Fribourg",
+"name": "Fribourg",
+"url": "https://www.pickebike.ch/de/",
+"pkg": "ch.pickebike",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_ge",
+"cc": "CH",
+"loc": "Geneva",
+"name": "Donkey Republic Geneva",
+"url": "https://www.donkey.bike/cities/bike-rental-geneva/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-grenchen",
+"cc": "CH",
+"loc": "Grenchen",
+"name": "bird grenchen",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-kloten",
+"cc": "CH",
+"loc": "Kloten",
+"name": "bird kloten",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_kreuzlingen",
+"cc": "CH",
+"loc": "Kreuzlingen",
+"name": "Donkey Republic Kreuzlingen",
+"url": "https://www.donkey.bike/cities/bike-rental-kreuzlingen/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "epfl_lausanne",
+"cc": "CH",
+"loc": "Lausanne",
+"name": "EPFL - Lausanne",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_neuchatel",
+"cc": "CH",
+"loc": "Neuchâtel",
+"name": "Donkey Republic Neuchâtel",
+"url": "https://www.donkey.bike/cities/bike-rental-neuchatel/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-romanshorn",
+"cc": "CH",
+"loc": "Romanshorn",
+"name": "Dott romanshorn",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-rorschach",
+"cc": "CH",
+"loc": "Rorschach",
+"name": "Dott rorschach",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-schaffhausen",
+"cc": "CH",
+"loc": "Schaffhausen",
+"name": "bird schaffhausen",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_sion",
+"cc": "CH",
+"loc": "Sion",
+"name": "Donkey Republic Sion",
+"url": "https://www.donkey.bike/cities/bike-rental-sion/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "dott-st.-gallen",
+"cc": "CH",
+"loc": "St. Gallen",
+"name": "Dott st.-gallen",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "carvelo2go_ch",
+"cc": "CH",
+"loc": "Switzerland",
+"name": "carvelo eCargo-Bike Sharing",
+"url": "https://www.carvelo.ch",
+"pkg": "ch.carvelo2go.app",
+"ff": [
+"bicycle",
+"car",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_ch",
+"cc": "CH",
+"loc": "Switzerland",
+"name": "nextbike Switzerland",
+"url": "https://www.nextbike.ch/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "quickrent.ch",
+"cc": "CH",
+"loc": "Switzerland",
+"name": "QuickRent",
+"url": "https://www.quickrent.ch/",
+"pkg": "com.zemtu.quickrent",
+"ff": [
+"car"
+]
+},
+{
+"id": "velospot_ch",
+"cc": "CH",
+"loc": "Switzerland",
+"name": "Velospot",
+"url": "https://www.velospot.info/customer/public",
+"pkg": "ch.publibike2.app",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "voi_ch",
+"cc": "CH",
+"loc": "Switzerland",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "donkey_thun",
+"cc": "CH",
+"loc": "Thun",
+"name": "Donkey Republic Thun",
+"url": "https://www.donkey.bike/cities/bike-rental-thun/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "bird-uster",
+"cc": "CH",
+"loc": "Uster",
+"name": "bird uster",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-winterthur",
+"cc": "CH",
+"loc": "Winterthur",
+"name": "bird winterthur",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_yverdon-les-bains",
+"cc": "CH",
+"loc": "Yverdon Les Bains",
+"name": "Donkey Republic Yverdon-les-Bains",
+"url": "https://www.donkey.bike/cities/bike-rental-yverdon-les-bains/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-zurich",
+"cc": "CH",
+"loc": "Zurich",
+"name": "bird zurich",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bolt_zurich",
+"cc": "CH",
+"loc": "Zurich",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.mtakso.client",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "dott-zurich",
+"cc": "CH",
+"loc": "Zurich",
+"name": "Dott zurich",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_cy",
+"cc": "CY",
+"loc": "Cyprus",
+"name": "nextbike Cyprus",
+"url": "https://www.nextbike.com.cy/el/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_td",
+"cc": "CZ",
+"loc": "Berounsko",
+"name": "nextbike Berounsko",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_vm",
+"cc": "CZ",
+"loc": "CZ",
+"name": "nextbike Valašsko",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_te",
+"cc": "CZ",
+"loc": "Czechia",
+"name": "nextbike Brno",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tg",
+"cc": "CZ",
+"loc": "Czechia",
+"name": "nextbike Praha",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_to",
+"cc": "CZ",
+"loc": "Czechia",
+"name": "nextbike Ostrava",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tq",
+"cc": "CZ",
+"loc": "Czechia",
+"name": "nextbike Mladoboleslavsko",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tf",
+"cc": "CZ",
+"loc": "Dvůr Králové",
+"name": "nextbike Dvůr Králové",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ts",
+"cc": "CZ",
+"loc": "Frýdek-Místek",
+"name": "nextbike Frýdek-Místek",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nh",
+"cc": "CZ",
+"loc": "Hodonín, CZ",
+"name": "nextbike Hodonín",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tl",
+"cc": "CZ",
+"loc": "Hradec Králové",
+"name": "nextbike Hradec Králové",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_na",
+"cc": "CZ",
+"loc": "Hranice",
+"name": "nextbike Hranice",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nt",
+"cc": "CZ",
+"loc": "Jičín, CZ",
+"name": "nextbike Jičín",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tk",
+"cc": "CZ",
+"loc": "Kladno",
+"name": "nextbike Kladno",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ni",
+"cc": "CZ",
+"loc": "Kolin",
+"name": "nextbike Kolín",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tw",
+"cc": "CZ",
+"loc": "Krnov",
+"name": "nextbike Krnov",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ky",
+"cc": "CZ",
+"loc": "Kyjov",
+"name": "nextbike Kyjov",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_lb",
+"cc": "CZ",
+"loc": "Lipník nad Bečvou",
+"name": "nextbike Lipník nad Bečvou",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nl",
+"cc": "CZ",
+"loc": "Litovel",
+"name": "nextbike Litovel",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_lo",
+"cc": "CZ",
+"loc": "Lovosice",
+"name": "nextbike Lovosice",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_xc",
+"cc": "CZ",
+"loc": "Moravská Třebová",
+"name": "nextbike Moravská Třebová",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_uo",
+"cc": "CZ",
+"loc": "Most, CZ",
+"name": "nextbike Most",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ne",
+"cc": "CZ",
+"loc": "Neratovice",
+"name": "nextbike Neratovice",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ti",
+"cc": "CZ",
+"loc": "Olomouc",
+"name": "nextbike Olomouc",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_tj",
+"cc": "CZ",
+"loc": "Opava",
+"name": "nextbike Opava",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ot",
+"cc": "CZ",
+"loc": "Otrokovice",
+"name": "nextbike Otrokovice",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_cq",
+"cc": "CZ",
+"loc": "Pelhřimov",
+"name": "nextbike Pelhřimov",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_ty",
+"cc": "CZ",
+"loc": "Písek",
+"name": "nextbike Písek",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nr",
+"cc": "CZ",
+"loc": "Přerov",
+"name": "nextbike Přerov",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_rl",
+"cc": "CZ",
+"loc": "Roudnice nad Labem",
+"name": "nextbike Roudnice nad Labem",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tu",
+"cc": "CZ",
+"loc": "Třebíč",
+"name": "nextbike Třebíč",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tt",
+"cc": "CZ",
+"loc": "Uherské Hradiště",
+"name": "nextbike Uherské Hradiště",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nu",
+"cc": "CZ",
+"loc": "Uničov",
+"name": "nextbike Uničov",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tv",
+"cc": "CZ",
+"loc": "Zlín",
+"name": "nextbike Zlín",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nc",
+"cc": "CZ",
+"loc": "Česká Třebová",
+"name": "nextbike Česká Třebová",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nd",
+"cc": "CZ",
+"loc": "Český Brod",
+"name": "nextbike Český Brod",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ns",
+"cc": "CZ",
+"loc": "Šumperk",
+"name": "nextbike Šumperk",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_zs",
+"cc": "CZ",
+"loc": "Ždár nad Sázavou",
+"name": "nextbike Ždár nad Sázavou",
+"url": "https://www.nextbikeczech.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-aachen",
+"cc": "DE",
+"loc": "Aachen",
+"name": "Dott aachen",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_an",
+"cc": "DE",
+"loc": "Aachen",
+"name": "euregiobike",
+"url": "https://www.euregiobike.eu/de",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_am",
+"cc": "DE",
+"loc": "Achim",
+"name": "moin mobil Achim",
+"url": "https://www.nextbike.de/moinmobil/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "Augsburg",
+"cc": "DE",
+"loc": "Augsburg",
+"name": "Augsburg",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "swabi",
+"cc": "DE",
+"loc": "Augsburg",
+"name": "swabi - augsburg",
+"url": "https://swabi.eu/",
+"pkg": "io.birota.swabikes",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_bamberg",
+"cc": "DE",
+"loc": "Bamberg",
+"name": "Bamberg",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "zeus_bamberg",
+"cc": "DE",
+"loc": "Bamberg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "bayern_komplett",
+"cc": "DE",
+"loc": "Bayern",
+"name": "Bayern komplett ",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_ac",
+"cc": "DE",
+"loc": "Bergisches e-Bike",
+"name": "Bergisches e-Bike",
+"url": "https://www.nextbike.de/bergisches-ebike/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-berlin",
+"cc": "DE",
+"loc": "Berlin",
+"name": "Dott berlin",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "getaround_berlin",
+"cc": "DE",
+"loc": "Berlin",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/berlin",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_bn",
+"cc": "DE",
+"loc": "Berlin",
+"name": "nextbike Berlin",
+"url": "https://www.nextbike.de/berlin/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_cb",
+"cc": "DE",
+"loc": "Berlin-Buch",
+"name": "Campus Berlin-Buch",
+"url": "https://www.nextbike.de/de/berlin-buch/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "teilauto_biberach",
+"cc": "DE",
+"loc": "Biberach",
+"name": "teilAuto Biberach",
+"url": "https://www.teilauto-biberach.de/",
+"pkg": "de.cantamen.carsharing.deutschland",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_dg",
+"cc": "DE",
+"loc": "Bielefeld",
+"name": "meinSiggi",
+"url": "https://www.nextbike.de/bielefeld/",
+"pkg": "net.nextbike.flowbiesiggi",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-bochum",
+"cc": "DE",
+"loc": "Bochum",
+"name": "Dott bochum",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_wa",
+"cc": "DE",
+"loc": "Bonn",
+"name": "welo",
+"url": "https://www.nextbike.de",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_dn",
+"cc": "DE",
+"loc": "Braunschweig",
+"name": "Veloleo",
+"url": "https://www.nextbike.de/veloleo/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_bq",
+"cc": "DE",
+"loc": "Bremen",
+"name": "Bre.Bike",
+"url": "https://www.nextbike.de/bre.bike/de/de/bremen/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeo_bruchsal",
+"cc": "DE",
+"loc": "Bruchsal",
+"name": "zeo Carsharing",
+"url": "https://www.zeo-carsharing.de/",
+"pkg": "coop.vianova.zeosharing",
+"ff": [
+"car"
+]
+},
+{
+"id": "zeus_castrop-rauxel",
+"cc": "DE",
+"loc": "Castrop Rauxel",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-cologne",
+"cc": "DE",
+"loc": "Cologne",
+"name": "Dott cologne",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_kg",
+"cc": "DE",
+"loc": "Cologne",
+"name": "KVB Rad",
+"url": "https://www.kvb-rad.de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_hb",
+"cc": "DE",
+"loc": "DE",
+"name": "HelBi (Kreis Soest)",
+"url": "https://www.nextbike.de/helbi/de",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "ford_carsharing_autohausalbert",
+"cc": "DE",
+"loc": "Donaueschingen",
+"name": "Ford Carsharing (Autohaus Albert)",
+"url": "https://www.ford-carsharing.de/",
+"pkg": "de.fordcarsharing.sharing.app",
+"ff": [
+"car"
+]
+},
+{
+"id": "zeus_donaueschingen",
+"cc": "DE",
+"loc": "Donaueschingen",
+"name": "Donaueschingen 2",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "nextbike_dx",
+"cc": "DE",
+"loc": "Dresden",
+"name": "MOBIbike",
+"url": "https://www.nextbike.de/dresden",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_duisburg",
+"cc": "DE",
+"loc": "Druisburg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-dusseldorf",
+"cc": "DE",
+"loc": "Dusseldorf",
+"name": "Dott dusseldorf",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_dd",
+"cc": "DE",
+"loc": "Düsseldorf",
+"name": "nextbike Düsseldorf",
+"url": "https://www.nextbike.de/duesseldorf/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_eb",
+"cc": "DE",
+"loc": "Eifel",
+"name": "Eifel e-Bike",
+"url": "https://www.nextbike.de/eifel-ebike/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "159",
+"cc": "DE",
+"loc": "Erfurt",
+"name": "Erfurt",
+"url": "https://yoio.app/",
+"pkg": "yoio.app",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "Ergolding",
+"cc": "DE",
+"loc": "Ergolding",
+"name": "Ergolding",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "dott-essen",
+"cc": "DE",
+"loc": "Essen",
+"name": "Dott essen",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "getaround_essen",
+"cc": "DE",
+"loc": "Essen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/essen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_df",
+"cc": "DE",
+"loc": "Freiburg",
+"name": "Frelo",
+"url": "https://www.frelo-freiburg.de/de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "71",
+"cc": "DE",
+"loc": "Freiburg im Breisgau",
+"name": "Freiburg",
+"url": "http://www.yoio.app",
+"pkg": "yoio.app",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "gruene-flotte_freiburg",
+"cc": "DE",
+"loc": "Freiburg im Breisgau",
+"name": "Die Grüne Flotte",
+"url": "https://gruene-flotte.com/carsharing/",
+"pkg": "de.cantamen.ewi3.gfc",
+"ff": [
+"car"
+]
+},
+{
+"id": "zeus_freiburg im breisgau",
+"cc": "DE",
+"loc": "Freiburg im Breisgau",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_friedberg",
+"cc": "DE",
+"loc": "Friedberg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_ev",
+"cc": "DE",
+"loc": "Friedrichsdorf",
+"name": "flux Bikesharing",
+"url": "https://www.nextbike.de/flux-bikesharing/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "dott-friedrichshafen",
+"cc": "DE",
+"loc": "Friedrichshafen",
+"name": "Dott friedrichshafen",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "zeus_gera",
+"cc": "DE",
+"loc": "Gera",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "callabike",
+"cc": "DE",
+"loc": "Germany",
+"name": "Call a Bike",
+"url": "https://www.callabike.de/",
+"pkg": "de.bahn.callabike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "deer",
+"cc": "DE",
+"loc": "Germany",
+"name": "Deer Mobility",
+"url": "https://www.deer-mobility.de/",
+"pkg": "de.deer_mobility.carsharing",
+"ff": [
+"car"
+]
+},
+{
+"id": "einfach_unterwegs",
+"cc": "DE",
+"loc": "Germany",
+"name": "einfach unterwegs",
+"url": "https://www.einfach-unterwegs.eu/",
+"pkg": "de.moqo.work",
+"ff": [
+"bicycle",
+"car",
+"cargo_bicycle"
+]
+},
+{
+"id": "flinkster_carsharing",
+"cc": "DE",
+"loc": "Germany",
+"name": "Flinkster",
+"url": "https://www.flinkster.de/",
+"pkg": "de.flinkster.sharing.app",
+"ff": [
+"car"
+]
+},
+{
+"id": "ford_carsharing_autohausbaur",
+"cc": "DE",
+"loc": "Germany",
+"name": "Ford Carsharing (Autohaus Baur)",
+"url": "https://www.ford-carsharing.de/",
+"pkg": "de.fordcarsharing.sharing.app",
+"ff": [
+"car"
+]
+},
+{
+"id": "mikar",
+"cc": "DE",
+"loc": "Germany",
+"name": "mikar",
+"url": "https://mikar.de/",
+"pkg": "de.fleetster.mikar",
+"ff": [
+"car"
+]
+},
+{
+"id": "stadtwerk_tauberfranken",
+"cc": "DE",
+"loc": "Germany",
+"name": "Stadtwerk Tauberfranken",
+"url": "https://stadtwerk-tauberfranken.de/elektromobilitaet/e-carsharing/",
+"pkg": "de.moqo.work",
+"ff": [
+"car"
+]
+},
+{
+"id": "voi_de",
+"cc": "DE",
+"loc": "Germany",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "nextbike_ng",
+"cc": "DE",
+"loc": "Gießen",
+"name": "nextbike Gießen",
+"url": "https://www.nextbike.de/giessen/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_da",
+"cc": "DE",
+"loc": "Graben",
+"name": "Graben - ready4green",
+"url": "https://www.nextbike.de/ready4green/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ug",
+"cc": "DE",
+"loc": "Greifswald",
+"name": "StadtRad Greifswald",
+"url": "https://stadtrad-greifswald.de/",
+"pkg": "net.nextbike.mvrad",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ed",
+"cc": "DE",
+"loc": "Grünheide (Mark)",
+"name": "EDEKA Grünheide",
+"url": "https://www.nextbike.de/gruenheide/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "zeus_goppingen",
+"cc": "DE",
+"loc": "Göppingen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "9",
+"cc": "DE",
+"loc": "Göttingen",
+"name": "Göttingen",
+"url": "https://yoio.app/",
+"pkg": "yoio.app",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "nextbike_dj",
+"cc": "DE",
+"loc": "Gütersloh",
+"name": "nextbike Gütersloh",
+"url": "https://www.nextbike.de/guetersloh/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "zeus_hagen",
+"cc": "DE",
+"loc": "Hagen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_mx",
+"cc": "DE",
+"loc": "Halle",
+"name": "movemix_bike",
+"url": "https://www.movemix-bike.de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "getaround_hamburg",
+"cc": "DE",
+"loc": "Hamburg",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/hamburg",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "dott-hannover",
+"cc": "DE",
+"loc": "Hannover",
+"name": "Dott hannover",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_dh",
+"cc": "DE",
+"loc": "Hannover",
+"name": "nextbike Hannover",
+"url": "https://www.nextbike.de/hannover/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_hannover",
+"cc": "DE",
+"loc": "Hanover",
+"name": "Hannover-GVH",
+"url": "https://www.donkey.bike/cities/hanover",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "zeus_hattingen",
+"cc": "DE",
+"loc": "Hattingen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-heidelberg",
+"cc": "DE",
+"loc": "Heidelberg",
+"name": "Dott heidelberg",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_heidelberg",
+"cc": "DE",
+"loc": "Heidelberg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-heilbronn",
+"cc": "DE",
+"loc": "Heilbronn",
+"name": "Dott heilbronn",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "zeus_heilbronn",
+"cc": "DE",
+"loc": "Heilbronn",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_gh",
+"cc": "DE",
+"loc": "Heinsberg",
+"name": "westBike",
+"url": "https://www.west-bike.de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "zeus_hemmingen",
+"cc": "DE",
+"loc": "Hemmingen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_herne",
+"cc": "DE",
+"loc": "Herne",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_jena",
+"cc": "DE",
+"loc": "Jena",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-kaiserslautern",
+"cc": "DE",
+"loc": "Kaiserslautern",
+"name": "Dott kaiserslautern",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "bolt_karlsruhe",
+"cc": "DE",
+"loc": "Karlsruhe",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.mtakso.client",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "dott-karlsruhe",
+"cc": "DE",
+"loc": "Karlsruhe",
+"name": "Dott karlsruhe",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_fg",
+"cc": "DE",
+"loc": "Karlsruhe",
+"name": "KVV.nextbike",
+"url": "https://www.kvv-nextbike.de/de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "stadtmobil_karlsruhe",
+"cc": "DE",
+"loc": "Karlsruhe",
+"name": "Stadtmobil Karlsruhe",
+"url": "https://karlsruhe.stadtmobil.de/",
+"pkg": "de.cantamen.stadtmobil",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_dk",
+"cc": "DE",
+"loc": "Kassel",
+"name": "nextbike Kassel",
+"url": "https://www.nextbike.de/kassel/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "Kelheim",
+"cc": "DE",
+"loc": "Kelheim",
+"name": "Kelheim",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_kempten",
+"cc": "DE",
+"loc": "Kempten",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "donkey_kiel",
+"cc": "DE",
+"loc": "Kiel",
+"name": "Donkey Republic Kiel",
+"url": "https://www.donkey.bike/cities/bike-rental-kiel/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "donkey_kielsmile",
+"cc": "DE",
+"loc": "Kiel Region",
+"name": "Donkey KielRegion+Smile24",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "hopp_konstanz",
+"cc": "DE",
+"loc": "Konstanz",
+"name": "Hopp Konstanz",
+"url": "https://hopp.bike/",
+"pkg": "bike.hopp",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "nextbike_kk",
+"cc": "DE",
+"loc": "Konstanz",
+"name": "Mein konrad",
+"url": "https://www.stadtwerke-konstanz.de/mobilitaet/fahrradmietsystem/",
+"pkg": "net.nextbike.konrad",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_konstanz",
+"cc": "DE",
+"loc": "Konstanz",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-langenfeld",
+"cc": "DE",
+"loc": "Langenfeld",
+"name": "Dott langenfeld",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_lr",
+"cc": "DE",
+"loc": "Langenfeld",
+"name": "LVR Bike",
+"url": "https://www.nextbike.de/lvr-langenfeld/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "zeus_leimen_walldorf_wiesloch",
+"cc": "DE",
+"loc": "Leimen",
+"name": "Heidelberg",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "dott-leipzig",
+"cc": "DE",
+"loc": "Leipzig",
+"name": "Dott leipzig",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_le",
+"cc": "DE",
+"loc": "Leipzig",
+"name": "nextbike Leipzig",
+"url": "https://www.nextbike.de/leipzig/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "getaround_leverkusen",
+"cc": "DE",
+"loc": "Leverkusen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/leverkusen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_dw",
+"cc": "DE",
+"loc": "Leverkusen",
+"name": "wupsiRad Leverkusen",
+"url": "https://www.wupsirad.de/leverkusen/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_limburgerhof",
+"cc": "DE",
+"loc": "Limburgerhof",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-ludwigsburg",
+"cc": "DE",
+"loc": "Ludwigsburg",
+"name": "Dott ludwigsburg",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_ludwigsburg",
+"cc": "DE",
+"loc": "Ludwigsburg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_mz",
+"cc": "DE",
+"loc": "Mainz",
+"name": "meinRad",
+"url": "https://www.mainzer-mobilitaet.de/mehr-mobilitaet/meinrad/",
+"pkg": "de.apptiv.business.android.mvgmeinrad",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_rr",
+"cc": "DE",
+"loc": "Mannheim",
+"name": "Roche - Bike",
+"url": "https://www.nextbike.de/dcs-bike/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_nm",
+"cc": "DE",
+"loc": "Marburg",
+"name": "nextbike Marburg",
+"url": "https://www.nextbike.de/marburg/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_marburg",
+"cc": "DE",
+"loc": "Marburg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_um",
+"cc": "DE",
+"loc": "Mecklenburg-Vorpommern",
+"name": "MV-Rad",
+"url": "https://mv-rad.de/",
+"pkg": "net.nextbike.mvrad",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "bird-munich",
+"cc": "DE",
+"loc": "Munich",
+"name": "bird munich",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_munich",
+"cc": "DE",
+"loc": "Munich",
+"name": "Donkey Republic Munich",
+"url": "https://www.donkey.bike/cities/bike-rental-munich/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-munich",
+"cc": "DE",
+"loc": "Munich",
+"name": "Dott munich",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_ml",
+"cc": "DE",
+"loc": "Munich",
+"name": "MyRadl ",
+"url": "https://myradl.de/de",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_sn",
+"cc": "DE",
+"loc": "Mönchengladbach",
+"name": "NEW MöBus nextbike",
+"url": "https://www.nextbike.de/moenchengladbach/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-munster",
+"cc": "DE",
+"loc": "Münster",
+"name": "Dott munster",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "teilauto_neckar-alb",
+"cc": "DE",
+"loc": "Neckar-Alb",
+"name": "teilAuto Neckar-Alb",
+"url": "https://www.teilauto-neckar-alb.de/",
+"pkg": "de.cantamen.carsharing.deutschland",
+"ff": [
+"car",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_neustadt",
+"cc": "DE",
+"loc": "Neustadt",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_st",
+"cc": "DE",
+"loc": "Neustrelitz",
+"name": "StadtRad Neustrelitz",
+"url": "https://stadtrad-neustrelitz.de/",
+"pkg": "net.nextbike.mvrad",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "Neutraubling",
+"cc": "DE",
+"loc": "Neutraubling",
+"name": "Neutraubling",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "getaround_norderstedt",
+"cc": "DE",
+"loc": "Norderstedt",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/norderstedt",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_nn",
+"cc": "DE",
+"loc": "Norderstedt",
+"name": "nextbike Norderstedt",
+"url": "https://www.nextbike.de/norderstedt/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_lc",
+"cc": "DE",
+"loc": "Nordsachsen",
+"name": "Landkreis Nordsachsen",
+"url": "https://www.nextbike.de/nordsachsen/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_dv",
+"cc": "DE",
+"loc": "Nuremberg",
+"name": "VAG_Rad",
+"url": "https://www.vagrad.de/",
+"pkg": "de.nuernbergmobil",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "Obertraubling",
+"cc": "DE",
+"loc": "Obertraubling",
+"name": "Obertraubling",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "donkey_ochtrup",
+"cc": "DE",
+"loc": "Ochtrup",
+"name": "Donkey Ochtrup",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_eh",
+"cc": "DE",
+"loc": "Ortenaukreis",
+"name": "EinfachMobil",
+"url": "https://www.nextbike.de/einfachmobil/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"other"
+]
+},
+{
+"id": "zeus_pforzheim",
+"cc": "DE",
+"loc": "Pforzheim",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-potsdam",
+"cc": "DE",
+"loc": "Potsdam",
+"name": "Dott potsdam",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_dc",
+"cc": "DE",
+"loc": "Potsdam",
+"name": "Potsdam Rad",
+"url": "https://www.nextbike.de/potsdam/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_pulheim",
+"cc": "DE",
+"loc": "Pulheim",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/pulheim",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "seefahrer_ecarsharing",
+"cc": "DE",
+"loc": "Radolfzell",
+"name": "SEEFAHRER E-Carsharing",
+"url": "https://www.stadtwerke-radolfzell.de/mobilitaet/e-carsharing/",
+"pkg": "de.moqo.work",
+"ff": [
+"car",
+"cargo_bicycle"
+]
+},
+{
+"id": "oberschwabenmobil",
+"cc": "DE",
+"loc": "Ravensburg",
+"name": "OberSchwabenMobil CarSharing",
+"url": "https://www.oberschwabenmobil.de/",
+"pkg": "de.moqo.work",
+"ff": [
+"car"
+]
+},
+{
+"id": "donkey_regensburg",
+"cc": "DE",
+"loc": "Regensburg",
+"name": "Regensburg, Augsburg, Straubing, Tuttlingen",
+"url": "https://www.donkey.bike/cities/bike-rental-regensburg/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "donkey_regensburg_straubing",
+"cc": "DE",
+"loc": "Regensburg",
+"name": "Donkey Regensburg",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_regensburg",
+"cc": "DE",
+"loc": "Regensburg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_rh",
+"cc": "DE",
+"loc": "Remagen",
+"name": "AW-bike",
+"url": "https://www.nextbike.de/aw-bike/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "oekostadt_renningen",
+"cc": "DE",
+"loc": "Renningen",
+"name": "CarSharing Renningen",
+"url": "https://carsharing-renningen.de/",
+"pkg": "de.cantamen.carsharing.deutschland",
+"ff": [
+"car"
+]
+},
+{
+"id": "zeus_renningen-malmsheim",
+"cc": "DE",
+"loc": "Renningen-Malmsheim",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "bolt_reutlingen_tuebingen",
+"cc": "DE",
+"loc": "Reutlingen",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.mtakso.client",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "zeus_reutlingen",
+"cc": "DE",
+"loc": "Reutlingen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_re",
+"cc": "DE",
+"loc": "Rhein-Erft-Kreis",
+"name": "mobic",
+"url": "https://www.nextbike.de/mobic",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "stadtmobil_rhein-neckar",
+"cc": "DE",
+"loc": "Rhein-Neckar",
+"name": "Stadtmobil Rhein-Neckar",
+"url": "https://rhein-neckar.stadtmobil.de/",
+"pkg": "de.cantamen.stadtmobil",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_vn",
+"cc": "DE",
+"loc": "Rhine-Neckar",
+"name": "VRNnextbike",
+"url": "https://www.vrnnextbike.de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_wp",
+"cc": "DE",
+"loc": "Rommerskirchen",
+"name": "Bikesharing Amprion",
+"url": "https://www.nextbike.de/amprion/de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_mr",
+"cc": "DE",
+"loc": "Ruhr",
+"name": "nextbike Ruhrgebiet",
+"url": "https://www.nextbike.de/stadtlastenrad/de",
+"pkg": "de.nextbike",
+"ff": [
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_russelsheim",
+"cc": "DE",
+"loc": "Russelsheim",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_do",
+"cc": "DE",
+"loc": "Rüsselsheim",
+"name": "nextbike Rüsselsheim am Main",
+"url": "https://www.nextbike.de/ruesselsheim/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_schleswig",
+"cc": "DE",
+"loc": "Schleswig",
+"name": "Kreis Schleswig-Flensburg",
+"url": "https://www.donkey.bike/cities/schlei-region/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_schweinfurt",
+"cc": "DE",
+"loc": "Schweinfurt",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_schwabisch gmund",
+"cc": "DE",
+"loc": "Schwäbisch Gmünd",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "teilauto_schwaebisch_hall",
+"cc": "DE",
+"loc": "Schwäbisch Hall",
+"name": "teilAuto Schwäbisch Hall",
+"url": "https://www.teilauto-hall.de/",
+"pkg": "de.cantamen.carsharing.deutschland",
+"ff": [
+"car"
+]
+},
+{
+"id": "zeus_singen",
+"cc": "DE",
+"loc": "Singen",
+"name": "Singen",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "naturenergie_sharing",
+"cc": "DE",
+"loc": "South Baden",
+"name": "naturenergie sharing",
+"url": "https://www.naturenergie-sharing.de/",
+"pkg": "de.cantamen.carsharing.deutschland",
+"ff": [
+"car",
+"cargo_bicycle"
+]
+},
+{
+"id": "zeus_straubing",
+"cc": "DE",
+"loc": "Straubing",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "bolt_stuttgart",
+"cc": "DE",
+"loc": "Stuttgart",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.mtakso.client",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "dott-stuttgart",
+"cc": "DE",
+"loc": "Stuttgart",
+"name": "Dott stuttgart",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "regiorad_stuttgart",
+"cc": "DE",
+"loc": "Stuttgart",
+"name": "RegioRad Stuttgart",
+"url": "https://www.regioradstuttgart.de/",
+"pkg": "de.regiorad.stuttgart",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "stadtmobil_stuttgart",
+"cc": "DE",
+"loc": "Stuttgart",
+"name": "Stadtmobil Stuttgart",
+"url": "https://stuttgart.stadtmobil.de/",
+"pkg": "de.cantamen.stadtmobil",
+"ff": [
+"car"
+]
+},
+{
+"id": "stella",
+"cc": "DE",
+"loc": "Stuttgart",
+"name": "stella",
+"url": "https://www.stella-sharing.de/",
+"pkg": "de.stella.app",
+"ff": [
+"bicycle",
+"moped",
+"scooter_standing"
+]
+},
+{
+"id": "lime_bw",
+"cc": "DE",
+"loc": "Stuttgart-Konstanz",
+"name": "Lime",
+"url": "https://www.li.me/",
+"pkg": "com.limebike",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_troisdorf",
+"cc": "DE",
+"loc": "Troisdorf",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/troisdorf",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "zeus_tuttlingen",
+"cc": "DE",
+"loc": "Tuttlingen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_tubingen",
+"cc": "DE",
+"loc": "Tübingen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "bird-ulm",
+"cc": "DE",
+"loc": "Ulm",
+"name": "bird ulm",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "conficars_ulm",
+"cc": "DE",
+"loc": "Ulm",
+"name": "conficars",
+"url": "https://conficars.de/",
+"pkg": "de.cantamen.carsharing.deutschland",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_ur",
+"cc": "DE",
+"loc": "Usedom",
+"name": "UsedomRad",
+"url": "https://usedomrad.de/",
+"pkg": "net.nextbike.mvrad",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_velbert",
+"cc": "DE",
+"loc": "Velbert",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/velbert",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "zeus_villingen-schwenningen",
+"cc": "DE",
+"loc": "Villingen-Schwenningen",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "lara_to_go",
+"cc": "DE",
+"loc": "Waiblingen",
+"name": "LaRa to go",
+"url": "https://energieagentur-remsmurr.de/projekte/Lastenradverleih",
+"pkg": "de.moqo.work",
+"ff": [
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_ds",
+"cc": "DE",
+"loc": "Walldorf",
+"name": "SAP Walldorf",
+"url": "https://www.nextbike.de/walldorf/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "hertlein_carsharing",
+"cc": "DE",
+"loc": "Weikersheim",
+"name": "HERTLEIN Carsharing",
+"url": "https://www.hertlein.me/vermietung/carsharing/",
+"pkg": "de.moqo.work",
+"ff": [
+"car"
+]
+},
+{
+"id": "stadtwerke_wertheim",
+"cc": "DE",
+"loc": "Wertheim",
+"name": "Carsharing in Wertheim",
+"url": "https://www.stadtwerke-wertheim.de/carsharing",
+"pkg": "de.moqo.work",
+"ff": [
+"car"
+]
+},
+{
+"id": "szabo_mobility",
+"cc": "DE",
+"loc": "Wertheim",
+"name": "Szabo Mobility",
+"url": "https://www.szabo.de/carsharing-privat",
+"pkg": "de.moqo.work",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_wn",
+"cc": "DE",
+"loc": "Wiesbaden",
+"name": "nextbike Wiesbaden",
+"url": "https://www.nextbike.de/wiesbaden/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_wd",
+"cc": "DE",
+"loc": "Winsen (Luhe)",
+"name": "WinsenRad",
+"url": "https://www.winsenrad.de/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "Donkey-Prignitz",
+"cc": "DE",
+"loc": "Wittenberge",
+"name": "Donkey Prignitz",
+"url": "https://www.donkey.bike/cities/prignitz",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "zeus_wurzburg",
+"cc": "DE",
+"loc": "Wurzburg",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "com.zeus.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "donkey_aalborg",
+"cc": "DK",
+"loc": "Aalborg",
+"name": "Donkey Republic Aalborg",
+"url": "https://www.donkey.bike/cities/bike-rental-aalborg/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_aarhus",
+"cc": "DK",
+"loc": "Aarhus",
+"name": "Donkey Republic Aarhus",
+"url": "https://www.donkey.bike/cities/bike-rental-aarhus/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_ballerup",
+"cc": "DK",
+"loc": "Ballerup",
+"name": "Donkey Ballerup",
+"url": "https://www.donkey.bike/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_bandholm",
+"cc": "DK",
+"loc": "Bandholm",
+"name": "Donkey Republic Bandholm",
+"url": "https://www.donkey.bike/cities/bike-rental-bandholm/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_copenhagen",
+"cc": "DK",
+"loc": "Copenhagen",
+"name": "Donkey Republic Copenhagen",
+"url": "https://www.donkey.bike/cities/bike-rental-copenhagen/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-copenhagen",
+"cc": "DK",
+"loc": "Copenhagen",
+"name": "Dott copenhagen",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_frederikshavn",
+"cc": "DK",
+"loc": "Frederikshavn",
+"name": "Donkey Republic Frederikshavn",
+"url": "https://www.donkey.bike/cities/bike-rental-frederikshavn/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_glostrup",
+"cc": "DK",
+"loc": "Glostrup",
+"name": "Donkey Republic Glostrup",
+"url": "https://www.donkey.bike/cities/bike-rental-glostrup/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_herning",
+"cc": "DK",
+"loc": "Herning",
+"name": "Donkey Republic Herning",
+"url": "https://www.donkey.bike/cities/herning/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_hillerod",
+"cc": "DK",
+"loc": "Hillerød",
+"name": "Donkey Republic Hillerød",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_klampenborg",
+"cc": "DK",
+"loc": "Klampenborg",
+"name": "Donkey Republic Klampenborg",
+"url": "https://www.donkey.bike/cities/bike-rental-klampenborg/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_lalandia",
+"cc": "DK",
+"loc": "Lalandia (Rødby)",
+"name": "Donkey Republic Lalandia (Rødby)",
+"url": "https://www.donkey.bike/cities/bike-rental-lalandia-rodby/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_middelfart",
+"cc": "DK",
+"loc": "Middelfart",
+"name": "Donkey Republic Middelfart",
+"url": "https://www.donkey.bike/cities/bike-rental-middelfart/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_odense",
+"cc": "DK",
+"loc": "Odense",
+"name": "Donkey Republic Odense",
+"url": "https://www.donkey.bike/cities/bike-rental-odense/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "dott-region-h",
+"cc": "DK",
+"loc": "Region Hovedstaden",
+"name": "Dott region-h",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-roskilde",
+"cc": "DK",
+"loc": "Roskilde",
+"name": "Dott roskilde",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_roedvig",
+"cc": "DK",
+"loc": "Rødvig",
+"name": "Donkey Republic Rødvig",
+"url": "https://www.donkey.bike/cities/bike-rental-rodvig/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_store_heddinge",
+"cc": "DK",
+"loc": "Store Heddinge",
+"name": "Donkey Republic Store Heddinge",
+"url": "https://www.donkey.bike/cities/bike-rental-store-heddinge/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-adeje",
+"cc": "ES",
+"loc": "Adeje",
+"name": "bird adeje",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_alcobendas",
+"cc": "ES",
+"loc": "Alcobendas",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/alcobendas",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_alicante",
+"cc": "ES",
+"loc": "Alicante",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/alicante",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_ra",
+"cc": "ES",
+"loc": "Almería",
+"name": "Roquebike",
+"url": "https://www.nextbike.es/roquebike",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-antigua",
+"cc": "ES",
+"loc": "Antigua",
+"name": "bird antigua",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_aranjuez",
+"cc": "ES",
+"loc": "Aranjuez",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/aranjuez",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "nextbike_aa",
+"cc": "ES",
+"loc": "Artexio, ES",
+"name": "biciArteixo",
+"url": "https://www.biciarteixo.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_badalona",
+"cc": "ES",
+"loc": "Badalona",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/badalona",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "barcelona",
+"cc": "ES",
+"loc": "Barcelona",
+"name": "Cooltra",
+"url": "https://cooltra.com/",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "bird-barcelona",
+"cc": "ES",
+"loc": "Barcelona",
+"name": "bird barcelona",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_barcelona",
+"cc": "ES",
+"loc": "Barcelona",
+"name": "Donkey Barcelona",
+"url": "https://www.donkey.bike/cities/bike-rental-barcelona/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_barcelona",
+"cc": "ES",
+"loc": "Barcelona",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/barcelona",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_bs",
+"cc": "ES",
+"loc": "Barcelona",
+"name": "AMBici",
+"url": "https://www.ambici.cat/",
+"pkg": "net.nextbike.ambici",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_benidorm",
+"cc": "ES",
+"loc": "Benidorm",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/benidorm",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "nextbike_bk",
+"cc": "ES",
+"loc": "Bilbao (bk 4.0)",
+"name": "bizkaibizi 4.0",
+"url": "https://www.bizkaibizi.eus/",
+"pkg": "net.nextbike.bizkaibizi",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_bw",
+"cc": "ES",
+"loc": "Bilbao, ES",
+"name": "bizkaibizi (Spain)",
+"url": "https://www.bizkaibizi.eus/",
+"pkg": "net.nextbike.bizkaibizi",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_by",
+"cc": "ES",
+"loc": "Boadilla del Monte",
+"name": "bibo",
+"url": "https://www.biciboadilla.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ls",
+"cc": "ES",
+"loc": "Canary Islands",
+"name": "Lovesharing (Canary Islands)",
+"url": "https://www.lovesharing.com/bikesharing/es/",
+"pkg": "net.nextbike.lovesharing",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_candelaria",
+"cc": "ES",
+"loc": "Candelaria",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/candelaria",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_castelldefels",
+"cc": "ES",
+"loc": "Castelldefels",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/castelldefels",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_coslada",
+"cc": "ES",
+"loc": "Coslada",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/coslada",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_fuenlabrada",
+"cc": "ES",
+"loc": "Fuenlabrada",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/fuenlabrada",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_getafe",
+"cc": "ES",
+"loc": "Getafe",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/getafe",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-gijón",
+"cc": "ES",
+"loc": "Gijón",
+"name": "bird gijon",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_granada",
+"cc": "ES",
+"loc": "Granada",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/granada",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_granollers",
+"cc": "ES",
+"loc": "Granollers",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/granollers",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "nextbike_el",
+"cc": "ES",
+"loc": "Las Palmas de Gran Canaria",
+"name": "moxsi (Las Palmas de Gran Canaria)",
+"url": "https://www.moxsi.es/",
+"pkg": "de.nextbike.sitycleta",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_sl",
+"cc": "ES",
+"loc": "León",
+"name": "nextbike León",
+"url": "https://www.alsa-nextbike.es/leon/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ej",
+"cc": "ES",
+"loc": "Logroño",
+"name": "nextbike BiciLOG",
+"url": "https://www.nextbike-bicilog.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-madrid",
+"cc": "ES",
+"loc": "Madrid",
+"name": "bird madrid",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_madrid",
+"cc": "ES",
+"loc": "Madrid",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/madrid",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "madrid",
+"cc": "ES",
+"loc": "Madrid",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "getaround_majadahonda",
+"cc": "ES",
+"loc": "Majadahonda",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/majadahonda",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_mao",
+"cc": "ES",
+"loc": "Mao",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/mao",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "nextbike_ad",
+"cc": "ES",
+"loc": "Mislata",
+"name": "BiciMislata",
+"url": "https://bicimislata.mibisivalencia.es",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-murcia",
+"cc": "ES",
+"loc": "Murcia",
+"name": "bird murcia",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_ea",
+"cc": "ES",
+"loc": "Palma",
+"name": "BiciPalma",
+"url": "https://www.bicipalma.com/",
+"pkg": "net.nextbike.bicipalma",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_parla",
+"cc": "ES",
+"loc": "Parla",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/parla",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_paterna",
+"cc": "ES",
+"loc": "Paterna",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/paterna",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-pájara",
+"cc": "ES",
+"loc": "Pájara",
+"name": "bird pajara",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "ganxeta_reus",
+"cc": "ES",
+"loc": "Reus",
+"name": "Ganxeta",
+"url": "https://ganxeta.cat",
+"pkg": "cat.reusmobilitat.bikesharing",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_sabadell",
+"cc": "ES",
+"loc": "Sabadell",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/sabadell",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "nextbike_ek",
+"cc": "ES",
+"loc": "Santander, ES",
+"name": "TUeBICI",
+"url": "https://www.tuebici.es/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_sevilla",
+"cc": "ES",
+"loc": "Sevilla",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/sevilla",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "seville",
+"cc": "ES",
+"loc": "Seville",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "seville",
+"cc": "ES",
+"loc": "Seville",
+"name": "Sevici",
+"url": "https://www.sevici.es/",
+"pkg": "com.jcdecaux.vls.seville",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_torremolinos",
+"cc": "ES",
+"loc": "Torremolinos",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/torremolinos",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_torrent",
+"cc": "ES",
+"loc": "Torrent",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/torrent",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_en",
+"cc": "ES",
+"loc": "Torrent",
+"name": "TORRENTBICI",
+"url": "https://www.mibisivalencia.es/torrentbici/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_valdemoro",
+"cc": "ES",
+"loc": "Valdemoro",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/valdemoro",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_valencia",
+"cc": "ES",
+"loc": "Valencia",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/valencia",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "valence",
+"cc": "ES",
+"loc": "Valencia",
+"name": "Valenbisi",
+"url": "https://www.valenbisi.es/",
+"pkg": "com.jcdecaux.vls.valence",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_viladecans",
+"cc": "ES",
+"loc": "Viladecans",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/viladecans",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "valencia",
+"cc": "ES",
+"loc": "valancia",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_hamina",
+"cc": "FI",
+"loc": "Hamina",
+"name": "Donkey Republic Hamina",
+"url": "https://www.donkey.bike/cities/bike-rental-hamina/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "bird-helsinki",
+"cc": "FI",
+"loc": "Helsinki",
+"name": "bird helsinki",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_helsinki",
+"cc": "FI",
+"loc": "Helsinki",
+"name": "Donkey Helsinki",
+"url": "https://donkey.bike/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_hyvinkaa",
+"cc": "FI",
+"loc": "Hyvinkää",
+"name": "Donkey Republic Hyvinkää",
+"url": "https://www.donkey.bike/cities/bike-rental-hyvinkaa/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_haemeenlinna",
+"cc": "FI",
+"loc": "Hämeenlinna",
+"name": "Donkey Republic Hämeenlinna",
+"url": "https://www.donkey.bike/cities/bike-rental-hameenlinna/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_iisalmi",
+"cc": "FI",
+"loc": "Iisalmi",
+"name": "Donkey Republic Iisalmi",
+"url": "https://www.donkey.bike/cities/bike-rental-iisalmi/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_imatra",
+"cc": "FI",
+"loc": "Imatra",
+"name": "Donkey Republic Imatra",
+"url": "https://www.donkey.bike/cities/bike-rental-imatra/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_kotka",
+"cc": "FI",
+"loc": "Kotka",
+"name": "Donkey Republic Kotka",
+"url": "https://www.donkey.bike/cities/bike-rental-kotka/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_kouvola",
+"cc": "FI",
+"loc": "Kouvola",
+"name": "Donkey Republic Kouvola",
+"url": "https://www.donkey.bike/cities/bike-rental-kouvola/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_lappeenranta",
+"cc": "FI",
+"loc": "Lappeenranta",
+"name": "Donkey Republic Lappeenranta",
+"url": "https://www.donkey.bike/cities/bike-rental-lappeenranta/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_mikkeli",
+"cc": "FI",
+"loc": "Mikkeli",
+"name": "Donkey Republic Mikkeli",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_maentsaelae",
+"cc": "FI",
+"loc": "Mäntsälä",
+"name": "Donkey Republic Mäntsälä",
+"url": "https://www.donkey.bike/cities/bike-rental-mantsala/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_porvoo",
+"cc": "FI",
+"loc": "Porvoo",
+"name": "Donkey Republic Porvoo",
+"url": "https://www.donkey.bike/cities/bike-rental-porvoo/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_raasepori",
+"cc": "FI",
+"loc": "Raasepori",
+"name": "Donkey Republic Raasepori",
+"url": "https://www.donkey.bike/cities/bike-rental-raasepori/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "475",
+"cc": "FI",
+"loc": "Rauma",
+"name": "Rauma",
+"url": "https://www.joescooter.fi/",
+"pkg": "joe.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "donkey_riihimaki",
+"cc": "FI",
+"loc": "Riihimäki",
+"name": "Donkey Republic Riihimäki",
+"url": "https://www.donkey.bike/cities/bike-rental-riihimaki/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_turku",
+"cc": "FI",
+"loc": "Turku",
+"name": "Donkey Republic Turku",
+"url": "https://www.donkey.bike/cities/bike-rental-hyvinkaa/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "tempovelo",
+"cc": "FR",
+"loc": "Agen",
+"name": "Tempovelo",
+"url": "https://tempovelo.ecovelo.mobi/",
+"pkg": "com.ecovelo.tempovelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_aix-en-provence",
+"cc": "FR",
+"loc": "Aix-En-Provence",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/aix-en-provence",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-ajaccio",
+"cc": "FR",
+"loc": "Ajaccio",
+"name": "bird ajaccio",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_ajaccio",
+"cc": "FR",
+"loc": "Ajaccio",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/ajaccio",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "mp_COQUELICOT",
+"cc": "FR",
+"loc": "Albert",
+"name": "COQUELICOT",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_albi",
+"cc": "FR",
+"loc": "Albi",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/albi",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "amiens",
+"cc": "FR",
+"loc": "Amiens",
+"name": "Velam",
+"url": "https://velam.cyclocity.fr/",
+"pkg": "com.jcdecaux.vls.amiens",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_amiens",
+"cc": "FR",
+"loc": "Amiens",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/amiens",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_angers",
+"cc": "FR",
+"loc": "Angers",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/angers",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_Angers",
+"cc": "FR",
+"loc": "Angers",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "velo_modalis_angouleme",
+"cc": "FR",
+"loc": "Angoulême",
+"name": "Vélo Modalis (Angoulême)",
+"url": "https://velomodalis.fr/fr/",
+"pkg": "io.birota.modalis",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "velonecy60minutes_annecy",
+"cc": "FR",
+"loc": "Annecy",
+"name": "Vélonecy 60 minutes (Annecy)",
+"url": "https://mobilites.grandannecy.fr/",
+"pkg": "fr.franceveloconnecte.grandannecy",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_antibes",
+"cc": "FR",
+"loc": "Antibes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/antibes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_antony",
+"cc": "FR",
+"loc": "Antony",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/antony",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "cyclam",
+"cc": "FR",
+"loc": "Ardenne Métropole",
+"name": "Cycl'AM",
+"url": "https://cyclam.ecovelo.mobi",
+"pkg": "com.ecovelo.cyclam",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "velodaqui",
+"cc": "FR",
+"loc": "Argelès-sur-Mer",
+"name": "Vélo d'Aqui",
+"url": "https://velodaqui.ecovelo.mobi",
+"pkg": "com.ecovelo.velodaqui",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_argenteuil",
+"cc": "FR",
+"loc": "Argenteuil",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/argenteuil",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_arles",
+"cc": "FR",
+"loc": "Arles",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/arles",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "mp_OSSAU",
+"cc": "FR",
+"loc": "Arundy",
+"name": "VALLEE D'OSSAU",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_aubervilliers",
+"cc": "FR",
+"loc": "Aubervilliers",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/aubervilliers",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "auchveloc",
+"cc": "FR",
+"loc": "Auch",
+"name": "Auch Velo'C",
+"url": "https://auchveloc.ecovelo.mobi/",
+"pkg": "com.ecovelo.auchveloc",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_aulnay-sous-bois",
+"cc": "FR",
+"loc": "Aulnay-Sous-Bois",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/aulnay-sous-bois",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "auray-quiberon",
+"cc": "FR",
+"loc": "Auray",
+"name": "VLS AQTA",
+"url": "https://www.auray-quiberon.fr/",
+"pkg": "io.birota.todo",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_avignon",
+"cc": "FR",
+"loc": "Avignon",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/avignon",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "velopop",
+"cc": "FR",
+"loc": "Avignon",
+"name": "velopop - avignon",
+"url": "https://velo-grandavignon.fr/fr/",
+"pkg": "com.choosit.velopop",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "pony_Basque_Country",
+"cc": "FR",
+"loc": "Basque Country",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_bayeux",
+"cc": "FR",
+"loc": "Bayeux",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/bayeux",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_bayonne",
+"cc": "FR",
+"loc": "Bayonne",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/bayonne",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_beaumont",
+"cc": "FR",
+"loc": "Beaumont",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/beaumont",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_beauvais",
+"cc": "FR",
+"loc": "Beauvais",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/beauvais",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_Beauvais",
+"cc": "FR",
+"loc": "Beauvais",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "besancon",
+"cc": "FR",
+"loc": "Besançon",
+"name": "Ginko VéloCité",
+"url": "https://www.velocite.besancon.fr/",
+"pkg": "com.jcdecaux.vls.besancon",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_blois",
+"cc": "FR",
+"loc": "Blois",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/blois",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "provider-null-blois-france",
+"cc": "FR",
+"loc": "Blois",
+"name": "provider null blois france",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-bordeaux",
+"cc": "FR",
+"loc": "Bordeaux",
+"name": "bird bordeaux",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-bordeaux",
+"cc": "FR",
+"loc": "Bordeaux",
+"name": "Dott bordeaux",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_bordeaux",
+"cc": "FR",
+"loc": "Bordeaux",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/bordeaux",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_bordeaux",
+"cc": "FR",
+"loc": "Bordeaux",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "yego bordeaux",
+"cc": "FR",
+"loc": "Bordeaux",
+"name": "Yego urban mobility",
+"url": "https://www.rideyego.com/",
+"pkg": "com.getyugo.app",
+"ff": [
+"bicycle",
+"moped",
+"scooter"
+]
+},
+{
+"id": "getaround_boulogne-billancourt",
+"cc": "FR",
+"loc": "Boulogne-Billancourt",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/boulogne-billancourt",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "beb",
+"cc": "FR",
+"loc": "Bourg-en-Bresse",
+"name": "Rubis'Velo",
+"url": "https://rubis.ecovelo.mobi",
+"pkg": "com.ecovelo.rubis",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_bourges",
+"cc": "FR",
+"loc": "Bourges",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/bourges",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_Bourges",
+"cc": "FR",
+"loc": "Bourges",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "dott-bourgoin-jallieu",
+"cc": "FR",
+"loc": "Bourgoin-Jallieu",
+"name": "Dott bourgoin-jallieu",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_brest",
+"cc": "FR",
+"loc": "Brest",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/brest",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "velozef",
+"cc": "FR",
+"loc": "Brest",
+"name": "velozef - Brest",
+"url": "https://www.bibus.fr/services/velozef-le-velo-assistance-electrique-en-libre-service",
+"pkg": "io.birota.todo",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_brive-la-gaillarde",
+"cc": "FR",
+"loc": "Brive-La-Gaillarde",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/brive-la-gaillarde",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "velibeo",
+"cc": "FR",
+"loc": "Brive-la-Gaillarde",
+"name": "Vélibéo",
+"url": "https://velibeo.ecovelo.mobi",
+"pkg": "com.ecovelo.velibeo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_caen",
+"cc": "FR",
+"loc": "Caen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/caen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "calais",
+"cc": "FR",
+"loc": "Calais",
+"name": "Velect'in",
+"url": "https://velectin.ecovelo.mobi",
+"pkg": "com.ecovelo.velectin",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_calais",
+"cc": "FR",
+"loc": "Calais",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/calais",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_cannes",
+"cc": "FR",
+"loc": "Cannes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/cannes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "cyclolibre",
+"cc": "FR",
+"loc": "Carcassonne",
+"name": "Cyclolibre",
+"url": "https://cyclolibre.ecovelo.mobi",
+"pkg": "com.ecovelo.cyclolibre",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "bird-castres",
+"cc": "FR",
+"loc": "Castres",
+"name": "bird castres",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_cergy",
+"cc": "FR",
+"loc": "Cergy",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/cergy",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "cergy",
+"cc": "FR",
+"loc": "Cergy-Pontoise",
+"name": "vélO2",
+"url": "https://www.velo2.cergypontoise.fr/",
+"pkg": "com.jcdecaux.vls.cergy",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_champigny-sur-marne",
+"cc": "FR",
+"loc": "Champigny-Sur-Marne",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/champigny-sur-marne",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "chantrerie",
+"cc": "FR",
+"loc": "Chantrerie",
+"name": "Naolib Micromob'",
+"url": "https://naolib.fr/fr/velos/micromob-1",
+"pkg": "com.ecovelo.captainbike",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "capcotentin",
+"cc": "FR",
+"loc": "Cherbourg-en-Cotentin",
+"name": "CapCotentin",
+"url": "https://capcotentin.ecovelo.mobi/",
+"pkg": "com.ecovelo.capcotentin",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "choletbus",
+"cc": "FR",
+"loc": "Cholet",
+"name": "Choletbus 2 Roues",
+"url": "https://choletbus.ecovelo.mobi",
+"pkg": "fr.airweb.cholet",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "bird-chalonsenchampagne",
+"cc": "FR",
+"loc": "Châlons-en-Champagne",
+"name": "bird chalonsenchampagne",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "mp_CHATELLERAULT",
+"cc": "FR",
+"loc": "Châtellerault",
+"name": "CHATELLERAULT",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_clamart",
+"cc": "FR",
+"loc": "Clamart",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/clamart",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_clermont-ferrand",
+"cc": "FR",
+"loc": "Clermont-Ferrand",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/clermont-ferrand",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_clichy",
+"cc": "FR",
+"loc": "Clichy",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/clichy",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "velo-modalis",
+"cc": "FR",
+"loc": "Cognac",
+"name": "VéloModalis - TERRA",
+"url": "https://velomodalis.fr/",
+"pkg": "io.birota.todo",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_colmar",
+"cc": "FR",
+"loc": "Colmar",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/colmar",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_colombes",
+"cc": "FR",
+"loc": "Colombes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/colombes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_courbevoie",
+"cc": "FR",
+"loc": "Courbevoie",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/courbevoie",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "mp_ARBRESLE",
+"cc": "FR",
+"loc": "Courzieu",
+"name": "PAYS DE L'ARBRESLE - VEL'PAR",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-dieppe",
+"cc": "FR",
+"loc": "Dieppe",
+"name": "bird dieppe",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_dijon",
+"cc": "FR",
+"loc": "Dijon",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/dijon",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-draguignan",
+"cc": "FR",
+"loc": "Draguignan",
+"name": "bird draguignan",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_drancy",
+"cc": "FR",
+"loc": "Drancy",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/drancy",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_dunkerque",
+"cc": "FR",
+"loc": "Dunkerque",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/dunkerque",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-epron",
+"cc": "FR",
+"loc": "Epron",
+"name": "bird epron",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "mp_ESTREES",
+"cc": "FR",
+"loc": "Estrées-Saint-Denis",
+"name": "Estrées Saint Denis",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "pony_Evry",
+"cc": "FR",
+"loc": "Evry",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "mp_VASSIVIERE",
+"cc": "FR",
+"loc": "Eymoutiers",
+"name": "Porte de Vassivière",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ah",
+"cc": "FR",
+"loc": "FR",
+"name": "VélO2",
+"url": "https://www.velo2.cergypontoise.fr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_fontenay-sous-bois",
+"cc": "FR",
+"loc": "Fontenay-Sous-Bois",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/fontenay-sous-bois",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-gap",
+"cc": "FR",
+"loc": "Gap",
+"name": "bird gap",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "voi_Grand_Paris_Seine_et_Oise",
+"cc": "FR",
+"loc": "Grand Paris Seine et Oise",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_grenoble",
+"cc": "FR",
+"loc": "Grenoble",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/grenoble",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "voi_Grenoble",
+"cc": "FR",
+"loc": "Grenoble",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "mp_GEVAUDAN",
+"cc": "FR",
+"loc": "Gévaudan",
+"name": "Gévaudan",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-herouvillesaintclair",
+"cc": "FR",
+"loc": "Herouville-Saint-Clair",
+"name": "bird herouvillesaintclair",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "pony_Herouville",
+"cc": "FR",
+"loc": "Herouville-Saint-Clair",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_issy-les-moulineaux",
+"cc": "FR",
+"loc": "Issy-Les-Moulineaux",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/issy-les-moulineaux",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_ivry-sur-seine",
+"cc": "FR",
+"loc": "Ivry-Sur-Seine",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/ivry-sur-seine",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "labaule",
+"cc": "FR",
+"loc": "La Baule",
+"name": "La Baule",
+"url": "https://labaule.ecovelo.mobi",
+"pkg": "com.ecovelo.labaule",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "bird-larochesuryon",
+"cc": "FR",
+"loc": "La Roche-sur-Yon",
+"name": "bird larochesuryon",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "impulsyon",
+"cc": "FR",
+"loc": "La Roche-sur-Yon",
+"name": "Impulsyon",
+"url": "https://impulsyon.ecovelo.mobi",
+"pkg": "com.ecovelo.impulsyon",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "ti_velo",
+"cc": "FR",
+"loc": "Landerneau",
+"name": "Ti Vélo",
+"url": "https://www.landerneau.bzh",
+"pkg": "io.birota.tivelo",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "velocite",
+"cc": "FR",
+"loc": "Laon",
+"name": "Vélo'Cité",
+"url": "https://velocite.ecovelo.mobi",
+"pkg": "com.ecovelo.velocite",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "mp_LASCAUX",
+"cc": "FR",
+"loc": "Lascaux",
+"name": "VELO VEZERE LASCAUX",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-laval",
+"cc": "FR",
+"loc": "Laval",
+"name": "bird laval",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_laval",
+"cc": "FR",
+"loc": "Laval",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/laval",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "voi_Le_Havre",
+"cc": "FR",
+"loc": "Le Havre",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "petitesreines",
+"cc": "FR",
+"loc": "Les Sables-d'Olonne",
+"name": "Les Petites Reines",
+"url": "https://lespetitesreines.ecovelo.mobi",
+"pkg": "com.ecovelo.lespetitesreines",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_levallois-perret",
+"cc": "FR",
+"loc": "Levallois-Perret",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/levallois-perret",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "calivelo",
+"cc": "FR",
+"loc": "Libourne",
+"name": "CaliVélo",
+"url": "https://calivelo.ecovelo.mobi",
+"pkg": "com.ecovelo.calivelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_lille",
+"cc": "FR",
+"loc": "Lille",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/lille",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_limay",
+"cc": "FR",
+"loc": "Limay",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/limay",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_limoges",
+"cc": "FR",
+"loc": "Limoges",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/limoges",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_Limoges",
+"cc": "FR",
+"loc": "Limoges",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "vertuose",
+"cc": "FR",
+"loc": "Longwy",
+"name": "Vertuose",
+"url": "https://vertuose.ecovelo.mobi",
+"pkg": "com.ecovelo.vertuose",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_lorient",
+"cc": "FR",
+"loc": "Lorient",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/lorient",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_Lorient",
+"cc": "FR",
+"loc": "Lorient",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "semo",
+"cc": "FR",
+"loc": "Louviers",
+"name": "Semo Vélo",
+"url": "https://semo.ecovelo.mobi",
+"pkg": "com.ecovelo.semo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "dott-lyon",
+"cc": "FR",
+"loc": "Lyon",
+"name": "Dott lyon",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "getaround_lyon",
+"cc": "FR",
+"loc": "Lyon",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/lyon",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "lyon",
+"cc": "FR",
+"loc": "Lyon",
+"name": "Vélov",
+"url": "https://velov.grandlyon.com/en/home",
+"pkg": "com.jcdecaux.vls.lyon",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_macau",
+"cc": "FR",
+"loc": "Macau",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/macau",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_macon",
+"cc": "FR",
+"loc": "Macon",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/macon",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_maisons-alfort",
+"cc": "FR",
+"loc": "Maisons-Alfort",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/maisons-alfort",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "dott-siemu",
+"cc": "FR",
+"loc": "Marne-la-Vallée",
+"name": "Dott siemu",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-marseille",
+"cc": "FR",
+"loc": "Marseille",
+"name": "bird marseille",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_marseille",
+"cc": "FR",
+"loc": "Marseille",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/marseille",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "levelo_inurba_marseille",
+"cc": "FR",
+"loc": "Marseille",
+"name": "levélo - marseille",
+"url": "https://levelo.ampmetropole.fr",
+"pkg": "io.birota.levelo",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "pony_Marseille",
+"cc": "FR",
+"loc": "Marseille",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "voi_Marseille",
+"cc": "FR",
+"loc": "Marseille",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_meaux",
+"cc": "FR",
+"loc": "Meaux",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/meaux",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_meru",
+"cc": "FR",
+"loc": "Meru",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/meru",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_metz",
+"cc": "FR",
+"loc": "Metz",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/metz",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-millau",
+"cc": "FR",
+"loc": "Millau",
+"name": "bird millau",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_montauban",
+"cc": "FR",
+"loc": "Montauban",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/montauban",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-montlucon",
+"cc": "FR",
+"loc": "Montluçon",
+"name": "bird montlucon",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_montpellier",
+"cc": "FR",
+"loc": "Montpellier",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/montpellier",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "velomagg_montpellier",
+"cc": "FR",
+"loc": "Montpellier",
+"name": "Vélomagg (Montpellier)",
+"url": "https://www.tam-voyages.com/presentation/?rub_code=1&thm_id=24",
+"pkg": "com.tam_way.mobiletickets",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_montreuil",
+"cc": "FR",
+"loc": "Montreuil",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/montreuil",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_mulhouse",
+"cc": "FR",
+"loc": "Mulhouse",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/mulhouse",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_af",
+"cc": "FR",
+"loc": "Mulhouse",
+"name": "VéloCité Mulhouse",
+"url": "https://www.velocite-mulhouse.fr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "getaround_nancy",
+"cc": "FR",
+"loc": "Nancy",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/nancy",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nancy",
+"cc": "FR",
+"loc": "Nancy",
+"name": "vélOstan'lib",
+"url": "https://www.velostanlib.fr/",
+"pkg": "com.jcdecaux.vls.nancy",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_nanterre",
+"cc": "FR",
+"loc": "Nanterre",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/nanterre",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_nantes",
+"cc": "FR",
+"loc": "Nantes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/nantes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nantes",
+"cc": "FR",
+"loc": "Nantes",
+"name": "Naolib",
+"url": "https://velo.naolib.fr/",
+"pkg": "com.jcdecaux.vls.nantes",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "voi_Nantes",
+"cc": "FR",
+"loc": "Nantes",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_narbonne",
+"cc": "FR",
+"loc": "Narbonne",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/narbonne",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_neuilly-sur-seine",
+"cc": "FR",
+"loc": "Neuilly-Sur-Seine",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/neuilly-sur-seine",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_nice",
+"cc": "FR",
+"loc": "Nice",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/nice",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_Nice",
+"cc": "FR",
+"loc": "Nice",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "yego nice",
+"cc": "FR",
+"loc": "Nice",
+"name": "Yego urban mobility",
+"url": "https://www.rideyego.com/",
+"pkg": "com.getyugo.app",
+"ff": [
+"bicycle",
+"moped",
+"scooter"
+]
+},
+{
+"id": "getaround_niort",
+"cc": "FR",
+"loc": "Niort",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/niort",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "tanlib",
+"cc": "FR",
+"loc": "Niort",
+"name": "Vélo Tanlib",
+"url": "https://tanlib.ecovelo.mobi",
+"pkg": "com.ecovelo.tanlib",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_noisy-le-grand",
+"cc": "FR",
+"loc": "Noisy-Le-Grand",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/noisy-le-grand",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nemovelo",
+"cc": "FR",
+"loc": "Nîmes",
+"name": "NemoVélo",
+"url": "https://nemo-velo.fr/",
+"pkg": "com.ecovelo.nemovelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "dott-ol-vallee",
+"cc": "FR",
+"loc": "Ol-Vallee",
+"name": "Dott ol-vallee",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "mp_OLORON",
+"cc": "FR",
+"loc": "Oloron-Sainte-Marie",
+"name": "OLORON",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_orange",
+"cc": "FR",
+"loc": "Orange",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/orange",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-ouistreham",
+"cc": "FR",
+"loc": "Ouistreham",
+"name": "bird ouistreham",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_pantin",
+"cc": "FR",
+"loc": "Pantin",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/pantin",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "dott-paris",
+"cc": "FR",
+"loc": "Paris",
+"name": "Dott paris",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_paris",
+"cc": "FR",
+"loc": "Paris",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/paris",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "voi_Paris",
+"cc": "FR",
+"loc": "Paris",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "yego paris",
+"cc": "FR",
+"loc": "Paris",
+"name": "Yego urban mobility",
+"url": "https://www.rideyego.com/",
+"pkg": "com.getyugo.app",
+"ff": [
+"bicycle",
+"moped",
+"scooter"
+]
+},
+{
+"id": "getaround_pau",
+"cc": "FR",
+"loc": "Pau",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/pau",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "mp_Opale",
+"cc": "FR",
+"loc": "Pays d'Opale",
+"name": "PAYS D'OPALE",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_perpignan",
+"cc": "FR",
+"loc": "Perpignan",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/perpignan",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_Perpignan",
+"cc": "FR",
+"loc": "Perpignan",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_pessac",
+"cc": "FR",
+"loc": "Pessac",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/pessac",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "rhoule",
+"cc": "FR",
+"loc": "Piriac-sur-Mer",
+"name": "Rhoule",
+"url": "https://rhoule.ecovelo.mobi",
+"pkg": "com.ecovelo.rhoule",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "karu",
+"cc": "FR",
+"loc": "Pointe-à-Pitre",
+"name": "KARU'VELO",
+"url": "https://karuvelo.ecovelo.mobi/",
+"pkg": "com.ecovelo.karuvelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_poitiers",
+"cc": "FR",
+"loc": "Poitiers",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/poitiers",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "pony_poitiers",
+"cc": "FR",
+"loc": "Poitiers",
+"name": "pony",
+"url": "https://getapony.com/",
+"pkg": "co.ponybikes.mercury",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "velomoove_pompey",
+"cc": "FR",
+"loc": "Pompey",
+"name": "VéloMoove (Pompey)",
+"url": "https://velomoove.bassinpompey.fr",
+"pkg": "io.birota.velomoove",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "perivelo",
+"cc": "FR",
+"loc": "Périgueux",
+"name": "Périvélo",
+"url": "https://perivelolibreservice.ecovelo.mobi",
+"pkg": "com.ecovelo.perivelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_quimper",
+"cc": "FR",
+"loc": "Quimper",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/quimper",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_reims",
+"cc": "FR",
+"loc": "Reims",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/reims",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "zebullo",
+"cc": "FR",
+"loc": "Reims",
+"name": "Zebullo",
+"url": "https://zebullo.ecovelo.mobi",
+"pkg": "com.ecovelo.zebullo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_rennes",
+"cc": "FR",
+"loc": "Rennes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/rennes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "rlvlib",
+"cc": "FR",
+"loc": "Riom",
+"name": "RLV'Lib",
+"url": "https://rlvlib.ecovelo.mobi",
+"pkg": "com.ecovelo.rlvlib",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_roubaix",
+"cc": "FR",
+"loc": "Roubaix",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/roubaix",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_rouen",
+"cc": "FR",
+"loc": "Rouen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/rouen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "inurba-rouen",
+"cc": "FR",
+"loc": "Rouen",
+"name": "LOVÉLO libre-service",
+"url": "https://lovelolibreservice.fr/",
+"pkg": "com.urbansharing.citybike.rouen",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "modalis_royan",
+"cc": "FR",
+"loc": "Royan",
+"name": "Vélo Modalis (Royan)",
+"url": "https://velomodalis.fr/",
+"pkg": "io.birota.todo",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_rueil-malmaison",
+"cc": "FR",
+"loc": "Rueil-Malmaison",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/rueil-malmaison",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_saint-brieuc",
+"cc": "FR",
+"loc": "Saint-Brieuc",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-brieuc",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "saintbrieuc",
+"cc": "FR",
+"loc": "Saint-Brieuc",
+"name": "vélo'baie (saint brieuc)",
+"url": "https://www.saintbrieuc-armor-agglo.bzh/velobaie",
+"pkg": "io.birota.velobaie",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_saint-denis",
+"cc": "FR",
+"loc": "Saint-Denis",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-denis",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "voi_V'Lônes",
+"cc": "FR",
+"loc": "Saint-Genis-Laval",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_saint-laurent",
+"cc": "FR",
+"loc": "Saint-Laurent",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-laurent",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_saint-louis",
+"cc": "FR",
+"loc": "Saint-Louis",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-louis",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_saint-malo",
+"cc": "FR",
+"loc": "Saint-Malo",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-malo",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_saint-nazaire",
+"cc": "FR",
+"loc": "Saint-Nazaire",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-nazaire",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "velyceo",
+"cc": "FR",
+"loc": "Saint-Nazaire",
+"name": "VélYcéo",
+"url": "https://velyceo.ecovelo.mobi",
+"pkg": "com.ecovelo.velyceo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_saint-paul",
+"cc": "FR",
+"loc": "Saint-Paul",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-paul",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "altervelo",
+"cc": "FR",
+"loc": "Saint-Pierre, L'Étang-Salé & Saint-Louis",
+"name": "Altervelo Libre-service",
+"url": "https://altervelo.ecovelo.mobi",
+"pkg": "com.ecovelo.altervelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_saint-quentin",
+"cc": "FR",
+"loc": "Saint-Quentin",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-quentin",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_saint-quentin-en-yvelines",
+"cc": "FR",
+"loc": "Saint-Quentin-En-Yvelines",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/saint-quentin-en-yvelines",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "voi_SQY",
+"cc": "FR",
+"loc": "Saint-Quentin-en-Yvelines",
+"name": "Voi Technology AB",
+"url": "https://www.voi.com/",
+"pkg": "io.voiapp.voi",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "velivert_saint_etienne",
+"cc": "FR",
+"loc": "Saint-Étienne",
+"name": "Vélivert (Saint-Étienne)",
+"url": "https://www.velivert.fr/",
+"pkg": "io.birota.velivert",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "velo-modalis-saintes",
+"cc": "FR",
+"loc": "Saintes",
+"name": "Vélo Modalis (Saintes)",
+"url": "https://velomodalis.fr/fr/",
+"pkg": "io.birota.modalis",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_sarcelles",
+"cc": "FR",
+"loc": "Sarcelles",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/sarcelles",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-sarreguemines",
+"cc": "FR",
+"loc": "Sarreguemines",
+"name": "bird sarreguemines",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_sartrouville",
+"cc": "FR",
+"loc": "Sartrouville",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/sartrouville",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "ogalo",
+"cc": "FR",
+"loc": "Saumur",
+"name": "Ogalo Cyclette",
+"url": "https://ogalo.ecovelo.mobi",
+"pkg": "com.ecovelo.ogalo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "brennus_a_velo_sens",
+"cc": "FR",
+"loc": "Sens",
+"name": "Brennus à Vélo (Sens)",
+"url": "https://www.ville-sens.fr/",
+"pkg": "io.birota.brennus",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "cyclovis",
+"cc": "FR",
+"loc": "Soissons",
+"name": "Cyclovis",
+"url": "https://cyclovis.ecovelo.mobi",
+"pkg": "com.ecovelo.lemarcel",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_strasbourg",
+"cc": "FR",
+"loc": "Strasbourg",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/strasbourg",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "nextbike_ae",
+"cc": "FR",
+"loc": "Strasbourg, FR",
+"name": "Vélhop - Strasbourg",
+"url": "https://vls.velhop.strasbourg.eu/",
+"pkg": "net.nextbike.velhop2",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "mp_TARARE",
+"cc": "FR",
+"loc": "Tarare",
+"name": "BYCOR (TARARE)",
+"url": "https://www.mobility-parc.net/",
+"pkg": "fr.greenon.app",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_tarbes",
+"cc": "FR",
+"loc": "Tarbes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/tarbes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "tlpmobilites",
+"cc": "FR",
+"loc": "Tarbes",
+"name": "TLP Mobilites",
+"url": "https://tlpmobilites.ecovelo.mobi/",
+"pkg": "com.ecovelo.tlpmobilites",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_toulon",
+"cc": "FR",
+"loc": "Toulon",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/toulon",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_toulouse",
+"cc": "FR",
+"loc": "Toulouse",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/toulouse",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "toulouse",
+"cc": "FR",
+"loc": "Toulouse",
+"name": "vélôToulouse",
+"url": "http://www.velo.toulouse.fr/",
+"pkg": "com.jcdecaux.vls.toulouse",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "yego toulouse",
+"cc": "FR",
+"loc": "Toulouse",
+"name": "Yego urban mobility",
+"url": "https://www.rideyego.com/",
+"pkg": "com.getyugo.app",
+"ff": [
+"bicycle",
+"moped",
+"scooter"
+]
+},
+{
+"id": "getaround_tourcoing",
+"cc": "FR",
+"loc": "Tourcoing",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/tourcoing",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_tours",
+"cc": "FR",
+"loc": "Tours",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/tours",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_troyes",
+"cc": "FR",
+"loc": "Troyes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/troyes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "lemarcel",
+"cc": "FR",
+"loc": "Troyes",
+"name": "Le Marcel",
+"url": "https://lemarcelavelo.ecovelo.mobi",
+"pkg": "com.ecovelo.lemarcel",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_valence",
+"cc": "FR",
+"loc": "Valence",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/valence",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "valenciennes",
+"cc": "FR",
+"loc": "Valenciennes",
+"name": "Valenciennes",
+"url": "https://www.donkey.bike/cities/bike-rental-valenciennes/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_vannes",
+"cc": "FR",
+"loc": "Vannes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/vannes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "vernouvelo",
+"cc": "FR",
+"loc": "Vernou-en-Sologne",
+"name": "Vernou Vélo",
+"url": "https://vernouvelo.ecovelo.mobi/",
+"pkg": "com.ecovelo.vernouvelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "dott-versailles-grand-parc",
+"cc": "FR",
+"loc": "Versailles",
+"name": "Dott versailles-grand-parc",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "getaround_versailles",
+"cc": "FR",
+"loc": "Versailles",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/versailles",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bird-vichy",
+"cc": "FR",
+"loc": "Vichy",
+"name": "bird vichy",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "viavelo",
+"cc": "FR",
+"loc": "Villefranche-sur-Saone",
+"name": "Viavélo",
+"url": "https://viavelo.ecovelo.mobi/",
+"pkg": "com.ecovelo.viavelo",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "getaround_villeurbanne",
+"cc": "FR",
+"loc": "Villeurbanne",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/villeurbanne",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_vitry-sur-seine",
+"cc": "FR",
+"loc": "Vitry-Sur-Seine",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/vitry-sur-seine",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "vilvolt_epinal",
+"cc": "FR",
+"loc": "Épinal",
+"name": "Vilvolt (Épinal)",
+"url": "https://vilvolt.fr/",
+"pkg": "io.birota.vilvolt",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-bath",
+"cc": "GB",
+"loc": "Bath",
+"name": "Dott bath",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_bcp",
+"cc": "GB",
+"loc": "Bournemouth/Christchurch/Poole",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/bournemouth-christchurch-and-poole",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_bradford",
+"cc": "GB",
+"loc": "Bradford",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_brighton",
+"cc": "GB",
+"loc": "Brighton",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-bristol",
+"cc": "GB",
+"loc": "Bristol",
+"name": "Dott bristol",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_we",
+"cc": "GB",
+"loc": "Bristol, GB",
+"name": "WESTcargo powered by nextbike",
+"url": "https://www.nextbike.co.uk/westcargo/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "beryl_canterbury",
+"cc": "GB",
+"loc": "Canterbury",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_charlbury",
+"cc": "GB",
+"loc": "Charlbury",
+"name": "Donkey Republic Charlbury",
+"url": "https://www.donkey.bike/cities/bike-rental-charlbury/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_cheltenham_spa",
+"cc": "GB",
+"loc": "Cheltenham Spa",
+"name": "Donkey Republic Cheltenham Spa",
+"url": "https://www.donkey.bike/cities/bike-rental-cheltenham-spa/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_cirencester",
+"cc": "GB",
+"loc": "Cirencester",
+"name": "Donkey Republic Cirencester",
+"url": "https://www.donkey.bike/cities/bike-rental-cirencester/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-colchester",
+"cc": "GB",
+"loc": "Colchester",
+"name": "Dott colchester",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "beryl_cornwall",
+"cc": "GB",
+"loc": "Cornwall",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/cornwall",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_the_cotswold_water_park",
+"cc": "GB",
+"loc": "Cotswold",
+"name": "Donkey Republic The Cotswold Water Park",
+"url": "https://www.donkey.bike/cities/bike-rental-the-cotswold-water-park/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "beryl_eastleigh",
+"cc": "GB",
+"loc": "Eastleigh",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_guildford",
+"cc": "GB",
+"loc": "Guildford",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_hackney_cargo_bike",
+"cc": "GB",
+"loc": "Hackney",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_henley_on_thames",
+"cc": "GB",
+"loc": "Henley On Thames",
+"name": "Donkey Republic Henley On Thames",
+"url": "https://www.donkey.bike/cities/bike-rental-henley-on-thames/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "beryl_hereford",
+"cc": "GB",
+"loc": "Hereford",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/hereford",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_hertsmere",
+"cc": "GB",
+"loc": "Hertsmere",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/hertsmere",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_isle_of_wight",
+"cc": "GB",
+"loc": "Isle of Wight",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/isle-wight",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_kingham",
+"cc": "GB",
+"loc": "Kingham",
+"name": "Donkey Republic Kingham",
+"url": "https://www.donkey.bike/cities/bike-rental-kingham/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "beryl_leeds",
+"cc": "GB",
+"loc": "Leeds",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "BoltEU_Liverpool",
+"cc": "GB",
+"loc": "Liverpool",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.mtakso.client",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "beryl_greater_manchester",
+"cc": "GB",
+"loc": "Manchester",
+"name": "Starling Bikes",
+"url": "https://beryl.cc/scheme/greater-manchester",
+"pkg": "cc.beryl.GreaterManchester",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-milton-keynes",
+"cc": "GB",
+"loc": "Milton Keynes",
+"name": "Dott milton-keynes",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_miltonpark",
+"cc": "GB",
+"loc": "Milton Park",
+"name": "Donkey Republic Milton Park",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_moreton_in_marsh",
+"cc": "GB",
+"loc": "Moreton In Marsh",
+"name": "Donkey Republic Moreton In Marsh",
+"url": "https://www.donkey.bike/cities/bike-rental-moreton-in-marsh/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_northleach",
+"cc": "GB",
+"loc": "Northleach",
+"name": "Donkey Republic Northleach",
+"url": "https://www.donkey.bike/cities/bike-rental-northleach/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "beryl_norwich",
+"cc": "GB",
+"loc": "Norwich",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/norwich",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-nottingham",
+"cc": "GB",
+"loc": "Nottingham",
+"name": "Dott nottingham",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_oxford",
+"cc": "GB",
+"loc": "Oxford",
+"name": "Donkey Republic Oxford",
+"url": "https://www.donkey.bike/cities/bike-rental-oxford/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "beryl_plymouth",
+"cc": "GB",
+"loc": "Plymouth",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/plymouth",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_plymouth",
+"cc": "GB",
+"loc": "Plymouth",
+"name": "Donkey Republic Plymouth",
+"url": "https://www.donkey.bike/cities/bike-rental-plymouth/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "beryl_portsmouth",
+"cc": "GB",
+"loc": "Portsmouth",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/portsmouth",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_southampton",
+"cc": "GB",
+"loc": "Southampton",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/southampton",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_stevenage",
+"cc": "GB",
+"loc": "Stevenage",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_stroud",
+"cc": "GB",
+"loc": "Stroud",
+"name": "Donkey Republic Stroud",
+"url": "https://www.donkey.bike/cities/bike-rental-stroud/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_tetbury",
+"cc": "GB",
+"loc": "Tetbury",
+"name": "Donkey Republic Tetbury",
+"url": "https://www.donkey.bike/cities/bike-rental-tetbury/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "dott-brunel-university",
+"cc": "GB",
+"loc": "Uxbridge",
+"name": "Dott brunel-university",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "beryl_watford",
+"cc": "GB",
+"loc": "Watford",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/watford",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_west_midlands",
+"cc": "GB",
+"loc": "West Midlands",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_weymouth",
+"cc": "GB",
+"loc": "Weymouth",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_whichford",
+"cc": "GB",
+"loc": "Whichford",
+"name": "Donkey Republic Whichford",
+"url": "https://www.donkey.bike/cities/bike-rental-whichford/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "beryl_wool",
+"cc": "GB",
+"loc": "Wool",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/wool",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "beryl_worcester",
+"cc": "GB",
+"loc": "Worcester",
+"name": "Beryl",
+"url": "https://beryl.cc/scheme/worcester",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "donkey_worthing",
+"cc": "GB",
+"loc": "Worthing",
+"name": "Donkey Republic Worthing",
+"url": "https://www.donkey.bike/cities/bike-rental-worthing/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_gv",
+"cc": "GR",
+"loc": "Alimos",
+"name": "Bike Sharing Alimos",
+"url": "https://www.nextbike.gr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_gu",
+"cc": "GR",
+"loc": "Argyroupoli",
+"name": "Bike Sharing Elliniko – Argyroupoli",
+"url": "https://www.nextbike.gr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_gx",
+"cc": "GR",
+"loc": "Glyfada",
+"name": "Bike Sharing Glyfada",
+"url": "https://www.nextbike.gr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_gy",
+"cc": "GR",
+"loc": "Palaio Faliro",
+"name": "Bike Sharing Palaio Faliro",
+"url": "https://www.nextbike.gr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_br",
+"cc": "HR",
+"loc": "Brinje",
+"name": "Općina Brinje (Croatia)",
+"url": "https://www.nextbike.hr/hr/brinje/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_ma",
+"cc": "HR",
+"loc": "Camp Lanterna",
+"name": "BIKE SHARE LANTERNA(Croatia)",
+"url": "https://www.nextbike.hr/hr/bikesharelanterna/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_gt",
+"cc": "HR",
+"loc": "Croatia",
+"name": "Grad Split (Croatia)",
+"url": "https://www.nextbike.hr/hr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_hr",
+"cc": "HR",
+"loc": "Croatia",
+"name": "nextbike Croatia",
+"url": "https://www.nextbike.hr/hr/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_gd",
+"cc": "HR",
+"loc": "Drniš",
+"name": "Grad Drniš (Croatia)",
+"url": "https://www.nextbike.hr/hr/drnis/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_hd",
+"cc": "HR",
+"loc": "Grad Zagreb",
+"name": "Bajs Zagreb (Croatia)",
+"url": "https://bajs.zagreb.hr",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_ig",
+"cc": "HR",
+"loc": "Ivanic Grad",
+"name": "Grad Ivanić-Grad (Croatia)",
+"url": "https://www.nextbike.hr/hr/ivanicgrad/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_cj",
+"cc": "HR",
+"loc": "Jastrebarsko",
+"name": "Jastrebarsko (Croatia)",
+"url": "https://www.nextbike.hr/hr/jastrebarsko/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_kc",
+"cc": "HR",
+"loc": "Karlovac",
+"name": "Grad Karlovac (Croatia)",
+"url": "https://www.nextbike.hr/hr/karlovac/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_gk",
+"cc": "HR",
+"loc": "Križevci",
+"name": "Grad Križevci (Croatia)",
+"url": "https://www.nextbike.hr/hr/krizevci/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_cm",
+"cc": "HR",
+"loc": "Metković",
+"name": "Grad Vinkovci (Croatia)",
+"url": "https://www.nextbike.hr/hr/vinkovci/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_em",
+"cc": "HR",
+"loc": "Osijek",
+"name": "eMobi (Croatia)",
+"url": "https://www.nextbike.hr/hr/osijek/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_se",
+"cc": "HR",
+"loc": "Pitomača",
+"name": "Dalmacija (Croatia)",
+"url": "https://www.nextbike.hr/hr/stankovci/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_cv",
+"cc": "HR",
+"loc": "Porec",
+"name": "Porec bike share (Croatia)",
+"url": "https://www.porecbikeshare.com/hr/porecbikeshare/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_cs",
+"cc": "HR",
+"loc": "Sisak",
+"name": "Grad Sisak (Croatia)",
+"url": "https://www.nextbike.hr/hr/sisak/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_sb",
+"cc": "HR",
+"loc": "Slavonski Brod",
+"name": "Grad Slavonski Brod (Croatia)",
+"url": "https://www.nextbike.hr/hr/slavonskibrod/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_cg",
+"cc": "HR",
+"loc": "Velika Gorica",
+"name": "Grad Velika Gorica (Croatia)",
+"url": "https://www.nextbike.hr/hr/velikagorica/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_vu",
+"cc": "HR",
+"loc": "Vukovar",
+"name": "Grad Vukovar (Croatia)",
+"url": "https://www.nextbike.hr/hr/vukovar/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_zd",
+"cc": "HR",
+"loc": "Zadar",
+"name": "Grad Zadar (Croatia)",
+"url": "https://www.nextbike.hr/hr/zadar/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_sg",
+"cc": "HR",
+"loc": "Zaprešić",
+"name": "Grad Zaprešić (Croatia)",
+"url": "https://www.nextbike.hr/hr/zapresic/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_bc",
+"cc": "HR",
+"loc": "Šibenik",
+"name": "Grad Šibenik (Croatia)",
+"url": "https://www.nextbike.hr/hr/sibenik/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_budapest",
+"cc": "HU",
+"loc": "Budapest",
+"name": "Donkey Republic Budapest",
+"url": "https://www.donkey.bike/cities/bike-rental-budapest/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "inurba-budapest",
+"cc": "HU",
+"loc": "Budapest",
+"name": "MOL Bubi",
+"url": "https://molbubi.hu/",
+"pkg": "hu.bkk.bubi",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "beryl_belfast",
+"cc": "IE",
+"loc": "Belfast",
+"name": "Beryl",
+"url": "https://beryl.cc/",
+"pkg": "cc.beryl.basis",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"scooter"
+]
+},
+{
+"id": "dublin",
+"cc": "IE",
+"loc": "Dublin",
+"name": "dublinbikes",
+"url": "https://www.dublinbikes.ie/",
+"pkg": "com.jcdecaux.vls.dublin",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-israel",
+"cc": "IL",
+"loc": "Israel",
+"name": "bird israel",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-tel-aviv",
+"cc": "IL",
+"loc": "Tel Aviv",
+"name": "bird tel aviv",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-tel-aviv",
+"cc": "IL",
+"loc": "Tel Aviv",
+"name": "Dott tel-aviv",
+"url": "https://ridedott.com",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "donkey_reykjavik",
+"cc": "IS",
+"loc": "Reykjavik",
+"name": "Donkey Republic Reykjavik",
+"url": "https://www.donkey.bike/cities/bike-rental-reykjavik/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "zeus_anzio",
+"cc": "IT",
+"loc": "Anzio",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "zeusitaly.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_augusta",
+"cc": "IT",
+"loc": "Augusta",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "zeusitaly.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_ib",
+"cc": "IT",
+"loc": "Bergamo",
+"name": "nextbike Bergamo",
+"url": "https://www.nextbike.it/bergamo/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-florence",
+"cc": "IT",
+"loc": "Florence",
+"name": "bird florence",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "zeus_mazara",
+"cc": "IT",
+"loc": "Mazara",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "zeusitaly.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "bird-milan",
+"cc": "IT",
+"loc": "Milan",
+"name": "bird milan",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "milan",
+"cc": "IT",
+"loc": "Milan",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "milan-bikemi",
+"cc": "IT",
+"loc": "Milan",
+"name": "bikeMi",
+"url": "https://bikemi.com/en",
+"pkg": "com.urbansharing.citybike.milan",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-rome",
+"cc": "IT",
+"loc": "Rome",
+"name": "bird rome",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "rome",
+"cc": "IT",
+"loc": "Rome",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "nextbike_fa",
+"cc": "IT",
+"loc": "Senigallia, IT",
+"name": "Fa.Mo.Se",
+"url": "https://www.comune.senigallia.an.it/aree-tematiche/mobilita/bike-sharing-fa-mo-se/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "turin",
+"cc": "IT",
+"loc": "Turin",
+"name": "Cooltra",
+"url": "https://cooltra.com/",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "verona-bike",
+"cc": "IT",
+"loc": "Verona",
+"name": "Verona Bike",
+"url": "https://bikeverona.it/en",
+"pkg": "com.urbansharing.citybike.verona",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "hellocycling",
+"cc": "JP",
+"loc": "Japan",
+"name": "HELLO CYCLING　-どこでも借りられて好きな場所で返せる自転車シェア",
+"url": "https://www.hellocycling.jp",
+"pkg": "jp.hellocycling.hellocycling",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "toyama",
+"cc": "JP",
+"loc": "Toyama",
+"name": "CyclOcity",
+"url": "https://www.cyclocity.jp/",
+"pkg": "com.jcdecaux.vls.toyama",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_li",
+"cc": "LI",
+"loc": "Liechtenstein",
+"name": "Donkey Republic Liechtenstein",
+"url": "https://www.donkey.bike/cities/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "vilnius",
+"cc": "LT",
+"loc": "Vilnius",
+"name": "Cyclocity",
+"url": "https://www.cyclocity.lt/",
+"pkg": "com.jcdecaux.vls.vilnius",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "luxembourg",
+"cc": "LU",
+"loc": "Luxembourg",
+"name": "vel'OH!",
+"url": "https://myveloh.lu/",
+"pkg": "com.jcdecaux.vls.luxembourg",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "27",
+"cc": "LV",
+"loc": "Riga",
+"name": "Riga",
+"url": "https://ridemobility.eu/",
+"pkg": "ride.app",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "nextbike_lv",
+"cc": "LV",
+"loc": "Rīga",
+"name": "nextbike LV",
+"url": "https://www.nextbike.lv/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "cooltra_amsterdam",
+"cc": "NL",
+"loc": "Amsterdam",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_am",
+"cc": "NL",
+"loc": "Amsterdam",
+"name": "Donkey Republic Amsterdam",
+"url": "https://www.donkey.bike/cities/bike-rental-amsterdam/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "cooltra_delft",
+"cc": "NL",
+"loc": "Delft",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_den_haag",
+"cc": "NL",
+"loc": "Den Haag",
+"name": "Donkey Republic Den Haag",
+"url": "https://www.donkey.bike/cities/bike-rental-den-haag/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_dordrecht",
+"cc": "NL",
+"loc": "Dordrecht",
+"name": "Donkey Republic Drechtsteden",
+"url": "https://www.donkey.bike/cities/bike-rental-dordrecht/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_qbuzz",
+"cc": "NL",
+"loc": "Dordrecht",
+"name": "Donkey Republic Qbuzz",
+"url": "https://www.donkey.bike/cities/bike-rental-dordrecht/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "cooltra_eindhoven",
+"cc": "NL",
+"loc": "Eindhoven",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_gorinchem",
+"cc": "NL",
+"loc": "Gorinchem",
+"name": "Donkey Gorinchem",
+"url": "https://www.donkey.bike/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "cooltra_haarlem",
+"cc": "NL",
+"loc": "Haarlem",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_katwijk",
+"cc": "NL",
+"loc": "Katwijk",
+"name": "Donkey Republic Katwijk",
+"url": "https://www.donkey.bike/nl/steden/katwijk",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "cooltra_nijmegen",
+"cc": "NL",
+"loc": "Nijmegen",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_rivierenland",
+"cc": "NL",
+"loc": "Rivierenland",
+"name": "Donkey Republic Rivierenland",
+"url": "https://www.donkey.bike",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "cooltra_rotterdam",
+"cc": "NL",
+"loc": "Rotterdam",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_rt",
+"cc": "NL",
+"loc": "Rotterdam",
+"name": "Donkey Republic Rotterdam",
+"url": "https://www.donkey.bike/nl/steden/deelfietsen-rotterdam/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_rotterdam_den_haag",
+"cc": "NL",
+"loc": "Rotterdam/Den Haag",
+"name": "Donkey Republic Rotterdam/Den Haag",
+"url": "https://www.donkey.bike/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "cooltra_the_hague",
+"cc": "NL",
+"loc": "The Hague",
+"name": "Cooltra",
+"url": "https://cooltra.com",
+"pkg": "com.felyx.android",
+"ff": [
+"bicycle",
+"moped"
+]
+},
+{
+"id": "donkey_ut",
+"cc": "NL",
+"loc": "Utrecht",
+"name": "Donkey Republic Utrecht",
+"url": "https://www.donkey.bike/cities/bike-rental-utrecht/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_utrechtse_heuvelrug",
+"cc": "NL",
+"loc": "Utrechtse Heuvelrug",
+"name": "Donkey Republic Utrechtse Heuvelrug",
+"url": "https://www.donkey.bike/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "getaround_alesund",
+"cc": "NO",
+"loc": "Alesund",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/alesund",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_alta",
+"cc": "NO",
+"loc": "Alta",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/alta",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_arendal",
+"cc": "NO",
+"loc": "Arendal",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/arendal",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_asker",
+"cc": "NO",
+"loc": "Asker",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/asker",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_baerum",
+"cc": "NO",
+"loc": "Baerum",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/baerum",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "bergen-city-bike",
+"cc": "NO",
+"loc": "Bergen",
+"name": "Bergen Bysykkel",
+"url": "https://bergenbysykkel.no/en",
+"pkg": "com.urbansharing.citybike.bergen",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_bergen",
+"cc": "NO",
+"loc": "Bergen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/bergen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_bodo",
+"cc": "NO",
+"loc": "Bodo",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/bodo",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_drammen",
+"cc": "NO",
+"loc": "Drammen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/drammen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_evenes",
+"cc": "NO",
+"loc": "Evenes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/evenes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_fredrikstad",
+"cc": "NO",
+"loc": "Fredrikstad",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/fredrikstad",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_gardermoen",
+"cc": "NO",
+"loc": "Gardermoen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/gardermoen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_harstad",
+"cc": "NO",
+"loc": "Harstad",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/harstad",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_kirkenes",
+"cc": "NO",
+"loc": "Kirkenes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/kirkenes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_kristiansand",
+"cc": "NO",
+"loc": "Kristiansand",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/kristiansand",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_leknes",
+"cc": "NO",
+"loc": "Leknes",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/leknes",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_lillehammer",
+"cc": "NO",
+"loc": "Lillehammer",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/lillehammer",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_lillestrom",
+"cc": "NO",
+"loc": "Lillestrom",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/lillestrom",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "lillestrom",
+"cc": "NO",
+"loc": "Lillestrom",
+"name": "Bysykkel",
+"url": "https://www.bysykkel.org/",
+"pkg": "com.jcdecaux.vls.lillestrom",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "getaround_lorenskog",
+"cc": "NO",
+"loc": "Lorenskog",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/lorenskog",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_molde",
+"cc": "NO",
+"loc": "Molde",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/molde",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_moss",
+"cc": "NO",
+"loc": "Moss",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/moss",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_narvik",
+"cc": "NO",
+"loc": "Narvik",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/narvik",
+"pkg": "com.c4mprod.voiturelib",
+"ff": []
+},
+{
+"id": "getaround_nesodden",
+"cc": "NO",
+"loc": "Nesodden",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/nesodden",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_oslo",
+"cc": "NO",
+"loc": "Oslo",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/oslo",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "oslobysykkel",
+"cc": "NO",
+"loc": "Oslo",
+"name": "Oslo Bysykkel",
+"url": "https://oslobysykkel.no/",
+"pkg": "no.urbaninfrastructure.bysykkel",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "zeus_oslo",
+"cc": "NO",
+"loc": "Oslo",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "zeusnorway.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "getaround_porsgrunn",
+"cc": "NO",
+"loc": "Porsgrunn",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/porsgrunn",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_sandefjord",
+"cc": "NO",
+"loc": "Sandefjord",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/sandefjord",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_sandvika",
+"cc": "NO",
+"loc": "Sandvika",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/sandvika",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_ski",
+"cc": "NO",
+"loc": "Ski",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/ski",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_skien",
+"cc": "NO",
+"loc": "Skien",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/skien",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_stavanger",
+"cc": "NO",
+"loc": "Stavanger",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/stavanger",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_stjordal",
+"cc": "NO",
+"loc": "Stjordal",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/stjordal",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_strommen",
+"cc": "NO",
+"loc": "Strommen",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/strommen",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_tonsberg",
+"cc": "NO",
+"loc": "Tonsberg",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/tonsberg",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_tromso",
+"cc": "NO",
+"loc": "Tromso",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/tromso",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "getaround_trondheim",
+"cc": "NO",
+"loc": "Trondheim",
+"name": "Getaround",
+"url": "https://getaround.com/car-rental/trondheim",
+"pkg": "com.c4mprod.voiturelib",
+"ff": [
+"car"
+]
+},
+{
+"id": "trondheimbysykkel",
+"cc": "NO",
+"loc": "Trondheim",
+"name": "Trondheim Bysykkel",
+"url": "https://trondheimbysykkel.no/",
+"pkg": "no.urbaninfrastructure.bysykkel.trondheim",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "flamingo_auckland",
+"cc": "NZ",
+"loc": "Auckland",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "flamingo_christchurch",
+"cc": "NZ",
+"loc": "Christchurch",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "flamingo_dunedin",
+"cc": "NZ",
+"loc": "Dunedin",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "jolt_hutt_valley",
+"cc": "NZ",
+"loc": "Hutt Valley",
+"name": "JOLT",
+"url": "https://joltscooters.co.nz",
+"pkg": "co.nz.joltscooters.rider",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "jolt_new_plymouth",
+"cc": "NZ",
+"loc": "New Plymouth",
+"name": "JOLT",
+"url": "https://joltscooters.co.nz",
+"pkg": "co.nz.joltscooters.rider",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "flamingo_palmerston_north",
+"cc": "NZ",
+"loc": "Palmerston North",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "flamingo_porirua",
+"cc": "NZ",
+"loc": "Porirua",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "jolt_selwyn",
+"cc": "NZ",
+"loc": "Selwyn",
+"name": "JOLT",
+"url": "https://joltscooters.co.nz",
+"pkg": "co.nz.joltscooters.rider",
+"ff": [
+"scooter_standing"
+]
+},
+{
+"id": "flamingo_tauranga",
+"cc": "NZ",
+"loc": "Tauranga",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "flamingo_waimakariri",
+"cc": "NZ",
+"loc": "Waimakariri District",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "flamingo_wellington",
+"cc": "NZ",
+"loc": "Wellington",
+"name": "Flamingo",
+"url": "https://rideflamingo.com",
+"pkg": "com.flamingoscooters.android",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "nextbike_cw",
+"cc": "PL",
+"loc": "Chełmski",
+"name": "Chełmski Rower",
+"url": "https://chelmskirower.pl/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle",
+"cargo_bicycle"
+]
+},
+{
+"id": "inurba-gdansk",
+"cc": "PL",
+"loc": "Gdansk",
+"name": "MEVO",
+"url": "https://rowermevo.pl/",
+"pkg": "com.urbansharing.citybike.gdansk",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_pn",
+"cc": "PL",
+"loc": "Konin",
+"name": "Koniński Rower Miejski Poland",
+"url": "https://koninskirower.pl",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ps",
+"cc": "PL",
+"loc": "Koszalin",
+"name": "Koszaliński Rower Miejski Poland",
+"url": "https://koszalinskirowermiejski.pl/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_pi",
+"cc": "PL",
+"loc": "Piaseczno",
+"name": "Piaseczyński Rower Miejski",
+"url": "https://www.piaseczynskirower.pl/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_vw",
+"cc": "PL",
+"loc": "Poland",
+"name": "VETURILO 3.0",
+"url": "https://www.veturilo.waw.pl/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_tr",
+"cc": "PL",
+"loc": "Toruń",
+"name": "Toruński Rower Miejski",
+"url": "https://torunskirower.pl/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_zz",
+"cc": "PL",
+"loc": "Tychy, PL",
+"name": "METROROWER",
+"url": "https://metrorower.transportgzm.pl/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_pl",
+"cc": "PL",
+"loc": "Wrocław",
+"name": "WRM nextbike Poland",
+"url": "https://www.wroclawskirower.pl/",
+"pkg": "com.nextbike.wroclaw",
+"ff": [
+"bicycle",
+"cargo_bicycle",
+"other"
+]
+},
+{
+"id": "nextbike_pm",
+"cc": "PL",
+"loc": "Zielona Góra",
+"name": "Zielonogórski Rower Miejski",
+"url": "https://zielonogorskirowermiejski.pl/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_bx",
+"cc": "PT",
+"loc": "Barcelos",
+"name": "TubaBike (Barcelos)",
+"url": "https://www.tubabike.pt/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "bird-braga",
+"cc": "PT",
+"loc": "Braga",
+"name": "bird braga",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-cascais",
+"cc": "PT",
+"loc": "Cascais",
+"name": "bird cascais",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bikr-lisbon",
+"cc": "PT",
+"loc": "Lisbon",
+"name": "bird lisbon",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-matosinhos",
+"cc": "PT",
+"loc": "Matosinhos",
+"name": "bird matosinhos",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-porto",
+"cc": "PT",
+"loc": "Porto",
+"name": "bird porto",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_ai",
+"cc": "RO",
+"loc": "Alba Iulia",
+"name": "Alba Iulia Velocity",
+"url": "https://www.albaiuliavelocity.ro/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_bv",
+"cc": "RO",
+"loc": "Buzau",
+"name": "Buzau VeloCity",
+"url": "https://www.velocitybuzau.ro/ro/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_rc",
+"cc": "RO",
+"loc": "Câmpia Turzii",
+"name": "BikeCity Campia Turzii",
+"url": "https://www.nextbike.ro/ro/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_rv",
+"cc": "RO",
+"loc": "Slatina, RO",
+"name": "Slatina Velo City",
+"url": "https://www.slatinavelocity.ro/",
+"pkg": "de.nextbike",
+"ff": []
+},
+{
+"id": "nextbike_rw",
+"cc": "RO",
+"loc": "Slobozia",
+"name": "Slobozia Bike City",
+"url": "https://www.sloboziabikecity.ro/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_rt",
+"cc": "RO",
+"loc": "Topoloveni",
+"name": "Topoloveni Bike",
+"url": "https://www.topolovenibikecity.ro/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "dott-jeddah",
+"cc": "SA",
+"loc": "Jeddah",
+"name": "Dott jeddah",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-makkah",
+"cc": "SA",
+"loc": "Makkah",
+"name": "Dott makkah",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "dott-riyadh",
+"cc": "SA",
+"loc": "Riyadh",
+"name": "Dott riyadh",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-sbf",
+"cc": "SA",
+"loc": "Riyadh",
+"name": "Dott sbf",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "dott-stc-city",
+"cc": "SA",
+"loc": "Riyadh",
+"name": "Dott stc-city",
+"url": "https://ridedott.com/",
+"pkg": "com.ridedott.rider",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_borlange",
+"cc": "SE",
+"loc": "Borlänge",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com",
+"pkg": "zeussweden.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "donkey_baastad",
+"cc": "SE",
+"loc": "Båstad",
+"name": "Donkey Republic Båstad",
+"url": "https://www.donkey.bike/cities/bike-rental-bastad/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "zeus_falun",
+"cc": "SE",
+"loc": "Falun",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "zeussweden.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "nextbike_zc",
+"cc": "SE",
+"loc": "Gothenburg",
+"name": "Gothenburg Cargo",
+"url": "https://gothenburg-cargo.nextbike.com/",
+"pkg": "de.nextbike",
+"ff": [
+"cargo_bicycle"
+]
+},
+{
+"id": "nextbike_zg",
+"cc": "SE",
+"loc": "Göteborg",
+"name": "Styr & Ställ (Sweden, Göteborg)",
+"url": "https://styrochstall.se/sv/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "zeus_halmstad",
+"cc": "SE",
+"loc": "Halmstad",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "zeussweden.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "zeus_karlstad",
+"cc": "SE",
+"loc": "Karlstad",
+"name": "Zeus Scooters",
+"url": "https://zeusscooters.com/",
+"pkg": "zeussweden.app",
+"ff": [
+"scooter"
+]
+},
+{
+"id": "lund",
+"cc": "SE",
+"loc": "Lund",
+"name": "Lundahoj",
+"url": "https://www.lundahoj.se/",
+"pkg": "com.jcdecaux.vls.lund",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "donkey_malmoe",
+"cc": "SE",
+"loc": "Malmö",
+"name": "Donkey Republic Malmö",
+"url": "https://www.donkey.bike/cities/bike-rental-malmo/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_ystad",
+"cc": "SE",
+"loc": "Ystad",
+"name": "Donkey Republic Ystad",
+"url": "https://www.donkey.bike/cities/bike-rental-ystad/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "donkey_aengelholm",
+"cc": "SE",
+"loc": "Ängelholm",
+"name": "Donkey Republic Ängelholm",
+"url": "https://www.donkey.bike/cities/bike-rental-angelholm/",
+"pkg": "com.donkeyrepublic.bike.android",
+"ff": []
+},
+{
+"id": "nextbike_cd",
+"cc": "SI",
+"loc": "Gorizia",
+"name": "GO2GO GORIZIA - Nomago Bikes",
+"url": "https://bikes.nomago.si/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "ljubljana",
+"cc": "SI",
+"loc": "Ljubljana",
+"name": "BicikeLJ",
+"url": "https://www.bicikelj.si/",
+"pkg": "com.jcdecaux.vls.ljubljana",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_cc",
+"cc": "SI",
+"loc": "Ljubljana",
+"name": "BICIKEL - Nomago Bikes",
+"url": "https://bikes.nomago.si/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "maribor",
+"cc": "SI",
+"loc": "Maribor",
+"name": "MBajk",
+"url": "https://www.mbajk.si/",
+"pkg": "com.jcdecaux.vls.maribor",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ce",
+"cc": "SI",
+"loc": "Nova Gorica",
+"name": "GO2GO - Nomago Bikes",
+"url": "https://bikes.nomago.si/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_cx",
+"cc": "SI",
+"loc": "Radlje ob Dravi",
+"name": "KOROBAJK - Nomago Bikes",
+"url": "https://bikes.nomago.si/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_cn",
+"cc": "SI",
+"loc": "Slovenia",
+"name": "KOLESCE - Nomago Bikes",
+"url": "https://bikes.nomago.si/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_cf",
+"cc": "SI",
+"loc": "Zagorje ob Savi",
+"name": "ZANAPREJ - Nomago Bikes",
+"url": "https://bikes.nomago.si/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_bi",
+"cc": "SK",
+"loc": "Bratislava",
+"name": "nextbike Bratislava",
+"url": "https://nextbikeslovakia.com",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_as",
+"cc": "SK",
+"loc": "Nitra",
+"name": "nextbike Senec",
+"url": "https://arriva.bike/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_zu",
+"cc": "SK",
+"loc": "Piešťany",
+"name": "Bajk Trnavskej župy",
+"url": "https://nextbikeslovakia.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_av",
+"cc": "SK",
+"loc": "Senica, SK",
+"name": "Senica bajk",
+"url": "https://www.senicabajk.sk",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "nextbike_ak",
+"cc": "SK",
+"loc": "Žilina",
+"name": "BikeKIA",
+"url": "https://bikekia.sk/",
+"pkg": "net.nextbike.arrivakia",
+"ff": [
+"bicycle"
+]
+},
+{
+"id": "66",
+"cc": "UA",
+"loc": "Kyiv",
+"name": "Kyiv",
+"url": "https://3electra.com.ua/",
+"pkg": "zelectra.app",
+"ff": [
+"bicycle",
+"car",
+"moped",
+"scooter_standing"
+]
+},
+{
+"id": "spin akron",
+"cc": "US",
+"loc": "Akron, OH",
+"name": "provider null akron",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin ann_arbor",
+"cc": "US",
+"loc": "Ann Arbor, MI",
+"name": "provider null ann_arbor",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-arlingtonco",
+"cc": "US",
+"loc": "Arlington, VA",
+"name": "bird arlingtonco",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-asb",
+"cc": "US",
+"loc": "Asbury Park, NJ",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-atlanta",
+"cc": "US",
+"loc": "Atlanta, GA",
+"name": "bird atlanta",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "BoltEU_Austin",
+"cc": "US",
+"loc": "Austin, TX",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.hopp.client",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "bcycle_aventura",
+"cc": "US",
+"loc": "Aventura, FL",
+"name": "Aventura BCycle",
+"url": "https://aventura.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "spin baltimore",
+"cc": "US",
+"loc": "Baltimore, MD",
+"name": "provider null baltimore",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-bnd",
+"cc": "US",
+"loc": "Bend, OR",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_bentonville",
+"cc": "US",
+"loc": "Bentonville, AR",
+"name": "Bentonville BCycle",
+"url": "https://bentonville.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "veo-bir",
+"cc": "US",
+"loc": "Birmingham, AL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_boulder",
+"cc": "US",
+"loc": "Boulder, CO",
+"name": "Boulder BCycle",
+"url": "https://boulder.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "veo-siu",
+"cc": "US",
+"loc": "Carbondale, IL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-cid",
+"cc": "US",
+"loc": "Cedar Rapids, IA",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-cvl",
+"cc": "US",
+"loc": "Charlottesville, VA",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin chicago",
+"cc": "US",
+"loc": "Chicago, IL",
+"name": "provider null chicago",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_cincyredbike",
+"cc": "US",
+"loc": "Cincinnati, OH",
+"name": "Red Bike - Cincinnati",
+"url": "https://www.cincyredbike.org",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bcycle_clemson",
+"cc": "US",
+"loc": "Clemson, SC",
+"name": "Clemson BikeShare",
+"url": "https://clemson.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-cleveland",
+"cc": "US",
+"loc": "Cleveland, OH",
+"name": "bird cleveland",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-cle",
+"cc": "US",
+"loc": "Cleveland, OH",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-cpk",
+"cc": "US",
+"loc": "College Park, MD",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-tam",
+"cc": "US",
+"loc": "College Station, TX",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-columbus",
+"cc": "US",
+"loc": "Columbus, OH",
+"name": "bird columbus",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin columbus",
+"cc": "US",
+"loc": "Columbus, OH",
+"name": "provider null columbus",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin ohio_state",
+"cc": "US",
+"loc": "Columbus, OH",
+"name": "provider null ohio_state",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-cbs",
+"cc": "US",
+"loc": "Columbus, OH",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-osu",
+"cc": "US",
+"loc": "Corvallis, OR",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-culver-city",
+"cc": "US",
+"loc": "Culver City, CA",
+"name": "bird culver city",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-dallas",
+"cc": "US",
+"loc": "Dallas, TX",
+"name": "bird dallas",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin dayton",
+"cc": "US",
+"loc": "Dayton, OH",
+"name": "provider null dayton",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-denver",
+"cc": "US",
+"loc": "Denver, CO",
+"name": "bird denver",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_desmoines",
+"cc": "US",
+"loc": "Des Moines, IA",
+"name": "Des Moines Street Collective ",
+"url": "https://desmoines.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-detroit",
+"cc": "US",
+"loc": "Detroit, MI",
+"name": "bird detroit",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin detroit",
+"cc": "US",
+"loc": "Detroit, MI",
+"name": "provider null detroit",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-durham",
+"cc": "US",
+"loc": "Durham, NC",
+"name": "bird durham",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin durham",
+"cc": "US",
+"loc": "Durham, NC",
+"name": "provider null durham",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-lansing",
+"cc": "US",
+"loc": "East Lansing, MI",
+"name": "provider null east_lansing",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin michigan_state_university",
+"cc": "US",
+"loc": "East Lansing, MI",
+"name": "provider null michigan_state_university",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_elpaso",
+"cc": "US",
+"loc": "El Paso, TX",
+"name": "El Paso B-cycle",
+"url": "https://elpaso.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "veo-xeb",
+"cc": "US",
+"loc": "Emeryville, CA",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-fairfax",
+"cc": "US",
+"loc": "Fairfax, VA",
+"name": "bird fairfax",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-fay",
+"cc": "US",
+"loc": "Fayetteville, AK",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin fayetteville",
+"cc": "US",
+"loc": "Fayetteville, AR",
+"name": "provider null fayetteville",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin fort_collins",
+"cc": "US",
+"loc": "Fort Collins, CO",
+"name": "provider null fort_collins",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-gainesville",
+"cc": "US",
+"loc": "Gainesville, FL",
+"name": "bird gainesville",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin gainesville",
+"cc": "US",
+"loc": "Gainesville, FL",
+"name": "provider null gainesville",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-gvl",
+"cc": "US",
+"loc": "Gainesville, FL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-greensboro",
+"cc": "US",
+"loc": "Greensboro, NC",
+"name": "bird greensboro",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_greenville",
+"cc": "US",
+"loc": "Greenville, SC",
+"name": "Greenville BCycle",
+"url": "https://greenville.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "veo-hrt",
+"cc": "US",
+"loc": "Hartford, CT",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_pacersbikeshare",
+"cc": "US",
+"loc": "Indianapolis, IN",
+"name": "Pacers Bikeshare ",
+"url": "https://www.pacersbikeshare.org",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-indianapolis",
+"cc": "US",
+"loc": "Indianapolis, IN",
+"name": "bird indianapolis",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_jacksoncounty",
+"cc": "US",
+"loc": "Jackson, MI",
+"name": "Jackson County",
+"url": "https://jacksoncounty.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-kansas-city",
+"cc": "US",
+"loc": "Kansas City, MO",
+"name": "bird kansas city",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_rtcbikeshare",
+"cc": "US",
+"loc": "Las Vegas, NV",
+"name": "RTC Bike Share",
+"url": "https://rtcbikeshare.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-lexington",
+"cc": "US",
+"loc": "Lexington, KY",
+"name": "bird lexington",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin lexington",
+"cc": "US",
+"loc": "Lexington, KY",
+"name": "provider null lexington",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_bikelnk",
+"cc": "US",
+"loc": "Lincoln, NE",
+"name": "BikeLNK",
+"url": "https://bikelnk.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bcycle_lametro",
+"cc": "US",
+"loc": "Los Angeles, CA",
+"name": "Metro Bike Share",
+"url": "https://bikeshare.metro.net",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-los-angeles",
+"cc": "US",
+"loc": "Los Angeles, CA",
+"name": "bird los angeles",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin los_angeles",
+"cc": "US",
+"loc": "Los Angeles, CA",
+"name": "provider null los_angeles",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-louisville",
+"cc": "US",
+"loc": "Louisville, KY",
+"name": "bird louisville",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_madison",
+"cc": "US",
+"loc": "Madison, WI",
+"name": "Madison BCycle",
+"url": "https://madison.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "veo-ksu",
+"cc": "US",
+"loc": "Manhattan, KS",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_memphis",
+"cc": "US",
+"loc": "Memphis, TN",
+"name": "Explore Bike Share",
+"url": "https://explorebikeshare.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-miami",
+"cc": "US",
+"loc": "Miami, FL",
+"name": "bird miami",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_bublr",
+"cc": "US",
+"loc": "Milwaukee, WI",
+"name": "Bublr Bikes",
+"url": "https://bublrbikes.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "provider-null-milwaukee",
+"cc": "US",
+"loc": "Milwaukee, WI",
+"name": "provider null milwaukee",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin minneapolis",
+"cc": "US",
+"loc": "Minneapolis, MN",
+"name": "provider null minneapolis",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-montgomery-county",
+"cc": "US",
+"loc": "Montgomery County, MD",
+"name": "provider null montgomery county",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_nashville",
+"cc": "US",
+"loc": "Nashville, TN",
+"name": "Nashville BCycle",
+"url": "https://nashville.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-nashville",
+"cc": "US",
+"loc": "Nashville, TN",
+"name": "bird nashville",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin nashville",
+"cc": "US",
+"loc": "Nashville, TN",
+"name": "provider null nashville",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-rut",
+"cc": "US",
+"loc": "New Brunswick, NJ",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-nhv",
+"cc": "US",
+"loc": "New Haven, CT",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-nrc",
+"cc": "US",
+"loc": "New Rochelle, NY",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-new-york",
+"cc": "US",
+"loc": "New York, NY",
+"name": "bird new york",
+"url": "https://bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-nyc",
+"cc": "US",
+"loc": "New York, NY",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-nyq",
+"cc": "US",
+"loc": "New York, NY",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-newark",
+"cc": "US",
+"loc": "Newark, NJ",
+"name": "bird newark",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-nwk",
+"cc": "US",
+"loc": "Newark, NJ",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-oku",
+"cc": "US",
+"loc": "Norman, OK",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_heartland",
+"cc": "US",
+"loc": "Omaha, NE",
+"name": "Heartland Bike Share",
+"url": "https://heartland.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-orlando",
+"cc": "US",
+"loc": "Orlando, FL",
+"name": "bird orlando",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-orl",
+"cc": "US",
+"loc": "Orlando, FL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-pnc",
+"cc": "US",
+"loc": "Pensacola, FL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_indego",
+"cc": "US",
+"loc": "Philadelphia, PA",
+"name": "Indego",
+"url": "https://www.rideindego.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "spin phoenix",
+"cc": "US",
+"loc": "Phoenix, AZ",
+"name": "provider null phoenix",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-portland",
+"cc": "US",
+"loc": "Portland, OR",
+"name": "bird portland",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin providence",
+"cc": "US",
+"loc": "Providence, RI",
+"name": "provider null providence",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin raleigh",
+"cc": "US",
+"loc": "Raleigh, NC",
+"name": "provider null raleigh",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_redding",
+"cc": "US",
+"loc": "Redding, CA",
+"name": "Redding Bikeshare",
+"url": "https://shastalivingstreets.org/redding-bikeshare/",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bird-reno",
+"cc": "US",
+"loc": "Reno, NV",
+"name": "bird reno",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-richmond",
+"cc": "US",
+"loc": "Richmond",
+"name": "bird richmond",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-roc",
+"cc": "US",
+"loc": "Rochester, NY",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_greenbikeslc",
+"cc": "US",
+"loc": "Salt Lake City, UT",
+"name": "GREENbike",
+"url": "https://greenbikeslc.org",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "provider-null-salt_lake_city",
+"cc": "US",
+"loc": "Salt Lake City, UT",
+"name": "provider null salt_lake_city",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_sanantonio",
+"cc": "US",
+"loc": "San Antonio, TX",
+"name": "San Antonio BCycle",
+"url": "https://sanantonio.bcycle.com/",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "veo-stx",
+"cc": "US",
+"loc": "San Antonio, TX",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-san_diego",
+"cc": "US",
+"loc": "San Diego, CA",
+"name": "provider null san_diego",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-san_francisco",
+"cc": "US",
+"loc": "San Francisco, CA",
+"name": "provider null san_francisco",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-san_marcos",
+"cc": "US",
+"loc": "San Marcos, TX",
+"name": "provider null san_marcos",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_santabarbara",
+"cc": "US",
+"loc": "Santa Barbara, CA",
+"name": "Santa Barbara BCycle",
+"url": "https://santabarbara.bcycle.com",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "bcycle_santacruz",
+"cc": "US",
+"loc": "Santa Cruz, CA",
+"name": "Santa Cruz BCycle",
+"url": "https://santacruz.bcycle.com/",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "provider-null-santa_monica",
+"cc": "US",
+"loc": "Santa Monica, CA",
+"name": "provider null santa_monica",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-xla",
+"cc": "US",
+"loc": "Santa Monica, CA",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-sar",
+"cc": "US",
+"loc": "Sarasota, FL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-seattle-washington",
+"cc": "US",
+"loc": "Seattle, WA",
+"name": "bird seattle washington",
+"url": "https://www.bird.co/",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-st_george",
+"cc": "US",
+"loc": "St George, UT",
+"name": "provider null st_george",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-st-louis",
+"cc": "US",
+"loc": "St Louis, MO",
+"name": "bird st louis",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-st_paul",
+"cc": "US",
+"loc": "St. Paul, MN",
+"name": "provider null st_paul",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-stillwater",
+"cc": "US",
+"loc": "Stillwater, OK",
+"name": "provider null stillwater",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-syr",
+"cc": "US",
+"loc": "Syracuse, NY",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-tallahassee",
+"cc": "US",
+"loc": "Tallahassee, FL",
+"name": "provider null tallahassee",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-tampa",
+"cc": "US",
+"loc": "Tampa, FL",
+"name": "provider null tampa",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bird-tempe",
+"cc": "US",
+"loc": "Tempe, AZ",
+"name": "bird tempe",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-tempe",
+"cc": "US",
+"loc": "Tempe, AZ",
+"name": "provider null tempe",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-tol",
+"cc": "US",
+"loc": "Toledo, OH",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_truckee",
+"cc": "US",
+"loc": "Truckee, CA",
+"name": "Truckee BCycle",
+"url": "https://truckee.bcycle.com/",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "veo-ala",
+"cc": "US",
+"loc": "Tuscaloosa, AL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "provider-null-tucson",
+"cc": "US",
+"loc": "Tuscon, AZ",
+"name": "provider null tucson",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-iuc",
+"cc": "US",
+"loc": "Urbana, IL",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "bcycle_valentine",
+"cc": "US",
+"loc": "Valentine, NE",
+"name": "Valentine Bike Share",
+"url": "https://heartlandbikeshare.org",
+"pkg": "com.bcycle",
+"ff": []
+},
+{
+"id": "BoltEU_Washington DC",
+"cc": "US",
+"loc": "Washington, DC",
+"name": "Bolt",
+"url": "https://www.bolt.eu/",
+"pkg": "ee.hopp.client",
+"ff": [
+"bicycle",
+"scooter_standing"
+]
+},
+{
+"id": "bird-washington-dc",
+"cc": "US",
+"loc": "Washington, DC",
+"name": "bird washington dc",
+"url": "https://www.bird.co",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "spin washington_dc",
+"cc": "US",
+"loc": "Washington, DC",
+"name": "provider null washington_dc",
+"url": "https://www.spin.pm",
+"pkg": "co.bird.android",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-xdc",
+"cc": "US",
+"loc": "Washington, DC",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-pur",
+"cc": "US",
+"loc": "West Lafayette, IN",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "veo-wta",
+"cc": "US",
+"loc": "Wichita, KS",
+"name": "Veo",
+"url": "https://www.veoride.com",
+"pkg": "com.pgt.veoride",
+"ff": [
+"bicycle",
+"scooter"
+]
+},
+{
+"id": "nextbike_gs",
+"cc": "XK",
+"loc": "Prishtina",
+"name": "Prishtina bike (Kosovo)",
+"url": "https://www.prishtinabike.com/",
+"pkg": "de.nextbike",
+"ff": [
+"bicycle"
+]
+}
+],
+"play": {
+"be.antwerpen.velo": {
+"t": "Velo Antwerpen",
+"checked": "2026-11-26"
+},
+"bike.hopp": {
+"t": "Hopp",
+"checked": "2026-11-26"
+},
+"cat.reusmobilitat.bikesharing": {
+"t": "Ganxeta",
+"checked": "2026-11-26"
+},
+"cc.beryl.GreaterManchester": {
+"t": "Starling Bikes",
+"checked": "2026-11-26"
+},
+"cc.beryl.basis": {
+"t": "Beryl Bikes",
+"checked": "2026-11-26"
+},
+"ch.carvelo2go.app": {
+"t": "carvelo",
+"checked": "2026-11-26"
+},
+"ch.pickebike": {
+"t": "Pick-e-Bike",
+"checked": "2026-11-26"
+},
+"ch.publibike2.app": {
+"t": "PubliBike Velospot",
+"checked": "2026-11-26"
+},
+"co.bird.android": {
+"t": "Bird — Ride Electric",
+"checked": "2026-11-26"
+},
+"co.nz.joltscooters.rider": {
+"t": "JOLT",
+"checked": "2026-11-26"
+},
+"co.ponybikes.mercury": {
+"t": "Pony - bike & scooter sharing",
+"checked": "2026-11-26"
+},
+"com.bcycle": {
+"t": "BCycle",
+"checked": "2026-11-26"
+},
+"com.c4mprod.voiturelib": {
+"t": "Getaround - car rental",
+"checked": "2026-11-26"
+},
+"com.careem.acma": {
+"t": "Careem: Taxi, Food & Delivery",
+"checked": "2026-11-26"
+},
+"com.choosit.smoove": {
+"t": "Mobi by Rogers",
+"checked": "2026-11-26"
+},
+"com.choosit.velopop": {
+"t": "Vélopop'",
+"checked": "2026-11-26"
+},
+"com.donkeyrepublic.bike.android": {
+"t": "Donkey Republic – Bike sharing",
+"checked": "2026-11-26"
+},
+"com.ecovelo.altervelo": {
+"t": "alterVélo libre service",
+"checked": "2026-11-26"
+},
+"com.ecovelo.auchveloc": {
+"t": "Auch velo'c",
+"checked": "2026-11-26"
+},
+"com.ecovelo.calivelo": {
+"t": "Calivélo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.capcotentin": {
+"t": "Cap Cotentin Vélo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.captainbike": {
+"t": "Naolib Micromob'",
+"checked": "2026-11-26"
+},
+"com.ecovelo.cyclam": {
+"t": "Cycl'AM",
+"checked": "2026-11-26"
+},
+"com.ecovelo.cyclolibre": {
+"t": "Cyclolibre",
+"checked": "2026-11-26"
+},
+"com.ecovelo.impulsyon": {
+"t": "impulsyon",
+"checked": "2026-11-26"
+},
+"com.ecovelo.karuvelo": {
+"t": "Karu'Vélo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.labaule": {
+"t": "La Baule velo libre service",
+"checked": "2026-11-26"
+},
+"com.ecovelo.lemarcel": {
+"t": "Le Marcel à vélo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.lespetitesreines": {
+"t": "LES PETITES REINES",
+"checked": "2026-11-26"
+},
+"com.ecovelo.nemovelo": {
+"t": "Nemovélo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.ogalo": {
+"t": "Ogalo Cyclette",
+"checked": "2026-11-26"
+},
+"com.ecovelo.perivelo": {
+"t": "Périvélo libre service",
+"checked": "2026-11-26"
+},
+"com.ecovelo.rhoule": {
+"t": "R'Houle",
+"checked": "2026-11-26"
+},
+"com.ecovelo.rlvlib": {
+"t": "RLVlib",
+"checked": "2026-11-26"
+},
+"com.ecovelo.rubis": {
+"t": "Rubis - vélo libre-service",
+"checked": "2026-11-26"
+},
+"com.ecovelo.semo": {
+"t": "semo vélo - libre-service",
+"checked": "2026-11-26"
+},
+"com.ecovelo.tanlib": {
+"t": "Vélo Tanlib",
+"checked": "2026-11-26"
+},
+"com.ecovelo.tempovelo": {
+"t": "Tempo Vélo libre-service",
+"checked": "2026-11-26"
+},
+"com.ecovelo.tlpmobilites": {
+"t": "TLP mobilités",
+"checked": "2026-11-26"
+},
+"com.ecovelo.velectin": {
+"t": "VELECT'IN",
+"checked": "2026-11-26"
+},
+"com.ecovelo.velibeo": {
+"t": "Vélibéo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.velocite": {
+"t": "Vélo'Cité - Pays de Laon",
+"checked": "2026-11-26"
+},
+"com.ecovelo.velodaqui": {
+"t": "Vélo d'Aqui",
+"checked": "2026-11-26"
+},
+"com.ecovelo.velyceo": {
+"t": "Vélycéo VLS vélo libre-service",
+"checked": "2026-11-26"
+},
+"com.ecovelo.vernouvelo": {
+"t": "vernou vélo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.vertuose": {
+"t": "VERTUOSE",
+"checked": "2026-11-26"
+},
+"com.ecovelo.viavelo": {
+"t": "Viavélo",
+"checked": "2026-11-26"
+},
+"com.ecovelo.zebullo": {
+"t": "ZébullO - vélo libre-service",
+"checked": "2026-11-26"
+},
+"com.felyx.android": {
+"t": "felyx: E-moped rentals",
+"checked": "2026-11-26"
+},
+"com.flamingoscooters.android": {
+"t": "Flamingo Scooters",
+"checked": "2026-11-26"
+},
+"com.getyugo.app": {
+"t": "YEGO Mobility",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.amiens": {
+"t": "Vélam",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.besancon": {
+"t": "Ginko VéloCité",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.bruxelles": {
+"t": "Villo! officiel",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.dublin": {
+"t": "RedClick dublinbikes App",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.lillestrom": {
+"t": "Bysykkel Lillestrom",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.ljubljana": {
+"t": "BicikeLJ",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.lund": {
+"t": "Lundahoj Official",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.luxembourg": {
+"t": "vel’OH! official",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.lyon": {
+"t": "Vélo'v officiel",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.maribor": {
+"t": "MBajk",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.namur": {
+"t": "Li Bia Velo",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.nancy": {
+"t": "Vélostan'lib officiel",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.nantes": {
+"t": "Naolib vélo",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.seville": {
+"t": "SEVICI",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.toulouse": {
+"t": "vélôToulouse officiel",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.toyama": {
+"t": "CyclOcity Toyama",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.valence": {
+"t": "VALENBISI",
+"checked": "2026-11-26"
+},
+"com.jcdecaux.vls.vilnius": {
+"t": "Cyclocity Vilnius",
+"checked": "2026-11-26"
+},
+"com.limebike": {
+"t": "Lime - #RideGreen",
+"checked": "2026-11-26"
+},
+"com.nextbike.wroclaw": {
+"t": "Wrocławski Rower Miejski",
+"checked": "2026-11-26"
+},
+"com.pgt.veoride": {
+"t": "Veo - Shared Electric Vehicles",
+"checked": "2026-11-26"
+},
+"com.publicbikesystem.avelo": {
+"t": "àVélo",
+"checked": "2026-11-26"
+},
+"com.ridedott.rider": {
+"t": "Dott (previously TIER)",
+"checked": "2026-11-26"
+},
+"com.tam_way.mobiletickets": {
+"t": "M'Ticket - TaM mobile ticket",
+"checked": "2026-11-26"
+},
+"com.urbansharing.citybike.bergen": {
+"t": "Bergen City Bike",
+"checked": "2026-11-26"
+},
+"com.urbansharing.citybike.gdansk": {
+"t": "Mevo - metropolitan bicycle",
+"checked": "2026-11-26"
+},
+"com.urbansharing.citybike.milan": {
+"t": "bikeMi",
+"checked": "2026-11-26"
+},
+"com.urbansharing.citybike.rouen": {
+"t": "LOVÉLO libre-service",
+"checked": "2026-11-26"
+},
+"com.urbansharing.citybike.verona": {
+"t": "Verona Bike",
+"checked": "2026-11-26"
+},
+"com.zemtu.quickrent": {
+"t": "QuickRent",
+"checked": "2026-11-26"
+},
+"com.zeus.app": {
+"t": "Zeus Deutschland",
+"checked": "2026-11-26"
+},
+"coop.vianova.zeosharing": {
+"t": "zeo Sharing",
+"checked": "2026-11-26"
+},
+"de.apptiv.business.android.mvgmeinrad": {
+"t": "meinRad",
+"checked": "2026-11-26"
+},
+"de.bahn.callabike": {
+"t": "DB Call a Bike",
+"checked": "2026-11-26"
+},
+"de.cantamen.carsharing.deutschland": {
+"t": "Carsharing Deutschland",
+"checked": "2026-11-26"
+},
+"de.cantamen.ewi3.gfc": {
+"t": "Grüne-Flotte-Carsharing",
+"checked": "2026-11-26"
+},
+"de.cantamen.stadtmobil": {
+"t": "stadtmobil carsharing",
+"checked": "2026-11-26"
+},
+"de.deer_mobility.carsharing": {
+"t": "deer sharing",
+"checked": "2026-11-26"
+},
+"de.fleetster.mikar": {
+"t": "Mikar",
+"checked": "2026-11-26"
+},
+"de.flinkster.sharing.app": {
+"t": "DB Flinkster",
+"checked": "2026-11-26"
+},
+"de.fordcarsharing.sharing.app": {
+"t": "Ford Carsharing",
+"checked": "2026-11-26"
+},
+"de.moqo.work": {
+"t": "MOQO",
+"checked": "2026-11-26"
+},
+"de.nextbike": {
+"t": "nextbike – Bike Sharing",
+"checked": "2026-11-26"
+},
+"de.nextbike.sitycleta": {
+"t": "MOXSI",
+"checked": "2026-11-26"
+},
+"de.nuernbergmobil": {
+"t": "NürnbergMOBIL",
+"checked": "2026-11-26"
+},
+"de.regiorad.stuttgart": {
+"t": "RegioRadStuttgart",
+"checked": "2026-11-26"
+},
+"de.stella.app": {
+"t": "stella sharing",
+"checked": "2026-11-26"
+},
+"ee.hopp.client": {
+"t": "Hopp: Rent a scooter",
+"checked": "2026-11-26"
+},
+"ee.mtakso.client": {
+"t": "Bolt: Request a Ride",
+"checked": "2026-11-26"
+},
+"fr.airweb.cholet": {
+"t": "Choletbus",
+"checked": "2026-11-26"
+},
+"fr.franceveloconnecte.grandannecy": {
+"t": "Vélonecy 60 minutes",
+"checked": "2026-11-26"
+},
+"fr.greenon.app": {
+"t": "Vélopartage par Green On",
+"checked": "2026-11-26"
+},
+"hu.bkk.bubi": {
+"t": "MOL Bubi",
+"checked": "2026-11-26"
+},
+"io.birota.brennus": {
+"t": "Brennus à vélo",
+"checked": "2026-11-26"
+},
+"io.birota.levelo": {
+"t": "levélo - La Métropole Mobilité",
+"checked": "2026-11-26"
+},
+"io.birota.modalis": {
+"t": "Vélo Modalis",
+"checked": "2026-11-26"
+},
+"io.birota.swabikes": {
+"t": "swabi",
+"checked": "2026-11-26"
+},
+"io.birota.tivelo": {
+"t": "Ti Vélo",
+"checked": "2026-11-26"
+},
+"io.birota.velivert": {
+"t": "Vélivert",
+"checked": "2026-11-26"
+},
+"io.birota.velobaie": {
+"t": "Vélotub",
+"checked": "2026-11-26"
+},
+"io.birota.velomoove": {
+"t": "VéloMoove",
+"checked": "2026-11-26"
+},
+"io.birota.vilvolt": {
+"t": "Vilvolt",
+"checked": "2026-11-26"
+},
+"io.voiapp.voi": {
+"t": "Voi – e-scooters and e-bikes",
+"checked": "2026-11-26"
+},
+"joe.app": {
+"t": "Joe Scooter",
+"checked": "2026-11-26"
+},
+"jp.hellocycling.hellocycling": {
+"t": "HELLO CYCLING - シェアサイクル",
+"checked": "2026-11-26"
+},
+"net.nextbike.ambici": {
+"t": "Ambici",
+"checked": "2026-11-26"
+},
+"net.nextbike.arrivakia": {
+"t": "BikeKIA",
+"checked": "2026-11-26"
+},
+"net.nextbike.bicipalma": {
+"t": "Bicipalma",
+"checked": "2026-11-26"
+},
+"net.nextbike.bizkaibizi": {
+"t": "Bizkaibizi",
+"checked": "2026-11-26"
+},
+"net.nextbike.konrad": {
+"t": "Mein konrad (nextbike)",
+"checked": "2026-11-26"
+},
+"net.nextbike.lovesharing": {
+"t": "Lovesharing bikes",
+"checked": "2026-11-26"
+},
+"net.nextbike.mvrad": {
+"t": "MV-Rad",
+"checked": "2026-11-26"
+},
+"net.nextbike.velhop2": {
+"t": "Vélhop libre-service",
+"checked": "2026-11-26"
+},
+"no.urbaninfrastructure.bysykkel": {
+"t": "Oslo City Bike",
+"checked": "2026-11-26"
+},
+"no.urbaninfrastructure.bysykkel.trondheim": {
+"t": "Trondheim City Bike",
+"checked": "2026-11-26"
+},
+"ride.app": {
+"t": "RIDE",
+"checked": "2026-11-26"
+},
+"yoio.app": {
+"t": "Yoio E-Scooter Sharing",
+"checked": "2026-11-26"
+},
+"zelectra.app": {
+"t": "Zelectra",
+"checked": "2026-11-26"
+}
+}
+}

@@ -303,6 +303,25 @@
    "use": "limited",
    "req": "Chinesische App, Fahrcode per Alipay oft einfacher",
    "src": "https://english.cq.gov.cn/specials/getaround/PublicTransport/CityBuses/202608/t20260807_15905586.html"
+  },
+  {
+   "name": "中国天气 weather.com.cn",
+   "cat": "safety",
+   "note": "Wetterportal des chinesischen Wetteramts",
+   "use": "ok",
+   "url": "https://www.weather.com.cn",
+   "nostore": true,
+   "src": "https://www.weather.com.cn"
+  },
+  {
+   "name": "Visit Beijing",
+   "cat": "tourism",
+   "note": "Reiseportal der Pekinger Tourismusbehörde",
+   "city": "Beijing",
+   "use": "ok",
+   "url": "https://www.visitbeijing.com.cn",
+   "nostore": true,
+   "src": "https://www.visitbeijing.com.cn"
   }
  ]
 }

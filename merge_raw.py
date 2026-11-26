@@ -108,6 +108,8 @@ def merge(data, code, raw):
     added = 0
     for a in raw.get("apps", []):
         app = clean_app(a, src)
+        if code == "WW" and a.get("countries"):
+            app["countries"] = sorted({x.upper() for x in a["countries"]})
         city_name = (a.get("city") or "").strip()
         if city_name:
             city = find_city(country, city_name)
@@ -125,6 +127,8 @@ def merge(data, code, raw):
             if old.get("mine"):
                 if app.get("ess"):
                     old["ess"] = True
+                if app.get("countries") and old.get("where") != "all":
+                    old["countries"] = sorted(set(old.get("countries", [])) | set(app["countries"]))
                 for f in ("use", "req"):
                     if f in app:
                         old[f] = app[f]
@@ -133,6 +137,8 @@ def merge(data, code, raw):
             for f in ("cat", "note", "pkg", "src", "ess", "use", "req"):
                 if f in app:
                     old[f] = app[f]
+            if app.get("countries") and old.get("where") != "all":
+                old["countries"] = sorted(set(old.get("countries", [])) | set(app["countries"]))
             if "use" not in app:
                 old.pop("use", None)
             if "req" not in app:
@@ -293,6 +299,90 @@ def add_continents_and_info(data):
                     a.pop("ic", None)
 
 
+def add_gbfs(data):
+    """Leihräder, E-Scooter und Carsharing aus info/gbfs.json (tools/gbfs.py, offene GBFS-Daten von MobilityData, CC BY 3.0).
+    Erzeugte Einträge tragen "auto": "gbfs" und werden bei jedem Lauf neu gebaut. Apps, die im Land schon stehen
+    (Paketname), bleiben unberührt; weltweite Apps mit Länderliste bekommen nur das Land dazu."""
+    p = os.path.join(HERE, "info", "gbfs.json")
+    if not os.path.exists(p):
+        return
+    g = json.load(open(p, encoding="utf-8"))
+    play = g.get("play", {})
+    ww = next((c for c in data["countries"] if c["code"] == "WW"), {"apps": []})
+    ww_pkg = {a.get("pkg"): a for a in ww["apps"] if a.get("pkg")}
+    groups = {}
+    for s in g.get("systems", []):
+        if s["pkg"] in play:
+            groups.setdefault((s["cc"], s["pkg"]), []).append(s)
+    words = {"bicycle": "Leihräder", "cargo_bicycle": "Lastenräder", "scooter_standing": "E-Scooter",
+             "scooter_seated": "E-Roller", "scooter": "E-Roller", "moped": "E-Roller", "car": "Carsharing"}
+    added = 0
+    per_country = {}  # höchstens 12 GBFS-Einträge je Land auf Landesebene, Systeme mit vielen Orten zuerst
+    for (cc, pkg), sy in sorted(groups.items(), key=lambda kv: (kv[0][0], -len(kv[1]), kv[0][1])):
+        country = next((c for c in data["countries"] if c["code"] == cc), None)
+        if country is None:
+            continue
+        w = ww_pkg.get(pkg)
+        if w is not None:
+            if w.get("where") != "all":
+                lst = w.setdefault("countries", [])
+                if cc not in lst:
+                    lst.append(cc)
+                    lst.sort()
+            continue
+        if any(a.get("pkg") == pkg for lst in [country["apps"]] + [ci["apps"] for ci in country.get("cities", [])] for a in lst):
+            continue
+        ff = set().union(*[set(s.get("ff") or []) for s in sy])
+        title = play[pkg]["t"]
+        cat = "carshare" if ("car" in ff and not ff & {"bicycle", "scooter_standing"}) or re.search(r"car ?(rental|sharing)", title, re.I) else "micro"
+        if cat == "carshare":
+            ff = {"car"} | (ff & {"cargo_bicycle"})
+        kinds = []
+        for f in ("bicycle", "cargo_bicycle", "scooter_standing", "scooter_seated", "scooter", "moped", "car"):
+            if f in ff and words[f] not in kinds:
+                kinds.append(words[f])
+        if not kinds:
+            kinds = ["Carsharing"] if cat == "carshare" else ["Leihräder"]
+        if len(kinds) > 2:
+            kinds = kinds[:2]
+        pc = pycountry.countries.get(alpha_2=cc)
+        land = {cc.lower(), country["name"].lower()} | ({pc.name.lower(), getattr(pc, "common_name", pc.name).lower()} if pc else set())
+        locs = set()
+        for s in sy:
+            l = re.sub(r"\s*\(.*?\)", "", s["loc"].split(",")[0]).strip()
+            if l and l.lower() not in land:
+                locs.add(EXONYM.get(l, l))
+        locs = sorted(locs)
+        cities = {id(find_city(country, l)): find_city(country, l) for l in locs if find_city(country, l)}
+        name = re.sub(r"\s*\(.*?\)", "", re.split(r"\s[-–—|]\s|:\s", title)[0]).strip() or sy[0]["name"]
+        what = " und ".join(kinds)
+        app = {"name": name, "cat": cat, "pkg": pkg, "auto": "gbfs",
+               "src": next((s["url"] for s in sy if s.get("url")), g.get("src", ""))}
+        if cat == "carshare":
+            app["use"] = "limited"
+            app["req"] = "Registrierung mit Führerscheinprüfung in der App nötig"
+        if len(cities) == 1 and len(locs) == 1:
+            city = list(cities.values())[0]
+            app["note"] = what + " per App"
+            city["apps"].append(app)
+        else:
+            if per_country.get(cc, 0) >= 12:
+                continue
+            per_country[cc] = per_country.get(cc, 0) + 1
+            if not locs:
+                where = ""
+            elif len(locs) <= 3:
+                where = (", ".join(locs[:-1]) + " und " if len(locs) > 1 else "") + locs[-1]
+            else:
+                where = ", ".join(locs[:2]) + " und %d weiteren Orten" % (len(locs) - 2)
+            note = what + (" in " + where if where else " an vielen Orten im Land" if not locs else "")
+            app["note"] = note if len(note) <= 90 else what + " in %d Orten" % len(locs)
+            country["apps"].append(app)
+        added += 1
+    data["gbfs_src"] = "Leihräder, E-Scooter und Carsharing teils aus GBFS-Daten von MobilityData (CC BY 3.0)"
+    return added
+
+
 def add_prides(data):
     """Pride-/CSD-Termine aus info/prides.json (gepflegt von Hand bzw. von der monatlichen Prüfung) als data["prides"].
     Vergangene Termine fallen weg; "lc" = Stadt der App im Umkreis von 40 km (für die Anzeige auf der Stadtseite)."""
@@ -349,12 +439,17 @@ def main():
     data = json.load(open(path, encoding="utf-8"))
     VALID_CATS = {c["id"] for c in data["categories"]}
     total = 0
+    # Automatisch erzeugte Einträge (GBFS) vorher entfernen, add_gbfs baut sie neu
+    for c in data["countries"]:
+        for lst in [c["apps"]] + [ci["apps"] for ci in c.get("cities", [])]:
+            lst[:] = [a for a in lst if a.get("auto") != "gbfs"]
     for f in sorted(glob.glob(os.path.join(HERE, "raw", "*.json"))):
         code = os.path.splitext(os.path.basename(f))[0]
         raw = json.load(open(f, encoding="utf-8"))
         n = merge(data, code, raw)
         total += n
         print(f"{code}: +{n}")
+    print("GBFS: +%s" % add_gbfs(data))
     add_continents_and_info(data)
     add_prides(data)
     if version:

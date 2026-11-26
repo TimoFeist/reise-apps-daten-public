@@ -253,6 +253,15 @@
    "use": "ok",
    "req": "",
    "src": "https://news.huengaynay.vn/travel/launching-tourism-narration-app-a-smart-way-to-experience-heritage-146003.html"
+  },
+  {
+   "name": "NCHMF Vietnam",
+   "cat": "safety",
+   "note": "Nationale Wetter und Unwettervorhersage",
+   "use": "ok",
+   "url": "https://www.nchmf.gov.vn",
+   "nostore": true,
+   "src": "https://www.nchmf.gov.vn"
   }
  ]
 }

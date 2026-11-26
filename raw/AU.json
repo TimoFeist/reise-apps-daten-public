@@ -15,6 +15,11 @@
    "name": "",
    "pkg": "au.com.carnextdoor.app",
    "src": "https://carexpert.com.au/car-news/uber-carshare-folds-due-to-close-by-end-of-this-week-report"
+  },
+  {
+   "name": "Uber Carshare",
+   "pkg": "au.com.carnextdoor.app",
+   "src": "https://www.uber.com/au/en/carshare-owners-faq"
   }
  ],
  "apps": [
@@ -524,6 +529,14 @@
    "old": "eVisitor (ImmiAccount, Web)",
    "note": "eVisitor 651 kostenlos über ImmiAccount, nicht ETA-App",
    "city": ""
+  },
+  {
+   "old": "au.popcar.classic.client101",
+   "pkg": "",
+   "url": "https://portal.popcar.com.au/login",
+   "nostore": true,
+   "note": "Carsharing, Buchung über das Webportal",
+   "src": "https://popcar.com.au/"
   }
  ]
 }

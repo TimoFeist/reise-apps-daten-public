@@ -343,6 +343,25 @@
    "req": "",
    "src": "https://www.odakyu.jp/english/passes/digital_tickets/",
    "url": "https://www.odakyu.jp/english/passes/digital_tickets/"
+  },
+  {
+   "name": "akippa",
+   "cat": "parking",
+   "pkg": "jp.co.galaxyagency.akippa",
+   "note": "Private Parkplätze im Voraus reservieren",
+   "use": "limited",
+   "req": "Nur Japanisch, Kreditkarte nötig",
+   "src": "https://www.kwiksure.com/blog/japan-parking-guide/"
+  },
+  {
+   "name": "Times Parkplatzsuche",
+   "cat": "parking",
+   "pkg": "jp.co.park24.timesapps",
+   "note": "Freie Times Parkplätze und Preise in der Nähe",
+   "use": "ok",
+   "req": "Nur Japanisch, Zahlung am Automaten",
+   "url": "https://times-info.net/info/utilization_en.html",
+   "src": "https://times-info.net/info/utilization_en.html"
   }
  ],
  "replace": [

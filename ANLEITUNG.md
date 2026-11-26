@@ -60,6 +60,10 @@ Dieselbe Action sucht für Apps ohne `pkg` (außer `nostore`/`dl`) den Google-Pl
 
 Dieselbe Action sucht zu jeder App mit Paketname die Adresse ihres Logos auf der Google-Play-Seite (`tools/icons.py`, nach `info/icons.json`, gefundene alle 30 Tage, fehlende alle 14 Tage neu). Es werden keine Bilder gespeichert oder über unsere Server verteilt: `merge_raw.py` setzt nur `"ic"` (Pfad hinter `https://play-lh.googleusercontent.com/`) an jede App, App und Web-Version laden das Logo direkt von Google Play. `ic` nie in `raw/` eintragen.
 
+## Leihräder, E-Scooter und Carsharing aus GBFS (automatisch)
+
+Dieselbe tägliche Action liest die offene Liste aller GBFS-Systeme von MobilityData (`tools/gbfs.py`, Lizenz CC BY 3.0, nach `info/gbfs.json`). Aus dem Feed jedes Betreibers kommen nur Name, Ort, Fahrzeugarten und die offizielle Android-App; jeder Paketname wird bei Google Play geprüft. `merge_raw.py` (`add_gbfs`) baut daraus bei jedem Lauf neu Einträge mit `"auto": "gbfs"`: Kategorie `micro` (bei reinen Auto-Systemen `carshare` mit Hinweis Führerscheinprüfung), in der Stadt, wenn das System nur in einer unserer Städte fährt, sonst auf Landesebene mit den Orten in `note` (höchstens 12 je Land, Systeme mit vielen Orten zuerst). Steht die App im Land schon (gleicher Paketname), passiert nichts; weltweite Apps mit Länderliste (z. B. Lime, Voi, Bolt) bekommen nur das Land dazu. `auto`-Einträge nie in `raw/` kopieren oder von Hand ändern; Korrekturen als normaler Eintrag mit gleichem `pkg` in `raw/<ISO>.json`, der hat Vorrang.
+
 ## Weltweite Apps (Land „WW“)
 
 Apps unter `WW` erscheinen in der App zusätzlich bei jedem Land, in dem sie funktionieren:

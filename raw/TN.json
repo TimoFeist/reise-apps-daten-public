@@ -132,6 +132,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.jarniascyril.com/?p=14603"
+  },
+  {
+   "name": "Discover Tunisia",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal des Tourismusamts ONTT",
+   "use": "ok",
+   "url": "https://www.discovertunisia.com",
+   "nostore": true,
+   "src": "https://www.discovertunisia.com"
   }
  ]
 }

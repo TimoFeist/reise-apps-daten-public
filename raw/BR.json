@@ -258,6 +258,35 @@
    "use": "ok",
    "req": "",
    "src": "https://www.curitiba.pr.gov.br/noticias/curitiba-app-traz-inovacoes-na-area-do-transporte-e-facilita-vida-dos-passageiros/82605"
+  },
+  {
+   "name": "Estapar Zona Azul São Paulo",
+   "cat": "parking",
+   "pkg": "br.com.estapar.sp",
+   "note": "Offizielle App des Betreibers der Zona Azul",
+   "city": "São Paulo",
+   "use": "limited",
+   "req": "Registrierung mit brasilianischen Daten (CPF) kann nötig sein",
+   "src": "https://itforum.com.br/?p=9559965"
+  },
+  {
+   "name": "Zul+ Zona Azul Digital",
+   "cat": "parking",
+   "pkg": "br.com.zuldigital",
+   "note": "Digitale Parkscheine für die Zona Azul kaufen",
+   "city": "São Paulo",
+   "use": "limited",
+   "req": "Registrierung mit brasilianischen Daten (CPF) kann nötig sein",
+   "src": "https://www.vrum.com.br/aceleradas/2025/04/7121160-zona-azul-digital-veja-como-funciona-o-estacionamento-rotativo-de-sp.html"
+  },
+  {
+   "name": "INMET",
+   "cat": "safety",
+   "note": "Wetterdienst Brasiliens mit Unwetterwarnungen",
+   "use": "ok",
+   "url": "https://portal.inmet.gov.br",
+   "nostore": true,
+   "src": "https://portal.inmet.gov.br/noticias/aplicativo-inmet-de-previsão-do-tempo"
   }
  ],
  "fetched": "2026-11-23",

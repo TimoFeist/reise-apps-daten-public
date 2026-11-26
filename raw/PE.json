@@ -157,6 +157,15 @@
    "use": "ok",
    "req": "",
    "src": "https://apps.apple.com/us/app/id1523190990"
+  },
+  {
+   "name": "Peru Travel",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal von PromPerú",
+   "use": "ok",
+   "url": "https://www.peru.travel",
+   "nostore": true,
+   "src": "https://www.peru.travel"
   }
  ],
  "fetched": "2026-11-23"

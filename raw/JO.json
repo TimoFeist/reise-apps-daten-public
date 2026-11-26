@@ -1,19 +1,207 @@
-{"src": "https://www.bento.travel/de/jordan", "fetched": "2026-11-18", "updated": "Zuletzt aktualisiert: August 2026", "note": "Deutsche brauchen ein Visum, erhältlich bei Ankunft an den Flughäfen Amman und Aqaba für 40 JOD, Reisepass mindestens 6 Monate gültig. Für Petra und Wadi Rum Bargeld bereithalten.", "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, Homosexualität wird gesellschaftlich aber nicht toleriert und gleichgeschlechtliche Ehen werden nicht anerkannt.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit/218008", "discontinued": [], "apps": [
-{"name": "Careem", "cat": "taxi", "pkg": "com.careem.acma", "ess": true, "note": "Fahrdienst mit größter Abdeckung, auch Essenslieferung", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/de/jordan"},
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Lizenzierte Taxis, auch am Flughafen Queen Alia", "city": "Amman", "use": "ok", "req": "", "src": "https://www.bento.travel/de/jordan"},
-{"name": "Jeeny", "cat": "taxi", "pkg": "me.com.easytaxi", "ess": false, "note": "Regionaler Fahrdienst als günstige Alternative", "city": "", "use": "limited", "req": "Manche Konten brauchen eine jordanische oder Golfstaaten-Nummer", "src": "https://www.bento.travel/de/jordan"},
-{"name": "Petra Ride", "cat": "taxi", "pkg": "com.PetraRide_User", "ess": false, "note": "Jordanischer Fahrdienst in Amman, seit 2025 offiziell in Aqaba", "city": "", "use": "ok", "req": "", "src": "https://pt1.petra.gov.jo/en/news/aseza-petraride-sign-agreement-to-launch-smart-transportation-in-aqaba"},
-{"name": "talabat", "cat": "delivery", "pkg": "com.talabat", "ess": true, "note": "Führende Liefer-App mit vielen Städten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/de/jordan"},
-{"name": "MyThings", "cat": "delivery", "pkg": "com.roxiit.mythings", "ess": false, "note": "Lokaler Lieferdienst für Essen, Läden und Besorgungen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/de/jordan"},
-{"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Offline-Karte als Reserve, ohne Live-Verkehr", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/de/jordan"},
-{"name": "JETT", "cat": "rail", "pkg": "ac.transportation.jett", "ess": false, "note": "Überland- und Touristenbusse, etwa nach Petra und Aqaba", "city": "", "use": "limited", "req": "Ausländische Karte oder Ausweisfelder können die Buchung blockieren, dann im Büro kaufen", "src": "https://www.bento.travel/jordan/intercity-transport"},
-{"name": "Visit Jordan", "cat": "tourism", "pkg": "com.imagine.jordanpass.superapplication", "ess": false, "note": "Offizielle Tourismus-App mit Attraktionen und Karten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/de/jordan"},
-{"name": "Jordan Pass", "cat": "tourism", "pkg": "", "ess": false, "note": "Pass für über 40 Sehenswürdigkeiten, erlässt Visumgebühr ab 2 Nächten", "city": "", "use": "ok", "req": "", "src": "https://jordanpass.jo/contents/FAQs.aspx"},
-{"name": "Zain Cash", "cat": "payment", "pkg": "com.audiogram.zaincash", "ess": false, "note": "Lokale Handy-Geldbörse", "city": "", "use": "no", "req": "Jordanischer Mobilfunkanschluss und Identitätsprüfung nötig, teils Besuch beim Händler", "src": "https://www.bento.travel/de/jordan/payments"},
-{"name": "CliQ", "cat": "payment", "pkg": "", "ess": false, "note": "Sofortüberweisung zwischen jordanischen Banken", "city": "", "use": "no", "req": "Jordanisches Bankkonto nötig, keine eigene App für Touristen", "src": "https://www.bento.travel/de/jordan/payments"},
-{"name": "Thrifty-Jordan", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen mit und ohne Fahrer in Jordanien", "city": "", "use": "limited", "req": "Mietbedingungen wie Führerschein und Mindestalter beim Anbieter prüfen", "src": "https://apps.apple.com/kw/app/thrifty-jordan/id1673443037"},
-{"name": "Dollar-Jo", "cat": "carshare", "pkg": "", "ess": false, "note": "Mietwagen am Flughafen Queen Alia, in Amman und Aqaba", "city": "", "use": "limited", "req": "Mietbedingungen wie Führerschein und Mindestalter beim Anbieter prüfen", "src": "https://apps.apple.com/mx/app/dollar-jo/id6566177509"},
-{"name": "Grindr", "cat": "lgbtq", "pkg": "", "ess": false, "note": "Weltweite Dating-App, in Jordanien gesperrt", "city": "", "use": "no", "req": "Seit August 2023 von jordanischen Providern gesperrt", "src": "https://ooni.org/post/2023-jordan-blocks-grindr/"},
-{"name": "Vision City Bus", "cat": "transit", "pkg": "com.kentkart.ammanbus", "ess": false, "note": "Offizielle Bus-App mit Live-Daten, Tickets und QR-Code", "city": "Amman", "use": "ok", "req": "", "src": "https://www.bento.travel/de/jordan/transit"},
-{"name": "The Petra Museum", "cat": "tourism", "pkg": "", "ess": false, "note": "Offizielle Museums-App zur Geschichte der Region Petra", "city": "Petra", "use": "ok", "req": "", "src": "https://apps.apple.com/sa/app/id1645309066"}
-]}
+{
+ "src": "https://www.bento.travel/de/jordan",
+ "fetched": "2026-11-18",
+ "updated": "Zuletzt aktualisiert: August 2026",
+ "note": "Deutsche brauchen ein Visum, erhältlich bei Ankunft an den Flughäfen Amman und Aqaba für 40 JOD, Reisepass mindestens 6 Monate gültig. Für Petra und Wadi Rum Bargeld bereithalten.",
+ "lgbtq_note": "Gleichgeschlechtliche Handlungen sind nicht strafbar, Homosexualität wird gesellschaftlich aber nicht toleriert und gleichgeschlechtliche Ehen werden nicht anerkannt.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit/218008",
+ "discontinued": [],
+ "apps": [
+  {
+   "name": "Careem",
+   "cat": "taxi",
+   "pkg": "com.careem.acma",
+   "ess": true,
+   "note": "Fahrdienst mit größter Abdeckung, auch Essenslieferung",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/jordan"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Lizenzierte Taxis, auch am Flughafen Queen Alia",
+   "city": "Amman",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/jordan"
+  },
+  {
+   "name": "Jeeny",
+   "cat": "taxi",
+   "pkg": "me.com.easytaxi",
+   "ess": false,
+   "note": "Regionaler Fahrdienst als günstige Alternative",
+   "city": "",
+   "use": "limited",
+   "req": "Manche Konten brauchen eine jordanische oder Golfstaaten-Nummer",
+   "src": "https://www.bento.travel/de/jordan"
+  },
+  {
+   "name": "Petra Ride",
+   "cat": "taxi",
+   "pkg": "com.PetraRide_User",
+   "ess": false,
+   "note": "Jordanischer Fahrdienst in Amman, seit 2025 offiziell in Aqaba",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://pt1.petra.gov.jo/en/news/aseza-petraride-sign-agreement-to-launch-smart-transportation-in-aqaba"
+  },
+  {
+   "name": "talabat",
+   "cat": "delivery",
+   "pkg": "com.talabat",
+   "ess": true,
+   "note": "Führende Liefer-App mit vielen Städten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/jordan"
+  },
+  {
+   "name": "MyThings",
+   "cat": "delivery",
+   "pkg": "com.roxiit.mythings",
+   "ess": false,
+   "note": "Lokaler Lieferdienst für Essen, Läden und Besorgungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/jordan"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Offline-Karte als Reserve, ohne Live-Verkehr",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/jordan"
+  },
+  {
+   "name": "JETT",
+   "cat": "rail",
+   "pkg": "ac.transportation.jett",
+   "ess": false,
+   "note": "Überland- und Touristenbusse, etwa nach Petra und Aqaba",
+   "city": "",
+   "use": "limited",
+   "req": "Ausländische Karte oder Ausweisfelder können die Buchung blockieren, dann im Büro kaufen",
+   "src": "https://www.bento.travel/jordan/intercity-transport"
+  },
+  {
+   "name": "Visit Jordan",
+   "cat": "tourism",
+   "pkg": "com.imagine.jordanpass.superapplication",
+   "ess": false,
+   "note": "Offizielle Tourismus-App mit Attraktionen und Karten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/jordan"
+  },
+  {
+   "name": "Jordan Pass",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Pass für über 40 Sehenswürdigkeiten, erlässt Visumgebühr ab 2 Nächten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://jordanpass.jo/contents/FAQs.aspx"
+  },
+  {
+   "name": "Zain Cash",
+   "cat": "payment",
+   "pkg": "com.audiogram.zaincash",
+   "ess": false,
+   "note": "Lokale Handy-Geldbörse",
+   "city": "",
+   "use": "no",
+   "req": "Jordanischer Mobilfunkanschluss und Identitätsprüfung nötig, teils Besuch beim Händler",
+   "src": "https://www.bento.travel/de/jordan/payments"
+  },
+  {
+   "name": "CliQ",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Sofortüberweisung zwischen jordanischen Banken",
+   "city": "",
+   "use": "no",
+   "req": "Jordanisches Bankkonto nötig, keine eigene App für Touristen",
+   "src": "https://www.bento.travel/de/jordan/payments"
+  },
+  {
+   "name": "Thrifty-Jordan",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen mit und ohne Fahrer in Jordanien",
+   "city": "",
+   "use": "limited",
+   "req": "Mietbedingungen wie Führerschein und Mindestalter beim Anbieter prüfen",
+   "src": "https://apps.apple.com/kw/app/thrifty-jordan/id1673443037"
+  },
+  {
+   "name": "Dollar-Jo",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "Mietwagen am Flughafen Queen Alia, in Amman und Aqaba",
+   "city": "",
+   "use": "limited",
+   "req": "Mietbedingungen wie Führerschein und Mindestalter beim Anbieter prüfen",
+   "src": "https://apps.apple.com/mx/app/dollar-jo/id6566177509"
+  },
+  {
+   "name": "Grindr",
+   "cat": "lgbtq",
+   "pkg": "",
+   "ess": false,
+   "note": "Weltweite Dating-App, in Jordanien gesperrt",
+   "city": "",
+   "use": "no",
+   "req": "Seit August 2023 von jordanischen Providern gesperrt",
+   "src": "https://ooni.org/post/2023-jordan-blocks-grindr/"
+  },
+  {
+   "name": "Vision City Bus",
+   "cat": "transit",
+   "pkg": "com.kentkart.ammanbus",
+   "ess": false,
+   "note": "Offizielle Bus-App mit Live-Daten, Tickets und QR-Code",
+   "city": "Amman",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/de/jordan/transit"
+  },
+  {
+   "name": "The Petra Museum",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Offizielle Museums-App zur Geschichte der Region Petra",
+   "city": "Petra",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/sa/app/id1645309066"
+  },
+  {
+   "name": "Jordan Meteorological Department",
+   "cat": "safety",
+   "note": "Amtliche Vorhersagen und Warnungen Jordaniens",
+   "use": "ok",
+   "url": "https://jmd.gov.jo",
+   "nostore": true,
+   "src": "https://alertingauthority.wmo.int/authorities.php?recId=78"
+  }
+ ]
+}

@@ -512,6 +512,16 @@
    "use": "limited",
    "req": "Anmeldung per OTP, meist indische Nummer nötig",
    "src": "https://www.capitalregiontransport.in/know-moreriders-services"
+  },
+  {
+   "name": "Park+",
+   "cat": "parking",
+   "pkg": "com.ovunque.parkwheels",
+   "note": "Parkplätze finden und buchen, dazu FASTag",
+   "use": "no",
+   "req": "Indische Handynummer für OTP nötig",
+   "url": "https://parkplus.io/parking",
+   "src": "https://zeebiz.com/technology/apps/news-park-plus-fastag-recharge-offer-parking-lot-app-for-android-ios-car-owners-218316"
   }
  ]
 }

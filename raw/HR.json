@@ -1,1 +1,270 @@
-{"src": "https://www.bento.travel/croatia", "updated": "August 2026", "note": "Neben Visa oder Mastercard etwas Euro-Bargeld mitnehmen, kleine Läden, Märkte und Strände nehmen oft nur bar.", "apps": [{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": true, "note": "Weit verbreiteter Fahrdienst, auch lizenzierte Taxis", "city": "", "use": "ok", "req": ""}, {"name": "Bolt", "cat": "taxi", "pkg": "ee.mtakso.client", "ess": true, "note": "Fahrdienst zum Preisvergleich in neun Städten", "city": "", "use": "ok", "req": ""}, {"name": "Wizi", "cat": "taxi", "pkg": "com.binom.cammeo", "ess": false, "note": "Lizenzierte Taxis in Zagreb, an der Küste und auf Krk", "city": "", "use": "ok", "req": ""}, {"name": "Wolt", "cat": "delivery", "pkg": "com.wolt.android", "ess": true, "note": "Essen und Einkäufe in über 30 Orten", "city": "", "use": "ok", "req": ""}, {"name": "Glovo", "cat": "delivery", "pkg": "com.glovo", "ess": false, "note": "Lieferungen in großen Städten und Küstenorten", "city": "", "use": "ok", "req": ""}, {"name": "HAK Croatia Traffic Info", "cat": "maps", "pkg": "com.infinum.hak", "ess": true, "note": "Offizielle Infos zu Straßen, Grenzen, Fähren, Kameras", "city": "", "use": "ok", "req": ""}, {"name": "Bmove", "cat": "parking", "pkg": "hr.infoart.epk", "ess": false, "note": "Parken per Karte in über 90 Städten", "city": "", "use": "ok", "req": ""}, {"name": "Moj ZET", "cat": "transit", "pkg": "com.zetmobile", "ess": true, "note": "Offizielle App für Tram und Bus mit Handytickets", "city": "Zagreb", "use": "limited", "req": "Mit ausländischem Mobilfunknetz teils Störungen"}, {"name": "Promet Split", "cat": "transit", "pkg": "hr.prometsplit.mobile", "ess": false, "note": "Stadtbusse mit Tickets und Live-Positionen", "city": "Split", "use": "ok", "req": ""}, {"name": "RCC Mobility", "cat": "transit", "pkg": "com.rijekacitycard.mobility", "ess": false, "note": "Digitale Tickets für die Autotrolej-Busse", "city": "Rijeka", "use": "ok", "req": ""}, {"name": "Jadrolinija", "cat": "rail", "pkg": "hr.jadrolinija.mjadrolinija", "ess": true, "note": "Offizielle Fähr-App mit Fahrplan und Tickets", "city": "", "use": "ok", "req": ""}, {"name": "TP Line", "cat": "rail", "pkg": "com.tplineapp", "ess": false, "note": "Tickets für Katamarane an der Adria", "city": "", "use": "ok", "req": ""}, {"name": "FlixBus", "cat": "rail", "pkg": "de.flixbus.app", "ess": false, "note": "Fernbusse mit Handyticket", "city": "", "use": "ok", "req": ""}, {"name": "Arriva Croatia", "cat": "rail", "pkg": "hr.com.arriva.arrivacroatia", "ess": false, "note": "Arriva-Busse buchen, Ticket als QR-Code", "city": "", "use": "ok", "req": ""}, {"name": "HŽPP", "cat": "rail", "pkg": "com.hzppispromobile", "ess": false, "note": "Offizielle Bahn-App mit Fahrplan und Tickets", "city": "", "use": "ok", "req": ""}, {"name": "Nautical Info Service Croatia", "cat": "safety", "pkg": "hr.mppi.nis", "ess": false, "note": "Amtliche Seeinfos mit Wetter und Notrufnummern", "city": "", "use": "ok", "req": ""}, {"name": "Avant2Go", "cat": "carshare", "pkg": "", "ess": false, "note": "E-Carsharing in Zagreb, Dubrovnik und an Flughäfen", "city": "", "use": "limited", "req": "Registrierung und Kontoaktivierung in der App nötig", "src": "https://apps.apple.com/hr/app/avant2go/id1129792707"}, {"name": "nextbike", "cat": "micro", "pkg": "de.nextbike", "ess": false, "note": "Leihräder in über 40 Orten, in Zagreb als Bajs", "city": "", "use": "ok", "req": "", "src": "https://nextbike.hr/en"}, {"name": "ZgPark", "cat": "parking", "pkg": "hr.sedamit.zgparking.production", "ess": false, "note": "Parkscheine für Parkplätze und Garagen per Karte", "city": "Zagreb", "use": "ok", "req": "", "src": "https://www.zagrebparking.hr/activities/public-parking-lots/parking-payment-methods/zgpark-mobile-application/445"}, {"name": "Split Parking", "cat": "parking", "pkg": "", "ess": false, "note": "Freie Parkplätze finden und per Karte zahlen", "city": "Split", "use": "ok", "req": "", "src": "https://visitsplit.com/en/2986/parking-in-split-pt-2-not-a-nightmare-anymore"}, {"name": "Libertas App", "cat": "transit", "pkg": "com.enumsoftware.libertasapp", "ess": false, "note": "Busse des Stadtbetriebs live, Linien und Halte", "city": "Dubrovnik", "use": "ok", "req": "", "src": "https://libertasdubrovnik.hr/en/blog/400/-the-libertas-mobile-application-is-available-from-today"}, {"name": "Dubrovnik Parking", "cat": "parking", "pkg": "", "ess": false, "note": "Stundenparkscheine für Dubrovnik per App", "city": "Dubrovnik", "use": "ok", "req": "", "src": "https://www.sanitat.hr/en/faq"}], "lgbtq_note": "Homosexualität ist gesetzlich respektiert und eingetragene Partnerschaften sind möglich; abseits der Städte und Urlaubsorte ist die Akzeptanz teils gering.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kroatien-node/kroatiensicherheit/210072", "fetched": "2026-11-17", "discontinued": [{"name": "Bolt Food", "pkg": "", "src": "https://www.bento.travel/croatia/food-delivery"}]}
+{
+ "src": "https://www.bento.travel/croatia",
+ "updated": "August 2026",
+ "note": "Neben Visa oder Mastercard etwas Euro-Bargeld mitnehmen, kleine Läden, Märkte und Strände nehmen oft nur bar.",
+ "apps": [
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": true,
+   "note": "Weit verbreiteter Fahrdienst, auch lizenzierte Taxis",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Bolt",
+   "cat": "taxi",
+   "pkg": "ee.mtakso.client",
+   "ess": true,
+   "note": "Fahrdienst zum Preisvergleich in neun Städten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Wizi",
+   "cat": "taxi",
+   "pkg": "com.binom.cammeo",
+   "ess": false,
+   "note": "Lizenzierte Taxis in Zagreb, an der Küste und auf Krk",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Wolt",
+   "cat": "delivery",
+   "pkg": "com.wolt.android",
+   "ess": true,
+   "note": "Essen und Einkäufe in über 30 Orten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "ess": false,
+   "note": "Lieferungen in großen Städten und Küstenorten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "HAK Croatia Traffic Info",
+   "cat": "maps",
+   "pkg": "com.infinum.hak",
+   "ess": true,
+   "note": "Offizielle Infos zu Straßen, Grenzen, Fähren, Kameras",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Bmove",
+   "cat": "parking",
+   "pkg": "hr.infoart.epk",
+   "ess": false,
+   "note": "Parken per Karte in über 90 Städten",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Moj ZET",
+   "cat": "transit",
+   "pkg": "com.zetmobile",
+   "ess": true,
+   "note": "Offizielle App für Tram und Bus mit Handytickets",
+   "city": "Zagreb",
+   "use": "limited",
+   "req": "Mit ausländischem Mobilfunknetz teils Störungen"
+  },
+  {
+   "name": "Promet Split",
+   "cat": "transit",
+   "pkg": "hr.prometsplit.mobile",
+   "ess": false,
+   "note": "Stadtbusse mit Tickets und Live-Positionen",
+   "city": "Split",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "RCC Mobility",
+   "cat": "transit",
+   "pkg": "com.rijekacitycard.mobility",
+   "ess": false,
+   "note": "Digitale Tickets für die Autotrolej-Busse",
+   "city": "Rijeka",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Jadrolinija",
+   "cat": "rail",
+   "pkg": "hr.jadrolinija.mjadrolinija",
+   "ess": true,
+   "note": "Offizielle Fähr-App mit Fahrplan und Tickets",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "TP Line",
+   "cat": "rail",
+   "pkg": "com.tplineapp",
+   "ess": false,
+   "note": "Tickets für Katamarane an der Adria",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "FlixBus",
+   "cat": "rail",
+   "pkg": "de.flixbus.app",
+   "ess": false,
+   "note": "Fernbusse mit Handyticket",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Arriva Croatia",
+   "cat": "rail",
+   "pkg": "hr.com.arriva.arrivacroatia",
+   "ess": false,
+   "note": "Arriva-Busse buchen, Ticket als QR-Code",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "HŽPP",
+   "cat": "rail",
+   "pkg": "com.hzppispromobile",
+   "ess": false,
+   "note": "Offizielle Bahn-App mit Fahrplan und Tickets",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Nautical Info Service Croatia",
+   "cat": "safety",
+   "pkg": "hr.mppi.nis",
+   "ess": false,
+   "note": "Amtliche Seeinfos mit Wetter und Notrufnummern",
+   "city": "",
+   "use": "ok",
+   "req": ""
+  },
+  {
+   "name": "Avant2Go",
+   "cat": "carshare",
+   "pkg": "",
+   "ess": false,
+   "note": "E-Carsharing in Zagreb, Dubrovnik und an Flughäfen",
+   "city": "",
+   "use": "limited",
+   "req": "Registrierung und Kontoaktivierung in der App nötig",
+   "src": "https://apps.apple.com/hr/app/avant2go/id1129792707"
+  },
+  {
+   "name": "nextbike",
+   "cat": "micro",
+   "pkg": "de.nextbike",
+   "ess": false,
+   "note": "Leihräder in über 40 Orten, in Zagreb als Bajs",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://nextbike.hr/en"
+  },
+  {
+   "name": "ZgPark",
+   "cat": "parking",
+   "pkg": "hr.sedamit.zgparking.production",
+   "ess": false,
+   "note": "Parkscheine für Parkplätze und Garagen per Karte",
+   "city": "Zagreb",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.zagrebparking.hr/activities/public-parking-lots/parking-payment-methods/zgpark-mobile-application/445"
+  },
+  {
+   "name": "Split Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Freie Parkplätze finden und per Karte zahlen",
+   "city": "Split",
+   "use": "ok",
+   "req": "",
+   "src": "https://visitsplit.com/en/2986/parking-in-split-pt-2-not-a-nightmare-anymore"
+  },
+  {
+   "name": "Libertas App",
+   "cat": "transit",
+   "pkg": "com.enumsoftware.libertasapp",
+   "ess": false,
+   "note": "Busse des Stadtbetriebs live, Linien und Halte",
+   "city": "Dubrovnik",
+   "use": "ok",
+   "req": "",
+   "src": "https://libertasdubrovnik.hr/en/blog/400/-the-libertas-mobile-application-is-available-from-today"
+  },
+  {
+   "name": "Dubrovnik Parking",
+   "cat": "parking",
+   "pkg": "",
+   "ess": false,
+   "note": "Stundenparkscheine für Dubrovnik per App",
+   "city": "Dubrovnik",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.sanitat.hr/en/faq"
+  },
+  {
+   "name": "KEKS Pay",
+   "cat": "payment",
+   "pkg": "agency.sevenofnine.erstewallet.production",
+   "note": "Geld senden und zahlen, Karten jeder Bank hinterlegbar",
+   "use": "limited",
+   "req": "Ausländische Karte und Nummer nicht belegt",
+   "src": "https://microblink.com/resources/customer-stories/how-keks-pay-made-a-great-ux-even-better-with-blinkcard-credit-card-scanning/"
+  },
+  {
+   "name": "Aircash",
+   "cat": "payment",
+   "pkg": "com.aircash.aircash",
+   "note": "Kroatische E-Geld-Börse mit Prepaid-Karte und Bargeld-Abon",
+   "use": "limited",
+   "req": "Registrierung mit Online-Ausweisprüfung",
+   "src": "https://aircash.eu/terms-conditions-en/"
+  },
+  {
+   "name": "Explore Croatia",
+   "cat": "tourism",
+   "pkg": "co.mediatorium.explorecroatia",
+   "note": "Reise-App der Kroatischen Zentrale für Tourismus",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=co.mediatorium.explorecroatia",
+   "src": "https://croatia.hr"
+  }
+ ],
+ "lgbtq_note": "Homosexualität ist gesetzlich respektiert und eingetragene Partnerschaften sind möglich; abseits der Städte und Urlaubsorte ist die Akzeptanz teils gering.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/kroatien-node/kroatiensicherheit/210072",
+ "fetched": "2026-11-17",
+ "discontinued": [
+  {
+   "name": "Bolt Food",
+   "pkg": "",
+   "src": "https://www.bento.travel/croatia/food-delivery"
+  }
+ ]
+}

@@ -171,6 +171,17 @@
    "use": "ok",
    "req": "",
    "src": "https://www.bento.travel/apps/sri-lanka-railways"
+  },
+  {
+   "name": "Sri Lanka Railways Sitzplatzreservierung",
+   "cat": "transit",
+   "note": "Offizielle Online-Reservierung für Züge, etwa nach Ella",
+   "city": "Colombo",
+   "use": "limited",
+   "req": "Visa oder Mastercard, Ticket am Bahnhof abholen",
+   "url": "https://seatreservation.railway.gov.lk/",
+   "nostore": true,
+   "src": "https://srilankahc.uk/wp-content/uploads/2025/10/Railway-Notice2_compressed.pdf"
   }
  ]
 }

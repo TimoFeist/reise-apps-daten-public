@@ -270,6 +270,25 @@
    "use": "ok",
    "req": "",
    "src": "https://www.karekod.org/blog/?p=28556"
+  },
+  {
+   "name": "Meteoroloji Hava Durumu",
+   "cat": "safety",
+   "pkg": "tr.gov.mgm.meteorolojihavadurumu",
+   "note": "Amtliche Wetter-App des türkischen Wetterdienstes",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=tr.gov.mgm.meteorolojihavadurumu",
+   "src": "https://www.mgm.gov.tr/gizlilik/mobil/gizlilikpolitikasi.aspx"
+  },
+  {
+   "name": "Afad Acil Çağrı",
+   "cat": "safety",
+   "pkg": "tr.gov.icisleri.afad",
+   "note": "Notruf per Knopf, Sammelplätze bei Katastrophen",
+   "use": "limited",
+   "req": "Registrierung mit Handynummer, Türkisch",
+   "url": "https://play.google.com/store/apps/details?id=tr.gov.icisleri.afad",
+   "src": "https://www.teknoblog.com/afad-acil-cagri-mobil-uygulamasi-hemen-indirin"
   }
  ]
 }

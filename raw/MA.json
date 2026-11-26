@@ -167,6 +167,43 @@
    "use": "ok",
    "req": "",
    "src": "https://www.tangermed.ma/en/new-version-of-the-passenger-mobile-solution-tanger-med-passenger-journey/"
+  },
+  {
+   "name": "Casatramway",
+   "cat": "transit",
+   "pkg": "ma.ratpdev.casatramway",
+   "note": "Offizielle App für Tram und Busway, Fahrpläne und Aufladen",
+   "city": "Casablanca",
+   "use": "ok",
+   "src": "https://telquel.ma/instant-t/2025/12/19/casablanca-mobilise-son-reseau-de-tramway-et-busway-pour-la-can-2025_1966309/"
+  },
+  {
+   "name": "Maroc Météo DGM",
+   "cat": "safety",
+   "note": "Amtlicher Wetterdienst mit Wetterwarnungen",
+   "use": "ok",
+   "url": "https://www.marocmeteo.ma",
+   "nostore": true,
+   "src": "https://www.marocmeteo.ma"
+  },
+  {
+   "name": "Visit Morocco",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal des Tourismusamts ONMT",
+   "use": "ok",
+   "url": "https://www.visitmorocco.com",
+   "nostore": true,
+   "src": "https://www.visitmorocco.com"
+  },
+  {
+   "name": "Visit Marrakech & Region",
+   "cat": "tourism",
+   "pkg": "com.visitmarrakech.mobile.v3",
+   "note": "Reise-App des Tourismusrats Marrakesch-Safi",
+   "city": "Marrakesh",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.visitmarrakech.mobile.v3",
+   "src": "https://www.visitmarrakech.com"
   }
  ],
  "fetched": "2026-11-23"

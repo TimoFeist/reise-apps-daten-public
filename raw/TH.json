@@ -243,6 +243,16 @@
    "use": "ok",
    "req": "",
    "src": "https://www.tatnews.org/2025/07/phuket-onemap-a-convenient-guide-to-getting-around-by-public-bus/"
+  },
+  {
+   "name": "MRTA PARKING",
+   "cat": "parking",
+   "pkg": "com.mrta.mrtaparking",
+   "note": "Park and Ride an MRT Stationen finden und zahlen",
+   "city": "Bangkok",
+   "use": "limited",
+   "req": "Thailändische Zahlungswege meist nötig",
+   "src": "https://bangkokpost.com/thailand/general/2785789/mrta-trials-free-smart-parking-system"
   }
  ]
 }

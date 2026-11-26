@@ -202,6 +202,35 @@
    "src": "https://techweez.com/2025/03/14/how-to-book-an-sgr-train-ticket-in-kenya-in-2025/",
    "url": "https://metickets.krc.co.ke/",
    "nostore": true
+  },
+  {
+   "name": "Bolt",
+   "cat": "micro",
+   "pkg": "ee.mtakso.client",
+   "note": "E-Scooter über die Bolt-App finden und entsperren",
+   "city": "Nairobi",
+   "use": "limited",
+   "req": "Verfügbarkeit in der App prüfen",
+   "url": "https://bolt.eu/en-ke/scooters",
+   "src": "https://bolt.eu/en-ke/scooters"
+  },
+  {
+   "name": "Kenya Meteorological Department",
+   "cat": "safety",
+   "note": "Amtliche Wettervorhersagen und Hinweise Kenias",
+   "use": "ok",
+   "url": "https://meteo.go.ke",
+   "nostore": true,
+   "src": "https://meteo.go.ke/organization/about/"
+  },
+  {
+   "name": "Magical Kenya",
+   "cat": "tourism",
+   "note": "Offizielles Reiseportal des Kenya Tourism Board",
+   "use": "ok",
+   "url": "https://magicalkenya.com",
+   "nostore": true,
+   "src": "https://magicalkenya.com"
   }
  ],
  "fetched": "2026-11-23",

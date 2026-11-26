@@ -316,6 +316,15 @@
    "use": "ok",
    "req": "",
    "src": "https://www.u-ov.nl/en/Reisinformatie/U-OV-app"
+  },
+  {
+   "name": "KNMI",
+   "cat": "safety",
+   "pkg": "nl.knmi.weer",
+   "note": "Amtliche Wetterwarnungen des KNMI",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=nl.knmi.weer",
+   "src": "https://www.knmi.nl/app"
   }
  ]
 }
