@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-26 10:04",
+ "version": "2026-11-26 10:32",
  "categories": [
   {
    "id": "entry",
@@ -72191,7 +72191,7 @@
    "lat": 39.14,
    "lon": 25.935,
    "month": 9,
-   "url": "https://festival.lesvos.com/",
+   "url": "https://womensfestival.eu/",
    "type": "fest",
    "cat": "lesbian"
   },
