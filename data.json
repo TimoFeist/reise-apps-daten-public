@@ -1,7 +1,7 @@
 {
  "copyright": "© 2026 Timo Feist. Alle Rechte vorbehalten. App-Namen und Marken gehören den jeweiligen Inhabern; Quellen je Eintrag in src.",
  "schema": 1,
- "version": "2026-11-25 12:14",
+ "version": "2026-11-26 10:04",
  "categories": [
   {
    "id": "entry",
@@ -2742,6 +2742,12 @@
       "d": "2027-12-26",
       "n": "Stephanstag",
       "e": "St. Stephen's Day",
+      "r": 1
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Restauration de la République",
+      "e": "Restoration Day",
       "r": 1
      }
     ],
@@ -6184,6 +6190,11 @@
       "d": "2027-12-26",
       "n": "Annandag jul",
       "e": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Nyårsafton",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -7329,6 +7340,11 @@
       "d": "2027-12-26",
       "n": "Otrie Ziemassvētki",
       "e": "Second day of Christmas"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Vecgada diena",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -9649,6 +9665,11 @@
       "d": "2027-12-26",
       "n": "Annar í jólum",
       "e": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Gamlársdagur",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -14619,6 +14640,11 @@
       "d": "2027-12-26",
       "n": "2. juledag",
       "e": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Nytårsaftensdag",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -17209,11 +17235,6 @@
      "+54"
     ],
     "holidays": [
-     {
-      "d": "2026-11-23",
-      "n": "Día de la Soberanía Nacional",
-      "e": "National Sovereignty Day"
-     },
      {
       "d": "2026-12-08",
       "n": "Día de la Inmaculada Concepción de María",
@@ -22990,11 +23011,6 @@
     "tip_src": "https://en.wikipedia.org/wiki/List_of_tipping_customs_by_country#Japan",
     "holidays": [
      {
-      "d": "2026-11-23",
-      "n": "勤労感謝の日",
-      "e": "Labour Thanksgiving Day"
-     },
-     {
       "d": "2027-01-01",
       "n": "元日",
       "e": "New Year's Day"
@@ -26395,10 +26411,6 @@
     ],
     "holidays": [
      {
-      "d": "2026-11-23",
-      "n": "Presidents Day"
-     },
-     {
       "d": "2026-11-26",
       "n": "Thanksgiving",
       "r": 1
@@ -26808,6 +26820,10 @@
      {
       "d": "2027-12-25",
       "n": "Christmas Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -29535,6 +29551,11 @@
       "d": "2027-12-26",
       "n": "Tweede kerstdag",
       "e": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Oudejaarsavond",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -30546,6 +30567,11 @@
       "d": "2027-12-25",
       "n": "Navidad",
       "e": "Christmas Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Nochevieja",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -31871,6 +31897,11 @@
       "d": "2027-12-26",
       "n": "Juullip-aappaa",
       "e": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Ukiutoqaq",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -32113,6 +32144,11 @@
       "d": "2027-12-25",
       "n": "Noche Buena",
       "e": "Christmas Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Fin de año",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -32297,6 +32333,10 @@
      {
       "d": "2027-12-25",
       "n": "Christmas Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -34297,6 +34337,11 @@
       "d": "2027-12-30",
       "n": "Araw ng Kamatayan ni Dr. Jose Rizal",
       "e": "Rizal Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Huling Araw ng Taon",
+      "e": "Last Day of The Year"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -36048,6 +36093,10 @@
      {
       "d": "2027-12-25",
       "n": "Christmas Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -38641,6 +38690,11 @@
      {
       "d": "2027-12-25",
       "n": "Christmas Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "New Year's Eve",
+      "e": "New Year's Evey"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -39585,6 +39639,10 @@
       "d": "2027-12-28",
       "n": "St. Stephen's Day",
       "e": "Boxing Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Festival Day"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -46081,10 +46139,6 @@
     ],
     "holidays": [
      {
-      "d": "2026-11-23",
-      "n": "The 1949 Great March and Restoration Day"
-     },
-     {
       "d": "2026-12-25",
       "n": "Christmas Day"
      },
@@ -48210,11 +48264,6 @@
      "+995"
     ],
     "holidays": [
-     {
-      "d": "2026-11-23",
-      "n": "გიორგობა",
-      "e": "Saint George's Day"
-     },
      {
       "d": "2027-01-01",
       "n": "ახალი წელი",
@@ -52293,6 +52342,11 @@
       "d": "2027-09-21",
       "n": "Անկախության օր",
       "e": "Independence Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Ամանոր",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -53150,11 +53204,6 @@
      "+855"
     ],
     "holidays": [
-     {
-      "d": "2026-11-23",
-      "n": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
-      "e": "Water Festival"
-     },
      {
       "d": "2026-11-24",
       "n": "ពិធីបុណ្យអុំទូក បណ្ដែតប្រទីប អកអំបុក និងសំពះព្រះខែ",
@@ -54694,6 +54743,11 @@
       "d": "2027-12-26",
       "n": "2. Jóladagur",
       "e": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Nýggjársaftan",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -55260,9 +55314,9 @@
      "ess": true,
      "src": "https://www.bento.travel/laos/payments",
      "ic": "SBnwVPUbbEXyuYBen6aIEemv6xXzMONTjhWEzZWVmARSY1fMQRlzdUd_-e6FvXUMgkB6dQgn4pTc3EVYjKYlZA",
+     "ios": 1374380531,
      "use": "limited",
-     "req": "Nur bei Händlern mit Lao QR, Gebühr pro Zahlung",
-     "ios": 1374380531
+     "req": "Nur bei Händlern mit Lao QR, Gebühr pro Zahlung"
     },
     {
      "name": "Green SM",
@@ -57229,6 +57283,11 @@
       "d": "2027-12-26",
       "n": "Stephanstag",
       "e": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "Silvester",
+      "e": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -58651,6 +58710,10 @@
      {
       "d": "2027-12-26",
       "n": "St. Stephen's Day"
+     },
+     {
+      "d": "2027-12-31",
+      "n": "New Year's Eve"
      }
     ],
     "holidays_src": "https://date.nager.at"
@@ -62704,6 +62767,20 @@
    "lc": "Brüssel"
   },
   {
+   "name": "Röschen Sitzung (Gastspiel Essen)",
+   "city": "Essen",
+   "cc": "DE",
+   "lat": 51.456,
+   "lon": 7.0,
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "month": 1,
+   "url": "https://www.roeschensitzung.de/",
+   "type": "fest",
+   "cat": "carn",
+   "lc": "Düsseldorf"
+  },
+  {
    "name": "Arosa Gay Ski Week",
    "city": "Arosa",
    "cc": "CH",
@@ -62730,20 +62807,39 @@
    "cat": "ski"
   },
   {
+   "name": "KG Regenbogen Frühschoppen",
+   "city": "Düsseldorf",
+   "cc": "DE",
+   "lat": 51.225,
+   "lon": 6.776,
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "month": 1,
+   "url": "https://www.kg-regenbogen.de/de/events/25/fruhschoppen-2027",
+   "alt": [
+    "Dusseldorf",
+    "Duesseldorf"
+   ],
+   "type": "fest",
+   "cat": "carn",
+   "lc": "Düsseldorf"
+  },
+  {
    "name": "Wiener Regenbogenball",
    "city": "Wien",
    "cc": "AT",
-   "lat": 48.208,
-   "lon": 16.373,
+   "lat": 48.186,
+   "lon": 16.31,
    "start": "2027-01-23",
    "end": "2027-01-23",
    "month": 1,
-   "url": "https://www.regenbogenball.at",
+   "url": "https://regenbogenball.at/en/information",
    "alt": [
     "Vienna",
     "Vienne"
    ],
-   "type": "fest"
+   "type": "fest",
+   "cat": "carn"
   },
   {
    "name": "Whistler Pride & Ski Festival",
@@ -62758,6 +62854,47 @@
    "type": "fest",
    "cat": "ski",
    "lc": "Whistler"
+  },
+  {
+   "name": "Röschen Sitzung „Land unter!“",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.936,
+   "lon": 6.945,
+   "start": "2027-01-24",
+   "end": "2027-02-06",
+   "month": 1,
+   "url": "https://www.roeschensitzung.de/",
+   "alt": [
+    "Cologne"
+   ],
+   "type": "fest",
+   "cat": "carn",
+   "days": [
+    "2027-01-24",
+    "2027-01-31",
+    "2027-02-03",
+    "2027-02-06"
+   ],
+   "lc": "Köln"
+  },
+  {
+   "name": "KG Regenbogen Sitzungsparty",
+   "city": "Düsseldorf",
+   "cc": "DE",
+   "lat": 51.212,
+   "lon": 6.814,
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "month": 1,
+   "url": "https://www.kg-regenbogen.de/de/events/22/sitzungsparty-2027",
+   "alt": [
+    "Dusseldorf",
+    "Duesseldorf"
+   ],
+   "type": "fest",
+   "cat": "carn",
+   "lc": "Düsseldorf"
   },
   {
    "name": "Midsumma Pride March",
