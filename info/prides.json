@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-26",
  "src": "Webseiten der Veranstalter, Wikipedia, Nachrichten und CSD Deutschland (Terminkalender); keine Daten aus Gay-Guides",
  "items": [
   {
@@ -9833,18 +9833,19 @@
    "name": "Wiener Regenbogenball",
    "city": "Wien",
    "cc": "AT",
-   "lat": 48.208,
-   "lon": 16.373,
+   "lat": 48.186,
+   "lon": 16.31,
    "start": "2027-01-23",
    "end": "2027-01-23",
    "month": 1,
-   "url": "https://www.regenbogenball.at",
-   "src": "https://www.regenbogenball.at",
+   "url": "https://regenbogenball.at/en/information",
    "type": "fest",
+   "cat": "carn",
    "alt": [
     "Vienna",
     "Vienne"
-   ]
+   ],
+   "src": "https://regenbogenball.at/en/information"
   },
   {
    "name": "Vienna Fetish Spring",
@@ -10674,6 +10675,79 @@
    "type": "fest",
    "cat": "xmas",
    "src": "https://www.regenbogenfest.de/"
+  },
+  {
+   "name": "Röschen Sitzung „Land unter!“",
+   "city": "Köln",
+   "cc": "DE",
+   "lat": 50.936,
+   "lon": 6.945,
+   "start": "2027-01-24",
+   "end": "2027-02-06",
+   "month": 1,
+   "url": "https://www.roeschensitzung.de/",
+   "type": "fest",
+   "cat": "carn",
+   "days": [
+    "2027-01-24",
+    "2027-01-31",
+    "2027-02-03",
+    "2027-02-06"
+   ],
+   "alt": [
+    "Cologne"
+   ],
+   "src": "https://www.roeschensitzung.de/"
+  },
+  {
+   "name": "Röschen Sitzung (Gastspiel Essen)",
+   "city": "Essen",
+   "cc": "DE",
+   "lat": 51.456,
+   "lon": 7.0,
+   "start": "2027-01-15",
+   "end": "2027-01-15",
+   "month": 1,
+   "url": "https://www.roeschensitzung.de/",
+   "type": "fest",
+   "cat": "carn",
+   "src": "https://www.roeschensitzung.de/"
+  },
+  {
+   "name": "KG Regenbogen Sitzungsparty",
+   "city": "Düsseldorf",
+   "cc": "DE",
+   "lat": 51.212,
+   "lon": 6.814,
+   "start": "2027-01-30",
+   "end": "2027-01-30",
+   "month": 1,
+   "url": "https://www.kg-regenbogen.de/de/events/22/sitzungsparty-2027",
+   "type": "fest",
+   "cat": "carn",
+   "alt": [
+    "Dusseldorf",
+    "Duesseldorf"
+   ],
+   "src": "https://www.kg-regenbogen.de/de/events/22/sitzungsparty-2027"
+  },
+  {
+   "name": "KG Regenbogen Frühschoppen",
+   "city": "Düsseldorf",
+   "cc": "DE",
+   "lat": 51.225,
+   "lon": 6.776,
+   "start": "2027-01-17",
+   "end": "2027-01-17",
+   "month": 1,
+   "url": "https://www.kg-regenbogen.de/de/events/25/fruhschoppen-2027",
+   "type": "fest",
+   "cat": "carn",
+   "alt": [
+    "Dusseldorf",
+    "Duesseldorf"
+   ],
+   "src": "https://www.kg-regenbogen.de/de/events/25/fruhschoppen-2027"
   }
  ]
 }
