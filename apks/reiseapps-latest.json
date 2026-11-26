@@ -1,14 +1,14 @@
 {
- "vc": 60,
- "vn": "1.0.60",
+ "vc": 61,
+ "vn": "1.0.61",
  "changes": [
-  "🟢 An jedem Termin steht jetzt „Läuft gerade“, „Heute“ oder „Morgen“, dazu gibt es die Zeiträume Heute und Dieses Wochenende",
-  "🎆 Neue Art „Silvester“ mit queeren Silvesterpartys in Europa",
-  "🎄 Abendreihen wie der GAYnachtsmarkt in Stuttgart zeigen die einzelnen Abende",
-  "🗺️ Karte der gefilterten Termine im Tab Events",
-  "🔔 Auf Wunsch ein Hinweis am Vortag, wenn in deiner Nähe ein Termin beginnt"
+  "⭐ Termine merken: Stern antippen, am Vortag kommt eine Erinnerung, dazu der Filter „Gemerkt“",
+  "📝 Fehlt ein Termin? Über „Termin vorschlagen“ kannst du ihn uns schicken",
+  "🎭 Neue Art „Karneval“ mit queeren Sitzungen und Bällen in Köln, Düsseldorf, Essen und Wien",
+  "📱 Neues Widget „Termine in deiner Nähe“ für den Startbildschirm",
+  "⌨️ Im Chat verdeckt die Tastatur das Eingabefeld nicht mehr"
  ],
- "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=a3ade5e949061448",
- "size": 3907729,
- "sha256": "a3ade5e949061448a7ca319bf0c92a7043596418dfc4319f8b059e94aca9e9bf"
+ "url": "https://raw.githubusercontent.com/TimoFeist/reise-apps-daten-public/main/apks/ReiseApps.apk?v=c18b8514752a532a",
+ "size": 3954261,
+ "sha256": "c18b8514752a532abc7df3550d06dfeb83e365d24be6d2f3959861d959a5eeaa"
 }
