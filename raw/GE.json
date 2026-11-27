@@ -223,6 +223,106 @@
    "url": "https://georgia.travel",
    "nostore": true,
    "src": "https://georgia.travel"
+  },
+  {
+   "name": "Kutaisi Transport",
+   "cat": "transit",
+   "pkg": "com.azry.pts.pis.kutaisi",
+   "note": "Busse in Kutaissi mit Routenplaner und Echtzeit",
+   "city": "Kutaisi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.azry.pts.pis.kutaisi&hl=en&gl=ge"
+  },
+  {
+   "name": "Georgian Railway",
+   "cat": "rail",
+   "pkg": "ge.railway.mobile",
+   "note": "Offizielle Bahn-App: Fahrplan, Tickets kaufen und stornieren",
+   "use": "ok",
+   "src": "https://www.gr.com.ge"
+  },
+  {
+   "name": "Metro Georgia",
+   "cat": "rail",
+   "pkg": "atlasyazilim.nto.metroticketsalegeorgia",
+   "note": "Fernbus-Tickets von Metro Georgia online kaufen",
+   "use": "ok",
+   "src": "https://metrogeorgia.ge"
+  },
+  {
+   "name": "maxim",
+   "cat": "taxi",
+   "pkg": "com.taxsee.taxsee",
+   "note": "Günstiger Fahrdienst, in Georgien aktiv",
+   "use": "ok",
+   "src": "https://taximaxim.ge"
+  },
+  {
+   "name": "Localrent",
+   "cat": "carshare",
+   "pkg": "com.localrent.partner.app",
+   "note": "Mietwagen lokaler Anbieter in Tiflis und Batumi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.localrent.partner.app&hl=en&gl=ge"
+  },
+  {
+   "name": "SKIPASS Gudauri & Beyond",
+   "cat": "tourism",
+   "pkg": "com.lemondo.skipass",
+   "note": "Skipass für Gudauri kaufen und aufladen",
+   "city": "Gudauri",
+   "use": "ok",
+   "src": "https://skipass.ge"
+  },
+  {
+   "name": "SKIPASS Gudauri & Beyond",
+   "cat": "tourism",
+   "pkg": "com.lemondo.skipass",
+   "note": "Skipass für Bakuriani kaufen und aufladen",
+   "city": "Bakuriani",
+   "use": "ok",
+   "src": "https://skipass.ge"
+  },
+  {
+   "name": "SKIPASS Gudauri & Beyond",
+   "cat": "tourism",
+   "pkg": "com.lemondo.skipass",
+   "note": "Skipass für die Lifte in Swanetien kaufen und aufladen",
+   "city": "Mestia",
+   "use": "ok",
+   "src": "https://skipass.ge"
+  },
+  {
+   "name": "parks.ge",
+   "cat": "tourism",
+   "pkg": "com.noxtton.apa",
+   "note": "Nationalparks: Wanderwege, Offline-Karten, Tourenplanung",
+   "use": "ok",
+   "src": "https://apa.gov.ge"
+  },
+  {
+   "name": "TKT.GE",
+   "cat": "tourism",
+   "pkg": "ge.tnet.tkt",
+   "note": "Tickets für Konzerte, Theater, Oper und Festivals",
+   "use": "ok",
+   "src": "https://tkt.ge"
+  },
+  {
+   "name": "Georgian Airways",
+   "cat": "flights",
+   "pkg": "com.georgianairways.app",
+   "note": "Nationale Airline: Flüge buchen und verwalten",
+   "use": "ok",
+   "src": "https://georgian-airways.com"
+  },
+  {
+   "name": "2 Nabiji",
+   "cat": "shopping",
+   "pkg": "ge.orinabiji.shop",
+   "note": "Große Supermarktkette: Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://2nabiji.ge"
   }
  ]
 }

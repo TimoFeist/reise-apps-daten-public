@@ -274,6 +274,92 @@
    "url": "https://uzbekistan.travel",
    "nostore": true,
    "src": "https://uzbekistan.travel"
+  },
+  {
+   "name": "UzBUS",
+   "cat": "rail",
+   "pkg": "uz.dtc.autoTicketClientMobile",
+   "note": "Offizielle Fernbus-Tickets mit Fahrplan und Sitzplatzwahl",
+   "use": "limited",
+   "req": "Zahlung nur über Payme (usbekische Karte)",
+   "src": "https://play.google.com/store/apps/details?id=uz.dtc.autoTicketClientMobile"
+  },
+  {
+   "name": "UzAirports",
+   "cat": "flights",
+   "pkg": "uz.uzinfocom.airport",
+   "note": "Offizielle App der Flughäfen mit Flugstatus in Echtzeit",
+   "use": "ok",
+   "src": "https://uzairports.com/"
+  },
+  {
+   "name": "Centrum Air",
+   "cat": "flights",
+   "pkg": "com.centrum.air.prod.release",
+   "note": "Private Fluglinie: Flüge buchen und Reisen verwalten",
+   "use": "ok",
+   "src": "https://centrum-air.com/"
+  },
+  {
+   "name": "Korzinka",
+   "cat": "shopping",
+   "pkg": "uz.loyalty.korzinka",
+   "note": "Größte Supermarktkette: Angebote und Bonuskarte",
+   "use": "ok",
+   "src": "https://korzinka.uz/"
+  },
+  {
+   "name": "Makro",
+   "cat": "shopping",
+   "pkg": "com.makro.hive_dart",
+   "note": "Supermarktkette Makro: Aktionen und Bonusprogramm",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.makro.hive_dart"
+  },
+  {
+   "name": "Korzinka Go",
+   "cat": "delivery",
+   "pkg": "com.korzinka.go",
+   "note": "Lebensmittel liefern lassen, auch Samarkand und Buchara",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.korzinka.go"
+  },
+  {
+   "name": "Poytaxt Parking",
+   "cat": "parking",
+   "pkg": "com.pak.me.parkme",
+   "note": "Offizielle App für Parkplätze und Parkgebühren",
+   "city": "Tashkent",
+   "use": "limited",
+   "req": "Anmeldung per SMS, Zahlung über lokale Bezahldienste",
+   "src": "https://play.google.com/store/apps/details?id=com.pak.me.parkme"
+  },
+  {
+   "name": "Taxi OK",
+   "cat": "taxi",
+   "pkg": "ru.taximaster.tmtaxicaller.id1865",
+   "note": "Örtlicher Taxidienst, Zahlung bar, per Karte oder QR",
+   "city": "Samarkand",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ru.taximaster.tmtaxicaller.id1865"
+  },
+  {
+   "name": "iTaxi.uz",
+   "cat": "taxi",
+   "pkg": "uz.smartlab.itaxi.client",
+   "note": "Örtliches Taxi per App mit Fahrerdaten und Preisanzeige",
+   "city": "Samarkand",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=uz.smartlab.itaxi.client"
+  },
+  {
+   "name": "Silk Road Sharing",
+   "cat": "micro",
+   "pkg": "uz.silkroadsharing",
+   "note": "E-Fahrzeuge leihen in der Stadt und im Silk-Road-Resort",
+   "city": "Samarkand",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=uz.silkroadsharing"
   }
  ]
 }

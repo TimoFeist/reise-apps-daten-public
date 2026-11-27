@@ -219,6 +219,80 @@
    "note": "App des Innenministeriums für das Visum vorab",
    "use": "ok",
    "src": "https://www.auswaertiges-amt.de/de/service/laender/jordanien-node/jordaniensicherheit-218008"
+  },
+  {
+   "name": "GOJO",
+   "cat": "taxi",
+   "pkg": "com.wngo.pax",
+   "note": "Fahrdienst und Taxi in Amman und ganz Jordanien",
+   "use": "ok",
+   "src": "https://www.gojo.global/jo-en/"
+  },
+  {
+   "name": "AB Maritime",
+   "cat": "rail",
+   "pkg": "com.mediaplus.abmaritime",
+   "note": "Fähren von Akaba nach Ägypten, Tickets und Fahrplan",
+   "city": "Aqaba",
+   "use": "ok",
+   "src": "https://www.abmaritime.com.jo"
+  },
+  {
+   "name": "Map of Aqaba",
+   "cat": "tourism",
+   "pkg": "com.infograph.aseza",
+   "note": "Offizieller Stadtführer mit Karte, Tauchplätzen, Stränden",
+   "city": "Aqaba",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.infograph.aseza&hl=en&gl=jo"
+  },
+  {
+   "name": "Royal Jordanian Airlines",
+   "cat": "flights",
+   "pkg": "com.pact.royaljordanian",
+   "note": "Nationale Airline: Flüge buchen und verwalten",
+   "use": "ok",
+   "src": "https://www.rj.com"
+  },
+  {
+   "name": "Queen Alia Airport",
+   "cat": "flights",
+   "pkg": "com.uniwise.qaia",
+   "note": "Flughafen Amman: Flugstatus, Läden, Services",
+   "use": "ok",
+   "src": "https://qaiairport.com/en/"
+  },
+  {
+   "name": "ArabiaWeather",
+   "cat": "safety",
+   "pkg": "com.arabiaweather.main_app",
+   "note": "Regionaler Wetterdienst aus Amman mit Warnungen",
+   "use": "ok",
+   "src": "https://www.arabiaweather.com"
+  },
+  {
+   "name": "HyperMax",
+   "cat": "shopping",
+   "pkg": "com.maf.hypermax",
+   "note": "Hypermärkte (früher Carrefour): Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.maf.hypermax&hl=en&gl=jo"
+  },
+  {
+   "name": "CTown Jordan",
+   "cat": "shopping",
+   "pkg": "jo.ctown.ecom",
+   "note": "Supermarktkette: Lebensmittel bestellen, Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jo.ctown.ecom&hl=en&gl=jo"
+  },
+  {
+   "name": "Cozmo",
+   "cat": "shopping",
+   "pkg": "jo.thegroup.cozmo",
+   "note": "Supermarkt in Amman mit Online-Bestellung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=jo.thegroup.cozmo&hl=en&gl=jo"
   }
  ]
 }

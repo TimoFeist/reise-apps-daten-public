@@ -223,6 +223,106 @@
    "url": "https://evisa.rop.gov.om",
    "nostore": true,
    "src": "https://gulfnews.com/living-in-uae/visa-immigration/over-100-nationalities-can-enter-oman-visa-free---all-you-need-to-know-1.1679063584099"
+  },
+  {
+   "name": "Oman Air",
+   "cat": "flights",
+   "pkg": "com.omanair.android",
+   "note": "Nationale Airline: Buchung, Check-in, Flugstatus",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.omanair.android",
+   "src": "https://www.omanair.com"
+  },
+  {
+   "name": "SalamAir",
+   "cat": "flights",
+   "pkg": "com.salamair.salamairandroidapp",
+   "note": "Omanischer Billigflieger, auch Inlandsflüge",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.salamair.salamairandroidapp",
+   "src": "https://www.salamair.com"
+  },
+  {
+   "name": "Oman Airports",
+   "cat": "flights",
+   "pkg": "com.nsr.oamc",
+   "note": "Flughäfen Maskat, Salalah, Suhar, Duqm: Fluginfos",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.nsr.oamc",
+   "src": "https://www.omanairports.co.om"
+  },
+  {
+   "name": "Needa",
+   "cat": "safety",
+   "pkg": "om.gov.rop.cdaa",
+   "note": "Notruf an Zivilschutz und Rettungsdienst",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=om.gov.rop.cdaa",
+   "src": "https://play.google.com/store/apps/details?id=om.gov.rop.cdaa"
+  },
+  {
+   "name": "Oman Meteorology",
+   "cat": "safety",
+   "pkg": "om.gov.caa.met.om",
+   "note": "Amtliches Wetter, See- und Tsunami-Warnungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=om.gov.caa.met.om",
+   "src": "https://met.gov.om"
+  },
+  {
+   "name": "LuLu Hypermarket",
+   "cat": "shopping",
+   "pkg": "com.akinon.lulushopping",
+   "note": "Große Supermarktkette, Angebote und Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.akinon.lulushopping",
+   "src": "https://www.luluhypermarket.com"
+  },
+  {
+   "name": "HyperMax",
+   "cat": "shopping",
+   "pkg": "com.maf.hypermax",
+   "note": "Supermarktkette (früher Carrefour), mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.maf.hypermax",
+   "src": "https://play.google.com/store/apps/details?id=com.maf.hypermax"
+  },
+  {
+   "name": "Marhaba Taxi",
+   "cat": "taxi",
+   "pkg": "app.marhaaba.rider",
+   "note": "Lizenziertes Taxi in Maskat, auch am Flughafen",
+   "city": "Muscat",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=app.marhaaba.rider",
+   "src": "https://play.google.com/store/apps/details?id=app.marhaaba.rider"
+  },
+  {
+   "name": "OmanTaxi",
+   "cat": "taxi",
+   "pkg": "com.omantaxi.user",
+   "note": "Lizenzierte Taxi-App mit Festpreis vorab",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.omantaxi.user",
+   "src": "https://omantaxi.om"
+  },
+  {
+   "name": "SelfDrive Mobility",
+   "cat": "carshare",
+   "pkg": "com.selfdrive.application",
+   "note": "Mietwagen per App in Maskat und Salalah",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.selfdrive.application",
+   "src": "https://play.google.com/store/apps/details?id=com.selfdrive.application"
+  },
+  {
+   "name": "Masarrah",
+   "cat": "hotels",
+   "pkg": "com.hanidev.massarh",
+   "note": "Chalets, Ferienhäuser und Apartments in Oman",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.hanidev.massarh",
+   "src": "https://play.google.com/store/apps/details?id=com.hanidev.massarh"
   }
  ]
 }

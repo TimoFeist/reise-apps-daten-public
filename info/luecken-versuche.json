@@ -205,10 +205,30 @@
    "gefunden": 0,
    "notiz": "Kein App-Carsharing auf Google Play belegt"
   },
+  "AM|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "AM|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Visumfrei bis 180 Tage, kein Formular"
+  },
+  "AM|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AM|maps": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AM|misc": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
   },
   "AM|rail": {
    "am": "2026-11-26",
@@ -217,6 +237,16 @@
   },
   "AM|safety": {
    "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "AM|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "AM|taxi": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
@@ -590,23 +620,58 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "BA|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "BA|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "visumfrei, kein Formular"
+  },
+  "BA|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BA|misc": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BA|parking": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
   },
   "BA|payment": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "keine verbreitete lokale Wallet"
   },
+  "BA|rail": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "BA|safety": {
-   "am": "2026-11-26",
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "BA|taxi": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
   "BA|tourism": {
-   "am": "2026-11-26",
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "BA|transit": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
@@ -2890,10 +2955,45 @@
    "gefunden": 0,
    "notiz": "nur private Minibusse ohne App"
   },
+  "GE|carshare": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "GE|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "visumfrei bis 1 Jahr, kein Online-Formular"
+  },
+  "GE|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GE|rail": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "GE|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GE|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "GE|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 5,
+   "notiz": ""
+  },
+  "GE|transit": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
   },
   "GF|entry": {
    "am": "2026-11-26",
@@ -3330,8 +3430,48 @@
    "gefunden": 0,
    "notiz": "Kein App-Carsharing für Touristen belegt"
   },
+  "HK|flights": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "HK|hotels": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "HK|parking": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "HK|rail": {
-   "am": "2026-11-26",
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "HK|safety": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "HK|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "HK|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "HK|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "HK|transit": {
+   "am": "2026-11-27",
    "gefunden": 2,
    "notiz": ""
   },
@@ -4000,6 +4140,11 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "JO|flights": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "JO|micro": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -4012,6 +4157,31 @@
   },
   "JO|payment": {
    "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JO|rail": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JO|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JO|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "JO|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "JO|tourism": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
@@ -4605,9 +4775,54 @@
    "gefunden": 2,
    "notiz": ""
   },
+  "LU|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|hotels": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|maps": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|micro": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "LU|payment": {
    "am": "2026-11-26",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|rail": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|safety": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "LU|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "LU|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 2,
    "notiz": ""
   },
   "LV|delivery": {
@@ -4760,19 +4975,34 @@
    "gefunden": 0,
    "notiz": "Deutsche reisen visumfrei ein, kein Formular"
   },
+  "ME|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "ME|payment": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Keine lokale Bezahl-App verbreitet, Karte üblich"
   },
-  "ME|safety": {
-   "am": "2026-11-26",
+  "ME|rail": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
-  "ME|tourism": {
-   "am": "2026-11-26",
+  "ME|safety": {
+   "am": "2026-11-27",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "ME|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "ME|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 2,
    "notiz": ""
   },
   "ME|transit": {
@@ -5820,8 +6050,23 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "OM|carshare": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "OM|entry": {
    "am": "2026-11-26",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "OM|flights": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "OM|hotels": {
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
@@ -5834,6 +6079,21 @@
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Mwasalat steht schon im Land, auch Fernbusse"
+  },
+  "OM|safety": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "OM|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "OM|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
   },
   "PA|micro": {
    "am": "2026-11-26",
@@ -6270,6 +6530,11 @@
    "gefunden": 0,
    "notiz": "EU-Gebiet, Personalausweis reicht, kein Formular"
   },
+  "RE|flights": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "RE|parking": {
    "am": "2026-11-26",
    "gefunden": 0,
@@ -6280,9 +6545,24 @@
    "gefunden": 0,
    "notiz": "Französisches Gebiet, keine eigene lokale Wallet"
   },
-  "RE|tourism": {
-   "am": "2026-11-26",
+  "RE|safety": {
+   "am": "2026-11-27",
    "gefunden": 1,
+   "notiz": ""
+  },
+  "RE|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "RE|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "RE|transit": {
+   "am": "2026-11-27",
+   "gefunden": 3,
    "notiz": ""
   },
   "RO|carshare": {
@@ -6701,8 +6981,68 @@
    "notiz": ""
   },
   "SG|carshare": {
-   "am": "2026-11-26",
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SG|flights": {
+   "am": "2026-11-27",
    "gefunden": 2,
+   "notiz": ""
+  },
+  "SG|hotels": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SG|maps": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SG|misc": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SG|parking": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SG|payment": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SG|rail": {
+   "am": "2026-11-27",
+   "gefunden": 4,
+   "notiz": ""
+  },
+  "SG|safety": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "SG|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "SG|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "SG|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 7,
+   "notiz": ""
+  },
+  "SG|transit": {
+   "am": "2026-11-27",
+   "gefunden": 1,
    "notiz": ""
   },
   "SH|carshare": {
@@ -7910,15 +8250,45 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "UZ|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "UZ|entry": {
    "am": "2026-11-26",
    "gefunden": 0,
    "notiz": "Visumfrei für Deutsche bis 30 Tage, kein Online-Formular"
   },
+  "UZ|flights": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "UZ|micro": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
   "UZ|parking": {
-   "am": "2026-11-26",
-   "gefunden": 0,
-   "notiz": "Taschkenter Park-App Poytaxt Parking im Play Store nicht belegt"
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UZ|rail": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "UZ|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "UZ|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
   },
   "UZ|tourism": {
    "am": "2026-11-26",
@@ -8250,14 +8620,69 @@
    "gefunden": 1,
    "notiz": ""
   },
+  "ZA|carshare": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "ZA|delivery": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "ZA|flights": {
+   "am": "2026-11-27",
+   "gefunden": 6,
+   "notiz": ""
+  },
+  "ZA|hotels": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "ZA|maps": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
   "ZA|micro": {
-   "am": "2026-11-26",
+   "am": "2026-11-27",
    "gefunden": 1,
    "notiz": ""
   },
   "ZA|parking": {
    "am": "2026-11-26",
    "gefunden": 2,
+   "notiz": ""
+  },
+  "ZA|rail": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "ZA|safety": {
+   "am": "2026-11-27",
+   "gefunden": 2,
+   "notiz": ""
+  },
+  "ZA|shopping": {
+   "am": "2026-11-27",
+   "gefunden": 3,
+   "notiz": ""
+  },
+  "ZA|taxi": {
+   "am": "2026-11-27",
+   "gefunden": 1,
+   "notiz": ""
+  },
+  "ZA|tourism": {
+   "am": "2026-11-27",
+   "gefunden": 7,
+   "notiz": ""
+  },
+  "ZA|transit": {
+   "am": "2026-11-27",
+   "gefunden": 1,
    "notiz": ""
   },
   "ZM|entry": {

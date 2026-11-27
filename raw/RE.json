@@ -169,6 +169,79 @@
    "url": "https://www.reunion.fr/",
    "nostore": true,
    "src": "https://www.reunion.fr/"
+  },
+  {
+   "name": "M-Ticket ESTIVAL",
+   "cat": "transit",
+   "pkg": "com.ubitransport.mticket.estival",
+   "note": "Handytickets für das Busnetz Estival im Osten der Insel",
+   "use": "ok",
+   "src": "https://www.estival.re/"
+  },
+  {
+   "name": "CARSUD",
+   "cat": "transit",
+   "pkg": "fr.cityway.android.carsud",
+   "note": "Busse im Süden: Le Tampon, Saint-Joseph, Saint-Philippe",
+   "use": "ok",
+   "src": "https://www.carsud.re/"
+  },
+  {
+   "name": "KAR'OUEST",
+   "cat": "transit",
+   "pkg": "fr.cityway.android.karouest",
+   "note": "Busnetz der Westküste, Fahrpläne und Routen",
+   "city": "Saint-Gilles-les-Bains",
+   "use": "ok",
+   "src": "https://www.karouest.re/"
+  },
+  {
+   "name": "Air Austral",
+   "cat": "flights",
+   "pkg": "com.airaustral.uuapp",
+   "note": "Fluglinie der Insel: Buchung, Check-in und Flugzeiten",
+   "use": "ok",
+   "src": "https://www.air-austral.com/"
+  },
+  {
+   "name": "Rando tec-tec",
+   "cat": "tourism",
+   "pkg": "com.tectec.rando",
+   "note": "Wanderrouten des Nationalparks mit GPS, offline nutzbar",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tectec.rando"
+  },
+  {
+   "name": "Météo-France",
+   "cat": "safety",
+   "pkg": "fr.meteo",
+   "note": "Amtliches Wetter mit Zyklon- und Unwetterwarnungen",
+   "use": "ok",
+   "src": "https://meteofrance.re/"
+  },
+  {
+   "name": "Carrefour Réunion",
+   "cat": "shopping",
+   "pkg": "com.carrefourru",
+   "note": "Prospekte, Angebote und Märkte von Carrefour auf der Insel",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.carrefourru"
+  },
+  {
+   "name": "Run Market",
+   "cat": "shopping",
+   "pkg": "runmarket.app",
+   "note": "Prospekte und Angebote der Supermarktkette Run Market",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=runmarket.app"
+  },
+  {
+   "name": "Leader Price Réunion",
+   "cat": "shopping",
+   "pkg": "re.leaderprice.comptefidelite",
+   "note": "Angebote und Kundenkarte des Discounters Leader Price",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=re.leaderprice.comptefidelite"
   }
  ],
  "replace": [

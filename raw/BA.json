@@ -173,6 +173,91 @@
    "url": "https://www.fhmzbih.gov.ba",
    "nostore": true,
    "src": "https://alertingauthority.wmo.int/authorities.php?recId=20"
+  },
+  {
+   "name": "SatBUS Banja Luka",
+   "cat": "transit",
+   "pkg": "net.satwork.satbusbanjaluka",
+   "note": "Stadtbusse live, Linien, Fahrpläne und Preise",
+   "city": "Banja Luka",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.satwork.satbusbanjaluka"
+  },
+  {
+   "name": "Traveling.com Bus & Ferry",
+   "cat": "rail",
+   "pkg": "com.getbybus.mobile",
+   "note": "Fernbus Tickets (früher GetByBus)",
+   "use": "ok",
+   "src": "https://getbybus.com"
+  },
+  {
+   "name": "GoTaxi Tuzla",
+   "cat": "taxi",
+   "pkg": "com.tuzlataxi.passenger.prod",
+   "note": "Offizielle App des Taxiverbands Tuzla",
+   "city": "Tuzla",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tuzlataxi.passenger.prod"
+  },
+  {
+   "name": "Parking Sarajevo",
+   "cat": "parking",
+   "pkg": "me.lupon.parkmatix",
+   "note": "Parken per Karte oder SMS zahlen (Parkmatix)",
+   "city": "Sarajevo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=me.lupon.parkmatix"
+  },
+  {
+   "name": "SmartParkBH",
+   "cat": "parking",
+   "pkg": "ba.qss.androidsmartparkingapp",
+   "note": "Parken in mehreren Städten zahlen, freie Plätze",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ba.qss.androidsmartparkingapp"
+  },
+  {
+   "name": "Bjelašnica Ski",
+   "cat": "tourism",
+   "pkg": "ski.ecomm.oc.bjelasnica.igman",
+   "note": "Skipass online, Pistenplan, Webcams und Wetter",
+   "city": "Bjelasnica",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ski.ecomm.oc.bjelasnica.igman"
+  },
+  {
+   "name": "Via Dinarica Trail",
+   "cat": "tourism",
+   "pkg": "com.outdooractive.terradinarica",
+   "note": "Fernwanderweg mit Karten, Etappen und Unterkünften",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.outdooractive.terradinarica"
+  },
+  {
+   "name": "Auto-moto savez RS",
+   "cat": "safety",
+   "pkg": "com.amsrs.app",
+   "note": "Straßenlage, Grenzkameras und Pannenhilfe 1285",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.amsrs.app"
+  },
+  {
+   "name": "Smart Airport Sarajevo",
+   "cat": "flights",
+   "pkg": "ba.SarajevoAirport.SmartAirport.Android",
+   "note": "Flughafen Sarajevo: Flugstatus und Hinweise",
+   "city": "Sarajevo",
+   "use": "ok",
+   "src": "https://www.sarajevo-airport.ba"
+  },
+  {
+   "name": "FMT FBiH Oil Info",
+   "cat": "misc",
+   "pkg": "ba.gov.fmt.eopc",
+   "note": "Amtliche Kraftstoffpreise der Tankstellen in der FBiH",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ba.gov.fmt.eopc"
   }
  ]
 }

@@ -273,6 +273,70 @@
    "url": "https://rescue.mia.gov.am/en",
    "nostore": true,
    "src": "https://rescue.mia.gov.am/en/articles/news/weather-1306-1"
+  },
+  {
+   "name": "Taxi VIVA Armenia",
+   "cat": "taxi",
+   "pkg": "taxi.yerevan",
+   "note": "Lokale Taxizentrale in Jerewan",
+   "city": "Yerevan",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=taxi.yerevan",
+   "src": "https://play.google.com/store/apps/details?id=taxi.yerevan"
+  },
+  {
+   "name": "Buy.am",
+   "cat": "delivery",
+   "pkg": "com.candella.buyam",
+   "note": "Lieferung aus Supermärkten, Restaurants, Apotheken",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.candella.buyam",
+   "src": "https://buy.am"
+  },
+  {
+   "name": "Yerevan City",
+   "cat": "shopping",
+   "pkg": "am.yerevancity",
+   "note": "Große Supermarktkette mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=am.yerevancity",
+   "src": "https://www.yerevan-city.am"
+  },
+  {
+   "name": "SAS Supermarket",
+   "cat": "shopping",
+   "pkg": "am.sas.app",
+   "note": "Supermarktkette mit Onlinebestellung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=am.sas.app",
+   "src": "https://www.sas.am"
+  },
+  {
+   "name": "FLYONE",
+   "cat": "flights",
+   "pkg": "eu.flyone.android",
+   "note": "Billigflieger ab Jerewan: Buchung, Check-in",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=eu.flyone.android",
+   "src": "https://flyone.eu"
+  },
+  {
+   "name": "Yandex Maps",
+   "cat": "maps",
+   "pkg": "ru.yandex.yandexmaps",
+   "note": "Karten und Navigation, in Armenien verbreitet",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps",
+   "src": "https://yandex.com/maps"
+  },
+  {
+   "name": "Tomsarkgh.am",
+   "cat": "misc",
+   "pkg": "am.tomsarkgh.app",
+   "note": "Tickets für Kino, Theater, Konzerte",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=am.tomsarkgh.app",
+   "src": "https://www.tomsarkgh.am"
   }
  ]
 }

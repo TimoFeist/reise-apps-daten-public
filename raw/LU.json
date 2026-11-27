@@ -225,6 +225,106 @@
    "use": "limited",
    "req": "Konto bei teilnehmender Bank nötig",
    "src": "https://en.paperjam.lu/article/goodbye-payconiq-hello-wero"
+  },
+  {
+   "name": "flibco.com",
+   "cat": "rail",
+   "pkg": "com.flibco.customerapp",
+   "note": "Flughafenbusse und Tür-zu-Gate-Transfer, Ticket in der App",
+   "use": "ok",
+   "src": "https://www.flibco.com/en"
+  },
+  {
+   "name": "Vël'Ok",
+   "cat": "micro",
+   "pkg": "lu.velok",
+   "note": "Kostenlose Leihräder im Süden, Stationen und Verfügbarkeit",
+   "city": "Esch-sur-Alzette",
+   "use": "limited",
+   "req": "Vorab-Anmeldung nötig, Ausleihe per mKaart",
+   "src": "https://www.velok.lu"
+  },
+  {
+   "name": "Luxcaddy",
+   "cat": "delivery",
+   "pkg": "com.luxcaddy.androidapp",
+   "note": "Online-Supermarkt mit Lieferung nach Hause",
+   "use": "ok",
+   "src": "https://luxcaddy.lu"
+  },
+  {
+   "name": "Sightseeing.lu",
+   "cat": "tourism",
+   "pkg": "lu.sightseeing.android",
+   "note": "Audiotouren mit Offline-Karte, Inhalte kostenpflichtig",
+   "city": "Luxemburg-Stadt",
+   "use": "ok",
+   "src": "https://sightseeing.lu"
+  },
+  {
+   "name": "Lëtzebuerg City Museum",
+   "cat": "tourism",
+   "pkg": "lu.citymuseum.guidepilot.letzebuergcitymuseum",
+   "note": "Audioguide und Navigation im Stadtmuseum",
+   "city": "Luxemburg-Stadt",
+   "use": "ok",
+   "src": "https://www.cityapp.lu"
+  },
+  {
+   "name": "Police Luxembourg",
+   "cat": "safety",
+   "pkg": "lu.kirepo.police",
+   "note": "Polizei-App: Warnmeldungen bei Krisen, Zeugenaufrufe",
+   "use": "ok",
+   "src": "http://police.lu"
+  },
+  {
+   "name": "geoportail.lu",
+   "cat": "maps",
+   "pkg": "com.c2c.LuxMob",
+   "note": "Amtliche Karten: Topografie, Wander- und Radwege",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.c2c.LuxMob&hl=en&gl=lu"
+  },
+  {
+   "name": "Luxair Luxembourg Airlines",
+   "cat": "flights",
+   "pkg": "com.luxair.androidapp",
+   "note": "Nationale Airline: Flüge buchen und verwalten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.luxair.androidapp&hl=en&gl=lu"
+  },
+  {
+   "name": "Youth Hostels Luxembourg",
+   "cat": "hotels",
+   "pkg": "net.gastfreund.YouthHostels",
+   "note": "Jugendherbergen in Luxemburg: Infos und Angebote",
+   "use": "ok",
+   "src": "https://youthhostels.lu"
+  },
+  {
+   "name": "Cactus",
+   "cat": "shopping",
+   "pkg": "lu.cactus.cactusapplication",
+   "note": "Luxemburger Supermarktkette: Märkte und Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=lu.cactus.cactusapplication&hl=en&gl=lu"
+  },
+  {
+   "name": "Delhaize Luxembourg",
+   "cat": "shopping",
+   "pkg": "delhaize.lu",
+   "note": "Supermarktkette: Angebote und Märkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=delhaize.lu&hl=en&gl=lu"
+  },
+  {
+   "name": "ALDI Luxemburg",
+   "cat": "shopping",
+   "pkg": "lu.aldi.android",
+   "note": "Discounter: Angebote und Filialen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=lu.aldi.android&hl=en&gl=lu"
   }
  ],
  "replace": [

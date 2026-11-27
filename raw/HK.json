@@ -312,6 +312,210 @@
    "note": "Fähren zu Außeninseln wie Lantau und Cheung Chau",
    "use": "ok",
    "src": "https://play.google.com/store/apps/details?id=com.nwff.firstferry"
+  },
+  {
+   "name": "High Speed Rail",
+   "cat": "rail",
+   "pkg": "com.mtr.highspeedrail",
+   "note": "MTR-App für Schnellzüge ab West Kowloon nach Festlandchina",
+   "use": "ok",
+   "src": "https://www.highspeed.mtr.com.hk/"
+  },
+  {
+   "name": "Cotai Water Jet",
+   "cat": "rail",
+   "pkg": "com.cks.androidTickets.cwj",
+   "note": "Fähren nach Macau: Abfahrten und Tickets",
+   "use": "ok",
+   "src": "https://www.cotaiwaterjet.com/"
+  },
+  {
+   "name": "HK Sightseeing",
+   "cat": "tourism",
+   "pkg": "com.btsl.citybustourist",
+   "note": "Citybus-Rundfahrten mit Audiokommentar und E-Tickets",
+   "use": "ok",
+   "src": "https://www.citybus.com.hk/"
+  },
+  {
+   "name": "WestK",
+   "cat": "tourism",
+   "pkg": "hk.westkowloon.app",
+   "note": "Kulturviertel West Kowloon: Museen, Tickets, Programm",
+   "use": "ok",
+   "src": "https://www.westk.hk/"
+  },
+  {
+   "name": "URBTIX",
+   "cat": "tourism",
+   "pkg": "com.lcsd.urbtix.maoyan",
+   "note": "Offizieller Ticketverkauf für Konzerte und Bühnen",
+   "use": "ok",
+   "src": "https://www.urbtix.hk/"
+  },
+  {
+   "name": "Hong Kong Disneyland",
+   "cat": "tourism",
+   "pkg": "com.disney.hongkongdisneyland_goo",
+   "note": "Parkplan, Wartezeiten und Tickets für Disneyland",
+   "city": "Lantau Island",
+   "use": "ok",
+   "src": "https://www.hongkongdisneyland.com/"
+  },
+  {
+   "name": "New Lantao Bus (NLB)",
+   "cat": "transit",
+   "pkg": "hk.com.nlb.app.Passenger",
+   "note": "Busse auf Lantau mit Linien und Ankunftszeiten",
+   "city": "Lantau Island",
+   "use": "ok",
+   "src": "https://www.nlb.com.hk/"
+  },
+  {
+   "name": "Discovery Bay",
+   "cat": "transit",
+   "pkg": "com.dbtsl.dbtransport.v2",
+   "note": "Fahrpläne für Fähren und Busse von Discovery Bay",
+   "city": "Lantau Island",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dbtsl.dbtransport.v2"
+  },
+  {
+   "name": "Hong Kong & Kowloon Ferry",
+   "cat": "rail",
+   "pkg": "com.kml.hkkfapp",
+   "note": "Fähren von Central nach Lamma: Fahrplan und Hinweise",
+   "city": "Lamma Island",
+   "use": "ok",
+   "src": "https://www.hkkf.com.hk/"
+  },
+  {
+   "name": "DASH",
+   "cat": "taxi",
+   "pkg": "com.dashapp.user",
+   "note": "Lizenzierte Taxis bestellen und bargeldlos bezahlen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dashapp.user"
+  },
+  {
+   "name": "God Taxi",
+   "cat": "taxi",
+   "pkg": "com.madmadgroup.godtaxi",
+   "note": "Lokale App zum Bestellen lizenzierter Taxis",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.madmadgroup.godtaxi"
+  },
+  {
+   "name": "ProTaxi",
+   "cat": "taxi",
+   "pkg": "com.excaliburplus.protaxi",
+   "note": "Taxis in Stadt und New Territories, auch Vorbestellung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.excaliburplus.protaxi"
+  },
+  {
+   "name": "Amigo Taxi",
+   "cat": "taxi",
+   "pkg": "taxi.amigo.client",
+   "note": "Taxiflotte mit Buchung per App",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=taxi.amigo.client"
+  },
+  {
+   "name": "Wilson Parking",
+   "cat": "parking",
+   "pkg": "com.wilsonparking",
+   "note": "Parkhäuser mit freien Plätzen, Preisen und Navigation",
+   "use": "ok",
+   "src": "https://www.wilsonparking.com.hk/"
+  },
+  {
+   "name": "Cathay Pacific",
+   "cat": "flights",
+   "pkg": "com.xs2theworld.cxmobile",
+   "note": "Heimische Fluglinie: Buchung, Check-in, Bordkarte",
+   "use": "ok",
+   "src": "https://www.cathaypacific.com/"
+  },
+  {
+   "name": "HK Express",
+   "cat": "flights",
+   "pkg": "com.hkexpress.android",
+   "note": "Billigflieger ab Hongkong: Buchung und Check-in",
+   "use": "ok",
+   "src": "https://www.hkexpress.com/"
+  },
+  {
+   "name": "Hong Kong Airlines",
+   "cat": "flights",
+   "pkg": "com.hkairlines.b2c.app",
+   "note": "Fluglinie ab Hongkong: Buchung und Check-in",
+   "use": "ok",
+   "src": "https://www.hongkongairlines.com/"
+  },
+  {
+   "name": "Greater Bay Airlines",
+   "cat": "flights",
+   "pkg": "com.greaterbay.aom",
+   "note": "Jüngere Fluglinie ab Hongkong: Buchung und Check-in",
+   "use": "ok",
+   "src": "https://www.greaterbay-airlines.com/"
+  },
+  {
+   "name": "Agoda",
+   "cat": "hotels",
+   "pkg": "com.agoda.mobile.consumer",
+   "note": "In Asien führende Hotelbuchung mit großer Auswahl",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer"
+  },
+  {
+   "name": "Trip.com",
+   "cat": "hotels",
+   "pkg": "ctrip.english",
+   "note": "Hotels, Flüge und Züge nach Festlandchina buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ctrip.english"
+  },
+  {
+   "name": "HKTVmall",
+   "cat": "shopping",
+   "pkg": "com.hktv.android.hktvmall",
+   "note": "Großer Onlinehändler der Stadt mit Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.hktv.android.hktvmall"
+  },
+  {
+   "name": "PNS eShop",
+   "cat": "shopping",
+   "pkg": "com.parknshop.parknshopapp",
+   "note": "Supermarkt PARKnSHOP: Angebote und Onlinebestellung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.parknshop.parknshopapp"
+  },
+  {
+   "name": "7-Eleven HK",
+   "cat": "shopping",
+   "pkg": "com.rtahk.seveneleven",
+   "note": "Angebote und Filialen der Kioskkette 7-Eleven",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.rtahk.seveneleven"
+  },
+  {
+   "name": "HK AQHI",
+   "cat": "safety",
+   "pkg": "hk.gov.epd.aqhi",
+   "note": "Amtlicher Luftqualitätsindex mit Gesundheitshinweisen",
+   "use": "ok",
+   "src": "https://www.aqhi.gov.hk/"
+  },
+  {
+   "name": "Hong Kong Police Mobile App",
+   "cat": "safety",
+   "pkg": "hk.gov.police.mobile",
+   "note": "Polizei-App mit Meldungen, Hinweisen und Online-Diensten",
+   "use": "ok",
+   "src": "https://www.police.gov.hk/"
   }
  ]
 }

@@ -344,6 +344,244 @@
    "use": "limited",
    "req": "Führerscheinprüfung, ggf. Internationaler Führerschein",
    "src": "https://www.singsaver.com.sg/page/blog/car-sharing-options-in-singapore"
+  },
+  {
+   "name": "SBS Transit",
+   "cat": "transit",
+   "pkg": "sg.com.sbstransit.irisdroid",
+   "note": "Bus- und MRT-Betreiber: Abfahrten in Echtzeit",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=sg.com.sbstransit.irisdroid",
+   "src": "https://www.sbstransit.com.sg"
+  },
+  {
+   "name": "Sindo Ferry",
+   "cat": "rail",
+   "pkg": "sg.com.sindoferry.sindoferry",
+   "note": "Fähren nach Batam, Bintan und Karimun",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=sg.com.sindoferry.sindoferry",
+   "src": "https://www.sindoferry.com.sg"
+  },
+  {
+   "name": "Easybook",
+   "cat": "rail",
+   "pkg": "easiphone.easibookbustickets",
+   "note": "Bus- und Fährtickets nach Malaysia und Indonesien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=easiphone.easibookbustickets",
+   "src": "https://www.easybook.com"
+  },
+  {
+   "name": "BusOnlineTicket",
+   "cat": "rail",
+   "pkg": "com.busonlineticketmy.app",
+   "note": "Fernbustickets Singapur und Malaysia",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.busonlineticketmy.app",
+   "src": "https://www.busonlineticket.com"
+  },
+  {
+   "name": "LUGO",
+   "cat": "rail",
+   "pkg": "com.manja.hugoapp",
+   "note": "Causeway-Link-Busse nach Johor Bahru",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.manja.hugoapp",
+   "src": "https://www.causewaylink.com.my/partners/lugo/"
+  },
+  {
+   "name": "Smile Ride",
+   "cat": "taxi",
+   "pkg": "com.smile.passenger",
+   "note": "Taxi-App von Trans-cab",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.smile.passenger",
+   "src": "https://play.google.com/store/apps/details?id=com.smile.passenger"
+  },
+  {
+   "name": "Flexar",
+   "cat": "carshare",
+   "pkg": "sg.com.flexar.user",
+   "note": "Carsharing von BlueSG, Punkt zu Punkt",
+   "use": "no",
+   "req": "Anmeldung nur mit Singpass",
+   "url": "https://play.google.com/store/apps/details?id=sg.com.flexar.user",
+   "src": "https://play.google.com/store/apps/details?id=sg.com.flexar.user"
+  },
+  {
+   "name": "Carpark Rates",
+   "cat": "parking",
+   "pkg": "com.carpark.ui",
+   "note": "Parkhaustarife in ganz Singapur vergleichen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.carpark.ui",
+   "src": "https://www.sgcarmart.com"
+  },
+  {
+   "name": "Kris+",
+   "cat": "payment",
+   "pkg": "com.sia.krispay.customer",
+   "note": "Bezahlen und Meilen sammeln in Läden und Restaurants",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.sia.krispay.customer",
+   "src": "https://www.singaporeair.com/en_UK/sg/ppsclub-krisflyer/use-miles/krisplus/"
+  },
+  {
+   "name": "MySentosa",
+   "cat": "tourism",
+   "pkg": "sg.com.sentosa.app.sentosaislander",
+   "note": "Offizielle Insel-App: Karte, Tickets, Angebote",
+   "city": "Sentosa",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=sg.com.sentosa.app.sentosaislander",
+   "src": "https://www.sentosa.com.sg"
+  },
+  {
+   "name": "Universal Studios Singapore",
+   "cat": "tourism",
+   "pkg": "com.rwsentosa.UniversalSG",
+   "note": "Parkplan, Wartezeiten und Showzeiten",
+   "city": "Sentosa",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rwsentosa.UniversalSG",
+   "src": "https://www.rwsentosa.com"
+  },
+  {
+   "name": "Singapore Oceanarium",
+   "cat": "tourism",
+   "pkg": "com.rws.sgoceanarium",
+   "note": "Aquarium auf Sentosa: Plan und Programm",
+   "city": "Sentosa",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rws.sgoceanarium",
+   "src": "https://www.rwsentosa.com"
+  },
+  {
+   "name": "Gardens by the Bay",
+   "cat": "tourism",
+   "pkg": "com.gardensbythebay.supertree",
+   "note": "Parkplan, Tickets und Veranstaltungen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gardensbythebay.supertree",
+   "src": "https://www.gardensbythebay.com.sg"
+  },
+  {
+   "name": "Mandai Wildlife Reserve",
+   "cat": "tourism",
+   "pkg": "com.mandai.mfa",
+   "note": "Zoo, Night Safari, Bird Paradise: Tickets, Karte",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mandai.mfa",
+   "src": "https://www.mandai.com"
+  },
+  {
+   "name": "Marina Bay Sands",
+   "cat": "tourism",
+   "pkg": "com.marinabaysands.mobileapp",
+   "note": "Resort-App: Attraktionen, Restaurants, Shopping",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.marinabaysands.mobileapp",
+   "src": "https://www.marinabaysands.com"
+  },
+  {
+   "name": "Pelago",
+   "cat": "tourism",
+   "pkg": "com.travellermobile",
+   "note": "Aktivitäten und Tickets von Singapore Airlines",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.travellermobile",
+   "src": "https://www.pelago.com"
+  },
+  {
+   "name": "SGSecure",
+   "cat": "safety",
+   "pkg": "com.ministryofhomeaffairs.sgsecure.mhasg",
+   "note": "Behördliche Warnungen bei Notlagen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ministryofhomeaffairs.sgsecure.mhasg",
+   "src": "https://www.sgsecure.gov.sg"
+  },
+  {
+   "name": "Police@SG",
+   "cat": "safety",
+   "pkg": "com.spf.policesg",
+   "note": "Polizei-App: Meldungen, Wachen, Hinweise",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.spf.policesg",
+   "src": "https://www.police.gov.sg"
+  },
+  {
+   "name": "OneMap",
+   "cat": "maps",
+   "pkg": "sg.onemap.android.onemap2",
+   "note": "Amtliche Karte mit Routenplanung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=sg.onemap.android.onemap2",
+   "src": "https://www.onemap.gov.sg"
+  },
+  {
+   "name": "Singapore Airlines",
+   "cat": "flights",
+   "pkg": "com.amadeus.merci.client.ui",
+   "note": "Nationale Airline: Buchung, Check-in, Bordkarte",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.amadeus.merci.client.ui",
+   "src": "https://www.singaporeair.com"
+  },
+  {
+   "name": "Scoot",
+   "cat": "flights",
+   "pkg": "com.flyscoot.android",
+   "note": "Billigflieger der Singapore-Airlines-Gruppe",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.flyscoot.android",
+   "src": "https://www.flyscoot.com"
+  },
+  {
+   "name": "Agoda",
+   "cat": "hotels",
+   "pkg": "com.agoda.mobile.consumer",
+   "note": "In Asien führende Hotelbuchung, Sitz Singapur",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.agoda.mobile.consumer",
+   "src": "https://www.agoda.com"
+  },
+  {
+   "name": "FairPrice Group",
+   "cat": "shopping",
+   "pkg": "com.fairprice.mcomapp",
+   "note": "Größte Supermarktkette: Angebote, Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.fairprice.mcomapp",
+   "src": "https://www.fairprice.com.sg"
+  },
+  {
+   "name": "Sheng Siong",
+   "cat": "shopping",
+   "pkg": "com.shengsiong.ssconnect",
+   "note": "Günstige Supermarktkette mit Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.shengsiong.ssconnect",
+   "src": "https://shengsiong.com.sg"
+  },
+  {
+   "name": "Cold Storage",
+   "cat": "shopping",
+   "pkg": "com.rtasg.intl",
+   "note": "Supermarktkette mit Lieferdienst",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.rtasg.intl",
+   "src": "https://coldstorage.com.sg"
+  },
+  {
+   "name": "Chope",
+   "cat": "misc",
+   "pkg": "com.chope.gui",
+   "note": "Restaurants reservieren",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.chope.gui",
+   "src": "https://www.chope.co"
   }
  ],
  "replace": [

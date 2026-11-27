@@ -184,6 +184,82 @@
    "url": "https://www.meteo.co.me/",
    "nostore": true,
    "src": "https://www.meteo.co.me/"
+  },
+  {
+   "name": "Blic Taxi",
+   "cat": "taxi",
+   "pkg": "com.blic.user",
+   "note": "Taxi per App in Budva, Kotor, Tivat und Podgorica",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.blic.user"
+  },
+  {
+   "name": "Naš taxi Podgorica",
+   "cat": "taxi",
+   "pkg": "com.netinformatika.nastaxipodgorica",
+   "note": "Taxizentrale in Podgorica per App bestellen",
+   "city": "Podgorica",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.netinformatika.nastaxipodgorica"
+  },
+  {
+   "name": "Taxi More",
+   "cat": "taxi",
+   "pkg": "com.autocab.taxibooker.taximore19730.hercegnovi1",
+   "note": "Taxizentrale in Herceg Novi mit Preisvorschau",
+   "city": "Herceg Novi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.autocab.taxibooker.taximore19730.hercegnovi1"
+  },
+  {
+   "name": "Greencar.me Taxi",
+   "cat": "taxi",
+   "pkg": "taximaster.tmtaxicaller.id3435",
+   "note": "Taxizentrale in Bar per App bestellen",
+   "city": "Bar",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=taximaster.tmtaxicaller.id3435"
+  },
+  {
+   "name": "Traveling.com Bus & Ferry",
+   "cat": "rail",
+   "pkg": "com.getbybus.mobile",
+   "note": "Fernbus und Fährtickets (früher GetByBus)",
+   "use": "ok",
+   "src": "https://getbybus.com"
+  },
+  {
+   "name": "Air Montenegro",
+   "cat": "flights",
+   "pkg": "com.hititcs.airmontenegro",
+   "note": "Nationale Airline: Flüge buchen und verwalten",
+   "use": "ok",
+   "src": "https://airmontenegro.com"
+  },
+  {
+   "name": "112 MNE",
+   "cat": "safety",
+   "pkg": "me.gov.okc112",
+   "note": "Offizielle Notruf App des Innenministeriums mit SOS SMS",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=me.gov.okc112"
+  },
+  {
+   "name": "BudvaTrails",
+   "cat": "tourism",
+   "pkg": "me.electroinvest.budvatrails",
+   "note": "Wanderwege rund um Budva mit Karte und GPS",
+   "city": "Budva",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=me.electroinvest.budvatrails"
+  },
+  {
+   "name": "Montenegro Village Explorer",
+   "cat": "tourism",
+   "pkg": "com.montenegro.villageexplorer",
+   "note": "Ländliche Höfe und Erlebnisse finden und buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.montenegro.villageexplorer"
   }
  ]
 }

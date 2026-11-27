@@ -212,6 +212,269 @@
    "city": "Cape Town",
    "use": "ok",
    "src": "https://play.google.com/store/apps/details?id=com.rideawaynew.app"
+  },
+  {
+   "name": "Metrobus Transport",
+   "cat": "transit",
+   "pkg": "com.calmex.transport.metrobus",
+   "note": "E Tickets für die Metrobus Stadtbusse",
+   "city": "Johannesburg",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.calmex.transport.metrobus"
+  },
+  {
+   "name": "Prasa Connect",
+   "cat": "rail",
+   "pkg": "com.prasa.connect",
+   "note": "Fahrplanauskunft der Metrorail Vorortzüge",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.prasa.connect"
+  },
+  {
+   "name": "Greyhound South Africa",
+   "cat": "rail",
+   "pkg": "com.greyhound",
+   "note": "Fernbus Tickets zwischen den großen Städten",
+   "use": "ok",
+   "src": "https://www.greyhound.co.za"
+  },
+  {
+   "name": "Wanatu",
+   "cat": "taxi",
+   "pkg": "za.co.wanatu.wanatuuser",
+   "note": "Lokaler Fahrdienst im Raum Pretoria",
+   "city": "Pretoria",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=za.co.wanatu.wanatuuser"
+  },
+  {
+   "name": "Bluu Car Rental",
+   "cat": "carshare",
+   "pkg": "com.bluucarrental.bluu.mobility",
+   "note": "Mietwagen an Flughäfen und in Städten buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bluucarrental.bluu.mobility"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.europcar.europcarmobility",
+   "note": "Mietwagen buchen, Stationen an den Flughäfen",
+   "use": "ok",
+   "src": "https://www.europcar.co.za"
+  },
+  {
+   "name": "Rideaway Cape Town",
+   "cat": "micro",
+   "pkg": "com.rideaway.app",
+   "note": "Leihräder in Kapstadt per App mieten",
+   "city": "Cape Town",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.rideaway.app"
+  },
+  {
+   "name": "Checkers Sixty60",
+   "cat": "delivery",
+   "pkg": "za.co.shoprite.sixty60",
+   "note": "Lebensmittel Lieferung in etwa 60 Minuten",
+   "use": "ok",
+   "src": "https://www.sixty60.co.za"
+  },
+  {
+   "name": "Pick n Pay asap!",
+   "cat": "delivery",
+   "pkg": "za.co.pnp.smartshopper",
+   "note": "Supermarkt Lieferung und Smart Shopper Angebote",
+   "use": "ok",
+   "src": "https://www.pnp.co.za"
+  },
+  {
+   "name": "SPAR2U",
+   "cat": "delivery",
+   "pkg": "za.co.spar2u",
+   "note": "Lieferung aus SPAR Märkten in der Nähe",
+   "use": "ok",
+   "src": "https://www.spar.co.za"
+  },
+  {
+   "name": "Table Mountain Aerial Cableway",
+   "cat": "tourism",
+   "pkg": "net.tablemountain",
+   "note": "Seilbahn Tickets, Betriebsstatus und Wetter",
+   "city": "Cape Town",
+   "use": "ok",
+   "src": "https://www.tablemountain.net"
+  },
+  {
+   "name": "CapeNature Visitor App",
+   "cat": "tourism",
+   "pkg": "io.appbuild.capenatu1",
+   "note": "Naturreservate am Westkap: Infos und Wanderwege",
+   "use": "ok",
+   "src": "https://www.capenature.co.za"
+  },
+  {
+   "name": "City Sightseeing",
+   "cat": "tourism",
+   "pkg": "com.iwander.css_android",
+   "note": "Rote Hop on Hop off Busse in Kapstadt und Joburg",
+   "use": "ok",
+   "src": "https://www.citysightseeing.co.za"
+  },
+  {
+   "name": "Visit Gauteng",
+   "cat": "tourism",
+   "pkg": "com.wnapp.visitgp",
+   "note": "Offizieller Reiseführer für Johannesburg und Pretoria",
+   "use": "ok",
+   "src": "https://www.gauteng.net"
+  },
+  {
+   "name": "Latest Sightings",
+   "cat": "tourism",
+   "pkg": "com.latestsightings.app",
+   "note": "Aktuelle Tiersichtungen im Krüger Nationalpark",
+   "city": "Kruger National Park",
+   "use": "ok",
+   "src": "https://www.latestsightings.com"
+  },
+  {
+   "name": "Kruger Companion",
+   "cat": "tourism",
+   "pkg": "com.krugersafariguide.app",
+   "note": "Offline Karte und Sichtungen für Selbstfahrer",
+   "city": "Kruger National Park",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.krugersafariguide.app"
+  },
+  {
+   "name": "Explore KZN South Coast",
+   "cat": "tourism",
+   "pkg": "za.co.visitkznsouthcoast",
+   "note": "Offizielle App der Südküste: Strände und Aktivitäten",
+   "city": "KZN South Coast",
+   "use": "ok",
+   "src": "https://www.visitkznsouthcoast.co.za"
+  },
+  {
+   "name": "Namola",
+   "cat": "safety",
+   "pkg": "com.sixthline.namola",
+   "note": "Notruf App: Hilfe mit Standort anfordern",
+   "use": "ok",
+   "src": "https://www.namola.com"
+  },
+  {
+   "name": "AfricaWeather",
+   "cat": "safety",
+   "pkg": "za.co.weathersa",
+   "note": "Wetter, Gewitter und Unwetterwarnungen",
+   "use": "ok",
+   "src": "https://www.africaweather.com"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "note": "Navigation mit Verkehrs und Gefahrenmeldungen",
+   "use": "ok",
+   "src": "https://www.waze.com"
+  },
+  {
+   "name": "Tracks4Africa Guide",
+   "cat": "maps",
+   "pkg": "za.co.tracks4africa.guide.hybrid",
+   "note": "Offline Karten für Selbstfahrer und Pisten",
+   "use": "ok",
+   "src": "https://tracks4africa.co.za"
+  },
+  {
+   "name": "FlySafair",
+   "cat": "flights",
+   "pkg": "com.bluemarket.safair",
+   "note": "Größter Billigflieger: Inlandsflüge buchen",
+   "use": "ok",
+   "src": "https://www.flysafair.co.za"
+  },
+  {
+   "name": "FlyAirlink",
+   "cat": "flights",
+   "pkg": "com.flyairlink.airlink4z",
+   "note": "Regionalflüge, auch zu Safari Flugplätzen",
+   "use": "ok",
+   "src": "https://www.flyairlink.com"
+  },
+  {
+   "name": "South African Airways",
+   "cat": "flights",
+   "pkg": "com.flysaa.mobile.android",
+   "note": "Nationale Airline: Buchen und Einchecken",
+   "use": "ok",
+   "src": "https://www.flysaa.com"
+  },
+  {
+   "name": "CemAir",
+   "cat": "flights",
+   "pkg": "com.cemair.cemairapp",
+   "note": "Inlandsflüge einer kleineren Regionalairline",
+   "use": "ok",
+   "src": "https://www.cemair.co.za"
+  },
+  {
+   "name": "ACSA App",
+   "cat": "flights",
+   "pkg": "com.sts.acsa",
+   "note": "Flughäfen Kapstadt, Johannesburg, Durban: Flugstatus",
+   "use": "ok",
+   "src": "https://www.airports.co.za"
+  },
+  {
+   "name": "Travelstart",
+   "cat": "flights",
+   "pkg": "za.co.travelstart.flapp",
+   "note": "Führendes Reiseportal für Flüge und Hotels",
+   "use": "ok",
+   "src": "https://www.travelstart.co.za"
+  },
+  {
+   "name": "LekkeSlaap",
+   "cat": "hotels",
+   "pkg": "za.co.lekkeslaap.app",
+   "note": "Führendes Portal für Unterkünfte und Gästehäuser",
+   "use": "ok",
+   "src": "https://www.lekkeslaap.co.za"
+  },
+  {
+   "name": "Camping South Africa",
+   "cat": "hotels",
+   "pkg": "za.co.sacctn.cp.caravanparkscom",
+   "note": "Verzeichnis der Camping und Caravanplätze",
+   "use": "ok",
+   "src": "https://www.caravanparks.com"
+  },
+  {
+   "name": "Woolworths",
+   "cat": "shopping",
+   "pkg": "com.awfs.coordination",
+   "note": "Supermarkt und Mode, mit Lieferdienst Woolies Dash",
+   "use": "ok",
+   "src": "https://www.woolworths.co.za"
+  },
+  {
+   "name": "Clicks",
+   "cat": "shopping",
+   "pkg": "za.co.deloittedigital.clicks",
+   "note": "Drogerie und Apotheke: Filialen und Angebote",
+   "use": "ok",
+   "src": "https://clicks.co.za"
+  },
+  {
+   "name": "Dis-Chem",
+   "cat": "shopping",
+   "pkg": "za.co.dischem",
+   "note": "Apothekenkette: Filialen, Angebote, Bestellung",
+   "use": "ok",
+   "src": "https://www.dischem.co.za"
   }
  ],
  "fetched": "2026-11-17",
