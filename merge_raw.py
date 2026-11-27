@@ -214,7 +214,7 @@ def merge(data, code, raw):
 
 
 def add_continents_and_info(data):
-    """Setzt "cont" (Kontinent aus queue/*.json), "info" (info/wikidata.json + info/trinkgeld.json) "ios" je App (info/ios.json), Feiertage (info/feiertage.json) und Stadt-Koordinaten "ll" (info/stadt-koordinaten.json)."""
+    """Setzt "cont" (Kontinent aus queue/*.json), "info" (info/wikidata.json + info/trinkgeld.json + info/eu.json + info/landeskunde.json) "ios" je App (info/ios.json), Feiertage (info/feiertage.json) und Stadt-Koordinaten "ll" (info/stadt-koordinaten.json)."""
     cont = {}
     for f in glob.glob(os.path.join(HERE, "queue", "*.json")):
         q = json.load(open(f, encoding="utf-8"))
@@ -228,6 +228,8 @@ def add_continents_and_info(data):
 
     wd = load("wikidata.json")
     tips = load("trinkgeld.json")
+    eu = load("eu.json")  # EU/Schengen/Euro, Quelle offizielle EU-Seiten
+    kunde = load("landeskunde.json")  # Dos, Don'ts, Gesetze, Fakten (je Eintrag "src")
     hol = load("feiertage.json")  # tools/feiertage.py, Quelle date.nager.at
     import datetime as _dt
     h_from = (_dt.date.today() - _dt.timedelta(days=2)).isoformat()
@@ -245,11 +247,28 @@ def add_continents_and_info(data):
         if t and t.get("tip"):
             info["tip"] = t["tip"]
             info["tip_src"] = t.get("src", "")
+        e = dict(eu.get(code, {}))
+        e_cities = e.pop("cities", {})
+        if e:
+            info["eu"] = e
+        kl = [k for k in kunde.get(code, []) if k.get("de") and k.get("src")]
+        land_k = [{x: k[x] for x in ("art", "de", "src") if k.get(x)} for k in kl if not k.get("city")]
+        if land_k:
+            info["kunde"] = land_k
         hl = [h for h in hol.get(code, []) if h_from <= h["d"] <= h_to]
         if hl:
             info["holidays"] = hl
             info["holidays_src"] = "https://date.nager.at"
         for ci in c.get("cities", []):
+            ck = [{x: k[x] for x in ("art", "de", "src") if k.get(x)} for k in kl if k.get("city") == ci["name"]]
+            if ck:
+                ci["kunde"] = ck
+            else:
+                ci.pop("kunde", None)
+            if e_cities.get(ci["name"]):
+                ci["eu"] = e_cities[ci["name"]]
+            else:
+                ci.pop("eu", None)
             ll = geo.get(code + "|" + ci["name"])
             if ll:
                 ci["ll"] = ll

@@ -1,0 +1,424 @@
+{
+ "_quelle": "Offizielle EU-Seiten: european-union.europa.eu (EU-Länder, Euro, Erweiterung), home-affairs.ec.europa.eu (Schengen-Raum). Stand siehe _stand.",
+ "_stand": "2026-11-27",
+ "_src": {
+  "eu": "https://european-union.europa.eu/principles-countries-history/eu-countries_en",
+  "schengen": "https://home-affairs.ec.europa.eu/policies/schengen/schengen-area_en",
+  "euro": "https://european-union.europa.eu/institutions-law-budget/euro/countries-using-euro_en",
+  "candidate": "https://european-union.europa.eu/principles-countries-history/eu-enlargement_en"
+ },
+ "countries": {
+  "AD": {
+   "notes": [
+    "euro_agreement",
+    "customs_union_part",
+    "ad_border"
+   ]
+  },
+  "AL": {
+   "notes": [
+    "candidate"
+   ]
+  },
+  "AT": {
+   "eu": "1995-01-01",
+   "schengen": "1997-12-01",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "AW": {
+   "notes": [
+    "oct"
+   ]
+  },
+  "AX": {
+   "notes": [
+    "ax"
+   ],
+   "eu": "part",
+   "schengen": "part",
+   "euro": "part",
+   "eea": true
+  },
+  "BA": {
+   "notes": [
+    "candidate"
+   ]
+  },
+  "BE": {
+   "eu": "1958-01-01",
+   "schengen": "1995-03-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "BG": {
+   "eu": "2007-01-01",
+   "schengen": "2024-03-31",
+   "euro": "2026-01-01",
+   "schengen_full": "2025-01-01",
+   "eea": true
+  },
+  "BL": {
+   "notes": [
+    "oct",
+    "euro_oct"
+   ]
+  },
+  "BQ": {
+   "notes": [
+    "oct"
+   ]
+  },
+  "CH": {
+   "schengen": "2008-12-12",
+   "notes": [
+    "ch_bilateral"
+   ]
+  },
+  "CW": {
+   "notes": [
+    "oct"
+   ]
+  },
+  "CY": {
+   "eu": "2004-05-01",
+   "euro": "2008-01-01",
+   "eea": true,
+   "notes": [
+    "cy_schengen_pending",
+    "cy_north"
+   ]
+  },
+  "CZ": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "eea": true
+  },
+  "DE": {
+   "eu": "1958-01-01",
+   "schengen": "1995-03-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "DK": {
+   "eu": "1973-01-01",
+   "schengen": "2001-03-25",
+   "eea": true
+  },
+  "EE": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "euro": "2011-01-01",
+   "eea": true
+  },
+  "ES": {
+   "eu": "1986-01-01",
+   "schengen": "1995-03-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01",
+   "cities": {
+    "Las Palmas de Gran Canaria": [
+     "canary"
+    ],
+    "Tenerife": [
+     "canary"
+    ]
+   }
+  },
+  "FI": {
+   "eu": "1995-01-01",
+   "schengen": "2001-03-25",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "FO": {
+   "notes": [
+    "dk_outside"
+   ]
+  },
+  "FR": {
+   "eu": "1958-01-01",
+   "schengen": "1995-03-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "GB": {
+   "eu_left": "2020-01-31",
+   "notes": [
+    "cta"
+   ]
+  },
+  "GE": {
+   "notes": [
+    "candidate"
+   ]
+  },
+  "GF": {
+   "eu": "part",
+   "euro": "part",
+   "notes": [
+    "outermost"
+   ]
+  },
+  "GG": {
+   "notes": [
+    "crown_dependency",
+    "cta"
+   ]
+  },
+  "GI": {
+   "notes": [
+    "gi"
+   ]
+  },
+  "GL": {
+   "notes": [
+    "dk_outside",
+    "oct"
+   ],
+   "eu_left": "1985-02-01"
+  },
+  "GP": {
+   "eu": "part",
+   "euro": "part",
+   "notes": [
+    "outermost"
+   ]
+  },
+  "GR": {
+   "eu": "1981-01-01",
+   "schengen": "2000-03-26",
+   "euro": "2001-01-01",
+   "eea": true
+  },
+  "HR": {
+   "eu": "2013-07-01",
+   "schengen": "2023-01-01",
+   "euro": "2023-01-01",
+   "eea": true
+  },
+  "HU": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "eea": true
+  },
+  "IE": {
+   "eu": "1973-01-01",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01",
+   "notes": [
+    "cta"
+   ]
+  },
+  "IM": {
+   "notes": [
+    "crown_dependency",
+    "cta"
+   ]
+  },
+  "IS": {
+   "schengen": "2001-03-25",
+   "eea": true
+  },
+  "IT": {
+   "eu": "1958-01-01",
+   "schengen": "1997-10-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "JE": {
+   "notes": [
+    "crown_dependency",
+    "cta"
+   ]
+  },
+  "LI": {
+   "schengen": "2011-12-19",
+   "eea": true
+  },
+  "LT": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "euro": "2015-01-01",
+   "eea": true
+  },
+  "LU": {
+   "eu": "1958-01-01",
+   "schengen": "1995-03-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "LV": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "euro": "2014-01-01",
+   "eea": true
+  },
+  "MC": {
+   "notes": [
+    "open_border",
+    "euro_agreement",
+    "mc_customs"
+   ]
+  },
+  "MD": {
+   "notes": [
+    "candidate"
+   ]
+  },
+  "ME": {
+   "notes": [
+    "euro_unilateral",
+    "candidate"
+   ]
+  },
+  "MF": {
+   "eu": "part",
+   "euro": "part",
+   "notes": [
+    "outermost"
+   ]
+  },
+  "MK": {
+   "notes": [
+    "candidate"
+   ]
+  },
+  "MQ": {
+   "eu": "part",
+   "euro": "part",
+   "notes": [
+    "outermost"
+   ]
+  },
+  "MT": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "euro": "2008-01-01",
+   "eea": true
+  },
+  "NC": {
+   "notes": [
+    "oct"
+   ]
+  },
+  "NL": {
+   "eu": "1958-01-01",
+   "schengen": "1995-03-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "NO": {
+   "schengen": "2001-03-25",
+   "eea": true
+  },
+  "PF": {
+   "notes": [
+    "oct"
+   ]
+  },
+  "PL": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "eea": true
+  },
+  "PM": {
+   "notes": [
+    "oct",
+    "euro_oct"
+   ]
+  },
+  "PT": {
+   "eu": "1986-01-01",
+   "schengen": "1995-03-26",
+   "euro": "1999-01-01",
+   "eea": true,
+   "euro_cash": "2002-01-01"
+  },
+  "RE": {
+   "eu": "part",
+   "euro": "part",
+   "notes": [
+    "outermost"
+   ]
+  },
+  "RO": {
+   "eu": "2007-01-01",
+   "schengen": "2024-03-31",
+   "schengen_full": "2025-01-01",
+   "eea": true
+  },
+  "RS": {
+   "notes": [
+    "candidate"
+   ]
+  },
+  "SE": {
+   "eu": "1995-01-01",
+   "schengen": "2001-03-25",
+   "eea": true
+  },
+  "SI": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "euro": "2007-01-01",
+   "eea": true
+  },
+  "SJ": {
+   "notes": [
+    "sj"
+   ]
+  },
+  "SK": {
+   "eu": "2004-05-01",
+   "schengen": "2007-12-21",
+   "euro": "2009-01-01",
+   "eea": true
+  },
+  "SM": {
+   "notes": [
+    "open_border",
+    "euro_agreement",
+    "customs_union"
+   ]
+  },
+  "SX": {
+   "notes": [
+    "oct"
+   ]
+  },
+  "TR": {
+   "notes": [
+    "customs_union_part",
+    "candidate"
+   ]
+  },
+  "UA": {
+   "notes": [
+    "candidate"
+   ]
+  },
+  "WF": {
+   "notes": [
+    "oct"
+   ]
+  },
+  "YT": {
+   "eu": "part",
+   "euro": "part",
+   "notes": [
+    "outermost"
+   ]
+  }
+ }
+}

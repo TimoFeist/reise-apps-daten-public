@@ -116,6 +116,20 @@ So ist jedes Land etwa alle 2 Wochen frisch geprüft.
 
 Siehe „Parallel arbeiten“: prüfen, nur `raw/` und `queue/` committen, mit Wiederholung pushen. `data.json` und die Version (Zeitstempel) setzt die GitHub Action.
 
+## EU, Schengen und Euro (`info/eu.json`, von Hand)
+
+Je Land Datum (JJJJ-MM-TT) des EU-Beitritts (`eu`), der Schengen-Anwendung (`schengen`, bei Teilbeitritt zusätzlich `schengen_full`), der Euro-Einführung (`euro`, bei den Gründern `euro_cash` für das Bargeld), `eea` für den EWR und `eu_left` (Austritt). `"part"` heißt: gehört über ein Mitgliedsland dazu (z. B. Åland, französische Überseedepartements). Sonderfälle stehen als Kürzel in `notes` (z. B. `outermost`, `oct`, `open_border`, `customs_union_part`, `candidate`, `cta`), für einzelne Städte unter `cities` (z. B. Kanaren: `canary`). Die Sätze dazu stehen in der App (`Kunde.kt`, `euNote`) und der Web-Version (`EU_HINWEIS`) und werden dort in alle Sprachen übersetzt; ein neues Kürzel muss in beiden ergänzt werden. Quelle: european-union.europa.eu (EU-Länder, Euro, Erweiterung) und home-affairs.ec.europa.eu (Schengen). Bei Änderungen (Beitritt, Euro, Schengen) Datei anpassen und `_stand` setzen. `merge_raw.py` hängt das als `info.eu` an.
+
+## Landeskunde: Dos, Don'ts, Gesetze, Fakten (`info/landeskunde.json`)
+
+Je Land eine Liste `{"art": "warnung|do|dont|gesetz|fakt", "de": "…", "city": "<englischer Stadtname oder leer>", "src": "https://…"}`. Regeln: nur Belegtes von der abgerufenen Seite (Auswärtiges Amt Reise- und Sicherheitshinweise, offizielle Tourismus- und Regierungsseiten, für Fakten auch Wikipedia), eigene Worte, höchstens 200 Zeichen, keine Gedankenstriche, Trinkgeld nur wenn `info/trinkgeld.json` das Land nicht hat. Große Reiseländer 8 bis 12 Einträge plus 1 bis 3 je Stadt, kleine Gebiete 2 bis 4. Vorlage für Recherche-Aufträge: `tools/kunde-auftrag.md`.
+
+* Einspielen: `python3 tools/kunde.py einspielen <datei.json>` (prüft und ersetzt die genannten Länder ganz).
+* Übersetzen: Die App zeigt die Texte in allen 31 Sprachen. Übersetzungen liegen in `info/landeskunde_i18n/<sprache>.json` (Schlüssel = deutscher Text). `python3 tools/kunde.py fehlend fehlend.json` listet, was fehlt; Ergebnis je Sprache mit `python3 tools/kunde.py uebersetzung <datei.json> <sprache>` einspielen. Fehlt eine Übersetzung, zeigt die App Englisch, sonst Deutsch.
+* Prüfen: `python3 tools/kunde.py pruefen` (mit `--aufraeumen` verwaiste Übersetzungen entfernen).
+* Die Übersetzungsdateien gehen mit `website/verteilen.sh` im App-Projekt nach localappfinder.uk/kunde/<sprache>.json. Nach neuen Übersetzungen also einmal verteilen.
+* Pflege-Modus: Bei jedem neu abgerufenen Land die Landeskunde mitprüfen (Gesetze ändern sich), Länder ohne Einträge ergänzen, danach fehlende Übersetzungen nachziehen.
+
 ## Regeln
 
 * Nichts erfinden. Jede App braucht eine Quelle (`src`).

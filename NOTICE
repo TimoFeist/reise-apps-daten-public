@@ -4,3 +4,6 @@ Reise-Apps: Daten
 App-Namen und Marken gehören den jeweiligen Inhabern. Die Quellen stehen je Eintrag im Feld src.
 
 Leihrad-, E-Scooter- und Carsharing-Systeme teils aus der GBFS-Systemliste von MobilityData (https://github.com/MobilityData/gbfs, CC BY 3.0) und den Feeds der Betreiber.
+
+EU-, Schengen- und Euro-Angaben (info/eu.json) nach den offiziellen Seiten european-union.europa.eu und home-affairs.ec.europa.eu.
+Landeskunde (info/landeskunde.json): eigene Zusammenfassungen, vor allem nach den Reise- und Sicherheitshinweisen des Auswärtigen Amts, offiziellen Tourismus- und Regierungsseiten und Wikipedia-Artikeln (CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/). Die Quelle steht je Eintrag im Feld src.
