@@ -167,6 +167,57 @@
    "use": "no",
    "req": "Konto bei MoraBanc nötig",
    "src": "https://www.morabanc.ad/en/thinkbank/press-room/morabanc-first-bank-andorra-bizum-businesses-app"
+  },
+  {
+   "name": "Club Caldea",
+   "cat": "tourism",
+   "pkg": "com.technogym.mywellness.clubcaldea",
+   "note": "App des Thermalbads Caldea",
+   "city": "Escaldes-Engordany",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.technogym.mywellness.clubcaldea"
+  },
+  {
+   "name": "Comú e-e",
+   "cat": "tourism",
+   "pkg": "com.apropapp.ee",
+   "note": "Offizielle Gemeinde App, Termine und Infos",
+   "city": "Escaldes-Engordany",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.apropapp.ee"
+  },
+  {
+   "name": "Meteo Andorra",
+   "cat": "safety",
+   "pkg": "ad.andornet.meteo",
+   "note": "Wetter und Schneelage für Andorra",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ad.andornet.meteo"
+  },
+  {
+   "name": "Andorra Salut",
+   "cat": "safety",
+   "pkg": "ad.saas.andorrasalutapp",
+   "note": "Gesundheitsdienst SAAS, Zentren und Notfälle",
+   "use": "limited",
+   "req": "Volle Nutzung mit andorranischer Versicherung",
+   "src": "https://play.google.com/store/apps/details?id=ad.saas.andorrasalutapp"
+  },
+  {
+   "name": "Wifi Andorra Telecom",
+   "cat": "misc",
+   "pkg": "ad.andorratelecom.wifiandorratelecom",
+   "note": "Öffentliches WLAN von Andorra Telecom",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ad.andorratelecom.wifiandorratelecom"
+  },
+  {
+   "name": "My Pyri",
+   "cat": "shopping",
+   "pkg": "com.app.pyreneesapp",
+   "note": "Rabatte im Kaufhaus Pyrénées und Carrefour",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.app.pyreneesapp"
   }
  ]
 }

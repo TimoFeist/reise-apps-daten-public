@@ -270,6 +270,40 @@
    "use": "no",
    "req": "Konto bei MCB Mauritius nötig",
    "src": "https://mcbjuice.com/"
+  },
+  {
+   "name": "Delivoo",
+   "cat": "delivery",
+   "pkg": "com.delivoo.customer",
+   "note": "Lieferdienst für Essen und Einkäufe auf Mauritius",
+   "use": "ok",
+   "src": "https://www.delivoo.mu"
+  },
+  {
+   "name": "OnlyEat",
+   "cat": "delivery",
+   "pkg": "onlyeat.co",
+   "note": "Essenslieferung von Restaurants auf der ganzen Insel",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=onlyeat.co"
+  },
+  {
+   "name": "blink by Emtel",
+   "cat": "payment",
+   "pkg": "com.emtel.payment",
+   "note": "Mobile Wallet des Anbieters Emtel",
+   "use": "limited",
+   "req": "Mauritische Emtel-Nummer nötig",
+   "src": "https://www.blink.mu"
+  },
+  {
+   "name": "Discover Rodrigues",
+   "cat": "tourism",
+   "pkg": "org.rodriguestourismoffice.discoverrodrigues",
+   "note": "Offizielle App des Tourismusbüros Rodrigues",
+   "city": "Rodrigues",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=org.rodriguestourismoffice.discoverrodrigues"
   }
  ]
 }

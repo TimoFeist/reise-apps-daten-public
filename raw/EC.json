@@ -163,6 +163,145 @@
    "url": "https://ecuador.travel",
    "nostore": true,
    "src": "https://ecuador.travel"
+  },
+  {
+   "name": "Metro de Quito",
+   "cat": "transit",
+   "pkg": "com.quitoapp",
+   "note": "U-Bahn Quito: Linie, Stationen, Infos",
+   "city": "Quito",
+   "use": "ok",
+   "src": "https://www.metrodequito.gob.ec"
+  },
+  {
+   "name": "Movilízate",
+   "cat": "transit",
+   "pkg": "ec.edu.ucacue.movilizate.movilizate_app",
+   "note": "Stadtbusse Cuenca: Haltestellen, Ankunft",
+   "city": "Cuenca",
+   "use": "ok",
+   "src": "https://elmercurio.com.ec/?p=1203131"
+  },
+  {
+   "name": "La Guayaca",
+   "cat": "transit",
+   "pkg": "com.stg.tarjeta_unica_stg",
+   "note": "Fahrkarte Metrovía und Busse Guayaquil",
+   "city": "Guayaquil",
+   "use": "ok",
+   "src": "https://tarjetalaguayaca.com/"
+  },
+  {
+   "name": "Coop. Baños",
+   "cat": "rail",
+   "pkg": "com.app.pasajes.cooperativabaos",
+   "note": "Fernbus Tickets der Cooperativa Baños",
+   "city": "Banos",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.app.pasajes.cooperativabaos"
+  },
+  {
+   "name": "Cuenca Taxi",
+   "cat": "taxi",
+   "pkg": "ec.com.cuencataxicliente",
+   "note": "Gelbe Taxis der Taxivereinigung Azuay",
+   "city": "Cuenca",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ec.com.cuencataxicliente"
+  },
+  {
+   "name": "Taxi Cuenca",
+   "cat": "taxi",
+   "pkg": "com.taxicuenca.cuenca",
+   "note": "Radiotaxi Cuenca per App",
+   "city": "Cuenca",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.taxicuenca.cuenca"
+  },
+  {
+   "name": "Avis",
+   "cat": "carshare",
+   "pkg": "com.avis.androidapp",
+   "note": "Mietwagen an Flughäfen Quito und Guayaquil",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.avis.androidapp"
+  },
+  {
+   "name": "Tipti",
+   "cat": "delivery",
+   "pkg": "ec.tipti",
+   "note": "Supermarkt Lieferung nach Hause",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ec.tipti"
+  },
+  {
+   "name": "Payphone",
+   "cat": "payment",
+   "pkg": "payPhone_Android.PayPhone_Android",
+   "note": "Ecuadorische Bezahl App",
+   "use": "limited",
+   "req": "Für Händlerzahlungen, Konto aus Ecuador nötig",
+   "src": "https://play.google.com/store/apps/details?id=payPhone_Android.PayPhone_Android"
+  },
+  {
+   "name": "Visit Quito",
+   "cat": "tourism",
+   "pkg": "com.visitquito.app",
+   "note": "Offizielle Tourismus App von Quito",
+   "city": "Quito",
+   "use": "ok",
+   "src": "https://www.visitquito.ec"
+  },
+  {
+   "name": "Galápagos TCT",
+   "cat": "entry",
+   "note": "Transitkarte für Galápagos online vorab",
+   "city": "Galapagos",
+   "use": "ok",
+   "url": "https://gobiernogalapagos.gob.ec/step-by-step-tct-online/",
+   "nostore": true,
+   "src": "https://gobiernogalapagos.gob.ec/step-by-step-tct-online/"
+  },
+  {
+   "name": "LATAM",
+   "cat": "flights",
+   "pkg": "com.latam.xp",
+   "note": "Große Airline, viele Inlandsflüge",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.latam.xp"
+  },
+  {
+   "name": "avianca",
+   "cat": "flights",
+   "pkg": "areamovil.aviancataca",
+   "note": "Airline mit Flügen ab Quito und Guayaquil",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=areamovil.aviancataca"
+  },
+  {
+   "name": "Supermaxi",
+   "cat": "shopping",
+   "pkg": "com.devsu.supermaxi",
+   "note": "Größte Supermarktkette: Einkauf, Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.devsu.supermaxi"
+  },
+  {
+   "name": "Coral Online",
+   "cat": "shopping",
+   "pkg": "com.gortiz.ecommercego",
+   "note": "Kaufhauskette Coral aus Cuenca",
+   "city": "Cuenca",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.gortiz.ecommercego"
+  },
+  {
+   "name": "Fybeca",
+   "cat": "shopping",
+   "pkg": "com.fybeca.ec.ecommerce",
+   "note": "Apothekenkette mit Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.fybeca.ec.ecommerce"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die gleichgeschlechtliche Ehe ist erlaubt und Diskriminierung im Arbeitsrecht verboten.",

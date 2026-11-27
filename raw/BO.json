@@ -164,6 +164,91 @@
    "url": "https://senamhi.gob.bo",
    "nostore": true,
    "src": "https://senamhi.gob.bo"
+  },
+  {
+   "name": "Cruzero",
+   "cat": "transit",
+   "pkg": "com.mos",
+   "note": "Standard-App für Micro- und Buslinien in Santa Cruz",
+   "city": "Santa Cruz de la Sierra",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.mos",
+   "src": "https://play.google.com/store/apps/details?id=com.mos"
+  },
+  {
+   "name": "Transporte Público Sucre",
+   "cat": "transit",
+   "pkg": "com.gams.mitaxisegurogams",
+   "note": "Offizielle ÖPNV-App der Stadtverwaltung Sucre",
+   "city": "Sucre",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gams.mitaxisegurogams",
+   "src": "https://play.google.com/store/apps/details?id=com.gams.mitaxisegurogams"
+  },
+  {
+   "name": "Bolivia Buses",
+   "cat": "rail",
+   "pkg": "com.transclick.boliviabuses",
+   "note": "Fernbus-Tickets online für Bolivien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.transclick.boliviabuses",
+   "src": "https://play.google.com/store/apps/details?id=com.transclick.boliviabuses"
+  },
+  {
+   "name": "Yummy",
+   "cat": "delivery",
+   "pkg": "com.yummy.customer",
+   "note": "Super-App für Essen, Einkäufe und Fahrten",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.yummy.customer",
+   "src": "https://play.google.com/store/apps/details?id=com.yummy.customer"
+  },
+  {
+   "name": "Tigo Money",
+   "cat": "payment",
+   "pkg": "bo.tigo.mfsapp",
+   "note": "Verbreitete Handy-Geldbörse mit QR-Zahlung",
+   "use": "limited",
+   "req": "Bolivianische Tigo-Nummer nötig",
+   "url": "https://play.google.com/store/apps/details?id=bo.tigo.mfsapp",
+   "src": "https://play.google.com/store/apps/details?id=bo.tigo.mfsapp"
+  },
+  {
+   "name": "Yape Bolivia",
+   "cat": "payment",
+   "pkg": "com.bcp.bo.wallet",
+   "note": "QR-Zahlungen der Banco de Crédito, weit verbreitet",
+   "use": "no",
+   "req": "Konto bei BCP Bolivien nötig",
+   "url": "https://play.google.com/store/apps/details?id=com.bcp.bo.wallet",
+   "src": "https://play.google.com/store/apps/details?id=com.bcp.bo.wallet"
+  },
+  {
+   "name": "Hipermaxi",
+   "cat": "shopping",
+   "pkg": "com.hipermaxi",
+   "note": "Größte Supermarktkette, Einkauf und Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.hipermaxi",
+   "src": "https://play.google.com/store/apps/details?id=com.hipermaxi"
+  },
+  {
+   "name": "Farmacorp",
+   "cat": "shopping",
+   "pkg": "net.farmacorp.shop",
+   "note": "Größte Apothekenkette, Filialen und Bestellung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=net.farmacorp.shop",
+   "src": "https://play.google.com/store/apps/details?id=net.farmacorp.shop"
+  },
+  {
+   "name": "BoA Boliviana de Aviación (Web)",
+   "cat": "flights",
+   "note": "Nationale Airline, Buchung nur über die Webseite",
+   "use": "ok",
+   "url": "https://www.boa.bo",
+   "nostore": true,
+   "src": "https://www.boa.bo"
   }
  ],
  "lgbtq_note": "Keine strafrechtlichen Einschränkungen, die Verfassung verbietet Diskriminierung; im Hochland ist die Gesellschaft konservativer als in Santa Cruz, eine gleichgeschlechtliche Ehe ist nicht möglich.",

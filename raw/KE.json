@@ -242,6 +242,184 @@
    "url": "https://nairobiservices.go.ke",
    "nostore": true,
    "src": "https://www.the-star.co.ke/news/2026-07-20-sakaja-dismisses-reports-of-hiked-parking-fees"
+  },
+  {
+   "name": "Super Metro",
+   "cat": "transit",
+   "pkg": "com.super_metro.passenger",
+   "note": "Matatu Betreiber, Fahrten buchen und bargeldlos zahlen",
+   "city": "Nairobi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.super_metro.passenger"
+  },
+  {
+   "name": "Easycoach",
+   "cat": "rail",
+   "pkg": "easycoachltd.co.ke",
+   "note": "Fernbustickets von Easy Coach buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=easycoachltd.co.ke"
+  },
+  {
+   "name": "ENA Coach",
+   "cat": "rail",
+   "pkg": "com.enacoach",
+   "note": "Fernbusse etwa Nairobi nach Mombasa und Kisumu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.enacoach"
+  },
+  {
+   "name": "Tahmeed",
+   "cat": "rail",
+   "pkg": "com.tahmeedcoach",
+   "note": "Fernbusse an die Küste und nach Ostafrika",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tahmeedcoach"
+  },
+  {
+   "name": "DreamLine",
+   "cat": "rail",
+   "pkg": "com.dreamlineapp",
+   "note": "Fernbusse Nairobi und Mombasa",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.dreamlineapp"
+  },
+  {
+   "name": "The Guardian Coach",
+   "cat": "rail",
+   "pkg": "ke.co.buslog.guardian.app",
+   "note": "Fernbustickets der Guardian Coach",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ke.co.buslog.guardian.app"
+  },
+  {
+   "name": "MashPoa",
+   "cat": "rail",
+   "pkg": "io.mashpoamarketplace",
+   "note": "Tickets für Mash Poa Fernbusse",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=io.mashpoamarketplace"
+  },
+  {
+   "name": "Faras",
+   "cat": "taxi",
+   "pkg": "com.faras.rider",
+   "note": "Kenianischer Fahrdienst per App",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.faras.rider"
+  },
+  {
+   "name": "Wasili",
+   "cat": "taxi",
+   "pkg": "com.wasili.rider",
+   "note": "Lokaler Fahrdienst für Auto und Motorrad",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.wasili.rider"
+  },
+  {
+   "name": "YEGO Kenya",
+   "cat": "taxi",
+   "pkg": "com.yegoglobal.passenger",
+   "note": "Fahrten mit Auto und Motorradtaxi",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.yegoglobal.passenger"
+  },
+  {
+   "name": "KAPS",
+   "cat": "parking",
+   "pkg": "com.kaps.app",
+   "note": "Parken an KAPS Parkplätzen per App zahlen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.kaps.app"
+  },
+  {
+   "name": "MyCounty Pay",
+   "cat": "parking",
+   "pkg": "com.safaricom.mycounty",
+   "note": "Parkgebühren der Countys zahlen, auch per Karte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.safaricom.mycounty"
+  },
+  {
+   "name": "Dial a Delivery",
+   "cat": "delivery",
+   "pkg": "com.simbisabrands.dad",
+   "note": "Essenslieferung von Restaurantketten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.simbisabrands.dad"
+  },
+  {
+   "name": "Naivas Online",
+   "cat": "delivery",
+   "pkg": "com.naivas.online",
+   "note": "Einkäufe der Supermarktkette Naivas liefern lassen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.naivas.online"
+  },
+  {
+   "name": "My Airtel",
+   "cat": "payment",
+   "pkg": "com.airtel.africa.selfcare",
+   "note": "Airtel Money und Guthaben verwalten",
+   "use": "limited",
+   "req": "Kenianische Airtel SIM nötig",
+   "src": "https://play.google.com/store/apps/details?id=com.airtel.africa.selfcare"
+  },
+  {
+   "name": "KWS",
+   "cat": "tourism",
+   "pkg": "ke.go.kws",
+   "note": "Eintritt in Nationalparks der KWS über eCitizen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ke.go.kws"
+  },
+  {
+   "name": "Ambulensi",
+   "cat": "safety",
+   "pkg": "org.ambulensi.mobile",
+   "note": "Rettungswagen in der Nähe finden",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=org.ambulensi.mobile"
+  },
+  {
+   "name": "AA Road Rescue",
+   "cat": "safety",
+   "pkg": "co.ke.aakenya",
+   "note": "Pannenhilfe des Automobilclubs AA Kenya",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=co.ke.aakenya"
+  },
+  {
+   "name": "Quickmart Q SOKO",
+   "cat": "shopping",
+   "pkg": "com.app.qsoko.buyer",
+   "note": "Supermarkt Quickmart online",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.app.qsoko.buyer"
+  },
+  {
+   "name": "Carrefour",
+   "cat": "shopping",
+   "pkg": "com.aswat.carrefouruae",
+   "note": "Carrefour Supermärkte, Angebote und Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.aswat.carrefouruae"
+  },
+  {
+   "name": "Jumia",
+   "cat": "shopping",
+   "pkg": "com.jumia.android",
+   "note": "Großer afrikanischer Onlinehändler",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.jumia.android"
+  },
+  {
+   "name": "Kilimall",
+   "cat": "shopping",
+   "pkg": "net.kilimall.shop",
+   "note": "Kenianischer Onlinemarktplatz",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.kilimall.shop"
   }
  ],
  "fetched": "2026-11-23",

@@ -421,6 +421,24 @@
    "note": "Angebote und Filialen von Kaufland",
    "use": "ok",
    "src": "https://www.kaufland.hr"
+  },
+  {
+   "name": "NP Plitvička jezera",
+   "cat": "tourism",
+   "pkg": "com.plitvicemobile",
+   "note": "Offizielle App des Nationalparks Plitvicer Seen",
+   "city": "Plitvice Lakes",
+   "use": "ok",
+   "src": "https://np-plitvicka-jezera.hr/en/applications/"
+  },
+  {
+   "name": "Audio guide for Krka NP",
+   "cat": "tourism",
+   "pkg": "hr.novena.krkaguide",
+   "note": "Offizieller Audioguide des Nationalparks Krka",
+   "city": "Krka National Park",
+   "use": "ok",
+   "src": "https://npkrka.hr/hr/multimedia/audio-vodic-za-interpretaciju-i-vodenje-np-krka/"
   }
  ],
  "lgbtq_note": "Homosexualität ist gesetzlich respektiert und eingetragene Partnerschaften sind möglich; abseits der Städte und Urlaubsorte ist die Akzeptanz teils gering.",

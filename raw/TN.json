@@ -168,6 +168,15 @@
    "use": "no",
    "req": "Tunesisches Konto nötig",
    "src": "https://flouci.com/fr"
+  },
+  {
+   "name": "Parking TN",
+   "cat": "parking",
+   "pkg": "co.asteroidea.parkingtn",
+   "note": "Parken zahlen in Zone bleue, App von Mon Parking",
+   "city": "Tunis",
+   "use": "ok",
+   "src": "https://monparking.tn/"
   }
  ]
 }

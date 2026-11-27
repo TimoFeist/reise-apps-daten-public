@@ -175,6 +175,222 @@
    "use": "no",
    "req": "Peruanisches Konto oder DNI nötig",
    "src": "https://www.yape.com.pe"
+  },
+  {
+   "name": "Línea 1 del Metro de Lima",
+   "cat": "transit",
+   "pkg": "com.lineauno.pe",
+   "note": "Offizielle App der Metro Linie 1, Karte aufladen",
+   "city": "Lima",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lineauno.pe"
+  },
+  {
+   "name": "TuRuta",
+   "cat": "transit",
+   "pkg": "pe.tumicro.android",
+   "note": "Verbreiteter Routenplaner für Busse in Lima",
+   "city": "Lima",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pe.tumicro.android"
+  },
+  {
+   "name": "Cruz del Sur",
+   "cat": "rail",
+   "pkg": "pe.com.cds",
+   "note": "Große Fernbuslinie, Tickets buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pe.com.cds"
+  },
+  {
+   "name": "Civa",
+   "cat": "rail",
+   "pkg": "com.kupos.civa",
+   "note": "Fernbuslinie Civa, Tickets buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.kupos.civa"
+  },
+  {
+   "name": "Peru Hop",
+   "cat": "rail",
+   "pkg": "info.peruhop.twa",
+   "note": "Hop on Hop off Bus für Rucksackreisende",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=info.peruhop.twa"
+  },
+  {
+   "name": "Viaje Seguro",
+   "cat": "safety",
+   "pkg": "pe.gob.sutran.viajeseguro",
+   "note": "Busunternehmen und Fahrten prüfen, SUTRAN",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pe.gob.sutran.viajeseguro"
+  },
+  {
+   "name": "Taxi Satelital 3555555",
+   "cat": "taxi",
+   "pkg": "com.virtual.taxi3555555",
+   "note": "Bekannte Taxizentrale in Lima",
+   "city": "Lima",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.virtual.taxi3555555"
+  },
+  {
+   "name": "Taxitel",
+   "cat": "taxi",
+   "pkg": "net.touchsf.taxitel.cliente",
+   "note": "Taxizentrale für Arequipa und den Süden",
+   "city": "Arequipa",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=net.touchsf.taxitel.cliente"
+  },
+  {
+   "name": "DiscoverCars",
+   "cat": "carshare",
+   "pkg": "com.ni.discovercars",
+   "note": "Mietwagen vergleichen und buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ni.discovercars"
+  },
+  {
+   "name": "CityBike Lima",
+   "cat": "micro",
+   "pkg": "com.choosit.smoovelima",
+   "note": "Leihradsystem in Lima",
+   "city": "Lima",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.choosit.smoovelima"
+  },
+  {
+   "name": "Tottus",
+   "cat": "delivery",
+   "pkg": "com.tottus",
+   "note": "Supermarkt Tottus mit schneller Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tottus"
+  },
+  {
+   "name": "Supermercados Metro",
+   "cat": "delivery",
+   "pkg": "com.cencosud.pe.metro",
+   "note": "Supermarkt Metro, Lieferung und Abholung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.cencosud.pe.metro"
+  },
+  {
+   "name": "Supermercados Wong",
+   "cat": "delivery",
+   "pkg": "com.cencosud.pe.wong",
+   "note": "Supermarkt Wong, Lieferung und Abholung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.cencosud.pe.wong"
+  },
+  {
+   "name": "Tambo",
+   "cat": "delivery",
+   "pkg": "com.getjusto.apps.tambope",
+   "note": "Lieferung der Minimarktkette Tambo",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.getjusto.apps.tambope"
+  },
+  {
+   "name": "Inkafarma",
+   "cat": "shopping",
+   "pkg": "com.globant.inkafarma",
+   "note": "Größte Apothekenkette, Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.globant.inkafarma"
+  },
+  {
+   "name": "Real Plaza",
+   "cat": "shopping",
+   "pkg": "com.realplazago.app",
+   "note": "Einkaufszentren Real Plaza, Läden und Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.realplazago.app"
+  },
+  {
+   "name": "TuBoleto Machu Picchu",
+   "cat": "tourism",
+   "note": "Offizielle Eintrittskarten, Web des Kulturministeriums",
+   "city": "Machu Picchu",
+   "use": "ok",
+   "url": "https://tuboleto.cultura.pe/llaqta_machupicchu",
+   "nostore": true,
+   "src": "https://www.machupicchu.gob.pe/online-tickets/?lang=en"
+  },
+  {
+   "name": "SENAMHI PERU Móvil",
+   "cat": "safety",
+   "pkg": "pe.gob.senamhi.appv2",
+   "note": "Offizieller Wetterdienst mit Warnungen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pe.gob.senamhi.appv2"
+  },
+  {
+   "name": "Lima Segura",
+   "cat": "safety",
+   "pkg": "pe.gob.munlima.limasegura",
+   "note": "Notfallmeldung der Stadt Lima",
+   "city": "Lima",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pe.gob.munlima.limasegura"
+  },
+  {
+   "name": "Bienvenido al Perú",
+   "cat": "entry",
+   "pkg": "pe.gob.sunat.controladuanero.pasajero.declaracion",
+   "note": "Zollerklärung bei Einreise, SUNAT",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pe.gob.sunat.controladuanero.pasajero.declaracion"
+  },
+  {
+   "name": "MigraCheck",
+   "cat": "entry",
+   "pkg": "pe.gob.migraciones.migracheck",
+   "note": "Aufenthaltsstatus bei der Migrationsbehörde prüfen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=pe.gob.migraciones.migracheck"
+  },
+  {
+   "name": "Waze",
+   "cat": "maps",
+   "pkg": "com.waze",
+   "note": "In Lima verbreitete Navigation mit Stauinfos",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.waze"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "note": "Offlinekarten für Anden und Wanderwege",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=app.organicmaps"
+  },
+  {
+   "name": "LATAM Airlines",
+   "cat": "flights",
+   "pkg": "com.latam.xp",
+   "note": "Größte Fluggesellschaft im Land",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.latam.xp"
+  },
+  {
+   "name": "SKY Airline",
+   "cat": "flights",
+   "pkg": "com.skyairline",
+   "note": "Billigflieger mit vielen Inlandsflügen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.skyairline"
+  },
+  {
+   "name": "Despegar",
+   "cat": "hotels",
+   "pkg": "com.gm.despegar",
+   "note": "Führendes Reiseportal Lateinamerikas",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.gm.despegar"
   }
  ],
  "fetched": "2026-11-23"

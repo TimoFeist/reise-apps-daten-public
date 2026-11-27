@@ -235,6 +235,56 @@
    "url": "https://www.meteo.gov.gh",
    "nostore": true,
    "src": "https://www.meteo.gov.gh"
+  },
+  {
+   "name": "GoRide",
+   "cat": "transit",
+   "pkg": "com.tapngogh.goride",
+   "note": "Pendlerfahrten in Ghana, vom Tap n Go Betreiber",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tapngogh.goride"
+  },
+  {
+   "name": "STC Ticketing",
+   "cat": "rail",
+   "note": "Fernbus STC: Buchung über die Webseite",
+   "use": "limited",
+   "req": "Buchungsseite war 2026 zeitweise gestört",
+   "url": "https://stcticketing.gov.gh",
+   "nostore": true,
+   "src": "https://www.ghanaweb.com/GhanaHomePage/business/STC-booking-platform-down-frustrating-customers-2016960"
+  },
+  {
+   "name": "GoMyGo",
+   "cat": "rail",
+   "pkg": "com.gomygo.gomygo",
+   "note": "Fernbus Tickets mehrerer Busfirmen",
+   "use": "ok",
+   "src": "https://gomygo.com"
+  },
+  {
+   "name": "Yango Lite",
+   "cat": "taxi",
+   "pkg": "com.yango.lite",
+   "note": "Leichte Version von Yango für schwaches Netz",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.yango.lite"
+  },
+  {
+   "name": "Glovo",
+   "cat": "delivery",
+   "pkg": "com.glovo",
+   "note": "Essen und Einkäufe in Accra und Kumasi",
+   "use": "ok",
+   "src": "https://glovoapp.com/gh/en/accra/"
+  },
+  {
+   "name": "Jumia",
+   "cat": "shopping",
+   "pkg": "com.jumia.android",
+   "note": "Größter Onlinehändler, auch Essen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.jumia.android"
   }
  ]
 }

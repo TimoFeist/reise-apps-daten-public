@@ -251,6 +251,119 @@
    "url": "https://azerbaijan.travel/",
    "nostore": true,
    "src": "https://azertag.az/en/xeber/azerbaijantravel_platform_to_be_further_developed-4375065"
+  },
+  {
+   "name": "Baku Metropolitan",
+   "cat": "transit",
+   "pkg": "com.crocusoft.metro",
+   "note": "Offizielle Metro-App: Route, Fahrplan, QR-Ticket",
+   "city": "Baku",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.crocusoft.metro",
+   "src": "https://metro.gov.az/en"
+  },
+  {
+   "name": "189 Taxi",
+   "cat": "taxi",
+   "pkg": "app.crocusoft.taxi189",
+   "note": "Große Taxizentrale in Baku mit App",
+   "city": "Baku",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=app.crocusoft.taxi189",
+   "src": "https://play.google.com/store/apps/details?id=app.crocusoft.taxi189"
+  },
+  {
+   "name": "Ekonom Taksi *9111",
+   "cat": "taxi",
+   "pkg": "com.ekonom.taxi",
+   "note": "Günstige Taxizentrale in Baku",
+   "city": "Baku",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ekonom.taxi",
+   "src": "https://play.google.com/store/apps/details?id=com.ekonom.taxi"
+  },
+  {
+   "name": "Maxim",
+   "cat": "taxi",
+   "pkg": "com.taxsee.taxsee",
+   "note": "Taxi und Lieferung, in Baku, Ganja, Sumqayit",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.taxsee.taxsee",
+   "src": "https://taximaxim.com/az/en/"
+  },
+  {
+   "name": "2GIS",
+   "cat": "maps",
+   "pkg": "ru.dublgis.dgismobile",
+   "note": "Offlinekarte mit Firmen und ÖPNV, deckt Baku ab",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile",
+   "src": "https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile"
+  },
+  {
+   "name": "Yandex Maps",
+   "cat": "maps",
+   "pkg": "ru.yandex.yandexmaps",
+   "note": "Karte und Navigation, in Aserbaidschan verbreitet",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps",
+   "src": "https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps"
+  },
+  {
+   "name": "AZAL",
+   "cat": "flights",
+   "pkg": "az.azal.app",
+   "note": "Nationale Airline Azerbaijan Airlines, Buchung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=az.azal.app",
+   "src": "https://play.google.com/store/apps/details?id=az.azal.app"
+  },
+  {
+   "name": "Icherisheher app",
+   "cat": "tourism",
+   "pkg": "az.gov.icherisheher",
+   "note": "Offizieller Führer der Altstadt Icherisheher",
+   "city": "Baku",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=az.gov.icherisheher",
+   "src": "https://play.google.com/store/apps/details?id=az.gov.icherisheher"
+  },
+  {
+   "name": "Bravo Supermarket",
+   "cat": "shopping",
+   "pkg": "az.bravosupermarket.app",
+   "note": "Große Supermarktkette, Angebote und Filialen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=az.bravosupermarket.app",
+   "src": "https://play.google.com/store/apps/details?id=az.bravosupermarket.app"
+  },
+  {
+   "name": "OBA Plus",
+   "cat": "shopping",
+   "pkg": "com.oba.market",
+   "note": "Discounter OBA mit Treueprogramm und Filialen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.oba.market",
+   "src": "https://play.google.com/store/apps/details?id=com.oba.market"
+  },
+  {
+   "name": "Bazarstore",
+   "cat": "shopping",
+   "pkg": "com.azersun.bazarstore",
+   "note": "Supermarktkette Bazarstore, Angebote",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.azersun.bazarstore",
+   "src": "https://play.google.com/store/apps/details?id=com.azersun.bazarstore"
+  },
+  {
+   "name": "Birmarket",
+   "cat": "shopping",
+   "pkg": "com.competo.umicoloy",
+   "note": "Größter Onlinemarktplatz des Landes",
+   "use": "limited",
+   "req": "Lieferadresse in Aserbaidschan",
+   "url": "https://play.google.com/store/apps/details?id=com.competo.umicoloy",
+   "src": "https://play.google.com/store/apps/details?id=com.competo.umicoloy"
   }
  ],
  "replace": [

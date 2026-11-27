@@ -476,6 +476,15 @@
    "note": "Hypermarkt Big C, Angebote und Lieferung",
    "use": "ok",
    "src": "https://play.google.com/store/apps/details?id=com.t2p.bigc"
+  },
+  {
+   "name": "TADA",
+   "cat": "taxi",
+   "pkg": "io.mvlchain.tada",
+   "note": "Fahrdienst in Bangkok ohne Provision",
+   "city": "Bangkok",
+   "use": "ok",
+   "src": "https://tada.global/"
   }
  ]
 }

@@ -257,6 +257,218 @@
    "use": "no",
    "req": "IIN, Konto bei Kaspi und lokale Nummer nötig",
    "src": "https://wiki.private.law/en/kaspi-bank"
+  },
+  {
+   "name": "City Transportation Systems",
+   "cat": "transit",
+   "pkg": "kz.cts",
+   "note": "Transcard Astana, QR Zahlung, Busse live auf Karte",
+   "city": "Astana",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.cts"
+  },
+  {
+   "name": "Парковки Астаны ЦОДД",
+   "cat": "parking",
+   "pkg": "kz.uims.parking.mobile",
+   "note": "Städtisches Parken Astana des Verkehrszentrums",
+   "city": "Astana",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.uims.parking.mobile"
+  },
+  {
+   "name": "Moovit",
+   "cat": "transit",
+   "pkg": "com.tranzmate",
+   "note": "Routenplaner für Busse in mehreren Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.tranzmate"
+  },
+  {
+   "name": "Freedom Travel ЖД билеты",
+   "cat": "rail",
+   "pkg": "kz.aviata.railway",
+   "note": "Zugtickets KTZ und Talgo buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.aviata.railway"
+  },
+  {
+   "name": "Tickets.kz",
+   "cat": "rail",
+   "pkg": "kz.tickets.avia",
+   "note": "Zug und Flugtickets innerhalb Kasachstans",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.tickets.avia"
+  },
+  {
+   "name": "Atlasbus",
+   "cat": "rail",
+   "pkg": "ru.atlasbus.app",
+   "note": "Fernbustickets zwischen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ru.atlasbus.app"
+  },
+  {
+   "name": "APARU",
+   "cat": "taxi",
+   "pkg": "kz.aparu.aparupassenger",
+   "note": "Kasachischer Fahrdienst, viele Städte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.aparu.aparupassenger"
+  },
+  {
+   "name": "Maxim",
+   "cat": "taxi",
+   "pkg": "com.taxsee.taxsee",
+   "note": "Günstiger Taxidienst in vielen Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.taxsee.taxsee"
+  },
+  {
+   "name": "Tez Taxi",
+   "cat": "taxi",
+   "pkg": "kz.nidge.tez_taxi.tez_taxi",
+   "note": "Lokaler Taxidienst Kasachstan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.nidge.tez_taxi.tez_taxi"
+  },
+  {
+   "name": "Drivee",
+   "cat": "taxi",
+   "pkg": "com.drivee.taxi.rides",
+   "note": "Fahrdienst mit Preisvorschlag",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.drivee.taxi.rides"
+  },
+  {
+   "name": "Yandex Eats",
+   "cat": "delivery",
+   "pkg": "ru.foodfox.client",
+   "note": "Essen und Lebensmittel liefern lassen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=ru.foodfox.client"
+  },
+  {
+   "name": "Arbuz.kz",
+   "cat": "delivery",
+   "pkg": "kz.arbuz.arbuzkz",
+   "note": "Online Supermarkt Almaty und Astana",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.arbuz.arbuzkz"
+  },
+  {
+   "name": "MagnumGO",
+   "cat": "delivery",
+   "pkg": "kz.magnum.go.android",
+   "note": "Lieferdienst der Supermarktkette Magnum",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.magnum.go.android"
+  },
+  {
+   "name": "Small Food",
+   "cat": "delivery",
+   "pkg": "kz.skiftrade.app.small.food",
+   "note": "Lebensmittellieferung der Kette Small",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.skiftrade.app.small.food"
+  },
+  {
+   "name": "Airba Fresh",
+   "cat": "delivery",
+   "pkg": "kz.airba",
+   "note": "Schnelle Lebensmittellieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.airba"
+  },
+  {
+   "name": "Magnum Club",
+   "cat": "shopping",
+   "pkg": "kz.magnum.app",
+   "note": "Kundenkarte und Angebote der Kette Magnum",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.magnum.app"
+  },
+  {
+   "name": "Shymbulak Mountain Resort",
+   "cat": "tourism",
+   "pkg": "kz.shymbulak",
+   "note": "Skigebiet Shymbulak, Skipass und Seilbahn",
+   "city": "Almaty",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.shymbulak"
+  },
+  {
+   "name": "eQonaq",
+   "cat": "entry",
+   "pkg": "kz.eqonaq.app",
+   "note": "Gästeregistrierung für Ausländer, Kazakh Tourism",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.eqonaq.app"
+  },
+  {
+   "name": "AirKz",
+   "cat": "safety",
+   "pkg": "kz.khm.airkz",
+   "note": "Luftqualität vom Wetterdienst Kazhydromet",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.khm.airkz"
+  },
+  {
+   "name": "Air Astana",
+   "cat": "flights",
+   "pkg": "kz.MobyDev.AirAstana",
+   "note": "Nationale Fluggesellschaft",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.MobyDev.AirAstana"
+  },
+  {
+   "name": "FlyArystan",
+   "cat": "flights",
+   "pkg": "kz.flyarystan",
+   "note": "Billigflieger von Air Astana",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.flyarystan"
+  },
+  {
+   "name": "SCAT Airlines",
+   "cat": "flights",
+   "pkg": "com.flyscat.scat",
+   "note": "Kasachische Fluggesellschaft",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.flyscat.scat"
+  },
+  {
+   "name": "Freedom Travel (Aviata)",
+   "cat": "flights",
+   "pkg": "kz.glatis.aviata",
+   "note": "Führendes Flugportal Kasachstans",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.glatis.aviata"
+  },
+  {
+   "name": "Kaztour.kz",
+   "cat": "hotels",
+   "pkg": "kz.kaztour.app",
+   "note": "Touren und Unterkünfte in Kasachstan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.kaztour.app"
+  },
+  {
+   "name": "Freedom SuperApp",
+   "cat": "payment",
+   "pkg": "ffinbank.MyFreedom",
+   "note": "Bank App Freedom, nur mit Konto im Land",
+   "use": "no",
+   "req": "Kasachisches Konto und IIN nötig",
+   "src": "https://play.google.com/store/apps/details?id=ffinbank.MyFreedom"
+  },
+  {
+   "name": "Krisha.kz",
+   "cat": "hotels",
+   "pkg": "kz.krisha",
+   "note": "Wohnungen auch tageweise mieten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=kz.krisha"
   }
  ],
  "replace": [

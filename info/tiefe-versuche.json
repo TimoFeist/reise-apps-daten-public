@@ -1,5 +1,9 @@
 {
  "laender": {
+  "AD": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
   "AE": "2026-11-26",
   "AM": {
    "am": "2026-11-27",
@@ -11,13 +15,25 @@
   },
   "AT": "2026-11-26",
   "AU": "2026-11-26",
+  "AZ": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
   "BA": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
+  "BD": {
    "am": "2026-11-27",
    "regionen": true
   },
   "BE": "2026-11-26",
   "BG": {
    "am": "2026-11-26",
+   "regionen": true
+  },
+  "BO": {
+   "am": "2026-11-27",
    "regionen": true
   },
   "BR": "2026-11-26",
@@ -45,6 +61,14 @@
    "regionen": true
   },
   "DE": "2026-11-26",
+  "DK": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
+  "EC": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
   "EE": {
    "am": "2026-11-27",
    "regionen": true
@@ -61,6 +85,10 @@
   "FR": "2026-11-26",
   "GB": "2026-11-26",
   "GE": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
+  "GH": {
    "am": "2026-11-27",
    "regionen": true
   },
@@ -107,11 +135,19 @@
    "regionen": true
   },
   "JP": "2026-11-26",
+  "KE": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
   "KH": {
    "am": "2026-11-27",
    "regionen": true
   },
   "KR": "2026-11-26",
+  "KZ": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
   "LT": {
    "am": "2026-11-26",
    "regionen": true
@@ -132,6 +168,10 @@
    "am": "2026-11-27",
    "regionen": true
   },
+  "MU": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
   "MX": {
    "am": "2026-11-26",
    "regionen": true
@@ -145,8 +185,16 @@
    "regionen": true
   },
   "NO": "2026-11-26",
+  "NP": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
   "NZ": "2026-11-26",
   "OM": {
+   "am": "2026-11-27",
+   "regionen": true
+  },
+  "PE": {
    "am": "2026-11-27",
    "regionen": true
   },

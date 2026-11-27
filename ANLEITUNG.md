@@ -40,6 +40,8 @@ Findet sich bei bento.travel, beim Betreiber oder bei Stadt und Tourismusbehörd
 
 Alle Regeln gelten weiter: nichts erfinden, Paketnamen selbst prüfen, `use`/`req` ehrlich setzen.
 
+**Nicht offiziell heißt nicht streichen:** Ist eine App nicht eindeutig vom Betreiber, zuerst die offizielle App suchen. Auf der Seite des Betreibers, der Stadt oder Behörde nachsehen, welche App sie verlinkt und wo man sie bekommt: Google Play, offizielle Downloadseite (`url` + `nostore: true`), AppGallery oder Web-App. Eine App eines Dienstleisters gilt als offiziell, wenn der Betreiber sie verlinkt; `src` ist dann diese Betreiberseite. Nur wenn belegt keine offizielle App existiert, die Drittanbieter-App weglassen.
+
 ## Automatische Store-Prüfung (wöchentlich)
 
 Die GitHub Action „Store-Prüfung“ ruft jeden Montag alle Paketnamen bei Google Play ab (`tools/store_check.py`) und schreibt Auffälligkeiten nach `queue/store-pruefung.json`: Apps, die es nicht mehr gibt, und Apps, deren Play-Titel sich stark geändert hat. Jeder Pflege-Lauf arbeitet diese Liste zuerst ab: Nachfolger oder Web-Angebot suchen und per `replace` eintragen, sonst `discontinued`. Erledigte Einträge aus der Liste entfernen.

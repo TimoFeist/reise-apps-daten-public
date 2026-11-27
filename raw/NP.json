@@ -1,26 +1,496 @@
-{"src": "https://www.bento.travel/nepal", "fetched": "2026-11-20", "updated": "Last updated: August 2026", "note": "Deutsche brauchen ein Visum: seit 17.8.2026 als E-Visum online oder weiter bei Ankunft (15 Tage 30 USD, 30 Tage 50 USD, 90 Tage 125 USD). Reisepass muss noch 6 Monate gültig sein, außerhalb der Städte Bargeld in Rupien mitnehmen.", "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, in der eher konservativen Öffentlichkeit wird aber Zurückhaltung empfohlen.", "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nepal-node/nepalsicherheit-221216", "discontinued": [{"name": "Tootle", "pkg": "", "src": "https://www.bento.travel/nepal/ride-hailing"}], "apps": [
-{"name": "Nepal Immigration Online Visa", "cat": "entry", "pkg": "", "ess": true, "note": "Offizielles Portal für E-Visum und Antrag vor Ankunft, keine App", "city": "", "use": "ok", "req": "", "src": "https://discover.passportindex.org/policy-and-regulations/nepal-prepares-to-fully-launch-its-e-visa-system-on-august-17-2026/"},
-{"name": "FNMIS (Foreign Nationals Management Information System)", "cat": "entry", "pkg": "", "ess": false, "note": "Freiwillige Vorab-Registrierung, QR-Code bei Hotels und Flügen zeigen", "city": "", "use": "ok", "req": "", "src": "https://kathmandupost.com/money/2025/12/24/why-nepal-is-launching-a-system-to-track-foreign-nationals"},
-{"name": "Nepal Tourism Board TIMS Card", "cat": "tourism", "pkg": "", "ess": false, "note": "Pflichtregistrierung für Trekker, Guide in Nationalparks nötig", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "Pathao", "cat": "taxi", "pkg": "com.pathao.user", "ess": true, "note": "Verbreitete App für Motorrad und Autofahrten", "city": "", "use": "no", "req": "Telefonnummer aus Nepal oder Bangladesch nötig, vorher lokale SIM kaufen", "src": "https://www.bento.travel/nepal/ride-hailing"},
-{"name": "inDrive", "cat": "taxi", "pkg": "sinet.startup.inDriver", "ess": true, "note": "Preis selbst vorschlagen und Fahrer auswählen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal/ride-hailing"},
-{"name": "Uber", "cat": "taxi", "pkg": "com.ubercab", "ess": false, "note": "Seit Juni 2026 im Kathmandutal, Angebot noch dünn", "city": "Kathmandu", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal/ride-hailing"},
-{"name": "Yango", "cat": "taxi", "pkg": "com.yandex.yango", "ess": false, "note": "Fahrten zum Festpreis, oft günstig", "city": "Kathmandu", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal/ride-hailing"},
-{"name": "Pathao Rental", "cat": "carshare", "pkg": "com.pathao.user", "ess": false, "note": "Auto oder Bus mit Fahrer mieten, Buchung bis 7 Tage vorab", "city": "", "use": "no", "req": "Läuft im Pathao-Konto, dafür Telefonnummer aus Nepal oder Bangladesch nötig", "src": "https://kathmandupost.com/money/2025/04/14/rental-service-added-in-pathao-ride-sharing-app"},
-{"name": "Foodmandu", "cat": "delivery", "pkg": "com.app.foodmandu", "ess": true, "note": "Lieferdienst in Kathmandu, Pokhara, Chitwan und Butwal", "city": "", "use": "limited", "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt, Barzahlung als Ausweg", "src": "https://www.bento.travel/nepal/food-delivery"},
-{"name": "Pathao Food", "cat": "delivery", "pkg": "com.pathao.user", "ess": true, "note": "Restaurantlieferung im selben Konto wie die Fahrten", "city": "Kathmandu", "use": "no", "req": "Lokale Telefonnummer nötig", "src": "https://www.bento.travel/nepal/food-delivery"},
-{"name": "BHOJ", "cat": "delivery", "pkg": "com.app.bhojdeals", "ess": false, "note": "Früher Bhojdeals, auch spät abends, aber Stornos gemeldet", "city": "", "use": "limited", "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt", "src": "https://www.bento.travel/nepal/food-delivery"},
-{"name": "Nepal Now", "cat": "payment", "pkg": "com.fonepay.international", "ess": false, "note": "Prepaidkarte für Besucher, Zahlen an Fonepay-QR-Codes", "city": "", "use": "limited", "req": "Ab 18 Jahren, Reisepass und Visum werden geprüft, nur in Nepal, Aufladen per Visa oder Mastercard", "src": "https://fonepay.com/content/Nepal-Now-tnc"},
-{"name": "eSewa", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitete Wallet der Einheimischen für QR-Zahlungen", "city": "", "use": "no", "req": "Registrierung mit nepalesischer National ID nötig", "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/"},
-{"name": "Khalti", "cat": "payment", "pkg": "", "ess": false, "note": "Verbreitete Wallet der Einheimischen für QR-Zahlungen", "city": "", "use": "no", "req": "Registrierung mit nepalesischer National ID nötig", "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/"},
-{"name": "Viber", "cat": "misc", "pkg": "com.viber.voip", "ess": false, "note": "Zweiter Messenger, den viele Kontakte nutzen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "Mapy.com", "cat": "maps", "pkg": "cz.seznam.mapy", "ess": true, "note": "Wanderkarte mit Offline-Daten für Trekkingrouten", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "Organic Maps", "cat": "maps", "pkg": "app.organicmaps", "ess": false, "note": "Kostenlose Offline-Karte ohne Konto", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "Sajha Plus", "cat": "transit", "pkg": "com.slashplus.sajhaplus.sajha_plus", "ess": false, "note": "Nur für Busse von Sajha Yatayat, Daten lückenhaft", "city": "Kathmandu", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "KTM Public Transport", "cat": "transit", "pkg": "", "ess": false, "note": "Busse im Kathmandutal live verfolgen, mit Ankunftszeit", "city": "Kathmandu", "use": "ok", "req": "", "src": "https://english.onlinekhabar.com/mobile-app-launched-to-track-public-transport-in-kathmandu-valley.html"},
-{"name": "YenDe KMC Walking App", "cat": "tourism", "pkg": "", "ess": false, "note": "Altstadtrundgang von Kasthamandap bis Swayambhu", "city": "Kathmandu", "use": "ok", "req": "", "src": "https://apps.apple.com/us/app/id1623154511"},
-{"name": "BusSewa", "cat": "rail", "pkg": "com.diyalo.bussewa", "ess": true, "note": "Fernbusse mit Sitzplatzwahl, dazu Flüge buchen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "Buddha Air", "cat": "flights", "pkg": "com.shirantech.buddhaair", "ess": false, "note": "App der Airline für Inlandsflüge", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "Tourist Police Nepal", "cat": "safety", "pkg": "", "ess": true, "note": "Kontakte und Notrufnummern der Touristenpolizei", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"},
-{"name": "BIPAD Portal", "cat": "safety", "pkg": "", "ess": false, "note": "Staatliches Portal zu Naturgefahren und Warnungen", "city": "", "use": "ok", "req": "", "src": "https://www.bento.travel/nepal"}
-]}
+{
+ "src": "https://www.bento.travel/nepal",
+ "fetched": "2026-11-20",
+ "updated": "Last updated: August 2026",
+ "note": "Deutsche brauchen ein Visum: seit 17.8.2026 als E-Visum online oder weiter bei Ankunft (15 Tage 30 USD, 30 Tage 50 USD, 90 Tage 125 USD). Reisepass muss noch 6 Monate gültig sein, außerhalb der Städte Bargeld in Rupien mitnehmen.",
+ "lgbtq_note": "Homosexuelle Handlungen sind nicht strafbar, in der eher konservativen Öffentlichkeit wird aber Zurückhaltung empfohlen.",
+ "lgbtq_src": "https://www.auswaertiges-amt.de/de/service/laender/nepal-node/nepalsicherheit-221216",
+ "discontinued": [
+  {
+   "name": "Tootle",
+   "pkg": "",
+   "src": "https://www.bento.travel/nepal/ride-hailing"
+  }
+ ],
+ "apps": [
+  {
+   "name": "Nepal Immigration Online Visa",
+   "cat": "entry",
+   "pkg": "",
+   "ess": true,
+   "note": "Offizielles Portal für E-Visum und Antrag vor Ankunft, keine App",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://discover.passportindex.org/policy-and-regulations/nepal-prepares-to-fully-launch-its-e-visa-system-on-august-17-2026/"
+  },
+  {
+   "name": "FNMIS (Foreign Nationals Management Information System)",
+   "cat": "entry",
+   "pkg": "",
+   "ess": false,
+   "note": "Freiwillige Vorab-Registrierung, QR-Code bei Hotels und Flügen zeigen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://kathmandupost.com/money/2025/12/24/why-nepal-is-launching-a-system-to-track-foreign-nationals"
+  },
+  {
+   "name": "Nepal Tourism Board TIMS Card",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Pflichtregistrierung für Trekker, Guide in Nationalparks nötig",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "Pathao",
+   "cat": "taxi",
+   "pkg": "com.pathao.user",
+   "ess": true,
+   "note": "Verbreitete App für Motorrad und Autofahrten",
+   "city": "",
+   "use": "no",
+   "req": "Telefonnummer aus Nepal oder Bangladesch nötig, vorher lokale SIM kaufen",
+   "src": "https://www.bento.travel/nepal/ride-hailing"
+  },
+  {
+   "name": "inDrive",
+   "cat": "taxi",
+   "pkg": "sinet.startup.inDriver",
+   "ess": true,
+   "note": "Preis selbst vorschlagen und Fahrer auswählen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal/ride-hailing"
+  },
+  {
+   "name": "Uber",
+   "cat": "taxi",
+   "pkg": "com.ubercab",
+   "ess": false,
+   "note": "Seit Juni 2026 im Kathmandutal, Angebot noch dünn",
+   "city": "Kathmandu",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal/ride-hailing"
+  },
+  {
+   "name": "Yango",
+   "cat": "taxi",
+   "pkg": "com.yandex.yango",
+   "ess": false,
+   "note": "Fahrten zum Festpreis, oft günstig",
+   "city": "Kathmandu",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal/ride-hailing"
+  },
+  {
+   "name": "Pathao Rental",
+   "cat": "carshare",
+   "pkg": "com.pathao.user",
+   "ess": false,
+   "note": "Auto oder Bus mit Fahrer mieten, Buchung bis 7 Tage vorab",
+   "city": "",
+   "use": "no",
+   "req": "Läuft im Pathao-Konto, dafür Telefonnummer aus Nepal oder Bangladesch nötig",
+   "src": "https://kathmandupost.com/money/2025/04/14/rental-service-added-in-pathao-ride-sharing-app"
+  },
+  {
+   "name": "Foodmandu",
+   "cat": "delivery",
+   "pkg": "com.app.foodmandu",
+   "ess": true,
+   "note": "Lieferdienst in Kathmandu, Pokhara, Chitwan und Butwal",
+   "city": "",
+   "use": "limited",
+   "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt, Barzahlung als Ausweg",
+   "src": "https://www.bento.travel/nepal/food-delivery"
+  },
+  {
+   "name": "Pathao Food",
+   "cat": "delivery",
+   "pkg": "com.pathao.user",
+   "ess": true,
+   "note": "Restaurantlieferung im selben Konto wie die Fahrten",
+   "city": "Kathmandu",
+   "use": "no",
+   "req": "Lokale Telefonnummer nötig",
+   "src": "https://www.bento.travel/nepal/food-delivery"
+  },
+  {
+   "name": "BHOJ",
+   "cat": "delivery",
+   "pkg": "com.app.bhojdeals",
+   "ess": false,
+   "note": "Früher Bhojdeals, auch spät abends, aber Stornos gemeldet",
+   "city": "",
+   "use": "limited",
+   "req": "Ob ausländische Nummer und Karte gehen, ist nicht bestätigt",
+   "src": "https://www.bento.travel/nepal/food-delivery"
+  },
+  {
+   "name": "Nepal Now",
+   "cat": "payment",
+   "pkg": "com.fonepay.international",
+   "ess": false,
+   "note": "Prepaidkarte für Besucher, Zahlen an Fonepay-QR-Codes",
+   "city": "",
+   "use": "limited",
+   "req": "Ab 18 Jahren, Reisepass und Visum werden geprüft, nur in Nepal, Aufladen per Visa oder Mastercard",
+   "src": "https://fonepay.com/content/Nepal-Now-tnc"
+  },
+  {
+   "name": "eSewa",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete Wallet der Einheimischen für QR-Zahlungen",
+   "city": "",
+   "use": "no",
+   "req": "Registrierung mit nepalesischer National ID nötig",
+   "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/"
+  },
+  {
+   "name": "Khalti",
+   "cat": "payment",
+   "pkg": "",
+   "ess": false,
+   "note": "Verbreitete Wallet der Einheimischen für QR-Zahlungen",
+   "city": "",
+   "use": "no",
+   "req": "Registrierung mit nepalesischer National ID nötig",
+   "src": "https://gadgetbytenepal.com/national-id-verification-for-digital-wallets-in-nepal/"
+  },
+  {
+   "name": "Viber",
+   "cat": "misc",
+   "pkg": "com.viber.voip",
+   "ess": false,
+   "note": "Zweiter Messenger, den viele Kontakte nutzen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "Mapy.com",
+   "cat": "maps",
+   "pkg": "cz.seznam.mapy",
+   "ess": true,
+   "note": "Wanderkarte mit Offline-Daten für Trekkingrouten",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "Organic Maps",
+   "cat": "maps",
+   "pkg": "app.organicmaps",
+   "ess": false,
+   "note": "Kostenlose Offline-Karte ohne Konto",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "Sajha Plus",
+   "cat": "transit",
+   "pkg": "com.slashplus.sajhaplus.sajha_plus",
+   "ess": false,
+   "note": "Nur für Busse von Sajha Yatayat, Daten lückenhaft",
+   "city": "Kathmandu",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "KTM Public Transport",
+   "cat": "transit",
+   "pkg": "",
+   "ess": false,
+   "note": "Busse im Kathmandutal live verfolgen, mit Ankunftszeit",
+   "city": "Kathmandu",
+   "use": "ok",
+   "req": "",
+   "src": "https://english.onlinekhabar.com/mobile-app-launched-to-track-public-transport-in-kathmandu-valley.html"
+  },
+  {
+   "name": "YenDe KMC Walking App",
+   "cat": "tourism",
+   "pkg": "",
+   "ess": false,
+   "note": "Altstadtrundgang von Kasthamandap bis Swayambhu",
+   "city": "Kathmandu",
+   "use": "ok",
+   "req": "",
+   "src": "https://apps.apple.com/us/app/id1623154511"
+  },
+  {
+   "name": "BusSewa",
+   "cat": "rail",
+   "pkg": "com.diyalo.bussewa",
+   "ess": true,
+   "note": "Fernbusse mit Sitzplatzwahl, dazu Flüge buchen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "Buddha Air",
+   "cat": "flights",
+   "pkg": "com.shirantech.buddhaair",
+   "ess": false,
+   "note": "App der Airline für Inlandsflüge",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "Tourist Police Nepal",
+   "cat": "safety",
+   "pkg": "",
+   "ess": true,
+   "note": "Kontakte und Notrufnummern der Touristenpolizei",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "BIPAD Portal",
+   "cat": "safety",
+   "pkg": "",
+   "ess": false,
+   "note": "Staatliches Portal zu Naturgefahren und Warnungen",
+   "city": "",
+   "use": "ok",
+   "req": "",
+   "src": "https://www.bento.travel/nepal"
+  },
+  {
+   "name": "Tootle",
+   "cat": "taxi",
+   "pkg": "com.three60.cabioclient",
+   "note": "Motorradtaxi per App im Kathmandutal",
+   "city": "Kathmandu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.three60.cabioclient"
+  },
+  {
+   "name": "Sajilo",
+   "cat": "taxi",
+   "pkg": "com.sajilo.user",
+   "note": "Nepalesischer Fahrdienst für Motorrad und Auto",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sajilo.user"
+  },
+  {
+   "name": "Taximandu",
+   "cat": "taxi",
+   "pkg": "com.taximandu.user",
+   "note": "Taxi, Motorrad und Auto buchen",
+   "city": "Kathmandu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.taximandu.user"
+  },
+  {
+   "name": "GoMyGo",
+   "cat": "rail",
+   "pkg": "com.gomygo.gomygo",
+   "note": "Fernbustickets in ganz Nepal online kaufen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.gomygo.gomygo"
+  },
+  {
+   "name": "Swift Holidays",
+   "cat": "rail",
+   "pkg": "swift.holidays.passenger.app",
+   "note": "Touristenbusse etwa nach Pokhara und Chitwan",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=swift.holidays.passenger.app"
+  },
+  {
+   "name": "Sajilo Rental",
+   "cat": "carshare",
+   "pkg": "com.vedaItPvtLtd.sajiloRental",
+   "note": "Autos und Motorräder mieten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.vedaItPvtLtd.sajiloRental"
+  },
+  {
+   "name": "eDriveNepal",
+   "cat": "carshare",
+   "pkg": "com.driveNepal.apk",
+   "note": "Mietwagen mit Fahrer buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.driveNepal.apk"
+  },
+  {
+   "name": "BhojMandu",
+   "cat": "delivery",
+   "pkg": "com.bhojmandu.online",
+   "note": "Essenslieferung im Kathmandutal",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.bhojmandu.online"
+  },
+  {
+   "name": "Goket",
+   "cat": "delivery",
+   "pkg": "com.goketgroceries.app",
+   "note": "Lebensmittel nach Hause liefern lassen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.goketgroceries.app"
+  },
+  {
+   "name": "Fonepay",
+   "cat": "payment",
+   "pkg": "com.fonepay",
+   "note": "Bezahlen per QR Code im ganzen Land",
+   "use": "no",
+   "req": "Nepalesisches Bankkonto nötig",
+   "src": "https://fonepay.com"
+  },
+  {
+   "name": "IME Pay",
+   "cat": "payment",
+   "pkg": "com.swifttechnology.imepay",
+   "note": "Verbreitete mobile Geldbörse",
+   "use": "limited",
+   "req": "Nepalesische Nummer und Ausweisprüfung",
+   "src": "https://play.google.com/store/apps/details?id=com.swifttechnology.imepay"
+  },
+  {
+   "name": "Namaste Pay",
+   "cat": "payment",
+   "pkg": "app.namasteypay.consumer",
+   "note": "Mobile Geldbörse von Nepal Digital Payments",
+   "use": "limited",
+   "req": "Nepalesische Nummer nötig",
+   "src": "https://play.google.com/store/apps/details?id=app.namasteypay.consumer"
+  },
+  {
+   "name": "Nepal Weather Official",
+   "cat": "safety",
+   "pkg": "np.gov.dhm.nepalweather",
+   "note": "Amtliches Wetter und Warnungen des Wetterdienstes",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=np.gov.dhm.nepalweather"
+  },
+  {
+   "name": "Nepal Police",
+   "cat": "safety",
+   "pkg": "com.pathway.nepalpolice",
+   "note": "Offizielle App der Polizei mit Notrufhilfe",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.pathway.nepalpolice"
+  },
+  {
+   "name": "Galli Maps",
+   "cat": "maps",
+   "pkg": "map.galliexpress",
+   "note": "Nepalesische Karte mit genauen Adressen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=map.galliexpress"
+  },
+  {
+   "name": "Baato Maps",
+   "cat": "maps",
+   "pkg": "io.baato",
+   "note": "Lokale Karte und Navigation für Nepal",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=io.baato"
+  },
+  {
+   "name": "Nepal Airlines",
+   "cat": "flights",
+   "pkg": "com.hititcs.nepalair",
+   "note": "Nationale Fluggesellschaft, buchen und einchecken",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.hititcs.nepalair"
+  },
+  {
+   "name": "Yeti Airlines",
+   "cat": "flights",
+   "pkg": "com.ekbana.yetiairlines",
+   "note": "Inlandsflüge etwa nach Pokhara und Lukla",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ekbana.yetiairlines"
+  },
+  {
+   "name": "Shree Airlines",
+   "cat": "flights",
+   "pkg": "com.np.shreeairlines",
+   "note": "Inlandsflüge buchen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.np.shreeairlines"
+  },
+  {
+   "name": "Himalaya Airlines",
+   "cat": "flights",
+   "pkg": "com.hititcs.him",
+   "note": "Internationale Flüge ab Kathmandu",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.hititcs.him"
+  },
+  {
+   "name": "Bhat Bhateni Loyalty",
+   "cat": "shopping",
+   "pkg": "com.ims.bhatbhatini",
+   "note": "Größte Supermarktkette, Angebote und Treuepunkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.ims.bhatbhatini"
+  },
+  {
+   "name": "Daraz",
+   "cat": "shopping",
+   "pkg": "com.daraz.android",
+   "note": "Größter Onlinemarktplatz des Landes",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.daraz.android"
+  },
+  {
+   "name": "Hamro Patro",
+   "cat": "misc",
+   "pkg": "com.hamropatro",
+   "note": "Nepalesischer Kalender mit Festen und Feiertagen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.hamropatro"
+  },
+  {
+   "name": "Ncell App",
+   "cat": "misc",
+   "pkg": "com.mventus.ncell.activity",
+   "note": "Guthaben und Datenpakete für Ncell SIM",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.mventus.ncell.activity"
+  },
+  {
+   "name": "Nepal Telecom",
+   "cat": "misc",
+   "pkg": "shirantech.android.nepaltelecom",
+   "note": "Guthaben und Pakete für NTC SIM",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=shirantech.android.nepaltelecom"
+  },
+  {
+   "name": "Lumbini Tickets",
+   "cat": "tourism",
+   "note": "Eintrittskarten Lumbini, Web App des Trusts",
+   "city": "Lumbini",
+   "use": "ok",
+   "url": "https://tickets.lumbinidevtrust.gov.np/",
+   "nostore": true,
+   "src": "https://lumbinidevtrust.gov.np"
+  }
+ ]
+}

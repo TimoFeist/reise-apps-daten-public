@@ -237,6 +237,263 @@
    "use": "no",
    "req": "Dänische Telefonnummer nötig",
    "src": "https://lawinsider.com/da/contracts/lC3DXiIDkko"
+  },
+  {
+   "name": "Metroen",
+   "cat": "transit",
+   "pkg": "dk.m.metroselskabetapp",
+   "note": "Metro Kopenhagen: Betriebslage und Infos",
+   "city": "Kopenhagen",
+   "use": "ok",
+   "src": "https://m.dk"
+  },
+  {
+   "name": "Midttrafik live",
+   "cat": "transit",
+   "pkg": "dk.midttrafik.live",
+   "note": "Busse und Letbane Aarhus in Echtzeit",
+   "city": "Aarhus",
+   "use": "ok",
+   "src": "https://www.midttrafik.dk"
+  },
+  {
+   "name": "Kombardo Expressen",
+   "cat": "rail",
+   "pkg": "dk.molslinjen.kombardo",
+   "note": "Fernbus und Fähre Kopenhagen Aarhus",
+   "use": "ok",
+   "src": "https://www.kombardo.dk"
+  },
+  {
+   "name": "Molslinjen",
+   "cat": "rail",
+   "pkg": "dk.molslinien",
+   "note": "Fähren nach Bornholm, Aarhus, Als, Fanø",
+   "use": "ok",
+   "src": "https://www.molslinjen.dk"
+  },
+  {
+   "name": "Scandlines",
+   "cat": "rail",
+   "pkg": "lsretail.loyalty.android.scandlines",
+   "note": "Fähren Puttgarden und Rostock nach Dänemark",
+   "use": "ok",
+   "src": "https://www.scandlines.de"
+  },
+  {
+   "name": "Flextrafik",
+   "cat": "rail",
+   "pkg": "dk.flexdanmark.flextrafik",
+   "note": "Rufbus und Flextur auf dem Land",
+   "use": "ok",
+   "src": "https://www.flexdanmark.dk"
+  },
+  {
+   "name": "TAXA 4x35",
+   "cat": "taxi",
+   "pkg": "com.taxa4x35.taxabooking",
+   "note": "Große Taxizentrale Kopenhagen",
+   "city": "Kopenhagen",
+   "use": "ok",
+   "src": "https://www.taxa.dk"
+  },
+  {
+   "name": "Aarhus Taxa",
+   "cat": "taxi",
+   "pkg": "dk.bnr.aarhustaxa",
+   "note": "Taxizentrale Aarhus",
+   "city": "Aarhus",
+   "use": "ok",
+   "src": "https://www.aarhustaxa.dk"
+  },
+  {
+   "name": "GoMore",
+   "cat": "carshare",
+   "pkg": "dk.gomore",
+   "note": "Privatautos mieten und Mitfahrten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.gomore"
+  },
+  {
+   "name": "SIXT",
+   "cat": "carshare",
+   "pkg": "com.sixt.reservation",
+   "note": "Mietwagen und Carsharing",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.sixt.reservation"
+  },
+  {
+   "name": "Europcar",
+   "cat": "carshare",
+   "pkg": "com.clanmo.europcar",
+   "note": "Mietwagen und Transporter",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.clanmo.europcar"
+  },
+  {
+   "name": "Hertz",
+   "cat": "carshare",
+   "pkg": "com.hertz.android.digital",
+   "note": "Mietwagen an Flughäfen und Städten",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.hertz.android.digital"
+  },
+  {
+   "name": "APCOA FLOW",
+   "cat": "parking",
+   "pkg": "com.europark.mobilparkering",
+   "note": "Parkhäuser und Plätze von APCOA",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.europark.mobilparkering"
+  },
+  {
+   "name": "Q-Park",
+   "cat": "parking",
+   "pkg": "com.qpark.mobilepark.android",
+   "note": "Parkhäuser von Q-Park bezahlen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.qpark.mobilepark.android"
+  },
+  {
+   "name": "ParkOne",
+   "cat": "parking",
+   "pkg": "dk.parkone.ParkOne",
+   "note": "Parkplätze von ParkOne per App",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.parkone.ParkOne"
+  },
+  {
+   "name": "Just Eat",
+   "cat": "delivery",
+   "pkg": "com.justeat.app.dk",
+   "note": "Essen bestellen, großer Lieferdienst",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.justeat.app.dk"
+  },
+  {
+   "name": "BilkaToGo",
+   "cat": "delivery",
+   "pkg": "dk.dsg.bilkatogo",
+   "note": "Lebensmittel online, Abholung oder Lieferung",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.dsg.bilkatogo"
+  },
+  {
+   "name": "The Copenhagen App",
+   "cat": "tourism",
+   "pkg": "dk.kk.cphvisitorguide",
+   "note": "Offizielle Stadt App mit Tipps und Karte",
+   "city": "Kopenhagen",
+   "use": "ok",
+   "src": "https://www.kk.dk"
+  },
+  {
+   "name": "Tivoli Gardens",
+   "cat": "tourism",
+   "pkg": "dk.magnetix.tivoliapp",
+   "note": "Freizeitpark Tivoli: Tickets und Karte",
+   "city": "Kopenhagen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.magnetix.tivoliapp"
+  },
+  {
+   "name": "Opdag Aarhus",
+   "cat": "tourism",
+   "pkg": "dk.combine.opdagaarhus",
+   "note": "Stadtrundgänge der Stadt Aarhus",
+   "city": "Aarhus",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.combine.opdagaarhus"
+  },
+  {
+   "name": "LEGOLAND Billund Resort",
+   "cat": "tourism",
+   "pkg": "com.merlin.llb",
+   "note": "Parkkarte, Wartezeiten, Tickets",
+   "city": "Billund",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.merlin.llb"
+  },
+  {
+   "name": "TV 2 Vejr",
+   "cat": "safety",
+   "pkg": "dk.tv2.vejr",
+   "note": "Wetter und Warnungen von TV 2",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.tv2.vejr"
+  },
+  {
+   "name": "SAS",
+   "cat": "flights",
+   "pkg": "se.sas.android",
+   "note": "Nationale Airline Skandinaviens",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=se.sas.android"
+  },
+  {
+   "name": "Norwegian",
+   "cat": "flights",
+   "pkg": "com.norwegian.travelassistant",
+   "note": "Billigflieger mit vielen Zielen ab Dänemark",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.norwegian.travelassistant"
+  },
+  {
+   "name": "Netto+",
+   "cat": "shopping",
+   "pkg": "dk.dsg.netto",
+   "note": "Discounter: Angebote und Scan and Go",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.dsg.netto"
+  },
+  {
+   "name": "føtex plus",
+   "cat": "shopping",
+   "pkg": "dk.dsg.foetex",
+   "note": "Supermarkt: Angebote und Coupons",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.dsg.foetex"
+  },
+  {
+   "name": "Coop",
+   "cat": "shopping",
+   "pkg": "dk.coop.coopplus",
+   "note": "Coop, Kvickly, SuperBrugsen: Angebote",
+   "use": "limited",
+   "req": "Mitgliedschaft für Rabatte",
+   "src": "https://play.google.com/store/apps/details?id=dk.coop.coopplus"
+  },
+  {
+   "name": "REMA 1000",
+   "cat": "shopping",
+   "pkg": "dk.iroots.rema1000",
+   "note": "Discounter: Angebote und Filialen",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.iroots.rema1000"
+  },
+  {
+   "name": "Lidl Plus",
+   "cat": "shopping",
+   "pkg": "com.lidl.eci.lidlplus",
+   "note": "Coupons und Angebote bei Lidl",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.lidl.eci.lidlplus"
+  },
+  {
+   "name": "7-Eleven",
+   "cat": "shopping",
+   "pkg": "dk.releaze.seveneleven",
+   "note": "Kioske an Bahnhöfen, Angebote",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=dk.releaze.seveneleven"
+  },
+  {
+   "name": "eTilbudsavis",
+   "cat": "shopping",
+   "pkg": "com.eTilbudsavis.eTilbudsavis",
+   "note": "Prospekte aller Supermärkte",
+   "use": "ok",
+   "src": "https://play.google.com/store/apps/details?id=com.eTilbudsavis.eTilbudsavis"
   }
  ]
 }

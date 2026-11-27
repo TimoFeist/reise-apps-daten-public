@@ -398,6 +398,16 @@
    "city": "Košice",
    "use": "ok",
    "src": "https://play.google.com/store/apps/details?id=antik.sk.cityapp.mestokosice"
+  },
+  {
+   "name": "TANAP Mapový portál",
+   "cat": "tourism",
+   "note": "Wegekarte des Nationalparks, Web-App auf tanap.sk",
+   "city": "High Tatras",
+   "use": "ok",
+   "url": "https://experience.arcgis.com/experience/6f94be622bcc4fa4bb1b53c14ae37518",
+   "nostore": true,
+   "src": "https://www.tanap.sk/"
   }
  ],
  "lgbtq_note": "Gleichgeschlechtliche Beziehungen sind legal, aber rechtlich nicht anerkannt, seit 2025 kennt die Verfassung nur zwei Geschlechter.",

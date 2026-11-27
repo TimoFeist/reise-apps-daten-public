@@ -519,6 +519,15 @@
    "note": "Hostels buchen, Firma aus Dublin",
    "use": "ok",
    "src": "https://play.google.com/store/apps/details?id=com.hostelworld.app"
+  },
+  {
+   "name": "Satellite Taxis",
+   "cat": "taxi",
+   "pkg": "com.taxi.satellite",
+   "note": "Taxi bestellen in Cork, App des Betreibers",
+   "city": "Cork",
+   "use": "ok",
+   "src": "https://www.satellitetaxis.ie/satellite-app"
   }
  ]
 }

@@ -209,6 +209,152 @@
    "use": "no",
    "req": "Bangladeschische SIM und Ausweis nötig",
    "src": "https://play.google.com/store/apps/details?id=com.konasl.nagad"
+  },
+  {
+   "name": "OBHAI",
+   "cat": "taxi",
+   "pkg": "com.obhai",
+   "note": "Fahrdienst für Auto, CNG und Motorrad",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.obhai",
+   "src": "https://play.google.com/store/apps/details?id=com.obhai"
+  },
+  {
+   "name": "Chaldal",
+   "cat": "delivery",
+   "pkg": "com.chaldal.poached",
+   "note": "Lebensmittel-Lieferdienst in Dhaka und Chattogram",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.chaldal.poached",
+   "src": "https://play.google.com/store/apps/details?id=com.chaldal.poached"
+  },
+  {
+   "name": "Garibook",
+   "cat": "carshare",
+   "pkg": "com.garibook.user",
+   "note": "Mietwagen mit Fahrer für Stadt und Reisen",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.garibook.user",
+   "src": "https://play.google.com/store/apps/details?id=com.garibook.user"
+  },
+  {
+   "name": "Jatri",
+   "cat": "rail",
+   "pkg": "com.jatri.jatriuser",
+   "note": "Bustickets, Mietwagen und Reiseplanung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.jatri.jatriuser",
+   "src": "https://play.google.com/store/apps/details?id=com.jatri.jatriuser"
+  },
+  {
+   "name": "bdtickets",
+   "cat": "rail",
+   "pkg": "com.bdtickets.bd",
+   "note": "Fernbus-Tickets von Robi, viele Linien",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.bdtickets.bd",
+   "src": "https://play.google.com/store/apps/details?id=com.bdtickets.bd"
+  },
+  {
+   "name": "Shohoz Launch",
+   "cat": "rail",
+   "pkg": "com.shohoz.launch.consumer",
+   "note": "Tickets für Fähren und Flussdampfer (Launch)",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.shohoz.launch.consumer",
+   "src": "https://play.google.com/store/apps/details?id=com.shohoz.launch.consumer"
+  },
+  {
+   "name": "BD 999",
+   "cat": "safety",
+   "pkg": "com.trinity.Bangladesh999",
+   "note": "Offizielle Notruf-App der Polizei (999)",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.trinity.Bangladesh999",
+   "src": "https://play.google.com/store/apps/details?id=com.trinity.Bangladesh999"
+  },
+  {
+   "name": "Abohawa (BMD)",
+   "cat": "safety",
+   "pkg": "bd.gov.bmd.abohawa",
+   "note": "Offizielle Wetter-App des Wetterdienstes BMD",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=bd.gov.bmd.abohawa",
+   "src": "https://play.google.com/store/apps/details?id=bd.gov.bmd.abohawa"
+  },
+  {
+   "name": "Barikoi Maps",
+   "cat": "maps",
+   "pkg": "com.barikoi.barikoi",
+   "note": "Lokale Karte mit genauen Adressen in Bangladesch",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.barikoi.barikoi",
+   "src": "https://play.google.com/store/apps/details?id=com.barikoi.barikoi"
+  },
+  {
+   "name": "Biman",
+   "cat": "flights",
+   "pkg": "com.BimanAirlines.Biman",
+   "note": "Nationale Airline Biman Bangladesh",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.BimanAirlines.Biman",
+   "src": "https://play.google.com/store/apps/details?id=com.BimanAirlines.Biman"
+  },
+  {
+   "name": "HSIA Digital Airport Service",
+   "cat": "flights",
+   "pkg": "com.ptsl.caab",
+   "note": "Offizielle Flughafen-App Dhaka der Luftfahrtbehörde",
+   "city": "Dhaka",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.ptsl.caab",
+   "src": "https://play.google.com/store/apps/details?id=com.ptsl.caab"
+  },
+  {
+   "name": "ShareTrip",
+   "cat": "hotels",
+   "pkg": "net.sharetrip",
+   "note": "Führendes Reiseportal für Hotels und Flüge",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=net.sharetrip",
+   "src": "https://play.google.com/store/apps/details?id=net.sharetrip"
+  },
+  {
+   "name": "GoZayaan",
+   "cat": "hotels",
+   "pkg": "com.gozayaan.app",
+   "note": "Hotels, Flüge und Touren in Bangladesch",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.gozayaan.app",
+   "src": "https://play.google.com/store/apps/details?id=com.gozayaan.app"
+  },
+  {
+   "name": "Shwapno",
+   "cat": "shopping",
+   "pkg": "com.shwapno",
+   "note": "Größte Supermarktkette, Angebote und Lieferung",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.shwapno",
+   "src": "https://play.google.com/store/apps/details?id=com.shwapno"
+  },
+  {
+   "name": "Daraz",
+   "cat": "shopping",
+   "pkg": "com.daraz.android",
+   "note": "Größter Onlinehändler des Landes",
+   "use": "limited",
+   "req": "Lieferadresse in Bangladesch",
+   "url": "https://play.google.com/store/apps/details?id=com.daraz.android",
+   "src": "https://play.google.com/store/apps/details?id=com.daraz.android"
+  },
+  {
+   "name": "imo",
+   "cat": "misc",
+   "pkg": "com.imo.android.imoim",
+   "note": "In Bangladesch sehr verbreiteter Messenger",
+   "use": "ok",
+   "url": "https://play.google.com/store/apps/details?id=com.imo.android.imoim",
+   "src": "https://play.google.com/store/apps/details?id=com.imo.android.imoim"
   }
  ]
 }
