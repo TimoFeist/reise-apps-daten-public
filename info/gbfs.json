@@ -1,7 +1,7 @@
 {
 "src": "https://raw.githubusercontent.com/MobilityData/gbfs/master/systems.csv",
 "license": "CC BY 3.0, MobilityData",
-"checked": "2026-11-27",
+"checked": "2026-11-28",
 "systems": [
 {
 "id": "dott-abu-dhabi",
@@ -1303,15 +1303,6 @@
 "ff": [
 "bicycle"
 ]
-},
-{
-"id": "nextbike_cq",
-"cc": "CZ",
-"loc": "Pelhřimov",
-"name": "nextbike Pelhřimov",
-"url": "https://www.nextbikeczech.com/",
-"pkg": "de.nextbike",
-"ff": []
 },
 {
 "id": "nextbike_ty",
@@ -8146,15 +8137,6 @@
 "name": "Getaround",
 "url": "https://getaround.com/car-rental/arendal",
 "pkg": "com.c4mprod.voiturelib",
-"ff": []
-},
-{
-"id": "boltsarpsborg",
-"cc": "NO",
-"loc": "Arpsborg",
-"name": "Bolt",
-"url": "https://www.bolt.eu/",
-"pkg": "ee.mtakso.client",
 "ff": []
 },
 {
